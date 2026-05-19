@@ -1,8 +1,8 @@
 = Friendly 1925
 
 # Date       Sun Feb/22 - Sun Dec/13 1925 (294d)
-# Teams      37
-# Matches    63
+# Teams      36
+# Matches    62
 
 [Sun Feb 22]
   Luxembourg - Brittany  1-1   @ Luxembourg, Luxembourg
@@ -37,15 +37,13 @@
 [Thu May 21]
   France - England  2-3   @ Colombes, France
   Hungary - Belgium  1-3   @ Budapest, Hungary
-[Fri May 22]
-  Philippines - China PR  1-5   @ Manila, Philippines
 [Sun May 24]
   Czechoslovakia - Austria  3-1   @ Prague, Czechoslovakia
   Switzerland - Belgium  0-0   @ Lausanne, Switzerland
 [Sun May 31]
   Bulgaria - Romania  2-4   @ Sofia, Bulgaria
 [Mon Jun 1]
-  Switzerland - Spain  0-3   @ Berne, Switzerland
+  Switzerland - Spain  0-3   @ Bern, Switzerland
 [Sun Jun 7]
   Norway - Finland  1-0   @ Oslo, Norway
 [Tue Jun 9]
@@ -112,7 +110,7 @@
   Italy - Yugoslavia  2-1   @ Padua, Italy
 [Sun Nov 8]
   Hungary - Italy  1-1   @ Budapest, Hungary
-  Switzerland - Austria  2-0   @ Berne, Switzerland
+  Switzerland - Austria  2-0   @ Bern, Switzerland
   United States - Canada  6-1   @ New York, United States
 [Sun Dec 13]
   Belgium - Austria  3-4   @ Liège, Belgium

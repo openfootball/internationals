@@ -1,7 +1,7 @@
 = Friendly 1997
 
 # Date       Sat Jan/4 - Sun Dec/28 1997 (358d)
-# Teams      133
+# Teams      132
 # Matches    209
 
 [Sat Jan 4]
@@ -91,7 +91,7 @@
   Israel - Sweden  0-1   @ Ramat Gan, Israel
   North Macedonia - Australia  0-1   @ Skopje, North Macedonia
   Saudi Arabia - Indonesia  3-1   @ Dammam, Saudi Arabia
-  Serbia - Russia  0-0   @ Belgrade, Yugoslavia
+  Serbia - Russia  0-0   @ Belgrade, FR Yugoslavia
 [Thu Mar 13]
   El Salvador - Guatemala  0-0   @ San Salvador, El Salvador
 [Sat Mar 15]
@@ -344,7 +344,7 @@
   Cameroon - Togo  3-1   @ Cairo, Egypt
   Egypt - Algeria  1-2   @ Cairo, Egypt
 [Fri Dec 26]
-  Basque Country - Yugoslavia  3-1   @ Bilbao, Spain
+  Basque Country - Serbia  3-1   @ Bilbao, Spain
 [Sat Dec 27]
   Burkina Faso - Ivory Coast  2-0   @ Ouagadougou, Burkina Faso
 [Sun Dec 28]

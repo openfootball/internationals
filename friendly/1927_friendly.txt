@@ -1,8 +1,8 @@
 = Friendly 1927
 
 # Date       Sun Jan/2 - Sat Dec/10 1927 (342d)
-# Teams      34
-# Matches    58
+# Teams      31
+# Matches    55
 
 [Sun Jan 2]
   Belgium - Czechoslovakia  2-3   @ Liège, Belgium
@@ -76,12 +76,6 @@
   Estonia - Finland  2-1   @ Tallinn, Estonia
 [Sat Aug 13]
   Lithuania - Estonia  0-5   @ Kaunas, Lithuania
-[Sat Aug 27]
-  China PR - Japan  5-1   @ Shanghai, China PR
-[Mon Aug 29]
-  Japan - Philippines  2-1   @ Shanghai, China PR
-[Wed Aug 31]
-  China PR - Philippines  3-1   @ Shanghai, China PR
 [Sun Sep 4]
   Sweden - Belgium  7-0   @ Stockholm, Sweden
 [Sun Sep 11]

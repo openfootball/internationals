@@ -1,8 +1,8 @@
 = Friendly 1936
 
 # Date       Wed Jan/1 - Sun Dec/13 1936 (347d)
-# Teams      37
-# Matches    57
+# Teams      35
+# Matches    54
 
 [Wed Jan 1]
   French Guiana - Suriname  1-3   @ Cayenne, French Guiana
@@ -42,7 +42,7 @@
 [Sun May 3]
   Belgium - Netherlands  1-1   @ Brussels, Belgium
   Hungary - Republic of Ireland  3-3   @ Budapest, Hungary
-  Switzerland - Spain  0-2   @ Berne, Switzerland
+  Switzerland - Spain  0-2   @ Bern, Switzerland
 [Wed May 6]
   Austria - England  2-1   @ Vienna, Austria
 [Sat May 9]
@@ -68,14 +68,8 @@
   Sweden - Switzerland  5-2   @ Stockholm, Sweden
 [Tue Jun 30]
   Lithuania - Estonia  2-0   @ Kaunas, Lithuania
-[Sat Jul 4]
-  New Zealand - Australia  1-7   @ Dunedin, New Zealand
-[Sat Jul 11]
-  New Zealand - Australia  0-10   @ Wellington, New Zealand
 [Sun Jul 12]
   Turkey - Yugoslavia  3-3   @ Istanbul, Turkey
-[Sat Jul 18]
-  New Zealand - Australia  1-4   @ Auckland, New Zealand
 [Sun Jul 26]
   Sweden - Norway  3-4   @ Stockholm, Sweden
 [Sun Aug 9]

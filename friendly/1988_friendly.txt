@@ -1,8 +1,8 @@
 = Friendly 1988
 
 # Date       Sun Jan/3 - Fri Dec/30 1988 (362d)
-# Teams      109
-# Matches    236
+# Teams      106
+# Matches    226
 
 [Sun Jan 3]
   Gambia - Ghana  0-2   @ Banjul, Gambia
@@ -289,31 +289,16 @@
 [Wed Oct 12]
   Belgium - Brazil  1-2   @ Antwerp, Belgium
   Cyprus - Malta  0-1   @ Limassol, Cyprus
-  New Zealand - Australia  1-2   @ Dunedin, New Zealand
   Spain - Argentina  1-1   @ Seville, Spain
   Sweden - Portugal  0-0   @ Gothenburg, Sweden
   Uruguay - Paraguay  2-0   @ Montevideo, Uruguay
-[Sun Oct 16]
-  Australia - New Zealand  2-0   @ Bendigo, Australia
 [Tue Oct 18]
   Israel - Malta  2-0   @ Beer Sheva, Israel
 [Wed Oct 19]
   Republic of Ireland - Tunisia  4-0   @ Dublin, Republic of Ireland
   Italy - Norway  2-1   @ Pescara, Italy
-[Fri Oct 21]
-  Solomon Islands - Fiji  1-1   @ Honiara, Solomon Islands
-[Sun Oct 23]
-  New Caledonia - Vanuatu  6-1   @ Honiara, Solomon Islands
-[Mon Oct 24]
-  Fiji - Vanuatu  8-0   @ Honiara, Solomon Islands
-  Solomon Islands - New Caledonia  1-0   @ Honiara, Solomon Islands
-[Tue Oct 25]
-  Fiji - New Caledonia  2-0   @ Honiara, Solomon Islands
-  Solomon Islands - Vanuatu  5-0   @ Honiara, Solomon Islands
 [Wed Oct 26]
   Japan - South Korea  0-1   @ Tokyo, Japan
-  New Caledonia - Vanuatu  0-1   @ Honiara, Solomon Islands
-  Solomon Islands - Fiji  1-3   @ Honiara, Solomon Islands
 [Sat Oct 29]
   Algeria - Angola  1-1   @ Mascara, Algeria
 [Thu Nov 3]

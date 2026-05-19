@@ -1,0 +1,28 @@
+= Olympic Games 1912
+
+# Date       Sat Jun/29 - Fri Jul/5 1912 (6d)
+# Teams      10
+# Matches    14
+
+[Sat Jun 29]
+  Finland - Italy  3-2   @ Stockholm, Sweden
+  Austria - Germany  5-1   @ Stockholm, Sweden
+  Sweden - Netherlands  3-4   @ Stockholm, Sweden
+[Sun Jun 30]
+  Finland - Russia  2-1   @ Stockholm, Sweden
+  Denmark - Norway  7-0   @ Stockholm, Sweden
+  Netherlands - Austria  3-1   @ Stockholm, Sweden
+[Mon Jul 1]
+  Austria - Norway  1-0   @ Stockholm, Sweden
+  Germany - Russia  16-0   @ Stockholm, Sweden
+  Sweden - Italy  0-1   @ Stockholm, Sweden
+[Tue Jul 2]
+  Denmark - Netherlands  4-1   @ Stockholm, Sweden
+[Wed Jul 3]
+  Hungary - Germany  3-1   @ Stockholm, Sweden
+  Austria - Italy  5-1   @ Stockholm, Sweden
+[Thu Jul 4]
+  Netherlands - Finland  9-0   @ Stockholm, Sweden
+[Fri Jul 5]
+  Hungary - Austria  3-0   @ Stockholm, Sweden
+

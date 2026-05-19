@@ -1,8 +1,8 @@
 = Friendly 1930
 
 # Date       Wed Jan/1 - Sun Dec/7 1930 (340d)
-# Teams      37
-# Matches    59
+# Teams      36
+# Matches    58
 
 [Wed Jan 1]
   Spain - Czechoslovakia  1-0   @ Barcelona, Spain
@@ -46,8 +46,6 @@
   France - Scotland  0-2   @ Colombes, France
 [Sun May 25]
   Belgium - France  1-2   @ Liège, Belgium
-[Tue May 27]
-  China PR - Philippines  5-0   @ Tokyo, Japan
 [Thu May 29]
   Japan - China PR  3-3   @ Tokyo, Japan
 [Sun Jun 1]

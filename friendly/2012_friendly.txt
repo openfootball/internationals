@@ -2,7 +2,7 @@
 
 # Date       Fri Jan/6 - Sun Dec/30 2012 (359d)
 # Teams      186
-# Matches    410
+# Matches    409
 
 [Fri Jan 6]
   Equatorial Guinea - South Africa  0-0   @ Bata, Equatorial Guinea
@@ -113,7 +113,7 @@
   Slovenia - Scotland  1-1   @ Koper, Slovenia
   South Africa - Senegal  0-0   @ Durban, South Africa
   Spain - Venezuela  5-0   @ Málaga, Spain
-  Switzerland - Argentina  1-3   @ Berne, Switzerland
+  Switzerland - Argentina  1-3   @ Bern, Switzerland
   Tunisia - Peru  1-1   @ Tunis, Tunisia
   Turkey - Slovakia  1-2   @ Bursa, Turkey
   Wales - Costa Rica  0-1   @ Cardiff, Wales
@@ -227,7 +227,7 @@
   Azerbaijan - Andorra  0-0   @ Kelsterbach, Germany
   Chad - Rwanda  1-1   @ Port el-Kantaoui, Tunisia
   Netherlands - Slovakia  2-0   @ Rotterdam, Netherlands
-  Spain - South Korea  4-1   @ Berne, Switzerland
+  Spain - South Korea  4-1   @ Bern, Switzerland
   Sweden - Iceland  3-2   @ Gothenburg, Sweden
   Switzerland - Romania  0-1   @ Lucerne, Switzerland
   United States - Brazil  1-4   @ Washington, D.C., United States
@@ -331,7 +331,7 @@
   Denmark - Slovakia  1-3   @ Odense, Denmark
   Ecuador - Chile  3-0   @ New York, United States
   El Salvador - Jamaica  0-2   @ Washington, D.C., United States
-  England - Italy  2-1   @ Berne, Switzerland
+  England - Italy  2-1   @ Bern, Switzerland
   Equatorial Guinea - Liberia  1-0   @ Malabo, Equatorial Guinea
   Estonia - Poland  1-0   @ Tallinn, Estonia
   France - Uruguay  0-0   @ Le Havre, France
@@ -404,15 +404,14 @@
 [Thu Sep 20]
   Nepal - Bangladesh  1-1   @ Kathmandu, Nepal
 [Tue Sep 25]
-  Philippines - Guam  1-0   @ Manila, Philippines
   Abkhazia - Artsakh  1-1   @ Sukhumi, Georgia
 [Thu Sep 27]
-  Philippines - Macau  5-0   @ Manila, Philippines
+  Taiwan - Guam  2-0   @ Philippine Peace Cup, Philippines
 [Fri Sep 28]
   Oman - Yemen  2-1   @ Muscat, Oman
 [Sat Sep 29]
-  Macau - Guam  0-3   @ Manila, Philippines
-  Philippines - Taiwan  3-1   @ Manila, Philippines
+  Macau - Guam  0-3   @ Philippine Peace Cup, Philippines
+  Philippines - Taiwan  3-1   @ Philippine Peace Cup, Philippines
 [Thu Oct 11]
   Brazil - Iraq  6-0   @ Malmö, Sweden
   Kuwait - Syria  1-1   @ Muscat, Oman

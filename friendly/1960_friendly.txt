@@ -1,8 +1,8 @@
 = Friendly 1960
 
 # Date       Fri Jan/1 - Fri Dec/23 1960 (357d)
-# Teams      76
-# Matches    124
+# Teams      68
+# Matches    116
 
 [Fri Jan 1]
   Morocco - Yugoslavia  0-5   @ Casablanca, Morocco
@@ -36,17 +36,6 @@
   Switzerland - Chile  4-2   @ Basel, Switzerland
 [Wed Apr 13]
   Belgium - Chile  1-1   @ Brussels, Belgium
-[Thu Apr 14]
-  Cameroon - Djibouti  9-2   @ Antananarivo, Madagascar
-  Central African Republic - Mali  3-4   @ Antananarivo, Madagascar
-  Gabon - Burkina Faso  4-5   @ Antananarivo, Madagascar
-  Ivory Coast - Benin  3-2   @ Antananarivo, Madagascar
-[Fri Apr 15]
-  Cameroon - Mali  3-2   @ Antananarivo, Madagascar
-  Congo - Ivory Coast  3-2   @ Antananarivo, Madagascar
-  Madagascar - Burkina Faso  6-1   @ Antananarivo, Madagascar
-[Sun Apr 17]
-  Congo - Cameroon  4-5   @ Antananarivo, Madagascar
 [Wed Apr 20]
   Indonesia - Malaysia  5-0   @ Surakarta, Indonesia
 [Sun Apr 24]

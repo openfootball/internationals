@@ -1,8 +1,8 @@
 = Friendly 1989
 
 # Date       Wed Jan/4 - Sun Dec/31 1989 (361d)
-# Teams      100
-# Matches    201
+# Teams      95
+# Matches    191
 
 [Wed Jan 4]
   Israel - Netherlands  0-2   @ Ramat Gan, Israel
@@ -268,17 +268,10 @@
   Kuwait - Norway  2-2   @ Kuwait City, Kuwait
   Malta - German DR  0-4   @ Attard, Malta
   Trinidad and Tobago - Finland  2-0   @ Port of Spain, Trinidad and Tobago
-[Sat Oct 28]
-  Fiji - Papua New Guinea  2-1   @ Suva, Fiji
-  Solomon Islands - Vanuatu  2-0   @ Suva, Fiji
 [Mon Oct 30]
-  Fiji - Vanuatu  2-1   @ Suva, Fiji
   Kuwait - Lebanon  5-0   @ Kuwait City, Kuwait
-  New Caledonia - Solomon Islands  2-0   @ Suva, Fiji
 [Tue Oct 31]
-  Fiji - New Caledonia  3-0   @ Suva, Fiji
   Guinea - Iraq  1-0   @ Kuwait City, Kuwait
-  Papua New Guinea - Vanuatu  3-0   @ Suva, Fiji
 [Wed Nov 1]
   Iran - Yemen DPR  2-0   @ Kuwait City, Kuwait
   Tunisia - Algeria  0-0   @ Tunis, Tunisia
@@ -287,13 +280,9 @@
 [Fri Nov 3]
   Guinea - Iran  1-1   @ Kuwait City, Kuwait
   Iraq - Yemen DPR  6-2   @ Kuwait City, Kuwait
-  New Caledonia - Vanuatu  5-1   @ Ba, Fiji
-  Papua New Guinea - Solomon Islands  0-0   @ Suva, Fiji
   Qatar - Egypt  0-2   @ Doha, Qatar
 [Sat Nov 4]
-  Fiji - Solomon Islands  0-0   @ Suva, Fiji
   Kuwait - Uganda  1-1   @ Kuwait City, Kuwait
-  New Caledonia - Papua New Guinea  2-1   @ Suva, Fiji
 [Sun Nov 5]
   Guinea - Yemen DPR  0-1   @ Kuwait City, Kuwait
   Iran - Iraq  0-0   @ Kuwait City, Kuwait

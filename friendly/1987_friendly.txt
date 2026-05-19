@@ -1,8 +1,8 @@
 = Friendly 1987
 
 # Date       Sun Jan/4 - Wed Dec/23 1987 (353d)
-# Teams      107
-# Matches    149
+# Teams      105
+# Matches    147
 
 [Sun Jan 4]
   Barbados - Saint Vincent and the Grenadines  3-0   @ Bridgetown, Barbados
@@ -177,7 +177,6 @@
 [Sat Aug 29]
   Yugoslavia - Russia  0-1   @ Belgrade, Yugoslavia
 [Wed Sep 2]
-  Australia - New Zealand  1-1   @ Melbourne, Australia
   Poland - Romania  3-1   @ Bydgoszcz, Poland
 [Fri Sep 4]
   Guyana - Grenada  1-1   @ Georgetown, Guyana
@@ -186,7 +185,6 @@
 [Wed Sep 9]
   Germany - England  3-1   @ Düsseldorf, Germany
   Netherlands - Belgium  0-0   @ Rotterdam, Netherlands
-  New Zealand - Australia  1-0   @ Lower Hutt, New Zealand
   Scotland - Hungary  2-0   @ Glasgow, Scotland
 [Sun Sep 13]
   Guyana - Trinidad and Tobago  1-2   @ Georgetown, Guyana

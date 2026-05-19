@@ -1,8 +1,8 @@
 = Friendly 1933
 
 # Date       Sun Jan/1 - Thu Dec/14 1933 (347d)
-# Teams      34
-# Matches    63
+# Teams      32
+# Matches    60
 
 [Sun Jan 1]
   Italy - Germany  3-1   @ Bologna, Italy
@@ -42,7 +42,7 @@
 [Sat May 13]
   Italy - England  1-1   @ Rome, Italy
 [Sat May 20]
-  Switzerland - England  0-4   @ Berne, Switzerland
+  Switzerland - England  0-4   @ Bern, Switzerland
 [Sun May 21]
   Spain - Bulgaria  13-0   @ Madrid, Spain
 [Thu May 25]
@@ -51,18 +51,12 @@
   Latvia - Estonia  2-0   @ Riga, Latvia
 [Sun Jun 4]
   Poland - Belgium  0-1   @ Warsaw, Poland
-[Mon Jun 5]
-  Australia - New Zealand  4-2   @ Brisbane, Australia
 [Sat Jun 10]
   Czechoslovakia - France  4-0   @ Prague, Czechoslovakia
 [Sun Jun 11]
   Austria - Belgium  4-1   @ Vienna, Austria
 [Mon Jun 12]
   Latvia - Lithuania  6-2   @ Riga, Latvia
-[Sat Jun 17]
-  Australia - New Zealand  6-4   @ Sydney, Australia
-[Sat Jun 24]
-  Australia - New Zealand  4-2   @ Sydney, Australia
 [Sun Jul 2]
   Sweden - Hungary  5-2   @ Stockholm, Sweden
 [Tue Jul 4]

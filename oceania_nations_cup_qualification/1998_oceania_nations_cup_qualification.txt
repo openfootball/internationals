@@ -1,8 +1,8 @@
 = Oceania Nations Cup qualification 1998
 
-# Date       Wed Sep/2 - Sat Sep/12 1998 (10d)
-# Teams      10
-# Matches    20
+# Date       Wed Sep/2 - Tue Sep/8 1998 (6d)
+# Teams      5
+# Matches    10
 
 [Wed Sep 2]
   Cook Islands - Samoa  2-1   @ Avarua, Cook Islands
@@ -12,23 +12,11 @@
   Tahiti - Tonga  5-0   @ Avarua, Cook Islands
 [Sat Sep 5]
   Cook Islands - Tonga  2-2   @ Avarua, Cook Islands
-  Fiji - New Caledonia  3-0   @ Luganville, Vanuatu
-  Solomon Islands - Papua New Guinea  3-1   @ Luganville, Vanuatu
   Tahiti - Samoa  5-1   @ Avarua, Cook Islands
 [Mon Sep 7]
-  Papua New Guinea - New Caledonia  1-0   @ Luganville, Vanuatu
   Samoa - Tonga  2-0   @ Avarua, Cook Islands
   Tahiti - American Samoa  12-0   @ Avarua, Cook Islands
-  Vanuatu - Fiji  1-2   @ Luganville, Vanuatu
 [Tue Sep 8]
   Cook Islands - Tahiti  0-5   @ Avarua, Cook Islands
   Samoa - American Samoa  4-0   @ Avarua, Cook Islands
-  Solomon Islands - New Caledonia  3-2   @ Luganville, Vanuatu
-  Vanuatu - Papua New Guinea  1-1   @ Luganville, Vanuatu
-[Thu Sep 10]
-  Fiji - Papua New Guinea  2-0   @ Luganville, Vanuatu
-  Vanuatu - Solomon Islands  3-1   @ Luganville, Vanuatu
-[Sat Sep 12]
-  Fiji - Solomon Islands  1-1   @ Luganville, Vanuatu
-  Vanuatu - New Caledonia  3-2   @ Luganville, Vanuatu
 

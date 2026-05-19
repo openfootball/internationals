@@ -1,8 +1,8 @@
 = Friendly 1923
 
 # Date       Mon Jan/1 - Sun Dec/16 1923 (349d)
-# Teams      43
-# Matches    72
+# Teams      38
+# Matches    67
 
 [Mon Jan 1]
   Guatemala - Mexico  2-3   @ Guatemala City, Guatemala
@@ -46,23 +46,16 @@
   Germany - Netherlands  0-0   @ Hamburg, Germany
 [Mon May 21]
   Sweden - England  2-4   @ Stockholm, Sweden
-[Tue May 22]
-  China PR - Philippines  3-0   @ Osaka, Japan
 [Thu May 24]
-  Japan - China PR  1-5   @ Osaka, Japan
   Sweden - England  1-3   @ Solna, Sweden
 [Sun May 27]
   Czechoslovakia - Italy  5-1   @ Prague, Czechoslovakia
 [Sun Jun 3]
   Poland - Yugoslavia  1-2   @ Kraków, Poland
   Switzerland - Germany  1-2   @ Basel, Switzerland
-[Sat Jun 9]
-  Australia - New Zealand  2-1   @ Brisbane, Australia
 [Sun Jun 10]
   Romania - Yugoslavia  1-2   @ Bucharest, Romania
   Sweden - Austria  4-2   @ Gothenburg, Sweden
-[Sat Jun 16]
-  Australia - New Zealand  2-3   @ Sydney, Australia
 [Sun Jun 17]
   Denmark - Switzerland  3-2   @ Copenhagen, Denmark
   Norway - Finland  3-0   @ Kristiania, Norway
@@ -74,8 +67,6 @@
   Lithuania - Estonia  0-5   @ Kaunas, Lithuania
 [Fri Jun 29]
   Sweden - Germany  2-1   @ Stockholm, Sweden
-[Sat Jun 30]
-  Australia - New Zealand  1-4   @ Newcastle, Australia
 [Sun Jul 1]
   Romania - Czechoslovakia  0-6   @ Cluj, Romania
 [Sun Jul 15]

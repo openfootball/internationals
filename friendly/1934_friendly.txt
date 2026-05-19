@@ -1,8 +1,8 @@
 = Friendly 1934
 
 # Date       Sun Jan/14 - Sun Dec/16 1934 (336d)
-# Teams      36
-# Matches    49
+# Teams      32
+# Matches    44
 
 [Sun Jan 14]
   Germany - Hungary  3-1   @ Frankfurt am Main, Germany
@@ -26,18 +26,8 @@
 [Thu May 10]
   Hungary - England  2-1   @ Budapest, Hungary
   Netherlands - France  4-5   @ Amsterdam, Netherlands
-[Sat May 12]
-  Philippines - China PR  0-2   @ Manila, Philippines
-[Sun May 13]
-  Japan - Indonesia  1-7   @ Manila, Philippines
-[Mon May 14]
-  China PR - Indonesia  2-0   @ Manila, Philippines
 [Wed May 16]
   Czechoslovakia - England  2-1   @ Prague, Czechoslovakia
-[Sat May 19]
-  Philippines - Indonesia  3-2   @ Manila, Philippines
-[Sun May 20]
-  China PR - Japan  4-3   @ Manila, Philippines
 [Mon May 21]
   Denmark - Poland  4-2   @ Copenhagen, Denmark
 [Wed May 23]
@@ -89,7 +79,7 @@
   Latvia - Poland  2-6   @ Riga, Latvia
   Poland - Romania  3-3   @ Lwów, Poland
 [Sun Nov 4]
-  Switzerland - Netherlands  2-4   @ Berne, Switzerland
+  Switzerland - Netherlands  2-4   @ Bern, Switzerland
 [Wed Nov 14]
   England - Italy  3-2   @ London, England
 [Sun Dec 9]

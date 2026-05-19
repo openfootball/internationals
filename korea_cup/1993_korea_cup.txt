@@ -1,18 +1,11 @@
 = Korea Cup 1993
 
-# Date       Fri Jun/11 - Mon Jun/28 1993 (17d)
-# Teams      4
-# Matches    6
+# Date       Sat Jun/19 - Mon Jun/28 1993 (9d)
+# Teams      2
+# Matches    2
 
-[Fri Jun 11]
-  South Korea - Romania  2-2   @ Seoul, South Korea
-[Mon Jun 14]
-  South Korea - Czech Republic  1-2   @ Seoul, South Korea
 [Sat Jun 19]
   South Korea - Egypt  1-2   @ Seoul, South Korea
-[Sat Jun 26]
-  Egypt - Romania  3-2   @ Seoul, South Korea
-  South Korea - Czech Republic  1-0   @ Seoul, South Korea
 [Mon Jun 28]
   South Korea - Egypt  0-1   @ Seoul, South Korea
 
