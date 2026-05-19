@@ -1,13 +1,13 @@
 = Soccer Ashes 1954
 
-# Date       Sat Aug/14 - Sat Sep/4 1954 (21d)
+# Date       Sat Aug 14 - Sat Sep 4 1954 (21d)
 # Teams      2
 # Matches    3
 
-[Sat Aug 14]
-  Australia - New Zealand  1-2   @ Melbourne, Australia
-[Sat Aug 28]
-  Australia - New Zealand  4-1   @ Brisbane, Australia
-[Sat Sep 4]
-  Australia - New Zealand  4-1   @ Sydney, Australia
+Sat Aug 14
+  Australia            v New Zealand           1-2   @ Melbourne, Australia
+Sat Aug 28
+  Australia            v New Zealand           4-1   @ Brisbane, Australia
+Sat Sep 4
+  Australia            v New Zealand           4-1   @ Sydney, Australia
 

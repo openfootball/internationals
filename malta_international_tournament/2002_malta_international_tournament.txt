@@ -1,16 +1,16 @@
 = Malta International Tournament 2002
 
-# Date       Sat Feb/9 - Wed Feb/13 2002 (4d)
+# Date       Sat Feb 9 - Wed Feb 13 2002 (4d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 9]
-  Lithuania - Moldova  1-0   @ Attard, Malta
-  Malta - Jordan  2-1   @ Attard, Malta
-[Mon Feb 11]
-  Malta - Lithuania  1-1   @ Attard, Malta
-  Moldova - Jordan  2-0   @ Attard, Malta
-[Wed Feb 13]
-  Lithuania - Jordan  0-3   @ Attard, Malta
-  Malta - Moldova  3-0   @ Attard, Malta
+Sat Feb 9
+  Lithuania            v Moldova               1-0   @ Attard, Malta
+  Malta                v Jordan                2-1   @ Attard, Malta
+Mon Feb 11
+  Malta                v Lithuania             1-1   @ Attard, Malta
+  Moldova              v Jordan                2-0   @ Attard, Malta
+Wed Feb 13
+  Lithuania            v Jordan                0-3   @ Attard, Malta
+  Malta                v Moldova               3-0   @ Attard, Malta
 

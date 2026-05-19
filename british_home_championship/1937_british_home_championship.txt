@@ -1,19 +1,19 @@
 = British Home Championship 1937
 
-# Date       Wed Mar/17 - Wed Nov/17 1937 (245d)
+# Date       Wed Mar 17 - Wed Nov 17 1937 (245d)
 # Teams      4
 # Matches    6
 
-[Wed Mar 17]
-  Wales - Northern Ireland  4-1   @ Wrexham, Wales
-[Sat Apr 17]
-  Scotland - England  3-1   @ Glasgow, Scotland
-[Sat Oct 23]
-  Northern Ireland - England  1-5   @ Belfast, Northern Ireland
-[Sat Oct 30]
-  Wales - Scotland  2-1   @ Cardiff, Wales
-[Wed Nov 10]
-  Scotland - Northern Ireland  1-1   @ Aberdeen, Scotland
-[Wed Nov 17]
-  England - Wales  2-1   @ Middlesbrough, England
+Wed Mar 17
+  Wales                v Northern Ireland      4-1   @ Wrexham, Wales
+Sat Apr 17
+  Scotland             v England               3-1   @ Glasgow, Scotland
+Sat Oct 23
+  Northern Ireland     v England               1-5   @ Belfast, Northern Ireland
+Sat Oct 30
+  Wales                v Scotland              2-1   @ Cardiff, Wales
+Wed Nov 10
+  Scotland             v Northern Ireland      1-1   @ Aberdeen, Scotland
+Wed Nov 17
+  England              v Wales                 2-1   @ Middlesbrough, England
 

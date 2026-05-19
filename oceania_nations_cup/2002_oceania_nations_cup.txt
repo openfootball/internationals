@@ -1,52 +1,52 @@
 = Oceania Nations Cup 2002
 
-# Date       Fri Jul/5 - Sun Jul/14 2002 (9d)
+# Date       Fri Jul 5 - Sun Jul 14 2002 (9d)
 # Teams      8
 # Matches    16
 
-[Fri Jul 5]
-  New Zealand - Tahiti  4-0   @ North Shore, New Zealand
-     Ryan Nelsen 30' Ivan Vicelich 49' Paul Urlovic 80' Jeff Campbell 88'
-  Papua New Guinea - Solomon Islands  0-0   @ North Shore, New Zealand
-[Sat Jul 6]
-  Australia - Vanuatu  2-0   @ Auckland, New Zealand
-     Damian Mori 69' Bobby Despotovski 85'
-  Fiji - New Caledonia  2-1   @ Auckland, New Zealand
-     Veresa Toma 23' Junior Bukaudi 49';
-     Andre Sinedo 79'
-[Sun Jul 7]
-  New Zealand - Papua New Guinea  9-1   @ North Shore, New Zealand
-     Chris Killen 9' Chris Killen 10' Jeff Campbell 27' Chris Killen 28' Chris Killen 51' Ryan Nelsen 54' Jeff Campbell 85' Mark Burton 87' Raf de Gregorio 90';
-     Joe Aisa 35' (pen.)
-  Solomon Islands - Tahiti  2-3   @ North Shore, New Zealand
-     Patterson Daudau 8' Commins Menapi 25';
-     Sylvain Booene 42' Felix Tagawa 57' Steve Fatupua-Lecaill 90'
-[Mon Jul 8]
-  Australia - New Caledonia  11-0   @ Auckland, New Zealand
-     Bobby Despotovski 2' Steve Horvat 15' Scott Chipperfield 22' Damian Mori 34' Scott Chipperfield 35' Bobby Despotovski 56' (pen.) Bobby Despotovski 76' Bobby Despotovski 77' Angelo Costanzo 83' Joel Porter 86' Paul Trimboli 90'
-  Fiji - Vanuatu  0-1   @ Auckland, New Zealand
-     -; Willie August Marango 6'
-[Tue Jul 9]
-  New Zealand - Solomon Islands  6-1   @ North Shore, New Zealand
-     Ivan Vicelich 28' Paul Urlovic 42' Ivan Vicelich 45' Jeff Campbell 50' Jeff Campbell 75' Mark Burton 88';
-     Henry Fa'arodo 73'
-  Papua New Guinea - Tahiti  1-3   @ North Shore, New Zealand
-     Reginald Davani 43';
-     Samuel Garcia 29' Felix Tagawa 49' Felix Tagawa 64'
-[Wed Jul 10]
-  Australia - Fiji  8-0   @ Auckland, New Zealand
-     Ante Milicic 4' Joel Porter 7' Joel Porter 12' Ante Juric 36' Joel Porter 45' Paul Trimboli 46' Joel Porter 52' Fausto De Amicis 89'
-  New Caledonia - Vanuatu  0-1   @ Auckland, New Zealand
-     -; Richard Iwai 76'
-[Fri Jul 12]
-  Australia - Tahiti  2-1   @ Auckland, New Zealand
-     Joel Porter 88' Damian Mori 96';
-     Teva Zaveroni 38'
-  New Zealand - Vanuatu  3-0   @ Auckland, New Zealand
-     Mark Burton 13' Chris Killen 23' Mark Burton 65'
-[Sun Jul 14]
-  New Zealand - Australia  1-0   @ Auckland, New Zealand
-     Ryan Nelsen 78'
-  Tahiti - Vanuatu  1-0   @ Auckland, New Zealand
-     Tetahio Auraa 65'
+Fri Jul 5
+  New Zealand          v Tahiti                4-0   @ North Shore, New Zealand
+     (Ryan Nelsen 30' Ivan Vicelich 49' Paul Urlovic 80' Jeff Campbell 88')
+  Papua New Guinea     v Solomon Islands       0-0   @ North Shore, New Zealand
+Sat Jul 6
+  Australia            v Vanuatu               2-0   @ Auckland, New Zealand
+     (Damian Mori 69' Bobby Despotovski 85')
+  Fiji                 v New Caledonia         2-1   @ Auckland, New Zealand
+     (Veresa Toma 23' Junior Bukaudi 49';
+      Andre Sinedo 79')
+Sun Jul 7
+  New Zealand          v Papua New Guinea      9-1   @ North Shore, New Zealand
+     (Chris Killen 9' Chris Killen 10' Jeff Campbell 27' Chris Killen 28' Chris Killen 51' Ryan Nelsen 54' Jeff Campbell 85' Mark Burton 87' Raf de Gregorio 90';
+      Joe Aisa 35'(p))
+  Solomon Islands      v Tahiti                2-3   @ North Shore, New Zealand
+     (Patterson Daudau 8' Commins Menapi 25';
+      Sylvain Booene 42' Felix Tagawa 57' Steve Fatupua-Lecaill 90')
+Mon Jul 8
+  Australia            v New Caledonia         11-0   @ Auckland, New Zealand
+     (Bobby Despotovski 2' Steve Horvat 15' Scott Chipperfield 22' Damian Mori 34' Scott Chipperfield 35' Bobby Despotovski 56'(p) Bobby Despotovski 76' Bobby Despotovski 77' Angelo Costanzo 83' Joel Porter 86' Paul Trimboli 90')
+  Fiji                 v Vanuatu               0-1   @ Auckland, New Zealand
+     (Willie August Marango 6')
+Tue Jul 9
+  New Zealand          v Solomon Islands       6-1   @ North Shore, New Zealand
+     (Ivan Vicelich 28' Paul Urlovic 42' Ivan Vicelich 45' Jeff Campbell 50' Jeff Campbell 75' Mark Burton 88';
+      Henry Fa'arodo 73')
+  Papua New Guinea     v Tahiti                1-3   @ North Shore, New Zealand
+     (Reginald Davani 43';
+      Samuel Garcia 29' Felix Tagawa 49' Felix Tagawa 64')
+Wed Jul 10
+  Australia            v Fiji                  8-0   @ Auckland, New Zealand
+     (Ante Milicic 4' Joel Porter 7' Joel Porter 12' Ante Juric 36' Joel Porter 45' Paul Trimboli 46' Joel Porter 52' Fausto De Amicis 89')
+  New Caledonia        v Vanuatu               0-1   @ Auckland, New Zealand
+     (Richard Iwai 76')
+Fri Jul 12
+  Australia            v Tahiti                2-1   @ Auckland, New Zealand
+     (Joel Porter 88' Damian Mori 96';
+      Teva Zaveroni 38')
+  New Zealand          v Vanuatu               3-0   @ Auckland, New Zealand
+     (Mark Burton 13' Chris Killen 23' Mark Burton 65')
+Sun Jul 14
+  New Zealand          v Australia             1-0   @ Auckland, New Zealand
+     (Ryan Nelsen 78')
+  Tahiti               v Vanuatu               1-0   @ Auckland, New Zealand
+     (Tetahio Auraa 65')
 

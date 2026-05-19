@@ -1,14 +1,14 @@
 = Merdeka Tournament 1983
 
-# Date       Mon Sep/19 - Wed Sep/28 1983 (9d)
+# Date       Mon Sep 19 - Wed Sep 28 1983 (9d)
 # Teams      5
 # Matches    4
 
-[Mon Sep 19]
-  Ghana - Thailand  2-1   @ Kuala Lumpur, Malaysia
-  Malaysia - Nepal  7-0   @ Kota Bharu, Malaysia
-[Thu Sep 22]
-  Bangladesh - Nepal  1-0   @ Seremban, Malaysia
-[Wed Sep 28]
-  Malaysia - Bangladesh  1-0   @ Kuala Lumpur, Malaysia
+Mon Sep 19
+  Ghana                v Thailand              2-1   @ Kuala Lumpur, Malaysia
+  Malaysia             v Nepal                 7-0   @ Kota Bharu, Malaysia
+Thu Sep 22
+  Bangladesh           v Nepal                 1-0   @ Seremban, Malaysia
+Wed Sep 28
+  Malaysia             v Bangladesh            1-0   @ Kuala Lumpur, Malaysia
 

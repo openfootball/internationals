@@ -1,19 +1,19 @@
 = Nordic Championship 1960
 
-# Date       Thu May/26 - Sun Oct/23 1960 (150d)
+# Date       Thu May 26 - Sun Oct 23 1960 (150d)
 # Teams      4
 # Matches    6
 
-[Thu May 26]
-  Denmark - Norway  3-0   @ Copenhagen, Denmark
-[Wed Jun 22]
-  Finland - Sweden  0-3   @ Helsinki, Finland
-[Wed Aug 10]
-  Denmark - Finland  2-1   @ Copenhagen, Denmark
-[Sun Aug 28]
-  Norway - Finland  6-3   @ Oslo, Norway
-[Sun Sep 18]
-  Norway - Sweden  3-1   @ Oslo, Norway
-[Sun Oct 23]
-  Sweden - Denmark  2-0   @ Gothenburg, Sweden
+Thu May 26
+  Denmark              v Norway                3-0   @ Copenhagen, Denmark
+Wed Jun 22
+  Finland              v Sweden                0-3   @ Helsinki, Finland
+Wed Aug 10
+  Denmark              v Finland               2-1   @ Copenhagen, Denmark
+Sun Aug 28
+  Norway               v Finland               6-3   @ Oslo, Norway
+Sun Sep 18
+  Norway               v Sweden                3-1   @ Oslo, Norway
+Sun Oct 23
+  Sweden               v Denmark               2-0   @ Gothenburg, Sweden
 

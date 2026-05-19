@@ -1,105 +1,105 @@
 = FIFA World Cup 1974
 
-# Date       Thu Jun/13 - Sun Jul/7 1974 (24d)
+# Date       Thu Jun 13 - Sun Jul 7 1974 (24d)
 # Teams      16
 # Matches    38
 
-[Thu Jun 13]
-  Brazil - Yugoslavia  0-0   @ Frankfurt am Main, Germany
-[Fri Jun 14]
-  DR Congo - Scotland  0-2   @ Dortmund, Germany
-     -; Peter Lorimer 26' Joe Jordan 34'
-  German DR - Australia  2-0   @ Hamburg, Germany
-     Colin Curran 58' (o.g.) Joachim Streich 72'
-  Germany - Chile  1-0   @ Berlin, Germany
-     Paul Breitner 18'
-[Sat Jun 15]
-  Italy - Haiti  3-1   @ Munich, Germany
-     Gianni Rivera 52' Romeo Benetti 66' Pietro Anastasi 79';
-     Emmanuel Sanon 46'
-  Poland - Argentina  3-2   @ Stuttgart, Germany
-     Grzegorz Lato 7' Andrzej Szarmach 8' Grzegorz Lato 62';
-     Ramón Heredia 60' Carlos Babington 66'
-  Sweden - Bulgaria  0-0   @ Düsseldorf, Germany
-  Uruguay - Netherlands  0-2   @ Hanover, Germany
-     -; Johnny Rep 7' Johnny Rep 86'
-[Tue Jun 18]
-  Chile - German DR  1-1   @ Berlin, Germany
-     Sergio Ahumada 69';
-     Martin Hoffmann 55'
-  Germany - Australia  3-0   @ Hamburg, Germany
-     Wolfgang Overath 12' Bernhard Cullmann 34' Gerd Müller 53'
-  Scotland - Brazil  0-0   @ Frankfurt am Main, Germany
-  Yugoslavia - DR Congo  9-0   @ Gelsenkirchen, Germany
-     Dušan Bajević 8' Dragan Džajić 14' Ivica Šurjak 18' Josip Katalinski 22' Dušan Bajević 30' Vladislav Bogićević 35' Branko Oblak 61' Ilija Petković 65' Dušan Bajević 81'
-[Wed Jun 19]
-  Argentina - Italy  1-1   @ Stuttgart, Germany
-     René Houseman 20';
-     Roberto Perfumo 35' (o.g.)
-  Bulgaria - Uruguay  1-1   @ Hanover, Germany
-     Hristo Bonev 75';
-     Ricardo Pavoni 87'
-  Haiti - Poland  0-7   @ Munich, Germany
-     -; Grzegorz Lato 17' Kazimierz Deyna 18' Andrzej Szarmach 30' Jerzy Gorgoń 31' Andrzej Szarmach 34' Andrzej Szarmach 50' Grzegorz Lato 87'
-  Netherlands - Sweden  0-0   @ Dortmund, Germany
-[Sat Jun 22]
-  Australia - Chile  0-0   @ Berlin, Germany
-  DR Congo - Brazil  0-3   @ Gelsenkirchen, Germany
-     -; Jairzinho 12' Rivellino 66' Valdomiro Vaz Franco 79'
-  Germany - German DR  0-1   @ Hamburg, Germany
-     -; Jürgen Sparwasser 77'
-  Scotland - Yugoslavia  1-1   @ Frankfurt am Main, Germany
-     Joe Jordan 88';
-     Stanislav Karasi 81'
-[Sun Jun 23]
-  Argentina - Haiti  4-1   @ Munich, Germany
-     Héctor Yazalde 15' René Houseman 18' Rubén Ayala 55' Héctor Yazalde 68';
-     Emmanuel Sanon 63'
-  Bulgaria - Netherlands  1-4   @ Dortmund, Germany
-     Ruud Krol 78' (o.g.);
-     Johan Neeskens 5' (pen.) Johan Neeskens 44' (pen.) Johnny Rep 71' Theo de Jong 88'
-  Poland - Italy  2-1   @ Stuttgart, Germany
-     Andrzej Szarmach 38' Kazimierz Deyna 44';
-     Fabio Capello 85'
-  Sweden - Uruguay  3-0   @ Düsseldorf, Germany
-     Ralf Edström 46' Roland Sandberg 74' Ralf Edström 77'
-[Wed Jun 26]
-  Brazil - German DR  1-0   @ Hanover, Germany
-     Rivellino 60'
-  Germany - Yugoslavia  2-0   @ Düsseldorf, Germany
-     Paul Breitner 39' Gerd Müller 82'
-  Netherlands - Argentina  4-0   @ Gelsenkirchen, Germany
-     Johan Cruyff 11' Ruud Krol 25' Johnny Rep 73' Johan Cruyff 90'
-  Sweden - Poland  0-1   @ Stuttgart, Germany
-     -; Grzegorz Lato 43'
-[Sun Jun 30]
-  Argentina - Brazil  1-2   @ Hanover, Germany
-     Miguel Ángel Brindisi 35';
-     Rivellino 32' Jairzinho 49'
-  German DR - Netherlands  0-2   @ Gelsenkirchen, Germany
-     -; Johan Neeskens 7' Rob Rensenbrink 59'
-  Germany - Sweden  4-2   @ Düsseldorf, Germany
-     Wolfgang Overath 51' Rainer Bonhof 52' Jürgen Grabowski 76' Uli Hoeneß 89' (pen.);
-     Ralf Edström 24' Roland Sandberg 53'
-  Poland - Yugoslavia  2-1   @ Frankfurt am Main, Germany
-     Kazimierz Deyna 24' (pen.) Grzegorz Lato 62';
-     Stanislav Karasi 43'
-[Wed Jul 3]
-  Argentina - German DR  1-1   @ Gelsenkirchen, Germany
-     René Houseman 20';
-     Joachim Streich 14'
-  Germany - Poland  1-0   @ Frankfurt am Main, Germany
-     Gerd Müller 76'
-  Netherlands - Brazil  2-0   @ Dortmund, Germany
-     Johan Neeskens 50' Johan Cruyff 65'
-  Sweden - Yugoslavia  2-1   @ Düsseldorf, Germany
-     Ralf Edström 29' Conny Torstensson 85';
-     Ivica Šurjak 27'
-[Sat Jul 6]
-  Brazil - Poland  0-1   @ Munich, Germany
-     -; Grzegorz Lato 76'
-[Sun Jul 7]
-  Germany - Netherlands  2-1   @ Munich, Germany
-     Paul Breitner 25' (pen.) Gerd Müller 43';
-     Johan Neeskens 2' (pen.)
+Thu Jun 13
+  Brazil               v Yugoslavia            0-0   @ Frankfurt am Main, Germany
+Fri Jun 14
+  DR Congo             v Scotland              0-2   @ Dortmund, Germany
+     (Peter Lorimer 26' Joe Jordan 34')
+  German DR            v Australia             2-0   @ Hamburg, Germany
+     (Colin Curran 58'(og) Joachim Streich 72')
+  Germany              v Chile                 1-0   @ Berlin, Germany
+     (Paul Breitner 18')
+Sat Jun 15
+  Italy                v Haiti                 3-1   @ Munich, Germany
+     (Gianni Rivera 52' Romeo Benetti 66' Pietro Anastasi 79';
+      Emmanuel Sanon 46')
+  Poland               v Argentina             3-2   @ Stuttgart, Germany
+     (Grzegorz Lato 7' Andrzej Szarmach 8' Grzegorz Lato 62';
+      Ramón Heredia 60' Carlos Babington 66')
+  Sweden               v Bulgaria              0-0   @ Düsseldorf, Germany
+  Uruguay              v Netherlands           0-2   @ Hanover, Germany
+     (Johnny Rep 7' Johnny Rep 86')
+Tue Jun 18
+  Chile                v German DR             1-1   @ Berlin, Germany
+     (Sergio Ahumada 69';
+      Martin Hoffmann 55')
+  Germany              v Australia             3-0   @ Hamburg, Germany
+     (Wolfgang Overath 12' Bernhard Cullmann 34' Gerd Müller 53')
+  Scotland             v Brazil                0-0   @ Frankfurt am Main, Germany
+  Yugoslavia           v DR Congo              9-0   @ Gelsenkirchen, Germany
+     (Dušan Bajević 8' Dragan Džajić 14' Ivica Šurjak 18' Josip Katalinski 22' Dušan Bajević 30' Vladislav Bogićević 35' Branko Oblak 61' Ilija Petković 65' Dušan Bajević 81')
+Wed Jun 19
+  Argentina            v Italy                 1-1   @ Stuttgart, Germany
+     (René Houseman 20';
+      Roberto Perfumo 35'(og))
+  Bulgaria             v Uruguay               1-1   @ Hanover, Germany
+     (Hristo Bonev 75';
+      Ricardo Pavoni 87')
+  Haiti                v Poland                0-7   @ Munich, Germany
+     (Grzegorz Lato 17' Kazimierz Deyna 18' Andrzej Szarmach 30' Jerzy Gorgoń 31' Andrzej Szarmach 34' Andrzej Szarmach 50' Grzegorz Lato 87')
+  Netherlands          v Sweden                0-0   @ Dortmund, Germany
+Sat Jun 22
+  Australia            v Chile                 0-0   @ Berlin, Germany
+  DR Congo             v Brazil                0-3   @ Gelsenkirchen, Germany
+     (Jairzinho 12' Rivellino 66' Valdomiro Vaz Franco 79')
+  Germany              v German DR             0-1   @ Hamburg, Germany
+     (Jürgen Sparwasser 77')
+  Scotland             v Yugoslavia            1-1   @ Frankfurt am Main, Germany
+     (Joe Jordan 88';
+      Stanislav Karasi 81')
+Sun Jun 23
+  Argentina            v Haiti                 4-1   @ Munich, Germany
+     (Héctor Yazalde 15' René Houseman 18' Rubén Ayala 55' Héctor Yazalde 68';
+      Emmanuel Sanon 63')
+  Bulgaria             v Netherlands           1-4   @ Dortmund, Germany
+     (Ruud Krol 78'(og);
+      Johan Neeskens 5'(p) Johan Neeskens 44'(p) Johnny Rep 71' Theo de Jong 88')
+  Poland               v Italy                 2-1   @ Stuttgart, Germany
+     (Andrzej Szarmach 38' Kazimierz Deyna 44';
+      Fabio Capello 85')
+  Sweden               v Uruguay               3-0   @ Düsseldorf, Germany
+     (Ralf Edström 46' Roland Sandberg 74' Ralf Edström 77')
+Wed Jun 26
+  Brazil               v German DR             1-0   @ Hanover, Germany
+     (Rivellino 60')
+  Germany              v Yugoslavia            2-0   @ Düsseldorf, Germany
+     (Paul Breitner 39' Gerd Müller 82')
+  Netherlands          v Argentina             4-0   @ Gelsenkirchen, Germany
+     (Johan Cruyff 11' Ruud Krol 25' Johnny Rep 73' Johan Cruyff 90')
+  Sweden               v Poland                0-1   @ Stuttgart, Germany
+     (Grzegorz Lato 43')
+Sun Jun 30
+  Argentina            v Brazil                1-2   @ Hanover, Germany
+     (Miguel Ángel Brindisi 35';
+      Rivellino 32' Jairzinho 49')
+  German DR            v Netherlands           0-2   @ Gelsenkirchen, Germany
+     (Johan Neeskens 7' Rob Rensenbrink 59')
+  Germany              v Sweden                4-2   @ Düsseldorf, Germany
+     (Wolfgang Overath 51' Rainer Bonhof 52' Jürgen Grabowski 76' Uli Hoeneß 89'(p);
+      Ralf Edström 24' Roland Sandberg 53')
+  Poland               v Yugoslavia            2-1   @ Frankfurt am Main, Germany
+     (Kazimierz Deyna 24'(p) Grzegorz Lato 62';
+      Stanislav Karasi 43')
+Wed Jul 3
+  Argentina            v German DR             1-1   @ Gelsenkirchen, Germany
+     (René Houseman 20';
+      Joachim Streich 14')
+  Germany              v Poland                1-0   @ Frankfurt am Main, Germany
+     (Gerd Müller 76')
+  Netherlands          v Brazil                2-0   @ Dortmund, Germany
+     (Johan Neeskens 50' Johan Cruyff 65')
+  Sweden               v Yugoslavia            2-1   @ Düsseldorf, Germany
+     (Ralf Edström 29' Conny Torstensson 85';
+      Ivica Šurjak 27')
+Sat Jul 6
+  Brazil               v Poland                0-1   @ Munich, Germany
+     (Grzegorz Lato 76')
+Sun Jul 7
+  Germany              v Netherlands           2-1   @ Munich, Germany
+     (Paul Breitner 25'(p) Gerd Müller 43';
+      Johan Neeskens 2'(p))
 

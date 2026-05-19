@@ -1,19 +1,19 @@
 = Central European International Cup 1949
 
-# Date       Sun Apr/3 - Sun Sep/25 1949 (175d)
+# Date       Sun Apr 3 - Sun Sep 25 1949 (175d)
 # Teams      5
 # Matches    6
 
-[Sun Apr 3]
-  Switzerland - Austria  1-2   @ Lausanne, Switzerland
-[Sun Apr 10]
-  Czechoslovakia - Hungary  5-2   @ Prague, Czechoslovakia
-[Sun May 8]
-  Hungary - Austria  6-1   @ Budapest, Hungary
-[Sun May 22]
-  Italy - Austria  3-1   @ Florence, Italy
-[Sun Jun 12]
-  Hungary - Italy  1-1   @ Budapest, Hungary
-[Sun Sep 25]
-  Austria - Czechoslovakia  3-1   @ Vienna, Austria
+Sun Apr 3
+  Switzerland          v Austria               1-2   @ Lausanne, Switzerland
+Sun Apr 10
+  Czechoslovakia       v Hungary               5-2   @ Prague, Czechoslovakia
+Sun May 8
+  Hungary              v Austria               6-1   @ Budapest, Hungary
+Sun May 22
+  Italy                v Austria               3-1   @ Florence, Italy
+Sun Jun 12
+  Hungary              v Italy                 1-1   @ Budapest, Hungary
+Sun Sep 25
+  Austria              v Czechoslovakia        3-1   @ Vienna, Austria
 

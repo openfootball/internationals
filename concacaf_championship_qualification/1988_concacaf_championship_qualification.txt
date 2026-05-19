@@ -1,43 +1,43 @@
 = CONCACAF Championship qualification 1988
 
-# Date       Sun Apr/17 - Sun Nov/13 1988 (210d)
+# Date       Sun Apr 17 - Sun Nov 13 1988 (210d)
 # Teams      14
 # Matches    18
 
-[Sun Apr 17]
-  Guyana - Trinidad and Tobago  0-4   @ Georgetown, Guyana
-[Sat Apr 30]
-  Cuba - Guatemala  0-1   @ Havana, Cuba
-[Sun May 8]
-  Trinidad and Tobago - Guyana  1-0   @ San Fernando, Trinidad and Tobago
-[Thu May 12]
-  Jamaica - Puerto Rico  1-0   @ Kingston, Jamaica
-[Sun May 15]
-  Guatemala - Cuba  1-1   @ San Marcos, Guatemala
-[Sun May 29]
-  Puerto Rico - Jamaica  1-2   @ San Juan, Puerto Rico
-[Sun Jun 19]
-  Antigua and Barbuda - Curaçao  0-1   @ St. John's, Antigua and Barbuda
-[Sun Jul 17]
-  Costa Rica - Panama  1-1   @ Alajuela, Costa Rica
-[Sun Jul 24]
-  Jamaica - United States  0-0   @ Kingston, Jamaica
-[Fri Jul 29]
-  Curaçao - Antigua and Barbuda  3-1   @ Willemstad, Curaçao
-[Sun Jul 31]
-  Panama - Costa Rica  0-2   @ Panama City, Panama
-[Sat Aug 13]
-  United States - Jamaica  5-1   @ St. Louis, United States
-[Sat Oct 1]
-  Curaçao - El Salvador  0-1   @ Willemstad, Curaçao
-[Sun Oct 9]
-  Guatemala - Canada  1-0   @ Guatemala City, Guatemala
-[Sat Oct 15]
-  Canada - Guatemala  3-2   @ Burnaby, Canada
-[Sun Oct 16]
-  El Salvador - Curaçao  5-0   @ San Salvador, El Salvador
-[Sun Oct 30]
-  Trinidad and Tobago - Honduras  0-0   @ Port of Spain, Trinidad and Tobago
-[Sun Nov 13]
-  Honduras - Trinidad and Tobago  1-1   @ Tegucigalpa, Honduras
+Sun Apr 17
+  Guyana               v Trinidad and Tobago   0-4   @ Georgetown, Guyana
+Sat Apr 30
+  Cuba                 v Guatemala             0-1   @ Havana, Cuba
+Sun May 8
+  Trinidad and Tobago  v Guyana                1-0   @ San Fernando, Trinidad and Tobago
+Thu May 12
+  Jamaica              v Puerto Rico           1-0   @ Kingston, Jamaica
+Sun May 15
+  Guatemala            v Cuba                  1-1   @ San Marcos, Guatemala
+Sun May 29
+  Puerto Rico          v Jamaica               1-2   @ San Juan, Puerto Rico
+Sun Jun 19
+  Antigua and Barbuda  v Curaçao               0-1   @ St. John's, Antigua and Barbuda
+Sun Jul 17
+  Costa Rica           v Panama                1-1   @ Alajuela, Costa Rica
+Sun Jul 24
+  Jamaica              v United States         0-0   @ Kingston, Jamaica
+Fri Jul 29
+  Curaçao              v Antigua and Barbuda   3-1   @ Willemstad, Curaçao
+Sun Jul 31
+  Panama               v Costa Rica            0-2   @ Panama City, Panama
+Sat Aug 13
+  United States        v Jamaica               5-1   @ St. Louis, United States
+Sat Oct 1
+  Curaçao              v El Salvador           0-1   @ Willemstad, Curaçao
+Sun Oct 9
+  Guatemala            v Canada                1-0   @ Guatemala City, Guatemala
+Sat Oct 15
+  Canada               v Guatemala             3-2   @ Burnaby, Canada
+Sun Oct 16
+  El Salvador          v Curaçao               5-0   @ San Salvador, El Salvador
+Sun Oct 30
+  Trinidad and Tobago  v Honduras              0-0   @ Port of Spain, Trinidad and Tobago
+Sun Nov 13
+  Honduras             v Trinidad and Tobago   1-1   @ Tegucigalpa, Honduras
 

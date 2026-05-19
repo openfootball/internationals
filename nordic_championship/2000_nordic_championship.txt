@@ -1,19 +1,19 @@
 = Nordic Championship 2000
 
-# Date       Mon Jan/31 - Wed Aug/16 2000 (198d)
+# Date       Mon Jan 31 - Wed Aug 16 2000 (198d)
 # Teams      6
 # Matches    8
 
-[Mon Jan 31]
-  Faroe Islands - Finland  0-1   @ Cartagena, Spain
-  Iceland - Norway  0-0   @ Cartagena, Spain
-[Wed Feb 2]
-  Finland - Iceland  0-1   @ Cartagena, Spain
-[Fri Feb 4]
-  Faroe Islands - Iceland  2-3   @ Cartagena, Spain
-  Norway - Sweden  1-1   @ Cartagena, Spain
-[Wed Aug 16]
-  Faroe Islands - Denmark  0-2   @ Tórshavn, Faroe Islands
-  Finland - Norway  3-1   @ Helsinki, Finland
-  Iceland - Sweden  2-1   @ Reykjavík, Iceland
+Mon Jan 31
+  Faroe Islands        v Finland               0-1   @ Cartagena, Spain
+  Iceland              v Norway                0-0   @ Cartagena, Spain
+Wed Feb 2
+  Finland              v Iceland               0-1   @ Cartagena, Spain
+Fri Feb 4
+  Faroe Islands        v Iceland               2-3   @ Cartagena, Spain
+  Norway               v Sweden                1-1   @ Cartagena, Spain
+Wed Aug 16
+  Faroe Islands        v Denmark               0-2   @ Tórshavn, Faroe Islands
+  Finland              v Norway                3-1   @ Helsinki, Finland
+  Iceland              v Sweden                2-1   @ Reykjavík, Iceland
 

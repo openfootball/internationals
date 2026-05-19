@@ -1,13 +1,13 @@
 = Cyprus International Tournament 2002
 
-# Date       Tue Feb/12 - Wed Feb/13 2002 (1d)
+# Date       Tue Feb 12 - Wed Feb 13 2002 (1d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 12]
-  Cyprus - Switzerland  1-1   @ Nicosia, Cyprus   [Cyprus wins on penalties]
-  Czech Republic - Hungary  2-0   @ Larnaca, Cyprus
-[Wed Feb 13]
-  Cyprus - Czech Republic  3-4   @ Nicosia, Cyprus
-  Switzerland - Hungary  2-1   @ Limassol, Cyprus
+Tue Feb 12
+  Cyprus               v Switzerland           1-1   @ Nicosia, Cyprus   [Cyprus wins on penalties]
+  Czech Republic       v Hungary               2-0   @ Larnaca, Cyprus
+Wed Feb 13
+  Cyprus               v Czech Republic        3-4   @ Nicosia, Cyprus
+  Switzerland          v Hungary               2-1   @ Limassol, Cyprus
 

@@ -1,77 +1,77 @@
 = Olympic Games 1924
 
-# Date       Sun May/25 - Mon Jun/9 1924 (15d)
+# Date       Sun May 25 - Mon Jun 9 1924 (15d)
 # Teams      22
 # Matches    24
 
-[Sun May 25]
-  Italy - Spain  1-0   @ Colombes, France
-     Pedro Vallana 84' (o.g.)
-  Czechoslovakia - Turkey  5-2   @ Paris, France
-     Rudolf Sloup 21' Josef Sedláček 28' Josef Sedláček 37' Jan Novák 64' Josef Čapek 74';
-     Bekir Refet 63' Bekir Refet 82'
-  Switzerland - Lithuania  9-0   @ Vincennes, France
-     Paul Sturzenegger 2' Walter Dietrich 14' Max Abegglen 41' Paul Sturzenegger 43' Max Abegglen 50' Max Abegglen 58' Rudolf Ramseyer 63' (pen.) Paul Sturzenegger 68' Paul Sturzenegger 85'
-  United States - Estonia  1-0   @ Vincennes, France
-     Andy Straden 15' (pen.)
-[Mon May 26]
-  Uruguay - Yugoslavia  7-0   @ Colombes, France
-     José Vidal 20' Héctor Scarone 23' Pedro Petrone 35' Pedro Cea 50' Ángel Romano 58' Pedro Petrone 61' Pedro Cea 80'
-  Hungary - Poland  5-0   @ Paris, France
-     József Eisenhoffer 14' Ferenc Hirzer 51' Ferenc Hirzer 58' Zoltán Opata 70' Zoltán Opata 87'
-[Tue May 27]
-  France - Latvia  7-0   @ Paris, France
-     Édouard Crut 17' Paul Nicolas 25' Édouard Crut 28' Paul Nicolas 50' Édouard Crut 55' Jean Boyer 71' Jean Boyer 87'
-  Netherlands - Romania  6-0   @ Colombes, France
-     Albert Hurgronje 8' Kees Pijl 32' Kees Pijl 52' Kees Pijl 66' Kees Pijl 68' Johannes de Natris 69' (pen.)
-[Wed May 28]
-  Switzerland - Czechoslovakia  1-1   @ Paris, France
-     Walter Dietrich 79';
-     Rudolf Sloup 21' (pen.)
-  Republic of Ireland - Bulgaria  1-0   @ Colombes, France
-     Paddy Duncan 75'
-[Thu May 29]
-  Italy - Luxembourg  2-0   @ Paris, France
-     Adolfo Baloncieri 20' Giuseppe Della Valle 38'
-  Sweden - Belgium  8-1   @ Colombes, France
-     Rudolf Kock 8' Sven Rydell 20' Rudolf Kock 24' Charles Brommesson 30' Tore Keller 46' Sven Rydell 61' Rudolf Kock 77' Sven Rydell 83';
-     Henri Larnoe 67'
-  Egypt - Hungary  3-0   @ Paris, France
-     Ibrahim Yakan 4' Hussein Hegazi 40' Ibrahim Yakan 58'
-  Uruguay - United States  3-0   @ Paris, France
-     Pedro Petrone 10' Héctor Scarone 15' Pedro Petrone 44'
-[Fri May 30]
-  Switzerland - Czechoslovakia  1-0   @ Paris, France
-     Robert Pache 87'
-[Sun Jun 1]
-  France - Uruguay  1-5   @ Colombes, France
-     Paul Nicolas 12';
-     Héctor Scarone 2' Héctor Scarone 24' Pedro Petrone 58' Pedro Petrone 68' Ángel Romano 83'
-  Sweden - Egypt  5-0   @ Paris, France
-     Per Kaufeldt 5' Charles Brommesson 31' Charles Brommesson 34' Sven Rydell 49' Per Kaufeldt 71'
-[Mon Jun 2]
-  Switzerland - Italy  2-1   @ Paris, France
-     Paul Sturzenegger 47' Max Abegglen 60';
-     Giuseppe Della Valle 52'
-  Netherlands - Republic of Ireland  2-1   @ Paris, France
-     Ok Formenoy 7' Ok Formenoy 104';
-     Frank Ghent 33'
-[Thu Jun 5]
-  Switzerland - Sweden  2-1   @ Colombes, France
-     Max Abegglen 15' Max Abegglen 77';
-     Rudolf Kock 41'
-[Fri Jun 6]
-  Uruguay - Netherlands  2-1   @ Colombes, France
-     Pedro Cea 62' Héctor Scarone 81' (pen.);
-     Cornelis Pijl 32'
-[Sun Jun 8]
-  Sweden - Netherlands  1-1   @ Colombes, France
-     Per Kaufeldt 44';
-     André le Fèvre 77'
-[Mon Jun 9]
-  Sweden - Netherlands  3-1   @ Colombes, France
-     Sven Rydell 34' Evert Lundqvist 42' Sven Rydell 77';
-     Ok Formenoy 43' (pen.)
-  Uruguay - Switzerland  3-0   @ Colombes, France
-     Pedro Petrone 9' Pedro Cea 65' Ángel Romano 82'
+Sun May 25
+  Italy                v Spain                 1-0   @ Colombes, France
+     (Pedro Vallana 84'(og))
+  Czechoslovakia       v Turkey                5-2   @ Paris, France
+     (Rudolf Sloup 21' Josef Sedláček 28' Josef Sedláček 37' Jan Novák 64' Josef Čapek 74';
+      Bekir Refet 63' Bekir Refet 82')
+  Switzerland          v Lithuania             9-0   @ Vincennes, France
+     (Paul Sturzenegger 2' Walter Dietrich 14' Max Abegglen 41' Paul Sturzenegger 43' Max Abegglen 50' Max Abegglen 58' Rudolf Ramseyer 63'(p) Paul Sturzenegger 68' Paul Sturzenegger 85')
+  United States        v Estonia               1-0   @ Vincennes, France
+     (Andy Straden 15'(p))
+Mon May 26
+  Uruguay              v Yugoslavia            7-0   @ Colombes, France
+     (José Vidal 20' Héctor Scarone 23' Pedro Petrone 35' Pedro Cea 50' Ángel Romano 58' Pedro Petrone 61' Pedro Cea 80')
+  Hungary              v Poland                5-0   @ Paris, France
+     (József Eisenhoffer 14' Ferenc Hirzer 51' Ferenc Hirzer 58' Zoltán Opata 70' Zoltán Opata 87')
+Tue May 27
+  France               v Latvia                7-0   @ Paris, France
+     (Édouard Crut 17' Paul Nicolas 25' Édouard Crut 28' Paul Nicolas 50' Édouard Crut 55' Jean Boyer 71' Jean Boyer 87')
+  Netherlands          v Romania               6-0   @ Colombes, France
+     (Albert Hurgronje 8' Kees Pijl 32' Kees Pijl 52' Kees Pijl 66' Kees Pijl 68' Johannes de Natris 69'(p))
+Wed May 28
+  Switzerland          v Czechoslovakia        1-1   @ Paris, France
+     (Walter Dietrich 79';
+      Rudolf Sloup 21'(p))
+  Republic of Ireland  v Bulgaria              1-0   @ Colombes, France
+     (Paddy Duncan 75')
+Thu May 29
+  Italy                v Luxembourg            2-0   @ Paris, France
+     (Adolfo Baloncieri 20' Giuseppe Della Valle 38')
+  Sweden               v Belgium               8-1   @ Colombes, France
+     (Rudolf Kock 8' Sven Rydell 20' Rudolf Kock 24' Charles Brommesson 30' Tore Keller 46' Sven Rydell 61' Rudolf Kock 77' Sven Rydell 83';
+      Henri Larnoe 67')
+  Egypt                v Hungary               3-0   @ Paris, France
+     (Ibrahim Yakan 4' Hussein Hegazi 40' Ibrahim Yakan 58')
+  Uruguay              v United States         3-0   @ Paris, France
+     (Pedro Petrone 10' Héctor Scarone 15' Pedro Petrone 44')
+Fri May 30
+  Switzerland          v Czechoslovakia        1-0   @ Paris, France
+     (Robert Pache 87')
+Sun Jun 1
+  France               v Uruguay               1-5   @ Colombes, France
+     (Paul Nicolas 12';
+      Héctor Scarone 2' Héctor Scarone 24' Pedro Petrone 58' Pedro Petrone 68' Ángel Romano 83')
+  Sweden               v Egypt                 5-0   @ Paris, France
+     (Per Kaufeldt 5' Charles Brommesson 31' Charles Brommesson 34' Sven Rydell 49' Per Kaufeldt 71')
+Mon Jun 2
+  Switzerland          v Italy                 2-1   @ Paris, France
+     (Paul Sturzenegger 47' Max Abegglen 60';
+      Giuseppe Della Valle 52')
+  Netherlands          v Republic of Ireland   2-1   @ Paris, France
+     (Ok Formenoy 7' Ok Formenoy 104';
+      Frank Ghent 33')
+Thu Jun 5
+  Switzerland          v Sweden                2-1   @ Colombes, France
+     (Max Abegglen 15' Max Abegglen 77';
+      Rudolf Kock 41')
+Fri Jun 6
+  Uruguay              v Netherlands           2-1   @ Colombes, France
+     (Pedro Cea 62' Héctor Scarone 81'(p);
+      Cornelis Pijl 32')
+Sun Jun 8
+  Sweden               v Netherlands           1-1   @ Colombes, France
+     (Per Kaufeldt 44';
+      André le Fèvre 77')
+Mon Jun 9
+  Sweden               v Netherlands           3-1   @ Colombes, France
+     (Sven Rydell 34' Evert Lundqvist 42' Sven Rydell 77';
+      Ok Formenoy 43'(p))
+  Uruguay              v Switzerland           3-0   @ Colombes, France
+     (Pedro Petrone 9' Pedro Cea 65' Ángel Romano 82')
 

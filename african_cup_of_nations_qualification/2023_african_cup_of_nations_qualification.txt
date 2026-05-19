@@ -1,115 +1,115 @@
 = African Cup of Nations qualification 2023
 
-# Date       Wed Mar/22 - Tue Oct/17 2023 (209d)
+# Date       Wed Mar 22 - Tue Oct 17 2023 (209d)
 # Teams      46
 # Matches    88
 
-[Wed Mar 22]
-  Sierra Leone - São Tomé and Príncipe  2-2   @ Agadir, Morocco
-  Benin - Rwanda  1-1   @ Cotonou, Benin
-[Thu Mar 23]
-  Madagascar - Central African Republic  0-3   @ Antananarivo, Madagascar
-  Ghana - Angola  1-0   @ Kumasi, Ghana
-  Algeria - Niger  2-1   @ Algiers, Algeria
-  Congo - South Sudan  1-2   @ Brazzaville, Congo
-  Zambia - Lesotho  3-1   @ Ndola, Zambia
-  Gabon - Sudan  1-0   @ Franceville, Gabon
-[Fri Mar 24]
-  Nigeria - Guinea-Bissau  0-1   @ Abuja, Nigeria
-  Cape Verde - Eswatini  0-0   @ Praia, Cape Verde
-  Burkina Faso - Togo  1-0   @ Marrakech, Morocco
-  Cameroon - Namibia  1-1   @ Yaoundé, Cameroon
-  Guinea - Ethiopia  2-0   @ Casablanca, Morocco
-  Egypt - Malawi  2-0   @ Cairo, Egypt
-  Uganda - Tanzania  0-1   @ Ismailia, Egypt
-  Mali - Gambia  2-0   @ Bamako, Mali
-  Ivory Coast - Comoros  3-1   @ Bouaké, Ivory Coast
-  DR Congo - Mauritania  3-1   @ Douala, Cameroon
-  Equatorial Guinea - Botswana  2-0   @ Malabo, Equatorial Guinea
-  Tunisia - Libya  3-0   @ Radès, Tunisia
-  South Africa - Liberia  2-2   @ Johannesburg, South Africa
-  Senegal - Mozambique  5-1   @ Diamniadio, Senegal
-[Sun Mar 26]
-  São Tomé and Príncipe - Sierra Leone  0-2   @ Agadir, Morocco
-  Lesotho - Zambia  0-2   @ Soweto, South Africa
-[Mon Mar 27]
-  Guinea-Bissau - Nigeria  0-1   @ Bissau, Guinea-Bissau
-  Ethiopia - Guinea  2-3   @ Rabat, Morocco
-  Central African Republic - Madagascar  2-0   @ Douala, Cameroon
-  Angola - Ghana  1-1   @ Luanda, Angola
-  Niger - Algeria  0-1   @ Radès, Tunisia
-  South Sudan - Congo  0-1   @ Dar es Salaam, Tanzania
-  Sudan - Gabon  1-0   @ Omdurman, Sudan
-[Tue Mar 28]
-  Eswatini - Cape Verde  0-1   @ Mbombela, South Africa
-  Togo - Burkina Faso  1-1   @ Lomé, Togo
-  Namibia - Cameroon  2-1   @ Soweto, South Africa
-  Malawi - Egypt  0-4   @ Lilongwe, Malawi
-  Tanzania - Uganda  0-1   @ Dar es Salaam, Tanzania
-  Gambia - Mali  1-0   @ Casablanca, Morocco
-  Comoros - Ivory Coast  0-2   @ Moroni, Comoros
-  Mauritania - DR Congo  1-1   @ Nouakchott, Mauritania
-  Botswana - Equatorial Guinea  2-3   @ Francistown, Botswana
-  Libya - Tunisia  0-1   @ Benghazi, Libya
-  Liberia - South Africa  1-2   @ Monrovia, Liberia
-  Mozambique - Senegal  0-1   @ Maputo, Mozambique
-[Wed Mar 29]
-  Rwanda - Benin  1-1   @ Kigali, Rwanda
-[Wed Jun 14]
-  Guinea-Bissau - São Tomé and Príncipe  1-0   @ Bissau, Guinea-Bissau
-  Guinea - Egypt  1-2   @ Marrakech, Morocco
-  South Sudan - Gambia  2-3   @ Ismailia, Egypt
-[Sat Jun 17]
-  Central African Republic - Angola  1-2   @ Douala, Cameroon
-  Zambia - Ivory Coast  3-0   @ Ndola, Zambia
-  Lesotho - Comoros  0-1   @ Johannesburg, South Africa
-  Equatorial Guinea - Tunisia  1-0   @ Malabo, Equatorial Guinea
-  Botswana - Libya  1-0   @ Francistown, Botswana
-  South Africa - Morocco  2-1   @ Johannesburg, South Africa
-  Benin - Senegal  1-1   @ Cotonou, Benin
-[Sun Jun 18]
-  Sierra Leone - Nigeria  2-3   @ Monrovia, Liberia
-  Cape Verde - Burkina Faso  3-1   @ Praia, Cape Verde
-  Eswatini - Togo  0-2   @ Mbombela, South Africa
-  Madagascar - Ghana  0-0   @ Antananarivo, Madagascar
-  Tanzania - Niger  1-0   @ Dar es Salaam, Tanzania
-  Uganda - Algeria  1-2   @ Douala, Cameroon
-  Congo - Mali  0-2   @ Brazzaville, Congo
-  Gabon - DR Congo  0-2   @ Franceville, Gabon
-  Rwanda - Mozambique  0-2   @ Butare, Rwanda
-[Tue Jun 20]
-  Burundi - Namibia  3-2   @ Dar es Salaam, Tanzania
-  Ethiopia - Malawi  0-0   @ Maputo, Mozambique
-  Sudan - Mauritania  0-3   @ Agadir, Morocco
-[Mon Sep 4]
-  Mozambique - Benin  3-2   @ Maputo, Mozambique
-[Wed Sep 6]
-  Libya - Equatorial Guinea  1-1   @ Benghazi, Libya
-[Thu Sep 7]
-  Ghana - Central African Republic  2-1   @ Kumasi, Ghana
-  Angola - Madagascar  0-0   @ Lubango, Angola
-  Algeria - Tanzania  0-0   @ Annaba, Algeria
-  Niger - Uganda  0-2   @ Marrakech, Morocco
-  Tunisia - Botswana  3-0   @ Radès, Tunisia
-[Fri Sep 8]
-  Burkina Faso - Eswatini  0-0   @ Marrakech, Morocco
-  Egypt - Ethiopia  1-0   @ Cairo, Egypt
-  Mali - South Sudan  4-0   @ Bamako, Mali
-[Sat Sep 9]
-  Malawi - Guinea  2-2   @ Lilongwe, Malawi
-  Ivory Coast - Lesotho  1-0   @ San-Pédro, Ivory Coast
-  Comoros - Zambia  1-1   @ Moroni, Comoros
-  Mauritania - Gabon  2-1   @ Nouakchott, Mauritania
-  DR Congo - Sudan  2-0   @ Kinshasa, DR Congo
-  Rwanda - Senegal  1-1   @ Butare, Rwanda
-[Sun Sep 10]
-  Nigeria - São Tomé and Príncipe  6-0   @ Uyo, Nigeria
-  Togo - Cape Verde  3-2   @ Lomé, Togo
-  Gambia - Congo  2-2   @ Marrakech, Morocco
-[Mon Sep 11]
-  Guinea-Bissau - Sierra Leone  2-1   @ Bissau, Guinea-Bissau
-[Tue Sep 12]
-  Cameroon - Burundi  3-0   @ Garoua, Cameroon
-[Tue Oct 17]
-  Morocco - Liberia  3-0   @ Agadir, Morocco
+Wed Mar 22
+  Sierra Leone         v São Tomé and Príncipe  2-2   @ Agadir, Morocco
+  Benin                v Rwanda                1-1   @ Cotonou, Benin
+Thu Mar 23
+  Madagascar           v Central African Republic  0-3   @ Antananarivo, Madagascar
+  Ghana                v Angola                1-0   @ Kumasi, Ghana
+  Algeria              v Niger                 2-1   @ Algiers, Algeria
+  Congo                v South Sudan           1-2   @ Brazzaville, Congo
+  Zambia               v Lesotho               3-1   @ Ndola, Zambia
+  Gabon                v Sudan                 1-0   @ Franceville, Gabon
+Fri Mar 24
+  Nigeria              v Guinea-Bissau         0-1   @ Abuja, Nigeria
+  Cape Verde           v Eswatini              0-0   @ Praia, Cape Verde
+  Burkina Faso         v Togo                  1-0   @ Marrakech, Morocco
+  Cameroon             v Namibia               1-1   @ Yaoundé, Cameroon
+  Guinea               v Ethiopia              2-0   @ Casablanca, Morocco
+  Egypt                v Malawi                2-0   @ Cairo, Egypt
+  Uganda               v Tanzania              0-1   @ Ismailia, Egypt
+  Mali                 v Gambia                2-0   @ Bamako, Mali
+  Ivory Coast          v Comoros               3-1   @ Bouaké, Ivory Coast
+  DR Congo             v Mauritania            3-1   @ Douala, Cameroon
+  Equatorial Guinea    v Botswana              2-0   @ Malabo, Equatorial Guinea
+  Tunisia              v Libya                 3-0   @ Radès, Tunisia
+  South Africa         v Liberia               2-2   @ Johannesburg, South Africa
+  Senegal              v Mozambique            5-1   @ Diamniadio, Senegal
+Sun Mar 26
+  São Tomé and Príncipe v Sierra Leone          0-2   @ Agadir, Morocco
+  Lesotho              v Zambia                0-2   @ Soweto, South Africa
+Mon Mar 27
+  Guinea-Bissau        v Nigeria               0-1   @ Bissau, Guinea-Bissau
+  Ethiopia             v Guinea                2-3   @ Rabat, Morocco
+  Central African Republic v Madagascar            2-0   @ Douala, Cameroon
+  Angola               v Ghana                 1-1   @ Luanda, Angola
+  Niger                v Algeria               0-1   @ Radès, Tunisia
+  South Sudan          v Congo                 0-1   @ Dar es Salaam, Tanzania
+  Sudan                v Gabon                 1-0   @ Omdurman, Sudan
+Tue Mar 28
+  Eswatini             v Cape Verde            0-1   @ Mbombela, South Africa
+  Togo                 v Burkina Faso          1-1   @ Lomé, Togo
+  Namibia              v Cameroon              2-1   @ Soweto, South Africa
+  Malawi               v Egypt                 0-4   @ Lilongwe, Malawi
+  Tanzania             v Uganda                0-1   @ Dar es Salaam, Tanzania
+  Gambia               v Mali                  1-0   @ Casablanca, Morocco
+  Comoros              v Ivory Coast           0-2   @ Moroni, Comoros
+  Mauritania           v DR Congo              1-1   @ Nouakchott, Mauritania
+  Botswana             v Equatorial Guinea     2-3   @ Francistown, Botswana
+  Libya                v Tunisia               0-1   @ Benghazi, Libya
+  Liberia              v South Africa          1-2   @ Monrovia, Liberia
+  Mozambique           v Senegal               0-1   @ Maputo, Mozambique
+Wed Mar 29
+  Rwanda               v Benin                 1-1   @ Kigali, Rwanda
+Wed Jun 14
+  Guinea-Bissau        v São Tomé and Príncipe  1-0   @ Bissau, Guinea-Bissau
+  Guinea               v Egypt                 1-2   @ Marrakech, Morocco
+  South Sudan          v Gambia                2-3   @ Ismailia, Egypt
+Sat Jun 17
+  Central African Republic v Angola                1-2   @ Douala, Cameroon
+  Zambia               v Ivory Coast           3-0   @ Ndola, Zambia
+  Lesotho              v Comoros               0-1   @ Johannesburg, South Africa
+  Equatorial Guinea    v Tunisia               1-0   @ Malabo, Equatorial Guinea
+  Botswana             v Libya                 1-0   @ Francistown, Botswana
+  South Africa         v Morocco               2-1   @ Johannesburg, South Africa
+  Benin                v Senegal               1-1   @ Cotonou, Benin
+Sun Jun 18
+  Sierra Leone         v Nigeria               2-3   @ Monrovia, Liberia
+  Cape Verde           v Burkina Faso          3-1   @ Praia, Cape Verde
+  Eswatini             v Togo                  0-2   @ Mbombela, South Africa
+  Madagascar           v Ghana                 0-0   @ Antananarivo, Madagascar
+  Tanzania             v Niger                 1-0   @ Dar es Salaam, Tanzania
+  Uganda               v Algeria               1-2   @ Douala, Cameroon
+  Congo                v Mali                  0-2   @ Brazzaville, Congo
+  Gabon                v DR Congo              0-2   @ Franceville, Gabon
+  Rwanda               v Mozambique            0-2   @ Butare, Rwanda
+Tue Jun 20
+  Burundi              v Namibia               3-2   @ Dar es Salaam, Tanzania
+  Ethiopia             v Malawi                0-0   @ Maputo, Mozambique
+  Sudan                v Mauritania            0-3   @ Agadir, Morocco
+Mon Sep 4
+  Mozambique           v Benin                 3-2   @ Maputo, Mozambique
+Wed Sep 6
+  Libya                v Equatorial Guinea     1-1   @ Benghazi, Libya
+Thu Sep 7
+  Ghana                v Central African Republic  2-1   @ Kumasi, Ghana
+  Angola               v Madagascar            0-0   @ Lubango, Angola
+  Algeria              v Tanzania              0-0   @ Annaba, Algeria
+  Niger                v Uganda                0-2   @ Marrakech, Morocco
+  Tunisia              v Botswana              3-0   @ Radès, Tunisia
+Fri Sep 8
+  Burkina Faso         v Eswatini              0-0   @ Marrakech, Morocco
+  Egypt                v Ethiopia              1-0   @ Cairo, Egypt
+  Mali                 v South Sudan           4-0   @ Bamako, Mali
+Sat Sep 9
+  Malawi               v Guinea                2-2   @ Lilongwe, Malawi
+  Ivory Coast          v Lesotho               1-0   @ San-Pédro, Ivory Coast
+  Comoros              v Zambia                1-1   @ Moroni, Comoros
+  Mauritania           v Gabon                 2-1   @ Nouakchott, Mauritania
+  DR Congo             v Sudan                 2-0   @ Kinshasa, DR Congo
+  Rwanda               v Senegal               1-1   @ Butare, Rwanda
+Sun Sep 10
+  Nigeria              v São Tomé and Príncipe  6-0   @ Uyo, Nigeria
+  Togo                 v Cape Verde            3-2   @ Lomé, Togo
+  Gambia               v Congo                 2-2   @ Marrakech, Morocco
+Mon Sep 11
+  Guinea-Bissau        v Sierra Leone          2-1   @ Bissau, Guinea-Bissau
+Tue Sep 12
+  Cameroon             v Burundi               3-0   @ Garoua, Cameroon
+Tue Oct 17
+  Morocco              v Liberia               3-0   @ Agadir, Morocco
 

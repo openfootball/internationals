@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1930
 
-# Date       Sun May/25 - Fri May/30 1930 (5d)
+# Date       Sun May 25 - Fri May 30 1930 (5d)
 # Teams      3
 # Matches    3
 
-[Sun May 25]
-  Japan - Philippines  7-2   @ Tokyo, Japan
-[Tue May 27]
-  China PR - Philippines  5-0   @ Tokyo, Japan
-[Fri May 30]
-  Japan - China PR  3-3   @ Tokyo, Japan
+Sun May 25
+  Japan                v Philippines           7-2   @ Tokyo, Japan
+Tue May 27
+  China PR             v Philippines           5-0   @ Tokyo, Japan
+Fri May 30
+  Japan                v China PR              3-3   @ Tokyo, Japan
 

@@ -1,53 +1,53 @@
 = UEFA Euro 1984
 
-# Date       Tue Jun/12 - Wed Jun/27 1984 (15d)
+# Date       Tue Jun 12 - Wed Jun 27 1984 (15d)
 # Teams      8
 # Matches    15
 
-[Tue Jun 12]
-  France - Denmark  1-0   @ Paris, France
-     Michel Platini 78'
-[Wed Jun 13]
-  Belgium - Yugoslavia  2-0   @ Lens, France
-     Erwin Vandenbergh 28' Georges Grün 45'
-[Thu Jun 14]
-  Germany - Portugal  0-0   @ Strasbourg, France
-  Romania - Spain  1-1   @ Saint-Étienne, France
-     László Bölöni 35';
-     Francisco José Carrasco 22' (pen.)
-[Sat Jun 16]
-  Denmark - Yugoslavia  5-0   @ Lyon, France
-     Frank Arnesen 8' Klaus Berggreen 16' Frank Arnesen 69' (pen.) Preben Elkjær 82' John Lauridsen 84'
-  France - Belgium  5-0   @ Nantes, France
-     Michel Platini 4' Alain Giresse 33' Luis Fernández 43' Michel Platini 74' (pen.) Michel Platini 89'
-[Sun Jun 17]
-  Germany - Romania  2-1   @ Lens, France
-     Rudi Völler 25' Rudi Völler 66';
-     Marcel Coraș 46'
-  Portugal - Spain  1-1   @ Marseille, France
-     António Sousa 52';
-     Santillana 73'
-[Tue Jun 19]
-  Denmark - Belgium  3-2   @ Strasbourg, France
-     Frank Arnesen 41' (pen.) Kenneth Brylle Larsen 60' Preben Elkjær 84';
-     Jan Ceulemans 26' Franky Vercauteren 39'
-  France - Yugoslavia  3-2   @ Saint-Étienne, France
-     Michel Platini 59' Michel Platini 62' Michel Platini 77';
-     Miloš Šestić 32' Dragan Stojković 84' (pen.)
-[Wed Jun 20]
-  Germany - Spain  0-1   @ Paris, France
-     -; Antonio Maceda 90'
-  Portugal - Romania  1-0   @ Nantes, France
-     Nené 81'
-[Sat Jun 23]
-  France - Portugal  3-2   @ Marseille, France
-     Jean-François Domergue 24' Jean-François Domergue 114' Michel Platini 119';
-     Rui Jordão 74' Rui Jordão 98'
-[Sun Jun 24]
-  Denmark - Spain  1-1   @ Lyon, France   [Spain wins on penalties]
-     Søren Lerby 7';
-     Antonio Maceda 67'
-[Wed Jun 27]
-  France - Spain  2-0   @ Paris, France
-     Michel Platini 57' Bruno Bellone 90'
+Tue Jun 12
+  France               v Denmark               1-0   @ Paris, France
+     (Michel Platini 78')
+Wed Jun 13
+  Belgium              v Yugoslavia            2-0   @ Lens, France
+     (Erwin Vandenbergh 28' Georges Grün 45')
+Thu Jun 14
+  Germany              v Portugal              0-0   @ Strasbourg, France
+  Romania              v Spain                 1-1   @ Saint-Étienne, France
+     (László Bölöni 35';
+      Francisco José Carrasco 22'(p))
+Sat Jun 16
+  Denmark              v Yugoslavia            5-0   @ Lyon, France
+     (Frank Arnesen 8' Klaus Berggreen 16' Frank Arnesen 69'(p) Preben Elkjær 82' John Lauridsen 84')
+  France               v Belgium               5-0   @ Nantes, France
+     (Michel Platini 4' Alain Giresse 33' Luis Fernández 43' Michel Platini 74'(p) Michel Platini 89')
+Sun Jun 17
+  Germany              v Romania               2-1   @ Lens, France
+     (Rudi Völler 25' Rudi Völler 66';
+      Marcel Coraș 46')
+  Portugal             v Spain                 1-1   @ Marseille, France
+     (António Sousa 52';
+      Santillana 73')
+Tue Jun 19
+  Denmark              v Belgium               3-2   @ Strasbourg, France
+     (Frank Arnesen 41'(p) Kenneth Brylle Larsen 60' Preben Elkjær 84';
+      Jan Ceulemans 26' Franky Vercauteren 39')
+  France               v Yugoslavia            3-2   @ Saint-Étienne, France
+     (Michel Platini 59' Michel Platini 62' Michel Platini 77';
+      Miloš Šestić 32' Dragan Stojković 84'(p))
+Wed Jun 20
+  Germany              v Spain                 0-1   @ Paris, France
+     (Antonio Maceda 90')
+  Portugal             v Romania               1-0   @ Nantes, France
+     (Nené 81')
+Sat Jun 23
+  France               v Portugal              3-2   @ Marseille, France
+     (Jean-François Domergue 24' Jean-François Domergue 114' Michel Platini 119';
+      Rui Jordão 74' Rui Jordão 98')
+Sun Jun 24
+  Denmark              v Spain                 1-1   @ Lyon, France   [Spain wins on penalties]
+     (Søren Lerby 7';
+      Antonio Maceda 67')
+Wed Jun 27
+  France               v Spain                 2-0   @ Paris, France
+     (Michel Platini 57' Bruno Bellone 90')
 

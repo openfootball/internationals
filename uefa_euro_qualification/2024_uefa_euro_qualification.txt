@@ -1,30 +1,30 @@
 = UEFA Euro qualification 2024
 
-# Date       Thu Mar/21 - Tue Mar/26 2024 (5d)
+# Date       Thu Mar 21 - Tue Mar 26 2024 (5d)
 # Teams      12
 # Matches    9
 
-[Thu Mar 21]
-  Poland - Estonia  5-1   @ Warsaw, Poland
-     Przemysław Frankowski 22' Piotr Zieliński 50' Jakub Piotrowski 70' Karol Mets 74' (o.g.) Sebastian Szymański 76';
-     Martin Vetkal 78'
-  Wales - Finland  4-1   @ Cardiff, Wales
-     David Brooks 3' Neco Williams 38' Brennan Johnson 47' Daniel James 86';
-     Teemu Pukki 45'
-  Israel - Iceland  1-4   @ Budapest, Hungary
-     Eran Zahavi 31' (pen.);
-     Albert Guðmundsson 39' Arnór Ingvi Traustason 42' Albert Guðmundsson 83' Albert Guðmundsson 87'
-  Bosnia and Herzegovina - Ukraine  1-2   @ Zenica, Bosnia and Herzegovina
-     Mykola Matviyenko 56' (o.g.);
-     Roman Yaremchuk 85' Artem Dovbyk 88'
-  Georgia - Luxembourg  2-0   @ Tbilisi, Georgia
-     Budu Zivzivadze 40' Budu Zivzivadze 63'
-  Greece - Kazakhstan  5-0   @ Athens, Greece
-     Anastasios Bakasetas 9' (pen.) Dimitrios Pelkas 15' Fotis Ioannidis 37' Dimitrios Kourbelis 40' Yerkin Tapalov 85' (o.g.)
-[Tue Mar 26]
-  Wales - Poland  0-0   @ Cardiff, Wales   [Poland wins on penalties]
-  Ukraine - Iceland  2-1   @ Wrocław, Poland
-     Viktor Tsyhankov 54' Mykhailo Mudryk 84';
-     Albert Guðmundsson 30'
-  Georgia - Greece  0-0   @ Tbilisi, Georgia   [Georgia wins on penalties]
+Thu Mar 21
+  Poland               v Estonia               5-1   @ Warsaw, Poland
+     (Przemysław Frankowski 22' Piotr Zieliński 50' Jakub Piotrowski 70' Karol Mets 74'(og) Sebastian Szymański 76';
+      Martin Vetkal 78')
+  Wales                v Finland               4-1   @ Cardiff, Wales
+     (David Brooks 3' Neco Williams 38' Brennan Johnson 47' Daniel James 86';
+      Teemu Pukki 45')
+  Israel               v Iceland               1-4   @ Budapest, Hungary
+     (Eran Zahavi 31'(p);
+      Albert Guðmundsson 39' Arnór Ingvi Traustason 42' Albert Guðmundsson 83' Albert Guðmundsson 87')
+  Bosnia and Herzegovina v Ukraine               1-2   @ Zenica, Bosnia and Herzegovina
+     (Mykola Matviyenko 56'(og);
+      Roman Yaremchuk 85' Artem Dovbyk 88')
+  Georgia              v Luxembourg            2-0   @ Tbilisi, Georgia
+     (Budu Zivzivadze 40' Budu Zivzivadze 63')
+  Greece               v Kazakhstan            5-0   @ Athens, Greece
+     (Anastasios Bakasetas 9'(p) Dimitrios Pelkas 15' Fotis Ioannidis 37' Dimitrios Kourbelis 40' Yerkin Tapalov 85'(og))
+Tue Mar 26
+  Wales                v Poland                0-0   @ Cardiff, Wales   [Poland wins on penalties]
+  Ukraine              v Iceland               2-1   @ Wrocław, Poland
+     (Viktor Tsyhankov 54' Mykhailo Mudryk 84';
+      Albert Guðmundsson 30')
+  Georgia              v Greece                0-0   @ Tbilisi, Georgia   [Georgia wins on penalties]
 

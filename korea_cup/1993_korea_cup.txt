@@ -1,11 +1,11 @@
 = Korea Cup 1993
 
-# Date       Sat Jun/19 - Mon Jun/28 1993 (9d)
+# Date       Sat Jun 19 - Mon Jun 28 1993 (9d)
 # Teams      2
 # Matches    2
 
-[Sat Jun 19]
-  South Korea - Egypt  1-2   @ Seoul, South Korea
-[Mon Jun 28]
-  South Korea - Egypt  0-1   @ Seoul, South Korea
+Sat Jun 19
+  South Korea          v Egypt                 1-2   @ Seoul, South Korea
+Mon Jun 28
+  South Korea          v Egypt                 0-1   @ Seoul, South Korea
 

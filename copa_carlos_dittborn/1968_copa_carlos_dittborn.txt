@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1968
 
-# Date       Wed Nov/27 - Wed Dec/4 1968 (7d)
+# Date       Wed Nov 27 - Wed Dec 4 1968 (7d)
 # Teams      2
 # Matches    2
 
-[Wed Nov 27]
-  Argentina - Chile  4-0   @ Rosario, Argentina
-[Wed Dec 4]
-  Chile - Argentina  2-1   @ Santiago, Chile
+Wed Nov 27
+  Argentina            v Chile                 4-0   @ Rosario, Argentina
+Wed Dec 4
+  Chile                v Argentina             2-1   @ Santiago, Chile
 

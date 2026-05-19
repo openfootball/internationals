@@ -1,11 +1,11 @@
 = Four Nations' Cup 1999
 
-# Date       Wed Jun/16 - Sat Jun/19 1999 (3d)
+# Date       Wed Jun 16 - Sat Jun 19 1999 (3d)
 # Teams      3
 # Matches    2
 
-[Wed Jun 16]
-  Thailand - New Zealand  2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
-[Sat Jun 19]
-  New Zealand - Poland  0-0   @ Bangkok, Thailand   [Poland wins on penalties]
+Wed Jun 16
+  Thailand             v New Zealand           2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
+Sat Jun 19
+  New Zealand          v Poland                0-0   @ Bangkok, Thailand   [Poland wins on penalties]
 

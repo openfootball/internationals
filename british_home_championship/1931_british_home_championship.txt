@@ -1,23 +1,23 @@
 = British Home Championship 1931
 
-# Date       Sat Feb/21 - Sat Dec/5 1931 (287d)
+# Date       Sat Feb 21 - Sat Dec 5 1931 (287d)
 # Teams      4
 # Matches    8
 
-[Sat Feb 21]
-  Northern Ireland - Scotland  0-0   @ Belfast, Northern Ireland
-[Sat Mar 28]
-  Scotland - England  2-0   @ Glasgow, Scotland
-[Wed Apr 22]
-  Wales - Northern Ireland  3-2   @ Wrexham, Wales
-[Sat Sep 19]
-  Scotland - Northern Ireland  3-1   @ Glasgow, Scotland
-[Sat Oct 17]
-  Northern Ireland - England  2-6   @ Belfast, Northern Ireland
-[Sat Oct 31]
-  Wales - Scotland  2-3   @ Wrexham, Wales
-[Wed Nov 18]
-  England - Wales  3-1   @ Liverpool, England
-[Sat Dec 5]
-  Northern Ireland - Wales  4-0   @ Belfast, Northern Ireland
+Sat Feb 21
+  Northern Ireland     v Scotland              0-0   @ Belfast, Northern Ireland
+Sat Mar 28
+  Scotland             v England               2-0   @ Glasgow, Scotland
+Wed Apr 22
+  Wales                v Northern Ireland      3-2   @ Wrexham, Wales
+Sat Sep 19
+  Scotland             v Northern Ireland      3-1   @ Glasgow, Scotland
+Sat Oct 17
+  Northern Ireland     v England               2-6   @ Belfast, Northern Ireland
+Sat Oct 31
+  Wales                v Scotland              2-3   @ Wrexham, Wales
+Wed Nov 18
+  England              v Wales                 3-1   @ Liverpool, England
+Sat Dec 5
+  Northern Ireland     v Wales                 4-0   @ Belfast, Northern Ireland
 

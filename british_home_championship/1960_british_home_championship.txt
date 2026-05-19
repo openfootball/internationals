@@ -1,19 +1,19 @@
 = British Home Championship 1960
 
-# Date       Wed Apr/6 - Wed Nov/23 1960 (231d)
+# Date       Wed Apr 6 - Wed Nov 23 1960 (231d)
 # Teams      4
 # Matches    6
 
-[Wed Apr 6]
-  Wales - Northern Ireland  3-2   @ Wrexham, Wales
-[Sat Apr 9]
-  Scotland - England  1-1   @ Glasgow, Scotland
-[Sat Oct 8]
-  Northern Ireland - England  2-5   @ Belfast, Northern Ireland
-[Sat Oct 22]
-  Wales - Scotland  2-0   @ Cardiff, Wales
-[Wed Nov 9]
-  Scotland - Northern Ireland  5-2   @ Glasgow, Scotland
-[Wed Nov 23]
-  England - Wales  5-1   @ London, England
+Wed Apr 6
+  Wales                v Northern Ireland      3-2   @ Wrexham, Wales
+Sat Apr 9
+  Scotland             v England               1-1   @ Glasgow, Scotland
+Sat Oct 8
+  Northern Ireland     v England               2-5   @ Belfast, Northern Ireland
+Sat Oct 22
+  Wales                v Scotland              2-0   @ Cardiff, Wales
+Wed Nov 9
+  Scotland             v Northern Ireland      5-2   @ Glasgow, Scotland
+Wed Nov 23
+  England              v Wales                 5-1   @ London, England
 

@@ -1,11 +1,11 @@
 = Copa Premio Honor Uruguayo 1911
 
-# Date       Sun Oct/8 - Sun Oct/29 1911 (21d)
+# Date       Sun Oct 8 - Sun Oct 29 1911 (21d)
 # Teams      2
 # Matches    2
 
-[Sun Oct 8]
-  Uruguay - Argentina  1-1   @ Montevideo, Uruguay
-[Sun Oct 29]
-  Uruguay - Argentina  3-0   @ Montevideo, Uruguay
+Sun Oct 8
+  Uruguay              v Argentina             1-1   @ Montevideo, Uruguay
+Sun Oct 29
+  Uruguay              v Argentina             3-0   @ Montevideo, Uruguay
 

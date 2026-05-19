@@ -1,53 +1,53 @@
 = African Cup of Nations 1980
 
-# Date       Sat Mar/8 - Sat Mar/22 1980 (14d)
+# Date       Sat Mar 8 - Sat Mar 22 1980 (14d)
 # Teams      8
 # Matches    16
 
-[Sat Mar 8]
-  Egypt - Ivory Coast  2-1   @ Lagos, Nigeria
-     Maher Hammam 8' Mokhtar Mokhtar 20';
-     Ani Gome 7'
-  Nigeria - Tanzania  3-1   @ Lagos, Nigeria
-     Muda Lawal 11' Ifeanyi Onyedika 35' Segun Odegbami 85';
-     Juma Mkambi 54'
-[Sun Mar 9]
-  Algeria - Ghana  0-0   @ Ibadan, Nigeria
-  Guinea - Morocco  1-1   @ Ibadan, Nigeria
-     Moussa Camara 8';
-     Mustapha Tahir 7'
-[Wed Mar 12]
-  Egypt - Tanzania  2-1   @ Lagos, Nigeria
-     Hassan Shehata 32' Mussad Nur 38';
-     Thuwein Waziri 86'
-  Nigeria - Ivory Coast  0-0   @ Lagos, Nigeria
-[Thu Mar 13]
-  Algeria - Morocco  1-0   @ Ibadan, Nigeria
-     Lakhdar Belloumi 90'
-  Ghana - Guinea  1-0   @ Ibadan, Nigeria
-     Willie Klutse 69'
-[Sat Mar 15]
-  Ivory Coast - Tanzania  1-1   @ Lagos, Nigeria
-     Kobenan Kouman 7';
-     Thuwein Waziri 59'
-  Nigeria - Egypt  1-0   @ Lagos, Nigeria
-     Okey Isima 15'
-[Sun Mar 16]
-  Algeria - Guinea  3-2   @ Ibadan, Nigeria
-     Tedj Bensaoula 12' Lakhdar Belloumi 37' Tedj Bensaoula 49';
-     Ibrahima Diawara 82' Seydouba Bangoura 90'
-  Ghana - Morocco  0-1   @ Ibadan, Nigeria
-     -; Khalid Labied 44'
-[Wed Mar 19]
-  Algeria - Egypt  2-2   @ Ibadan, Nigeria   [Algeria wins on penalties]
-     Salah Assad 55' (pen.) Hocine Benmiloudi 62';
-     Mahmoud El Khatib 32' Ramadan El Sayed 47'
-  Nigeria - Morocco  1-0   @ Lagos, Nigeria
-     Felix Owolabi 9'
-[Fri Mar 21]
-  Egypt - Morocco  0-2   @ Lagos, Nigeria
-     -; Khalid Labied 9' Khalid Labied 78'
-[Sat Mar 22]
-  Nigeria - Algeria  3-0   @ Lagos, Nigeria
-     Segun Odegbami 2' Segun Odegbami 42' Muda Lawal 50'
+Sat Mar 8
+  Egypt                v Ivory Coast           2-1   @ Lagos, Nigeria
+     (Maher Hammam 8' Mokhtar Mokhtar 20';
+      Ani Gome 7')
+  Nigeria              v Tanzania              3-1   @ Lagos, Nigeria
+     (Muda Lawal 11' Ifeanyi Onyedika 35' Segun Odegbami 85';
+      Juma Mkambi 54')
+Sun Mar 9
+  Algeria              v Ghana                 0-0   @ Ibadan, Nigeria
+  Guinea               v Morocco               1-1   @ Ibadan, Nigeria
+     (Moussa Camara 8';
+      Mustapha Tahir 7')
+Wed Mar 12
+  Egypt                v Tanzania              2-1   @ Lagos, Nigeria
+     (Hassan Shehata 32' Mussad Nur 38';
+      Thuwein Waziri 86')
+  Nigeria              v Ivory Coast           0-0   @ Lagos, Nigeria
+Thu Mar 13
+  Algeria              v Morocco               1-0   @ Ibadan, Nigeria
+     (Lakhdar Belloumi 90')
+  Ghana                v Guinea                1-0   @ Ibadan, Nigeria
+     (Willie Klutse 69')
+Sat Mar 15
+  Ivory Coast          v Tanzania              1-1   @ Lagos, Nigeria
+     (Kobenan Kouman 7';
+      Thuwein Waziri 59')
+  Nigeria              v Egypt                 1-0   @ Lagos, Nigeria
+     (Okey Isima 15')
+Sun Mar 16
+  Algeria              v Guinea                3-2   @ Ibadan, Nigeria
+     (Tedj Bensaoula 12' Lakhdar Belloumi 37' Tedj Bensaoula 49';
+      Ibrahima Diawara 82' Seydouba Bangoura 90')
+  Ghana                v Morocco               0-1   @ Ibadan, Nigeria
+     (Khalid Labied 44')
+Wed Mar 19
+  Algeria              v Egypt                 2-2   @ Ibadan, Nigeria   [Algeria wins on penalties]
+     (Salah Assad 55'(p) Hocine Benmiloudi 62';
+      Mahmoud El Khatib 32' Ramadan El Sayed 47')
+  Nigeria              v Morocco               1-0   @ Lagos, Nigeria
+     (Felix Owolabi 9')
+Fri Mar 21
+  Egypt                v Morocco               0-2   @ Lagos, Nigeria
+     (Khalid Labied 9' Khalid Labied 78')
+Sat Mar 22
+  Nigeria              v Algeria               3-0   @ Lagos, Nigeria
+     (Segun Odegbami 2' Segun Odegbami 42' Muda Lawal 50')
 

@@ -1,38 +1,38 @@
 = Arab Cup 1966
 
-# Date       Fri Apr/1 - Sun Apr/10 1966 (9d)
+# Date       Fri Apr 1 - Sun Apr 10 1966 (9d)
 # Teams      10
 # Matches    21
 
-[Fri Apr 1]
-  Libya - Palestine  0-0   @ Baghdad, Iraq
-  Iraq - Kuwait  3-1   @ Baghdad, Iraq
-[Sat Apr 2]
-  Syria - Yemen  4-1   @ Baghdad, Iraq
-  Iraq - Jordan  2-1   @ Baghdad, Iraq
-  Lebanon - Bahrain  6-1   @ Baghdad, Iraq
-[Sun Apr 3]
-  Libya - Oman  21-0   @ Baghdad, Iraq
-  Kuwait - Lebanon  1-2   @ Baghdad, Iraq
-[Mon Apr 4]
-  Libya - Syria  0-0   @ Baghdad, Iraq
-  Palestine - Yemen  7-0   @ Baghdad, Iraq
-[Tue Apr 5]
-  Jordan - Lebanon  1-2   @ Baghdad, Iraq
-  Iraq - Bahrain  10-1   @ Baghdad, Iraq
-[Wed Apr 6]
-  Bahrain - Kuwait  4-4   @ Habbaniyah, Iraq
-  Libya - Yemen  13-0   @ Kut, Iraq
-  Palestine - Syria  1-3   @ Baghdad, Iraq
-[Thu Apr 7]
-  Iraq - Lebanon  0-0   @ Baghdad, Iraq
-  Bahrain - Jordan  1-5   @ Baghdad, Iraq
-[Fri Apr 8]
-  Jordan - Kuwait  0-4   @ Baghdad, Iraq
-[Sat Apr 9]
-  Iraq - Libya  3-1   @ Baghdad, Iraq
-  Lebanon - Syria  0-1   @ Baghdad, Iraq
-[Sun Apr 10]
-  Iraq - Syria  2-1   @ Baghdad, Iraq
-  Libya - Lebanon  6-1   @ Baghdad, Iraq
+Fri Apr 1
+  Libya                v Palestine             0-0   @ Baghdad, Iraq
+  Iraq                 v Kuwait                3-1   @ Baghdad, Iraq
+Sat Apr 2
+  Syria                v Yemen                 4-1   @ Baghdad, Iraq
+  Iraq                 v Jordan                2-1   @ Baghdad, Iraq
+  Lebanon              v Bahrain               6-1   @ Baghdad, Iraq
+Sun Apr 3
+  Libya                v Oman                  21-0   @ Baghdad, Iraq
+  Kuwait               v Lebanon               1-2   @ Baghdad, Iraq
+Mon Apr 4
+  Libya                v Syria                 0-0   @ Baghdad, Iraq
+  Palestine            v Yemen                 7-0   @ Baghdad, Iraq
+Tue Apr 5
+  Jordan               v Lebanon               1-2   @ Baghdad, Iraq
+  Iraq                 v Bahrain               10-1   @ Baghdad, Iraq
+Wed Apr 6
+  Bahrain              v Kuwait                4-4   @ Habbaniyah, Iraq
+  Libya                v Yemen                 13-0   @ Kut, Iraq
+  Palestine            v Syria                 1-3   @ Baghdad, Iraq
+Thu Apr 7
+  Iraq                 v Lebanon               0-0   @ Baghdad, Iraq
+  Bahrain              v Jordan                1-5   @ Baghdad, Iraq
+Fri Apr 8
+  Jordan               v Kuwait                0-4   @ Baghdad, Iraq
+Sat Apr 9
+  Iraq                 v Libya                 3-1   @ Baghdad, Iraq
+  Lebanon              v Syria                 0-1   @ Baghdad, Iraq
+Sun Apr 10
+  Iraq                 v Syria                 2-1   @ Baghdad, Iraq
+  Libya                v Lebanon               6-1   @ Baghdad, Iraq
 

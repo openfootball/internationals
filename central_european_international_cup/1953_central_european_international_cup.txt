@@ -1,15 +1,15 @@
 = Central European International Cup 1953
 
-# Date       Sun Apr/26 - Sun Dec/13 1953 (231d)
+# Date       Sun Apr 26 - Sun Dec 13 1953 (231d)
 # Teams      4
 # Matches    4
 
-[Sun Apr 26]
-  Czechoslovakia - Italy  2-0   @ Prague, Czechoslovakia
-[Sun May 17]
-  Italy - Hungary  0-3   @ Rome, Italy
-[Sun Sep 20]
-  Czechoslovakia - Switzerland  5-0   @ Prague, Czechoslovakia
-[Sun Dec 13]
-  Italy - Czechoslovakia  3-0   @ Genoa, Italy
+Sun Apr 26
+  Czechoslovakia       v Italy                 2-0   @ Prague, Czechoslovakia
+Sun May 17
+  Italy                v Hungary               0-3   @ Rome, Italy
+Sun Sep 20
+  Czechoslovakia       v Switzerland           5-0   @ Prague, Czechoslovakia
+Sun Dec 13
+  Italy                v Czechoslovakia        3-0   @ Genoa, Italy
 

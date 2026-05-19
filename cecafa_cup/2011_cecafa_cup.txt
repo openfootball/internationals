@@ -1,46 +1,46 @@
 = CECAFA Cup 2011
 
-# Date       Fri Nov/25 - Sat Dec/10 2011 (15d)
+# Date       Fri Nov 25 - Sat Dec 10 2011 (15d)
 # Teams      12
 # Matches    26
 
-[Fri Nov 25]
-  Burundi - Somalia  4-1   @ Dar es Salaam, Tanzania
-  Uganda - Zanzibar  2-1   @ Dar es Salaam, Tanzania
-[Sat Nov 26]
-  Tanzania - Rwanda  0-1   @ Dar es Salaam, Tanzania
-[Sun Nov 27]
-  Zanzibar - Burundi  0-0   @ Dar es Salaam, Tanzania
-  Zimbabwe - Djibouti  2-0   @ Dar es Salaam, Tanzania
-[Mon Nov 28]
-  Kenya - Malawi  0-2   @ Dar es Salaam, Tanzania
-  Somalia - Uganda  0-4   @ Chamazi, Tanzania
-  Sudan - Ethiopia  1-1   @ Dar es Salaam, Tanzania
-[Tue Nov 29]
-  Rwanda - Zimbabwe  2-0   @ Dar es Salaam, Tanzania
-  Tanzania - Djibouti  3-0   @ Dar es Salaam, Tanzania
-[Wed Nov 30]
-  Ethiopia - Kenya  0-2   @ Dar es Salaam, Tanzania
-  Malawi - Sudan  0-0   @ Dar es Salaam, Tanzania
-[Thu Dec 1]
-  Burundi - Uganda  1-0   @ Dar es Salaam, Tanzania
-  Somalia - Zanzibar  0-3   @ Dar es Salaam, Tanzania
-[Fri Dec 2]
-  Ethiopia - Malawi  1-1   @ Dar es Salaam, Tanzania
-  Rwanda - Djibouti  5-2   @ Dar es Salaam, Tanzania
-[Sat Dec 3]
-  Kenya - Sudan  0-1   @ Dar es Salaam, Tanzania
-  Tanzania - Zimbabwe  1-2   @ Dar es Salaam, Tanzania
-[Mon Dec 5]
-  Burundi - Sudan  0-2   @ Dar es Salaam, Tanzania
-  Rwanda - Zanzibar  2-1   @ Dar es Salaam, Tanzania
-[Tue Dec 6]
-  Tanzania - Malawi  1-0   @ Dar es Salaam, Tanzania
-  Uganda - Zimbabwe  1-0   @ Dar es Salaam, Tanzania
-[Thu Dec 8]
-  Sudan - Rwanda  1-2   @ Dar es Salaam, Tanzania
-  Tanzania - Uganda  1-3   @ Dar es Salaam, Tanzania
-[Sat Dec 10]
-  Rwanda - Uganda  2-2   @ Dar es Salaam, Tanzania
-  Tanzania - Sudan  0-1   @ Dar es Salaam, Tanzania
+Fri Nov 25
+  Burundi              v Somalia               4-1   @ Dar es Salaam, Tanzania
+  Uganda               v Zanzibar              2-1   @ Dar es Salaam, Tanzania
+Sat Nov 26
+  Tanzania             v Rwanda                0-1   @ Dar es Salaam, Tanzania
+Sun Nov 27
+  Zanzibar             v Burundi               0-0   @ Dar es Salaam, Tanzania
+  Zimbabwe             v Djibouti              2-0   @ Dar es Salaam, Tanzania
+Mon Nov 28
+  Kenya                v Malawi                0-2   @ Dar es Salaam, Tanzania
+  Somalia              v Uganda                0-4   @ Chamazi, Tanzania
+  Sudan                v Ethiopia              1-1   @ Dar es Salaam, Tanzania
+Tue Nov 29
+  Rwanda               v Zimbabwe              2-0   @ Dar es Salaam, Tanzania
+  Tanzania             v Djibouti              3-0   @ Dar es Salaam, Tanzania
+Wed Nov 30
+  Ethiopia             v Kenya                 0-2   @ Dar es Salaam, Tanzania
+  Malawi               v Sudan                 0-0   @ Dar es Salaam, Tanzania
+Thu Dec 1
+  Burundi              v Uganda                1-0   @ Dar es Salaam, Tanzania
+  Somalia              v Zanzibar              0-3   @ Dar es Salaam, Tanzania
+Fri Dec 2
+  Ethiopia             v Malawi                1-1   @ Dar es Salaam, Tanzania
+  Rwanda               v Djibouti              5-2   @ Dar es Salaam, Tanzania
+Sat Dec 3
+  Kenya                v Sudan                 0-1   @ Dar es Salaam, Tanzania
+  Tanzania             v Zimbabwe              1-2   @ Dar es Salaam, Tanzania
+Mon Dec 5
+  Burundi              v Sudan                 0-2   @ Dar es Salaam, Tanzania
+  Rwanda               v Zanzibar              2-1   @ Dar es Salaam, Tanzania
+Tue Dec 6
+  Tanzania             v Malawi                1-0   @ Dar es Salaam, Tanzania
+  Uganda               v Zimbabwe              1-0   @ Dar es Salaam, Tanzania
+Thu Dec 8
+  Sudan                v Rwanda                1-2   @ Dar es Salaam, Tanzania
+  Tanzania             v Uganda                1-3   @ Dar es Salaam, Tanzania
+Sat Dec 10
+  Rwanda               v Uganda                2-2   @ Dar es Salaam, Tanzania
+  Tanzania             v Sudan                 0-1   @ Dar es Salaam, Tanzania
 

@@ -1,11 +1,11 @@
 = Atlantic Cup 1976
 
-# Date       Wed Mar/10 - Wed May/19 1976 (70d)
+# Date       Wed Mar 10 - Wed May 19 1976 (70d)
 # Teams      2
 # Matches    2
 
-[Wed Mar 10]
-  Uruguay - Paraguay  2-2   @ Montevideo, Uruguay
-[Wed May 19]
-  Paraguay - Uruguay  1-0   @ Asunción, Paraguay
+Wed Mar 10
+  Uruguay              v Paraguay              2-2   @ Montevideo, Uruguay
+Wed May 19
+  Paraguay             v Uruguay               1-0   @ Asunción, Paraguay
 

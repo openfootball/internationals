@@ -1,61 +1,61 @@
 = African Cup of Nations 1994
 
-# Date       Sat Mar/26 - Sun Apr/10 1994 (15d)
+# Date       Sat Mar 26 - Sun Apr 10 1994 (15d)
 # Teams      12
 # Matches    20
 
-[Sat Mar 26]
-  Nigeria - Gabon  3-0   @ Tunis, Tunisia
-     Rashidi Yekini 18' Mutiu Adepoju 72' Rashidi Yekini 88'
-  Tunisia - Mali  0-2   @ Tunis, Tunisia
-     -; Fernand Coulibaly 25' Modibo Sidibé 34'
-[Sun Mar 27]
-  Ghana - Guinea  1-0   @ Sousse, Tunisia
-     Charles Akonnor 87'
-  Ivory Coast - Sierra Leone  4-0   @ Sousse, Tunisia
-     Joël Tiéhi 19' Tchiressoua Guel 35' Joël Tiéhi 63' Joël Tiéhi 70'
-[Mon Mar 28]
-  Egypt - Gabon  4-0   @ Tunis, Tunisia
-     Ayman Mansour 1' Hamza El-Gamal 22' Bashir Abdel Samad 55' Bashir Abdel Samad 59'
-  Mali - DR Congo  0-1   @ Tunis, Tunisia
-     -; Basaula Lemba 48'
-[Tue Mar 29]
-  Senegal - Guinea  2-1   @ Sousse, Tunisia
-     Momath Gueye 46' (pen.) Athanas Tendeng 50';
-     Aboubacar Titi Camara 44'
-  Zambia - Sierra Leone  0-0   @ Sousse, Tunisia
-[Wed Mar 30]
-  Nigeria - Egypt  0-0   @ Tunis, Tunisia
-  Tunisia - DR Congo  1-1   @ Tunis, Tunisia
-     Faouzi Rouissi 43' (pen.);
-     Nsumbu Ngoy 55'
-[Thu Mar 31]
-  Ghana - Senegal  1-0   @ Sousse, Tunisia
-     Prince Opoku Polley 42'
-  Zambia - Ivory Coast  1-0   @ Sousse, Tunisia
-     Kenneth Malitoli 79'
-[Sat Apr 2]
-  DR Congo - Nigeria  0-2   @ Tunis, Tunisia
-     -; Rashidi Yekini 51' Rashidi Yekini 71' (pen.)
-  Egypt - Mali  0-1   @ Tunis, Tunisia
-     -; Soumaila Traoré 64'
-[Sun Apr 3]
-  Ghana - Ivory Coast  1-2   @ Sousse, Tunisia
-     Charles Akonnor 77';
-     Joël Tiéhi 30' Abdoulaye Traoré 81'
-  Zambia - Senegal  1-0   @ Sousse, Tunisia
-     Evans Sakala 38'
-[Wed Apr 6]
-  Nigeria - Ivory Coast  2-2   @ Tunis, Tunisia   [Nigeria wins on penalties]
-     Ben Iroha 26' Rashidi Yekini 40';
-     Michel Bassolé 19' Michel Bassolé 31'
-  Zambia - Mali  4-0   @ Tunis, Tunisia
-     Elijah Litana 8' Zeddy Saileti 30' Kalusha Bwalya 47' Kenneth Malitoli 73'
-[Sun Apr 10]
-  Ivory Coast - Mali  3-1   @ Tunis, Tunisia
-     Adama Klofie Koné 2' Ahmed Ouattara 67' Donald-Olivier Sié 70';
-     Amadou Pathé Diallo 46'
-  Nigeria - Zambia  2-1   @ Tunis, Tunisia
-     Emmanuel Amunike 5' Emmanuel Amunike 47';
-     Elijah Litana 3'
+Sat Mar 26
+  Nigeria              v Gabon                 3-0   @ Tunis, Tunisia
+     (Rashidi Yekini 18' Mutiu Adepoju 72' Rashidi Yekini 88')
+  Tunisia              v Mali                  0-2   @ Tunis, Tunisia
+     (Fernand Coulibaly 25' Modibo Sidibé 34')
+Sun Mar 27
+  Ghana                v Guinea                1-0   @ Sousse, Tunisia
+     (Charles Akonnor 87')
+  Ivory Coast          v Sierra Leone          4-0   @ Sousse, Tunisia
+     (Joël Tiéhi 19' Tchiressoua Guel 35' Joël Tiéhi 63' Joël Tiéhi 70')
+Mon Mar 28
+  Egypt                v Gabon                 4-0   @ Tunis, Tunisia
+     (Ayman Mansour 1' Hamza El-Gamal 22' Bashir Abdel Samad 55' Bashir Abdel Samad 59')
+  Mali                 v DR Congo              0-1   @ Tunis, Tunisia
+     (Basaula Lemba 48')
+Tue Mar 29
+  Senegal              v Guinea                2-1   @ Sousse, Tunisia
+     (Momath Gueye 46'(p) Athanas Tendeng 50';
+      Aboubacar Titi Camara 44')
+  Zambia               v Sierra Leone          0-0   @ Sousse, Tunisia
+Wed Mar 30
+  Nigeria              v Egypt                 0-0   @ Tunis, Tunisia
+  Tunisia              v DR Congo              1-1   @ Tunis, Tunisia
+     (Faouzi Rouissi 43'(p);
+      Nsumbu Ngoy 55')
+Thu Mar 31
+  Ghana                v Senegal               1-0   @ Sousse, Tunisia
+     (Prince Opoku Polley 42')
+  Zambia               v Ivory Coast           1-0   @ Sousse, Tunisia
+     (Kenneth Malitoli 79')
+Sat Apr 2
+  DR Congo             v Nigeria               0-2   @ Tunis, Tunisia
+     (Rashidi Yekini 51' Rashidi Yekini 71'(p))
+  Egypt                v Mali                  0-1   @ Tunis, Tunisia
+     (Soumaila Traoré 64')
+Sun Apr 3
+  Ghana                v Ivory Coast           1-2   @ Sousse, Tunisia
+     (Charles Akonnor 77';
+      Joël Tiéhi 30' Abdoulaye Traoré 81')
+  Zambia               v Senegal               1-0   @ Sousse, Tunisia
+     (Evans Sakala 38')
+Wed Apr 6
+  Nigeria              v Ivory Coast           2-2   @ Tunis, Tunisia   [Nigeria wins on penalties]
+     (Ben Iroha 26' Rashidi Yekini 40';
+      Michel Bassolé 19' Michel Bassolé 31')
+  Zambia               v Mali                  4-0   @ Tunis, Tunisia
+     (Elijah Litana 8' Zeddy Saileti 30' Kalusha Bwalya 47' Kenneth Malitoli 73')
+Sun Apr 10
+  Ivory Coast          v Mali                  3-1   @ Tunis, Tunisia
+     (Adama Klofie Koné 2' Ahmed Ouattara 67' Donald-Olivier Sié 70';
+      Amadou Pathé Diallo 46')
+  Nigeria              v Zambia                2-1   @ Tunis, Tunisia
+     (Emmanuel Amunike 5' Emmanuel Amunike 47';
+      Elijah Litana 3')
 

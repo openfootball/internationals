@@ -1,15 +1,15 @@
 = CFU Caribbean Cup qualification 2005
 
-# Date       Sat Jan/8 - Sun Jan/16 2005 (8d)
+# Date       Sat Jan 8 - Sun Jan 16 2005 (8d)
 # Teams      4
 # Matches    4
 
-[Sat Jan 8]
-  Jamaica - French Guiana  5-0   @ Kingston, Jamaica
-[Sun Jan 9]
-  Haiti - Cuba  0-1   @ Port-au-Prince, Haiti
-[Sat Jan 15]
-  French Guiana - Jamaica  0-0   @ Cayenne, French Guiana
-[Sun Jan 16]
-  Cuba - Haiti  1-1   @ Havana, Cuba
+Sat Jan 8
+  Jamaica              v French Guiana         5-0   @ Kingston, Jamaica
+Sun Jan 9
+  Haiti                v Cuba                  0-1   @ Port-au-Prince, Haiti
+Sat Jan 15
+  French Guiana        v Jamaica               0-0   @ Cayenne, French Guiana
+Sun Jan 16
+  Cuba                 v Haiti                 1-1   @ Havana, Cuba
 

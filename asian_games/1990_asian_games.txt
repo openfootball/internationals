@@ -1,43 +1,43 @@
 = Asian Games 1990
 
-# Date       Sun Sep/23 - Sat Oct/6 1990 (13d)
+# Date       Sun Sep 23 - Sat Oct 6 1990 (13d)
 # Teams      14
 # Matches    26
 
-[Sun Sep 23]
-  South Korea - Singapore  7-0   @ Beijing, China PR
-  China PR - Pakistan  3-0   @ Beijing, China PR
-  Kuwait - Hong Kong  2-1   @ Beijing, China PR
-  Yemen - Thailand  0-0   @ Beijing, China PR
-[Mon Sep 24]
-  Iran - Malaysia  3-0   @ Beijing, China PR
-  Saudi Arabia - Bangladesh  4-0   @ Beijing, China PR
-[Tue Sep 25]
-  China PR - Singapore  5-1   @ Beijing, China PR
-  Pakistan - South Korea  0-7   @ Beijing, China PR
-  Hong Kong - Thailand  0-2   @ Beijing, China PR
-  Yemen - Kuwait  0-0   @ Beijing, China PR
-[Wed Sep 26]
-  Malaysia - North Korea  0-0   @ Beijing, China PR
-  Bangladesh - Japan  0-3   @ Beijing, China PR
-[Thu Sep 27]
-  China PR - South Korea  0-2   @ Beijing, China PR
-  Singapore - Pakistan  6-1   @ Beijing, China PR
-  Hong Kong - Yemen  2-0   @ Beijing, China PR
-  Thailand - Kuwait  2-1   @ Beijing, China PR
-[Fri Sep 28]
-  North Korea - Iran  1-2   @ Beijing, China PR
-  Japan - Saudi Arabia  0-2   @ Beijing, China PR
-[Mon Oct 1]
-  South Korea - Kuwait  1-0   @ Beijing, China PR
-  Iran - Japan  1-0   @ Beijing, China PR
-  China PR - Thailand  0-1   @ Beijing, China PR
-  Saudi Arabia - North Korea  0-0   @ Beijing, China PR   [North Korea wins on penalties]
-[Wed Oct 3]
-  South Korea - Iran  0-1   @ Beijing, China PR
-  Thailand - North Korea  0-1   @ Beijing, China PR
-[Fri Oct 5]
-  South Korea - Thailand  1-0   @ Beijing, China PR
-[Sat Oct 6]
-  Iran - North Korea  0-0   @ Beijing, China PR   [Iran wins on penalties]
+Sun Sep 23
+  South Korea          v Singapore             7-0   @ Beijing, China PR
+  China PR             v Pakistan              3-0   @ Beijing, China PR
+  Kuwait               v Hong Kong             2-1   @ Beijing, China PR
+  Yemen                v Thailand              0-0   @ Beijing, China PR
+Mon Sep 24
+  Iran                 v Malaysia              3-0   @ Beijing, China PR
+  Saudi Arabia         v Bangladesh            4-0   @ Beijing, China PR
+Tue Sep 25
+  China PR             v Singapore             5-1   @ Beijing, China PR
+  Pakistan             v South Korea           0-7   @ Beijing, China PR
+  Hong Kong            v Thailand              0-2   @ Beijing, China PR
+  Yemen                v Kuwait                0-0   @ Beijing, China PR
+Wed Sep 26
+  Malaysia             v North Korea           0-0   @ Beijing, China PR
+  Bangladesh           v Japan                 0-3   @ Beijing, China PR
+Thu Sep 27
+  China PR             v South Korea           0-2   @ Beijing, China PR
+  Singapore            v Pakistan              6-1   @ Beijing, China PR
+  Hong Kong            v Yemen                 2-0   @ Beijing, China PR
+  Thailand             v Kuwait                2-1   @ Beijing, China PR
+Fri Sep 28
+  North Korea          v Iran                  1-2   @ Beijing, China PR
+  Japan                v Saudi Arabia          0-2   @ Beijing, China PR
+Mon Oct 1
+  South Korea          v Kuwait                1-0   @ Beijing, China PR
+  Iran                 v Japan                 1-0   @ Beijing, China PR
+  China PR             v Thailand              0-1   @ Beijing, China PR
+  Saudi Arabia         v North Korea           0-0   @ Beijing, China PR   [North Korea wins on penalties]
+Wed Oct 3
+  South Korea          v Iran                  0-1   @ Beijing, China PR
+  Thailand             v North Korea           0-1   @ Beijing, China PR
+Fri Oct 5
+  South Korea          v Thailand              1-0   @ Beijing, China PR
+Sat Oct 6
+  Iran                 v North Korea           0-0   @ Beijing, China PR   [Iran wins on penalties]
 

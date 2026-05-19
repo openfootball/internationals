@@ -1,13 +1,13 @@
 = Kirin Cup 2004
 
-# Date       Fri Jul/9 - Tue Jul/13 2004 (4d)
+# Date       Fri Jul 9 - Tue Jul 13 2004 (4d)
 # Teams      3
 # Matches    3
 
-[Fri Jul 9]
-  Japan - Slovakia  3-1   @ Hiroshima, Japan
-[Sun Jul 11]
-  Serbia - Slovakia  2-0   @ Fukuoka, Japan
-[Tue Jul 13]
-  Japan - Serbia  1-0   @ Yokohama, Japan
+Fri Jul 9
+  Japan                v Slovakia              3-1   @ Hiroshima, Japan
+Sun Jul 11
+  Serbia               v Slovakia              2-0   @ Fukuoka, Japan
+Tue Jul 13
+  Japan                v Serbia                1-0   @ Yokohama, Japan
 

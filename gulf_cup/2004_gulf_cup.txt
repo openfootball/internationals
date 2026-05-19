@@ -1,54 +1,54 @@
 = Gulf Cup 2004
 
-# Date       Thu Jan/1 - Fri Dec/24 2004 (358d)
+# Date       Thu Jan 1 - Fri Dec 24 2004 (358d)
 # Teams      8
 # Matches    29
 
-[Thu Jan 1]
-  Bahrain - Saudi Arabia  0-1   @ Kuwait City, Kuwait
-  Kuwait - Yemen  4-0   @ Kuwait City, Kuwait
-[Sat Jan 3]
-  Oman - Bahrain  0-1   @ Kuwait City, Kuwait
-  United Arab Emirates - Qatar  0-0   @ Kuwait City, Kuwait
-[Sun Jan 4]
-  Kuwait - Saudi Arabia  1-1   @ Kuwait City, Kuwait
-[Mon Jan 5]
-  Qatar - Yemen  3-0   @ Kuwait City, Kuwait
-[Tue Jan 6]
-  Oman - Saudi Arabia  1-2   @ Kuwait City, Kuwait
-[Wed Jan 7]
-  United Arab Emirates - Bahrain  1-3   @ Kuwait City, Kuwait
-[Thu Jan 8]
-  Kuwait - Qatar  1-2   @ Kuwait City, Kuwait
-  Yemen - Saudi Arabia  0-2   @ Kuwait City, Kuwait
-[Sat Jan 10]
-  Kuwait - Bahrain  0-4   @ Kuwait City, Kuwait
-[Sun Jan 11]
-  Oman - Qatar  2-0   @ Kuwait City, Kuwait
-  Yemen - United Arab Emirates  0-3   @ Kuwait City, Kuwait
-[Fri Dec 10]
-  Iraq - Oman  1-3   @ Doha, Qatar
-  Qatar - United Arab Emirates  2-2   @ Doha, Qatar
-[Sat Dec 11]
-  Bahrain - Yemen  1-1   @ Al Rayyan, Qatar
-  Saudi Arabia - Kuwait  1-2   @ Al Rayyan, Qatar
-[Mon Dec 13]
-  Oman - United Arab Emirates  2-1   @ Doha, Qatar
-  Qatar - Iraq  3-3   @ Doha, Qatar
-[Tue Dec 14]
-  Kuwait - Bahrain  1-1   @ Al Rayyan, Qatar
-  Saudi Arabia - Yemen  2-0   @ Al Rayyan, Qatar
-[Thu Dec 16]
-  Iraq - United Arab Emirates  1-1   @ Al Rayyan, Qatar
-  Qatar - Oman  2-1   @ Doha, Qatar
-[Fri Dec 17]
-  Bahrain - Saudi Arabia  3-0   @ Al Rayyan, Qatar
-  Kuwait - Yemen  3-0   @ Doha, Qatar
-[Mon Dec 20]
-  Oman - Bahrain  3-2   @ Al Rayyan, Qatar
-  Qatar - Kuwait  2-0   @ Doha, Qatar
-[Thu Dec 23]
-  Bahrain - Kuwait  3-1   @ Doha, Qatar
-[Fri Dec 24]
-  Qatar - Oman  1-1   @ Doha, Qatar   [Qatar wins on penalties]
+Thu Jan 1
+  Bahrain              v Saudi Arabia          0-1   @ Kuwait City, Kuwait
+  Kuwait               v Yemen                 4-0   @ Kuwait City, Kuwait
+Sat Jan 3
+  Oman                 v Bahrain               0-1   @ Kuwait City, Kuwait
+  United Arab Emirates v Qatar                 0-0   @ Kuwait City, Kuwait
+Sun Jan 4
+  Kuwait               v Saudi Arabia          1-1   @ Kuwait City, Kuwait
+Mon Jan 5
+  Qatar                v Yemen                 3-0   @ Kuwait City, Kuwait
+Tue Jan 6
+  Oman                 v Saudi Arabia          1-2   @ Kuwait City, Kuwait
+Wed Jan 7
+  United Arab Emirates v Bahrain               1-3   @ Kuwait City, Kuwait
+Thu Jan 8
+  Kuwait               v Qatar                 1-2   @ Kuwait City, Kuwait
+  Yemen                v Saudi Arabia          0-2   @ Kuwait City, Kuwait
+Sat Jan 10
+  Kuwait               v Bahrain               0-4   @ Kuwait City, Kuwait
+Sun Jan 11
+  Oman                 v Qatar                 2-0   @ Kuwait City, Kuwait
+  Yemen                v United Arab Emirates  0-3   @ Kuwait City, Kuwait
+Fri Dec 10
+  Iraq                 v Oman                  1-3   @ Doha, Qatar
+  Qatar                v United Arab Emirates  2-2   @ Doha, Qatar
+Sat Dec 11
+  Bahrain              v Yemen                 1-1   @ Al Rayyan, Qatar
+  Saudi Arabia         v Kuwait                1-2   @ Al Rayyan, Qatar
+Mon Dec 13
+  Oman                 v United Arab Emirates  2-1   @ Doha, Qatar
+  Qatar                v Iraq                  3-3   @ Doha, Qatar
+Tue Dec 14
+  Kuwait               v Bahrain               1-1   @ Al Rayyan, Qatar
+  Saudi Arabia         v Yemen                 2-0   @ Al Rayyan, Qatar
+Thu Dec 16
+  Iraq                 v United Arab Emirates  1-1   @ Al Rayyan, Qatar
+  Qatar                v Oman                  2-1   @ Doha, Qatar
+Fri Dec 17
+  Bahrain              v Saudi Arabia          3-0   @ Al Rayyan, Qatar
+  Kuwait               v Yemen                 3-0   @ Doha, Qatar
+Mon Dec 20
+  Oman                 v Bahrain               3-2   @ Al Rayyan, Qatar
+  Qatar                v Kuwait                2-0   @ Doha, Qatar
+Thu Dec 23
+  Bahrain              v Kuwait                3-1   @ Doha, Qatar
+Fri Dec 24
+  Qatar                v Oman                  1-1   @ Doha, Qatar   [Qatar wins on penalties]
 

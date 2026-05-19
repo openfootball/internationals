@@ -1,50 +1,50 @@
 = CFU Caribbean Cup qualification 2014
 
-# Date       Fri May/30 - Sun Oct/12 2014 (135d)
+# Date       Fri May 30 - Sun Oct 12 2014 (135d)
 # Teams      24
 # Matches    34
 
-[Fri May 30]
-  Aruba - Turks and Caicos Islands  1-0   @ Oranjestad, Aruba
-  French Guiana - British Virgin Islands  6-0   @ Oranjestad, Aruba
-  Montserrat - United States Virgin Islands  1-0   @ Lookout, Montserrat
-[Sun Jun 1]
-  Aruba - British Virgin Islands  7-0   @ Oranjestad, Aruba
-  Turks and Caicos Islands - French Guiana  0-6   @ Oranjestad, Aruba
-  United States Virgin Islands - Bonaire  1-2   @ Lookout, Montserrat
-[Tue Jun 3]
-  Aruba - French Guiana  0-2   @ Oranjestad, Aruba
-  British Virgin Islands - Turks and Caicos Islands  0-2   @ Oranjestad, Aruba
-[Wed Sep 3]
-  Grenada - French Guiana  1-1   @ Bayamón, Puerto Rico
-  Guyana - Dominica  0-0   @ Basseterre, Saint Kitts and Nevis
-  Puerto Rico - Curaçao  2-2   @ Bayamón, Puerto Rico
-[Fri Sep 5]
-  Curaçao - Grenada  2-1   @ Bayamón, Puerto Rico
-  Puerto Rico - French Guiana  1-2   @ Bayamón, Puerto Rico
-  Saint Kitts and Nevis - Dominica  5-0   @ Basseterre, Saint Kitts and Nevis
-  Saint Lucia - Guyana  2-0   @ Basseterre, Saint Kitts and Nevis
-  Saint Vincent and the Grenadines - Anguilla  4-0   @ St. John's, Antigua and Barbuda
-  Suriname - Bonaire  2-3   @ Rivière-Pilote, Martinique
-[Sun Sep 7]
-  Bonaire - Barbados  1-4   @ Fort-de-France, Martinique
-  Dominica - Saint Lucia  1-2   @ Basseterre, Saint Kitts and Nevis
-  French Guiana - Curaçao  0-0   @ Bayamón, Puerto Rico
-  Puerto Rico - Grenada  2-2   @ Bayamón, Puerto Rico
-[Wed Oct 8]
-  Antigua and Barbuda - Saint Lucia  2-1   @ Couva, Trinidad and Tobago
-  Curaçao - Martinique  1-1   @ Les Abymes, Guadeloupe
-  Haiti - French Guiana  2-2   @ Port-au-Prince, Haiti
-  Saint Kitts and Nevis - Barbados  2-3   @ Port-au-Prince, Haiti
-  Trinidad and Tobago - Dominican Republic  6-1   @ Couva, Trinidad and Tobago
-[Fri Oct 10]
-  French Guiana - Saint Kitts and Nevis  1-2   @ Port-au-Prince, Haiti
-  Saint Vincent and the Grenadines - Curaçao  1-0   @ Les Abymes, Guadeloupe
-  Trinidad and Tobago - Saint Lucia  2-0   @ Couva, Trinidad and Tobago
-[Sun Oct 12]
-  Barbados - French Guiana  0-2   @ Port-au-Prince, Haiti
-  Guadeloupe - Curaçao  0-1   @ Les Abymes, Guadeloupe
-  Haiti - Saint Kitts and Nevis  0-0   @ Port-au-Prince, Haiti
-  Saint Lucia - Dominican Republic  2-3   @ Couva, Trinidad and Tobago
-  Trinidad and Tobago - Antigua and Barbuda  1-0   @ Couva, Trinidad and Tobago
+Fri May 30
+  Aruba                v Turks and Caicos Islands  1-0   @ Oranjestad, Aruba
+  French Guiana        v British Virgin Islands  6-0   @ Oranjestad, Aruba
+  Montserrat           v United States Virgin Islands  1-0   @ Lookout, Montserrat
+Sun Jun 1
+  Aruba                v British Virgin Islands  7-0   @ Oranjestad, Aruba
+  Turks and Caicos Islands v French Guiana         0-6   @ Oranjestad, Aruba
+  United States Virgin Islands v Bonaire               1-2   @ Lookout, Montserrat
+Tue Jun 3
+  Aruba                v French Guiana         0-2   @ Oranjestad, Aruba
+  British Virgin Islands v Turks and Caicos Islands  0-2   @ Oranjestad, Aruba
+Wed Sep 3
+  Grenada              v French Guiana         1-1   @ Bayamón, Puerto Rico
+  Guyana               v Dominica              0-0   @ Basseterre, Saint Kitts and Nevis
+  Puerto Rico          v Curaçao               2-2   @ Bayamón, Puerto Rico
+Fri Sep 5
+  Curaçao              v Grenada               2-1   @ Bayamón, Puerto Rico
+  Puerto Rico          v French Guiana         1-2   @ Bayamón, Puerto Rico
+  Saint Kitts and Nevis v Dominica              5-0   @ Basseterre, Saint Kitts and Nevis
+  Saint Lucia          v Guyana                2-0   @ Basseterre, Saint Kitts and Nevis
+  Saint Vincent and the Grenadines v Anguilla              4-0   @ St. John's, Antigua and Barbuda
+  Suriname             v Bonaire               2-3   @ Rivière-Pilote, Martinique
+Sun Sep 7
+  Bonaire              v Barbados              1-4   @ Fort-de-France, Martinique
+  Dominica             v Saint Lucia           1-2   @ Basseterre, Saint Kitts and Nevis
+  French Guiana        v Curaçao               0-0   @ Bayamón, Puerto Rico
+  Puerto Rico          v Grenada               2-2   @ Bayamón, Puerto Rico
+Wed Oct 8
+  Antigua and Barbuda  v Saint Lucia           2-1   @ Couva, Trinidad and Tobago
+  Curaçao              v Martinique            1-1   @ Les Abymes, Guadeloupe
+  Haiti                v French Guiana         2-2   @ Port-au-Prince, Haiti
+  Saint Kitts and Nevis v Barbados              2-3   @ Port-au-Prince, Haiti
+  Trinidad and Tobago  v Dominican Republic    6-1   @ Couva, Trinidad and Tobago
+Fri Oct 10
+  French Guiana        v Saint Kitts and Nevis  1-2   @ Port-au-Prince, Haiti
+  Saint Vincent and the Grenadines v Curaçao               1-0   @ Les Abymes, Guadeloupe
+  Trinidad and Tobago  v Saint Lucia           2-0   @ Couva, Trinidad and Tobago
+Sun Oct 12
+  Barbados             v French Guiana         0-2   @ Port-au-Prince, Haiti
+  Guadeloupe           v Curaçao               0-1   @ Les Abymes, Guadeloupe
+  Haiti                v Saint Kitts and Nevis  0-0   @ Port-au-Prince, Haiti
+  Saint Lucia          v Dominican Republic    2-3   @ Couva, Trinidad and Tobago
+  Trinidad and Tobago  v Antigua and Barbuda   1-0   @ Couva, Trinidad and Tobago
 

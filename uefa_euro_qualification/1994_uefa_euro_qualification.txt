@@ -1,204 +1,204 @@
 = UEFA Euro qualification 1994
 
-# Date       Wed Apr/20 - Sun Dec/18 1994 (242d)
+# Date       Wed Apr 20 - Sun Dec 18 1994 (242d)
 # Teams      47
 # Matches    80
 
-[Wed Apr 20]
-  Northern Ireland - Liechtenstein  4-1   @ Belfast, Northern Ireland
-     Jimmy Quinn 5' Steve Lomas 25' Jimmy Quinn 34' Iain Dowie 48';
-     Daniel Hasler 84'
-[Sun Sep 4]
-  Estonia - Croatia  0-2   @ Tallinn, Estonia
-     -; Davor Šuker 44' Davor Šuker 72'
-  Israel - Poland  2-1   @ Ramat Gan, Israel
-     Ronen Harazi 44' Ronen Harazi 59';
-     Roman Kosecki 80'
-[Tue Sep 6]
-  Czech Republic - Malta  6-1   @ Ostrava, Czech Republic
-     Daniel Šmejkal 5' (pen.) Luboš Kubík 32' Horst Siegl 34' Horst Siegl 60' Horst Siegl 77' Patrik Berger 86';
-     Kristian Laferla 63'
-[Wed Sep 7]
-  Belgium - Armenia  2-0   @ Brussels, Belgium
-     Yervand Krbachyan 3' (o.g.) Marc Degryse 73'
-  Cyprus - Spain  1-2   @ Limassol, Cyprus
-     Andreas Sotiriou 37';
-     Francisco Higuera 18' Marios Charalambous 26' (o.g.)
-  Faroe Islands - Greece  1-5   @ Toftir, Faroe Islands
-     Stratos Apostolakis 90' (o.g.);
-     Dimitris Saravakos 12' Panagiotis Tsalouchidis 17' Alexis Alexandris 55' Alexis Alexandris 61' Panagiotis Tsalouchidis 86'
-  Finland - Scotland  0-2   @ Helsinki, Finland
-     -; Duncan Shearer 29' John Collins 65'
-  Georgia - Moldova  0-1   @ Tbilisi, Georgia
-     -; Igor Oprea 40'
-  Hungary - Turkey  2-2   @ Budapest, Hungary
-     József Kiprich 4' Gábor Halmai 43';
-     Hakan Şükür 67' Bülent Korkmaz 72'
-  Iceland - Sweden  0-1   @ Reykjavík, Iceland
-     -; Klas Ingesson 36'
-  Latvia - Republic of Ireland  0-3   @ Riga, Latvia
-     -; John Aldridge 16' John Sheridan 29' John Aldridge 75' (pen.)
-  Liechtenstein - Austria  0-4   @ Eschen, Liechtenstein
-     -; Toni Polster 18' Franz Aigner 22' Toni Polster 45' Toni Polster 78'
-  Luxembourg - Netherlands  0-4   @ Luxembourg, Luxembourg
-     -; Bryan Roy 23' Ronald de Boer 65' Ronald de Boer 67' Wim Jonk 90'
-  North Macedonia - Denmark  1-1   @ Skopje, North Macedonia
-     Mitko Stojkovski 5';
-     Flemming Povlsen 86'
-  Northern Ireland - Portugal  1-2   @ Belfast, Northern Ireland
-     Jimmy Quinn 58' (pen.);
-     Rui Costa 8' Domingos Paciência 81'
-  Norway - Belarus  1-0   @ Oslo, Norway
-     Geir Frigård 88'
-  Romania - Azerbaijan  3-0   @ Bucharest, Romania
-     Miodrag Belodedici 42' Dan Petrescu 57' Florin Răducioiu 87'
-  Slovakia - France  0-0   @ Bratislava, Slovakia
-  Slovenia - Italy  1-1   @ Maribor, Slovenia
-     Sašo Udovič 16';
-     Alessandro Costacurta 19'
-  Ukraine - Lithuania  0-2   @ Kyiv, Ukraine
-     -; Valdas Ivanauskas 53' Aurelijus Skarbalius 61'
-  Wales - Albania  2-0   @ Cardiff, Wales
-     Chris Coleman 9' Ryan Giggs 67'
-[Sat Oct 8]
-  Armenia - Cyprus  0-0   @ Yerevan, Armenia
-  Estonia - Italy  0-2   @ Tallinn, Estonia
-     -; Christian Panucci 20' Pierluigi Casiraghi 77'
-  France - Romania  0-0   @ Saint-Étienne, France
-[Sun Oct 9]
-  Croatia - Lithuania  2-0   @ Zagreb, Croatia
-     Nikola Jerkan 58' Ardian Kozniku 81'
-  Latvia - Portugal  1-3   @ Riga, Latvia
-     Jevgeņijs Miļevskis 87';
-     João Vieira Pinto 31' João Vieira Pinto 69' Luís Figo 70'
-[Wed Oct 12]
-  Austria - Northern Ireland  1-2   @ Vienna, Austria
-     Toni Polster 24' (pen.);
-     Keith Gillespie 3' Phil Gray 36'
-  Belarus - Luxembourg  2-0   @ Minsk, Belarus
-     Miroslav Romaschenko 68' Syarhey Herasimets 76'
-  Bulgaria - Georgia  2-0   @ Sofia, Bulgaria
-     Emil Kostadinov 58' Emil Kostadinov 63'
-  Denmark - Belgium  3-1   @ Copenhagen, Denmark
-     Kim Vilfort 35' John Jensen 72' Mark Strudal 86';
-     Marc Degryse 31'
-  Greece - Finland  4-0   @ Salonica, Greece
-     Dimitris Markos 23' Daniel Batista Lima 70' Nikos Machlas 76' Nikos Machlas 90'
-  Republic of Ireland - Liechtenstein  4-0   @ Dublin, Republic of Ireland
-     Tommy Coyne 2' Tommy Coyne 4' Niall Quinn 30' Niall Quinn 82'
-  Israel - Slovakia  2-2   @ Ramat Gan, Israel
-     Ronen Harazi 23' Tal Banin 32' (pen.);
-     Stefan Rusnák 5' Ľubomír Moravčík 14'
-  North Macedonia - Spain  0-2   @ Skopje, North Macedonia
-     -; Julio Salinas 16' Julio Salinas 25'
-  Malta - Czech Republic  0-0   @ Attard, Malta
-  Moldova - Wales  3-2   @ Chișinău, Moldova
-     Serghei Belous 8' Serghei Secu 28' Valeriu Pogorelov 76';
-     Gary Speed 5' Nathan Blake 67'
-  Norway - Netherlands  1-1   @ Oslo, Norway
-     Kjetil Rekdal 52' (pen.);
-     Bryan Roy 22'
-  Poland - Azerbaijan  1-0   @ Mielec, Poland
-     Andrzej Juskowiak 44'
-  Russia - San Marino  4-0   @ Moscow, Russia
-     Valery Karpin 43' Igor Kolyvanov 64' Yuriy Nikiforov 65' Dmitri Radchenko 67'
-  Scotland - Faroe Islands  5-1   @ Glasgow, Scotland
-     John McGinlay 4' Scott Booth 5' John Collins 40' Billy McKinlay 61' John Collins 72';
-     Jan Allan Müller 75'
-  Switzerland - Sweden  4-2   @ Bern, Switzerland
-     Christophe Ohrel 36' Jesper Blomqvist 64' (o.g.) Ciriaco Sforza 80' Kubilay Türkyilmaz 82';
-     Kennet Andersson 6' Martin Dahlin 61'
-  Turkey - Iceland  5-0   @ Istanbul, Turkey
-     Saffet Sancaklı 11' Saffet Sancaklı 26' Hakan Şükür 29' Hakan Şükür 61' Sergen Yalçın 66'
-  Ukraine - Slovenia  0-0   @ Kyiv, Ukraine
-[Sat Nov 12]
-  Romania - Slovakia  3-2   @ Bucharest, Romania
-     Gheorghe Popescu 7' Gheorghe Hagi 46' Daniel Prodan 82';
-     Peter Dubovský 56' Miroslav Chvíla 78'
-[Sun Nov 13]
-  Portugal - Austria  1-0   @ Lisbon, Portugal
-     Luís Figo 37'
-  Ukraine - Estonia  3-0   @ Kyiv, Ukraine
-     Serhiy Konovalov 29' Urmas Kirs 44' (o.g.) Tymerlan Huseynov 72'
-[Tue Nov 15]
-  Liechtenstein - Latvia  0-1   @ Eschen, Liechtenstein
-     -; Vladimirs Babičevs 14'
-[Wed Nov 16]
-  Albania - Germany  1-2   @ Tirana, Albania
-     Hysen Zmijani 32';
-     Jürgen Klinsmann 18' Ulf Kirsten 46'
-  Azerbaijan - Israel  0-2   @ Trabzon, Turkey
-     -; Ronen Harazi 30' Ronny Rosenthal 51'
-  Belarus - Norway  0-4   @ Minsk, Belarus
-     -; Henning Berg 34' Øyvind Leonhardsen 39' Lars Bohinen 52' Kjetil Rekdal 83' (pen.)
-  Belgium - North Macedonia  1-1   @ Brussels, Belgium
-     Gert Verheyen 31';
-     Zoran Boškovski 51'
-  Bulgaria - Moldova  4-1   @ Sofia, Bulgaria
-     Hristo Stoichkov 43' Krasimir Balakov 63' Hristo Stoichkov 85' Emil Kostadinov 87';
-     Serghei Cleșcenco 61'
-  Cyprus - Armenia  2-0   @ Limassol, Cyprus
-     Andreas Sotiriou 7' Costas Fasouliotis 87'
-  Finland - Faroe Islands  5-0   @ Helsinki, Finland
-     Antti Sumiala 37' Jari Litmanen 53' Jari Litmanen 72' Mixu Paatelainen 75' Mixu Paatelainen 85'
-  Georgia - Wales  5-0   @ Tbilisi, Georgia
-     Temur Ketsbaia 31' Georgi Kinkladze 41' Temur Ketsbaia 49' Gocha Gogrichiani 59' Shota Arveladze 67'
-  Greece - San Marino  2-0   @ Athens, Greece
-     Nikos Machlas 21' Kostas Frantzeskos 84'
-  Italy - Croatia  1-2   @ Palermo, Italy
-     Dino Baggio 90';
-     Davor Šuker 32' Davor Šuker 60'
-  Netherlands - Czech Republic  0-0   @ Rotterdam, Netherlands
-  Northern Ireland - Republic of Ireland  0-4   @ Belfast, Northern Ireland
-     -; John Aldridge 6' Roy Keane 11' John Sheridan 38' Andy Townsend 54'
-  Poland - France  0-0   @ Zabrze, Poland
-  Scotland - Russia  1-1   @ Glasgow, Scotland
-     Scott Booth 19';
-     Dmitri Radchenko 25'
-  Slovenia - Lithuania  1-2   @ Maribor, Slovenia
-     Zlatko Zahovič 55';
-     Vyacheslav Sukristov 64' Audrius Žuta 87'
-  Spain - Denmark  3-0   @ Seville, Spain
-     Miguel Ángel Nadal 41' Donato Gama da Silva 56' Luis Enrique 87'
-  Sweden - Hungary  2-0   @ Solna, Sweden
-     Tomas Brolin 43' Martin Dahlin 70'
-  Switzerland - Iceland  1-0   @ Lausanne, Switzerland
-     Thomas Bickel 44'
-[Tue Dec 13]
-  Azerbaijan - France  0-2   @ Trabzon, Turkey
-     -; Jean-Pierre Papin 25' Patrice Loko 56'
-[Wed Dec 14]
-  Albania - Georgia  0-1   @ Tirana, Albania
-     -; Shota Arveladze 19'
-  Finland - San Marino  4-1   @ Helsinki, Finland
-     Mixu Paatelainen 24' Mixu Paatelainen 30' Mixu Paatelainen 86' Mixu Paatelainen 90';
-     Pier Domenico Della Valle 34'
-  Israel - Romania  1-1   @ Ramat Gan, Israel
-     Ronny Rosenthal 83';
-     Marius Lăcătuș 70'
-  Malta - Norway  0-1   @ Attard, Malta
-     -; Jan Åge Fjørtoft 10'
-  Moldova - Germany  0-3   @ Chișinău, Moldova
-     -; Ulf Kirsten 7' Jürgen Klinsmann 38' Lothar Matthäus 72'
-  Netherlands - Luxembourg  5-0   @ Rotterdam, Netherlands
-     Youri Mulder 7' Bryan Roy 17' Wim Jonk 40' Ronald de Boer 52' Clarence Seedorf 90'
-  Turkey - Switzerland  1-2   @ Istanbul, Turkey
-     Recep Çetin 39';
-     Marcel Koller 7' Thomas Bickel 16'
-  Wales - Bulgaria  0-3   @ Cardiff, Wales
-     -; Trifon Ivanov 5' Emil Kostadinov 16' Hristo Stoichkov 51'
-[Sat Dec 17]
-  Belgium - Spain  1-4   @ Brussels, Belgium
-     Marc Degryse 7';
-     Fernando Hierro 29' Donato Gama da Silva 56' Julio Salinas 68' Luis Enrique 90'
-  North Macedonia - Cyprus  3-0   @ Skopje, North Macedonia
-     Boško Gjurovski 14' Boško Gjurovski 25' Boško Gjurovski 90'
-[Sun Dec 18]
-  Germany - Albania  2-1   @ Kaiserslautern, Germany
-     Lothar Matthäus 8' Jürgen Klinsmann 17';
-     Altin Rraklli 58'
-  Greece - Scotland  1-0   @ Athens, Greece
-     Stratos Apostolakis 19' (pen.)
-  Portugal - Liechtenstein  8-0   @ Lisbon, Portugal
-     Domingos Paciência 2' Domingos Paciência 11' Oceano da Cruz 45' João Domingos Pinto 56' Fernando Couto 72' António Folha 74' Paulo Alves 75' Paulo Alves 79'
+Wed Apr 20
+  Northern Ireland     v Liechtenstein         4-1   @ Belfast, Northern Ireland
+     (Jimmy Quinn 5' Steve Lomas 25' Jimmy Quinn 34' Iain Dowie 48';
+      Daniel Hasler 84')
+Sun Sep 4
+  Estonia              v Croatia               0-2   @ Tallinn, Estonia
+     (Davor Šuker 44' Davor Šuker 72')
+  Israel               v Poland                2-1   @ Ramat Gan, Israel
+     (Ronen Harazi 44' Ronen Harazi 59';
+      Roman Kosecki 80')
+Tue Sep 6
+  Czech Republic       v Malta                 6-1   @ Ostrava, Czech Republic
+     (Daniel Šmejkal 5'(p) Luboš Kubík 32' Horst Siegl 34' Horst Siegl 60' Horst Siegl 77' Patrik Berger 86';
+      Kristian Laferla 63')
+Wed Sep 7
+  Belgium              v Armenia               2-0   @ Brussels, Belgium
+     (Yervand Krbachyan 3'(og) Marc Degryse 73')
+  Cyprus               v Spain                 1-2   @ Limassol, Cyprus
+     (Andreas Sotiriou 37';
+      Francisco Higuera 18' Marios Charalambous 26'(og))
+  Faroe Islands        v Greece                1-5   @ Toftir, Faroe Islands
+     (Stratos Apostolakis 90'(og);
+      Dimitris Saravakos 12' Panagiotis Tsalouchidis 17' Alexis Alexandris 55' Alexis Alexandris 61' Panagiotis Tsalouchidis 86')
+  Finland              v Scotland              0-2   @ Helsinki, Finland
+     (Duncan Shearer 29' John Collins 65')
+  Georgia              v Moldova               0-1   @ Tbilisi, Georgia
+     (Igor Oprea 40')
+  Hungary              v Turkey                2-2   @ Budapest, Hungary
+     (József Kiprich 4' Gábor Halmai 43';
+      Hakan Şükür 67' Bülent Korkmaz 72')
+  Iceland              v Sweden                0-1   @ Reykjavík, Iceland
+     (Klas Ingesson 36')
+  Latvia               v Republic of Ireland   0-3   @ Riga, Latvia
+     (John Aldridge 16' John Sheridan 29' John Aldridge 75'(p))
+  Liechtenstein        v Austria               0-4   @ Eschen, Liechtenstein
+     (Toni Polster 18' Franz Aigner 22' Toni Polster 45' Toni Polster 78')
+  Luxembourg           v Netherlands           0-4   @ Luxembourg, Luxembourg
+     (Bryan Roy 23' Ronald de Boer 65' Ronald de Boer 67' Wim Jonk 90')
+  North Macedonia      v Denmark               1-1   @ Skopje, North Macedonia
+     (Mitko Stojkovski 5';
+      Flemming Povlsen 86')
+  Northern Ireland     v Portugal              1-2   @ Belfast, Northern Ireland
+     (Jimmy Quinn 58'(p);
+      Rui Costa 8' Domingos Paciência 81')
+  Norway               v Belarus               1-0   @ Oslo, Norway
+     (Geir Frigård 88')
+  Romania              v Azerbaijan            3-0   @ Bucharest, Romania
+     (Miodrag Belodedici 42' Dan Petrescu 57' Florin Răducioiu 87')
+  Slovakia             v France                0-0   @ Bratislava, Slovakia
+  Slovenia             v Italy                 1-1   @ Maribor, Slovenia
+     (Sašo Udovič 16';
+      Alessandro Costacurta 19')
+  Ukraine              v Lithuania             0-2   @ Kyiv, Ukraine
+     (Valdas Ivanauskas 53' Aurelijus Skarbalius 61')
+  Wales                v Albania               2-0   @ Cardiff, Wales
+     (Chris Coleman 9' Ryan Giggs 67')
+Sat Oct 8
+  Armenia              v Cyprus                0-0   @ Yerevan, Armenia
+  Estonia              v Italy                 0-2   @ Tallinn, Estonia
+     (Christian Panucci 20' Pierluigi Casiraghi 77')
+  France               v Romania               0-0   @ Saint-Étienne, France
+Sun Oct 9
+  Croatia              v Lithuania             2-0   @ Zagreb, Croatia
+     (Nikola Jerkan 58' Ardian Kozniku 81')
+  Latvia               v Portugal              1-3   @ Riga, Latvia
+     (Jevgeņijs Miļevskis 87';
+      João Vieira Pinto 31' João Vieira Pinto 69' Luís Figo 70')
+Wed Oct 12
+  Austria              v Northern Ireland      1-2   @ Vienna, Austria
+     (Toni Polster 24'(p);
+      Keith Gillespie 3' Phil Gray 36')
+  Belarus              v Luxembourg            2-0   @ Minsk, Belarus
+     (Miroslav Romaschenko 68' Syarhey Herasimets 76')
+  Bulgaria             v Georgia               2-0   @ Sofia, Bulgaria
+     (Emil Kostadinov 58' Emil Kostadinov 63')
+  Denmark              v Belgium               3-1   @ Copenhagen, Denmark
+     (Kim Vilfort 35' John Jensen 72' Mark Strudal 86';
+      Marc Degryse 31')
+  Greece               v Finland               4-0   @ Salonica, Greece
+     (Dimitris Markos 23' Daniel Batista Lima 70' Nikos Machlas 76' Nikos Machlas 90')
+  Republic of Ireland  v Liechtenstein         4-0   @ Dublin, Republic of Ireland
+     (Tommy Coyne 2' Tommy Coyne 4' Niall Quinn 30' Niall Quinn 82')
+  Israel               v Slovakia              2-2   @ Ramat Gan, Israel
+     (Ronen Harazi 23' Tal Banin 32'(p);
+      Stefan Rusnák 5' Ľubomír Moravčík 14')
+  North Macedonia      v Spain                 0-2   @ Skopje, North Macedonia
+     (Julio Salinas 16' Julio Salinas 25')
+  Malta                v Czech Republic        0-0   @ Attard, Malta
+  Moldova              v Wales                 3-2   @ Chișinău, Moldova
+     (Serghei Belous 8' Serghei Secu 28' Valeriu Pogorelov 76';
+      Gary Speed 5' Nathan Blake 67')
+  Norway               v Netherlands           1-1   @ Oslo, Norway
+     (Kjetil Rekdal 52'(p);
+      Bryan Roy 22')
+  Poland               v Azerbaijan            1-0   @ Mielec, Poland
+     (Andrzej Juskowiak 44')
+  Russia               v San Marino            4-0   @ Moscow, Russia
+     (Valery Karpin 43' Igor Kolyvanov 64' Yuriy Nikiforov 65' Dmitri Radchenko 67')
+  Scotland             v Faroe Islands         5-1   @ Glasgow, Scotland
+     (John McGinlay 4' Scott Booth 5' John Collins 40' Billy McKinlay 61' John Collins 72';
+      Jan Allan Müller 75')
+  Switzerland          v Sweden                4-2   @ Bern, Switzerland
+     (Christophe Ohrel 36' Jesper Blomqvist 64'(og) Ciriaco Sforza 80' Kubilay Türkyilmaz 82';
+      Kennet Andersson 6' Martin Dahlin 61')
+  Turkey               v Iceland               5-0   @ Istanbul, Turkey
+     (Saffet Sancaklı 11' Saffet Sancaklı 26' Hakan Şükür 29' Hakan Şükür 61' Sergen Yalçın 66')
+  Ukraine              v Slovenia              0-0   @ Kyiv, Ukraine
+Sat Nov 12
+  Romania              v Slovakia              3-2   @ Bucharest, Romania
+     (Gheorghe Popescu 7' Gheorghe Hagi 46' Daniel Prodan 82';
+      Peter Dubovský 56' Miroslav Chvíla 78')
+Sun Nov 13
+  Portugal             v Austria               1-0   @ Lisbon, Portugal
+     (Luís Figo 37')
+  Ukraine              v Estonia               3-0   @ Kyiv, Ukraine
+     (Serhiy Konovalov 29' Urmas Kirs 44'(og) Tymerlan Huseynov 72')
+Tue Nov 15
+  Liechtenstein        v Latvia                0-1   @ Eschen, Liechtenstein
+     (Vladimirs Babičevs 14')
+Wed Nov 16
+  Albania              v Germany               1-2   @ Tirana, Albania
+     (Hysen Zmijani 32';
+      Jürgen Klinsmann 18' Ulf Kirsten 46')
+  Azerbaijan           v Israel                0-2   @ Trabzon, Turkey
+     (Ronen Harazi 30' Ronny Rosenthal 51')
+  Belarus              v Norway                0-4   @ Minsk, Belarus
+     (Henning Berg 34' Øyvind Leonhardsen 39' Lars Bohinen 52' Kjetil Rekdal 83'(p))
+  Belgium              v North Macedonia       1-1   @ Brussels, Belgium
+     (Gert Verheyen 31';
+      Zoran Boškovski 51')
+  Bulgaria             v Moldova               4-1   @ Sofia, Bulgaria
+     (Hristo Stoichkov 43' Krasimir Balakov 63' Hristo Stoichkov 85' Emil Kostadinov 87';
+      Serghei Cleșcenco 61')
+  Cyprus               v Armenia               2-0   @ Limassol, Cyprus
+     (Andreas Sotiriou 7' Costas Fasouliotis 87')
+  Finland              v Faroe Islands         5-0   @ Helsinki, Finland
+     (Antti Sumiala 37' Jari Litmanen 53' Jari Litmanen 72' Mixu Paatelainen 75' Mixu Paatelainen 85')
+  Georgia              v Wales                 5-0   @ Tbilisi, Georgia
+     (Temur Ketsbaia 31' Georgi Kinkladze 41' Temur Ketsbaia 49' Gocha Gogrichiani 59' Shota Arveladze 67')
+  Greece               v San Marino            2-0   @ Athens, Greece
+     (Nikos Machlas 21' Kostas Frantzeskos 84')
+  Italy                v Croatia               1-2   @ Palermo, Italy
+     (Dino Baggio 90';
+      Davor Šuker 32' Davor Šuker 60')
+  Netherlands          v Czech Republic        0-0   @ Rotterdam, Netherlands
+  Northern Ireland     v Republic of Ireland   0-4   @ Belfast, Northern Ireland
+     (John Aldridge 6' Roy Keane 11' John Sheridan 38' Andy Townsend 54')
+  Poland               v France                0-0   @ Zabrze, Poland
+  Scotland             v Russia                1-1   @ Glasgow, Scotland
+     (Scott Booth 19';
+      Dmitri Radchenko 25')
+  Slovenia             v Lithuania             1-2   @ Maribor, Slovenia
+     (Zlatko Zahovič 55';
+      Vyacheslav Sukristov 64' Audrius Žuta 87')
+  Spain                v Denmark               3-0   @ Seville, Spain
+     (Miguel Ángel Nadal 41' Donato Gama da Silva 56' Luis Enrique 87')
+  Sweden               v Hungary               2-0   @ Solna, Sweden
+     (Tomas Brolin 43' Martin Dahlin 70')
+  Switzerland          v Iceland               1-0   @ Lausanne, Switzerland
+     (Thomas Bickel 44')
+Tue Dec 13
+  Azerbaijan           v France                0-2   @ Trabzon, Turkey
+     (Jean-Pierre Papin 25' Patrice Loko 56')
+Wed Dec 14
+  Albania              v Georgia               0-1   @ Tirana, Albania
+     (Shota Arveladze 19')
+  Finland              v San Marino            4-1   @ Helsinki, Finland
+     (Mixu Paatelainen 24' Mixu Paatelainen 30' Mixu Paatelainen 86' Mixu Paatelainen 90';
+      Pier Domenico Della Valle 34')
+  Israel               v Romania               1-1   @ Ramat Gan, Israel
+     (Ronny Rosenthal 83';
+      Marius Lăcătuș 70')
+  Malta                v Norway                0-1   @ Attard, Malta
+     (Jan Åge Fjørtoft 10')
+  Moldova              v Germany               0-3   @ Chișinău, Moldova
+     (Ulf Kirsten 7' Jürgen Klinsmann 38' Lothar Matthäus 72')
+  Netherlands          v Luxembourg            5-0   @ Rotterdam, Netherlands
+     (Youri Mulder 7' Bryan Roy 17' Wim Jonk 40' Ronald de Boer 52' Clarence Seedorf 90')
+  Turkey               v Switzerland           1-2   @ Istanbul, Turkey
+     (Recep Çetin 39';
+      Marcel Koller 7' Thomas Bickel 16')
+  Wales                v Bulgaria              0-3   @ Cardiff, Wales
+     (Trifon Ivanov 5' Emil Kostadinov 16' Hristo Stoichkov 51')
+Sat Dec 17
+  Belgium              v Spain                 1-4   @ Brussels, Belgium
+     (Marc Degryse 7';
+      Fernando Hierro 29' Donato Gama da Silva 56' Julio Salinas 68' Luis Enrique 90')
+  North Macedonia      v Cyprus                3-0   @ Skopje, North Macedonia
+     (Boško Gjurovski 14' Boško Gjurovski 25' Boško Gjurovski 90')
+Sun Dec 18
+  Germany              v Albania               2-1   @ Kaiserslautern, Germany
+     (Lothar Matthäus 8' Jürgen Klinsmann 17';
+      Altin Rraklli 58')
+  Greece               v Scotland              1-0   @ Athens, Greece
+     (Stratos Apostolakis 19'(p))
+  Portugal             v Liechtenstein         8-0   @ Lisbon, Portugal
+     (Domingos Paciência 2' Domingos Paciência 11' Oceano da Cruz 45' João Domingos Pinto 56' Fernando Couto 72' António Folha 74' Paulo Alves 75' Paulo Alves 79')
 

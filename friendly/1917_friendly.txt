@@ -1,35 +1,35 @@
 = Friendly 1917
 
-# Date       Sun May/6 - Wed Dec/26 1917 (234d)
+# Date       Sun May 6 - Wed Dec 26 1917 (234d)
 # Teams      10
 # Matches    15
 
-[Sun May 6]
-  Austria - Hungary  1-1   @ Vienna, Austria
-[Mon May 7]
-  Japan - Philippines  2-15   @ Tokyo, Japan
-[Sun Jun 3]
-  Denmark - Sweden  1-1   @ Copenhagen, Denmark
-  Hungary - Austria  6-2   @ Budapest, Hungary
-[Sun Jun 17]
-  Norway - Denmark  1-2   @ Kristiania, Norway
-[Sun Jul 15]
-  Austria - Hungary  1-4   @ Vienna, Austria
-[Sun Aug 19]
-  Sweden - Norway  3-3   @ Helsingborg, Sweden
-[Sun Sep 16]
-  Norway - Sweden  0-2   @ Kristiania, Norway
-[Sun Oct 7]
-  Denmark - Norway  12-0   @ Copenhagen, Denmark
-  Hungary - Austria  2-1   @ Budapest, Hungary
-[Sun Oct 14]
-  Sweden - Denmark  1-2   @ Stockholm, Sweden
-[Tue Oct 16]
-  Uruguay - Brazil  3-1   @ Montevideo, Uruguay
-[Sun Nov 4]
-  Austria - Hungary  1-2   @ Vienna, Austria
-[Sun Dec 23]
-  Switzerland - Austria  0-1   @ Basel, Switzerland
-[Wed Dec 26]
-  Switzerland - Austria  3-2   @ Zürich, Switzerland
+Sun May 6
+  Austria              v Hungary               1-1   @ Vienna, Austria
+Mon May 7
+  Japan                v Philippines           2-15   @ Tokyo, Japan
+Sun Jun 3
+  Denmark              v Sweden                1-1   @ Copenhagen, Denmark
+  Hungary              v Austria               6-2   @ Budapest, Hungary
+Sun Jun 17
+  Norway               v Denmark               1-2   @ Kristiania, Norway
+Sun Jul 15
+  Austria              v Hungary               1-4   @ Vienna, Austria
+Sun Aug 19
+  Sweden               v Norway                3-3   @ Helsingborg, Sweden
+Sun Sep 16
+  Norway               v Sweden                0-2   @ Kristiania, Norway
+Sun Oct 7
+  Denmark              v Norway                12-0   @ Copenhagen, Denmark
+  Hungary              v Austria               2-1   @ Budapest, Hungary
+Sun Oct 14
+  Sweden               v Denmark               1-2   @ Stockholm, Sweden
+Tue Oct 16
+  Uruguay              v Brazil                3-1   @ Montevideo, Uruguay
+Sun Nov 4
+  Austria              v Hungary               1-2   @ Vienna, Austria
+Sun Dec 23
+  Switzerland          v Austria               0-1   @ Basel, Switzerland
+Wed Dec 26
+  Switzerland          v Austria               3-2   @ Zürich, Switzerland
 

@@ -1,50 +1,50 @@
 = African Cup of Nations qualification 1987
 
-# Date       Fri Mar/27 - Sun Jul/19 1987 (114d)
+# Date       Fri Mar 27 - Sun Jul 19 1987 (114d)
 # Teams      21
 # Matches    30
 
-[Fri Mar 27]
-  Algeria - Tunisia  1-0   @ Algiers, Algeria
-[Sat Mar 28]
-  Kenya - Madagascar  2-0   @ Mombasa, Kenya
-  Nigeria - Togo  2-0   @ Lagos, Nigeria
-[Sun Mar 29]
-  Cameroon - Uganda  5-1   @ Yaoundé, Cameroon
-  DR Congo - Angola  3-0   @ Kinshasa, Zaïre
-  Ivory Coast - Congo  2-0   @ Abidjan, Ivory Coast
-  Mozambique - Zimbabwe  1-1   @ Maputo, Mozambique
-  Senegal - Guinea  4-0   @ Dakar, Senegal
-  Sudan - Tanzania  1-0   @ Khartoum, Sudan
-[Mon Mar 30]
-  Ghana - Sierra Leone  1-2   @ Accra, Ghana
-[Sun Apr 5]
-  Congo - Ivory Coast  1-2   @ Brazzaville, Congo
-[Sat Apr 11]
-  Angola - DR Congo  1-0   @ Luanda, Angola
-  Zimbabwe - Mozambique  1-0   @ Harare, Zimbabwe
-  Uganda - Cameroon  3-1   @ Kampala, Uganda
-  Sierra Leone - Ghana  0-0   @ Freetown, Sierra Leone
-  Tanzania - Sudan  1-1   @ Dar es Salaam, Tanzania
-[Sun Apr 12]
-  Guinea - Senegal  0-0   @ Conakry, Guinea
-  Madagascar - Kenya  2-1   @ Antananarivo, Madagascar
-  Togo - Nigeria  1-1   @ Lomé, Togo
-[Tue Apr 14]
-  Tunisia - Algeria  1-1   @ Tunis, Tunisia
-[Fri Jul 3]
-  Malawi - Ivory Coast  1-2   @ Lilongwe, Malawi
-[Sat Jul 4]
-  Nigeria - Sierra Leone  3-0   @ Lagos, Nigeria
-[Sun Jul 5]
-  Cameroon - Sudan  2-0   @ Yaoundé, Cameroon
-  Senegal - DR Congo  0-0   @ Dakar, Senegal
-  Zimbabwe - Kenya  1-1   @ Harare, Zimbabwe
-[Sat Jul 18]
-  Kenya - Zimbabwe  0-0   @ Nairobi, Kenya
-  Sierra Leone - Nigeria  2-0   @ Freetown, Sierra Leone
-  Sudan - Cameroon  1-0   @ Khartoum, Sudan
-[Sun Jul 19]
-  DR Congo - Senegal  0-0   @ Kinshasa, Zaïre   [DR Congo wins on penalties]
-  Ivory Coast - Malawi  2-0   @ Abidjan, Ivory Coast
+Fri Mar 27
+  Algeria              v Tunisia               1-0   @ Algiers, Algeria
+Sat Mar 28
+  Kenya                v Madagascar            2-0   @ Mombasa, Kenya
+  Nigeria              v Togo                  2-0   @ Lagos, Nigeria
+Sun Mar 29
+  Cameroon             v Uganda                5-1   @ Yaoundé, Cameroon
+  DR Congo             v Angola                3-0   @ Kinshasa, Zaïre
+  Ivory Coast          v Congo                 2-0   @ Abidjan, Ivory Coast
+  Mozambique           v Zimbabwe              1-1   @ Maputo, Mozambique
+  Senegal              v Guinea                4-0   @ Dakar, Senegal
+  Sudan                v Tanzania              1-0   @ Khartoum, Sudan
+Mon Mar 30
+  Ghana                v Sierra Leone          1-2   @ Accra, Ghana
+Sun Apr 5
+  Congo                v Ivory Coast           1-2   @ Brazzaville, Congo
+Sat Apr 11
+  Angola               v DR Congo              1-0   @ Luanda, Angola
+  Zimbabwe             v Mozambique            1-0   @ Harare, Zimbabwe
+  Uganda               v Cameroon              3-1   @ Kampala, Uganda
+  Sierra Leone         v Ghana                 0-0   @ Freetown, Sierra Leone
+  Tanzania             v Sudan                 1-1   @ Dar es Salaam, Tanzania
+Sun Apr 12
+  Guinea               v Senegal               0-0   @ Conakry, Guinea
+  Madagascar           v Kenya                 2-1   @ Antananarivo, Madagascar
+  Togo                 v Nigeria               1-1   @ Lomé, Togo
+Tue Apr 14
+  Tunisia              v Algeria               1-1   @ Tunis, Tunisia
+Fri Jul 3
+  Malawi               v Ivory Coast           1-2   @ Lilongwe, Malawi
+Sat Jul 4
+  Nigeria              v Sierra Leone          3-0   @ Lagos, Nigeria
+Sun Jul 5
+  Cameroon             v Sudan                 2-0   @ Yaoundé, Cameroon
+  Senegal              v DR Congo              0-0   @ Dakar, Senegal
+  Zimbabwe             v Kenya                 1-1   @ Harare, Zimbabwe
+Sat Jul 18
+  Kenya                v Zimbabwe              0-0   @ Nairobi, Kenya
+  Sierra Leone         v Nigeria               2-0   @ Freetown, Sierra Leone
+  Sudan                v Cameroon              1-0   @ Khartoum, Sudan
+Sun Jul 19
+  DR Congo             v Senegal               0-0   @ Kinshasa, Zaïre   [DR Congo wins on penalties]
+  Ivory Coast          v Malawi                2-0   @ Abidjan, Ivory Coast
 

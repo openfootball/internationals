@@ -1,50 +1,50 @@
 = African Cup of Nations 2026
 
-# Date       Sat Jan/3 - Sun Jan/18 2026 (15d)
+# Date       Sat Jan 3 - Sun Jan 18 2026 (15d)
 # Teams      16
 # Matches    16
 
-[Sat Jan 3]
-  Senegal - Sudan  3-1   @ Tangier, Morocco
-     Pape Gueye 29' Pape Gueye 45' Ibrahim Mbaye 77';
-     Aamir Abdallah 6'
-  Mali - Tunisia  1-1   @ Casablanca, Morocco   [Mali wins on penalties]
-     Lassine Sinayoko 90' (pen.);
-     Firas Chaouat 88'
-[Sun Jan 4]
-  Morocco - Tanzania  1-0   @ Rabat, Morocco
-     Brahim Díaz 64'
-  South Africa - Cameroon  1-2   @ Rabat, Morocco
-     Evidence Makgopa 88';
-     Junior Tchamadeu 34' Christian Kofane 47'
-[Mon Jan 5]
-  Egypt - Benin  3-1   @ Agadir, Morocco
-     Marwan Attia 69' Yasser Ibrahim 97' Mohamed Salah 120';
-     Jodel Dossou 83'
-  Nigeria - Mozambique  4-0   @ Fez, Morocco
-     Ademola Lookman 20' Victor Osimhen 25' Victor Osimhen 47' Akor Adams 75'
-[Tue Jan 6]
-  Algeria - DR Congo  1-0   @ Rabat, Morocco
-     Adil Boulbina 119'
-  Ivory Coast - Burkina Faso  3-0   @ Marrakesh, Morocco
-     Amad Diallo 20' Yan Diomande 32' Bazoumana Touré 87'
-[Fri Jan 9]
-  Mali - Senegal  0-1   @ Tangier, Morocco
-     -; Iliman Ndiaye 27'
-  Morocco - Cameroon  2-0   @ Rabat, Morocco
-     Brahim Díaz 26' Ismael Saibari 74'
-[Sat Jan 10]
-  Algeria - Nigeria  0-2   @ Marrakesh, Morocco
-     -; Victor Osimhen 47' Akor Adams 57'
-  Egypt - Ivory Coast  3-2   @ Agadir, Morocco
-     Omar Marmoush 4' Ramy Rabia 32' Mohamed Salah 52';
-     Ahmed Abou El Fotouh 40' (o.g.) Guéla Doué 73'
-[Wed Jan 14]
-  Senegal - Egypt  1-0   @ Tangier, Morocco
-     Sadio Mané 78'
-  Morocco - Nigeria  0-0   @ Rabat, Morocco   [Morocco wins on penalties]
-[Sat Jan 17]
-  Egypt - Nigeria  0-0   @ Casablanca, Morocco   [Nigeria wins on penalties]
-[Sun Jan 18]
-  Morocco - Senegal  3-0   @ Rabat, Morocco
+Sat Jan 3
+  Senegal              v Sudan                 3-1   @ Tangier, Morocco
+     (Pape Gueye 29' Pape Gueye 45' Ibrahim Mbaye 77';
+      Aamir Abdallah 6')
+  Mali                 v Tunisia               1-1   @ Casablanca, Morocco   [Mali wins on penalties]
+     (Lassine Sinayoko 90'(p);
+      Firas Chaouat 88')
+Sun Jan 4
+  Morocco              v Tanzania              1-0   @ Rabat, Morocco
+     (Brahim Díaz 64')
+  South Africa         v Cameroon              1-2   @ Rabat, Morocco
+     (Evidence Makgopa 88';
+      Junior Tchamadeu 34' Christian Kofane 47')
+Mon Jan 5
+  Egypt                v Benin                 3-1   @ Agadir, Morocco
+     (Marwan Attia 69' Yasser Ibrahim 97' Mohamed Salah 120';
+      Jodel Dossou 83')
+  Nigeria              v Mozambique            4-0   @ Fez, Morocco
+     (Ademola Lookman 20' Victor Osimhen 25' Victor Osimhen 47' Akor Adams 75')
+Tue Jan 6
+  Algeria              v DR Congo              1-0   @ Rabat, Morocco
+     (Adil Boulbina 119')
+  Ivory Coast          v Burkina Faso          3-0   @ Marrakesh, Morocco
+     (Amad Diallo 20' Yan Diomande 32' Bazoumana Touré 87')
+Fri Jan 9
+  Mali                 v Senegal               0-1   @ Tangier, Morocco
+     (Iliman Ndiaye 27')
+  Morocco              v Cameroon              2-0   @ Rabat, Morocco
+     (Brahim Díaz 26' Ismael Saibari 74')
+Sat Jan 10
+  Algeria              v Nigeria               0-2   @ Marrakesh, Morocco
+     (Victor Osimhen 47' Akor Adams 57')
+  Egypt                v Ivory Coast           3-2   @ Agadir, Morocco
+     (Omar Marmoush 4' Ramy Rabia 32' Mohamed Salah 52';
+      Ahmed Abou El Fotouh 40'(og) Guéla Doué 73')
+Wed Jan 14
+  Senegal              v Egypt                 1-0   @ Tangier, Morocco
+     (Sadio Mané 78')
+  Morocco              v Nigeria               0-0   @ Rabat, Morocco   [Morocco wins on penalties]
+Sat Jan 17
+  Egypt                v Nigeria               0-0   @ Casablanca, Morocco   [Nigeria wins on penalties]
+Sun Jan 18
+  Morocco              v Senegal               3-0   @ Rabat, Morocco
 

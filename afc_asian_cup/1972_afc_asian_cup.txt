@@ -1,51 +1,51 @@
 = AFC Asian Cup 1972
 
-# Date       Sun May/7 - Fri May/19 1972 (12d)
+# Date       Sun May 7 - Fri May 19 1972 (12d)
 # Teams      6
 # Matches    13
 
-[Sun May 7]
-  Iran - Cambodia  2-0   @ Bangkok, Thailand
-     Hossein Kalani 45' Safar Iranpak 51'
-  South Korea - Iraq  0-0   @ Bangkok, Thailand   [Iraq wins on penalties]
-[Mon May 8]
-  Thailand - Kuwait  0-2   @ Bangkok, Thailand
-     -; Jawad Khalaf 42' Fayez Marzouq 87'
-[Tue May 9]
-  Iran - Iraq  3-0   @ Bangkok, Thailand
-     Hossein Kalani 34' Hossein Kalani 70' Hossein Kalani 78'
-[Wed May 10]
-  Cambodia - South Korea  1-4   @ Bangkok, Thailand
-     Doeur Sokhom 82';
-     Park Su-deok 37' Lee Hoi-taek 59' Cha Bum-kun 69' Park Lee-chun 78'
-[Thu May 11]
-  Thailand - Iraq  1-1   @ Bangkok, Thailand
-     Supakit Meelarpkit 57';
-     Ammo Yousif 6'
-[Fri May 12]
-  South Korea - Kuwait  1-2   @ Bangkok, Thailand
-     Park Lee-chun 2' (pen.);
-     Mohammad Sultan 25' Ibrahim Al Duraihem 73'
-[Sat May 13]
-  Thailand - Iran  2-3   @ Bangkok, Thailand
-     Prapon Tantariyanond 69' Prapon Tantariyanond 70';
-     Ali Jabbari 80' Ali Jabbari 86' Ali Jabbari 88'
-[Sun May 14]
-  Cambodia - Kuwait  4-0   @ Bangkok, Thailand
-     Doeur Sokhom 23' Sok Sun Hean 56' Tes Sean 59' Sea Cheng Eang 80'
-[Tue May 16]
-  Iran - Cambodia  2-1   @ Bangkok, Thailand
-     Safar Iranpak 13' Parviz Ghelichkhani 47';
-     Doeur Sokhom 18'
-[Wed May 17]
-  Thailand - South Korea  1-1   @ Bangkok, Thailand   [South Korea wins on penalties]
-     Prapon Tantariyanond 98';
-     Park Lee-chun 115'
-[Fri May 19]
-  Iran - South Korea  2-1   @ Bangkok, Thailand
-     Ali Jabbari 48' Hossein Kalani 108';
-     Park Lee-chun 65'
-  Thailand - Cambodia  2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
-     Ich Narding 6' Ich Narding 90';
-     Tol Kimchi 44' Tol Kimchi 49'
+Sun May 7
+  Iran                 v Cambodia              2-0   @ Bangkok, Thailand
+     (Hossein Kalani 45' Safar Iranpak 51')
+  South Korea          v Iraq                  0-0   @ Bangkok, Thailand   [Iraq wins on penalties]
+Mon May 8
+  Thailand             v Kuwait                0-2   @ Bangkok, Thailand
+     (Jawad Khalaf 42' Fayez Marzouq 87')
+Tue May 9
+  Iran                 v Iraq                  3-0   @ Bangkok, Thailand
+     (Hossein Kalani 34' Hossein Kalani 70' Hossein Kalani 78')
+Wed May 10
+  Cambodia             v South Korea           1-4   @ Bangkok, Thailand
+     (Doeur Sokhom 82';
+      Park Su-deok 37' Lee Hoi-taek 59' Cha Bum-kun 69' Park Lee-chun 78')
+Thu May 11
+  Thailand             v Iraq                  1-1   @ Bangkok, Thailand
+     (Supakit Meelarpkit 57';
+      Ammo Yousif 6')
+Fri May 12
+  South Korea          v Kuwait                1-2   @ Bangkok, Thailand
+     (Park Lee-chun 2'(p);
+      Mohammad Sultan 25' Ibrahim Al Duraihem 73')
+Sat May 13
+  Thailand             v Iran                  2-3   @ Bangkok, Thailand
+     (Prapon Tantariyanond 69' Prapon Tantariyanond 70';
+      Ali Jabbari 80' Ali Jabbari 86' Ali Jabbari 88')
+Sun May 14
+  Cambodia             v Kuwait                4-0   @ Bangkok, Thailand
+     (Doeur Sokhom 23' Sok Sun Hean 56' Tes Sean 59' Sea Cheng Eang 80')
+Tue May 16
+  Iran                 v Cambodia              2-1   @ Bangkok, Thailand
+     (Safar Iranpak 13' Parviz Ghelichkhani 47';
+      Doeur Sokhom 18')
+Wed May 17
+  Thailand             v South Korea           1-1   @ Bangkok, Thailand   [South Korea wins on penalties]
+     (Prapon Tantariyanond 98';
+      Park Lee-chun 115')
+Fri May 19
+  Iran                 v South Korea           2-1   @ Bangkok, Thailand
+     (Ali Jabbari 48' Hossein Kalani 108';
+      Park Lee-chun 65')
+  Thailand             v Cambodia              2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
+     (Ich Narding 6' Ich Narding 90';
+      Tol Kimchi 44' Tol Kimchi 49')
 

@@ -1,11 +1,11 @@
 = Copa Rio Branco 1947
 
-# Date       Sat Mar/29 - Tue Apr/1 1947 (3d)
+# Date       Sat Mar 29 - Tue Apr 1 1947 (3d)
 # Teams      2
 # Matches    2
 
-[Sat Mar 29]
-  Uruguay - Brazil  0-0   @ Montevideo, Uruguay
-[Tue Apr 1]
-  Brazil - Uruguay  3-2   @ Rio de Janeiro, Brazil
+Sat Mar 29
+  Uruguay              v Brazil                0-0   @ Montevideo, Uruguay
+Tue Apr 1
+  Brazil               v Uruguay               3-2   @ Rio de Janeiro, Brazil
 

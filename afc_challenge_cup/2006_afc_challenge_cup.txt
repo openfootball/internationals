@@ -1,46 +1,46 @@
 = AFC Challenge Cup 2006
 
-# Date       Sat Apr/1 - Sun Apr/16 2006 (15d)
+# Date       Sat Apr 1 - Sun Apr 16 2006 (15d)
 # Teams      15
 # Matches    26
 
-[Sat Apr 1]
-  Bangladesh - Cambodia  2-1   @ Dhaka, Bangladesh
-  Palestine - Guam  11-0   @ Dhaka, Bangladesh
-[Sun Apr 2]
-  Kyrgyzstan - Pakistan  0-1   @ Dhaka, Bangladesh
-  Nepal - Bhutan  2-0   @ Chittagong, Bangladesh
-  Sri Lanka - Brunei  1-0   @ Chittagong, Bangladesh
-  Tajikistan - Macau  4-0   @ Dhaka, Bangladesh
-[Mon Apr 3]
-  Afghanistan - Taiwan  2-2   @ Chittagong, Bangladesh
-  Bangladesh - Guam  3-0   @ Dhaka, Bangladesh
-  Cambodia - Palestine  0-4   @ Dhaka, Bangladesh
-[Tue Apr 4]
-  Bhutan - Sri Lanka  0-1   @ Chittagong, Bangladesh
-  Brunei - Nepal  2-1   @ Chittagong, Bangladesh
-  Pakistan - Tajikistan  0-2   @ Dhaka, Bangladesh
-[Wed Apr 5]
-  Bangladesh - Palestine  1-1   @ Dhaka, Bangladesh
-  Philippines - Afghanistan  1-1   @ Chittagong, Bangladesh
-[Thu Apr 6]
-  Bhutan - Brunei  0-0   @ Chittagong, Bangladesh
-  Cambodia - Guam  3-0   @ Dhaka, Bangladesh
-  Pakistan - Macau  2-2   @ Dhaka, Bangladesh
-  Sri Lanka - Nepal  1-1   @ Chittagong, Bangladesh
-  Tajikistan - Kyrgyzstan  0-1   @ Dhaka, Bangladesh
-[Fri Apr 7]
-  Macau - Kyrgyzstan  0-2   @ Dhaka, Bangladesh
-[Sat Apr 8]
-  Sri Lanka - Taiwan  3-0   @ Chittagong, Bangladesh
-[Sun Apr 9]
-  Palestine - Kyrgyzstan  0-1   @ Dhaka, Bangladesh
-[Mon Apr 10]
-  Bangladesh - Tajikistan  1-6   @ Dhaka, Bangladesh
-[Wed Apr 12]
-  Sri Lanka - Nepal  1-1   @ Chittagong, Bangladesh
-[Thu Apr 13]
-  Tajikistan - Kyrgyzstan  2-0   @ Dhaka, Bangladesh
-[Sun Apr 16]
-  Sri Lanka - Tajikistan  0-4   @ Dhaka, Bangladesh
+Sat Apr 1
+  Bangladesh           v Cambodia              2-1   @ Dhaka, Bangladesh
+  Palestine            v Guam                  11-0   @ Dhaka, Bangladesh
+Sun Apr 2
+  Kyrgyzstan           v Pakistan              0-1   @ Dhaka, Bangladesh
+  Nepal                v Bhutan                2-0   @ Chittagong, Bangladesh
+  Sri Lanka            v Brunei                1-0   @ Chittagong, Bangladesh
+  Tajikistan           v Macau                 4-0   @ Dhaka, Bangladesh
+Mon Apr 3
+  Afghanistan          v Taiwan                2-2   @ Chittagong, Bangladesh
+  Bangladesh           v Guam                  3-0   @ Dhaka, Bangladesh
+  Cambodia             v Palestine             0-4   @ Dhaka, Bangladesh
+Tue Apr 4
+  Bhutan               v Sri Lanka             0-1   @ Chittagong, Bangladesh
+  Brunei               v Nepal                 2-1   @ Chittagong, Bangladesh
+  Pakistan             v Tajikistan            0-2   @ Dhaka, Bangladesh
+Wed Apr 5
+  Bangladesh           v Palestine             1-1   @ Dhaka, Bangladesh
+  Philippines          v Afghanistan           1-1   @ Chittagong, Bangladesh
+Thu Apr 6
+  Bhutan               v Brunei                0-0   @ Chittagong, Bangladesh
+  Cambodia             v Guam                  3-0   @ Dhaka, Bangladesh
+  Pakistan             v Macau                 2-2   @ Dhaka, Bangladesh
+  Sri Lanka            v Nepal                 1-1   @ Chittagong, Bangladesh
+  Tajikistan           v Kyrgyzstan            0-1   @ Dhaka, Bangladesh
+Fri Apr 7
+  Macau                v Kyrgyzstan            0-2   @ Dhaka, Bangladesh
+Sat Apr 8
+  Sri Lanka            v Taiwan                3-0   @ Chittagong, Bangladesh
+Sun Apr 9
+  Palestine            v Kyrgyzstan            0-1   @ Dhaka, Bangladesh
+Mon Apr 10
+  Bangladesh           v Tajikistan            1-6   @ Dhaka, Bangladesh
+Wed Apr 12
+  Sri Lanka            v Nepal                 1-1   @ Chittagong, Bangladesh
+Thu Apr 13
+  Tajikistan           v Kyrgyzstan            2-0   @ Dhaka, Bangladesh
+Sun Apr 16
+  Sri Lanka            v Tajikistan            0-4   @ Dhaka, Bangladesh
 

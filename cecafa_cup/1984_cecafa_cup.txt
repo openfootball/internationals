@@ -1,34 +1,34 @@
 = CECAFA Cup 1984
 
-# Date       Sat Dec/1 - Sat Dec/15 1984 (14d)
+# Date       Sat Dec 1 - Sat Dec 15 1984 (14d)
 # Teams      8
 # Matches    16
 
-[Sat Dec 1]
-  Uganda - Tanzania  1-1   @ Kampala, Uganda
-[Sun Dec 2]
-  Kenya - Malawi  1-2   @ Mbale, Uganda
-  Zambia - Zimbabwe  2-0   @ Kampala, Uganda
-[Mon Dec 3]
-  Somalia - Zanzibar  2-1   @ Mbale, Uganda
-[Tue Dec 4]
-  Uganda - Zimbabwe  4-1   @ Kampala, Uganda
-[Wed Dec 5]
-  Malawi - Somalia  1-0   @ Mbale, Uganda
-  Tanzania - Zambia  1-2   @ Kampala, Uganda
-[Thu Dec 6]
-  Kenya - Zanzibar  1-0   @ Mbale, Uganda
-[Fri Dec 7]
-  Uganda - Zambia  1-1   @ Kampala, Uganda
-[Sat Dec 8]
-  Kenya - Somalia  1-1   @ Mbale, Uganda   [Kenya wins on penalties]
-  Tanzania - Zimbabwe  2-2   @ Kampala, Uganda
-[Sun Dec 9]
-  Malawi - Zanzibar  1-0   @ Mbale, Uganda
-[Wed Dec 12]
-  Kenya - Zambia  0-2   @ Kampala, Uganda
-  Uganda - Malawi  0-2   @ Mbale, Uganda
-[Sat Dec 15]
-  Malawi - Zambia  0-0   @ Kampala, Uganda   [Zambia wins on penalties]
-  Uganda - Kenya  3-1   @ Kampala, Uganda
+Sat Dec 1
+  Uganda               v Tanzania              1-1   @ Kampala, Uganda
+Sun Dec 2
+  Kenya                v Malawi                1-2   @ Mbale, Uganda
+  Zambia               v Zimbabwe              2-0   @ Kampala, Uganda
+Mon Dec 3
+  Somalia              v Zanzibar              2-1   @ Mbale, Uganda
+Tue Dec 4
+  Uganda               v Zimbabwe              4-1   @ Kampala, Uganda
+Wed Dec 5
+  Malawi               v Somalia               1-0   @ Mbale, Uganda
+  Tanzania             v Zambia                1-2   @ Kampala, Uganda
+Thu Dec 6
+  Kenya                v Zanzibar              1-0   @ Mbale, Uganda
+Fri Dec 7
+  Uganda               v Zambia                1-1   @ Kampala, Uganda
+Sat Dec 8
+  Kenya                v Somalia               1-1   @ Mbale, Uganda   [Kenya wins on penalties]
+  Tanzania             v Zimbabwe              2-2   @ Kampala, Uganda
+Sun Dec 9
+  Malawi               v Zanzibar              1-0   @ Mbale, Uganda
+Wed Dec 12
+  Kenya                v Zambia                0-2   @ Kampala, Uganda
+  Uganda               v Malawi                0-2   @ Mbale, Uganda
+Sat Dec 15
+  Malawi               v Zambia                0-0   @ Kampala, Uganda   [Zambia wins on penalties]
+  Uganda               v Kenya                 3-1   @ Kampala, Uganda
 

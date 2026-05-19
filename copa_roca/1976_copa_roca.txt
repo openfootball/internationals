@@ -1,11 +1,11 @@
 = Copa Roca 1976
 
-# Date       Fri Feb/27 - Wed May/19 1976 (82d)
+# Date       Fri Feb 27 - Wed May 19 1976 (82d)
 # Teams      2
 # Matches    2
 
-[Fri Feb 27]
-  Argentina - Brazil  1-2   @ Buenos Aires, Argentina
-[Wed May 19]
-  Brazil - Argentina  2-0   @ Rio de Janeiro, Brazil
+Fri Feb 27
+  Argentina            v Brazil                1-2   @ Buenos Aires, Argentina
+Wed May 19
+  Brazil               v Argentina             2-0   @ Rio de Janeiro, Brazil
 

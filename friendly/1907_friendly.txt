@@ -1,21 +1,21 @@
 = Friendly 1907
 
-# Date       Sun Apr/7 - Sun Nov/3 1907 (210d)
+# Date       Sun Apr 7 - Sun Nov 3 1907 (210d)
 # Teams      6
 # Matches    7
 
-[Sun Apr 7]
-  Hungary - Czechoslovakia  5-2   @ Budapest, Hungary
-[Sun Apr 14]
-  Belgium - Netherlands  1-3   @ Antwerp, Belgium
-[Sun Apr 21]
-  Belgium - France  1-2   @ Brussels, Belgium
-[Sun May 5]
-  Austria - Hungary  3-1   @ Vienna, Austria
-[Thu May 9]
-  Netherlands - Belgium  1-2   @ Haarlem, Netherlands
-[Sun Oct 6]
-  Czechoslovakia - Hungary  5-3   @ Prague, Bohemia
-[Sun Nov 3]
-  Hungary - Austria  4-1   @ Budapest, Hungary
+Sun Apr 7
+  Hungary              v Czechoslovakia        5-2   @ Budapest, Hungary
+Sun Apr 14
+  Belgium              v Netherlands           1-3   @ Antwerp, Belgium
+Sun Apr 21
+  Belgium              v France                1-2   @ Brussels, Belgium
+Sun May 5
+  Austria              v Hungary               3-1   @ Vienna, Austria
+Thu May 9
+  Netherlands          v Belgium               1-2   @ Haarlem, Netherlands
+Sun Oct 6
+  Czechoslovakia       v Hungary               5-3   @ Prague, Bohemia
+Sun Nov 3
+  Hungary              v Austria               4-1   @ Budapest, Hungary
 

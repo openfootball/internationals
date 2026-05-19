@@ -1,28 +1,28 @@
 = Copa América 1935
 
-# Date       Sun Jan/6 - Sun Jan/27 1935 (21d)
+# Date       Sun Jan 6 - Sun Jan 27 1935 (21d)
 # Teams      4
 # Matches    6
 
-[Sun Jan 6]
-  Argentina - Chile  4-1   @ Lima, Peru
-     Miguel Angel Lauri 28' Arturo Arrieta 49' Diego García 57' Herminio Masantonio 71';
-     Arturo Carmona 8'
-[Sun Jan 13]
-  Peru - Uruguay  0-1   @ Lima, Peru
-     -; Héctor Castro 80'
-[Fri Jan 18]
-  Chile - Uruguay  1-2   @ Lima, Peru
-     Carlos Giudice 54';
-     Aníbal Ciocca 33' Aníbal Ciocca 35'
-[Sun Jan 20]
-  Peru - Argentina  1-4   @ Lima, Peru
-     Teodoro Fernández 2';
-     Herminio Masantonio 10' Diego García 50' Herminio Masantonio 61' Herminio Masantonio 81'
-[Sat Jan 26]
-  Peru - Chile  1-0   @ Lima, Peru
-     Alberto Montellanos 5'
-[Sun Jan 27]
-  Argentina - Uruguay  0-3   @ Lima, Peru
-     -; Héctor Castro 18' José Taboada 28' Aníbal Ciocca 36'
+Sun Jan 6
+  Argentina            v Chile                 4-1   @ Lima, Peru
+     (Miguel Angel Lauri 28' Arturo Arrieta 49' Diego García 57' Herminio Masantonio 71';
+      Arturo Carmona 8')
+Sun Jan 13
+  Peru                 v Uruguay               0-1   @ Lima, Peru
+     (Héctor Castro 80')
+Fri Jan 18
+  Chile                v Uruguay               1-2   @ Lima, Peru
+     (Carlos Giudice 54';
+      Aníbal Ciocca 33' Aníbal Ciocca 35')
+Sun Jan 20
+  Peru                 v Argentina             1-4   @ Lima, Peru
+     (Teodoro Fernández 2';
+      Herminio Masantonio 10' Diego García 50' Herminio Masantonio 61' Herminio Masantonio 81')
+Sat Jan 26
+  Peru                 v Chile                 1-0   @ Lima, Peru
+     (Alberto Montellanos 5')
+Sun Jan 27
+  Argentina            v Uruguay               0-3   @ Lima, Peru
+     (Héctor Castro 18' José Taboada 28' Aníbal Ciocca 36')
 

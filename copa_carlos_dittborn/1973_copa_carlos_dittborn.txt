@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1973
 
-# Date       Fri Jul/13 - Wed Jul/18 1973 (5d)
+# Date       Fri Jul 13 - Wed Jul 18 1973 (5d)
 # Teams      2
 # Matches    2
 
-[Fri Jul 13]
-  Argentina - Chile  5-4   @ Buenos Aires, Argentina
-[Wed Jul 18]
-  Chile - Argentina  3-1   @ Santiago, Chile
+Fri Jul 13
+  Argentina            v Chile                 5-4   @ Buenos Aires, Argentina
+Wed Jul 18
+  Chile                v Argentina             3-1   @ Santiago, Chile
 

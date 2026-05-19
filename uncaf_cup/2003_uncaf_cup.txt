@@ -1,31 +1,31 @@
 = UNCAF Cup 2003
 
-# Date       Sun Feb/9 - Sun Feb/23 2003 (14d)
+# Date       Sun Feb 9 - Sun Feb 23 2003 (14d)
 # Teams      6
 # Matches    15
 
-[Sun Feb 9]
-  Panama - El Salvador  1-2   @ Panama City, Panama
-[Tue Feb 11]
-  Costa Rica - El Salvador  1-0   @ Panama City, Panama
-  Honduras - Nicaragua  2-0   @ Panama City, Panama
-[Thu Feb 13]
-  Costa Rica - Guatemala  1-1   @ Panama City, Panama
-  El Salvador - Nicaragua  3-0   @ Panama City, Panama
-[Sat Feb 15]
-  Costa Rica - Nicaragua  1-0   @ Panama City, Panama
-  Honduras - El Salvador  0-1   @ Panama City, Panama
-[Sun Feb 16]
-  Panama - Guatemala  2-0   @ Panama City, Panama
-[Tue Feb 18]
-  Guatemala - Nicaragua  5-0   @ Panama City, Panama
-  Panama - Honduras  1-1   @ Panama City, Panama
-[Thu Feb 20]
-  Costa Rica - Honduras  1-0   @ Panama City, Panama
-  El Salvador - Guatemala  0-2   @ Panama City, Panama
-[Fri Feb 21]
-  Panama - Nicaragua  0-1   @ Panama City, Panama
-[Sun Feb 23]
-  Guatemala - Honduras  2-1   @ Panama City, Panama
-  Panama - Costa Rica  0-1   @ Panama City, Panama
+Sun Feb 9
+  Panama               v El Salvador           1-2   @ Panama City, Panama
+Tue Feb 11
+  Costa Rica           v El Salvador           1-0   @ Panama City, Panama
+  Honduras             v Nicaragua             2-0   @ Panama City, Panama
+Thu Feb 13
+  Costa Rica           v Guatemala             1-1   @ Panama City, Panama
+  El Salvador          v Nicaragua             3-0   @ Panama City, Panama
+Sat Feb 15
+  Costa Rica           v Nicaragua             1-0   @ Panama City, Panama
+  Honduras             v El Salvador           0-1   @ Panama City, Panama
+Sun Feb 16
+  Panama               v Guatemala             2-0   @ Panama City, Panama
+Tue Feb 18
+  Guatemala            v Nicaragua             5-0   @ Panama City, Panama
+  Panama               v Honduras              1-1   @ Panama City, Panama
+Thu Feb 20
+  Costa Rica           v Honduras              1-0   @ Panama City, Panama
+  El Salvador          v Guatemala             0-2   @ Panama City, Panama
+Fri Feb 21
+  Panama               v Nicaragua             0-1   @ Panama City, Panama
+Sun Feb 23
+  Guatemala            v Honduras              2-1   @ Panama City, Panama
+  Panama               v Costa Rica            0-1   @ Panama City, Panama
 

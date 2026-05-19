@@ -1,25 +1,25 @@
 = Merdeka Tournament 1974
 
-# Date       Wed Jul/24 - Sun Aug/4 1974 (11d)
+# Date       Wed Jul 24 - Sun Aug 4 1974 (11d)
 # Teams      6
 # Matches    10
 
-[Wed Jul 24]
-  Hong Kong - Indonesia  2-2   @ Ipoh, Malaysia   [Indonesia wins on penalties]
-  India - Thailand  4-2   @ Ipoh, Malaysia
-[Thu Jul 25]
-  Malaysia - India  4-1   @ Ipoh, Malaysia
-[Fri Jul 26]
-  Indonesia - Thailand  1-2   @ Ipoh, Malaysia
-[Sun Jul 28]
-  Indonesia - Singapore  5-0   @ Ipoh, Malaysia
-[Mon Jul 29]
-  Hong Kong - India  2-2   @ Ipoh, Malaysia
-[Tue Jul 30]
-  Singapore - Thailand  1-1   @ Ipoh, Malaysia
-[Thu Aug 1]
-  India - Indonesia  0-0   @ Ipoh, Malaysia   [Indonesia wins on penalties]
-  Malaysia - Thailand  3-2   @ Ipoh, Malaysia
-[Sun Aug 4]
-  Hong Kong - Thailand  1-0   @ Ipoh, Malaysia
+Wed Jul 24
+  Hong Kong            v Indonesia             2-2   @ Ipoh, Malaysia   [Indonesia wins on penalties]
+  India                v Thailand              4-2   @ Ipoh, Malaysia
+Thu Jul 25
+  Malaysia             v India                 4-1   @ Ipoh, Malaysia
+Fri Jul 26
+  Indonesia            v Thailand              1-2   @ Ipoh, Malaysia
+Sun Jul 28
+  Indonesia            v Singapore             5-0   @ Ipoh, Malaysia
+Mon Jul 29
+  Hong Kong            v India                 2-2   @ Ipoh, Malaysia
+Tue Jul 30
+  Singapore            v Thailand              1-1   @ Ipoh, Malaysia
+Thu Aug 1
+  India                v Indonesia             0-0   @ Ipoh, Malaysia   [Indonesia wins on penalties]
+  Malaysia             v Thailand              3-2   @ Ipoh, Malaysia
+Sun Aug 4
+  Hong Kong            v Thailand              1-0   @ Ipoh, Malaysia
 

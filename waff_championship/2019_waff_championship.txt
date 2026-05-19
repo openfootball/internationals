@@ -1,33 +1,33 @@
 = WAFF Championship 2019
 
-# Date       Tue Jul/30 - Wed Aug/14 2019 (15d)
+# Date       Tue Jul 30 - Wed Aug 14 2019 (15d)
 # Teams      9
 # Matches    17
 
-[Tue Jul 30]
-  Iraq - Lebanon  1-0   @ Karbala, Iraq
-  Yemen - Palestine  0-1   @ Karbala, Iraq
-[Fri Aug 2]
-  Iraq - Palestine  2-1   @ Karbala, Iraq
-  Lebanon - Syria  2-1   @ Karbala, Iraq
-[Sun Aug 4]
-  Jordan - Bahrain  0-1   @ Erbil, Iraq
-  Saudi Arabia - Kuwait  1-2   @ Erbil, Iraq
-[Mon Aug 5]
-  Syria - Yemen  1-1   @ Karbala, Iraq
-  Lebanon - Palestine  0-0   @ Karbala, Iraq
-[Wed Aug 7]
-  Bahrain - Saudi Arabia  0-0   @ Erbil, Iraq
-  Kuwait - Jordan  1-1   @ Erbil, Iraq
-[Thu Aug 8]
-  Yemen - Lebanon  2-1   @ Karbala, Iraq
-  Iraq - Syria  0-0   @ Karbala, Iraq
-[Sat Aug 10]
-  Jordan - Saudi Arabia  3-0   @ Erbil, Iraq
-  Kuwait - Bahrain  0-1   @ Erbil, Iraq
-[Sun Aug 11]
-  Palestine - Syria  4-3   @ Karbala, Iraq
-  Iraq - Yemen  2-1   @ Karbala, Iraq
-[Wed Aug 14]
-  Iraq - Bahrain  0-1   @ Karbala, Iraq
+Tue Jul 30
+  Iraq                 v Lebanon               1-0   @ Karbala, Iraq
+  Yemen                v Palestine             0-1   @ Karbala, Iraq
+Fri Aug 2
+  Iraq                 v Palestine             2-1   @ Karbala, Iraq
+  Lebanon              v Syria                 2-1   @ Karbala, Iraq
+Sun Aug 4
+  Jordan               v Bahrain               0-1   @ Erbil, Iraq
+  Saudi Arabia         v Kuwait                1-2   @ Erbil, Iraq
+Mon Aug 5
+  Syria                v Yemen                 1-1   @ Karbala, Iraq
+  Lebanon              v Palestine             0-0   @ Karbala, Iraq
+Wed Aug 7
+  Bahrain              v Saudi Arabia          0-0   @ Erbil, Iraq
+  Kuwait               v Jordan                1-1   @ Erbil, Iraq
+Thu Aug 8
+  Yemen                v Lebanon               2-1   @ Karbala, Iraq
+  Iraq                 v Syria                 0-0   @ Karbala, Iraq
+Sat Aug 10
+  Jordan               v Saudi Arabia          3-0   @ Erbil, Iraq
+  Kuwait               v Bahrain               0-1   @ Erbil, Iraq
+Sun Aug 11
+  Palestine            v Syria                 4-3   @ Karbala, Iraq
+  Iraq                 v Yemen                 2-1   @ Karbala, Iraq
+Wed Aug 14
+  Iraq                 v Bahrain               0-1   @ Karbala, Iraq
 

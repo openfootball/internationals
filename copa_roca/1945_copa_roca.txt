@@ -1,13 +1,13 @@
 = Copa Roca 1945
 
-# Date       Sun Dec/16 - Sun Dec/23 1945 (7d)
+# Date       Sun Dec 16 - Sun Dec 23 1945 (7d)
 # Teams      2
 # Matches    3
 
-[Sun Dec 16]
-  Brazil - Argentina  3-4   @ São Paulo, Brazil
-[Thu Dec 20]
-  Brazil - Argentina  6-2   @ Rio de Janeiro, Brazil
-[Sun Dec 23]
-  Brazil - Argentina  3-1   @ Rio de Janeiro, Brazil
+Sun Dec 16
+  Brazil               v Argentina             3-4   @ São Paulo, Brazil
+Thu Dec 20
+  Brazil               v Argentina             6-2   @ Rio de Janeiro, Brazil
+Sun Dec 23
+  Brazil               v Argentina             3-1   @ Rio de Janeiro, Brazil
 

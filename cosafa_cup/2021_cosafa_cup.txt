@@ -1,41 +1,41 @@
 = COSAFA Cup 2021
 
-# Date       Tue Jul/6 - Sun Jul/18 2021 (12d)
+# Date       Tue Jul 6 - Sun Jul 18 2021 (12d)
 # Teams      10
 # Matches    24
 
-[Tue Jul 6]
-  Eswatini - Lesotho  3-1   @ Port Elizabeth, South Africa
-  South Africa - Botswana  1-0   @ Port Elizabeth, South Africa
-[Wed Jul 7]
-  Mozambique - Zimbabwe  0-0   @ Port Elizabeth, South Africa
-  Senegal - Namibia  1-2   @ Port Elizabeth, South Africa
-[Thu Jul 8]
-  Zambia - Lesotho  1-2   @ Port Elizabeth, South Africa
-  South Africa - Eswatini  1-0   @ Port Elizabeth, South Africa
-[Fri Jul 9]
-  Malawi - Zimbabwe  2-2   @ Port Elizabeth, South Africa
-  Senegal - Mozambique  1-0   @ Port Elizabeth, South Africa
-[Sat Jul 10]
-  Lesotho - Botswana  0-4   @ Port Elizabeth, South Africa
-  Zambia - Eswatini  0-1   @ Port Elizabeth, South Africa
-[Sun Jul 11]
-  Namibia - Zimbabwe  2-0   @ Port Elizabeth, South Africa
-  Mozambique - Malawi  2-0   @ Port Elizabeth, South Africa
-[Tue Jul 13]
-  Botswana - Zambia  1-2   @ Port Elizabeth, South Africa
-  South Africa - Lesotho  4-0   @ Port Elizabeth, South Africa
-  Senegal - Zimbabwe  2-1   @ Port Elizabeth, South Africa
-  Malawi - Namibia  1-1   @ Port Elizabeth, South Africa
-[Wed Jul 14]
-  South Africa - Zambia  0-0   @ Port Elizabeth, South Africa
-  Eswatini - Botswana  1-1   @ Port Elizabeth, South Africa
-  Mozambique - Namibia  1-0   @ Port Elizabeth, South Africa
-  Senegal - Malawi  2-1   @ Port Elizabeth, South Africa
-[Fri Jul 16]
-  Senegal - Eswatini  2-2   @ Port Elizabeth, South Africa   [Senegal wins on penalties]
-  South Africa - Mozambique  3-0   @ Port Elizabeth, South Africa
-[Sun Jul 18]
-  Eswatini - Mozambique  1-1   @ Port Elizabeth, South Africa   [Eswatini wins on penalties]
-  South Africa - Senegal  0-0   @ Port Elizabeth, South Africa   [South Africa wins on penalties]
+Tue Jul 6
+  Eswatini             v Lesotho               3-1   @ Port Elizabeth, South Africa
+  South Africa         v Botswana              1-0   @ Port Elizabeth, South Africa
+Wed Jul 7
+  Mozambique           v Zimbabwe              0-0   @ Port Elizabeth, South Africa
+  Senegal              v Namibia               1-2   @ Port Elizabeth, South Africa
+Thu Jul 8
+  Zambia               v Lesotho               1-2   @ Port Elizabeth, South Africa
+  South Africa         v Eswatini              1-0   @ Port Elizabeth, South Africa
+Fri Jul 9
+  Malawi               v Zimbabwe              2-2   @ Port Elizabeth, South Africa
+  Senegal              v Mozambique            1-0   @ Port Elizabeth, South Africa
+Sat Jul 10
+  Lesotho              v Botswana              0-4   @ Port Elizabeth, South Africa
+  Zambia               v Eswatini              0-1   @ Port Elizabeth, South Africa
+Sun Jul 11
+  Namibia              v Zimbabwe              2-0   @ Port Elizabeth, South Africa
+  Mozambique           v Malawi                2-0   @ Port Elizabeth, South Africa
+Tue Jul 13
+  Botswana             v Zambia                1-2   @ Port Elizabeth, South Africa
+  South Africa         v Lesotho               4-0   @ Port Elizabeth, South Africa
+  Senegal              v Zimbabwe              2-1   @ Port Elizabeth, South Africa
+  Malawi               v Namibia               1-1   @ Port Elizabeth, South Africa
+Wed Jul 14
+  South Africa         v Zambia                0-0   @ Port Elizabeth, South Africa
+  Eswatini             v Botswana              1-1   @ Port Elizabeth, South Africa
+  Mozambique           v Namibia               1-0   @ Port Elizabeth, South Africa
+  Senegal              v Malawi                2-1   @ Port Elizabeth, South Africa
+Fri Jul 16
+  Senegal              v Eswatini              2-2   @ Port Elizabeth, South Africa   [Senegal wins on penalties]
+  South Africa         v Mozambique            3-0   @ Port Elizabeth, South Africa
+Sun Jul 18
+  Eswatini             v Mozambique            1-1   @ Port Elizabeth, South Africa   [Eswatini wins on penalties]
+  South Africa         v Senegal               0-0   @ Port Elizabeth, South Africa   [South Africa wins on penalties]
 

@@ -1,21 +1,21 @@
 = African Cup of Nations qualification 1974
 
-# Date       Sat Aug/10 - Sat Dec/7 1974 (119d)
+# Date       Sat Aug 10 - Sat Dec 7 1974 (119d)
 # Teams      8
 # Matches    8
 
-[Sat Aug 10]
-  Somalia - Burundi  0-2   @ Mogadishu, Somalia
-[Sat Aug 24]
-  Burundi - Somalia  0-1   @ Bujumbura, Burundi
-[Sun Nov 10]
-  Togo - Liberia  1-0   @ Lomé, Togo
-  Tunisia - Libya  1-0   @ Tunis, Tunisia
-[Fri Nov 22]
-  Liberia - Togo  0-2   @ Monrovia, Liberia
-  Libya - Tunisia  1-0   @ Tripoli, Libya   [Tunisia wins on penalties]
-[Sun Nov 24]
-  Morocco - Gambia  3-0   @ Rabat, Morocco
-[Sat Dec 7]
-  Gambia - Morocco  0-3   @ Banjul, Gambia
+Sat Aug 10
+  Somalia              v Burundi               0-2   @ Mogadishu, Somalia
+Sat Aug 24
+  Burundi              v Somalia               0-1   @ Bujumbura, Burundi
+Sun Nov 10
+  Togo                 v Liberia               1-0   @ Lomé, Togo
+  Tunisia              v Libya                 1-0   @ Tunis, Tunisia
+Fri Nov 22
+  Liberia              v Togo                  0-2   @ Monrovia, Liberia
+  Libya                v Tunisia               1-0   @ Tripoli, Libya   [Tunisia wins on penalties]
+Sun Nov 24
+  Morocco              v Gambia                3-0   @ Rabat, Morocco
+Sat Dec 7
+  Gambia               v Morocco               0-3   @ Banjul, Gambia
 

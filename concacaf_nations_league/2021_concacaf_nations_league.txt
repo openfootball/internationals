@@ -1,13 +1,13 @@
 = CONCACAF Nations League 2021
 
-# Date       Thu Jun/3 - Sun Jun/6 2021 (3d)
+# Date       Thu Jun 3 - Sun Jun 6 2021 (3d)
 # Teams      4
 # Matches    4
 
-[Thu Jun 3]
-  Mexico - Costa Rica  0-0   @ Denver, United States   [Mexico wins on penalties]
-  United States - Honduras  1-0   @ Denver, United States
-[Sun Jun 6]
-  Honduras - Costa Rica  2-2   @ Denver, United States   [Honduras wins on penalties]
-  United States - Mexico  3-2   @ Denver, United States
+Thu Jun 3
+  Mexico               v Costa Rica            0-0   @ Denver, United States   [Mexico wins on penalties]
+  United States        v Honduras              1-0   @ Denver, United States
+Sun Jun 6
+  Honduras             v Costa Rica            2-2   @ Denver, United States   [Honduras wins on penalties]
+  United States        v Mexico                3-2   @ Denver, United States
 

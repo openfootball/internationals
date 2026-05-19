@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1943
 
-# Date       Sat Jul/10 - Sun Jul/11 1943 (1d)
+# Date       Sat Jul 10 - Sun Jul 11 1943 (1d)
 # Teams      2
 # Matches    2
 
-[Sat Jul 10]
-  Paraguay - Argentina  2-5   @ Asunción, Paraguay
-[Sun Jul 11]
-  Paraguay - Argentina  2-1   @ Asunción, Paraguay
+Sat Jul 10
+  Paraguay             v Argentina             2-5   @ Asunción, Paraguay
+Sun Jul 11
+  Paraguay             v Argentina             2-1   @ Asunción, Paraguay
 

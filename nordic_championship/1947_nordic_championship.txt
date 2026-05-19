@@ -1,18 +1,18 @@
 = Nordic Championship 1947
 
-# Date       Sun Jun/15 - Sun Oct/5 1947 (112d)
+# Date       Sun Jun 15 - Sun Oct 5 1947 (112d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 15]
-  Denmark - Sweden  1-4   @ Copenhagen, Denmark
-[Sun Aug 24]
-  Sweden - Finland  7-0   @ Borås, Sweden
-[Sun Sep 7]
-  Finland - Norway  3-3   @ Helsinki, Finland
-[Sun Sep 21]
-  Norway - Denmark  3-5   @ Oslo, Norway
-[Sun Oct 5]
-  Denmark - Finland  4-1   @ Aarhus, Denmark
-  Sweden - Norway  4-1   @ Solna, Sweden
+Sun Jun 15
+  Denmark              v Sweden                1-4   @ Copenhagen, Denmark
+Sun Aug 24
+  Sweden               v Finland               7-0   @ Borås, Sweden
+Sun Sep 7
+  Finland              v Norway                3-3   @ Helsinki, Finland
+Sun Sep 21
+  Norway               v Denmark               3-5   @ Oslo, Norway
+Sun Oct 5
+  Denmark              v Finland               4-1   @ Aarhus, Denmark
+  Sweden               v Norway                4-1   @ Solna, Sweden
 

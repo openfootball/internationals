@@ -1,19 +1,19 @@
 = British Home Championship 1961
 
-# Date       Wed Apr/12 - Wed Nov/22 1961 (224d)
+# Date       Wed Apr 12 - Wed Nov 22 1961 (224d)
 # Teams      4
 # Matches    6
 
-[Wed Apr 12]
-  Northern Ireland - Wales  1-5   @ Belfast, Northern Ireland
-[Sat Apr 15]
-  England - Scotland  9-3   @ London, England
-[Sat Oct 7]
-  Northern Ireland - Scotland  1-6   @ Belfast, Northern Ireland
-[Sat Oct 14]
-  Wales - England  1-1   @ Cardiff, Wales
-[Wed Nov 8]
-  Scotland - Wales  2-0   @ Glasgow, Scotland
-[Wed Nov 22]
-  England - Northern Ireland  1-1   @ London, England
+Wed Apr 12
+  Northern Ireland     v Wales                 1-5   @ Belfast, Northern Ireland
+Sat Apr 15
+  England              v Scotland              9-3   @ London, England
+Sat Oct 7
+  Northern Ireland     v Scotland              1-6   @ Belfast, Northern Ireland
+Sat Oct 14
+  Wales                v England               1-1   @ Cardiff, Wales
+Wed Nov 8
+  Scotland             v Wales                 2-0   @ Glasgow, Scotland
+Wed Nov 22
+  England              v Northern Ireland      1-1   @ London, England
 

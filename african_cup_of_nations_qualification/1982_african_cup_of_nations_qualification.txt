@@ -1,27 +1,27 @@
 = African Cup of Nations qualification 1982
 
-# Date       Sun Sep/12 - Sun Nov/28 1982 (77d)
+# Date       Sun Sep 12 - Sun Nov 28 1982 (77d)
 # Teams      14
 # Matches    13
 
-[Sun Sep 12]
-  Malawi - Zimbabwe  2-0   @ Lilongwe, Malawi
-  Tanzania - Uganda  1-1   @ Dar es Salaam, Tanzania
-[Sun Sep 19]
-  Somalia - Rwanda  0-1   @ Mogadishu, Somalia
-[Sun Sep 26]
-  Uganda - Tanzania  3-2   @ Kampala, Uganda
-[Sun Oct 3]
-  Zimbabwe - Malawi  0-2   @ Harare, Zimbabwe
-[Wed Oct 13]
-  Gabon - Angola  2-2   @ Libreville, Gabon
-[Sun Nov 14]
-  Angola - Gabon  4-0   @ Luanda, Angola
-  Mali - Gambia  3-1   @ Bamako, Mali
-  Niger - Senegal  0-0   @ Niamey, Niger
-  Togo - Sierra Leone  3-0   @ Lomé, Togo
-[Sun Nov 28]
-  Gambia - Mali  1-0   @ Banjul, Gambia
-  Senegal - Niger  1-0   @ Dakar, Senegal
-  Sierra Leone - Togo  0-1   @ Freetown, Sierra Leone
+Sun Sep 12
+  Malawi               v Zimbabwe              2-0   @ Lilongwe, Malawi
+  Tanzania             v Uganda                1-1   @ Dar es Salaam, Tanzania
+Sun Sep 19
+  Somalia              v Rwanda                0-1   @ Mogadishu, Somalia
+Sun Sep 26
+  Uganda               v Tanzania              3-2   @ Kampala, Uganda
+Sun Oct 3
+  Zimbabwe             v Malawi                0-2   @ Harare, Zimbabwe
+Wed Oct 13
+  Gabon                v Angola                2-2   @ Libreville, Gabon
+Sun Nov 14
+  Angola               v Gabon                 4-0   @ Luanda, Angola
+  Mali                 v Gambia                3-1   @ Bamako, Mali
+  Niger                v Senegal               0-0   @ Niamey, Niger
+  Togo                 v Sierra Leone          3-0   @ Lomé, Togo
+Sun Nov 28
+  Gambia               v Mali                  1-0   @ Banjul, Gambia
+  Senegal              v Niger                 1-0   @ Dakar, Senegal
+  Sierra Leone         v Togo                  0-1   @ Freetown, Sierra Leone
 

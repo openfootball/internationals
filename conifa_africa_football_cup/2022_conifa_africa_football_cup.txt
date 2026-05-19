@@ -1,15 +1,15 @@
 = CONIFA Africa Football Cup 2022
 
-# Date       Sat May/21 - Wed May/25 2022 (4d)
+# Date       Sat May 21 - Wed May 25 2022 (4d)
 # Teams      3
 # Matches    4
 
-[Sat May 21]
-  Yoruba Nation - Matabeleland  1-1   @ Johannesburg, South Africa
-[Sun May 22]
-  Biafra - Matabeleland  0-1   @ Johannesburg, South Africa
-[Mon May 23]
-  Yoruba Nation - Biafra  0-1   @ Johannesburg, South Africa
-[Wed May 25]
-  Biafra - Matabeleland  1-0   @ Johannesburg, South Africa
+Sat May 21
+  Yoruba Nation        v Matabeleland          1-1   @ Johannesburg, South Africa
+Sun May 22
+  Biafra               v Matabeleland          0-1   @ Johannesburg, South Africa
+Mon May 23
+  Yoruba Nation        v Biafra                0-1   @ Johannesburg, South Africa
+Wed May 25
+  Biafra               v Matabeleland          1-0   @ Johannesburg, South Africa
 

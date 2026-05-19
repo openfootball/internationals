@@ -1,102 +1,102 @@
 = African Cup of Nations 2012
 
-# Date       Sat Jan/21 - Sun Feb/12 2012 (22d)
+# Date       Sat Jan 21 - Sun Feb 12 2012 (22d)
 # Teams      16
 # Matches    32
 
-[Sat Jan 21]
-  Equatorial Guinea - Libya  1-0   @ Bata, Equatorial Guinea
-     Javier Balboa 87'
-  Senegal - Zambia  1-2   @ Bata, Equatorial Guinea
-     Dame N'Doye 73';
-     Emmanuel Mayuka 12' Rainford Kalaba 20'
-[Sun Jan 22]
-  Burkina Faso - Angola  1-2   @ Malabo, Equatorial Guinea
-     Alain Traoré 58';
-     Mateus Galiano da Costa 48' Manucho 68'
-  Ivory Coast - Sudan  1-0   @ Malabo, Equatorial Guinea
-     Didier Drogba 39'
-[Mon Jan 23]
-  Gabon - Niger  2-0   @ Libreville, Gabon
-     Pierre-Emerick Aubameyang 31' Stéphane N'Guéma 42'
-  Morocco - Tunisia  1-2   @ Libreville, Gabon
-     Houssine Kharja 86';
-     Khaled Korbi 34' Youssef Msakni 76'
-[Tue Jan 24]
-  Ghana - Botswana  1-0   @ Franceville, Gabon
-     John Mensah 25'
-  Mali - Guinea  1-0   @ Franceville, Gabon
-     Bakaye Traoré 30'
-[Wed Jan 25]
-  Equatorial Guinea - Senegal  2-1   @ Bata, Equatorial Guinea
-     Iban Iyanga 61' Kily Álvarez 90';
-     Moussa Sow 89'
-  Libya - Zambia  2-2   @ Bata, Equatorial Guinea
-     Ahmed Saad Osman 5' Ahmed Saad Osman 48';
-     Emmanuel Mayuka 29' Christopher Katongo 54'
-[Thu Jan 26]
-  Ivory Coast - Burkina Faso  2-0   @ Malabo, Equatorial Guinea
-     Salomon Kalou 16' Bakary Koné 82' (o.g.)
-  Sudan - Angola  2-2   @ Malabo, Equatorial Guinea
-     Mohamed Ahmed Bashir 32' Mohamed Ahmed Bashir 74';
-     Manucho 4' Manucho 50' (pen.)
-[Fri Jan 27]
-  Gabon - Morocco  3-2   @ Libreville, Gabon
-     Pierre-Emerick Aubameyang 76' Daniel Cousin 79' Bruno Zita Mbanangoyé 90';
-     Houssine Kharja 24' Houssine Kharja 90' (pen.)
-  Niger - Tunisia  1-2   @ Libreville, Gabon
-     William N'Gounou 9';
-     Youssef Msakni 4' Issam Jemâa 89'
-[Sat Jan 28]
-  Botswana - Guinea  1-6   @ Franceville, Gabon
-     Dipsy Selolwane 23' (pen.);
-     Sadio Diallo 15' Sadio Diallo 27' Abdoul Camara 42' Ibrahima Traoré 45' Mamadou Bah 83' Naby Soumah 86'
-  Ghana - Mali  2-0   @ Franceville, Gabon
-     Asamoah Gyan 64' André Ayew 71'
-[Sun Jan 29]
-  Equatorial Guinea - Zambia  0-1   @ Malabo, Equatorial Guinea
-     -; Christopher Katongo 68'
-  Libya - Senegal  2-1   @ Bata, Equatorial Guinea
-     Ihaab Boussefi 5' Ihaab Boussefi 84';
-     Deme N'Diaye 10'
-[Mon Jan 30]
-  Ivory Coast - Angola  2-0   @ Malabo, Equatorial Guinea
-     Emmanuel Eboué 33' Wilfried Bony 64'
-  Sudan - Burkina Faso  2-1   @ Bata, Equatorial Guinea
-     Mudather El Tahir 33' Mudather El Tahir 79';
-     Issiaka Ouédraogo 90'
-[Tue Jan 31]
-  Gabon - Tunisia  1-0   @ Franceville, Gabon
-     Pierre-Emerick Aubameyang 61'
-  Niger - Morocco  0-1   @ Libreville, Gabon
-     -; Younès Belhanda 78'
-[Wed Feb 1]
-  Botswana - Mali  1-2   @ Libreville, Gabon
-     Mogakolodi Ngele 50';
-     Garra Dembélé 56' Seydou Keita 75'
-  Ghana - Guinea  1-1   @ Franceville, Gabon
-     Emmanuel Agyemang-Badu 27';
-     Abdoul Camara 45'
-[Sat Feb 4]
-  Equatorial Guinea - Ivory Coast  0-3   @ Malabo, Equatorial Guinea
-     -; Didier Drogba 35' Didier Drogba 69' Yaya Touré 81'
-  Zambia - Sudan  3-0   @ Bata, Equatorial Guinea
-     Stophira Sunzu 15' Christopher Katongo 66' James Chamanga 86'
-[Sun Feb 5]
-  Gabon - Mali  1-1   @ Libreville, Gabon   [Mali wins on penalties]
-     Éric Mouloungui 54';
-     Cheick Diabaté 85'
-  Ghana - Tunisia  2-1   @ Franceville, Gabon
-     John Mensah 9' André Ayew 100';
-     Saber Khelifa 41'
-[Wed Feb 8]
-  Mali - Ivory Coast  0-1   @ Libreville, Gabon
-     -; Gervinho 45'
-  Zambia - Ghana  1-0   @ Bata, Equatorial Guinea
-     Emmanuel Mayuka 78'
-[Sat Feb 11]
-  Ghana - Mali  0-2   @ Malabo, Equatorial Guinea
-     -; Cheick Diabaté 23' Cheick Diabaté 80'
-[Sun Feb 12]
-  Zambia - Ivory Coast  0-0   @ Libreville, Gabon   [Zambia wins on penalties]
+Sat Jan 21
+  Equatorial Guinea    v Libya                 1-0   @ Bata, Equatorial Guinea
+     (Javier Balboa 87')
+  Senegal              v Zambia                1-2   @ Bata, Equatorial Guinea
+     (Dame N'Doye 73';
+      Emmanuel Mayuka 12' Rainford Kalaba 20')
+Sun Jan 22
+  Burkina Faso         v Angola                1-2   @ Malabo, Equatorial Guinea
+     (Alain Traoré 58';
+      Mateus Galiano da Costa 48' Manucho 68')
+  Ivory Coast          v Sudan                 1-0   @ Malabo, Equatorial Guinea
+     (Didier Drogba 39')
+Mon Jan 23
+  Gabon                v Niger                 2-0   @ Libreville, Gabon
+     (Pierre-Emerick Aubameyang 31' Stéphane N'Guéma 42')
+  Morocco              v Tunisia               1-2   @ Libreville, Gabon
+     (Houssine Kharja 86';
+      Khaled Korbi 34' Youssef Msakni 76')
+Tue Jan 24
+  Ghana                v Botswana              1-0   @ Franceville, Gabon
+     (John Mensah 25')
+  Mali                 v Guinea                1-0   @ Franceville, Gabon
+     (Bakaye Traoré 30')
+Wed Jan 25
+  Equatorial Guinea    v Senegal               2-1   @ Bata, Equatorial Guinea
+     (Iban Iyanga 61' Kily Álvarez 90';
+      Moussa Sow 89')
+  Libya                v Zambia                2-2   @ Bata, Equatorial Guinea
+     (Ahmed Saad Osman 5' Ahmed Saad Osman 48';
+      Emmanuel Mayuka 29' Christopher Katongo 54')
+Thu Jan 26
+  Ivory Coast          v Burkina Faso          2-0   @ Malabo, Equatorial Guinea
+     (Salomon Kalou 16' Bakary Koné 82'(og))
+  Sudan                v Angola                2-2   @ Malabo, Equatorial Guinea
+     (Mohamed Ahmed Bashir 32' Mohamed Ahmed Bashir 74';
+      Manucho 4' Manucho 50'(p))
+Fri Jan 27
+  Gabon                v Morocco               3-2   @ Libreville, Gabon
+     (Pierre-Emerick Aubameyang 76' Daniel Cousin 79' Bruno Zita Mbanangoyé 90';
+      Houssine Kharja 24' Houssine Kharja 90'(p))
+  Niger                v Tunisia               1-2   @ Libreville, Gabon
+     (William N'Gounou 9';
+      Youssef Msakni 4' Issam Jemâa 89')
+Sat Jan 28
+  Botswana             v Guinea                1-6   @ Franceville, Gabon
+     (Dipsy Selolwane 23'(p);
+      Sadio Diallo 15' Sadio Diallo 27' Abdoul Camara 42' Ibrahima Traoré 45' Mamadou Bah 83' Naby Soumah 86')
+  Ghana                v Mali                  2-0   @ Franceville, Gabon
+     (Asamoah Gyan 64' André Ayew 71')
+Sun Jan 29
+  Equatorial Guinea    v Zambia                0-1   @ Malabo, Equatorial Guinea
+     (Christopher Katongo 68')
+  Libya                v Senegal               2-1   @ Bata, Equatorial Guinea
+     (Ihaab Boussefi 5' Ihaab Boussefi 84';
+      Deme N'Diaye 10')
+Mon Jan 30
+  Ivory Coast          v Angola                2-0   @ Malabo, Equatorial Guinea
+     (Emmanuel Eboué 33' Wilfried Bony 64')
+  Sudan                v Burkina Faso          2-1   @ Bata, Equatorial Guinea
+     (Mudather El Tahir 33' Mudather El Tahir 79';
+      Issiaka Ouédraogo 90')
+Tue Jan 31
+  Gabon                v Tunisia               1-0   @ Franceville, Gabon
+     (Pierre-Emerick Aubameyang 61')
+  Niger                v Morocco               0-1   @ Libreville, Gabon
+     (Younès Belhanda 78')
+Wed Feb 1
+  Botswana             v Mali                  1-2   @ Libreville, Gabon
+     (Mogakolodi Ngele 50';
+      Garra Dembélé 56' Seydou Keita 75')
+  Ghana                v Guinea                1-1   @ Franceville, Gabon
+     (Emmanuel Agyemang-Badu 27';
+      Abdoul Camara 45')
+Sat Feb 4
+  Equatorial Guinea    v Ivory Coast           0-3   @ Malabo, Equatorial Guinea
+     (Didier Drogba 35' Didier Drogba 69' Yaya Touré 81')
+  Zambia               v Sudan                 3-0   @ Bata, Equatorial Guinea
+     (Stophira Sunzu 15' Christopher Katongo 66' James Chamanga 86')
+Sun Feb 5
+  Gabon                v Mali                  1-1   @ Libreville, Gabon   [Mali wins on penalties]
+     (Éric Mouloungui 54';
+      Cheick Diabaté 85')
+  Ghana                v Tunisia               2-1   @ Franceville, Gabon
+     (John Mensah 9' André Ayew 100';
+      Saber Khelifa 41')
+Wed Feb 8
+  Mali                 v Ivory Coast           0-1   @ Libreville, Gabon
+     (Gervinho 45')
+  Zambia               v Ghana                 1-0   @ Bata, Equatorial Guinea
+     (Emmanuel Mayuka 78')
+Sat Feb 11
+  Ghana                v Mali                  0-2   @ Malabo, Equatorial Guinea
+     (Cheick Diabaté 23' Cheick Diabaté 80')
+Sun Feb 12
+  Zambia               v Ivory Coast           0-0   @ Libreville, Gabon   [Zambia wins on penalties]
 

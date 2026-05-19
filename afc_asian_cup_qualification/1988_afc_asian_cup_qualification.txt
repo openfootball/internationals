@@ -1,83 +1,83 @@
 = AFC Asian Cup qualification 1988
 
-# Date       Thu Feb/4 - Wed Jun/22 1988 (139d)
+# Date       Thu Feb 4 - Wed Jun 22 1988 (139d)
 # Teams      20
 # Matches    41
 
-[Thu Feb 4]
-  United Arab Emirates - Thailand  3-0   @ Abu Dhabi, United Arab Emirates
-[Fri Feb 5]
-  China PR - Yemen  0-0   @ Abu Dhabi, United Arab Emirates
-[Sat Feb 6]
-  Bangladesh - India  0-0   @ Abu Dhabi, United Arab Emirates
-[Sun Feb 7]
-  United Arab Emirates - Yemen  2-1   @ Abu Dhabi, United Arab Emirates
-[Mon Feb 8]
-  China PR - Bangladesh  4-0   @ Abu Dhabi, United Arab Emirates
-[Tue Feb 9]
-  Thailand - India  1-0   @ Abu Dhabi, United Arab Emirates
-[Wed Feb 10]
-  United Arab Emirates - China PR  0-0   @ Abu Dhabi, United Arab Emirates
-[Thu Feb 11]
-  Yemen - India  1-0   @ Abu Dhabi, United Arab Emirates
-[Fri Feb 12]
-  Thailand - Bangladesh  1-1   @ Abu Dhabi, United Arab Emirates
-[Sat Feb 13]
-  United Arab Emirates - India  3-0   @ Abu Dhabi, United Arab Emirates
-[Sun Feb 14]
-  China PR - Thailand  5-0   @ Abu Dhabi, United Arab Emirates
-  Yemen - Bangladesh  0-0   @ Abu Dhabi, United Arab Emirates
-[Tue Feb 16]
-  China PR - India  1-1   @ Abu Dhabi, United Arab Emirates
-  Yemen - Thailand  3-3   @ Abu Dhabi, United Arab Emirates
-[Wed Feb 17]
-  United Arab Emirates - Bangladesh  4-0   @ Abu Dhabi, United Arab Emirates
-[Thu Apr 7]
-  Malaysia - Pakistan  4-0   @ Kuala Lumpur, Malaysia
-[Fri Apr 8]
-  Kuwait - Japan  1-0   @ Kuala Lumpur, Malaysia
-[Sun Apr 10]
-  Jordan - Pakistan  1-0   @ Kuala Lumpur, Malaysia
-[Mon Apr 11]
-  Malaysia - Japan  0-1   @ Kuala Lumpur, Malaysia
-[Tue Apr 12]
-  Kuwait - Jordan  0-0   @ Kuala Lumpur, Malaysia
-[Thu Apr 14]
-  Malaysia - Jordan  0-0   @ Kuala Lumpur, Malaysia
-[Fri Apr 15]
-  Kuwait - Pakistan  3-0   @ Kuala Lumpur, Malaysia
-[Sat Apr 16]
-  Japan - Jordan  1-1   @ Kuala Lumpur, Malaysia
-[Mon Apr 18]
-  Japan - Pakistan  4-1   @ Kuala Lumpur, Malaysia
-  Malaysia - Kuwait  0-5   @ Kuala Lumpur, Malaysia
-[Wed May 25]
-  Nepal - Hong Kong  0-0   @ Kathmandu, Nepal
-[Thu May 26]
-  Syria - North Korea  2-1   @ Kathmandu, Nepal
-[Fri May 27]
-  Iran - Hong Kong  2-0   @ Kathmandu, Nepal
-[Sat May 28]
-  Nepal - North Korea  0-1   @ Kathmandu, Nepal
-[Sun May 29]
-  Syria - Iran  1-1   @ Kathmandu, Nepal
-[Tue May 31]
-  North Korea - Hong Kong  1-0   @ Kathmandu, Nepal
-[Wed Jun 1]
-  Nepal - Syria  0-3   @ Kathmandu, Nepal
-[Thu Jun 2]
-  Iran - North Korea  0-0   @ Kathmandu, Nepal
-[Fri Jun 3]
-  Syria - Hong Kong  2-0   @ Kathmandu, Nepal
-[Sat Jun 4]
-  Nepal - Iran  0-3   @ Kathmandu, Nepal
-[Fri Jun 17]
-  Bahrain - South Korea  2-0   @ Jakarta, Indonesia
-  Indonesia - Yemen DPR  1-0   @ Jakarta, Indonesia
-[Sun Jun 19]
-  Indonesia - Bahrain  0-0   @ Jakarta, Indonesia
-  South Korea - Yemen DPR  1-1   @ Jakarta, Indonesia
-[Wed Jun 22]
-  Bahrain - Yemen DPR  2-0   @ Jakarta, Indonesia
-  Indonesia - South Korea  0-4   @ Jakarta, Indonesia
+Thu Feb 4
+  United Arab Emirates v Thailand              3-0   @ Abu Dhabi, United Arab Emirates
+Fri Feb 5
+  China PR             v Yemen                 0-0   @ Abu Dhabi, United Arab Emirates
+Sat Feb 6
+  Bangladesh           v India                 0-0   @ Abu Dhabi, United Arab Emirates
+Sun Feb 7
+  United Arab Emirates v Yemen                 2-1   @ Abu Dhabi, United Arab Emirates
+Mon Feb 8
+  China PR             v Bangladesh            4-0   @ Abu Dhabi, United Arab Emirates
+Tue Feb 9
+  Thailand             v India                 1-0   @ Abu Dhabi, United Arab Emirates
+Wed Feb 10
+  United Arab Emirates v China PR              0-0   @ Abu Dhabi, United Arab Emirates
+Thu Feb 11
+  Yemen                v India                 1-0   @ Abu Dhabi, United Arab Emirates
+Fri Feb 12
+  Thailand             v Bangladesh            1-1   @ Abu Dhabi, United Arab Emirates
+Sat Feb 13
+  United Arab Emirates v India                 3-0   @ Abu Dhabi, United Arab Emirates
+Sun Feb 14
+  China PR             v Thailand              5-0   @ Abu Dhabi, United Arab Emirates
+  Yemen                v Bangladesh            0-0   @ Abu Dhabi, United Arab Emirates
+Tue Feb 16
+  China PR             v India                 1-1   @ Abu Dhabi, United Arab Emirates
+  Yemen                v Thailand              3-3   @ Abu Dhabi, United Arab Emirates
+Wed Feb 17
+  United Arab Emirates v Bangladesh            4-0   @ Abu Dhabi, United Arab Emirates
+Thu Apr 7
+  Malaysia             v Pakistan              4-0   @ Kuala Lumpur, Malaysia
+Fri Apr 8
+  Kuwait               v Japan                 1-0   @ Kuala Lumpur, Malaysia
+Sun Apr 10
+  Jordan               v Pakistan              1-0   @ Kuala Lumpur, Malaysia
+Mon Apr 11
+  Malaysia             v Japan                 0-1   @ Kuala Lumpur, Malaysia
+Tue Apr 12
+  Kuwait               v Jordan                0-0   @ Kuala Lumpur, Malaysia
+Thu Apr 14
+  Malaysia             v Jordan                0-0   @ Kuala Lumpur, Malaysia
+Fri Apr 15
+  Kuwait               v Pakistan              3-0   @ Kuala Lumpur, Malaysia
+Sat Apr 16
+  Japan                v Jordan                1-1   @ Kuala Lumpur, Malaysia
+Mon Apr 18
+  Japan                v Pakistan              4-1   @ Kuala Lumpur, Malaysia
+  Malaysia             v Kuwait                0-5   @ Kuala Lumpur, Malaysia
+Wed May 25
+  Nepal                v Hong Kong             0-0   @ Kathmandu, Nepal
+Thu May 26
+  Syria                v North Korea           2-1   @ Kathmandu, Nepal
+Fri May 27
+  Iran                 v Hong Kong             2-0   @ Kathmandu, Nepal
+Sat May 28
+  Nepal                v North Korea           0-1   @ Kathmandu, Nepal
+Sun May 29
+  Syria                v Iran                  1-1   @ Kathmandu, Nepal
+Tue May 31
+  North Korea          v Hong Kong             1-0   @ Kathmandu, Nepal
+Wed Jun 1
+  Nepal                v Syria                 0-3   @ Kathmandu, Nepal
+Thu Jun 2
+  Iran                 v North Korea           0-0   @ Kathmandu, Nepal
+Fri Jun 3
+  Syria                v Hong Kong             2-0   @ Kathmandu, Nepal
+Sat Jun 4
+  Nepal                v Iran                  0-3   @ Kathmandu, Nepal
+Fri Jun 17
+  Bahrain              v South Korea           2-0   @ Jakarta, Indonesia
+  Indonesia            v Yemen DPR             1-0   @ Jakarta, Indonesia
+Sun Jun 19
+  Indonesia            v Bahrain               0-0   @ Jakarta, Indonesia
+  South Korea          v Yemen DPR             1-1   @ Jakarta, Indonesia
+Wed Jun 22
+  Bahrain              v Yemen DPR             2-0   @ Jakarta, Indonesia
+  Indonesia            v South Korea           0-4   @ Jakarta, Indonesia
 

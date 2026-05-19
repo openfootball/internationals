@@ -1,18 +1,18 @@
 = Baltic Cup 1932
 
-# Date       Sun Aug/28 - Tue Aug/30 1932 (2d)
+# Date       Sun Aug 28 - Tue Aug 30 1932 (2d)
 # Teams      3
 # Matches    3
 
-[Sun Aug 28]
-  Latvia - Lithuania  4-1   @ Riga, Latvia
-     Ēriks Pētersons 52' Alberts Šeibelis 53' Hermanis Jēnihs 65' Arnolds Tauriņš 73';
-     Jaroslavas Citavičius 15'
-[Mon Aug 29]
-  Estonia - Lithuania  1-2   @ Riga, Latvia
-     Roman Mõtlik 11';
-     Eduardas Čižauskas 30' Antanas Lingis 70'
-[Tue Aug 30]
-  Latvia - Estonia  1-0   @ Riga, Latvia
-     Alberts Šeibelis 58'
+Sun Aug 28
+  Latvia               v Lithuania             4-1   @ Riga, Latvia
+     (Ēriks Pētersons 52' Alberts Šeibelis 53' Hermanis Jēnihs 65' Arnolds Tauriņš 73';
+      Jaroslavas Citavičius 15')
+Mon Aug 29
+  Estonia              v Lithuania             1-2   @ Riga, Latvia
+     (Roman Mõtlik 11';
+      Eduardas Čižauskas 30' Antanas Lingis 70')
+Tue Aug 30
+  Latvia               v Estonia               1-0   @ Riga, Latvia
+     (Alberts Šeibelis 58')
 

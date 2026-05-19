@@ -1,20 +1,20 @@
 = UNCAF Cup 1993
 
-# Date       Tue Feb/16 - Tue Mar/9 1993 (21d)
+# Date       Tue Feb 16 - Tue Mar 9 1993 (21d)
 # Teams      5
 # Matches    8
 
-[Tue Feb 16]
-  Costa Rica - Nicaragua  6-0   @ San José, Costa Rica
-[Fri Feb 19]
-  Costa Rica - Nicaragua  2-0   @ San José, Costa Rica
-[Fri Mar 5]
-  El Salvador - Costa Rica  0-1   @ Tegucigalpa, Honduras
-  Honduras - Panama  2-0   @ Tegucigalpa, Honduras
-[Sun Mar 7]
-  El Salvador - Panama  1-1   @ Tegucigalpa, Honduras
-  Honduras - Costa Rica  2-0   @ Tegucigalpa, Honduras
-[Tue Mar 9]
-  Costa Rica - Panama  2-0   @ Tegucigalpa, Honduras
-  Honduras - El Salvador  3-0   @ Tegucigalpa, Honduras
+Tue Feb 16
+  Costa Rica           v Nicaragua             6-0   @ San José, Costa Rica
+Fri Feb 19
+  Costa Rica           v Nicaragua             2-0   @ San José, Costa Rica
+Fri Mar 5
+  El Salvador          v Costa Rica            0-1   @ Tegucigalpa, Honduras
+  Honduras             v Panama                2-0   @ Tegucigalpa, Honduras
+Sun Mar 7
+  El Salvador          v Panama                1-1   @ Tegucigalpa, Honduras
+  Honduras             v Costa Rica            2-0   @ Tegucigalpa, Honduras
+Tue Mar 9
+  Costa Rica           v Panama                2-0   @ Tegucigalpa, Honduras
+  Honduras             v El Salvador           3-0   @ Tegucigalpa, Honduras
 

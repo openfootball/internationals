@@ -1,11 +1,11 @@
 = Trans-Tasman Cup 1991
 
-# Date       Sun May/12 - Wed May/15 1991 (3d)
+# Date       Sun May 12 - Wed May 15 1991 (3d)
 # Teams      2
 # Matches    2
 
-[Sun May 12]
-  New Zealand - Australia  0-1   @ Christchurch, New Zealand
-[Wed May 15]
-  Australia - New Zealand  2-1   @ Adelaide, Australia
+Sun May 12
+  New Zealand          v Australia             0-1   @ Christchurch, New Zealand
+Wed May 15
+  Australia            v New Zealand           2-1   @ Adelaide, Australia
 

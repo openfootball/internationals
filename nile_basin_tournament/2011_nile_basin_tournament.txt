@@ -1,27 +1,27 @@
 = Nile Basin Tournament 2011
 
-# Date       Wed Jan/5 - Mon Jan/17 2011 (12d)
+# Date       Wed Jan 5 - Mon Jan 17 2011 (12d)
 # Teams      7
 # Matches    14
 
-[Wed Jan 5]
-  Egypt - Tanzania  5-1   @ Cairo, Egypt
-  Kenya - Sudan  1-0   @ Cairo, Egypt
-  Uganda - Burundi  3-1   @ Cairo, Egypt
-[Sat Jan 8]
-  DR Congo - Kenya  1-0   @ Cairo, Egypt
-  Egypt - Uganda  1-0   @ Cairo, Egypt
-  Tanzania - Burundi  1-1   @ Cairo, Egypt
-[Tue Jan 11]
-  DR Congo - Sudan  2-1   @ Cairo, Egypt
-  Egypt - Burundi  3-0   @ Ismailia, Egypt
-  Uganda - Tanzania  1-1   @ Cairo, Egypt
-[Fri Jan 14]
-  DR Congo - Uganda  0-1   @ Cairo, Egypt
-  Egypt - Kenya  5-1   @ Cairo, Egypt
-[Sun Jan 16]
-  Tanzania - Sudan  0-2   @ Cairo, Egypt
-[Mon Jan 17]
-  DR Congo - Kenya  1-0   @ Ismailia, Egypt
-  Egypt - Uganda  3-1   @ Ismailia, Egypt
+Wed Jan 5
+  Egypt                v Tanzania              5-1   @ Cairo, Egypt
+  Kenya                v Sudan                 1-0   @ Cairo, Egypt
+  Uganda               v Burundi               3-1   @ Cairo, Egypt
+Sat Jan 8
+  DR Congo             v Kenya                 1-0   @ Cairo, Egypt
+  Egypt                v Uganda                1-0   @ Cairo, Egypt
+  Tanzania             v Burundi               1-1   @ Cairo, Egypt
+Tue Jan 11
+  DR Congo             v Sudan                 2-1   @ Cairo, Egypt
+  Egypt                v Burundi               3-0   @ Ismailia, Egypt
+  Uganda               v Tanzania              1-1   @ Cairo, Egypt
+Fri Jan 14
+  DR Congo             v Uganda                0-1   @ Cairo, Egypt
+  Egypt                v Kenya                 5-1   @ Cairo, Egypt
+Sun Jan 16
+  Tanzania             v Sudan                 0-2   @ Cairo, Egypt
+Mon Jan 17
+  DR Congo             v Kenya                 1-0   @ Ismailia, Egypt
+  Egypt                v Uganda                3-1   @ Ismailia, Egypt
 

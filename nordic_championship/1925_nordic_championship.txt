@@ -1,13 +1,13 @@
 = Nordic Championship 1925
 
-# Date       Sun Jun/14 - Sun Aug/23 1925 (70d)
+# Date       Sun Jun 14 - Sun Aug 23 1925 (70d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 14]
-  Sweden - Denmark  0-2   @ Stockholm, Sweden
-[Sun Jun 21]
-  Denmark - Norway  5-1   @ Copenhagen, Denmark
-[Sun Aug 23]
-  Norway - Sweden  3-7   @ Oslo, Norway
+Sun Jun 14
+  Sweden               v Denmark               0-2   @ Stockholm, Sweden
+Sun Jun 21
+  Denmark              v Norway                5-1   @ Copenhagen, Denmark
+Sun Aug 23
+  Norway               v Sweden                3-7   @ Oslo, Norway
 

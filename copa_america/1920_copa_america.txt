@@ -1,28 +1,28 @@
 = Copa América 1920
 
-# Date       Sat Sep/11 - Sun Oct/3 1920 (22d)
+# Date       Sat Sep 11 - Sun Oct 3 1920 (22d)
 # Teams      4
 # Matches    6
 
-[Sat Sep 11]
-  Chile - Brazil  0-1   @ Viña del Mar, Chile
-     -; Ismael Alvariza 53'
-[Sun Sep 12]
-  Uruguay - Argentina  1-1   @ Viña del Mar, Chile
-     José Piendibene 10';
-     Raúl Echeverría 75'
-[Sat Sep 18]
-  Brazil - Uruguay  0-6   @ Viña del Mar, Chile
-     -; Ángel Romano 23' Antonio Urdinarán 26' (pen.) José Pérez 29' Antonio Campolo 48' Ángel Romano 60' José Pérez 65'
-[Mon Sep 20]
-  Chile - Argentina  1-1   @ Viña del Mar, Chile
-     Hernando Bolados 30';
-     Miguel Dellavalle 13'
-[Sat Sep 25]
-  Argentina - Brazil  2-0   @ Viña del Mar, Chile
-     Raúl Echeverría 40' Julio Libonatti 73'
-[Sun Oct 3]
-  Chile - Uruguay  1-2   @ Viña del Mar, Chile
-     Aurelio Domínguez 60';
-     Ángel Romano 37' José Pérez 65'
+Sat Sep 11
+  Chile                v Brazil                0-1   @ Viña del Mar, Chile
+     (Ismael Alvariza 53')
+Sun Sep 12
+  Uruguay              v Argentina             1-1   @ Viña del Mar, Chile
+     (José Piendibene 10';
+      Raúl Echeverría 75')
+Sat Sep 18
+  Brazil               v Uruguay               0-6   @ Viña del Mar, Chile
+     (Ángel Romano 23' Antonio Urdinarán 26'(p) José Pérez 29' Antonio Campolo 48' Ángel Romano 60' José Pérez 65')
+Mon Sep 20
+  Chile                v Argentina             1-1   @ Viña del Mar, Chile
+     (Hernando Bolados 30';
+      Miguel Dellavalle 13')
+Sat Sep 25
+  Argentina            v Brazil                2-0   @ Viña del Mar, Chile
+     (Raúl Echeverría 40' Julio Libonatti 73')
+Sun Oct 3
+  Chile                v Uruguay               1-2   @ Viña del Mar, Chile
+     (Aurelio Domínguez 60';
+      Ángel Romano 37' José Pérez 65')
 

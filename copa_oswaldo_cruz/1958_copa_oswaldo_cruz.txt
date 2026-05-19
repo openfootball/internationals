@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1958
 
-# Date       Sun May/4 - Wed May/7 1958 (3d)
+# Date       Sun May 4 - Wed May 7 1958 (3d)
 # Teams      2
 # Matches    2
 
-[Sun May 4]
-  Brazil - Paraguay  5-1   @ Rio de Janeiro, Brazil
-[Wed May 7]
-  Brazil - Paraguay  0-0   @ São Paulo, Brazil
+Sun May 4
+  Brazil               v Paraguay              5-1   @ Rio de Janeiro, Brazil
+Wed May 7
+  Brazil               v Paraguay              0-0   @ São Paulo, Brazil
 

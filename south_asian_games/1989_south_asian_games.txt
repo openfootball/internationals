@@ -1,22 +1,22 @@
 = South Asian Games 1989
 
-# Date       Thu Sep/21 - Thu Oct/26 1989 (35d)
+# Date       Thu Sep 21 - Thu Oct 26 1989 (35d)
 # Teams      6
 # Matches    8
 
-[Thu Sep 21]
-  Bangladesh - Sri Lanka  3-0   @ Islamabad, Pakistan
-[Mon Sep 25]
-  India - Sri Lanka  2-1   @ Islamabad, Pakistan
-[Fri Oct 20]
-  Maldives - Nepal  0-0   @ Islamabad, Pakistan
-[Sun Oct 22]
-  Pakistan - Nepal  0-0   @ Islamabad, Pakistan
-[Mon Oct 23]
-  Bangladesh - India  1-1   @ Islamabad, Pakistan
-[Tue Oct 24]
-  Pakistan - Maldives  2-0   @ Islamabad, Pakistan
-[Thu Oct 26]
-  India - Nepal  2-1   @ Islamabad, Pakistan
-  Pakistan - Bangladesh  1-0   @ Islamabad, Pakistan
+Thu Sep 21
+  Bangladesh           v Sri Lanka             3-0   @ Islamabad, Pakistan
+Mon Sep 25
+  India                v Sri Lanka             2-1   @ Islamabad, Pakistan
+Fri Oct 20
+  Maldives             v Nepal                 0-0   @ Islamabad, Pakistan
+Sun Oct 22
+  Pakistan             v Nepal                 0-0   @ Islamabad, Pakistan
+Mon Oct 23
+  Bangladesh           v India                 1-1   @ Islamabad, Pakistan
+Tue Oct 24
+  Pakistan             v Maldives              2-0   @ Islamabad, Pakistan
+Thu Oct 26
+  India                v Nepal                 2-1   @ Islamabad, Pakistan
+  Pakistan             v Bangladesh            1-0   @ Islamabad, Pakistan
 

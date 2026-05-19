@@ -1,18 +1,18 @@
 = Nordic Championship 1958
 
-# Date       Sun Jun/15 - Sun Oct/26 1958 (133d)
+# Date       Sun Jun 15 - Sun Oct 26 1958 (133d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 15]
-  Norway - Finland  2-0   @ Oslo, Norway
-[Sun Jun 29]
-  Denmark - Norway  1-2   @ Copenhagen, Denmark
-[Wed Aug 20]
-  Finland - Sweden  1-7   @ Helsinki, Finland
-[Sun Sep 14]
-  Finland - Denmark  1-4   @ Helsinki, Finland
-  Norway - Sweden  0-2   @ Oslo, Norway
-[Sun Oct 26]
-  Sweden - Denmark  4-4   @ Solna, Sweden
+Sun Jun 15
+  Norway               v Finland               2-0   @ Oslo, Norway
+Sun Jun 29
+  Denmark              v Norway                1-2   @ Copenhagen, Denmark
+Wed Aug 20
+  Finland              v Sweden                1-7   @ Helsinki, Finland
+Sun Sep 14
+  Finland              v Denmark               1-4   @ Helsinki, Finland
+  Norway               v Sweden                0-2   @ Oslo, Norway
+Sun Oct 26
+  Sweden               v Denmark               4-4   @ Solna, Sweden
 

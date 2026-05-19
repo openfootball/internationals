@@ -1,28 +1,28 @@
 = AFC Asian Cup qualification 2016
 
-# Date       Thu Jun/2 - Tue Oct/11 2016 (131d)
+# Date       Thu Jun 2 - Tue Oct 11 2016 (131d)
 # Teams      11
 # Matches    14
 
-[Thu Jun 2]
-  Laos - India  0-1   @ Vientiane, Laos
-  Malaysia - Timor-Leste  3-0   @ Johor Bahru, Malaysia
-  Maldives - Yemen  0-2   @ Malé, Maldives
-  Tajikistan - Bangladesh  5-0   @ Dushanbe, Tajikistan
-[Mon Jun 6]
-  Malaysia - Timor-Leste  3-0   @ Johor Bahru, Malaysia
-[Tue Jun 7]
-  Bangladesh - Tajikistan  0-1   @ Dhaka, Bangladesh
-  Cambodia - Taiwan  2-0   @ Phnom Penh, Cambodia
-  India - Laos  6-1   @ Guwahati, India
-  Yemen - Maldives  2-0   @ Doha, Qatar
-[Tue Sep 6]
-  Bangladesh - Bhutan  0-0   @ Dhaka, Bangladesh
-  Maldives - Laos  4-0   @ Malé, Maldives
-[Sat Oct 8]
-  Taiwan - Timor-Leste  2-1   @ Kaohsiung, Taiwan
-[Mon Oct 10]
-  Bhutan - Bangladesh  3-1   @ Thimphu, Bhutan
-[Tue Oct 11]
-  Laos - Maldives  1-1   @ Vientiane, Laos
+Thu Jun 2
+  Laos                 v India                 0-1   @ Vientiane, Laos
+  Malaysia             v Timor-Leste           3-0   @ Johor Bahru, Malaysia
+  Maldives             v Yemen                 0-2   @ Malé, Maldives
+  Tajikistan           v Bangladesh            5-0   @ Dushanbe, Tajikistan
+Mon Jun 6
+  Malaysia             v Timor-Leste           3-0   @ Johor Bahru, Malaysia
+Tue Jun 7
+  Bangladesh           v Tajikistan            0-1   @ Dhaka, Bangladesh
+  Cambodia             v Taiwan                2-0   @ Phnom Penh, Cambodia
+  India                v Laos                  6-1   @ Guwahati, India
+  Yemen                v Maldives              2-0   @ Doha, Qatar
+Tue Sep 6
+  Bangladesh           v Bhutan                0-0   @ Dhaka, Bangladesh
+  Maldives             v Laos                  4-0   @ Malé, Maldives
+Sat Oct 8
+  Taiwan               v Timor-Leste           2-1   @ Kaohsiung, Taiwan
+Mon Oct 10
+  Bhutan               v Bangladesh            3-1   @ Thimphu, Bhutan
+Tue Oct 11
+  Laos                 v Maldives              1-1   @ Vientiane, Laos
 

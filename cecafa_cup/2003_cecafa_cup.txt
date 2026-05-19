@@ -1,22 +1,22 @@
 = CECAFA Cup 2003
 
-# Date       Sun Nov/30 - Wed Dec/10 2003 (10d)
+# Date       Sun Nov 30 - Wed Dec 10 2003 (10d)
 # Teams      6
 # Matches    10
 
-[Sun Nov 30]
-  Sudan - Zanzibar  4-0   @ Khartoum, Sudan
-  Uganda - Eritrea  2-1   @ Kassala, Sudan
-[Tue Dec 2]
-  Kenya - Eritrea  3-2   @ Kassala, Sudan
-  Rwanda - Zanzibar  2-2   @ Khartoum, Sudan
-[Thu Dec 4]
-  Sudan - Rwanda  3-0   @ Khartoum, Sudan
-  Uganda - Kenya  1-1   @ Kassala, Sudan
-[Mon Dec 8]
-  Kenya - Rwanda  1-1   @ Khartoum, Sudan   [Rwanda wins on penalties]
-  Sudan - Uganda  0-0   @ Khartoum, Sudan   [Uganda wins on penalties]
-[Wed Dec 10]
-  Sudan - Kenya  1-2   @ Khartoum, Sudan
-  Uganda - Rwanda  2-0   @ Khartoum, Sudan
+Sun Nov 30
+  Sudan                v Zanzibar              4-0   @ Khartoum, Sudan
+  Uganda               v Eritrea               2-1   @ Kassala, Sudan
+Tue Dec 2
+  Kenya                v Eritrea               3-2   @ Kassala, Sudan
+  Rwanda               v Zanzibar              2-2   @ Khartoum, Sudan
+Thu Dec 4
+  Sudan                v Rwanda                3-0   @ Khartoum, Sudan
+  Uganda               v Kenya                 1-1   @ Kassala, Sudan
+Mon Dec 8
+  Kenya                v Rwanda                1-1   @ Khartoum, Sudan   [Rwanda wins on penalties]
+  Sudan                v Uganda                0-0   @ Khartoum, Sudan   [Uganda wins on penalties]
+Wed Dec 10
+  Sudan                v Kenya                 1-2   @ Khartoum, Sudan
+  Uganda               v Rwanda                2-0   @ Khartoum, Sudan
 

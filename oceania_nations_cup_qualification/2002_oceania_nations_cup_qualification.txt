@@ -1,22 +1,22 @@
 = Oceania Nations Cup qualification 2002
 
-# Date       Sat Mar/9 - Mon Mar/18 2002 (9d)
+# Date       Sat Mar 9 - Mon Mar 18 2002 (9d)
 # Teams      5
 # Matches    10
 
-[Sat Mar 9]
-  American Samoa - New Caledonia  0-10   @ Apia, Samoa
-  Samoa - Tonga  2-0   @ Apia, Samoa
-[Tue Mar 12]
-  American Samoa - Tonga  2-7   @ Apia, Samoa
-  New Caledonia - Papua New Guinea  1-4   @ Apia, Samoa
-[Thu Mar 14]
-  Papua New Guinea - Tonga  5-0   @ Apia, Samoa
-  Samoa - American Samoa  5-0   @ Apia, Samoa
-[Sat Mar 16]
-  New Caledonia - Tonga  9-0   @ Apia, Samoa
-  Samoa - Papua New Guinea  1-4   @ Apia, Samoa
-[Mon Mar 18]
-  American Samoa - Papua New Guinea  0-7   @ Apia, Samoa
-  Samoa - New Caledonia  0-5   @ Apia, Samoa
+Sat Mar 9
+  American Samoa       v New Caledonia         0-10   @ Apia, Samoa
+  Samoa                v Tonga                 2-0   @ Apia, Samoa
+Tue Mar 12
+  American Samoa       v Tonga                 2-7   @ Apia, Samoa
+  New Caledonia        v Papua New Guinea      1-4   @ Apia, Samoa
+Thu Mar 14
+  Papua New Guinea     v Tonga                 5-0   @ Apia, Samoa
+  Samoa                v American Samoa        5-0   @ Apia, Samoa
+Sat Mar 16
+  New Caledonia        v Tonga                 9-0   @ Apia, Samoa
+  Samoa                v Papua New Guinea      1-4   @ Apia, Samoa
+Mon Mar 18
+  American Samoa       v Papua New Guinea      0-7   @ Apia, Samoa
+  Samoa                v New Caledonia         0-5   @ Apia, Samoa
 

@@ -1,19 +1,19 @@
 = Baltic Cup 1938
 
-# Date       Sat Sep/3 - Mon Sep/5 1938 (2d)
+# Date       Sat Sep 3 - Mon Sep 5 1938 (2d)
 # Teams      3
 # Matches    3
 
-[Sat Sep 3]
-  Estonia - Lithuania  3-1   @ Tallinn, Estonia
-     Ralf Veidemann 40' Ralf Veidemann 44' Heinrich Uukkivi 69';
-     Kazys Šurkus 72'
-[Sun Sep 4]
-  Latvia - Lithuania  1-1   @ Tallinn, Estonia
-     Francis Krupšs 87';
-     Voldemaras Jaškevičius 28'
-[Mon Sep 5]
-  Estonia - Latvia  1-1   @ Tallinn, Estonia
-     Leonhard Kass 12';
-     Ēriks Raisters 49'
+Sat Sep 3
+  Estonia              v Lithuania             3-1   @ Tallinn, Estonia
+     (Ralf Veidemann 40' Ralf Veidemann 44' Heinrich Uukkivi 69';
+      Kazys Šurkus 72')
+Sun Sep 4
+  Latvia               v Lithuania             1-1   @ Tallinn, Estonia
+     (Francis Krupšs 87';
+      Voldemaras Jaškevičius 28')
+Mon Sep 5
+  Estonia              v Latvia                1-1   @ Tallinn, Estonia
+     (Leonhard Kass 12';
+      Ēriks Raisters 49')
 

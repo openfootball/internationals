@@ -1,16 +1,16 @@
 = Malta International Tournament 1994
 
-# Date       Tue Feb/8 - Sat Feb/12 1994 (4d)
+# Date       Tue Feb 8 - Sat Feb 12 1994 (4d)
 # Teams      4
 # Matches    6
 
-[Tue Feb 8]
-  Georgia - Slovenia  0-1   @ Attard, Malta
-  Malta - Tunisia  1-1   @ Attard, Malta
-[Thu Feb 10]
-  Malta - Georgia  0-1   @ Attard, Malta
-  Slovenia - Tunisia  2-2   @ Attard, Malta
-[Sat Feb 12]
-  Georgia - Tunisia  2-0   @ Attard, Malta
-  Malta - Slovenia  0-1   @ Attard, Malta
+Tue Feb 8
+  Georgia              v Slovenia              0-1   @ Attard, Malta
+  Malta                v Tunisia               1-1   @ Attard, Malta
+Thu Feb 10
+  Malta                v Georgia               0-1   @ Attard, Malta
+  Slovenia             v Tunisia               2-2   @ Attard, Malta
+Sat Feb 12
+  Georgia              v Tunisia               2-0   @ Attard, Malta
+  Malta                v Slovenia              0-1   @ Attard, Malta
 

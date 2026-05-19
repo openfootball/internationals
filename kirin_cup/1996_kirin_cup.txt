@@ -1,13 +1,13 @@
 = Kirin Cup 1996
 
-# Date       Thu May/23 - Wed May/29 1996 (6d)
+# Date       Thu May 23 - Wed May 29 1996 (6d)
 # Teams      3
 # Matches    3
 
-[Thu May 23]
-  Mexico - Serbia  0-0   @ Shizuoka, Japan
-[Sun May 26]
-  Japan - Serbia  1-0   @ Tokyo, Japan
-[Wed May 29]
-  Japan - Mexico  3-2   @ Fukuoka, Japan
+Thu May 23
+  Mexico               v Serbia                0-0   @ Shizuoka, Japan
+Sun May 26
+  Japan                v Serbia                1-0   @ Tokyo, Japan
+Wed May 29
+  Japan                v Mexico                3-2   @ Fukuoka, Japan
 

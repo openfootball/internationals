@@ -1,44 +1,44 @@
 = CECAFA Cup 2015
 
-# Date       Sat Nov/21 - Sat Dec/5 2015 (14d)
+# Date       Sat Nov 21 - Sat Dec 5 2015 (14d)
 # Teams      12
 # Matches    26
 
-[Sat Nov 21]
-  Burundi - Zanzibar  1-0   @ Addis Ababa, Ethiopia
-  Ethiopia - Rwanda  0-1   @ Addis Ababa, Ethiopia
-[Sun Nov 22]
-  Kenya - Uganda  2-0   @ Addis Ababa, Ethiopia
-  Somalia - Tanzania  0-4   @ Addis Ababa, Ethiopia
-[Mon Nov 23]
-  South Sudan - Djibouti  2-0   @ Bahir Dar, Ethiopia
-  Sudan - Malawi  1-2   @ Bahir Dar, Ethiopia
-[Tue Nov 24]
-  Rwanda - Tanzania  1-2   @ Hawassa, Ethiopia
-  Zanzibar - Uganda  0-4   @ Hawassa, Ethiopia
-[Wed Nov 25]
-  Ethiopia - Somalia  2-0   @ Hawassa, Ethiopia
-  Kenya - Burundi  1-1   @ Hawassa, Ethiopia
-  Malawi - Djibouti  3-0   @ Bahir Dar, Ethiopia
-  South Sudan - Sudan  0-0   @ Bahir Dar, Ethiopia
-[Fri Nov 27]
-  Djibouti - Sudan  0-4   @ Bahir Dar, Ethiopia
-  Rwanda - Somalia  3-0   @ Hawassa, Ethiopia
-  South Sudan - Malawi  2-0   @ Bahir Dar, Ethiopia
-  Zanzibar - Kenya  3-1   @ Hawassa, Ethiopia
-[Sat Nov 28]
-  Ethiopia - Tanzania  1-1   @ Hawassa, Ethiopia
-  Uganda - Burundi  1-0   @ Hawassa, Ethiopia
-[Mon Nov 30]
-  Ethiopia - Tanzania  1-1   @ Addis Ababa, Ethiopia
-  Uganda - Malawi  2-0   @ Addis Ababa, Ethiopia
-[Tue Dec 1]
-  Rwanda - Kenya  0-0   @ Addis Ababa, Ethiopia
-  South Sudan - Sudan  0-0   @ Addis Ababa, Ethiopia
-[Thu Dec 3]
-  Ethiopia - Uganda  0-0   @ Addis Ababa, Ethiopia
-  Rwanda - Sudan  1-1   @ Addis Ababa, Ethiopia
-[Sat Dec 5]
-  Ethiopia - Sudan  1-1   @ Addis Ababa, Ethiopia
-  Uganda - Rwanda  1-0   @ Addis Ababa, Ethiopia
+Sat Nov 21
+  Burundi              v Zanzibar              1-0   @ Addis Ababa, Ethiopia
+  Ethiopia             v Rwanda                0-1   @ Addis Ababa, Ethiopia
+Sun Nov 22
+  Kenya                v Uganda                2-0   @ Addis Ababa, Ethiopia
+  Somalia              v Tanzania              0-4   @ Addis Ababa, Ethiopia
+Mon Nov 23
+  South Sudan          v Djibouti              2-0   @ Bahir Dar, Ethiopia
+  Sudan                v Malawi                1-2   @ Bahir Dar, Ethiopia
+Tue Nov 24
+  Rwanda               v Tanzania              1-2   @ Hawassa, Ethiopia
+  Zanzibar             v Uganda                0-4   @ Hawassa, Ethiopia
+Wed Nov 25
+  Ethiopia             v Somalia               2-0   @ Hawassa, Ethiopia
+  Kenya                v Burundi               1-1   @ Hawassa, Ethiopia
+  Malawi               v Djibouti              3-0   @ Bahir Dar, Ethiopia
+  South Sudan          v Sudan                 0-0   @ Bahir Dar, Ethiopia
+Fri Nov 27
+  Djibouti             v Sudan                 0-4   @ Bahir Dar, Ethiopia
+  Rwanda               v Somalia               3-0   @ Hawassa, Ethiopia
+  South Sudan          v Malawi                2-0   @ Bahir Dar, Ethiopia
+  Zanzibar             v Kenya                 3-1   @ Hawassa, Ethiopia
+Sat Nov 28
+  Ethiopia             v Tanzania              1-1   @ Hawassa, Ethiopia
+  Uganda               v Burundi               1-0   @ Hawassa, Ethiopia
+Mon Nov 30
+  Ethiopia             v Tanzania              1-1   @ Addis Ababa, Ethiopia
+  Uganda               v Malawi                2-0   @ Addis Ababa, Ethiopia
+Tue Dec 1
+  Rwanda               v Kenya                 0-0   @ Addis Ababa, Ethiopia
+  South Sudan          v Sudan                 0-0   @ Addis Ababa, Ethiopia
+Thu Dec 3
+  Ethiopia             v Uganda                0-0   @ Addis Ababa, Ethiopia
+  Rwanda               v Sudan                 1-1   @ Addis Ababa, Ethiopia
+Sat Dec 5
+  Ethiopia             v Sudan                 1-1   @ Addis Ababa, Ethiopia
+  Uganda               v Rwanda                1-0   @ Addis Ababa, Ethiopia
 

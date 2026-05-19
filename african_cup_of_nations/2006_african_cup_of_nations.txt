@@ -1,97 +1,97 @@
 = African Cup of Nations 2006
 
-# Date       Fri Jan/20 - Fri Feb/10 2006 (21d)
+# Date       Fri Jan 20 - Fri Feb 10 2006 (21d)
 # Teams      16
 # Matches    32
 
-[Fri Jan 20]
-  Egypt - Libya  3-0   @ Cairo, Egypt
-     Mido 18' Mohamed Aboutrika 22' Ahmed Hassan 78'
-[Sat Jan 21]
-  Cameroon - Angola  3-1   @ Cairo, Egypt
-     Samuel Eto'o 20' Samuel Eto'o 39' Samuel Eto'o 78';
-     Flávio Amado 31' (pen.)
-  Morocco - Ivory Coast  0-1   @ Cairo, Egypt
-     -; Didier Drogba 39' (pen.)
-  Togo - DR Congo  0-2   @ Cairo, Egypt
-     -; Trésor Mputu 45' Lomana LuaLua 64'
-[Sun Jan 22]
-  South Africa - Guinea  0-2   @ Alexandria, Egypt
-     -; Sambégou Bangoura 78' Ousmane Bangoura 88'
-  Tunisia - Zambia  4-1   @ Alexandria, Egypt
-     Francileudo Santos 35' Riadh Bouazizi 53' Francileudo Santos 82' Francileudo Santos 90';
-     James Chamanga 9'
-[Mon Jan 23]
-  Nigeria - Ghana  1-0   @ Port Said, Egypt
-     Taye Taiwo 85'
-  Zimbabwe - Senegal  0-2   @ Port Said, Egypt
-     -; Henri Camara 59' Issa Ba 80'
-[Tue Jan 24]
-  Egypt - Morocco  0-0   @ Cairo, Egypt
-  Libya - Ivory Coast  1-2   @ Cairo, Egypt
-     Abdesalam Kames 42';
-     Didier Drogba 10' Yaya Touré 74'
-[Wed Jan 25]
-  Angola - DR Congo  0-0   @ Cairo, Egypt
-  Cameroon - Togo  2-0   @ Cairo, Egypt
-     Samuel Eto'o 68' Albert Meyong 85'
-[Thu Jan 26]
-  Tunisia - South Africa  2-0   @ Alexandria, Egypt
-     Francileudo Santos 32' Selim Benachour 58'
-  Zambia - Guinea  1-2   @ Alexandria, Egypt
-     Elijah Tana 33';
-     Pascal Feindouno 73' (pen.) Pascal Feindouno 90'
-[Fri Jan 27]
-  Ghana - Senegal  1-0   @ Port Said, Egypt
-     Matthew Amoah 13'
-  Nigeria - Zimbabwe  2-0   @ Port Said, Egypt
-     Christian Obodo 57' Mikel John Obi 60'
-[Sat Jan 28]
-  Egypt - Ivory Coast  3-1   @ Cairo, Egypt
-     Emad Moteab 8' Mohamed Aboutrika 61' Emad Moteab 69';
-     Arouna Koné 43'
-  Libya - Morocco  0-0   @ Cairo, Egypt
-[Sun Jan 29]
-  Angola - Togo  3-2   @ Cairo, Egypt
-     Flávio Amado 9' Flávio Amado 38' Norberto Maurito 86';
-     Mohamed Kader 24' Chérif Touré Mamam 67'
-  Cameroon - DR Congo  2-0   @ Cairo, Egypt
-     Geremi 31' Samuel Eto'o 33'
-[Mon Jan 30]
-  Tunisia - Guinea  0-3   @ Alexandria, Egypt
-     -; Ousmane Bangoura 16' Pascal Feindouno 70' Kaba Diawara 90'
-  Zambia - South Africa  1-0   @ Alexandria, Egypt
-     Christopher Katongo 75'
-[Tue Jan 31]
-  Ghana - Zimbabwe  1-2   @ Ismailia, Egypt
-     Baba Adamu 90';
-     Issah Gabriel Ahmed 60' (o.g.) Benjani Mwaruwari 68'
-  Nigeria - Senegal  2-1   @ Port Said, Egypt
-     Obafemi Martins 79' Obafemi Martins 88';
-     Souleymane Camara 58'
-[Fri Feb 3]
-  Egypt - DR Congo  4-1   @ Cairo, Egypt
-     Ahmed Hassan 33' (pen.) Hossam Hassan 39' Emad Moteab 58' Ahmed Hassan 89';
-     Abdel-Zaher El-Saqqa 45' (o.g.)
-  Guinea - Senegal  2-3   @ Alexandria, Egypt
-     Kaba Diawara 24' Pascal Feindouno 90';
-     Papa Bouba Diop 61' Mamadou Niang 83' Henri Camara 90'
-[Sat Feb 4]
-  Cameroon - Ivory Coast  1-1   @ Cairo, Egypt   [Ivory Coast wins on penalties]
-     Albert Meyong 95';
-     Bakari Koné 92'
-  Nigeria - Tunisia  1-1   @ Port Said, Egypt   [Nigeria wins on penalties]
-     Victor Obinna 6';
-     Karim Haggui 49'
-[Tue Feb 7]
-  Egypt - Senegal  2-1   @ Cairo, Egypt
-     Ahmed Hassan 37' (pen.) Amr Zaki 81';
-     Mamadou Niang 52'
-  Nigeria - Ivory Coast  0-1   @ Alexandria, Egypt
-     -; Didier Drogba 47'
-[Thu Feb 9]
-  Senegal - Nigeria  0-1   @ Cairo, Egypt
-     -; Garba Lawal 79'
-[Fri Feb 10]
-  Egypt - Ivory Coast  0-0   @ Cairo, Egypt   [Egypt wins on penalties]
+Fri Jan 20
+  Egypt                v Libya                 3-0   @ Cairo, Egypt
+     (Mido 18' Mohamed Aboutrika 22' Ahmed Hassan 78')
+Sat Jan 21
+  Cameroon             v Angola                3-1   @ Cairo, Egypt
+     (Samuel Eto'o 20' Samuel Eto'o 39' Samuel Eto'o 78';
+      Flávio Amado 31'(p))
+  Morocco              v Ivory Coast           0-1   @ Cairo, Egypt
+     (Didier Drogba 39'(p))
+  Togo                 v DR Congo              0-2   @ Cairo, Egypt
+     (Trésor Mputu 45' Lomana LuaLua 64')
+Sun Jan 22
+  South Africa         v Guinea                0-2   @ Alexandria, Egypt
+     (Sambégou Bangoura 78' Ousmane Bangoura 88')
+  Tunisia              v Zambia                4-1   @ Alexandria, Egypt
+     (Francileudo Santos 35' Riadh Bouazizi 53' Francileudo Santos 82' Francileudo Santos 90';
+      James Chamanga 9')
+Mon Jan 23
+  Nigeria              v Ghana                 1-0   @ Port Said, Egypt
+     (Taye Taiwo 85')
+  Zimbabwe             v Senegal               0-2   @ Port Said, Egypt
+     (Henri Camara 59' Issa Ba 80')
+Tue Jan 24
+  Egypt                v Morocco               0-0   @ Cairo, Egypt
+  Libya                v Ivory Coast           1-2   @ Cairo, Egypt
+     (Abdesalam Kames 42';
+      Didier Drogba 10' Yaya Touré 74')
+Wed Jan 25
+  Angola               v DR Congo              0-0   @ Cairo, Egypt
+  Cameroon             v Togo                  2-0   @ Cairo, Egypt
+     (Samuel Eto'o 68' Albert Meyong 85')
+Thu Jan 26
+  Tunisia              v South Africa          2-0   @ Alexandria, Egypt
+     (Francileudo Santos 32' Selim Benachour 58')
+  Zambia               v Guinea                1-2   @ Alexandria, Egypt
+     (Elijah Tana 33';
+      Pascal Feindouno 73'(p) Pascal Feindouno 90')
+Fri Jan 27
+  Ghana                v Senegal               1-0   @ Port Said, Egypt
+     (Matthew Amoah 13')
+  Nigeria              v Zimbabwe              2-0   @ Port Said, Egypt
+     (Christian Obodo 57' Mikel John Obi 60')
+Sat Jan 28
+  Egypt                v Ivory Coast           3-1   @ Cairo, Egypt
+     (Emad Moteab 8' Mohamed Aboutrika 61' Emad Moteab 69';
+      Arouna Koné 43')
+  Libya                v Morocco               0-0   @ Cairo, Egypt
+Sun Jan 29
+  Angola               v Togo                  3-2   @ Cairo, Egypt
+     (Flávio Amado 9' Flávio Amado 38' Norberto Maurito 86';
+      Mohamed Kader 24' Chérif Touré Mamam 67')
+  Cameroon             v DR Congo              2-0   @ Cairo, Egypt
+     (Geremi 31' Samuel Eto'o 33')
+Mon Jan 30
+  Tunisia              v Guinea                0-3   @ Alexandria, Egypt
+     (Ousmane Bangoura 16' Pascal Feindouno 70' Kaba Diawara 90')
+  Zambia               v South Africa          1-0   @ Alexandria, Egypt
+     (Christopher Katongo 75')
+Tue Jan 31
+  Ghana                v Zimbabwe              1-2   @ Ismailia, Egypt
+     (Baba Adamu 90';
+      Issah Gabriel Ahmed 60'(og) Benjani Mwaruwari 68')
+  Nigeria              v Senegal               2-1   @ Port Said, Egypt
+     (Obafemi Martins 79' Obafemi Martins 88';
+      Souleymane Camara 58')
+Fri Feb 3
+  Egypt                v DR Congo              4-1   @ Cairo, Egypt
+     (Ahmed Hassan 33'(p) Hossam Hassan 39' Emad Moteab 58' Ahmed Hassan 89';
+      Abdel-Zaher El-Saqqa 45'(og))
+  Guinea               v Senegal               2-3   @ Alexandria, Egypt
+     (Kaba Diawara 24' Pascal Feindouno 90';
+      Papa Bouba Diop 61' Mamadou Niang 83' Henri Camara 90')
+Sat Feb 4
+  Cameroon             v Ivory Coast           1-1   @ Cairo, Egypt   [Ivory Coast wins on penalties]
+     (Albert Meyong 95';
+      Bakari Koné 92')
+  Nigeria              v Tunisia               1-1   @ Port Said, Egypt   [Nigeria wins on penalties]
+     (Victor Obinna 6';
+      Karim Haggui 49')
+Tue Feb 7
+  Egypt                v Senegal               2-1   @ Cairo, Egypt
+     (Ahmed Hassan 37'(p) Amr Zaki 81';
+      Mamadou Niang 52')
+  Nigeria              v Ivory Coast           0-1   @ Alexandria, Egypt
+     (Didier Drogba 47')
+Thu Feb 9
+  Senegal              v Nigeria               0-1   @ Cairo, Egypt
+     (Garba Lawal 79')
+Fri Feb 10
+  Egypt                v Ivory Coast           0-0   @ Cairo, Egypt   [Egypt wins on penalties]
 

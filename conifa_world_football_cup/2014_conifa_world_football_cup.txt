@@ -1,43 +1,43 @@
 = CONIFA World Football Cup 2014
 
-# Date       Sun Jun/1 - Sun Jun/8 2014 (7d)
+# Date       Sun Jun 1 - Sun Jun 8 2014 (7d)
 # Teams      12
 # Matches    28
 
-[Sun Jun 1]
-  Iraqi Kurdistan - Arameans Suryoye  1-2   @ Östersund, Sweden
-  Abkhazia - Occitania  1-1   @ Östersund, Sweden
-  Darfur - Padania  0-20   @ Östersund, Sweden
-  Ellan Vannin - Artsakh  3-2   @ Östersund, Sweden
-[Mon Jun 2]
-  Tamil Eelam - Arameans Suryoye  0-2   @ Östersund, Sweden
-  Sápmi - Abkhazia  1-2   @ Östersund, Sweden
-  Darfur - South Ossetia  0-19   @ Östersund, Sweden
-  Ellan Vannin - County of Nice  4-2   @ Östersund, Sweden
-[Tue Jun 3]
-  Tamil Eelam - Iraqi Kurdistan  0-9   @ Östersund, Sweden
-  Sápmi - Occitania  0-1   @ Östersund, Sweden
-  South Ossetia - Padania  1-3   @ Östersund, Sweden
-  Artsakh - County of Nice  0-1   @ Östersund, Sweden
-[Wed Jun 4]
-  Padania - County of Nice  1-2   @ Östersund, Sweden
-  Abkhazia - South Ossetia  0-0   @ Östersund, Sweden   [South Ossetia wins on penalties]
-  Arameans Suryoye - Occitania  0-0   @ Östersund, Sweden
-  Ellan Vannin - Iraqi Kurdistan  1-1   @ Östersund, Sweden   [Ellan Vannin wins on penalties]
-[Thu Jun 5]
-  Sápmi - Tamil Eelam  4-2   @ Östersund, Sweden
-  Darfur - Artsakh  0-12   @ Östersund, Sweden
-  Padania - Abkhazia  3-3   @ Östersund, Sweden   [Padania wins on penalties]
-  Occitania - Iraqi Kurdistan  2-2   @ Östersund, Sweden   [Iraqi Kurdistan wins on penalties]
-[Fri Jun 6]
-  County of Nice - South Ossetia  3-0   @ Östersund, Sweden
-  Arameans Suryoye - Ellan Vannin  1-4   @ Östersund, Sweden
-[Sat Jun 7]
-  Sápmi - Artsakh  1-5   @ Östersund, Sweden
-  Tamil Eelam - Darfur  10-0   @ Östersund, Sweden
-  Abkhazia - Occitania  0-1   @ Östersund, Sweden
-  Padania - Iraqi Kurdistan  1-1   @ Östersund, Sweden   [Padania wins on penalties]
-[Sun Jun 8]
-  South Ossetia - Arameans Suryoye  1-4   @ Östersund, Sweden
-  County of Nice - Ellan Vannin  0-0   @ Östersund, Sweden   [County of Nice wins on penalties]
+Sun Jun 1
+  Iraqi Kurdistan      v Arameans Suryoye      1-2   @ Östersund, Sweden
+  Abkhazia             v Occitania             1-1   @ Östersund, Sweden
+  Darfur               v Padania               0-20   @ Östersund, Sweden
+  Ellan Vannin         v Artsakh               3-2   @ Östersund, Sweden
+Mon Jun 2
+  Tamil Eelam          v Arameans Suryoye      0-2   @ Östersund, Sweden
+  Sápmi                v Abkhazia              1-2   @ Östersund, Sweden
+  Darfur               v South Ossetia         0-19   @ Östersund, Sweden
+  Ellan Vannin         v County of Nice        4-2   @ Östersund, Sweden
+Tue Jun 3
+  Tamil Eelam          v Iraqi Kurdistan       0-9   @ Östersund, Sweden
+  Sápmi                v Occitania             0-1   @ Östersund, Sweden
+  South Ossetia        v Padania               1-3   @ Östersund, Sweden
+  Artsakh              v County of Nice        0-1   @ Östersund, Sweden
+Wed Jun 4
+  Padania              v County of Nice        1-2   @ Östersund, Sweden
+  Abkhazia             v South Ossetia         0-0   @ Östersund, Sweden   [South Ossetia wins on penalties]
+  Arameans Suryoye     v Occitania             0-0   @ Östersund, Sweden
+  Ellan Vannin         v Iraqi Kurdistan       1-1   @ Östersund, Sweden   [Ellan Vannin wins on penalties]
+Thu Jun 5
+  Sápmi                v Tamil Eelam           4-2   @ Östersund, Sweden
+  Darfur               v Artsakh               0-12   @ Östersund, Sweden
+  Padania              v Abkhazia              3-3   @ Östersund, Sweden   [Padania wins on penalties]
+  Occitania            v Iraqi Kurdistan       2-2   @ Östersund, Sweden   [Iraqi Kurdistan wins on penalties]
+Fri Jun 6
+  County of Nice       v South Ossetia         3-0   @ Östersund, Sweden
+  Arameans Suryoye     v Ellan Vannin          1-4   @ Östersund, Sweden
+Sat Jun 7
+  Sápmi                v Artsakh               1-5   @ Östersund, Sweden
+  Tamil Eelam          v Darfur                10-0   @ Östersund, Sweden
+  Abkhazia             v Occitania             0-1   @ Östersund, Sweden
+  Padania              v Iraqi Kurdistan       1-1   @ Östersund, Sweden   [Padania wins on penalties]
+Sun Jun 8
+  South Ossetia        v Arameans Suryoye      1-4   @ Östersund, Sweden
+  County of Nice       v Ellan Vannin          0-0   @ Östersund, Sweden   [County of Nice wins on penalties]
 

@@ -1,37 +1,37 @@
 = CCCF Championship 1955
 
-# Date       Sun Aug/14 - Sun Aug/28 1955 (14d)
+# Date       Sun Aug 14 - Sun Aug 28 1955 (14d)
 # Teams      7
 # Matches    18
 
-[Sun Aug 14]
-  Costa Rica - Aruba  3-2   @ Tegucigalpa, Honduras
-  Honduras - Cuba  3-0   @ Tegucigalpa, Honduras
-[Mon Aug 15]
-  Guatemala - El Salvador  2-3   @ Tegucigalpa, Honduras
-[Tue Aug 16]
-  Costa Rica - Cuba  6-0   @ Tegucigalpa, Honduras
-  Curaçao - Aruba  2-1   @ Tegucigalpa, Honduras
-[Wed Aug 17]
-  Honduras - El Salvador  3-1   @ Tegucigalpa, Honduras
-[Thu Aug 18]
-  Guatemala - Curaçao  4-1   @ Tegucigalpa, Honduras
-[Fri Aug 19]
-  Aruba - Cuba  4-1   @ Tegucigalpa, Honduras
-  Costa Rica - El Salvador  4-0   @ Tegucigalpa, Honduras
-[Sat Aug 20]
-  El Salvador - Cuba  2-1   @ Tegucigalpa, Honduras
-  Honduras - Curaçao  0-2   @ Tegucigalpa, Honduras
-[Sun Aug 21]
-  Guatemala - Costa Rica  0-2   @ Tegucigalpa, Honduras
-[Mon Aug 22]
-  Honduras - Aruba  1-1   @ Tegucigalpa, Honduras
-[Wed Aug 24]
-  Costa Rica - Curaçao  2-1   @ Tegucigalpa, Honduras
-  El Salvador - Aruba  2-0   @ Tegucigalpa, Honduras
-[Fri Aug 26]
-  Curaçao - El Salvador  3-0   @ Tegucigalpa, Honduras
-[Sun Aug 28]
-  Curaçao - Cuba  2-0   @ Tegucigalpa, Honduras
-  Honduras - Costa Rica  1-2   @ Tegucigalpa, Honduras
+Sun Aug 14
+  Costa Rica           v Aruba                 3-2   @ Tegucigalpa, Honduras
+  Honduras             v Cuba                  3-0   @ Tegucigalpa, Honduras
+Mon Aug 15
+  Guatemala            v El Salvador           2-3   @ Tegucigalpa, Honduras
+Tue Aug 16
+  Costa Rica           v Cuba                  6-0   @ Tegucigalpa, Honduras
+  Curaçao              v Aruba                 2-1   @ Tegucigalpa, Honduras
+Wed Aug 17
+  Honduras             v El Salvador           3-1   @ Tegucigalpa, Honduras
+Thu Aug 18
+  Guatemala            v Curaçao               4-1   @ Tegucigalpa, Honduras
+Fri Aug 19
+  Aruba                v Cuba                  4-1   @ Tegucigalpa, Honduras
+  Costa Rica           v El Salvador           4-0   @ Tegucigalpa, Honduras
+Sat Aug 20
+  El Salvador          v Cuba                  2-1   @ Tegucigalpa, Honduras
+  Honduras             v Curaçao               0-2   @ Tegucigalpa, Honduras
+Sun Aug 21
+  Guatemala            v Costa Rica            0-2   @ Tegucigalpa, Honduras
+Mon Aug 22
+  Honduras             v Aruba                 1-1   @ Tegucigalpa, Honduras
+Wed Aug 24
+  Costa Rica           v Curaçao               2-1   @ Tegucigalpa, Honduras
+  El Salvador          v Aruba                 2-0   @ Tegucigalpa, Honduras
+Fri Aug 26
+  Curaçao              v El Salvador           3-0   @ Tegucigalpa, Honduras
+Sun Aug 28
+  Curaçao              v Cuba                  2-0   @ Tegucigalpa, Honduras
+  Honduras             v Costa Rica            1-2   @ Tegucigalpa, Honduras
 

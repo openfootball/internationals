@@ -1,17 +1,17 @@
 = Baltic Cup 1931
 
-# Date       Sun Aug/30 - Tue Sep/1 1931 (2d)
+# Date       Sun Aug 30 - Tue Sep 1 1931 (2d)
 # Teams      3
 # Matches    3
 
-[Sun Aug 30]
-  Estonia - Lithuania  2-0   @ Tallinn, Estonia
-     Eduard Ellman-Eelma 13' Leonhard Kass 50'
-[Mon Aug 31]
-  Latvia - Lithuania  1-0   @ Tallinn, Estonia
-     Ēriks Pētersons 11'
-[Tue Sep 1]
-  Estonia - Latvia  3-1   @ Tallinn, Estonia
-     Eduard Ellman-Eelma 10' Friedrich Karm 51' Friedrich Karm 67';
-     Jānis Škincs 16'
+Sun Aug 30
+  Estonia              v Lithuania             2-0   @ Tallinn, Estonia
+     (Eduard Ellman-Eelma 13' Leonhard Kass 50')
+Mon Aug 31
+  Latvia               v Lithuania             1-0   @ Tallinn, Estonia
+     (Ēriks Pētersons 11')
+Tue Sep 1
+  Estonia              v Latvia                3-1   @ Tallinn, Estonia
+     (Eduard Ellman-Eelma 10' Friedrich Karm 51' Friedrich Karm 67';
+      Jānis Škincs 16')
 

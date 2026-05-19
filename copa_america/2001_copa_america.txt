@@ -1,79 +1,79 @@
 = Copa América 2001
 
-# Date       Wed Jul/11 - Sun Jul/29 2001 (18d)
+# Date       Wed Jul 11 - Sun Jul 29 2001 (18d)
 # Teams      12
 # Matches    26
 
-[Wed Jul 11]
-  Colombia - Venezuela  2-0   @ Barranquilla, Colombia
-     Freddy Grisales 15' Víctor Aristizábal 59' (pen.)
-  Ecuador - Chile  1-4   @ Barranquilla, Colombia
-     Cléber Chalá 52';
-     Reinaldo Navia 29' Cristian Montecinos 72' Marcelo Corrales 84' Cristian Montecinos 90'
-[Thu Jul 12]
-  Brazil - Mexico  0-1   @ Cali, Colombia
-     -; Jared Borgetti 5'
-  Peru - Paraguay  3-3   @ Cali, Colombia
-     Abel Lobatón 16' Juan Pajuelo 57' José del Solar 72';
-     Virgilio Ferreira 23' Virgilio Ferreira 64' Silvio Garay 90'
-[Fri Jul 13]
-  Bolivia - Uruguay  0-1   @ Medellín, Colombia
-     -; Javier Chevantón 60'
-  Honduras - Costa Rica  0-1   @ Medellín, Colombia
-     -; Paulo Wanchope 63'
-[Sat Jul 14]
-  Chile - Venezuela  1-0   @ Barranquilla, Colombia
-     Cristian Montecinos 78'
-  Colombia - Ecuador  1-0   @ Barranquilla, Colombia
-     Víctor Aristizábal 29'
-[Sun Jul 15]
-  Brazil - Peru  2-0   @ Cali, Colombia
-     Guilherme de Cássio Alves 9' Denílson de Oliveira Araújo 85'
-  Paraguay - Mexico  0-0   @ Cali, Colombia
-[Mon Jul 16]
-  Honduras - Bolivia  2-0   @ Medellín, Colombia
-     Amado Guevara 53' Amado Guevara 68'
-  Uruguay - Costa Rica  1-1   @ Medellín, Colombia
-     Carlos María Morales 53';
-     Paulo Wanchope 28'
-[Tue Jul 17]
-  Colombia - Chile  2-0   @ Barranquilla, Colombia
-     Víctor Aristizábal 10' (pen.) Eudalio Arriaga 90'
-  Ecuador - Venezuela  4-0   @ Barranquilla, Colombia
-     Agustín Delgado 19' Ángel Fernández 29' Édison Méndez 60' Agustín Delgado 63'
-[Wed Jul 18]
-  Brazil - Paraguay  3-1   @ Cali, Colombia
-     Alexsandro de Souza 60' Juliano Belletti 89' Denílson de Oliveira Araújo 90';
-     Guido Alvarenga 11' (pen.)
-  Peru - Mexico  1-0   @ Cali, Colombia
-     Roberto Holsen 48'
-[Thu Jul 19]
-  Bolivia - Costa Rica  0-4   @ Medellín, Colombia
-     -; Paulo Wanchope 45' Steven Bryce 63' Paulo Wanchope 71' Rolando Fonseca 84'
-  Honduras - Uruguay  1-0   @ Medellín, Colombia
-     Amado Guevara 86'
-[Sun Jul 22]
-  Chile - Mexico  0-2   @ Pereira, Colombia
-     -; Jesús Arellano 17' Daniel Osorno 78'
-  Uruguay - Costa Rica  2-1   @ Armenia, Colombia
-     Rodrigo Lemos 61' (pen.) Pablo Lima 87';
-     Paulo Wanchope 52'
-[Mon Jul 23]
-  Brazil - Honduras  0-2   @ Manizales, Colombia
-     -; Juliano Belletti 57' (o.g.) Saúl Martínez 90'
-  Colombia - Peru  3-0   @ Armenia, Colombia
-     Víctor Aristizábal 50' Giovanni Hernández 66' Víctor Aristizábal 69'
-[Wed Jul 25]
-  Mexico - Uruguay  2-1   @ Pereira, Colombia
-     Jared Borgetti 14' Alberto García Aspe 67' (pen.);
-     Richard Morales 32'
-[Thu Jul 26]
-  Colombia - Honduras  2-0   @ Manizales, Colombia
-     Gerardo Bedoya 6' Víctor Aristizábal 63'
-[Sun Jul 29]
-  Uruguay - Honduras  2-2   @ Bogotá, Colombia   [Honduras wins on penalties]
-     Joe Emerson Bizera 22' Andrés Martínez 45';
-     Saúl Martínez 14' Júnior Izaguirre 42'
-  Colombia - Mexico  1-0   @ Bogotá, Colombia
-     Iván Córdoba 65'
+Wed Jul 11
+  Colombia             v Venezuela             2-0   @ Barranquilla, Colombia
+     (Freddy Grisales 15' Víctor Aristizábal 59'(p))
+  Ecuador              v Chile                 1-4   @ Barranquilla, Colombia
+     (Cléber Chalá 52';
+      Reinaldo Navia 29' Cristian Montecinos 72' Marcelo Corrales 84' Cristian Montecinos 90')
+Thu Jul 12
+  Brazil               v Mexico                0-1   @ Cali, Colombia
+     (Jared Borgetti 5')
+  Peru                 v Paraguay              3-3   @ Cali, Colombia
+     (Abel Lobatón 16' Juan Pajuelo 57' José del Solar 72';
+      Virgilio Ferreira 23' Virgilio Ferreira 64' Silvio Garay 90')
+Fri Jul 13
+  Bolivia              v Uruguay               0-1   @ Medellín, Colombia
+     (Javier Chevantón 60')
+  Honduras             v Costa Rica            0-1   @ Medellín, Colombia
+     (Paulo Wanchope 63')
+Sat Jul 14
+  Chile                v Venezuela             1-0   @ Barranquilla, Colombia
+     (Cristian Montecinos 78')
+  Colombia             v Ecuador               1-0   @ Barranquilla, Colombia
+     (Víctor Aristizábal 29')
+Sun Jul 15
+  Brazil               v Peru                  2-0   @ Cali, Colombia
+     (Guilherme de Cássio Alves 9' Denílson de Oliveira Araújo 85')
+  Paraguay             v Mexico                0-0   @ Cali, Colombia
+Mon Jul 16
+  Honduras             v Bolivia               2-0   @ Medellín, Colombia
+     (Amado Guevara 53' Amado Guevara 68')
+  Uruguay              v Costa Rica            1-1   @ Medellín, Colombia
+     (Carlos María Morales 53';
+      Paulo Wanchope 28')
+Tue Jul 17
+  Colombia             v Chile                 2-0   @ Barranquilla, Colombia
+     (Víctor Aristizábal 10'(p) Eudalio Arriaga 90')
+  Ecuador              v Venezuela             4-0   @ Barranquilla, Colombia
+     (Agustín Delgado 19' Ángel Fernández 29' Édison Méndez 60' Agustín Delgado 63')
+Wed Jul 18
+  Brazil               v Paraguay              3-1   @ Cali, Colombia
+     (Alexsandro de Souza 60' Juliano Belletti 89' Denílson de Oliveira Araújo 90';
+      Guido Alvarenga 11'(p))
+  Peru                 v Mexico                1-0   @ Cali, Colombia
+     (Roberto Holsen 48')
+Thu Jul 19
+  Bolivia              v Costa Rica            0-4   @ Medellín, Colombia
+     (Paulo Wanchope 45' Steven Bryce 63' Paulo Wanchope 71' Rolando Fonseca 84')
+  Honduras             v Uruguay               1-0   @ Medellín, Colombia
+     (Amado Guevara 86')
+Sun Jul 22
+  Chile                v Mexico                0-2   @ Pereira, Colombia
+     (Jesús Arellano 17' Daniel Osorno 78')
+  Uruguay              v Costa Rica            2-1   @ Armenia, Colombia
+     (Rodrigo Lemos 61'(p) Pablo Lima 87';
+      Paulo Wanchope 52')
+Mon Jul 23
+  Brazil               v Honduras              0-2   @ Manizales, Colombia
+     (Juliano Belletti 57'(og) Saúl Martínez 90')
+  Colombia             v Peru                  3-0   @ Armenia, Colombia
+     (Víctor Aristizábal 50' Giovanni Hernández 66' Víctor Aristizábal 69')
+Wed Jul 25
+  Mexico               v Uruguay               2-1   @ Pereira, Colombia
+     (Jared Borgetti 14' Alberto García Aspe 67'(p);
+      Richard Morales 32')
+Thu Jul 26
+  Colombia             v Honduras              2-0   @ Manizales, Colombia
+     (Gerardo Bedoya 6' Víctor Aristizábal 63')
+Sun Jul 29
+  Uruguay              v Honduras              2-2   @ Bogotá, Colombia   [Honduras wins on penalties]
+     (Joe Emerson Bizera 22' Andrés Martínez 45';
+      Saúl Martínez 14' Júnior Izaguirre 42')
+  Colombia             v Mexico                1-0   @ Bogotá, Colombia
+     (Iván Córdoba 65')
 

@@ -1,126 +1,126 @@
 = Friendly 1923
 
-# Date       Mon Jan/1 - Sun Dec/16 1923 (349d)
+# Date       Mon Jan 1 - Sun Dec 16 1923 (349d)
 # Teams      38
 # Matches    67
 
-[Mon Jan 1]
-  Guatemala - Mexico  2-3   @ Guatemala City, Guatemala
-  Italy - Germany  3-1   @ Milan, Italy
-[Thu Jan 4]
-  Guatemala - Mexico  3-1   @ Guatemala City, Guatemala
-[Sun Jan 7]
-  Guatemala - Mexico  1-4   @ Guatemala City, Guatemala
-[Sun Jan 14]
-  Andalusia - Galicia  1-4   @ Seville, Spain
-[Sun Jan 21]
-  Switzerland - Austria  2-0   @ Geneva, Switzerland
-[Sun Jan 28]
-  Spain - France  3-0   @ San Sebastián, Spain
-[Sun Feb 4]
-  Belgium - Spain  1-0   @ Antwerp, Belgium
-[Sun Feb 11]
-  Luxembourg - Brittany  1-4   @ Esch-sur-Alzette, Luxembourg
-[Sun Feb 25]
-  Belgium - France  4-1   @ Forest, Belgium
-  Galicia - Asturias  1-3   @ Vigo, Spain
-[Sun Mar 4]
-  Italy - Hungary  0-0   @ Genoa, Italy
-[Sun Mar 11]
-  Switzerland - Hungary  1-6   @ Lausanne, Switzerland
-[Mon Mar 19]
-  England - Belgium  6-1   @ London, England
-[Mon Apr 2]
-  Netherlands - France  8-1   @ Amsterdam, Netherlands
-[Sun Apr 15]
-  Austria - Italy  0-0   @ Vienna, Austria
-[Sun Apr 22]
-  France - Switzerland  2-2   @ Vincennes, France
-[Sun Apr 29]
-  Netherlands - Belgium  1-1   @ Amsterdam, Netherlands
-[Sun May 6]
-  Austria - Hungary  1-0   @ Vienna, Austria
-  Czechoslovakia - Denmark  2-0   @ Prague, Czechoslovakia
-[Thu May 10]
-  France - England  1-4   @ Vincennes, France
-  Germany - Netherlands  0-0   @ Hamburg, Germany
-[Mon May 21]
-  Sweden - England  2-4   @ Stockholm, Sweden
-[Thu May 24]
-  Sweden - England  1-3   @ Solna, Sweden
-[Sun May 27]
-  Czechoslovakia - Italy  5-1   @ Prague, Czechoslovakia
-[Sun Jun 3]
-  Poland - Yugoslavia  1-2   @ Kraków, Poland
-  Switzerland - Germany  1-2   @ Basel, Switzerland
-[Sun Jun 10]
-  Romania - Yugoslavia  1-2   @ Bucharest, Romania
-  Sweden - Austria  4-2   @ Gothenburg, Sweden
-[Sun Jun 17]
-  Denmark - Switzerland  3-2   @ Copenhagen, Denmark
-  Norway - Finland  3-0   @ Kristiania, Norway
-[Wed Jun 20]
-  Sweden - Finland  5-4   @ Gävle, Sweden
-[Thu Jun 21]
-  Norway - Switzerland  2-2   @ Kristiania, Norway
-[Sun Jun 24]
-  Lithuania - Estonia  0-5   @ Kaunas, Lithuania
-[Fri Jun 29]
-  Sweden - Germany  2-1   @ Stockholm, Sweden
-[Sun Jul 1]
-  Romania - Czechoslovakia  0-6   @ Cluj, Romania
-[Sun Jul 15]
-  Argentina - Uruguay  2-2   @ Buenos Aires, Argentina
-[Tue Jul 24]
-  Estonia - Latvia  1-1   @ Tallinn, Estonia
-[Sun Aug 12]
-  Germany - Finland  1-2   @ Dresden, Germany
-[Wed Aug 15]
-  Austria - Finland  2-1   @ Vienna, Austria
-[Sun Aug 19]
-  Hungary - Finland  3-1   @ Budapest, Hungary
-[Mon Aug 27]
-  Suriname - Guyana  2-1   @ Paramaribo, Dutch Guyana
-[Sun Sep 2]
-  Poland - Romania  1-1   @ Lwów, Poland
-[Sun Sep 16]
-  Norway - Sweden  2-3   @ Kristiania, Norway
-[Tue Sep 18]
-  Estonia - Russia  2-4   @ Tallinn, Estonia
-[Sun Sep 23]
-  Finland - Poland  5-3   @ Helsinki, Finland
-  Hungary - Austria  2-0   @ Budapest, Hungary
-[Tue Sep 25]
-  Estonia - Poland  1-4   @ Tallinn, Estonia
-[Sun Sep 30]
-  Denmark - Norway  2-1   @ Copenhagen, Denmark
-  Estonia - Finland  2-1   @ Tallinn, Estonia
-[Sun Oct 14]
-  Sweden - Denmark  1-3   @ Stockholm, Sweden
-[Fri Oct 26]
-  Turkey - Romania  2-2   @ Istanbul, Turkey
-[Sun Oct 28]
-  Czechoslovakia - Yugoslavia  4-4   @ Prague, Czechoslovakia
-  France - Norway  0-2   @ Paris, France
-  Hungary - Sweden  2-1   @ Budapest, Hungary
-[Thu Nov 1]
-  Belgium - England  2-2   @ Antwerp, Belgium
-  Poland - Sweden  2-2   @ Kraków, Poland
-  Brittany - Norway  1-5   @ Rennes, France
-[Sun Nov 4]
-  Germany - Norway  1-0   @ Hamburg, Germany
-[Thu Nov 22]
-  Brazil - Paraguay  2-0   @ Montevideo, Uruguay
-[Sun Nov 25]
-  Netherlands - Switzerland  4-1   @ Amsterdam, Netherlands
-  Central Spain - Galicia  1-0   @ Madrid, Spain
-[Sun Dec 2]
-  Argentina - Brazil  0-2   @ Buenos Aires, Argentina
-[Sun Dec 9]
-  Mexico - Guatemala  2-1   @ Mexico City, Mexico
-[Wed Dec 12]
-  Mexico - Guatemala  2-0   @ Mexico City, Mexico
-[Sun Dec 16]
-  Mexico - Guatemala  3-3   @ Mexico City, Mexico
-  Spain - Portugal  3-0   @ Seville, Spain
+Mon Jan 1
+  Guatemala            v Mexico                2-3   @ Guatemala City, Guatemala
+  Italy                v Germany               3-1   @ Milan, Italy
+Thu Jan 4
+  Guatemala            v Mexico                3-1   @ Guatemala City, Guatemala
+Sun Jan 7
+  Guatemala            v Mexico                1-4   @ Guatemala City, Guatemala
+Sun Jan 14
+  Andalusia            v Galicia               1-4   @ Seville, Spain
+Sun Jan 21
+  Switzerland          v Austria               2-0   @ Geneva, Switzerland
+Sun Jan 28
+  Spain                v France                3-0   @ San Sebastián, Spain
+Sun Feb 4
+  Belgium              v Spain                 1-0   @ Antwerp, Belgium
+Sun Feb 11
+  Luxembourg           v Brittany              1-4   @ Esch-sur-Alzette, Luxembourg
+Sun Feb 25
+  Belgium              v France                4-1   @ Forest, Belgium
+  Galicia              v Asturias              1-3   @ Vigo, Spain
+Sun Mar 4
+  Italy                v Hungary               0-0   @ Genoa, Italy
+Sun Mar 11
+  Switzerland          v Hungary               1-6   @ Lausanne, Switzerland
+Mon Mar 19
+  England              v Belgium               6-1   @ London, England
+Mon Apr 2
+  Netherlands          v France                8-1   @ Amsterdam, Netherlands
+Sun Apr 15
+  Austria              v Italy                 0-0   @ Vienna, Austria
+Sun Apr 22
+  France               v Switzerland           2-2   @ Vincennes, France
+Sun Apr 29
+  Netherlands          v Belgium               1-1   @ Amsterdam, Netherlands
+Sun May 6
+  Austria              v Hungary               1-0   @ Vienna, Austria
+  Czechoslovakia       v Denmark               2-0   @ Prague, Czechoslovakia
+Thu May 10
+  France               v England               1-4   @ Vincennes, France
+  Germany              v Netherlands           0-0   @ Hamburg, Germany
+Mon May 21
+  Sweden               v England               2-4   @ Stockholm, Sweden
+Thu May 24
+  Sweden               v England               1-3   @ Solna, Sweden
+Sun May 27
+  Czechoslovakia       v Italy                 5-1   @ Prague, Czechoslovakia
+Sun Jun 3
+  Poland               v Yugoslavia            1-2   @ Kraków, Poland
+  Switzerland          v Germany               1-2   @ Basel, Switzerland
+Sun Jun 10
+  Romania              v Yugoslavia            1-2   @ Bucharest, Romania
+  Sweden               v Austria               4-2   @ Gothenburg, Sweden
+Sun Jun 17
+  Denmark              v Switzerland           3-2   @ Copenhagen, Denmark
+  Norway               v Finland               3-0   @ Kristiania, Norway
+Wed Jun 20
+  Sweden               v Finland               5-4   @ Gävle, Sweden
+Thu Jun 21
+  Norway               v Switzerland           2-2   @ Kristiania, Norway
+Sun Jun 24
+  Lithuania            v Estonia               0-5   @ Kaunas, Lithuania
+Fri Jun 29
+  Sweden               v Germany               2-1   @ Stockholm, Sweden
+Sun Jul 1
+  Romania              v Czechoslovakia        0-6   @ Cluj, Romania
+Sun Jul 15
+  Argentina            v Uruguay               2-2   @ Buenos Aires, Argentina
+Tue Jul 24
+  Estonia              v Latvia                1-1   @ Tallinn, Estonia
+Sun Aug 12
+  Germany              v Finland               1-2   @ Dresden, Germany
+Wed Aug 15
+  Austria              v Finland               2-1   @ Vienna, Austria
+Sun Aug 19
+  Hungary              v Finland               3-1   @ Budapest, Hungary
+Mon Aug 27
+  Suriname             v Guyana                2-1   @ Paramaribo, Dutch Guyana
+Sun Sep 2
+  Poland               v Romania               1-1   @ Lwów, Poland
+Sun Sep 16
+  Norway               v Sweden                2-3   @ Kristiania, Norway
+Tue Sep 18
+  Estonia              v Russia                2-4   @ Tallinn, Estonia
+Sun Sep 23
+  Finland              v Poland                5-3   @ Helsinki, Finland
+  Hungary              v Austria               2-0   @ Budapest, Hungary
+Tue Sep 25
+  Estonia              v Poland                1-4   @ Tallinn, Estonia
+Sun Sep 30
+  Denmark              v Norway                2-1   @ Copenhagen, Denmark
+  Estonia              v Finland               2-1   @ Tallinn, Estonia
+Sun Oct 14
+  Sweden               v Denmark               1-3   @ Stockholm, Sweden
+Fri Oct 26
+  Turkey               v Romania               2-2   @ Istanbul, Turkey
+Sun Oct 28
+  Czechoslovakia       v Yugoslavia            4-4   @ Prague, Czechoslovakia
+  France               v Norway                0-2   @ Paris, France
+  Hungary              v Sweden                2-1   @ Budapest, Hungary
+Thu Nov 1
+  Belgium              v England               2-2   @ Antwerp, Belgium
+  Poland               v Sweden                2-2   @ Kraków, Poland
+  Brittany             v Norway                1-5   @ Rennes, France
+Sun Nov 4
+  Germany              v Norway                1-0   @ Hamburg, Germany
+Thu Nov 22
+  Brazil               v Paraguay              2-0   @ Montevideo, Uruguay
+Sun Nov 25
+  Netherlands          v Switzerland           4-1   @ Amsterdam, Netherlands
+  Central Spain        v Galicia               1-0   @ Madrid, Spain
+Sun Dec 2
+  Argentina            v Brazil                0-2   @ Buenos Aires, Argentina
+Sun Dec 9
+  Mexico               v Guatemala             2-1   @ Mexico City, Mexico
+Wed Dec 12
+  Mexico               v Guatemala             2-0   @ Mexico City, Mexico
+Sun Dec 16
+  Mexico               v Guatemala             3-3   @ Mexico City, Mexico
+  Spain                v Portugal              3-0   @ Seville, Spain
 

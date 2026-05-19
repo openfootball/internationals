@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1950
 
-# Date       Sun May/7 - Sat May/13 1950 (6d)
+# Date       Sun May 7 - Sat May 13 1950 (6d)
 # Teams      2
 # Matches    2
 
-[Sun May 7]
-  Brazil - Paraguay  2-0   @ Rio de Janeiro, Brazil
-[Sat May 13]
-  Brazil - Paraguay  3-3   @ São Paulo, Brazil
+Sun May 7
+  Brazil               v Paraguay              2-0   @ Rio de Janeiro, Brazil
+Sat May 13
+  Brazil               v Paraguay              3-3   @ São Paulo, Brazil
 

@@ -1,17 +1,17 @@
 = CCCF Championship 1960
 
-# Date       Sun Feb/14 - Mon Feb/29 1960 (15d)
+# Date       Sun Feb 14 - Mon Feb 29 1960 (15d)
 # Teams      5
 # Matches    5
 
-[Sun Feb 14]
-  Costa Rica - Curaçao  1-1   @ Havana, Cuba
-[Fri Feb 19]
-  Honduras - Curaçao  3-3   @ Havana, Cuba
-[Tue Feb 23]
-  Cuba - Curaçao  3-4   @ Havana, Cuba
-[Sat Feb 27]
-  Curaçao - Suriname  1-0   @ Havana, Cuba
-[Mon Feb 29]
-  Costa Rica - Curaçao  4-0   @ Havana, Cuba
+Sun Feb 14
+  Costa Rica           v Curaçao               1-1   @ Havana, Cuba
+Fri Feb 19
+  Honduras             v Curaçao               3-3   @ Havana, Cuba
+Tue Feb 23
+  Cuba                 v Curaçao               3-4   @ Havana, Cuba
+Sat Feb 27
+  Curaçao              v Suriname              1-0   @ Havana, Cuba
+Mon Feb 29
+  Costa Rica           v Curaçao               4-0   @ Havana, Cuba
 

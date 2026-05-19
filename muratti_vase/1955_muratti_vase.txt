@@ -1,13 +1,13 @@
 = Muratti Vase 1955
 
-# Date       Thu Mar/31 - Mon May/30 1955 (60d)
+# Date       Thu Mar 31 - Mon May 30 1955 (60d)
 # Teams      3
 # Matches    3
 
-[Thu Mar 31]
-  Jersey - Alderney  3-0   @ Jersey, Jersey
-[Thu May 5]
-  Guernsey - Jersey  0-0   @ Guernsey, Guernsey
-[Mon May 30]
-  Jersey - Guernsey  1-0   @ Jersey, Jersey
+Thu Mar 31
+  Jersey               v Alderney              3-0   @ Jersey, Jersey
+Thu May 5
+  Guernsey             v Jersey                0-0   @ Guernsey, Guernsey
+Mon May 30
+  Jersey               v Guernsey              1-0   @ Jersey, Jersey
 

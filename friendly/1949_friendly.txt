@@ -1,152 +1,152 @@
 = Friendly 1949
 
-# Date       Sun Jan/2 - Tue Dec/20 1949 (352d)
+# Date       Sun Jan 2 - Tue Dec 20 1949 (352d)
 # Teams      59
 # Matches    83
 
-[Sun Jan 2]
-  China PR - South Korea  3-2   @ So Kon Po, Hong Kong
-  Spain - Belgium  1-1   @ Barcelona, Spain
-[Sun Jan 16]
-  Vietnam - South Korea  3-3   @ Saigon, Vietnam
-[Tue Jan 25]
-  Macau - South Korea  1-5   @ Macau, Macau
-[Sun Feb 27]
-  Italy - Portugal  4-1   @ Genoa, Italy
-[Sun Mar 13]
-  Netherlands - Belgium  3-3   @ Amsterdam, Netherlands
-[Sun Mar 20]
-  Austria - Turkey  1-0   @ Vienna, Austria
-  Portugal - Spain  1-1   @ Oeiras, Portugal
-[Wed Mar 23]
-  Czechoslovakia - Luxembourg  2-2   @ Bratislava, Czechoslovakia
-[Sun Mar 27]
-  Spain - Italy  1-3   @ Madrid, Spain
-[Wed Apr 20]
-  Haiti - Trinidad and Tobago  2-2   @ Port-au-Prince, Haiti
-[Sat Apr 23]
-  Haiti - Trinidad and Tobago  2-3   @ Port-au-Prince, Haiti
-  Netherlands - France  4-1   @ Rotterdam, Netherlands
-[Sun Apr 24]
-  Republic of Ireland - Belgium  0-2   @ Dublin, Éire
-[Mon Apr 25]
-  Haiti - Trinidad and Tobago  5-0   @ Port-au-Prince, Haiti
-[Wed Apr 27]
-  Scotland - France  2-0   @ Glasgow, Scotland
-[Sun May 1]
-  Ethiopia - Djibouti  6-0   @ Addis Ababa, Ethiopia
-[Mon May 2]
-  Jamaica - Trinidad and Tobago  3-1   @ Kingston, Jamaica
-[Wed May 4]
-  Jamaica - Trinidad and Tobago  2-1   @ Kingston, Jamaica
-[Sat May 7]
-  Jamaica - Trinidad and Tobago  1-2   @ Kingston, Jamaica
-[Sun May 8]
-  Romania - Poland  2-1   @ Bucharest, Romania
-[Mon May 9]
-  Cuba - Martinique  0-0   @ Paramaribo, Dutch Guyana
-  Puerto Rico - Trinidad and Tobago  2-8   @ San Juan, Puerto Rico
-[Wed May 11]
-  Puerto Rico - Trinidad and Tobago  0-7   @ San Juan, Puerto Rico
-[Thu May 12]
-  Egypt - Turkey  2-3   @ Athens, Greece
-  Suriname - Cuba  0-1   @ Paramaribo, Dutch Guyana
-[Fri May 13]
-  Sweden - England  3-1   @ Solna, Sweden
-[Sat May 14]
-  Cuba - Dominican Republic  0-1   @ Paramaribo, Dutch Guyana
-[Sun May 15]
-  Greece - Turkey  1-2   @ Athens, Greece
-  Portugal - Wales  3-2   @ Oeiras, Portugal
-[Wed May 18]
-  Greece - Egypt  1-3   @ Athens, Greece
-  Norway - England  1-4   @ Oslo, Norway
-[Sun May 22]
-  Belgium - Wales  3-1   @ Liège, Belgium
-  Czechoslovakia - Romania  3-2   @ Prague, Czechoslovakia
-  France - England  1-3   @ Colombes, France
-  Republic of Ireland - Portugal  1-0   @ Dublin, Éire
-[Thu May 26]
-  Switzerland - Wales  4-0   @ Bern, Switzerland
-[Sat Jun 4]
-  France - Switzerland  4-2   @ Colombes, France
-[Sun Jun 12]
-  Denmark - Netherlands  1-2   @ Copenhagen, Denmark
-  Republic of Ireland - Spain  1-4   @ Dublin, Éire
-[Thu Jun 16]
-  Finland - Netherlands  1-4   @ Helsinki, Finland
-  Madagascar - Mauritius  1-3   @ Saint-Pierre, Réunion
-[Sun Jun 19]
-  France - Spain  1-5   @ Colombes, France
-  Norway - Yugoslavia  1-3   @ Oslo, Norway
-  Poland - Denmark  1-2   @ Warsaw, Poland
-  Sweden - Hungary  2-2   @ Solna, Sweden
-  United States - Scotland  0-4   @ New York, United States
-[Fri Jul 1]
-  Martinique - Trinidad and Tobago  2-0   @ Fort-de-France, Martinique
-[Sun Jul 10]
-  Hungary - Poland  8-2   @ Debrecen, Hungary
-[Sat Jul 30]
-  Curaçao - Aruba  3-0   @ Willemstad, Curaçao
-  Israel - Cyprus  3-1   @ Tel Aviv, Israel
-[Wed Aug 3]
-  El Salvador - Panama  3-1   @ San Salvador, El Salvador
-[Thu Aug 4]
-  El Salvador - Panama  2-3   @ San Salvador, El Salvador
-[Sun Aug 7]
-  Denmark - Iceland  5-1   @ Aarhus, Denmark
-[Sun Aug 14]
-  Suriname - French Guiana  5-0   @ Paramaribo, Dutch Guyana
-[Fri Aug 19]
-  Suriname - French Guiana  2-1   @ Paramaribo, Dutch Guyana
-[Sun Sep 4]
-  Czechoslovakia - Bulgaria  1-3   @ Prague, Czechoslovakia
-[Wed Sep 21]
-  England - Republic of Ireland  0-2   @ Liverpool, England
-[Sun Oct 2]
-  Belgium - Switzerland  3-0   @ Brussels, Belgium
-  Poland - Bulgaria  3-2   @ Warsaw, Poland
-[Fri Oct 7]
-  Réunion - Mauritius  0-6   @ Saint-Pierre, Réunion
-[Sat Oct 8]
-  Sierra Leone - Nigeria  0-2   @ Freetown, Sierra Leone
-[Mon Oct 10]
-  Réunion - Madagascar  1-3   @ Saint-Pierre, Réunion
-[Sun Oct 16]
-  Austria - Hungary  3-4   @ Vienna, Austria
-[Sun Oct 23]
-  Romania - Albania  1-1   @ Bucharest, Romania
-[Sun Oct 30]
-  Czechoslovakia - Poland  2-0   @ Ostrava, Czechoslovakia
-  Hungary - Bulgaria  5-0   @ Budapest, Hungary
-[Sun Nov 6]
-  Netherlands - Belgium  0-1   @ Rotterdam, Netherlands
-  Poland - Albania  2-1   @ Warsaw, Poland
-[Sun Nov 13]
-  France - Czechoslovakia  1-0   @ Colombes, France
-  Yugoslavia - Austria  2-5   @ Belgrade, Yugoslavia
-[Thu Nov 17]
-  Bulgaria - Albania  0-0   @ Sofia, Bulgaria
-[Sun Nov 20]
-  Hungary - Sweden  5-0   @ Budapest, Hungary
-[Wed Nov 23]
-  Wales - Belgium  5-1   @ Cardiff, Wales
-[Fri Nov 25]
-  Greece - Syria  8-0   @ Athens, Greece
-[Tue Nov 29]
-  Albania - Romania  1-4   @ Tirana, Albania
-[Wed Nov 30]
-  England - Italy  2-0   @ London, England
-[Tue Dec 6]
-  Zanzibar - Kenya  2-3   @ Zanzibar City, Zanzibar
-[Thu Dec 8]
-  Kenya - Tanzania  0-2   @ Zanzibar City, Zanzibar
-[Sun Dec 11]
-  Netherlands - Denmark  0-1   @ Amsterdam, Netherlands
-[Sun Dec 18]
-  Cuba - Jamaica  2-5   @ Port-au-Prince, Haiti
-[Mon Dec 19]
-  Haiti - Jamaica  2-0   @ Port-au-Prince, Haiti
-[Tue Dec 20]
-  Haiti - Cuba  3-0   @ Port-au-Prince, Haiti
+Sun Jan 2
+  China PR             v South Korea           3-2   @ So Kon Po, Hong Kong
+  Spain                v Belgium               1-1   @ Barcelona, Spain
+Sun Jan 16
+  Vietnam              v South Korea           3-3   @ Saigon, Vietnam
+Tue Jan 25
+  Macau                v South Korea           1-5   @ Macau, Macau
+Sun Feb 27
+  Italy                v Portugal              4-1   @ Genoa, Italy
+Sun Mar 13
+  Netherlands          v Belgium               3-3   @ Amsterdam, Netherlands
+Sun Mar 20
+  Austria              v Turkey                1-0   @ Vienna, Austria
+  Portugal             v Spain                 1-1   @ Oeiras, Portugal
+Wed Mar 23
+  Czechoslovakia       v Luxembourg            2-2   @ Bratislava, Czechoslovakia
+Sun Mar 27
+  Spain                v Italy                 1-3   @ Madrid, Spain
+Wed Apr 20
+  Haiti                v Trinidad and Tobago   2-2   @ Port-au-Prince, Haiti
+Sat Apr 23
+  Haiti                v Trinidad and Tobago   2-3   @ Port-au-Prince, Haiti
+  Netherlands          v France                4-1   @ Rotterdam, Netherlands
+Sun Apr 24
+  Republic of Ireland  v Belgium               0-2   @ Dublin, Éire
+Mon Apr 25
+  Haiti                v Trinidad and Tobago   5-0   @ Port-au-Prince, Haiti
+Wed Apr 27
+  Scotland             v France                2-0   @ Glasgow, Scotland
+Sun May 1
+  Ethiopia             v Djibouti              6-0   @ Addis Ababa, Ethiopia
+Mon May 2
+  Jamaica              v Trinidad and Tobago   3-1   @ Kingston, Jamaica
+Wed May 4
+  Jamaica              v Trinidad and Tobago   2-1   @ Kingston, Jamaica
+Sat May 7
+  Jamaica              v Trinidad and Tobago   1-2   @ Kingston, Jamaica
+Sun May 8
+  Romania              v Poland                2-1   @ Bucharest, Romania
+Mon May 9
+  Cuba                 v Martinique            0-0   @ Paramaribo, Dutch Guyana
+  Puerto Rico          v Trinidad and Tobago   2-8   @ San Juan, Puerto Rico
+Wed May 11
+  Puerto Rico          v Trinidad and Tobago   0-7   @ San Juan, Puerto Rico
+Thu May 12
+  Egypt                v Turkey                2-3   @ Athens, Greece
+  Suriname             v Cuba                  0-1   @ Paramaribo, Dutch Guyana
+Fri May 13
+  Sweden               v England               3-1   @ Solna, Sweden
+Sat May 14
+  Cuba                 v Dominican Republic    0-1   @ Paramaribo, Dutch Guyana
+Sun May 15
+  Greece               v Turkey                1-2   @ Athens, Greece
+  Portugal             v Wales                 3-2   @ Oeiras, Portugal
+Wed May 18
+  Greece               v Egypt                 1-3   @ Athens, Greece
+  Norway               v England               1-4   @ Oslo, Norway
+Sun May 22
+  Belgium              v Wales                 3-1   @ Liège, Belgium
+  Czechoslovakia       v Romania               3-2   @ Prague, Czechoslovakia
+  France               v England               1-3   @ Colombes, France
+  Republic of Ireland  v Portugal              1-0   @ Dublin, Éire
+Thu May 26
+  Switzerland          v Wales                 4-0   @ Bern, Switzerland
+Sat Jun 4
+  France               v Switzerland           4-2   @ Colombes, France
+Sun Jun 12
+  Denmark              v Netherlands           1-2   @ Copenhagen, Denmark
+  Republic of Ireland  v Spain                 1-4   @ Dublin, Éire
+Thu Jun 16
+  Finland              v Netherlands           1-4   @ Helsinki, Finland
+  Madagascar           v Mauritius             1-3   @ Saint-Pierre, Réunion
+Sun Jun 19
+  France               v Spain                 1-5   @ Colombes, France
+  Norway               v Yugoslavia            1-3   @ Oslo, Norway
+  Poland               v Denmark               1-2   @ Warsaw, Poland
+  Sweden               v Hungary               2-2   @ Solna, Sweden
+  United States        v Scotland              0-4   @ New York, United States
+Fri Jul 1
+  Martinique           v Trinidad and Tobago   2-0   @ Fort-de-France, Martinique
+Sun Jul 10
+  Hungary              v Poland                8-2   @ Debrecen, Hungary
+Sat Jul 30
+  Curaçao              v Aruba                 3-0   @ Willemstad, Curaçao
+  Israel               v Cyprus                3-1   @ Tel Aviv, Israel
+Wed Aug 3
+  El Salvador          v Panama                3-1   @ San Salvador, El Salvador
+Thu Aug 4
+  El Salvador          v Panama                2-3   @ San Salvador, El Salvador
+Sun Aug 7
+  Denmark              v Iceland               5-1   @ Aarhus, Denmark
+Sun Aug 14
+  Suriname             v French Guiana         5-0   @ Paramaribo, Dutch Guyana
+Fri Aug 19
+  Suriname             v French Guiana         2-1   @ Paramaribo, Dutch Guyana
+Sun Sep 4
+  Czechoslovakia       v Bulgaria              1-3   @ Prague, Czechoslovakia
+Wed Sep 21
+  England              v Republic of Ireland   0-2   @ Liverpool, England
+Sun Oct 2
+  Belgium              v Switzerland           3-0   @ Brussels, Belgium
+  Poland               v Bulgaria              3-2   @ Warsaw, Poland
+Fri Oct 7
+  Réunion              v Mauritius             0-6   @ Saint-Pierre, Réunion
+Sat Oct 8
+  Sierra Leone         v Nigeria               0-2   @ Freetown, Sierra Leone
+Mon Oct 10
+  Réunion              v Madagascar            1-3   @ Saint-Pierre, Réunion
+Sun Oct 16
+  Austria              v Hungary               3-4   @ Vienna, Austria
+Sun Oct 23
+  Romania              v Albania               1-1   @ Bucharest, Romania
+Sun Oct 30
+  Czechoslovakia       v Poland                2-0   @ Ostrava, Czechoslovakia
+  Hungary              v Bulgaria              5-0   @ Budapest, Hungary
+Sun Nov 6
+  Netherlands          v Belgium               0-1   @ Rotterdam, Netherlands
+  Poland               v Albania               2-1   @ Warsaw, Poland
+Sun Nov 13
+  France               v Czechoslovakia        1-0   @ Colombes, France
+  Yugoslavia           v Austria               2-5   @ Belgrade, Yugoslavia
+Thu Nov 17
+  Bulgaria             v Albania               0-0   @ Sofia, Bulgaria
+Sun Nov 20
+  Hungary              v Sweden                5-0   @ Budapest, Hungary
+Wed Nov 23
+  Wales                v Belgium               5-1   @ Cardiff, Wales
+Fri Nov 25
+  Greece               v Syria                 8-0   @ Athens, Greece
+Tue Nov 29
+  Albania              v Romania               1-4   @ Tirana, Albania
+Wed Nov 30
+  England              v Italy                 2-0   @ London, England
+Tue Dec 6
+  Zanzibar             v Kenya                 2-3   @ Zanzibar City, Zanzibar
+Thu Dec 8
+  Kenya                v Tanzania              0-2   @ Zanzibar City, Zanzibar
+Sun Dec 11
+  Netherlands          v Denmark               0-1   @ Amsterdam, Netherlands
+Sun Dec 18
+  Cuba                 v Jamaica               2-5   @ Port-au-Prince, Haiti
+Mon Dec 19
+  Haiti                v Jamaica               2-0   @ Port-au-Prince, Haiti
+Tue Dec 20
+  Haiti                v Cuba                  3-0   @ Port-au-Prince, Haiti
 

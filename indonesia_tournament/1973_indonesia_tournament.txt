@@ -1,13 +1,13 @@
 = Indonesia Tournament 1973
 
-# Date       Tue Jun/12 - Mon Jun/18 1973 (6d)
+# Date       Tue Jun 12 - Mon Jun 18 1973 (6d)
 # Teams      3
 # Matches    3
 
-[Tue Jun 12]
-  Myanmar - Malaysia  2-2   @ Jakarta, Indonesia
-[Thu Jun 14]
-  Indonesia - Malaysia  2-0   @ Jakarta, Indonesia
-[Mon Jun 18]
-  Indonesia - Myanmar  0-0   @ Jakarta, Indonesia
+Tue Jun 12
+  Myanmar              v Malaysia              2-2   @ Jakarta, Indonesia
+Thu Jun 14
+  Indonesia            v Malaysia              2-0   @ Jakarta, Indonesia
+Mon Jun 18
+  Indonesia            v Myanmar               0-0   @ Jakarta, Indonesia
 

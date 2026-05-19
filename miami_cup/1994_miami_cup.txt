@@ -1,13 +1,13 @@
 = Miami Cup 1994
 
-# Date       Tue May/3 - Thu May/5 1994 (2d)
+# Date       Tue May 3 - Thu May 5 1994 (2d)
 # Teams      4
 # Matches    4
 
-[Tue May 3]
-  Colombia - Peru  1-0   @ Miami, United States
-  El Salvador - Honduras  3-1   @ Miami, United States
-[Thu May 5]
-  Colombia - El Salvador  3-0   @ Miami, United States
-  Honduras - Peru  2-1   @ Miami, United States
+Tue May 3
+  Colombia             v Peru                  1-0   @ Miami, United States
+  El Salvador          v Honduras              3-1   @ Miami, United States
+Thu May 5
+  Colombia             v El Salvador           3-0   @ Miami, United States
+  Honduras             v Peru                  2-1   @ Miami, United States
 

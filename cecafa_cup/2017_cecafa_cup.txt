@@ -1,38 +1,38 @@
 = CECAFA Cup 2017
 
-# Date       Sun Dec/3 - Sun Dec/17 2017 (14d)
+# Date       Sun Dec 3 - Sun Dec 17 2017 (14d)
 # Teams      9
 # Matches    20
 
-[Sun Dec 3]
-  Kenya - Rwanda  2-0   @ Kakamega, Kenya
-  Libya - Tanzania  0-0   @ Machakos, Kenya
-[Mon Dec 4]
-  Uganda - Burundi  0-0   @ Kakamega, Kenya
-[Tue Dec 5]
-  Kenya - Libya  0-0   @ Machakos, Kenya
-  South Sudan - Ethiopia  0-3   @ Kakamega, Kenya
-  Zanzibar - Rwanda  3-1   @ Machakos, Kenya
-[Thu Dec 7]
-  Burundi - Ethiopia  4-1   @ Kakamega, Kenya
-  Rwanda - Libya  0-0   @ Machakos, Kenya
-  Tanzania - Zanzibar  1-2   @ Machakos, Kenya
-[Fri Dec 8]
-  Uganda - South Sudan  5-1   @ Kakamega, Kenya
-[Sat Dec 9]
-  Kenya - Zanzibar  0-0   @ Machakos, Kenya
-  Rwanda - Tanzania  2-1   @ Machakos, Kenya
-[Sun Dec 10]
-  Ethiopia - Uganda  1-1   @ Kakamega, Kenya
-[Mon Dec 11]
-  Kenya - Tanzania  1-0   @ Machakos, Kenya
-  Libya - Zanzibar  1-0   @ Machakos, Kenya
-  South Sudan - Burundi  0-0   @ Kakamega, Kenya
-[Thu Dec 14]
-  Kenya - Burundi  1-0   @ Kisumu, Kenya
-[Fri Dec 15]
-  Uganda - Zanzibar  1-2   @ Kisumu, Kenya
-[Sun Dec 17]
-  Burundi - Uganda  1-2   @ Machakos, Kenya
-  Kenya - Zanzibar  2-2   @ Machakos, Kenya
+Sun Dec 3
+  Kenya                v Rwanda                2-0   @ Kakamega, Kenya
+  Libya                v Tanzania              0-0   @ Machakos, Kenya
+Mon Dec 4
+  Uganda               v Burundi               0-0   @ Kakamega, Kenya
+Tue Dec 5
+  Kenya                v Libya                 0-0   @ Machakos, Kenya
+  South Sudan          v Ethiopia              0-3   @ Kakamega, Kenya
+  Zanzibar             v Rwanda                3-1   @ Machakos, Kenya
+Thu Dec 7
+  Burundi              v Ethiopia              4-1   @ Kakamega, Kenya
+  Rwanda               v Libya                 0-0   @ Machakos, Kenya
+  Tanzania             v Zanzibar              1-2   @ Machakos, Kenya
+Fri Dec 8
+  Uganda               v South Sudan           5-1   @ Kakamega, Kenya
+Sat Dec 9
+  Kenya                v Zanzibar              0-0   @ Machakos, Kenya
+  Rwanda               v Tanzania              2-1   @ Machakos, Kenya
+Sun Dec 10
+  Ethiopia             v Uganda                1-1   @ Kakamega, Kenya
+Mon Dec 11
+  Kenya                v Tanzania              1-0   @ Machakos, Kenya
+  Libya                v Zanzibar              1-0   @ Machakos, Kenya
+  South Sudan          v Burundi               0-0   @ Kakamega, Kenya
+Thu Dec 14
+  Kenya                v Burundi               1-0   @ Kisumu, Kenya
+Fri Dec 15
+  Uganda               v Zanzibar              1-2   @ Kisumu, Kenya
+Sun Dec 17
+  Burundi              v Uganda                1-2   @ Machakos, Kenya
+  Kenya                v Zanzibar              2-2   @ Machakos, Kenya
 

@@ -1,13 +1,13 @@
 = Baltic Cup 1949
 
-# Date       Sun Oct/23 - Tue Oct/25 1949 (2d)
+# Date       Sun Oct 23 - Tue Oct 25 1949 (2d)
 # Teams      3
 # Matches    3
 
-[Sun Oct 23]
-  Lithuania - Estonia  2-1   @ Vilnius, Soviet Union
-[Mon Oct 24]
-  Latvia - Estonia  2-1   @ Vilnius, Soviet Union
-[Tue Oct 25]
-  Lithuania - Latvia  1-0   @ Vilnius, Soviet Union
+Sun Oct 23
+  Lithuania            v Estonia               2-1   @ Vilnius, Soviet Union
+Mon Oct 24
+  Latvia               v Estonia               2-1   @ Vilnius, Soviet Union
+Tue Oct 25
+  Lithuania            v Latvia                1-0   @ Vilnius, Soviet Union
 

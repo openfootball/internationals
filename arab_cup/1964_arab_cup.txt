@@ -1,22 +1,22 @@
 = Arab Cup 1964
 
-# Date       Fri Nov/13 - Thu Nov/19 1964 (6d)
+# Date       Fri Nov 13 - Thu Nov 19 1964 (6d)
 # Teams      5
 # Matches    9
 
-[Fri Nov 13]
-  Jordan - Lebanon  0-0   @ Kuwait City, Kuwait
-  Kuwait - Iraq  0-1   @ Kuwait City, Kuwait
-[Sat Nov 14]
-  Libya - Lebanon  2-1   @ Kuwait City, Kuwait
-[Sun Nov 15]
-  Kuwait - Jordan  2-0   @ Kuwait City, Kuwait
-[Mon Nov 16]
-  Iraq - Lebanon  1-0   @ Kuwait City, Kuwait
-  Jordan - Libya  2-5   @ Kuwait City, Kuwait
-[Tue Nov 17]
-  Kuwait - Lebanon  2-3   @ Kuwait City, Kuwait
-  Iraq - Libya  1-1   @ Kuwait City, Kuwait
-[Thu Nov 19]
-  Kuwait - Libya  1-1   @ Kuwait City, Kuwait
+Fri Nov 13
+  Jordan               v Lebanon               0-0   @ Kuwait City, Kuwait
+  Kuwait               v Iraq                  0-1   @ Kuwait City, Kuwait
+Sat Nov 14
+  Libya                v Lebanon               2-1   @ Kuwait City, Kuwait
+Sun Nov 15
+  Kuwait               v Jordan                2-0   @ Kuwait City, Kuwait
+Mon Nov 16
+  Iraq                 v Lebanon               1-0   @ Kuwait City, Kuwait
+  Jordan               v Libya                 2-5   @ Kuwait City, Kuwait
+Tue Nov 17
+  Kuwait               v Lebanon               2-3   @ Kuwait City, Kuwait
+  Iraq                 v Libya                 1-1   @ Kuwait City, Kuwait
+Thu Nov 19
+  Kuwait               v Libya                 1-1   @ Kuwait City, Kuwait
 

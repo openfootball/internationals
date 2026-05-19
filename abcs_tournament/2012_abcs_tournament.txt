@@ -1,13 +1,13 @@
 = ABCS Tournament 2012
 
-# Date       Fri Jul/13 - Sun Jul/15 2012 (2d)
+# Date       Fri Jul 13 - Sun Jul 15 2012 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Jul 13]
-  Aruba - Curaçao  3-2   @ Oranjestad, Aruba
-  Suriname - Bonaire  8-0   @ Oranjestad, Aruba
-[Sun Jul 15]
-  Aruba - Suriname  1-0   @ Oranjestad, Aruba
-  Bonaire - Curaçao  2-9   @ Oranjestad, Aruba
+Fri Jul 13
+  Aruba                v Curaçao               3-2   @ Oranjestad, Aruba
+  Suriname             v Bonaire               8-0   @ Oranjestad, Aruba
+Sun Jul 15
+  Aruba                v Suriname              1-0   @ Oranjestad, Aruba
+  Bonaire              v Curaçao               2-9   @ Oranjestad, Aruba
 

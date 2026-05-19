@@ -1,82 +1,82 @@
 = Copa América 1991
 
-# Date       Sat Jul/6 - Sun Jul/21 1991 (15d)
+# Date       Sat Jul 6 - Sun Jul 21 1991 (15d)
 # Teams      10
 # Matches    26
 
-[Sat Jul 6]
-  Chile - Venezuela  2-0   @ Santiago, Chile
-     Hugo Eduardo Rubio 22' Iván Zamorano 34'
-  Paraguay - Peru  1-0   @ Santiago, Chile
-     Luis Monzón 21'
-[Sun Jul 7]
-  Bolivia - Uruguay  1-1   @ Valparaíso, Chile
-     Berthy Suárez 16';
-     Ramón Víctor Castro 73'
-  Colombia - Ecuador  1-0   @ Valparaíso, Chile
-     Antony de Ávila 25'
-[Mon Jul 8]
-  Argentina - Venezuela  3-0   @ Santiago, Chile
-     Gabriel Batistuta 28' Claudio Caniggia 43' Gabriel Batistuta 50' (pen.)
-  Chile - Peru  4-2   @ Concepción, Chile
-     Hugo Eduardo Rubio 16' Jorge Contreras 51' (pen.) Iván Zamorano 61' Iván Zamorano 74';
-     Flavio Maestri 59' José del Solar 71'
-[Tue Jul 9]
-  Bolivia - Brazil  1-2   @ Viña del Mar, Chile
-     Erwin Sánchez 89' (pen.);
-     Neto 5' (pen.) Branco 47'
-  Ecuador - Uruguay  1-1   @ Viña del Mar, Chile
-     Álex Aguinaga 44';
-     Peter Méndez 49' (pen.)
-[Wed Jul 10]
-  Chile - Argentina  0-1   @ Santiago, Chile
-     -; Gabriel Batistuta 81'
-  Paraguay - Venezuela  5-0   @ Santiago, Chile
-     Gustavo Neffa 34' Carlos Guirland 38' Luis Monzón 75' Vidal Sanabria 81' Luis Monzón 87' (pen.)
-[Thu Jul 11]
-  Bolivia - Colombia  0-0   @ Viña del Mar, Chile
-  Brazil - Uruguay  1-1   @ Viña del Mar, Chile
-     João Paulo 29';
-     Peter Méndez 66'
-[Fri Jul 12]
-  Argentina - Paraguay  4-1   @ Concepción, Chile
-     Gabriel Batistuta 40' Diego Simeone 61' Leonardo Astrada 70' Claudio Caniggia 81';
-     José Cardozo 79'
-  Peru - Venezuela  5-1   @ Santiago, Chile
-     Eugenio La Rosa 9' Robert Cavallo 21' (o.g.) Eugenio La Rosa 55' José del Solar 58' Jorge Hirano 62';
-     José del Solar 14' (o.g.)
-[Sat Jul 13]
-  Bolivia - Ecuador  0-4   @ Viña del Mar, Chile
-     -; Álex Aguinaga 32' Ney Avilés 42' Ney Avilés 73' Erwin Ramírez 80' (pen.)
-  Brazil - Colombia  0-2   @ Viña del Mar, Chile
-     -; Antony de Ávila 35' Arnoldo Iguarán 66'
-[Sun Jul 14]
-  Argentina - Peru  3-2   @ Santiago, Chile
-     Diego Latorre 3' Néstor Craviotto 51' Claudio García 57';
-     Alfonso Yáñez 35' (pen.) Jorge Hirano 65'
-  Chile - Paraguay  4-0   @ Santiago, Chile
-     Hugo Eduardo Rubio 12' Iván Zamorano 15' Fabián Estay 63' Jaime Vera 68'
-[Mon Jul 15]
-  Brazil - Ecuador  3-1   @ Viña del Mar, Chile
-     Mazinho Oliveira 8' Márcio Santos 54' Luís Henrique 89';
-     Carlos Muñoz 12'
-  Colombia - Uruguay  0-1   @ Viña del Mar, Chile
-     -; Peter Méndez 19'
-[Wed Jul 17]
-  Argentina - Brazil  3-2   @ Santiago, Chile
-     Darío Franco 1' Darío Franco 39' Gabriel Batistuta 46';
-     Branco 5' João Paulo 52'
-  Chile - Colombia  1-1   @ Santiago, Chile
-     Iván Zamorano 74';
-     Arnoldo Iguarán 37'
-[Fri Jul 19]
-  Brazil - Colombia  2-0   @ Santiago, Chile
-     Renato Gaúcho 29' Branco 76' (pen.)
-  Chile - Argentina  0-0   @ Santiago, Chile
-[Sun Jul 21]
-  Argentina - Colombia  2-1   @ Santiago, Chile
-     Diego Simeone 11' Gabriel Batistuta 19';
-     Antony de Ávila 70'
-  Chile - Brazil  0-2   @ Santiago, Chile
-     -; Mazinho Oliveira 8' Luís Henrique 55'
+Sat Jul 6
+  Chile                v Venezuela             2-0   @ Santiago, Chile
+     (Hugo Eduardo Rubio 22' Iván Zamorano 34')
+  Paraguay             v Peru                  1-0   @ Santiago, Chile
+     (Luis Monzón 21')
+Sun Jul 7
+  Bolivia              v Uruguay               1-1   @ Valparaíso, Chile
+     (Berthy Suárez 16';
+      Ramón Víctor Castro 73')
+  Colombia             v Ecuador               1-0   @ Valparaíso, Chile
+     (Antony de Ávila 25')
+Mon Jul 8
+  Argentina            v Venezuela             3-0   @ Santiago, Chile
+     (Gabriel Batistuta 28' Claudio Caniggia 43' Gabriel Batistuta 50'(p))
+  Chile                v Peru                  4-2   @ Concepción, Chile
+     (Hugo Eduardo Rubio 16' Jorge Contreras 51'(p) Iván Zamorano 61' Iván Zamorano 74';
+      Flavio Maestri 59' José del Solar 71')
+Tue Jul 9
+  Bolivia              v Brazil                1-2   @ Viña del Mar, Chile
+     (Erwin Sánchez 89'(p);
+      Neto 5'(p) Branco 47')
+  Ecuador              v Uruguay               1-1   @ Viña del Mar, Chile
+     (Álex Aguinaga 44';
+      Peter Méndez 49'(p))
+Wed Jul 10
+  Chile                v Argentina             0-1   @ Santiago, Chile
+     (Gabriel Batistuta 81')
+  Paraguay             v Venezuela             5-0   @ Santiago, Chile
+     (Gustavo Neffa 34' Carlos Guirland 38' Luis Monzón 75' Vidal Sanabria 81' Luis Monzón 87'(p))
+Thu Jul 11
+  Bolivia              v Colombia              0-0   @ Viña del Mar, Chile
+  Brazil               v Uruguay               1-1   @ Viña del Mar, Chile
+     (João Paulo 29';
+      Peter Méndez 66')
+Fri Jul 12
+  Argentina            v Paraguay              4-1   @ Concepción, Chile
+     (Gabriel Batistuta 40' Diego Simeone 61' Leonardo Astrada 70' Claudio Caniggia 81';
+      José Cardozo 79')
+  Peru                 v Venezuela             5-1   @ Santiago, Chile
+     (Eugenio La Rosa 9' Robert Cavallo 21'(og) Eugenio La Rosa 55' José del Solar 58' Jorge Hirano 62';
+      José del Solar 14'(og))
+Sat Jul 13
+  Bolivia              v Ecuador               0-4   @ Viña del Mar, Chile
+     (Álex Aguinaga 32' Ney Avilés 42' Ney Avilés 73' Erwin Ramírez 80'(p))
+  Brazil               v Colombia              0-2   @ Viña del Mar, Chile
+     (Antony de Ávila 35' Arnoldo Iguarán 66')
+Sun Jul 14
+  Argentina            v Peru                  3-2   @ Santiago, Chile
+     (Diego Latorre 3' Néstor Craviotto 51' Claudio García 57';
+      Alfonso Yáñez 35'(p) Jorge Hirano 65')
+  Chile                v Paraguay              4-0   @ Santiago, Chile
+     (Hugo Eduardo Rubio 12' Iván Zamorano 15' Fabián Estay 63' Jaime Vera 68')
+Mon Jul 15
+  Brazil               v Ecuador               3-1   @ Viña del Mar, Chile
+     (Mazinho Oliveira 8' Márcio Santos 54' Luís Henrique 89';
+      Carlos Muñoz 12')
+  Colombia             v Uruguay               0-1   @ Viña del Mar, Chile
+     (Peter Méndez 19')
+Wed Jul 17
+  Argentina            v Brazil                3-2   @ Santiago, Chile
+     (Darío Franco 1' Darío Franco 39' Gabriel Batistuta 46';
+      Branco 5' João Paulo 52')
+  Chile                v Colombia              1-1   @ Santiago, Chile
+     (Iván Zamorano 74';
+      Arnoldo Iguarán 37')
+Fri Jul 19
+  Brazil               v Colombia              2-0   @ Santiago, Chile
+     (Renato Gaúcho 29' Branco 76'(p))
+  Chile                v Argentina             0-0   @ Santiago, Chile
+Sun Jul 21
+  Argentina            v Colombia              2-1   @ Santiago, Chile
+     (Diego Simeone 11' Gabriel Batistuta 19';
+      Antony de Ávila 70')
+  Chile                v Brazil                0-2   @ Santiago, Chile
+     (Mazinho Oliveira 8' Luís Henrique 55')
 

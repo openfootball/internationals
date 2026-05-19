@@ -1,48 +1,48 @@
 = CFU Caribbean Cup qualification 1995
 
-# Date       Sun Mar/19 - Sat May/27 1995 (69d)
+# Date       Sun Mar 19 - Sat May 27 1995 (69d)
 # Teams      18
 # Matches    26
 
-[Sun Mar 19]
-  Sint Maarten - Saint Kitts and Nevis  0-2   @ Philipsburg, Sint Maarten
-[Tue Mar 21]
-  Grenada - Saint Lucia  2-0   @ St. George's, Grenada
-[Sun Mar 26]
-  Barbados - Guyana  3-0   @ Bridgetown, Barbados
-  Montserrat - Anguilla  3-2   @ Plymouth, Montserrat
-  Saint Kitts and Nevis - Sint Maarten  0-1   @ Basseterre, Saint Kitts and Nevis
-[Sun Apr 2]
-  Anguilla - Montserrat  0-1   @ The Valley, Anguilla
-  Guyana - Barbados  0-4   @ Georgetown, Guyana
-[Sun Apr 9]
-  Saint Lucia - Grenada  4-0   @ Castries, Saint Lucia
-[Sun Apr 30]
-  Barbados - Saint Lucia  1-1   @ Bridgetown, Barbados
-  Saint Kitts and Nevis - Antigua and Barbuda  1-1   @ Basseterre, Saint Kitts and Nevis
-[Sun May 7]
-  Aruba - Curaçao  3-4   @ Oranjestad, Aruba
-  Saint Lucia - Barbados  2-1   @ Castries, Saint Lucia
-[Tue May 9]
-  French Guiana - Martinique  1-3   @ Cayenne, French Guiana
-  Guadeloupe - Suriname  1-2   @ Cayenne, French Guiana
-[Thu May 11]
-  French Guiana - Guadeloupe  2-2   @ Cayenne, French Guiana
-  Martinique - Suriname  1-1   @ Cayenne, French Guiana
-[Sat May 13]
-  French Guiana - Suriname  4-0   @ Cayenne, French Guiana
-  Guadeloupe - Martinique  2-1   @ Cayenne, French Guiana
-[Sun May 14]
-  Curaçao - Aruba  3-2   @ Willemstad, Curaçao
-[Sun May 21]
-  Antigua and Barbuda - Saint Kitts and Nevis  2-2   @ St. John's, Antigua and Barbuda   [Antigua and Barbuda wins on penalties]
-[Tue May 23]
-  Cuba - Curaçao  3-0   @ Santo Domingo, Dominican Republic
-  Dominican Republic - Puerto Rico  3-1   @ Santo Domingo, Dominican Republic
-[Thu May 25]
-  Curaçao - Puerto Rico  2-2   @ Santo Domingo, Dominican Republic
-  Dominican Republic - Cuba  0-3   @ Santo Domingo, Dominican Republic
-[Sat May 27]
-  Cuba - Puerto Rico  9-0   @ Santo Domingo, Dominican Republic
-  Dominican Republic - Curaçao  1-2   @ Santo Domingo, Dominican Republic
+Sun Mar 19
+  Sint Maarten         v Saint Kitts and Nevis  0-2   @ Philipsburg, Sint Maarten
+Tue Mar 21
+  Grenada              v Saint Lucia           2-0   @ St. George's, Grenada
+Sun Mar 26
+  Barbados             v Guyana                3-0   @ Bridgetown, Barbados
+  Montserrat           v Anguilla              3-2   @ Plymouth, Montserrat
+  Saint Kitts and Nevis v Sint Maarten          0-1   @ Basseterre, Saint Kitts and Nevis
+Sun Apr 2
+  Anguilla             v Montserrat            0-1   @ The Valley, Anguilla
+  Guyana               v Barbados              0-4   @ Georgetown, Guyana
+Sun Apr 9
+  Saint Lucia          v Grenada               4-0   @ Castries, Saint Lucia
+Sun Apr 30
+  Barbados             v Saint Lucia           1-1   @ Bridgetown, Barbados
+  Saint Kitts and Nevis v Antigua and Barbuda   1-1   @ Basseterre, Saint Kitts and Nevis
+Sun May 7
+  Aruba                v Curaçao               3-4   @ Oranjestad, Aruba
+  Saint Lucia          v Barbados              2-1   @ Castries, Saint Lucia
+Tue May 9
+  French Guiana        v Martinique            1-3   @ Cayenne, French Guiana
+  Guadeloupe           v Suriname              1-2   @ Cayenne, French Guiana
+Thu May 11
+  French Guiana        v Guadeloupe            2-2   @ Cayenne, French Guiana
+  Martinique           v Suriname              1-1   @ Cayenne, French Guiana
+Sat May 13
+  French Guiana        v Suriname              4-0   @ Cayenne, French Guiana
+  Guadeloupe           v Martinique            2-1   @ Cayenne, French Guiana
+Sun May 14
+  Curaçao              v Aruba                 3-2   @ Willemstad, Curaçao
+Sun May 21
+  Antigua and Barbuda  v Saint Kitts and Nevis  2-2   @ St. John's, Antigua and Barbuda   [Antigua and Barbuda wins on penalties]
+Tue May 23
+  Cuba                 v Curaçao               3-0   @ Santo Domingo, Dominican Republic
+  Dominican Republic   v Puerto Rico           3-1   @ Santo Domingo, Dominican Republic
+Thu May 25
+  Curaçao              v Puerto Rico           2-2   @ Santo Domingo, Dominican Republic
+  Dominican Republic   v Cuba                  0-3   @ Santo Domingo, Dominican Republic
+Sat May 27
+  Cuba                 v Puerto Rico           9-0   @ Santo Domingo, Dominican Republic
+  Dominican Republic   v Curaçao               1-2   @ Santo Domingo, Dominican Republic
 

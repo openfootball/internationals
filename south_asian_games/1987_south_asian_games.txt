@@ -1,20 +1,20 @@
 = South Asian Games 1987
 
-# Date       Sat Nov/21 - Thu Nov/26 1987 (5d)
+# Date       Sat Nov 21 - Thu Nov 26 1987 (5d)
 # Teams      6
 # Matches    8
 
-[Sat Nov 21]
-  India - Pakistan  0-0   @ Calcutta, India
-  Nepal - Bangladesh  1-0   @ Calcutta, India
-[Sun Nov 22]
-  Pakistan - Maldives  1-0   @ Calcutta, India
-  Bangladesh - Bhutan  3-0   @ Calcutta, India
-[Mon Nov 23]
-  India - Maldives  5-0   @ Calcutta, India
-  Nepal - Bhutan  6-2   @ Calcutta, India
-[Wed Nov 25]
-  Pakistan - Bangladesh  1-0   @ Calcutta, India
-[Thu Nov 26]
-  India - Nepal  1-0   @ Calcutta, India
+Sat Nov 21
+  India                v Pakistan              0-0   @ Calcutta, India
+  Nepal                v Bangladesh            1-0   @ Calcutta, India
+Sun Nov 22
+  Pakistan             v Maldives              1-0   @ Calcutta, India
+  Bangladesh           v Bhutan                3-0   @ Calcutta, India
+Mon Nov 23
+  India                v Maldives              5-0   @ Calcutta, India
+  Nepal                v Bhutan                6-2   @ Calcutta, India
+Wed Nov 25
+  Pakistan             v Bangladesh            1-0   @ Calcutta, India
+Thu Nov 26
+  India                v Nepal                 1-0   @ Calcutta, India
 

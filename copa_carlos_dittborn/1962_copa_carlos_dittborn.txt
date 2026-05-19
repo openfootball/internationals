@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1962
 
-# Date       Wed Nov/7 - Wed Nov/21 1962 (14d)
+# Date       Wed Nov 7 - Wed Nov 21 1962 (14d)
 # Teams      2
 # Matches    2
 
-[Wed Nov 7]
-  Chile - Argentina  1-1   @ Santiago, Chile
-[Wed Nov 21]
-  Argentina - Chile  1-0   @ Buenos Aires, Argentina
+Wed Nov 7
+  Chile                v Argentina             1-1   @ Santiago, Chile
+Wed Nov 21
+  Argentina            v Chile                 1-0   @ Buenos Aires, Argentina
 

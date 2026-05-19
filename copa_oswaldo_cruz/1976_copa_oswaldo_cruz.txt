@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1976
 
-# Date       Wed Apr/7 - Wed Jun/9 1976 (63d)
+# Date       Wed Apr 7 - Wed Jun 9 1976 (63d)
 # Teams      2
 # Matches    2
 
-[Wed Apr 7]
-  Paraguay - Brazil  1-1   @ Asunción, Paraguay
-[Wed Jun 9]
-  Brazil - Paraguay  3-1   @ Rio de Janeiro, Brazil
+Wed Apr 7
+  Paraguay             v Brazil                1-1   @ Asunción, Paraguay
+Wed Jun 9
+  Brazil               v Paraguay              3-1   @ Rio de Janeiro, Brazil
 

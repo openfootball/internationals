@@ -1,121 +1,121 @@
 = Friendly 1926
 
-# Date       Sun Jan/17 - Sun Dec/26 1926 (343d)
+# Date       Sun Jan 17 - Sun Dec 26 1926 (343d)
 # Teams      33
 # Matches    65
 
-[Sun Jan 17]
-  Italy - Czechoslovakia  3-1   @ Turin, Italy
-[Sun Jan 24]
-  Haiti - Curaçao  1-1   @ Port-au-Prince, Haiti
-[Sun Jan 31]
-  Haiti - Curaçao  0-1   @ Port-au-Prince, Haiti
-[Sun Feb 7]
-  Haiti - Curaçao  2-1   @ Port-au-Prince, Haiti
-[Sun Feb 14]
-  Belgium - Hungary  0-2   @ Brussels, Belgium
-  Haiti - Curaçao  2-2   @ Port-au-Prince, Haiti
-[Wed Mar 3]
-  Jamaica - Curaçao  2-0   @ Kingston, Jamaica
-[Sun Mar 14]
-  Austria - Czechoslovakia  2-0   @ Vienna, Austria
-  Belgium - Netherlands  1-1   @ Antwerp, Belgium
-[Sun Mar 21]
-  Italy - Republic of Ireland  3-0   @ Turin, Italy
-[Sun Mar 28]
-  Netherlands - Switzerland  5-0   @ Amsterdam, Netherlands
-[Sun Apr 11]
-  France - Belgium  4-3   @ Vincennes, France
-[Sun Apr 18]
-  France - Portugal  4-2   @ Toulouse, France
-  Germany - Netherlands  4-2   @ Düsseldorf, Germany
-  Switzerland - Italy  1-1   @ Zürich, Switzerland
-[Sun Apr 25]
-  France - Switzerland  1-0   @ Colombes, France
-  Romania - Bulgaria  6-1   @ Bucharest, Romania
-[Sat May 1]
-  Kenya - Uganda  1-1   @ Nairobi, Kenya
-[Sun May 2]
-  Hungary - Austria  0-3   @ Budapest, Hungary
-  Netherlands - Belgium  1-5   @ Amsterdam, Netherlands
-[Mon May 3]
-  Kenya - Uganda  2-1   @ Nairobi, Kenya
-[Fri May 7]
-  Turkey - Romania  1-3   @ Istanbul, Turkey
-[Sun May 9]
-  Italy - Switzerland  3-2   @ Milan, Italy
-[Mon May 24]
-  Belgium - England  3-5   @ Antwerp, Belgium
-[Sun May 30]
-  Austria - France  4-1   @ Vienna, Austria
-  Yugoslavia - Bulgaria  3-1   @ Zagreb, Yugoslavia
-[Sun Jun 6]
-  Finland - Norway  2-5   @ Helsinki, Finland
-  Hungary - Czechoslovakia  2-1   @ Budapest, Hungary
-[Sun Jun 13]
-  Denmark - Netherlands  4-1   @ Copenhagen, Denmark
-  Estonia - Lithuania  3-1   @ Tallinn, Estonia
-  France - Yugoslavia  4-1   @ Colombes, France
-  Sweden - Czechoslovakia  2-2   @ Stockholm, Sweden
-[Sun Jun 20]
-  Belgium - France  2-2   @ Brussels, Belgium
-  Finland - Denmark  3-2   @ Helsinki, Finland
-  Germany - Sweden  3-3   @ Nuremberg, Germany
-[Mon Jun 28]
-  Yugoslavia - Czechoslovakia  2-6   @ Zagreb, Yugoslavia
-[Sat Jul 3]
-  Czechoslovakia - Sweden  4-2   @ Prague, Czechoslovakia
-[Sun Jul 4]
-  Poland - Estonia  2-0   @ Warsaw, Poland
-[Wed Jul 7]
-  Czechoslovakia - Catalonia  2-1   @ Prague, Czechoslovakia
-[Sun Jul 18]
-  Sweden - Italy  5-3   @ Stockholm, Sweden
-[Tue Jul 20]
-  Latvia - Sweden  4-1   @ Riga, Latvia
-[Fri Jul 23]
-  Estonia - Sweden  1-7   @ Tallinn, Estonia
-[Mon Jul 26]
-  Finland - Sweden  2-3   @ Helsinki, Finland
-[Sun Aug 8]
-  Poland - Finland  7-1   @ Poznań, Poland
-[Thu Aug 12]
-  Latvia - Finland  1-4   @ Riga, Latvia
-[Fri Aug 20]
-  Hungary - Poland  4-1   @ Budapest, Hungary
-[Sat Aug 21]
-  Lithuania - Latvia  2-3   @ Kaunas, Lithuania
-[Sun Sep 5]
-  Finland - Estonia  1-1   @ Helsinki, Finland
-[Sun Sep 12]
-  Poland - Turkey  6-1   @ Lwów, Poland
-[Sun Sep 19]
-  Austria - Hungary  2-3   @ Vienna, Austria
-  Latvia - Estonia  0-1   @ Riga, Latvia
-[Tue Sep 28]
-  Czechoslovakia - Austria  1-2   @ Prague, Czechoslovakia
-[Sun Oct 3]
-  Sweden - Poland  3-1   @ Stockholm, Sweden
-  Yugoslavia - Romania  2-3   @ Zagreb, Yugoslavia
-[Sun Oct 10]
-  Austria - Switzerland  7-1   @ Vienna, Austria
-  Norway - Poland  3-4   @ Fredrikstad, Norway
-[Thu Oct 28]
-  Czechoslovakia - Italy  3-1   @ Prague, Czechoslovakia
-[Sun Oct 31]
-  Netherlands - Germany  2-3   @ Amsterdam, Netherlands
-[Sat Nov 6]
-  United States - Canada  6-2   @ New York, United States
-[Sun Nov 7]
-  Austria - Sweden  3-1   @ Vienna, Austria
-[Sun Nov 14]
-  Hungary - Sweden  3-1   @ Budapest, Hungary
-[Sat Nov 20]
-  Jamaica - Haiti  6-0   @ Kingston, Jamaica
-[Sun Dec 12]
-  Germany - Switzerland  2-3   @ Munich, Germany
-[Sun Dec 19]
-  Spain - Hungary  4-2   @ Vigo, Spain
-[Sun Dec 26]
-  Portugal - Hungary  3-3   @ Porto, Portugal
+Sun Jan 17
+  Italy                v Czechoslovakia        3-1   @ Turin, Italy
+Sun Jan 24
+  Haiti                v Curaçao               1-1   @ Port-au-Prince, Haiti
+Sun Jan 31
+  Haiti                v Curaçao               0-1   @ Port-au-Prince, Haiti
+Sun Feb 7
+  Haiti                v Curaçao               2-1   @ Port-au-Prince, Haiti
+Sun Feb 14
+  Belgium              v Hungary               0-2   @ Brussels, Belgium
+  Haiti                v Curaçao               2-2   @ Port-au-Prince, Haiti
+Wed Mar 3
+  Jamaica              v Curaçao               2-0   @ Kingston, Jamaica
+Sun Mar 14
+  Austria              v Czechoslovakia        2-0   @ Vienna, Austria
+  Belgium              v Netherlands           1-1   @ Antwerp, Belgium
+Sun Mar 21
+  Italy                v Republic of Ireland   3-0   @ Turin, Italy
+Sun Mar 28
+  Netherlands          v Switzerland           5-0   @ Amsterdam, Netherlands
+Sun Apr 11
+  France               v Belgium               4-3   @ Vincennes, France
+Sun Apr 18
+  France               v Portugal              4-2   @ Toulouse, France
+  Germany              v Netherlands           4-2   @ Düsseldorf, Germany
+  Switzerland          v Italy                 1-1   @ Zürich, Switzerland
+Sun Apr 25
+  France               v Switzerland           1-0   @ Colombes, France
+  Romania              v Bulgaria              6-1   @ Bucharest, Romania
+Sat May 1
+  Kenya                v Uganda                1-1   @ Nairobi, Kenya
+Sun May 2
+  Hungary              v Austria               0-3   @ Budapest, Hungary
+  Netherlands          v Belgium               1-5   @ Amsterdam, Netherlands
+Mon May 3
+  Kenya                v Uganda                2-1   @ Nairobi, Kenya
+Fri May 7
+  Turkey               v Romania               1-3   @ Istanbul, Turkey
+Sun May 9
+  Italy                v Switzerland           3-2   @ Milan, Italy
+Mon May 24
+  Belgium              v England               3-5   @ Antwerp, Belgium
+Sun May 30
+  Austria              v France                4-1   @ Vienna, Austria
+  Yugoslavia           v Bulgaria              3-1   @ Zagreb, Yugoslavia
+Sun Jun 6
+  Finland              v Norway                2-5   @ Helsinki, Finland
+  Hungary              v Czechoslovakia        2-1   @ Budapest, Hungary
+Sun Jun 13
+  Denmark              v Netherlands           4-1   @ Copenhagen, Denmark
+  Estonia              v Lithuania             3-1   @ Tallinn, Estonia
+  France               v Yugoslavia            4-1   @ Colombes, France
+  Sweden               v Czechoslovakia        2-2   @ Stockholm, Sweden
+Sun Jun 20
+  Belgium              v France                2-2   @ Brussels, Belgium
+  Finland              v Denmark               3-2   @ Helsinki, Finland
+  Germany              v Sweden                3-3   @ Nuremberg, Germany
+Mon Jun 28
+  Yugoslavia           v Czechoslovakia        2-6   @ Zagreb, Yugoslavia
+Sat Jul 3
+  Czechoslovakia       v Sweden                4-2   @ Prague, Czechoslovakia
+Sun Jul 4
+  Poland               v Estonia               2-0   @ Warsaw, Poland
+Wed Jul 7
+  Czechoslovakia       v Catalonia             2-1   @ Prague, Czechoslovakia
+Sun Jul 18
+  Sweden               v Italy                 5-3   @ Stockholm, Sweden
+Tue Jul 20
+  Latvia               v Sweden                4-1   @ Riga, Latvia
+Fri Jul 23
+  Estonia              v Sweden                1-7   @ Tallinn, Estonia
+Mon Jul 26
+  Finland              v Sweden                2-3   @ Helsinki, Finland
+Sun Aug 8
+  Poland               v Finland               7-1   @ Poznań, Poland
+Thu Aug 12
+  Latvia               v Finland               1-4   @ Riga, Latvia
+Fri Aug 20
+  Hungary              v Poland                4-1   @ Budapest, Hungary
+Sat Aug 21
+  Lithuania            v Latvia                2-3   @ Kaunas, Lithuania
+Sun Sep 5
+  Finland              v Estonia               1-1   @ Helsinki, Finland
+Sun Sep 12
+  Poland               v Turkey                6-1   @ Lwów, Poland
+Sun Sep 19
+  Austria              v Hungary               2-3   @ Vienna, Austria
+  Latvia               v Estonia               0-1   @ Riga, Latvia
+Tue Sep 28
+  Czechoslovakia       v Austria               1-2   @ Prague, Czechoslovakia
+Sun Oct 3
+  Sweden               v Poland                3-1   @ Stockholm, Sweden
+  Yugoslavia           v Romania               2-3   @ Zagreb, Yugoslavia
+Sun Oct 10
+  Austria              v Switzerland           7-1   @ Vienna, Austria
+  Norway               v Poland                3-4   @ Fredrikstad, Norway
+Thu Oct 28
+  Czechoslovakia       v Italy                 3-1   @ Prague, Czechoslovakia
+Sun Oct 31
+  Netherlands          v Germany               2-3   @ Amsterdam, Netherlands
+Sat Nov 6
+  United States        v Canada                6-2   @ New York, United States
+Sun Nov 7
+  Austria              v Sweden                3-1   @ Vienna, Austria
+Sun Nov 14
+  Hungary              v Sweden                3-1   @ Budapest, Hungary
+Sat Nov 20
+  Jamaica              v Haiti                 6-0   @ Kingston, Jamaica
+Sun Dec 12
+  Germany              v Switzerland           2-3   @ Munich, Germany
+Sun Dec 19
+  Spain                v Hungary               4-2   @ Vigo, Spain
+Sun Dec 26
+  Portugal             v Hungary               3-3   @ Porto, Portugal
 

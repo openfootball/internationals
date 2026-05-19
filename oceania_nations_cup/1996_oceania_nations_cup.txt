@@ -1,17 +1,17 @@
 = Oceania Nations Cup 1996
 
-# Date       Sat May/11 - Fri Nov/1 1996 (174d)
+# Date       Sat May 11 - Fri Nov 1 1996 (174d)
 # Teams      3
 # Matches    3
 
-[Sat May 11]
-  Tahiti - Solomon Islands  2-1   @ Papeete, Tahiti
-     Jean-Loup Rousseau 46' Macha Gatien 88';
-     Robert Seni 81'
-[Sun Oct 27]
-  Tahiti - Australia  0-6   @ Papeete, Tahiti
-     -; Ernie Tapai 5' Paul Trimboli 20' Kris Trajanovski 25' Kris Trajanovski 28' Kris Trajanovski 44' Kris Trajanovski 89'
-[Fri Nov 1]
-  Australia - Tahiti  5-0   @ Canberra, Australia
-     Robbie Hooker 11' Kris Trajanovski 21' Rupena Raumati 31' (o.g.) Kris Trajanovski 36' Kris Trajanovski 54'
+Sat May 11
+  Tahiti               v Solomon Islands       2-1   @ Papeete, Tahiti
+     (Jean-Loup Rousseau 46' Macha Gatien 88';
+      Robert Seni 81')
+Sun Oct 27
+  Tahiti               v Australia             0-6   @ Papeete, Tahiti
+     (Ernie Tapai 5' Paul Trimboli 20' Kris Trajanovski 25' Kris Trajanovski 28' Kris Trajanovski 44' Kris Trajanovski 89')
+Fri Nov 1
+  Australia            v Tahiti                5-0   @ Canberra, Australia
+     (Robbie Hooker 11' Kris Trajanovski 21' Rupena Raumati 31'(og) Kris Trajanovski 36' Kris Trajanovski 54')
 

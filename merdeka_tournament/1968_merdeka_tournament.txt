@@ -1,51 +1,51 @@
 = Merdeka Tournament 1968
 
-# Date       Fri Aug/9 - Sun Aug/25 1968 (16d)
+# Date       Fri Aug 9 - Sun Aug 25 1968 (16d)
 # Teams      11
 # Matches    31
 
-[Fri Aug 9]
-  Malaysia - Hong Kong  1-1   @ Kuala Lumpur, Malaysia
-[Sat Aug 10]
-  Myanmar - Vietnam Republic  3-0   @ Kuala Lumpur, Malaysia
-  South Korea - Western Australia  0-3   @ Kuala Lumpur, Malaysia
-[Sun Aug 11]
-  Hong Kong - Thailand  0-0   @ Kuala Lumpur, Malaysia
-  Singapore - Taiwan  0-2   @ Ipoh, Malaysia
-  Malaysia - India  2-1   @ Kuala Lumpur, Malaysia
-[Mon Aug 12]
-  Myanmar - Hong Kong  3-0   @ Kuala Lumpur, Malaysia
-  India - Vietnam Republic  3-2   @ Kuala Lumpur, Malaysia
-  Indonesia - Western Australia  4-5   @ Ipoh, Malaysia
-  South Korea - Singapore  3-2   @ Ipoh, Malaysia
-[Wed Aug 14]
-  Myanmar - Thailand  0-0   @ Ipoh, Malaysia
-  South Korea - Taiwan  2-1   @ Kuala Lumpur, Malaysia
-  Malaysia - Vietnam Republic  4-0   @ Ipoh, Malaysia
-[Thu Aug 15]
-  Hong Kong - India  1-1   @ Ipoh, Malaysia
-  Western Australia - Taiwan  3-2   @ Ipoh, Malaysia
-  Indonesia - Singapore  4-0   @ Kuala Lumpur, Malaysia
-  Thailand - Vietnam Republic  2-3   @ Ipoh, Malaysia
-[Sat Aug 17]
-  Malaysia - Thailand  4-1   @ Kuala Lumpur, Malaysia
-  Myanmar - India  1-3   @ Kuala Lumpur, Malaysia
-  Indonesia - South Korea  4-2   @ Ipoh, Malaysia
-[Sun Aug 18]
-  Hong Kong - Vietnam Republic  1-3   @ Kuala Lumpur, Malaysia
-  Malaysia - Myanmar  1-1   @ Kuala Lumpur, Malaysia
-  Singapore - Western Australia  4-4   @ Ipoh, Malaysia
-[Mon Aug 19]
-  India - Thailand  0-1   @ Kuala Lumpur, Malaysia
-  Indonesia - Taiwan  10-1   @ Kuala Lumpur, Malaysia
-[Wed Aug 21]
-  Myanmar - Indonesia  2-1   @ Kuala Lumpur, Malaysia
-  South Korea - Thailand  2-1   @ Kuala Lumpur, Malaysia
-[Thu Aug 22]
-  Malaysia - Western Australia  4-3   @ Kuala Lumpur, Malaysia
-[Sat Aug 24]
-  India - South Korea  0-1   @ Kuala Lumpur, Malaysia
-  Indonesia - Western Australia  1-3   @ Kuala Lumpur, Malaysia
-[Sun Aug 25]
-  Malaysia - Myanmar  3-0   @ Kuala Lumpur, Malaysia
+Fri Aug 9
+  Malaysia             v Hong Kong             1-1   @ Kuala Lumpur, Malaysia
+Sat Aug 10
+  Myanmar              v Vietnam Republic      3-0   @ Kuala Lumpur, Malaysia
+  South Korea          v Western Australia     0-3   @ Kuala Lumpur, Malaysia
+Sun Aug 11
+  Hong Kong            v Thailand              0-0   @ Kuala Lumpur, Malaysia
+  Singapore            v Taiwan                0-2   @ Ipoh, Malaysia
+  Malaysia             v India                 2-1   @ Kuala Lumpur, Malaysia
+Mon Aug 12
+  Myanmar              v Hong Kong             3-0   @ Kuala Lumpur, Malaysia
+  India                v Vietnam Republic      3-2   @ Kuala Lumpur, Malaysia
+  Indonesia            v Western Australia     4-5   @ Ipoh, Malaysia
+  South Korea          v Singapore             3-2   @ Ipoh, Malaysia
+Wed Aug 14
+  Myanmar              v Thailand              0-0   @ Ipoh, Malaysia
+  South Korea          v Taiwan                2-1   @ Kuala Lumpur, Malaysia
+  Malaysia             v Vietnam Republic      4-0   @ Ipoh, Malaysia
+Thu Aug 15
+  Hong Kong            v India                 1-1   @ Ipoh, Malaysia
+  Western Australia    v Taiwan                3-2   @ Ipoh, Malaysia
+  Indonesia            v Singapore             4-0   @ Kuala Lumpur, Malaysia
+  Thailand             v Vietnam Republic      2-3   @ Ipoh, Malaysia
+Sat Aug 17
+  Malaysia             v Thailand              4-1   @ Kuala Lumpur, Malaysia
+  Myanmar              v India                 1-3   @ Kuala Lumpur, Malaysia
+  Indonesia            v South Korea           4-2   @ Ipoh, Malaysia
+Sun Aug 18
+  Hong Kong            v Vietnam Republic      1-3   @ Kuala Lumpur, Malaysia
+  Malaysia             v Myanmar               1-1   @ Kuala Lumpur, Malaysia
+  Singapore            v Western Australia     4-4   @ Ipoh, Malaysia
+Mon Aug 19
+  India                v Thailand              0-1   @ Kuala Lumpur, Malaysia
+  Indonesia            v Taiwan                10-1   @ Kuala Lumpur, Malaysia
+Wed Aug 21
+  Myanmar              v Indonesia             2-1   @ Kuala Lumpur, Malaysia
+  South Korea          v Thailand              2-1   @ Kuala Lumpur, Malaysia
+Thu Aug 22
+  Malaysia             v Western Australia     4-3   @ Kuala Lumpur, Malaysia
+Sat Aug 24
+  India                v South Korea           0-1   @ Kuala Lumpur, Malaysia
+  Indonesia            v Western Australia     1-3   @ Kuala Lumpur, Malaysia
+Sun Aug 25
+  Malaysia             v Myanmar               3-0   @ Kuala Lumpur, Malaysia
 

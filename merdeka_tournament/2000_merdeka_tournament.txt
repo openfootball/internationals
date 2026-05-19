@@ -1,15 +1,15 @@
 = Merdeka Tournament 2000
 
-# Date       Sun Aug/13 - Sat Aug/19 2000 (6d)
+# Date       Sun Aug 13 - Sat Aug 19 2000 (6d)
 # Teams      3
 # Matches    4
 
-[Sun Aug 13]
-  Malaysia - New Zealand  0-0   @ Kuala Lumpur, Malaysia
-[Tue Aug 15]
-  Malaysia - Oman  2-0   @ Kuala Lumpur, Malaysia
-[Thu Aug 17]
-  New Zealand - Oman  1-0   @ Kuala Lumpur, Malaysia
-[Sat Aug 19]
-  Malaysia - New Zealand  0-2   @ Kuala Lumpur, Malaysia
+Sun Aug 13
+  Malaysia             v New Zealand           0-0   @ Kuala Lumpur, Malaysia
+Tue Aug 15
+  Malaysia             v Oman                  2-0   @ Kuala Lumpur, Malaysia
+Thu Aug 17
+  New Zealand          v Oman                  1-0   @ Kuala Lumpur, Malaysia
+Sat Aug 19
+  Malaysia             v New Zealand           0-2   @ Kuala Lumpur, Malaysia
 

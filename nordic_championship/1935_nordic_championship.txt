@@ -1,19 +1,19 @@
 = Nordic Championship 1935
 
-# Date       Wed Jun/12 - Sun Oct/6 1935 (116d)
+# Date       Wed Jun 12 - Sun Oct 6 1935 (116d)
 # Teams      4
 # Matches    6
 
-[Wed Jun 12]
-  Sweden - Finland  2-2   @ Stockholm, Sweden
-[Sun Jun 16]
-  Sweden - Denmark  3-1   @ Gothenburg, Sweden
-[Sun Jun 23]
-  Denmark - Norway  1-0   @ Copenhagen, Denmark
-[Sun Sep 8]
-  Finland - Norway  1-5   @ Helsinki, Finland
-[Sun Sep 22]
-  Norway - Sweden  0-2   @ Oslo, Norway
-[Sun Oct 6]
-  Denmark - Finland  5-1   @ Copenhagen, Denmark
+Wed Jun 12
+  Sweden               v Finland               2-2   @ Stockholm, Sweden
+Sun Jun 16
+  Sweden               v Denmark               3-1   @ Gothenburg, Sweden
+Sun Jun 23
+  Denmark              v Norway                1-0   @ Copenhagen, Denmark
+Sun Sep 8
+  Finland              v Norway                1-5   @ Helsinki, Finland
+Sun Sep 22
+  Norway               v Sweden                0-2   @ Oslo, Norway
+Sun Oct 6
+  Denmark              v Finland               5-1   @ Copenhagen, Denmark
 

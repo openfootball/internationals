@@ -1,13 +1,13 @@
 = Four Nations Tournament 1993
 
-# Date       Sat Feb/20 - Sun Feb/21 1993 (1d)
+# Date       Sat Feb 20 - Sun Feb 21 1993 (1d)
 # Teams      4
 # Matches    4
 
-[Sat Feb 20]
-  Finland - Estonia  0-0   @ Vantaa, Finland   [Finland wins on penalties]
-  Latvia - Lithuania  1-2   @ Vantaa, Finland
-[Sun Feb 21]
-  Estonia - Latvia  0-2   @ Vantaa, Finland
-  Finland - Lithuania  3-0   @ Vantaa, Finland
+Sat Feb 20
+  Finland              v Estonia               0-0   @ Vantaa, Finland   [Finland wins on penalties]
+  Latvia               v Lithuania             1-2   @ Vantaa, Finland
+Sun Feb 21
+  Estonia              v Latvia                0-2   @ Vantaa, Finland
+  Finland              v Lithuania             3-0   @ Vantaa, Finland
 

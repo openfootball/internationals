@@ -1,15 +1,15 @@
 = King's Cup 2005
 
-# Date       Sat Dec/24 - Fri Dec/30 2005 (6d)
+# Date       Sat Dec 24 - Fri Dec 30 2005 (6d)
 # Teams      3
 # Matches    4
 
-[Sat Dec 24]
-  Thailand - Latvia  1-1   @ Phang Nga, Thailand
-[Mon Dec 26]
-  North Korea - Latvia  1-1   @ Phuket, Thailand
-[Wed Dec 28]
-  Thailand - North Korea  0-2   @ Phuket, Thailand
-[Fri Dec 30]
-  Latvia - North Korea  2-1   @ Phuket, Thailand
+Sat Dec 24
+  Thailand             v Latvia                1-1   @ Phang Nga, Thailand
+Mon Dec 26
+  North Korea          v Latvia                1-1   @ Phuket, Thailand
+Wed Dec 28
+  Thailand             v North Korea           0-2   @ Phuket, Thailand
+Fri Dec 30
+  Latvia               v North Korea           2-1   @ Phuket, Thailand
 

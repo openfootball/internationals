@@ -1,67 +1,67 @@
 = African Cup of Nations 1976
 
-# Date       Sun Feb/29 - Sun Mar/14 1976 (14d)
+# Date       Sun Feb 29 - Sun Mar 14 1976 (14d)
 # Teams      8
 # Matches    18
 
-[Sun Feb 29]
-  Egypt - Guinea  1-1   @ Addis Ababa, Ethiopia
-     Taha Basry 43';
-     Bengally Sylla 44' (pen.)
-  Ethiopia - Uganda  2-0   @ Addis Ababa, Ethiopia
-     Solomon Sheferahu 2' Seyoum Tesfaye 83'
-[Mon Mar 1]
-  Morocco - Sudan  2-2   @ Dire Dawa, Ethiopia
-     Chérif Fetoui 1' Ahmed Abouali 58';
-     Ali Gagarin 9' Ali Gagarin 79' (pen.)
-  Nigeria - DR Congo  4-2   @ Dire Dawa, Ethiopia
-     Baba Otu Mohammed 28' Sam Ojebode 37' (pen.) Baba Otu Mohammed 44' Thompson Usiyan 90';
-     Kabasu Babo 51' Mbungu Ekofa 58'
-[Wed Mar 3]
-  Egypt - Uganda  2-1   @ Addis Ababa, Ethiopia
-     Moustafa Abdou 26' Taha Basry 32';
-     Denis Obua 21'
-  Ethiopia - Guinea  1-2   @ Addis Ababa, Ethiopia
-     Solomon Sheferahu 40';
-     Mamadou Aliou Keita 15' Petit Sory 85'
-[Thu Mar 4]
-  Morocco - DR Congo  1-0   @ Dire Dawa, Ethiopia
-     Abdelâali Zahraoui 80'
-  Nigeria - Sudan  1-0   @ Dire Dawa, Ethiopia
-     Thompson Usiyan 8'
-[Fri Mar 5]
-  Ethiopia - Egypt  1-1   @ Addis Ababa, Ethiopia
-     Mohamed Ali 46';
-     Hassan Shehata 26'
-  Guinea - Uganda  2-1   @ Addis Ababa, Ethiopia
-     Mamadou Aliou Keita 2' Bengally Sylla 20';
-     Jimmy Muguwa 85'
-[Sat Mar 6]
-  Morocco - Nigeria  3-1   @ Dire Dawa, Ethiopia
-     Ahmed Faras 8' Abdellah Tazi 19' Larbi Chebbak 81';
-     Sam Ojebode 81'
-  Sudan - DR Congo  1-1   @ Dire Dawa, Ethiopia
-     Ali Gagarin 14';
-     Ndaye Mulamba 41'
-[Tue Mar 9]
-  Egypt - Morocco  1-2   @ Addis Ababa, Ethiopia
-     Ahmed Abou Rehab 34';
-     Ahmed Faras 23' Abdelâali Zahraoui 88'
-  Guinea - Nigeria  1-1   @ Addis Ababa, Ethiopia
-     Papa Camara 88';
-     Mudashiru Lawal 55'
-[Thu Mar 11]
-  Egypt - Guinea  2-4   @ Addis Ababa, Ethiopia
-     Moustafa Abdou 33' Mohamed El-Seyagui 86';
-     Mamadou Aliou Keita 24' Ghanem Sultan 53' (o.g.) Morciré Sylla 62' Mamadou Aliou Keita 65'
-  Morocco - Nigeria  2-1   @ Addis Ababa, Ethiopia
-     Ahmed Faras 82' Redouane Guezzar 87';
-     Baba Otu Mohammed 57'
-[Sun Mar 14]
-  Egypt - Nigeria  2-3   @ Addis Ababa, Ethiopia
-     Mahmoud El Khatib 7' Ossama Khalil 86';
-     Haruna Ilerika 35' Haruna Ilerika 62' Mudashiru Lawal 82'
-  Guinea - Morocco  1-1   @ Addis Ababa, Ethiopia
-     Chérif Souleymane 33';
-     Ahmed Makrouh 86'
+Sun Feb 29
+  Egypt                v Guinea                1-1   @ Addis Ababa, Ethiopia
+     (Taha Basry 43';
+      Bengally Sylla 44'(p))
+  Ethiopia             v Uganda                2-0   @ Addis Ababa, Ethiopia
+     (Solomon Sheferahu 2' Seyoum Tesfaye 83')
+Mon Mar 1
+  Morocco              v Sudan                 2-2   @ Dire Dawa, Ethiopia
+     (Chérif Fetoui 1' Ahmed Abouali 58';
+      Ali Gagarin 9' Ali Gagarin 79'(p))
+  Nigeria              v DR Congo              4-2   @ Dire Dawa, Ethiopia
+     (Baba Otu Mohammed 28' Sam Ojebode 37'(p) Baba Otu Mohammed 44' Thompson Usiyan 90';
+      Kabasu Babo 51' Mbungu Ekofa 58')
+Wed Mar 3
+  Egypt                v Uganda                2-1   @ Addis Ababa, Ethiopia
+     (Moustafa Abdou 26' Taha Basry 32';
+      Denis Obua 21')
+  Ethiopia             v Guinea                1-2   @ Addis Ababa, Ethiopia
+     (Solomon Sheferahu 40';
+      Mamadou Aliou Keita 15' Petit Sory 85')
+Thu Mar 4
+  Morocco              v DR Congo              1-0   @ Dire Dawa, Ethiopia
+     (Abdelâali Zahraoui 80')
+  Nigeria              v Sudan                 1-0   @ Dire Dawa, Ethiopia
+     (Thompson Usiyan 8')
+Fri Mar 5
+  Ethiopia             v Egypt                 1-1   @ Addis Ababa, Ethiopia
+     (Mohamed Ali 46';
+      Hassan Shehata 26')
+  Guinea               v Uganda                2-1   @ Addis Ababa, Ethiopia
+     (Mamadou Aliou Keita 2' Bengally Sylla 20';
+      Jimmy Muguwa 85')
+Sat Mar 6
+  Morocco              v Nigeria               3-1   @ Dire Dawa, Ethiopia
+     (Ahmed Faras 8' Abdellah Tazi 19' Larbi Chebbak 81';
+      Sam Ojebode 81')
+  Sudan                v DR Congo              1-1   @ Dire Dawa, Ethiopia
+     (Ali Gagarin 14';
+      Ndaye Mulamba 41')
+Tue Mar 9
+  Egypt                v Morocco               1-2   @ Addis Ababa, Ethiopia
+     (Ahmed Abou Rehab 34';
+      Ahmed Faras 23' Abdelâali Zahraoui 88')
+  Guinea               v Nigeria               1-1   @ Addis Ababa, Ethiopia
+     (Papa Camara 88';
+      Mudashiru Lawal 55')
+Thu Mar 11
+  Egypt                v Guinea                2-4   @ Addis Ababa, Ethiopia
+     (Moustafa Abdou 33' Mohamed El-Seyagui 86';
+      Mamadou Aliou Keita 24' Ghanem Sultan 53'(og) Morciré Sylla 62' Mamadou Aliou Keita 65')
+  Morocco              v Nigeria               2-1   @ Addis Ababa, Ethiopia
+     (Ahmed Faras 82' Redouane Guezzar 87';
+      Baba Otu Mohammed 57')
+Sun Mar 14
+  Egypt                v Nigeria               2-3   @ Addis Ababa, Ethiopia
+     (Mahmoud El Khatib 7' Ossama Khalil 86';
+      Haruna Ilerika 35' Haruna Ilerika 62' Mudashiru Lawal 82')
+  Guinea               v Morocco               1-1   @ Addis Ababa, Ethiopia
+     (Chérif Souleymane 33';
+      Ahmed Makrouh 86')
 

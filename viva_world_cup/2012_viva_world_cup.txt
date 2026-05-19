@@ -1,31 +1,31 @@
 = Viva World Cup 2012
 
-# Date       Mon Jun/4 - Sat Jun/9 2012 (5d)
+# Date       Mon Jun 4 - Sat Jun 9 2012 (5d)
 # Teams      9
 # Matches    18
 
-[Mon Jun 4]
-  Iraqi Kurdistan - Western Sahara  6-0   @ Erbil, Iraq
-  Zanzibar - Raetia  6-0   @ Erbil, Iraq
-  Northern Cyprus - Darfur  15-0   @ Erbil, Iraq
-[Tue Jun 5]
-  Western Sahara - Occitania  2-6   @ Salahaddin, Iraq
-  Raetia - Tamil Eelam  1-0   @ Erbil, Iraq
-  Darfur - Provence  0-18   @ Erbil, Iraq
-[Wed Jun 6]
-  Iraqi Kurdistan - Occitania  1-0   @ Sulaymaniyah, Iraq
-  Tamil Eelam - Zanzibar  0-3   @ Erbil, Iraq
-  Provence - Northern Cyprus  2-1   @ Erbil, Iraq
-[Thu Jun 7]
-  Western Sahara - Darfur  5-1   @ Erbil, Iraq
-  Occitania - Tamil Eelam  7-0   @ Erbil, Iraq
-[Fri Jun 8]
-  Western Sahara - Raetia  3-0   @ Erbil, Iraq
-  Iraqi Kurdistan - Provence  2-1   @ Duhok, Iraq
-  Zanzibar - Northern Cyprus  0-2   @ Duhok, Iraq
-[Sat Jun 9]
-  Tamil Eelam - Raetia  4-0   @ Erbil, Iraq
-  Occitania - Western Sahara  3-1   @ Salahaddin, Iraq
-  Provence - Zanzibar  2-7   @ Erbil, Iraq
-  Iraqi Kurdistan - Northern Cyprus  2-1   @ Erbil, Iraq
+Mon Jun 4
+  Iraqi Kurdistan      v Western Sahara        6-0   @ Erbil, Iraq
+  Zanzibar             v Raetia                6-0   @ Erbil, Iraq
+  Northern Cyprus      v Darfur                15-0   @ Erbil, Iraq
+Tue Jun 5
+  Western Sahara       v Occitania             2-6   @ Salahaddin, Iraq
+  Raetia               v Tamil Eelam           1-0   @ Erbil, Iraq
+  Darfur               v Provence              0-18   @ Erbil, Iraq
+Wed Jun 6
+  Iraqi Kurdistan      v Occitania             1-0   @ Sulaymaniyah, Iraq
+  Tamil Eelam          v Zanzibar              0-3   @ Erbil, Iraq
+  Provence             v Northern Cyprus       2-1   @ Erbil, Iraq
+Thu Jun 7
+  Western Sahara       v Darfur                5-1   @ Erbil, Iraq
+  Occitania            v Tamil Eelam           7-0   @ Erbil, Iraq
+Fri Jun 8
+  Western Sahara       v Raetia                3-0   @ Erbil, Iraq
+  Iraqi Kurdistan      v Provence              2-1   @ Duhok, Iraq
+  Zanzibar             v Northern Cyprus       0-2   @ Duhok, Iraq
+Sat Jun 9
+  Tamil Eelam          v Raetia                4-0   @ Erbil, Iraq
+  Occitania            v Western Sahara        3-1   @ Salahaddin, Iraq
+  Provence             v Zanzibar              2-7   @ Erbil, Iraq
+  Iraqi Kurdistan      v Northern Cyprus       2-1   @ Erbil, Iraq
 

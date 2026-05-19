@@ -1,19 +1,19 @@
 = British Home Championship 1901
 
-# Date       Sat Feb/23 - Sat Mar/30 1901 (35d)
+# Date       Sat Feb 23 - Sat Mar 30 1901 (35d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 23]
-  Scotland - Northern Ireland  11-0   @ Glasgow, Scotland
-[Sat Mar 2]
-  Wales - Scotland  1-1   @ Wrexham, Wales
-[Sat Mar 9]
-  England - Northern Ireland  3-0   @ Southampton, England
-[Mon Mar 18]
-  England - Wales  6-0   @ Newcastle, England
-[Sat Mar 23]
-  Northern Ireland - Wales  0-1   @ Belfast, Ireland
-[Sat Mar 30]
-  England - Scotland  2-2   @ London, England
+Sat Feb 23
+  Scotland             v Northern Ireland      11-0   @ Glasgow, Scotland
+Sat Mar 2
+  Wales                v Scotland              1-1   @ Wrexham, Wales
+Sat Mar 9
+  England              v Northern Ireland      3-0   @ Southampton, England
+Mon Mar 18
+  England              v Wales                 6-0   @ Newcastle, England
+Sat Mar 23
+  Northern Ireland     v Wales                 0-1   @ Belfast, Ireland
+Sat Mar 30
+  England              v Scotland              2-2   @ London, England
 

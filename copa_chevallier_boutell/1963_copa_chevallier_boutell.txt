@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1963
 
-# Date       Tue Oct/15 - Tue Oct/29 1963 (14d)
+# Date       Tue Oct 15 - Tue Oct 29 1963 (14d)
 # Teams      2
 # Matches    2
 
-[Tue Oct 15]
-  Paraguay - Argentina  0-4   @ Asunción, Paraguay
-[Tue Oct 29]
-  Argentina - Paraguay  2-3   @ Buenos Aires, Argentina
+Tue Oct 15
+  Paraguay             v Argentina             0-4   @ Asunción, Paraguay
+Tue Oct 29
+  Argentina            v Paraguay              2-3   @ Buenos Aires, Argentina
 

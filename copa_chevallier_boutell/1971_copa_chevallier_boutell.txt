@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1971
 
-# Date       Sun Jul/4 - Fri Jul/9 1971 (5d)
+# Date       Sun Jul 4 - Fri Jul 9 1971 (5d)
 # Teams      2
 # Matches    2
 
-[Sun Jul 4]
-  Paraguay - Argentina  1-1   @ Asunción, Paraguay
-[Fri Jul 9]
-  Argentina - Paraguay  1-0   @ Rosario, Argentina
+Sun Jul 4
+  Paraguay             v Argentina             1-1   @ Asunción, Paraguay
+Fri Jul 9
+  Argentina            v Paraguay              1-0   @ Rosario, Argentina
 

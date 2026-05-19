@@ -1,11 +1,11 @@
 = Copa Ramón Castilla 1978
 
-# Date       Sun Mar/19 - Thu Mar/23 1978 (4d)
+# Date       Sun Mar 19 - Thu Mar 23 1978 (4d)
 # Teams      2
 # Matches    2
 
-[Sun Mar 19]
-  Argentina - Peru  2-1   @ Buenos Aires, Argentina
-[Thu Mar 23]
-  Peru - Argentina  1-3   @ Lima, Peru
+Sun Mar 19
+  Argentina            v Peru                  2-1   @ Buenos Aires, Argentina
+Thu Mar 23
+  Peru                 v Argentina             1-3   @ Lima, Peru
 

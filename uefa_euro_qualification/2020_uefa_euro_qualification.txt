@@ -1,39 +1,39 @@
 = UEFA Euro qualification 2020
 
-# Date       Thu Oct/8 - Thu Nov/12 2020 (35d)
+# Date       Thu Oct 8 - Thu Nov 12 2020 (35d)
 # Teams      16
 # Matches    12
 
-[Thu Oct 8]
-  Iceland - Romania  2-1   @ Reykjavík, Iceland
-     Gylfi Sigurðsson 16' Gylfi Sigurðsson 34';
-     Alexandru Maxim 63' (pen.)
-  Bulgaria - Hungary  1-3   @ Sofia, Bulgaria
-     Georgi Yomov 89';
-     Willi Orbán 17' Zsolt Kalmár 47' Nemanja Nikolić 75'
-  Bosnia and Herzegovina - Northern Ireland  1-1   @ Sarajevo, Bosnia and Herzegovina   [Northern Ireland wins on penalties]
-     Rade Krunić 14';
-     Niall McGinn 53'
-  Slovakia - Republic of Ireland  0-0   @ Bratislava, Slovakia   [Slovakia wins on penalties]
-  Scotland - Israel  0-0   @ Glasgow, Scotland   [Scotland wins on penalties]
-  Norway - Serbia  1-2   @ Oslo, Norway
-     Mathias Normann 88';
-     Sergej Milinković-Savić 82' Sergej Milinković-Savić 102'
-  Georgia - Belarus  1-0   @ Tbilisi, Georgia
-     Tornike Okriashvili 7' (pen.)
-  North Macedonia - Kosovo  2-1   @ Skopje, North Macedonia
-     Benjamin Kololli 16' (o.g.) Darko Velkovski 33';
-     Florent Hadergjonaj 29'
-[Thu Nov 12]
-  Hungary - Iceland  2-1   @ Budapest, Hungary
-     Loïc Négo 88' Dominik Szoboszlai 90';
-     Gylfi Sigurðsson 11'
-  Northern Ireland - Slovakia  1-2   @ Belfast, Northern Ireland
-     Milan Škriniar 88' (o.g.);
-     Juraj Kucka 17' Michal Ďuriš 110'
-  Serbia - Scotland  1-1   @ Belgrade, Serbia   [Scotland wins on penalties]
-     Luka Jović 90';
-     Ryan Christie 52'
-  Georgia - North Macedonia  0-1   @ Tbilisi, Georgia
-     -; Goran Pandev 56'
+Thu Oct 8
+  Iceland              v Romania               2-1   @ Reykjavík, Iceland
+     (Gylfi Sigurðsson 16' Gylfi Sigurðsson 34';
+      Alexandru Maxim 63'(p))
+  Bulgaria             v Hungary               1-3   @ Sofia, Bulgaria
+     (Georgi Yomov 89';
+      Willi Orbán 17' Zsolt Kalmár 47' Nemanja Nikolić 75')
+  Bosnia and Herzegovina v Northern Ireland      1-1   @ Sarajevo, Bosnia and Herzegovina   [Northern Ireland wins on penalties]
+     (Rade Krunić 14';
+      Niall McGinn 53')
+  Slovakia             v Republic of Ireland   0-0   @ Bratislava, Slovakia   [Slovakia wins on penalties]
+  Scotland             v Israel                0-0   @ Glasgow, Scotland   [Scotland wins on penalties]
+  Norway               v Serbia                1-2   @ Oslo, Norway
+     (Mathias Normann 88';
+      Sergej Milinković-Savić 82' Sergej Milinković-Savić 102')
+  Georgia              v Belarus               1-0   @ Tbilisi, Georgia
+     (Tornike Okriashvili 7'(p))
+  North Macedonia      v Kosovo                2-1   @ Skopje, North Macedonia
+     (Benjamin Kololli 16'(og) Darko Velkovski 33';
+      Florent Hadergjonaj 29')
+Thu Nov 12
+  Hungary              v Iceland               2-1   @ Budapest, Hungary
+     (Loïc Négo 88' Dominik Szoboszlai 90';
+      Gylfi Sigurðsson 11')
+  Northern Ireland     v Slovakia              1-2   @ Belfast, Northern Ireland
+     (Milan Škriniar 88'(og);
+      Juraj Kucka 17' Michal Ďuriš 110')
+  Serbia               v Scotland              1-1   @ Belgrade, Serbia   [Scotland wins on penalties]
+     (Luka Jović 90';
+      Ryan Christie 52')
+  Georgia              v North Macedonia       0-1   @ Tbilisi, Georgia
+     (Goran Pandev 56')
 

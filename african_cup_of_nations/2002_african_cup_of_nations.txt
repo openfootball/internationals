@@ -1,85 +1,85 @@
 = African Cup of Nations 2002
 
-# Date       Sat Jan/19 - Sun Feb/10 2002 (22d)
+# Date       Sat Jan 19 - Sun Feb 10 2002 (22d)
 # Teams      16
 # Matches    32
 
-[Sat Jan 19]
-  Mali - Liberia  1-1   @ Bamako, Mali
-     Seydou Keita 87';
-     George Weah 45'
-[Sun Jan 20]
-  Cameroon - DR Congo  1-0   @ Sikasso, Mali
-     Patrick M'Boma 40'
-  Egypt - Senegal  0-1   @ Bamako, Mali
-     -; Lamine Diatta 82'
-  South Africa - Burkina Faso  0-0   @ Ségou, Mali
-[Mon Jan 21]
-  Algeria - Nigeria  0-1   @ Bamako, Mali
-     -; Julius Aghahowa 43'
-  Morocco - Ghana  0-0   @ Ségou, Mali
-  Togo - Ivory Coast  0-0   @ Sikasso, Mali
-  Zambia - Tunisia  0-0   @ Bamako, Mali
-[Thu Jan 24]
-  Mali - Nigeria  0-0   @ Bamako, Mali
-  South Africa - Ghana  0-0   @ Ségou, Mali
-[Fri Jan 25]
-  Cameroon - Ivory Coast  1-0   @ Sikasso, Mali
-     Patrick M'Boma 85'
-  Egypt - Tunisia  1-0   @ Bamako, Mali
-     Hazem Emam 23'
-  Liberia - Algeria  2-2   @ Bamako, Mali
-     Prince Akim Daye 7' Kelvin Sebwe 72';
-     Nassim Akrour 45' Nasreddine Kraouche 90'
-[Sat Jan 26]
-  Burkina Faso - Morocco  1-2   @ Ségou, Mali
-     Moumouni Dagano 58';
-     Hicham Zerouali 23' Hicham Zerouali 85'
-  DR Congo - Togo  0-0   @ Sikasso, Mali
-  Senegal - Zambia  1-0   @ Bamako, Mali
-     Souleymane Camara 90'
-[Mon Jan 28]
-  Liberia - Nigeria  0-1   @ Mopti, Mali
-     -; Julius Aghahowa 63'
-  Mali - Algeria  2-0   @ Bamako, Mali
-     Mamadou Bagayoko 18' Bassala Touré 24'
-[Tue Jan 29]
-  Cameroon - Togo  3-0   @ Sikasso, Mali
-     Lucien Mettomo 52' Samuel Eto'o 80' Salomon Olembé 89'
-  DR Congo - Ivory Coast  3-1   @ Kayes, Mali
-     Yves Yuvuladio 28' Shabani Nonda 66' Papi Kimoto 81' (pen.);
-     Kandia Traoré 86'
-[Wed Jan 30]
-  Burkina Faso - Ghana  1-2   @ Mopti, Mali
-     Koh Traoré 81';
-     Isaac Boakye 90' Isaac Boakye 90'
-  South Africa - Morocco  3-1   @ Ségou, Mali
-     Sibusiso Zuma 42' Thabo Mngomeni 48' Siyabonga Nomvethe 51';
-     Rachid Benmahmoud 77' (pen.)
-[Thu Jan 31]
-  Egypt - Zambia  2-1   @ Bamako, Mali
-     Mido 35' Hazem Emam 53';
-     Gift Kampamba 89'
-  Senegal - Tunisia  0-0   @ Kayes, Mali
-[Sun Feb 3]
-  Mali - South Africa  2-0   @ Kayes, Mali
-     Bassala Touré 60' Dramane Coulibaly 90'
-  Nigeria - Ghana  1-0   @ Bamako, Mali
-     Garba Lawal 80'
-[Mon Feb 4]
-  Cameroon - Egypt  1-0   @ Sikasso, Mali
-     Patrick M'Boma 62'
-  Senegal - DR Congo  2-0   @ Bamako, Mali
-     Salif Diao 30' El Hadji Diouf 86'
-[Thu Feb 7]
-  Mali - Cameroon  0-3   @ Bamako, Mali
-     -; Salomon Olembé 39' Salomon Olembé 45' Marc-Vivien Foé 84'
-  Nigeria - Senegal  1-2   @ Bamako, Mali
-     Julius Aghahowa 88';
-     Papa Bouba Diop 54' Salif Diao 97'
-[Sat Feb 9]
-  Mali - Nigeria  0-1   @ Mopti, Mali
-     -; Yakubu 29'
-[Sun Feb 10]
-  Senegal - Cameroon  0-0   @ Bamako, Mali   [Cameroon wins on penalties]
+Sat Jan 19
+  Mali                 v Liberia               1-1   @ Bamako, Mali
+     (Seydou Keita 87';
+      George Weah 45')
+Sun Jan 20
+  Cameroon             v DR Congo              1-0   @ Sikasso, Mali
+     (Patrick M'Boma 40')
+  Egypt                v Senegal               0-1   @ Bamako, Mali
+     (Lamine Diatta 82')
+  South Africa         v Burkina Faso          0-0   @ Ségou, Mali
+Mon Jan 21
+  Algeria              v Nigeria               0-1   @ Bamako, Mali
+     (Julius Aghahowa 43')
+  Morocco              v Ghana                 0-0   @ Ségou, Mali
+  Togo                 v Ivory Coast           0-0   @ Sikasso, Mali
+  Zambia               v Tunisia               0-0   @ Bamako, Mali
+Thu Jan 24
+  Mali                 v Nigeria               0-0   @ Bamako, Mali
+  South Africa         v Ghana                 0-0   @ Ségou, Mali
+Fri Jan 25
+  Cameroon             v Ivory Coast           1-0   @ Sikasso, Mali
+     (Patrick M'Boma 85')
+  Egypt                v Tunisia               1-0   @ Bamako, Mali
+     (Hazem Emam 23')
+  Liberia              v Algeria               2-2   @ Bamako, Mali
+     (Prince Akim Daye 7' Kelvin Sebwe 72';
+      Nassim Akrour 45' Nasreddine Kraouche 90')
+Sat Jan 26
+  Burkina Faso         v Morocco               1-2   @ Ségou, Mali
+     (Moumouni Dagano 58';
+      Hicham Zerouali 23' Hicham Zerouali 85')
+  DR Congo             v Togo                  0-0   @ Sikasso, Mali
+  Senegal              v Zambia                1-0   @ Bamako, Mali
+     (Souleymane Camara 90')
+Mon Jan 28
+  Liberia              v Nigeria               0-1   @ Mopti, Mali
+     (Julius Aghahowa 63')
+  Mali                 v Algeria               2-0   @ Bamako, Mali
+     (Mamadou Bagayoko 18' Bassala Touré 24')
+Tue Jan 29
+  Cameroon             v Togo                  3-0   @ Sikasso, Mali
+     (Lucien Mettomo 52' Samuel Eto'o 80' Salomon Olembé 89')
+  DR Congo             v Ivory Coast           3-1   @ Kayes, Mali
+     (Yves Yuvuladio 28' Shabani Nonda 66' Papi Kimoto 81'(p);
+      Kandia Traoré 86')
+Wed Jan 30
+  Burkina Faso         v Ghana                 1-2   @ Mopti, Mali
+     (Koh Traoré 81';
+      Isaac Boakye 90' Isaac Boakye 90')
+  South Africa         v Morocco               3-1   @ Ségou, Mali
+     (Sibusiso Zuma 42' Thabo Mngomeni 48' Siyabonga Nomvethe 51';
+      Rachid Benmahmoud 77'(p))
+Thu Jan 31
+  Egypt                v Zambia                2-1   @ Bamako, Mali
+     (Mido 35' Hazem Emam 53';
+      Gift Kampamba 89')
+  Senegal              v Tunisia               0-0   @ Kayes, Mali
+Sun Feb 3
+  Mali                 v South Africa          2-0   @ Kayes, Mali
+     (Bassala Touré 60' Dramane Coulibaly 90')
+  Nigeria              v Ghana                 1-0   @ Bamako, Mali
+     (Garba Lawal 80')
+Mon Feb 4
+  Cameroon             v Egypt                 1-0   @ Sikasso, Mali
+     (Patrick M'Boma 62')
+  Senegal              v DR Congo              2-0   @ Bamako, Mali
+     (Salif Diao 30' El Hadji Diouf 86')
+Thu Feb 7
+  Mali                 v Cameroon              0-3   @ Bamako, Mali
+     (Salomon Olembé 39' Salomon Olembé 45' Marc-Vivien Foé 84')
+  Nigeria              v Senegal               1-2   @ Bamako, Mali
+     (Julius Aghahowa 88';
+      Papa Bouba Diop 54' Salif Diao 97')
+Sat Feb 9
+  Mali                 v Nigeria               0-1   @ Mopti, Mali
+     (Yakubu 29')
+Sun Feb 10
+  Senegal              v Cameroon              0-0   @ Bamako, Mali   [Cameroon wins on penalties]
 

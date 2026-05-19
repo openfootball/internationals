@@ -1,26 +1,26 @@
 = Korea Cup 1983
 
-# Date       Sat Jun/4 - Wed Jun/15 1983 (11d)
+# Date       Sat Jun 4 - Wed Jun 15 1983 (11d)
 # Teams      7
 # Matches    10
 
-[Sat Jun 4]
-  Nigeria - Thailand  0-0   @ Seoul, South Korea
-[Mon Jun 6]
-  South Korea - Thailand  4-0   @ Suwon, South Korea
-[Tue Jun 7]
-  Ghana - New Zealand  0-2   @ Seoul, South Korea
-[Wed Jun 8]
-  Indonesia - Thailand  0-3   @ Seoul, South Korea
-  South Korea - Nigeria  1-0   @ Seoul, South Korea
-[Thu Jun 9]
-  New Zealand - Sudan  1-1   @ Daegu, South Korea
-[Fri Jun 10]
-  Indonesia - Nigeria  1-2   @ Seoul, South Korea
-[Sun Jun 12]
-  South Korea - Indonesia  3-0   @ Jeonju, South Korea
-[Mon Jun 13]
-  Ghana - Sudan  3-1   @ Seoul, South Korea
-[Wed Jun 15]
-  South Korea - Ghana  1-0   @ Seoul, South Korea
+Sat Jun 4
+  Nigeria              v Thailand              0-0   @ Seoul, South Korea
+Mon Jun 6
+  South Korea          v Thailand              4-0   @ Suwon, South Korea
+Tue Jun 7
+  Ghana                v New Zealand           0-2   @ Seoul, South Korea
+Wed Jun 8
+  Indonesia            v Thailand              0-3   @ Seoul, South Korea
+  South Korea          v Nigeria               1-0   @ Seoul, South Korea
+Thu Jun 9
+  New Zealand          v Sudan                 1-1   @ Daegu, South Korea
+Fri Jun 10
+  Indonesia            v Nigeria               1-2   @ Seoul, South Korea
+Sun Jun 12
+  South Korea          v Indonesia             3-0   @ Jeonju, South Korea
+Mon Jun 13
+  Ghana                v Sudan                 3-1   @ Seoul, South Korea
+Wed Jun 15
+  South Korea          v Ghana                 1-0   @ Seoul, South Korea
 

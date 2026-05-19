@@ -1,28 +1,28 @@
 = UNCAF Cup 2001
 
-# Date       Wed May/23 - Sun Jun/3 2001 (11d)
+# Date       Wed May 23 - Sun Jun 3 2001 (11d)
 # Teams      7
 # Matches    15
 
-[Wed May 23]
-  Costa Rica - Belize  4-0   @ San Pedro Sula, Honduras
-  El Salvador - Nicaragua  3-0   @ Puerto Cortés, Honduras
-  Honduras - Panama  1-2   @ San Pedro Sula, Honduras
-[Fri May 25]
-  El Salvador - Panama  2-1   @ Tegucigalpa, Honduras
-  Guatemala - Belize  3-3   @ Puerto Cortés, Honduras
-  Honduras - Nicaragua  10-2   @ Tegucigalpa, Honduras
-[Sun May 27]
-  Costa Rica - Guatemala  1-1   @ San Pedro Sula, Honduras
-  Honduras - El Salvador  1-1   @ San Pedro Sula, Honduras
-  Panama - Nicaragua  6-0   @ Puerto Cortés, Honduras
-[Wed May 30]
-  El Salvador - Guatemala  0-0   @ San Pedro Sula, Honduras
-  Panama - Costa Rica  1-2   @ San Pedro Sula, Honduras
-[Fri Jun 1]
-  El Salvador - Panama  1-1   @ Tegucigalpa, Honduras
-  Guatemala - Costa Rica  2-0   @ Tegucigalpa, Honduras
-[Sun Jun 3]
-  Costa Rica - El Salvador  1-1   @ San Pedro Sula, Honduras
-  Guatemala - Panama  3-1   @ San Pedro Sula, Honduras
+Wed May 23
+  Costa Rica           v Belize                4-0   @ San Pedro Sula, Honduras
+  El Salvador          v Nicaragua             3-0   @ Puerto Cortés, Honduras
+  Honduras             v Panama                1-2   @ San Pedro Sula, Honduras
+Fri May 25
+  El Salvador          v Panama                2-1   @ Tegucigalpa, Honduras
+  Guatemala            v Belize                3-3   @ Puerto Cortés, Honduras
+  Honduras             v Nicaragua             10-2   @ Tegucigalpa, Honduras
+Sun May 27
+  Costa Rica           v Guatemala             1-1   @ San Pedro Sula, Honduras
+  Honduras             v El Salvador           1-1   @ San Pedro Sula, Honduras
+  Panama               v Nicaragua             6-0   @ Puerto Cortés, Honduras
+Wed May 30
+  El Salvador          v Guatemala             0-0   @ San Pedro Sula, Honduras
+  Panama               v Costa Rica            1-2   @ San Pedro Sula, Honduras
+Fri Jun 1
+  El Salvador          v Panama                1-1   @ Tegucigalpa, Honduras
+  Guatemala            v Costa Rica            2-0   @ Tegucigalpa, Honduras
+Sun Jun 3
+  Costa Rica           v El Salvador           1-1   @ San Pedro Sula, Honduras
+  Guatemala            v Panama                3-1   @ San Pedro Sula, Honduras
 

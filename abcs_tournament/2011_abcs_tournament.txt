@@ -1,13 +1,13 @@
 = ABCS Tournament 2011
 
-# Date       Fri Dec/2 - Sun Dec/4 2011 (2d)
+# Date       Fri Dec 2 - Sun Dec 4 2011 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Dec 2]
-  Curaçao - Bonaire  1-3   @ Paramaribo, Suriname
-  Suriname - Aruba  0-0   @ Paramaribo, Suriname
-[Sun Dec 4]
-  Bonaire - Aruba  2-2   @ Paramaribo, Suriname
-  Suriname - Curaçao  2-0   @ Paramaribo, Suriname
+Fri Dec 2
+  Curaçao              v Bonaire               1-3   @ Paramaribo, Suriname
+  Suriname             v Aruba                 0-0   @ Paramaribo, Suriname
+Sun Dec 4
+  Bonaire              v Aruba                 2-2   @ Paramaribo, Suriname
+  Suriname             v Curaçao               2-0   @ Paramaribo, Suriname
 

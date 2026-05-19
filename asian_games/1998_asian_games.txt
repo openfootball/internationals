@@ -1,76 +1,76 @@
 = Asian Games 1998
 
-# Date       Mon Nov/30 - Sat Dec/19 1998 (19d)
+# Date       Mon Nov 30 - Sat Dec 19 1998 (19d)
 # Teams      23
 # Matches    54
 
-[Mon Nov 30]
-  Turkmenistan - Vietnam  2-0   @ Nakhon Sawan, Thailand
-  China PR - Lebanon  4-1   @ Surat Thani, Thailand
-  Hong Kong - Oman  0-6   @ Bangkok, Thailand
-[Tue Dec 1]
-  Nepal - Japan  0-5   @ Trang, Thailand
-  Tajikistan - Maldives  3-0   @ Suphan Buri, Thailand
-  Mongolia - Kuwait  0-11   @ Chiang Mai, Thailand
-  Kazakhstan - Iran  0-2   @ Sisaket, Thailand
-[Wed Dec 2]
-  South Korea - Turkmenistan  2-3   @ Nakhon Sawan, Thailand
-  Cambodia - China PR  1-4   @ Surat Thani, Thailand
-  United Arab Emirates - North Korea  3-3   @ Songkhla, Thailand   [United Arab Emirates wins on penalties]
-  Thailand - Hong Kong  5-0   @ Bangkok, Thailand
-[Thu Dec 3]
-  Japan - India  1-0   @ Trang, Thailand
-  Qatar - Tajikistan  2-1   @ Suphan Buri, Thailand
-  Uzbekistan - Kuwait  3-3   @ Chiang Mai, Thailand
-  Laos - Kazakhstan  0-5   @ Sisaket, Thailand
-[Fri Dec 4]
-  Vietnam - South Korea  0-4   @ Nakhon Sawan, Thailand
-  Lebanon - Cambodia  5-1   @ Surat Thani, Thailand
-  Thailand - Oman  2-0   @ Bangkok, Thailand
-[Sat Dec 5]
-  India - Nepal  1-0   @ Trang, Thailand
-  Maldives - Qatar  0-4   @ Suphan Buri, Thailand
-  Mongolia - Uzbekistan  0-15   @ Chiang Mai, Thailand
-  Iran - Laos  6-1   @ Sisaket, Thailand
-[Mon Dec 7]
-  Turkmenistan - India  3-2   @ Bangkok, Thailand
-  North Korea - Uzbekistan  0-4   @ Bangkok, Thailand
-  Japan - South Korea  0-2   @ Bangkok, Thailand
-  United Arab Emirates - Kuwait  0-5   @ Bangkok, Thailand
-[Tue Dec 8]
-  China PR - Tajikistan  3-1   @ Bangkok, Thailand
-  Iran - Oman  2-4   @ Bangkok, Thailand
-  Qatar - Lebanon  1-0   @ Bangkok, Thailand
-  Thailand - Kazakhstan  1-1   @ Bangkok, Thailand
-[Wed Dec 9]
-  North Korea - Turkmenistan  1-1   @ Bangkok, Thailand
-  India - Uzbekistan  0-2   @ Bangkok, Thailand
-  United Arab Emirates - South Korea  1-2   @ Bangkok, Thailand
-  Japan - Kuwait  2-1   @ Bangkok, Thailand
-[Thu Dec 10]
-  Tajikistan - Iran  0-5   @ Bangkok, Thailand
-  Oman - China PR  1-6   @ Bangkok, Thailand
-  Qatar - Kazakhstan  0-2   @ Bangkok, Thailand
-  Thailand - Lebanon  1-0   @ Bangkok, Thailand
-[Fri Dec 11]
-  India - North Korea  0-2   @ Bangkok, Thailand
-  Uzbekistan - Turkmenistan  1-1   @ Bangkok, Thailand
-  Japan - United Arab Emirates  0-1   @ Bangkok, Thailand
-  South Korea - Kuwait  1-0   @ Bangkok, Thailand
-[Sat Dec 12]
-  Iran - China PR  2-1   @ Bangkok, Thailand
-  Tajikistan - Oman  3-3   @ Bangkok, Thailand
-  Kazakhstan - Lebanon  0-3   @ Bangkok, Thailand
-  Thailand - Qatar  1-2   @ Bangkok, Thailand
-[Mon Dec 14]
-  Uzbekistan - Iran  0-4   @ Bangkok, Thailand
-  Thailand - South Korea  2-1   @ Bangkok, Thailand
-  Turkmenistan - China PR  0-3   @ Bangkok, Thailand
-  Qatar - Kuwait  0-0   @ Bangkok, Thailand   [Kuwait wins on penalties]
-[Wed Dec 16]
-  Iran - China PR  1-0   @ Bangkok, Thailand
-  Thailand - Kuwait  0-3   @ Bangkok, Thailand
-[Sat Dec 19]
-  Thailand - China PR  0-3   @ Songkhla, Thailand
-  Iran - Kuwait  2-0   @ Bangkok, Thailand
+Mon Nov 30
+  Turkmenistan         v Vietnam               2-0   @ Nakhon Sawan, Thailand
+  China PR             v Lebanon               4-1   @ Surat Thani, Thailand
+  Hong Kong            v Oman                  0-6   @ Bangkok, Thailand
+Tue Dec 1
+  Nepal                v Japan                 0-5   @ Trang, Thailand
+  Tajikistan           v Maldives              3-0   @ Suphan Buri, Thailand
+  Mongolia             v Kuwait                0-11   @ Chiang Mai, Thailand
+  Kazakhstan           v Iran                  0-2   @ Sisaket, Thailand
+Wed Dec 2
+  South Korea          v Turkmenistan          2-3   @ Nakhon Sawan, Thailand
+  Cambodia             v China PR              1-4   @ Surat Thani, Thailand
+  United Arab Emirates v North Korea           3-3   @ Songkhla, Thailand   [United Arab Emirates wins on penalties]
+  Thailand             v Hong Kong             5-0   @ Bangkok, Thailand
+Thu Dec 3
+  Japan                v India                 1-0   @ Trang, Thailand
+  Qatar                v Tajikistan            2-1   @ Suphan Buri, Thailand
+  Uzbekistan           v Kuwait                3-3   @ Chiang Mai, Thailand
+  Laos                 v Kazakhstan            0-5   @ Sisaket, Thailand
+Fri Dec 4
+  Vietnam              v South Korea           0-4   @ Nakhon Sawan, Thailand
+  Lebanon              v Cambodia              5-1   @ Surat Thani, Thailand
+  Thailand             v Oman                  2-0   @ Bangkok, Thailand
+Sat Dec 5
+  India                v Nepal                 1-0   @ Trang, Thailand
+  Maldives             v Qatar                 0-4   @ Suphan Buri, Thailand
+  Mongolia             v Uzbekistan            0-15   @ Chiang Mai, Thailand
+  Iran                 v Laos                  6-1   @ Sisaket, Thailand
+Mon Dec 7
+  Turkmenistan         v India                 3-2   @ Bangkok, Thailand
+  North Korea          v Uzbekistan            0-4   @ Bangkok, Thailand
+  Japan                v South Korea           0-2   @ Bangkok, Thailand
+  United Arab Emirates v Kuwait                0-5   @ Bangkok, Thailand
+Tue Dec 8
+  China PR             v Tajikistan            3-1   @ Bangkok, Thailand
+  Iran                 v Oman                  2-4   @ Bangkok, Thailand
+  Qatar                v Lebanon               1-0   @ Bangkok, Thailand
+  Thailand             v Kazakhstan            1-1   @ Bangkok, Thailand
+Wed Dec 9
+  North Korea          v Turkmenistan          1-1   @ Bangkok, Thailand
+  India                v Uzbekistan            0-2   @ Bangkok, Thailand
+  United Arab Emirates v South Korea           1-2   @ Bangkok, Thailand
+  Japan                v Kuwait                2-1   @ Bangkok, Thailand
+Thu Dec 10
+  Tajikistan           v Iran                  0-5   @ Bangkok, Thailand
+  Oman                 v China PR              1-6   @ Bangkok, Thailand
+  Qatar                v Kazakhstan            0-2   @ Bangkok, Thailand
+  Thailand             v Lebanon               1-0   @ Bangkok, Thailand
+Fri Dec 11
+  India                v North Korea           0-2   @ Bangkok, Thailand
+  Uzbekistan           v Turkmenistan          1-1   @ Bangkok, Thailand
+  Japan                v United Arab Emirates  0-1   @ Bangkok, Thailand
+  South Korea          v Kuwait                1-0   @ Bangkok, Thailand
+Sat Dec 12
+  Iran                 v China PR              2-1   @ Bangkok, Thailand
+  Tajikistan           v Oman                  3-3   @ Bangkok, Thailand
+  Kazakhstan           v Lebanon               0-3   @ Bangkok, Thailand
+  Thailand             v Qatar                 1-2   @ Bangkok, Thailand
+Mon Dec 14
+  Uzbekistan           v Iran                  0-4   @ Bangkok, Thailand
+  Thailand             v South Korea           2-1   @ Bangkok, Thailand
+  Turkmenistan         v China PR              0-3   @ Bangkok, Thailand
+  Qatar                v Kuwait                0-0   @ Bangkok, Thailand   [Kuwait wins on penalties]
+Wed Dec 16
+  Iran                 v China PR              1-0   @ Bangkok, Thailand
+  Thailand             v Kuwait                0-3   @ Bangkok, Thailand
+Sat Dec 19
+  Thailand             v China PR              0-3   @ Songkhla, Thailand
+  Iran                 v Kuwait                2-0   @ Bangkok, Thailand
 

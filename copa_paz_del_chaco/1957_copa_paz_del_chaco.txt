@@ -1,15 +1,15 @@
 = Copa Paz del Chaco 1957
 
-# Date       Thu Jun/6 - Wed Aug/21 1957 (76d)
+# Date       Thu Jun 6 - Wed Aug 21 1957 (76d)
 # Teams      2
 # Matches    4
 
-[Thu Jun 6]
-  Paraguay - Bolivia  5-2   @ Asunción, Paraguay
-[Thu Jun 13]
-  Paraguay - Bolivia  0-1   @ Asunción, Paraguay
-[Sun Aug 18]
-  Bolivia - Paraguay  3-3   @ La Paz, Bolivia
-[Wed Aug 21]
-  Bolivia - Paraguay  2-1   @ La Paz, Bolivia
+Thu Jun 6
+  Paraguay             v Bolivia               5-2   @ Asunción, Paraguay
+Thu Jun 13
+  Paraguay             v Bolivia               0-1   @ Asunción, Paraguay
+Sun Aug 18
+  Bolivia              v Paraguay              3-3   @ La Paz, Bolivia
+Wed Aug 21
+  Bolivia              v Paraguay              2-1   @ La Paz, Bolivia
 

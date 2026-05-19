@@ -1,19 +1,19 @@
 = Nordic Championship 1933
 
-# Date       Sun Jun/11 - Sun Oct/8 1933 (119d)
+# Date       Sun Jun 11 - Sun Oct 8 1933 (119d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 11]
-  Denmark - Norway  2-2   @ Copenhagen, Denmark
-[Sun Jun 18]
-  Sweden - Denmark  2-3   @ Stockholm, Sweden
-[Fri Jul 14]
-  Sweden - Finland  2-0   @ Stockholm, Sweden
-[Sun Sep 3]
-  Finland - Norway  1-5   @ Helsinki, Finland
-[Sun Sep 24]
-  Norway - Sweden  0-1   @ Oslo, Norway
-[Sun Oct 8]
-  Denmark - Finland  2-0   @ Copenhagen, Denmark
+Sun Jun 11
+  Denmark              v Norway                2-2   @ Copenhagen, Denmark
+Sun Jun 18
+  Sweden               v Denmark               2-3   @ Stockholm, Sweden
+Fri Jul 14
+  Sweden               v Finland               2-0   @ Stockholm, Sweden
+Sun Sep 3
+  Finland              v Norway                1-5   @ Helsinki, Finland
+Sun Sep 24
+  Norway               v Sweden                0-1   @ Oslo, Norway
+Sun Oct 8
+  Denmark              v Finland               2-0   @ Copenhagen, Denmark
 

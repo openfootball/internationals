@@ -1,19 +1,19 @@
 = African Cup of Nations qualification 1961
 
-# Date       Sat Apr/8 - Sat Nov/25 1961 (231d)
+# Date       Sat Apr 8 - Sat Nov 25 1961 (231d)
 # Teams      5
 # Matches    6
 
-[Sat Apr 8]
-  Nigeria - Ghana  0-0   @ Lagos, Nigeria
-[Sun Apr 30]
-  Ghana - Nigeria  2-2   @ Accra, Ghana
-[Sat Aug 5]
-  Kenya - Uganda  0-1   @ Nairobi, Kenya
-[Sat Sep 23]
-  Uganda - Kenya  0-1   @ Kampala, Uganda
-[Sun Oct 29]
-  Uganda - Kenya  2-0   @ Kampala, Uganda
-[Sat Nov 25]
-  Nigeria - Tunisia  2-1   @ Lagos, Nigeria
+Sat Apr 8
+  Nigeria              v Ghana                 0-0   @ Lagos, Nigeria
+Sun Apr 30
+  Ghana                v Nigeria               2-2   @ Accra, Ghana
+Sat Aug 5
+  Kenya                v Uganda                0-1   @ Nairobi, Kenya
+Sat Sep 23
+  Uganda               v Kenya                 0-1   @ Kampala, Uganda
+Sun Oct 29
+  Uganda               v Kenya                 2-0   @ Kampala, Uganda
+Sat Nov 25
+  Nigeria              v Tunisia               2-1   @ Lagos, Nigeria
 

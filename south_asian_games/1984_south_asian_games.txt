@@ -1,19 +1,19 @@
 = South Asian Games 1984
 
-# Date       Tue Sep/18 - Sun Sep/23 1984 (5d)
+# Date       Tue Sep 18 - Sun Sep 23 1984 (5d)
 # Teams      4
 # Matches    7
 
-[Tue Sep 18]
-  Nepal - Maldives  4-0   @ Kathmandu, Nepal
-  Bangladesh - Bhutan  2-0   @ Kathmandu, Nepal
-[Wed Sep 19]
-  Bangladesh - Maldives  5-0   @ Kathmandu, Nepal
-[Thu Sep 20]
-  Nepal - Bhutan  5-0   @ Kathmandu, Nepal
-[Fri Sep 21]
-  Maldives - Bhutan  1-0   @ Kathmandu, Nepal
-  Nepal - Bangladesh  0-5   @ Kathmandu, Nepal
-[Sun Sep 23]
-  Nepal - Bangladesh  4-2   @ Kathmandu, Nepal
+Tue Sep 18
+  Nepal                v Maldives              4-0   @ Kathmandu, Nepal
+  Bangladesh           v Bhutan                2-0   @ Kathmandu, Nepal
+Wed Sep 19
+  Bangladesh           v Maldives              5-0   @ Kathmandu, Nepal
+Thu Sep 20
+  Nepal                v Bhutan                5-0   @ Kathmandu, Nepal
+Fri Sep 21
+  Maldives             v Bhutan                1-0   @ Kathmandu, Nepal
+  Nepal                v Bangladesh            0-5   @ Kathmandu, Nepal
+Sun Sep 23
+  Nepal                v Bangladesh            4-2   @ Kathmandu, Nepal
 

@@ -1,18 +1,18 @@
 = USA Cup 2000
 
-# Date       Sat Jun/3 - Sun Jun/11 2000 (8d)
+# Date       Sat Jun 3 - Sun Jun 11 2000 (8d)
 # Teams      4
 # Matches    6
 
-[Sat Jun 3]
-  United States - South Africa  4-0   @ Washington, D.C., United States
-[Sun Jun 4]
-  Mexico - Republic of Ireland  2-2   @ Chicago, United States
-[Tue Jun 6]
-  United States - Republic of Ireland  1-1   @ Foxborough, United States
-[Wed Jun 7]
-  Mexico - South Africa  4-2   @ Dallas, United States
-[Sun Jun 11]
-  Republic of Ireland - South Africa  2-1   @ East Rutherford, United States
-  United States - Mexico  3-0   @ East Rutherford, United States
+Sat Jun 3
+  United States        v South Africa          4-0   @ Washington, D.C., United States
+Sun Jun 4
+  Mexico               v Republic of Ireland   2-2   @ Chicago, United States
+Tue Jun 6
+  United States        v Republic of Ireland   1-1   @ Foxborough, United States
+Wed Jun 7
+  Mexico               v South Africa          4-2   @ Dallas, United States
+Sun Jun 11
+  Republic of Ireland  v South Africa          2-1   @ East Rutherford, United States
+  United States        v Mexico                3-0   @ East Rutherford, United States
 

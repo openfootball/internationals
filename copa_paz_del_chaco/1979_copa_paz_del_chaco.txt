@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 1979
 
-# Date       Tue Jul/10 - Wed Aug/1 1979 (22d)
+# Date       Tue Jul 10 - Wed Aug 1 1979 (22d)
 # Teams      2
 # Matches    2
 
-[Tue Jul 10]
-  Bolivia - Paraguay  3-1   @ La Paz, Bolivia
-[Wed Aug 1]
-  Paraguay - Bolivia  2-0   @ Asunción, Paraguay
+Tue Jul 10
+  Bolivia              v Paraguay              3-1   @ La Paz, Bolivia
+Wed Aug 1
+  Paraguay             v Bolivia               2-0   @ Asunción, Paraguay
 

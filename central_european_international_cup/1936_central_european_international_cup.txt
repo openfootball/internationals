@@ -1,17 +1,17 @@
 = Central European International Cup 1936
 
-# Date       Sun Mar/22 - Sun Nov/8 1936 (231d)
+# Date       Sun Mar 22 - Sun Nov 8 1936 (231d)
 # Teams      5
 # Matches    5
 
-[Sun Mar 22]
-  Austria - Czechoslovakia  1-1   @ Vienna, Austria
-[Sun Sep 27]
-  Hungary - Austria  5-3   @ Budapest, Hungary
-[Sun Oct 18]
-  Czechoslovakia - Hungary  5-2   @ Prague, Czechoslovakia
-[Sun Oct 25]
-  Italy - Switzerland  4-2   @ Milan, Italy
-[Sun Nov 8]
-  Switzerland - Austria  1-3   @ Zürich, Switzerland
+Sun Mar 22
+  Austria              v Czechoslovakia        1-1   @ Vienna, Austria
+Sun Sep 27
+  Hungary              v Austria               5-3   @ Budapest, Hungary
+Sun Oct 18
+  Czechoslovakia       v Hungary               5-2   @ Prague, Czechoslovakia
+Sun Oct 25
+  Italy                v Switzerland           4-2   @ Milan, Italy
+Sun Nov 8
+  Switzerland          v Austria               1-3   @ Zürich, Switzerland
 

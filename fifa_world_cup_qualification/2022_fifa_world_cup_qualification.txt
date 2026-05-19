@@ -1,254 +1,254 @@
 = FIFA World Cup qualification 2022
 
-# Date       Thu Jan/27 - Tue Jun/14 2022 (138d)
+# Date       Thu Jan 27 - Tue Jun 14 2022 (138d)
 # Teams      58
 # Matches    100
 
-[Thu Jan 27]
-  Jamaica - Mexico  1-2   @ Kingston, Jamaica
-     Daniel Johnson 50';
-     Henry Martín 82' Alexis Vega 83'
-  United States - El Salvador  1-0   @ Columbus, United States
-     Antonee Robinson 52'
-  Honduras - Canada  0-2   @ San Pedro Sula, Honduras
-     -; Denil Maldonado 10' (o.g.) Jonathan David 73'
-  Costa Rica - Panama  1-0   @ San José, Costa Rica
-     Bryan Ruiz 65'
-  Lebanon - South Korea  0-1   @ Sidon, Lebanon
-     -; Cho Gue-sung 45'
-  Iran - Iraq  1-0   @ Tehran, Iran
-     Mehdi Taremi 48'
-  United Arab Emirates - Syria  2-0   @ Dubai, United Arab Emirates
-     Caio Canedo 43' Yahya Al-Ghassani 70'
-  Japan - China PR  2-0   @ Saitama, Japan
-     Yuya Osako 13' (pen.) Junya Ito 61'
-  Australia - Vietnam  4-0   @ Melbourne, Australia
-     Jamie Maclaren 30' Tom Rogic 45' Craig Goodwin 72' Riley McGree 76'
-  Saudi Arabia - Oman  1-0   @ Jeddah, Saudi Arabia
-     Firas Al-Buraikan 48'
-  Ecuador - Brazil  1-1   @ Quito, Ecuador
-     Félix Torres 75';
-     Casemiro 6'
-  Paraguay - Uruguay  0-1   @ Asunción, Paraguay
-     -; Luis Suárez 50'
-  Chile - Argentina  1-2   @ Calama, Chile
-     Ben Brereton Díaz 21';
-     Ángel Di María 10' Lautaro Martínez 34'
-[Fri Jan 28]
-  Colombia - Peru  0-1   @ Barranquilla, Colombia
-     -; Edison Flores 85'
-  Venezuela - Bolivia  4-1   @ Barinas, Venezuela
-     Salomón Rondón 24' Salomón Rondón 34' Darwin Machís 55' Salomón Rondón 67';
-     Bruno Miranda 38'
-[Sun Jan 30]
-  Canada - United States  2-0   @ Hamilton, Canada
-     Cyle Larin 7' Sam Adekugbe 90'
-  Mexico - Costa Rica  0-0   @ Mexico City, Mexico
-  Panama - Jamaica  3-2   @ Panama City, Panama
-     Javain Brown 43' (o.g.) Eric Davis 51' Azmahar Ariano 69';
-     Michail Antonio 5' (pen.) Andre Gray 87'
-  Honduras - El Salvador  0-2   @ San Pedro Sula, Honduras
-     -; Nelson Bonilla 35' Darwin Cerén 90'
-[Tue Feb 1]
-  Lebanon - Iraq  1-1   @ Sidon, Lebanon
-     Maher Sabra 45';
-     Aymen Hussein 39'
-  Iran - United Arab Emirates  1-0   @ Tehran, Iran
-     Mehdi Taremi 44'
-  Syria - South Korea  0-2   @ Dubai, United Arab Emirates
-     -; Kim Jin-su 53' Kwon Chang-hoon 71'
-  Vietnam - China PR  3-1   @ Hanoi, Vietnam
-     Hồ Tấn Tài 9' Nguyễn Tiến Linh 16' Phan Văn Đức 76';
-     Xu Xin 90'
-  Japan - Saudi Arabia  2-0   @ Saitama, Japan
-     Takumi Minamino 32' Junya Ito 50'
-  Oman - Australia  2-2   @ Muscat, Oman
-     Abdullah Fawaz 54' Abdullah Fawaz 89' (pen.);
-     Jamie Maclaren 15' (pen.) Aaron Mooy 79'
-  Bolivia - Chile  2-3   @ La Paz, Bolivia
-     Marc Enoumba 37' Marcelo Martins Moreno 88';
-     Alexis Sánchez 14' Marcelino Núñez 77' Alexis Sánchez 86'
-  Uruguay - Venezuela  4-1   @ Montevideo, Uruguay
-     Rodrigo Bentancur 1' Giorgian de Arrascaeta 23' Edinson Cavani 45' Luis Suárez 53' (pen.);
-     Josef Martínez 65'
-  Argentina - Colombia  1-0   @ Córdoba, Argentina
-     Lautaro Martínez 29'
-  Peru - Ecuador  1-1   @ Lima, Peru
-     Edison Flores 69';
-     Michael Estrada 2'
-  Brazil - Paraguay  4-0   @ Belo Horizonte, Brazil
-     Raphinha 28' Philippe Coutinho 62' Antony 86' Rodrygo 88'
-[Wed Feb 2]
-  United States - Honduras  3-0   @ Saint Paul, United States
-     Weston McKennie 8' Walker Zimmerman 37' Christian Pulisic 67'
-  Jamaica - Costa Rica  0-1   @ Kingston, Jamaica
-     -; Joel Campbell 62'
-  El Salvador - Canada  0-2   @ San Salvador, El Salvador
-     -; Atiba Hutchinson 66' Jonathan David 90'
-  Mexico - Panama  1-0   @ Mexico City, Mexico
-     Raúl Jiménez 80' (pen.)
-[Thu Mar 17]
-  Cook Islands - Solomon Islands  0-2   @ Doha, Qatar
-     -; Atkin Kaua 20' Alwin Hou 45'
-[Fri Mar 18]
-  Papua New Guinea - New Zealand  0-1   @ Doha, Qatar
-     -; Ben Waine 75'
-  New Caledonia - Fiji  1-2   @ Doha, Qatar
-     Jordan Wetria 78';
-     Sairusi Nalaubu 11' Sairusi Nalaubu 89'
-[Mon Mar 21]
-  Papua New Guinea - New Caledonia  1-0   @ Doha, Qatar
-     Tommy Semmy 8'
-  New Zealand - Fiji  4-0   @ Doha, Qatar
-     Chris Wood 45' Elijah Just 71' Chris Wood 73' Clayton Lewis 90' (pen.)
-[Thu Mar 24]
-  Jamaica - El Salvador  1-1   @ Kingston, Jamaica
-     Andre Gray 72';
-     Eriq Zavaleta 21'
-  Mexico - United States  0-0   @ Mexico City, Mexico
-  Panama - Honduras  1-1   @ Panama City, Panama
-     Rolando Blackburn 23';
-     Kevin López 65'
-  Costa Rica - Canada  1-0   @ San José, Costa Rica
-     Celso Borges 45'
-  Lebanon - Syria  0-3   @ Sidon, Lebanon
-     -; Alaa Al Dali 14' Mardik Mardikian 38' (pen.) Mohammad Al Marmour 44'
-  Iraq - United Arab Emirates  1-0   @ Riyadh, Saudi Arabia
-     Hussein Ali Al-Saedi 53'
-  South Korea - Iran  2-0   @ Seoul, South Korea
-     Son Heung-min 45' Kim Young-gwon 62'
-  China PR - Saudi Arabia  1-1   @ Sharjah, United Arab Emirates
-     Zhu Chenjie 82' (pen.);
-     Saleh Al-Shehri 45'
-  Vietnam - Oman  0-1   @ Hanoi, Vietnam
-     -; Khalid Al-Hajri 65'
-  Australia - Japan  0-2   @ Sydney, Australia
-     -; Kaoru Mitoma 89' Kaoru Mitoma 90'
-  Solomon Islands - Tahiti  3-1   @ Doha, Qatar
-     Raphael Lea'i 20' Raphael Lea'i 52' Raphael Lea'i 90';
-     Alvin Tehau 26'
-  Fiji - Papua New Guinea  1-2   @ Doha, Qatar
-     Tevita Waranaivalu 12';
-     Ati Kepo 45' Tommy Semmy 63'
-  New Zealand - New Caledonia  7-1   @ Doha, Qatar
-     Alex Greive 8' Logan Rogerson 36' (pen.) Alex Greive 45' Andre de Jong 75' Bill Tuiloma 81' Chris Wood 83' Chris Wood 89';
-     Jean-Philippe Saïko 12'
-  Colombia - Bolivia  3-0   @ Barranquilla, Colombia
-     Luis Díaz 39' Miguel Borja 72' Mateus Uribe 90'
-  Brazil - Chile  4-0   @ Rio de Janeiro, Brazil
-     Neymar 44' (pen.) Vinícius Júnior 45' Philippe Coutinho 72' (pen.) Richarlison 90'
-  Paraguay - Ecuador  3-1   @ Ciudad del Este, Paraguay
-     Robert Morales 10' Piero Hincapié 45' (o.g.) Miguel Almirón 54';
-     Jordy Caicedo 85' (pen.)
-  Uruguay - Peru  1-0   @ Montevideo, Uruguay
-     Giorgian de Arrascaeta 42'
-  Italy - North Macedonia  0-1   @ Palermo, Italy
-     -; Aleksandar Trajkovski 90'
-  Portugal - Turkey  3-1   @ Porto, Portugal
-     Otávio 15' Diogo Jota 42' Matheus Nunes 90';
-     Burak Yılmaz 65'
-  Sweden - Czech Republic  1-0   @ Stockholm, Sweden
-     Robin Quaison 110'
-  Wales - Austria  2-1   @ Cardiff, Wales
-     Gareth Bale 25' Gareth Bale 51';
-     Marcel Sabitzer 65'
-[Fri Mar 25]
-  Cameroon - Algeria  0-1   @ Douala, Cameroon
-     -; Islam Slimani 40'
-  DR Congo - Morocco  1-1   @ Kinshasa, DR Congo
-     Yoane Wissa 12';
-     Tarik Tissoudali 76'
-  Egypt - Senegal  1-0   @ Cairo, Egypt
-     Saliou Ciss 4' (o.g.)
-  Ghana - Nigeria  0-0   @ Kumasi, Ghana
-  Mali - Tunisia  0-1   @ Bamako, Mali
-     -; Moussa Sissako 36' (o.g.)
-  Argentina - Venezuela  3-0   @ Buenos Aires, Argentina
-     Nicolás González 34' Ángel Di María 79' Lionel Messi 82'
-[Sun Mar 27]
-  El Salvador - Costa Rica  1-2   @ San Salvador, El Salvador
-     Cristian Gil 31';
-     Anthony Contreras 30' Joel Campbell 45'
-  Canada - Jamaica  4-0   @ Toronto, Canada
-     Cyle Larin 13' Tajon Buchanan 44' Junior Hoilett 83' Adrian Mariappa 88' (o.g.)
-  Honduras - Mexico  0-1   @ San Pedro Sula, Honduras
-     -; Edson Álvarez 70'
-  United States - Panama  5-1   @ Orlando, United States
-     Christian Pulisic 17' (pen.) Paul Arriola 23' Jesús Ferreira 27' Christian Pulisic 45' (pen.) Christian Pulisic 65';
-     Aníbal Godoy 86'
-  New Zealand - Tahiti  1-0   @ Doha, Qatar
-     Liberato Cacace 71'
-  Solomon Islands - Papua New Guinea  3-2   @ Doha, Qatar
-     Alwin Hou 33' Alwin Hou 66' Raphael Lea'i 71';
-     Alwin Komolong 24' Ati Kepo 88'
-[Tue Mar 29]
-  Algeria - Cameroon  1-2   @ Blida, Algeria
-     Ahmed Touba 118';
-     Eric Maxim Choupo-Moting 22' Karl Toko Ekambi 120'
-  Morocco - DR Congo  4-1   @ Casablanca, Morocco
-     Azzedine Ounahi 21' Tarik Tissoudali 45' Azzedine Ounahi 54' Achraf Hakimi 69';
-     Ben Malango 77'
-  Nigeria - Ghana  1-1   @ Abuja, Nigeria
-     William Troost-Ekong 22' (pen.);
-     Thomas Partey 10'
-  Senegal - Egypt  1-0   @ Diamniadio, Senegal   [Senegal wins on penalties]
-     Boulaye Dia 3'
-  Tunisia - Mali  0-0   @ Tunis, Tunisia
-  Iran - Lebanon  2-0   @ Mashhad, Iran
-     Sardar Azmoun 35' Alireza Jahanbakhsh 72'
-  Syria - Iraq  1-1   @ Dubai, United Arab Emirates
-     Alaa Al Dali 3';
-     Aymen Hussein 31'
-  United Arab Emirates - South Korea  1-0   @ Dubai, United Arab Emirates
-     Harib Al-Maazmi 54'
-  Japan - Vietnam  1-1   @ Saitama, Japan
-     Maya Yoshida 55';
-     Nguyễn Thanh Bình 19'
-  Oman - China PR  2-0   @ Muscat, Oman
-     Arshad Al-Alawi 12' Abdullah Fawaz 74'
-  Saudi Arabia - Australia  1-0   @ Jeddah, Saudi Arabia
-     Salem Al-Dawsari 65' (pen.)
-  Ecuador - Argentina  1-1   @ Guayaquil, Ecuador
-     Enner Valencia 90';
-     Julián Álvarez 24'
-  Peru - Paraguay  2-0   @ Lima, Peru
-     Gianluca Lapadula 5' Yoshimar Yotún 42'
-  Bolivia - Brazil  0-4   @ La Paz, Bolivia
-     -; Lucas Paquetá 24' Richarlison 45' Bruno Guimarães 66' Richarlison 90'
-  Venezuela - Colombia  0-1   @ Guayana, Venezuela
-     -; James Rodríguez 45' (pen.)
-  Chile - Uruguay  0-2   @ Santiago, Chile
-     -; Luis Suárez 79' Federico Valverde 90'
-  Poland - Sweden  2-0   @ Chorzów, Poland
-     Robert Lewandowski 49' (pen.) Piotr Zieliński 72'
-  Portugal - North Macedonia  2-0   @ Porto, Portugal
-     Bruno Fernandes 32' Bruno Fernandes 65'
-[Wed Mar 30]
-  Mexico - El Salvador  2-0   @ Mexico City, Mexico
-     Uriel Antuna 17' Raúl Jiménez 43' (pen.)
-  Costa Rica - United States  2-0   @ San José, Costa Rica
-     Juan Pablo Vargas 51' Anthony Contreras 59'
-  Panama - Canada  1-0   @ Panama City, Panama
-     Gabriel Torres 49'
-  Jamaica - Honduras  2-1   @ Kingston, Jamaica
-     Leon Bailey 39' (pen.) Ravel Morrison 45';
-     Ángel Tejeda 18' (pen.)
-  Solomon Islands - New Zealand  0-5   @ Doha, Qatar
-     -; Bill Tuiloma 23' Chris Wood 39' Joe Bell 50' Bill Tuiloma 70' Matthew Garbett 90'
-[Wed Jun 1]
-  Scotland - Ukraine  1-3   @ Glasgow, Scotland
-     Callum McGregor 79';
-     Andriy Yarmolenko 33' Roman Yaremchuk 49' Artem Dovbyk 90'
-[Sun Jun 5]
-  Wales - Ukraine  1-0   @ Cardiff, Wales
-     Gareth Bale 34'
-[Tue Jun 7]
-  United Arab Emirates - Australia  1-2   @ Al Rayyan, Qatar
-     Caio Canedo 57';
-     Jackson Irvine 53' Ajdin Hrustic 84'
-[Mon Jun 13]
-  Australia - Peru  0-0   @ Al Rayyan, Qatar   [Australia wins on penalties]
-[Tue Jun 14]
-  Costa Rica - New Zealand  1-0   @ Al Rayyan, Qatar
-     Joel Campbell 3'
+Thu Jan 27
+  Jamaica              v Mexico                1-2   @ Kingston, Jamaica
+     (Daniel Johnson 50';
+      Henry Martín 82' Alexis Vega 83')
+  United States        v El Salvador           1-0   @ Columbus, United States
+     (Antonee Robinson 52')
+  Honduras             v Canada                0-2   @ San Pedro Sula, Honduras
+     (Denil Maldonado 10'(og) Jonathan David 73')
+  Costa Rica           v Panama                1-0   @ San José, Costa Rica
+     (Bryan Ruiz 65')
+  Lebanon              v South Korea           0-1   @ Sidon, Lebanon
+     (Cho Gue-sung 45')
+  Iran                 v Iraq                  1-0   @ Tehran, Iran
+     (Mehdi Taremi 48')
+  United Arab Emirates v Syria                 2-0   @ Dubai, United Arab Emirates
+     (Caio Canedo 43' Yahya Al-Ghassani 70')
+  Japan                v China PR              2-0   @ Saitama, Japan
+     (Yuya Osako 13'(p) Junya Ito 61')
+  Australia            v Vietnam               4-0   @ Melbourne, Australia
+     (Jamie Maclaren 30' Tom Rogic 45' Craig Goodwin 72' Riley McGree 76')
+  Saudi Arabia         v Oman                  1-0   @ Jeddah, Saudi Arabia
+     (Firas Al-Buraikan 48')
+  Ecuador              v Brazil                1-1   @ Quito, Ecuador
+     (Félix Torres 75';
+      Casemiro 6')
+  Paraguay             v Uruguay               0-1   @ Asunción, Paraguay
+     (Luis Suárez 50')
+  Chile                v Argentina             1-2   @ Calama, Chile
+     (Ben Brereton Díaz 21';
+      Ángel Di María 10' Lautaro Martínez 34')
+Fri Jan 28
+  Colombia             v Peru                  0-1   @ Barranquilla, Colombia
+     (Edison Flores 85')
+  Venezuela            v Bolivia               4-1   @ Barinas, Venezuela
+     (Salomón Rondón 24' Salomón Rondón 34' Darwin Machís 55' Salomón Rondón 67';
+      Bruno Miranda 38')
+Sun Jan 30
+  Canada               v United States         2-0   @ Hamilton, Canada
+     (Cyle Larin 7' Sam Adekugbe 90')
+  Mexico               v Costa Rica            0-0   @ Mexico City, Mexico
+  Panama               v Jamaica               3-2   @ Panama City, Panama
+     (Javain Brown 43'(og) Eric Davis 51' Azmahar Ariano 69';
+      Michail Antonio 5'(p) Andre Gray 87')
+  Honduras             v El Salvador           0-2   @ San Pedro Sula, Honduras
+     (Nelson Bonilla 35' Darwin Cerén 90')
+Tue Feb 1
+  Lebanon              v Iraq                  1-1   @ Sidon, Lebanon
+     (Maher Sabra 45';
+      Aymen Hussein 39')
+  Iran                 v United Arab Emirates  1-0   @ Tehran, Iran
+     (Mehdi Taremi 44')
+  Syria                v South Korea           0-2   @ Dubai, United Arab Emirates
+     (Kim Jin-su 53' Kwon Chang-hoon 71')
+  Vietnam              v China PR              3-1   @ Hanoi, Vietnam
+     (Hồ Tấn Tài 9' Nguyễn Tiến Linh 16' Phan Văn Đức 76';
+      Xu Xin 90')
+  Japan                v Saudi Arabia          2-0   @ Saitama, Japan
+     (Takumi Minamino 32' Junya Ito 50')
+  Oman                 v Australia             2-2   @ Muscat, Oman
+     (Abdullah Fawaz 54' Abdullah Fawaz 89'(p);
+      Jamie Maclaren 15'(p) Aaron Mooy 79')
+  Bolivia              v Chile                 2-3   @ La Paz, Bolivia
+     (Marc Enoumba 37' Marcelo Martins Moreno 88';
+      Alexis Sánchez 14' Marcelino Núñez 77' Alexis Sánchez 86')
+  Uruguay              v Venezuela             4-1   @ Montevideo, Uruguay
+     (Rodrigo Bentancur 1' Giorgian de Arrascaeta 23' Edinson Cavani 45' Luis Suárez 53'(p);
+      Josef Martínez 65')
+  Argentina            v Colombia              1-0   @ Córdoba, Argentina
+     (Lautaro Martínez 29')
+  Peru                 v Ecuador               1-1   @ Lima, Peru
+     (Edison Flores 69';
+      Michael Estrada 2')
+  Brazil               v Paraguay              4-0   @ Belo Horizonte, Brazil
+     (Raphinha 28' Philippe Coutinho 62' Antony 86' Rodrygo 88')
+Wed Feb 2
+  United States        v Honduras              3-0   @ Saint Paul, United States
+     (Weston McKennie 8' Walker Zimmerman 37' Christian Pulisic 67')
+  Jamaica              v Costa Rica            0-1   @ Kingston, Jamaica
+     (Joel Campbell 62')
+  El Salvador          v Canada                0-2   @ San Salvador, El Salvador
+     (Atiba Hutchinson 66' Jonathan David 90')
+  Mexico               v Panama                1-0   @ Mexico City, Mexico
+     (Raúl Jiménez 80'(p))
+Thu Mar 17
+  Cook Islands         v Solomon Islands       0-2   @ Doha, Qatar
+     (Atkin Kaua 20' Alwin Hou 45')
+Fri Mar 18
+  Papua New Guinea     v New Zealand           0-1   @ Doha, Qatar
+     (Ben Waine 75')
+  New Caledonia        v Fiji                  1-2   @ Doha, Qatar
+     (Jordan Wetria 78';
+      Sairusi Nalaubu 11' Sairusi Nalaubu 89')
+Mon Mar 21
+  Papua New Guinea     v New Caledonia         1-0   @ Doha, Qatar
+     (Tommy Semmy 8')
+  New Zealand          v Fiji                  4-0   @ Doha, Qatar
+     (Chris Wood 45' Elijah Just 71' Chris Wood 73' Clayton Lewis 90'(p))
+Thu Mar 24
+  Jamaica              v El Salvador           1-1   @ Kingston, Jamaica
+     (Andre Gray 72';
+      Eriq Zavaleta 21')
+  Mexico               v United States         0-0   @ Mexico City, Mexico
+  Panama               v Honduras              1-1   @ Panama City, Panama
+     (Rolando Blackburn 23';
+      Kevin López 65')
+  Costa Rica           v Canada                1-0   @ San José, Costa Rica
+     (Celso Borges 45')
+  Lebanon              v Syria                 0-3   @ Sidon, Lebanon
+     (Alaa Al Dali 14' Mardik Mardikian 38'(p) Mohammad Al Marmour 44')
+  Iraq                 v United Arab Emirates  1-0   @ Riyadh, Saudi Arabia
+     (Hussein Ali Al-Saedi 53')
+  South Korea          v Iran                  2-0   @ Seoul, South Korea
+     (Son Heung-min 45' Kim Young-gwon 62')
+  China PR             v Saudi Arabia          1-1   @ Sharjah, United Arab Emirates
+     (Zhu Chenjie 82'(p);
+      Saleh Al-Shehri 45')
+  Vietnam              v Oman                  0-1   @ Hanoi, Vietnam
+     (Khalid Al-Hajri 65')
+  Australia            v Japan                 0-2   @ Sydney, Australia
+     (Kaoru Mitoma 89' Kaoru Mitoma 90')
+  Solomon Islands      v Tahiti                3-1   @ Doha, Qatar
+     (Raphael Lea'i 20' Raphael Lea'i 52' Raphael Lea'i 90';
+      Alvin Tehau 26')
+  Fiji                 v Papua New Guinea      1-2   @ Doha, Qatar
+     (Tevita Waranaivalu 12';
+      Ati Kepo 45' Tommy Semmy 63')
+  New Zealand          v New Caledonia         7-1   @ Doha, Qatar
+     (Alex Greive 8' Logan Rogerson 36'(p) Alex Greive 45' Andre de Jong 75' Bill Tuiloma 81' Chris Wood 83' Chris Wood 89';
+      Jean-Philippe Saïko 12')
+  Colombia             v Bolivia               3-0   @ Barranquilla, Colombia
+     (Luis Díaz 39' Miguel Borja 72' Mateus Uribe 90')
+  Brazil               v Chile                 4-0   @ Rio de Janeiro, Brazil
+     (Neymar 44'(p) Vinícius Júnior 45' Philippe Coutinho 72'(p) Richarlison 90')
+  Paraguay             v Ecuador               3-1   @ Ciudad del Este, Paraguay
+     (Robert Morales 10' Piero Hincapié 45'(og) Miguel Almirón 54';
+      Jordy Caicedo 85'(p))
+  Uruguay              v Peru                  1-0   @ Montevideo, Uruguay
+     (Giorgian de Arrascaeta 42')
+  Italy                v North Macedonia       0-1   @ Palermo, Italy
+     (Aleksandar Trajkovski 90')
+  Portugal             v Turkey                3-1   @ Porto, Portugal
+     (Otávio 15' Diogo Jota 42' Matheus Nunes 90';
+      Burak Yılmaz 65')
+  Sweden               v Czech Republic        1-0   @ Stockholm, Sweden
+     (Robin Quaison 110')
+  Wales                v Austria               2-1   @ Cardiff, Wales
+     (Gareth Bale 25' Gareth Bale 51';
+      Marcel Sabitzer 65')
+Fri Mar 25
+  Cameroon             v Algeria               0-1   @ Douala, Cameroon
+     (Islam Slimani 40')
+  DR Congo             v Morocco               1-1   @ Kinshasa, DR Congo
+     (Yoane Wissa 12';
+      Tarik Tissoudali 76')
+  Egypt                v Senegal               1-0   @ Cairo, Egypt
+     (Saliou Ciss 4'(og))
+  Ghana                v Nigeria               0-0   @ Kumasi, Ghana
+  Mali                 v Tunisia               0-1   @ Bamako, Mali
+     (Moussa Sissako 36'(og))
+  Argentina            v Venezuela             3-0   @ Buenos Aires, Argentina
+     (Nicolás González 34' Ángel Di María 79' Lionel Messi 82')
+Sun Mar 27
+  El Salvador          v Costa Rica            1-2   @ San Salvador, El Salvador
+     (Cristian Gil 31';
+      Anthony Contreras 30' Joel Campbell 45')
+  Canada               v Jamaica               4-0   @ Toronto, Canada
+     (Cyle Larin 13' Tajon Buchanan 44' Junior Hoilett 83' Adrian Mariappa 88'(og))
+  Honduras             v Mexico                0-1   @ San Pedro Sula, Honduras
+     (Edson Álvarez 70')
+  United States        v Panama                5-1   @ Orlando, United States
+     (Christian Pulisic 17'(p) Paul Arriola 23' Jesús Ferreira 27' Christian Pulisic 45'(p) Christian Pulisic 65';
+      Aníbal Godoy 86')
+  New Zealand          v Tahiti                1-0   @ Doha, Qatar
+     (Liberato Cacace 71')
+  Solomon Islands      v Papua New Guinea      3-2   @ Doha, Qatar
+     (Alwin Hou 33' Alwin Hou 66' Raphael Lea'i 71';
+      Alwin Komolong 24' Ati Kepo 88')
+Tue Mar 29
+  Algeria              v Cameroon              1-2   @ Blida, Algeria
+     (Ahmed Touba 118';
+      Eric Maxim Choupo-Moting 22' Karl Toko Ekambi 120')
+  Morocco              v DR Congo              4-1   @ Casablanca, Morocco
+     (Azzedine Ounahi 21' Tarik Tissoudali 45' Azzedine Ounahi 54' Achraf Hakimi 69';
+      Ben Malango 77')
+  Nigeria              v Ghana                 1-1   @ Abuja, Nigeria
+     (William Troost-Ekong 22'(p);
+      Thomas Partey 10')
+  Senegal              v Egypt                 1-0   @ Diamniadio, Senegal   [Senegal wins on penalties]
+     (Boulaye Dia 3')
+  Tunisia              v Mali                  0-0   @ Tunis, Tunisia
+  Iran                 v Lebanon               2-0   @ Mashhad, Iran
+     (Sardar Azmoun 35' Alireza Jahanbakhsh 72')
+  Syria                v Iraq                  1-1   @ Dubai, United Arab Emirates
+     (Alaa Al Dali 3';
+      Aymen Hussein 31')
+  United Arab Emirates v South Korea           1-0   @ Dubai, United Arab Emirates
+     (Harib Al-Maazmi 54')
+  Japan                v Vietnam               1-1   @ Saitama, Japan
+     (Maya Yoshida 55';
+      Nguyễn Thanh Bình 19')
+  Oman                 v China PR              2-0   @ Muscat, Oman
+     (Arshad Al-Alawi 12' Abdullah Fawaz 74')
+  Saudi Arabia         v Australia             1-0   @ Jeddah, Saudi Arabia
+     (Salem Al-Dawsari 65'(p))
+  Ecuador              v Argentina             1-1   @ Guayaquil, Ecuador
+     (Enner Valencia 90';
+      Julián Álvarez 24')
+  Peru                 v Paraguay              2-0   @ Lima, Peru
+     (Gianluca Lapadula 5' Yoshimar Yotún 42')
+  Bolivia              v Brazil                0-4   @ La Paz, Bolivia
+     (Lucas Paquetá 24' Richarlison 45' Bruno Guimarães 66' Richarlison 90')
+  Venezuela            v Colombia              0-1   @ Guayana, Venezuela
+     (James Rodríguez 45'(p))
+  Chile                v Uruguay               0-2   @ Santiago, Chile
+     (Luis Suárez 79' Federico Valverde 90')
+  Poland               v Sweden                2-0   @ Chorzów, Poland
+     (Robert Lewandowski 49'(p) Piotr Zieliński 72')
+  Portugal             v North Macedonia       2-0   @ Porto, Portugal
+     (Bruno Fernandes 32' Bruno Fernandes 65')
+Wed Mar 30
+  Mexico               v El Salvador           2-0   @ Mexico City, Mexico
+     (Uriel Antuna 17' Raúl Jiménez 43'(p))
+  Costa Rica           v United States         2-0   @ San José, Costa Rica
+     (Juan Pablo Vargas 51' Anthony Contreras 59')
+  Panama               v Canada                1-0   @ Panama City, Panama
+     (Gabriel Torres 49')
+  Jamaica              v Honduras              2-1   @ Kingston, Jamaica
+     (Leon Bailey 39'(p) Ravel Morrison 45';
+      Ángel Tejeda 18'(p))
+  Solomon Islands      v New Zealand           0-5   @ Doha, Qatar
+     (Bill Tuiloma 23' Chris Wood 39' Joe Bell 50' Bill Tuiloma 70' Matthew Garbett 90')
+Wed Jun 1
+  Scotland             v Ukraine               1-3   @ Glasgow, Scotland
+     (Callum McGregor 79';
+      Andriy Yarmolenko 33' Roman Yaremchuk 49' Artem Dovbyk 90')
+Sun Jun 5
+  Wales                v Ukraine               1-0   @ Cardiff, Wales
+     (Gareth Bale 34')
+Tue Jun 7
+  United Arab Emirates v Australia             1-2   @ Al Rayyan, Qatar
+     (Caio Canedo 57';
+      Jackson Irvine 53' Ajdin Hrustic 84')
+Mon Jun 13
+  Australia            v Peru                  0-0   @ Al Rayyan, Qatar   [Australia wins on penalties]
+Tue Jun 14
+  Costa Rica           v New Zealand           1-0   @ Al Rayyan, Qatar
+     (Joel Campbell 3')
 

@@ -1,54 +1,54 @@
 = Copa América 1956
 
-# Date       Sat Jan/21 - Wed Feb/15 1956 (25d)
+# Date       Sat Jan 21 - Wed Feb 15 1956 (25d)
 # Teams      6
 # Matches    15
 
-[Sat Jan 21]
-  Uruguay - Paraguay  4-2   @ Montevideo, Uruguay
-     Óscar Míguez 12' Guillermo Escalada 25' Guillermo Escalada 32' José Walter Roque 65';
-     Máximo Rolón 81' Antonio Gómez 89'
-[Sun Jan 22]
-  Argentina - Peru  2-1   @ Montevideo, Uruguay
-     Omar Sívori 43' Federico Vairo 51';
-     Roberto Drago 56'
-[Tue Jan 24]
-  Brazil - Chile  1-4   @ Montevideo, Uruguay
-     Maurinho 38';
-     Enrique Hormazábal 8' René Meléndez 65' Leonel Sánchez 71' Enrique Hormazábal 83'
-[Sat Jan 28]
-  Uruguay - Peru  2-0   @ Montevideo, Uruguay
-     Guillermo Escalada 42' Óscar Míguez 73'
-[Sun Jan 29]
-  Argentina - Chile  2-0   @ Montevideo, Uruguay
-     Ángel Labruna 9' Ángel Labruna 79'
-  Brazil - Paraguay  0-0   @ Montevideo, Uruguay
-[Wed Feb 1]
-  Argentina - Paraguay  1-0   @ Montevideo, Uruguay
-     Carlos Cecconato 54'
-  Brazil - Peru  2-1   @ Montevideo, Uruguay
-     Alvaro José Rodrigues Valente 10' Moysés Ferreira Alves 80';
-     Roberto Drago 42'
-[Sun Feb 5]
-  Argentina - Brazil  0-1   @ Montevideo, Uruguay
-     -; Luís Trochillo 88'
-  Paraguay - Peru  1-1   @ Montevideo, Uruguay
-     Máximo Rolón 76';
-     Isaac Andrade 61'
-[Mon Feb 6]
-  Uruguay - Chile  2-1   @ Montevideo, Uruguay
-     Óscar Míguez 12' Carlos Borges 58';
-     Jaime Ramírez 59'
-[Thu Feb 9]
-  Chile - Peru  4-3   @ Montevideo, Uruguay
-     Enrique Hormazábal 15' Manuel Muñoz 34' José Fernández 70' Leonel Sánchez 86';
-     Félix Castillo 22' Máximo Mosquera 57' Óscar Gómez Sánchez 80'
-[Fri Feb 10]
-  Uruguay - Brazil  0-0   @ Montevideo, Uruguay
-[Sun Feb 12]
-  Chile - Paraguay  2-0   @ Montevideo, Uruguay
-     Enrique Hormazábal 41' Jaime Ramírez 51'
-[Wed Feb 15]
-  Uruguay - Argentina  1-0   @ Montevideo, Uruguay
-     Javier Ambrois 23'
+Sat Jan 21
+  Uruguay              v Paraguay              4-2   @ Montevideo, Uruguay
+     (Óscar Míguez 12' Guillermo Escalada 25' Guillermo Escalada 32' José Walter Roque 65';
+      Máximo Rolón 81' Antonio Gómez 89')
+Sun Jan 22
+  Argentina            v Peru                  2-1   @ Montevideo, Uruguay
+     (Omar Sívori 43' Federico Vairo 51';
+      Roberto Drago 56')
+Tue Jan 24
+  Brazil               v Chile                 1-4   @ Montevideo, Uruguay
+     (Maurinho 38';
+      Enrique Hormazábal 8' René Meléndez 65' Leonel Sánchez 71' Enrique Hormazábal 83')
+Sat Jan 28
+  Uruguay              v Peru                  2-0   @ Montevideo, Uruguay
+     (Guillermo Escalada 42' Óscar Míguez 73')
+Sun Jan 29
+  Argentina            v Chile                 2-0   @ Montevideo, Uruguay
+     (Ángel Labruna 9' Ángel Labruna 79')
+  Brazil               v Paraguay              0-0   @ Montevideo, Uruguay
+Wed Feb 1
+  Argentina            v Paraguay              1-0   @ Montevideo, Uruguay
+     (Carlos Cecconato 54')
+  Brazil               v Peru                  2-1   @ Montevideo, Uruguay
+     (Alvaro José Rodrigues Valente 10' Moysés Ferreira Alves 80';
+      Roberto Drago 42')
+Sun Feb 5
+  Argentina            v Brazil                0-1   @ Montevideo, Uruguay
+     (Luís Trochillo 88')
+  Paraguay             v Peru                  1-1   @ Montevideo, Uruguay
+     (Máximo Rolón 76';
+      Isaac Andrade 61')
+Mon Feb 6
+  Uruguay              v Chile                 2-1   @ Montevideo, Uruguay
+     (Óscar Míguez 12' Carlos Borges 58';
+      Jaime Ramírez 59')
+Thu Feb 9
+  Chile                v Peru                  4-3   @ Montevideo, Uruguay
+     (Enrique Hormazábal 15' Manuel Muñoz 34' José Fernández 70' Leonel Sánchez 86';
+      Félix Castillo 22' Máximo Mosquera 57' Óscar Gómez Sánchez 80')
+Fri Feb 10
+  Uruguay              v Brazil                0-0   @ Montevideo, Uruguay
+Sun Feb 12
+  Chile                v Paraguay              2-0   @ Montevideo, Uruguay
+     (Enrique Hormazábal 41' Jaime Ramírez 51')
+Wed Feb 15
+  Uruguay              v Argentina             1-0   @ Montevideo, Uruguay
+     (Javier Ambrois 23')
 

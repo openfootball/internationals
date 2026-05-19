@@ -1,38 +1,38 @@
 = AFF Championship 2000
 
-# Date       Sun Nov/5 - Sat Nov/18 2000 (13d)
+# Date       Sun Nov 5 - Sat Nov 18 2000 (13d)
 # Teams      9
 # Matches    20
 
-[Sun Nov 5]
-  Singapore - Cambodia  1-0   @ Songkhla, Thailand
-  Vietnam - Malaysia  0-0   @ Songkhla, Thailand
-[Mon Nov 6]
-  Indonesia - Philippines  3-0   @ Chiang Mai, Thailand
-  Thailand - Myanmar  3-1   @ Chiang Mai, Thailand
-[Tue Nov 7]
-  Cambodia - Vietnam  0-6   @ Songkhla, Thailand
-  Laos - Malaysia  0-5   @ Songkhla, Thailand
-[Wed Nov 8]
-  Myanmar - Philippines  3-0   @ Chiang Mai, Thailand
-[Thu Nov 9]
-  Malaysia - Cambodia  3-2   @ Songkhla, Thailand
-  Singapore - Laos  3-0   @ Songkhla, Thailand
-[Fri Nov 10]
-  Thailand - Indonesia  4-1   @ Chiang Mai, Thailand
-[Sat Nov 11]
-  Cambodia - Laos  3-0   @ Songkhla, Thailand
-  Vietnam - Singapore  1-0   @ Songkhla, Thailand
-[Sun Nov 12]
-  Myanmar - Indonesia  0-5   @ Chiang Mai, Thailand
-  Thailand - Philippines  2-0   @ Chiang Mai, Thailand
-[Mon Nov 13]
-  Laos - Vietnam  0-5   @ Songkhla, Thailand
-  Malaysia - Singapore  1-0   @ Songkhla, Thailand
-[Thu Nov 16]
-  Thailand - Malaysia  2-0   @ Bangkok, Thailand
-  Vietnam - Indonesia  2-3   @ Bangkok, Thailand
-[Sat Nov 18]
-  Thailand - Indonesia  4-1   @ Bangkok, Thailand
-  Vietnam - Malaysia  0-3   @ Bangkok, Thailand
+Sun Nov 5
+  Singapore            v Cambodia              1-0   @ Songkhla, Thailand
+  Vietnam              v Malaysia              0-0   @ Songkhla, Thailand
+Mon Nov 6
+  Indonesia            v Philippines           3-0   @ Chiang Mai, Thailand
+  Thailand             v Myanmar               3-1   @ Chiang Mai, Thailand
+Tue Nov 7
+  Cambodia             v Vietnam               0-6   @ Songkhla, Thailand
+  Laos                 v Malaysia              0-5   @ Songkhla, Thailand
+Wed Nov 8
+  Myanmar              v Philippines           3-0   @ Chiang Mai, Thailand
+Thu Nov 9
+  Malaysia             v Cambodia              3-2   @ Songkhla, Thailand
+  Singapore            v Laos                  3-0   @ Songkhla, Thailand
+Fri Nov 10
+  Thailand             v Indonesia             4-1   @ Chiang Mai, Thailand
+Sat Nov 11
+  Cambodia             v Laos                  3-0   @ Songkhla, Thailand
+  Vietnam              v Singapore             1-0   @ Songkhla, Thailand
+Sun Nov 12
+  Myanmar              v Indonesia             0-5   @ Chiang Mai, Thailand
+  Thailand             v Philippines           2-0   @ Chiang Mai, Thailand
+Mon Nov 13
+  Laos                 v Vietnam               0-5   @ Songkhla, Thailand
+  Malaysia             v Singapore             1-0   @ Songkhla, Thailand
+Thu Nov 16
+  Thailand             v Malaysia              2-0   @ Bangkok, Thailand
+  Vietnam              v Indonesia             2-3   @ Bangkok, Thailand
+Sat Nov 18
+  Thailand             v Indonesia             4-1   @ Bangkok, Thailand
+  Vietnam              v Malaysia              0-3   @ Bangkok, Thailand
 

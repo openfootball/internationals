@@ -1,148 +1,148 @@
 = UEFA Euro 2016
 
-# Date       Fri Jun/10 - Sun Jul/10 2016 (30d)
+# Date       Fri Jun 10 - Sun Jul 10 2016 (30d)
 # Teams      24
 # Matches    51
 
-[Fri Jun 10]
-  France - Romania  2-1   @ Saint-Denis, France
-     Olivier Giroud 57' Dimitri Payet 89';
-     Bogdan Stancu 65' (pen.)
-[Sat Jun 11]
-  Albania - Switzerland  0-1   @ Lens, France
-     -; Fabian Schär 5'
-  England - Russia  1-1   @ Marseille, France
-     Eric Dier 73';
-     Vasili Berezutski 90'
-  Wales - Slovakia  2-1   @ Bordeaux, France
-     Gareth Bale 10' Hal Robson-Kanu 81';
-     Ondrej Duda 61'
-[Sun Jun 12]
-  Germany - Ukraine  2-0   @ Villeneuve-d'Ascq, France
-     Shkodran Mustafi 19' Bastian Schweinsteiger 90'
-  Poland - Northern Ireland  1-0   @ Nice, France
-     Arkadiusz Milik 51'
-  Turkey - Croatia  0-1   @ Paris, France
-     -; Luka Modrić 41'
-[Mon Jun 13]
-  Belgium - Italy  0-2   @ Lyon, France
-     -; Emanuele Giaccherini 32' Graziano Pellè 90'
-  Republic of Ireland - Sweden  1-1   @ Saint-Denis, France
-     Wes Hoolahan 48';
-     Ciaran Clark 71' (o.g.)
-  Spain - Czech Republic  1-0   @ Toulouse, France
-     Gerard Piqué 87'
-[Tue Jun 14]
-  Austria - Hungary  0-2   @ Bordeaux, France
-     -; Ádám Szalai 62' Zoltán Stieber 87'
-  Portugal - Iceland  1-1   @ Saint-Étienne, France
-     Nani 31';
-     Birkir Bjarnason 50'
-[Wed Jun 15]
-  France - Albania  2-0   @ Marseille, France
-     Antoine Griezmann 90' Dimitri Payet 90'
-  Romania - Switzerland  1-1   @ Paris, France
-     Bogdan Stancu 18' (pen.);
-     Admir Mehmedi 57'
-  Russia - Slovakia  1-2   @ Villeneuve-d'Ascq, France
-     Denis Glushakov 80';
-     Vladimír Weiss 32' Marek Hamšík 45'
-[Thu Jun 16]
-  England - Wales  2-1   @ Lens, France
-     Jamie Vardy 56' Daniel Sturridge 90';
-     Gareth Bale 42'
-  Germany - Poland  0-0   @ Saint-Denis, France
-  Ukraine - Northern Ireland  0-2   @ Lyon, France
-     -; Gareth McAuley 49' Niall McGinn 90'
-[Fri Jun 17]
-  Czech Republic - Croatia  2-2   @ Saint-Étienne, France
-     Milan Škoda 76' Tomáš Necid 89' (pen.);
-     Ivan Perišić 37' Ivan Rakitić 59'
-  Italy - Sweden  1-0   @ Toulouse, France
-     Éder 88'
-  Spain - Turkey  3-0   @ Nice, France
-     Álvaro Morata 34' Nolito 37' Álvaro Morata 48'
-[Sat Jun 18]
-  Belgium - Republic of Ireland  3-0   @ Bordeaux, France
-     Romelu Lukaku 48' Axel Witsel 61' Romelu Lukaku 70'
-  Iceland - Hungary  1-1   @ Marseille, France
-     Gylfi Sigurðsson 40' (pen.);
-     Birkir Már Sævarsson 88' (o.g.)
-  Portugal - Austria  0-0   @ Lyon, France
-[Sun Jun 19]
-  France - Switzerland  0-0   @ Villeneuve-d'Ascq, France
-  Romania - Albania  0-1   @ Lyon, France
-     -; Armando Sadiku 43'
-[Mon Jun 20]
-  Russia - Wales  0-3   @ Toulouse, France
-     -; Aaron Ramsey 11' Neil Taylor 20' Gareth Bale 67'
-  Slovakia - England  0-0   @ Saint-Étienne, France
-[Tue Jun 21]
-  Croatia - Spain  2-1   @ Bordeaux, France
-     Nikola Kalinić 45' Ivan Perišić 87';
-     Álvaro Morata 7'
-  Czech Republic - Turkey  0-2   @ Lens, France
-     -; Burak Yılmaz 10' Ozan Tufan 65'
-  Northern Ireland - Germany  0-1   @ Paris, France
-     -; Mario Gómez 30'
-  Ukraine - Poland  0-1   @ Marseille, France
-     -; Jakub Błaszczykowski 54'
-[Wed Jun 22]
-  Hungary - Portugal  3-3   @ Lyon, France
-     Zoltán Gera 19' Balázs Dzsudzsák 47' Balázs Dzsudzsák 55';
-     Nani 42' Cristiano Ronaldo 50' Cristiano Ronaldo 62'
-  Iceland - Austria  2-1   @ Saint-Denis, France
-     Jón Daði Böðvarsson 18' Arnór Ingvi Traustason 90';
-     Alessandro Schöpf 60'
-  Italy - Republic of Ireland  0-1   @ Villeneuve-d'Ascq, France
-     -; Robbie Brady 85'
-  Sweden - Belgium  0-1   @ Nice, France
-     -; Radja Nainggolan 84'
-[Sat Jun 25]
-  Croatia - Portugal  0-1   @ Lens, France
-     -; Ricardo Quaresma 117'
-  Switzerland - Poland  1-1   @ Saint-Étienne, France   [Poland wins on penalties]
-     Xherdan Shaqiri 82';
-     Jakub Błaszczykowski 39'
-  Wales - Northern Ireland  1-0   @ Paris, France
-     Gareth McAuley 75' (o.g.)
-[Sun Jun 26]
-  France - Republic of Ireland  2-1   @ Lyon, France
-     Antoine Griezmann 58' Antoine Griezmann 61';
-     Robbie Brady 2' (pen.)
-  Germany - Slovakia  3-0   @ Villeneuve-d'Ascq, France
-     Jérôme Boateng 8' Mario Gómez 43' Julian Draxler 63'
-  Hungary - Belgium  0-4   @ Toulouse, France
-     -; Toby Alderweireld 10' Michy Batshuayi 78' Eden Hazard 80' Yannick Carrasco 90'
-[Mon Jun 27]
-  England - Iceland  1-2   @ Nice, France
-     Wayne Rooney 4' (pen.);
-     Ragnar Sigurðsson 6' Kolbeinn Sigþórsson 18'
-  Italy - Spain  2-0   @ Saint-Denis, France
-     Giorgio Chiellini 33' Graziano Pellè 90'
-[Thu Jun 30]
-  Poland - Portugal  1-1   @ Marseille, France   [Portugal wins on penalties]
-     Robert Lewandowski 2';
-     Renato Sanches 33'
-[Fri Jul 1]
-  Wales - Belgium  3-1   @ Villeneuve-d'Ascq, France
-     Ashley Williams 31' Hal Robson-Kanu 55' Sam Vokes 86';
-     Radja Nainggolan 13'
-[Sat Jul 2]
-  Germany - Italy  1-1   @ Bordeaux, France   [Germany wins on penalties]
-     Mesut Özil 65';
-     Leonardo Bonucci 78' (pen.)
-[Sun Jul 3]
-  France - Iceland  5-2   @ Saint-Denis, France
-     Olivier Giroud 12' Paul Pogba 20' Dimitri Payet 43' Antoine Griezmann 45' Olivier Giroud 59';
-     Kolbeinn Sigþórsson 56' Birkir Bjarnason 84'
-[Wed Jul 6]
-  Portugal - Wales  2-0   @ Lyon, France
-     Cristiano Ronaldo 50' Nani 53'
-[Thu Jul 7]
-  France - Germany  2-0   @ Marseille, France
-     Antoine Griezmann 45' (pen.) Antoine Griezmann 72'
-[Sun Jul 10]
-  France - Portugal  0-1   @ Saint-Denis, France
-     -; Eder 109'
+Fri Jun 10
+  France               v Romania               2-1   @ Saint-Denis, France
+     (Olivier Giroud 57' Dimitri Payet 89';
+      Bogdan Stancu 65'(p))
+Sat Jun 11
+  Albania              v Switzerland           0-1   @ Lens, France
+     (Fabian Schär 5')
+  England              v Russia                1-1   @ Marseille, France
+     (Eric Dier 73';
+      Vasili Berezutski 90')
+  Wales                v Slovakia              2-1   @ Bordeaux, France
+     (Gareth Bale 10' Hal Robson-Kanu 81';
+      Ondrej Duda 61')
+Sun Jun 12
+  Germany              v Ukraine               2-0   @ Villeneuve-d'Ascq, France
+     (Shkodran Mustafi 19' Bastian Schweinsteiger 90')
+  Poland               v Northern Ireland      1-0   @ Nice, France
+     (Arkadiusz Milik 51')
+  Turkey               v Croatia               0-1   @ Paris, France
+     (Luka Modrić 41')
+Mon Jun 13
+  Belgium              v Italy                 0-2   @ Lyon, France
+     (Emanuele Giaccherini 32' Graziano Pellè 90')
+  Republic of Ireland  v Sweden                1-1   @ Saint-Denis, France
+     (Wes Hoolahan 48';
+      Ciaran Clark 71'(og))
+  Spain                v Czech Republic        1-0   @ Toulouse, France
+     (Gerard Piqué 87')
+Tue Jun 14
+  Austria              v Hungary               0-2   @ Bordeaux, France
+     (Ádám Szalai 62' Zoltán Stieber 87')
+  Portugal             v Iceland               1-1   @ Saint-Étienne, France
+     (Nani 31';
+      Birkir Bjarnason 50')
+Wed Jun 15
+  France               v Albania               2-0   @ Marseille, France
+     (Antoine Griezmann 90' Dimitri Payet 90')
+  Romania              v Switzerland           1-1   @ Paris, France
+     (Bogdan Stancu 18'(p);
+      Admir Mehmedi 57')
+  Russia               v Slovakia              1-2   @ Villeneuve-d'Ascq, France
+     (Denis Glushakov 80';
+      Vladimír Weiss 32' Marek Hamšík 45')
+Thu Jun 16
+  England              v Wales                 2-1   @ Lens, France
+     (Jamie Vardy 56' Daniel Sturridge 90';
+      Gareth Bale 42')
+  Germany              v Poland                0-0   @ Saint-Denis, France
+  Ukraine              v Northern Ireland      0-2   @ Lyon, France
+     (Gareth McAuley 49' Niall McGinn 90')
+Fri Jun 17
+  Czech Republic       v Croatia               2-2   @ Saint-Étienne, France
+     (Milan Škoda 76' Tomáš Necid 89'(p);
+      Ivan Perišić 37' Ivan Rakitić 59')
+  Italy                v Sweden                1-0   @ Toulouse, France
+     (Éder 88')
+  Spain                v Turkey                3-0   @ Nice, France
+     (Álvaro Morata 34' Nolito 37' Álvaro Morata 48')
+Sat Jun 18
+  Belgium              v Republic of Ireland   3-0   @ Bordeaux, France
+     (Romelu Lukaku 48' Axel Witsel 61' Romelu Lukaku 70')
+  Iceland              v Hungary               1-1   @ Marseille, France
+     (Gylfi Sigurðsson 40'(p);
+      Birkir Már Sævarsson 88'(og))
+  Portugal             v Austria               0-0   @ Lyon, France
+Sun Jun 19
+  France               v Switzerland           0-0   @ Villeneuve-d'Ascq, France
+  Romania              v Albania               0-1   @ Lyon, France
+     (Armando Sadiku 43')
+Mon Jun 20
+  Russia               v Wales                 0-3   @ Toulouse, France
+     (Aaron Ramsey 11' Neil Taylor 20' Gareth Bale 67')
+  Slovakia             v England               0-0   @ Saint-Étienne, France
+Tue Jun 21
+  Croatia              v Spain                 2-1   @ Bordeaux, France
+     (Nikola Kalinić 45' Ivan Perišić 87';
+      Álvaro Morata 7')
+  Czech Republic       v Turkey                0-2   @ Lens, France
+     (Burak Yılmaz 10' Ozan Tufan 65')
+  Northern Ireland     v Germany               0-1   @ Paris, France
+     (Mario Gómez 30')
+  Ukraine              v Poland                0-1   @ Marseille, France
+     (Jakub Błaszczykowski 54')
+Wed Jun 22
+  Hungary              v Portugal              3-3   @ Lyon, France
+     (Zoltán Gera 19' Balázs Dzsudzsák 47' Balázs Dzsudzsák 55';
+      Nani 42' Cristiano Ronaldo 50' Cristiano Ronaldo 62')
+  Iceland              v Austria               2-1   @ Saint-Denis, France
+     (Jón Daði Böðvarsson 18' Arnór Ingvi Traustason 90';
+      Alessandro Schöpf 60')
+  Italy                v Republic of Ireland   0-1   @ Villeneuve-d'Ascq, France
+     (Robbie Brady 85')
+  Sweden               v Belgium               0-1   @ Nice, France
+     (Radja Nainggolan 84')
+Sat Jun 25
+  Croatia              v Portugal              0-1   @ Lens, France
+     (Ricardo Quaresma 117')
+  Switzerland          v Poland                1-1   @ Saint-Étienne, France   [Poland wins on penalties]
+     (Xherdan Shaqiri 82';
+      Jakub Błaszczykowski 39')
+  Wales                v Northern Ireland      1-0   @ Paris, France
+     (Gareth McAuley 75'(og))
+Sun Jun 26
+  France               v Republic of Ireland   2-1   @ Lyon, France
+     (Antoine Griezmann 58' Antoine Griezmann 61';
+      Robbie Brady 2'(p))
+  Germany              v Slovakia              3-0   @ Villeneuve-d'Ascq, France
+     (Jérôme Boateng 8' Mario Gómez 43' Julian Draxler 63')
+  Hungary              v Belgium               0-4   @ Toulouse, France
+     (Toby Alderweireld 10' Michy Batshuayi 78' Eden Hazard 80' Yannick Carrasco 90')
+Mon Jun 27
+  England              v Iceland               1-2   @ Nice, France
+     (Wayne Rooney 4'(p);
+      Ragnar Sigurðsson 6' Kolbeinn Sigþórsson 18')
+  Italy                v Spain                 2-0   @ Saint-Denis, France
+     (Giorgio Chiellini 33' Graziano Pellè 90')
+Thu Jun 30
+  Poland               v Portugal              1-1   @ Marseille, France   [Portugal wins on penalties]
+     (Robert Lewandowski 2';
+      Renato Sanches 33')
+Fri Jul 1
+  Wales                v Belgium               3-1   @ Villeneuve-d'Ascq, France
+     (Ashley Williams 31' Hal Robson-Kanu 55' Sam Vokes 86';
+      Radja Nainggolan 13')
+Sat Jul 2
+  Germany              v Italy                 1-1   @ Bordeaux, France   [Germany wins on penalties]
+     (Mesut Özil 65';
+      Leonardo Bonucci 78'(p))
+Sun Jul 3
+  France               v Iceland               5-2   @ Saint-Denis, France
+     (Olivier Giroud 12' Paul Pogba 20' Dimitri Payet 43' Antoine Griezmann 45' Olivier Giroud 59';
+      Kolbeinn Sigþórsson 56' Birkir Bjarnason 84')
+Wed Jul 6
+  Portugal             v Wales                 2-0   @ Lyon, France
+     (Cristiano Ronaldo 50' Nani 53')
+Thu Jul 7
+  France               v Germany               2-0   @ Marseille, France
+     (Antoine Griezmann 45'(p) Antoine Griezmann 72')
+Sun Jul 10
+  France               v Portugal              0-1   @ Saint-Denis, France
+     (Eder 109')
 

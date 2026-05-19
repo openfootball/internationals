@@ -1,22 +1,22 @@
 = UDEAC Cup 1988
 
-# Date       Wed Nov/30 - Thu Dec/8 1988 (8d)
+# Date       Wed Nov 30 - Thu Dec 8 1988 (8d)
 # Teams      6
 # Matches    10
 
-[Wed Nov 30]
-  Cameroon - Gabon  0-0   @ Douala, Cameroon
-  Congo - Chad  2-1   @ Douala, Cameroon
-[Fri Dec 2]
-  Cameroon - Equatorial Guinea  2-1   @ Douala, Cameroon
-  Central African Republic - Chad  2-1   @ Douala, Cameroon
-[Sun Dec 4]
-  Central African Republic - Congo  0-1   @ Douala, Cameroon
-  Equatorial Guinea - Gabon  0-3   @ Douala, Cameroon
-[Tue Dec 6]
-  Cameroon - Congo  2-0   @ Douala, Cameroon
-  Central African Republic - Gabon  0-0   @ Douala, Cameroon   [Gabon wins on penalties]
-[Thu Dec 8]
-  Cameroon - Gabon  0-1   @ Douala, Cameroon
-  Central African Republic - Congo  0-3   @ Douala, Cameroon
+Wed Nov 30
+  Cameroon             v Gabon                 0-0   @ Douala, Cameroon
+  Congo                v Chad                  2-1   @ Douala, Cameroon
+Fri Dec 2
+  Cameroon             v Equatorial Guinea     2-1   @ Douala, Cameroon
+  Central African Republic v Chad                  2-1   @ Douala, Cameroon
+Sun Dec 4
+  Central African Republic v Congo                 0-1   @ Douala, Cameroon
+  Equatorial Guinea    v Gabon                 0-3   @ Douala, Cameroon
+Tue Dec 6
+  Cameroon             v Congo                 2-0   @ Douala, Cameroon
+  Central African Republic v Gabon                 0-0   @ Douala, Cameroon   [Gabon wins on penalties]
+Thu Dec 8
+  Cameroon             v Gabon                 0-1   @ Douala, Cameroon
+  Central African Republic v Congo                 0-3   @ Douala, Cameroon
 

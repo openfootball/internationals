@@ -1,19 +1,19 @@
 = British Home Championship 1948
 
-# Date       Wed Mar/10 - Wed Nov/17 1948 (252d)
+# Date       Wed Mar 10 - Wed Nov 17 1948 (252d)
 # Teams      4
 # Matches    6
 
-[Wed Mar 10]
-  Wales - Northern Ireland  2-0   @ Wrexham, Wales
-[Sat Apr 10]
-  Scotland - England  0-2   @ Glasgow, Scotland
-[Sat Oct 9]
-  Northern Ireland - England  2-6   @ Belfast, Northern Ireland
-[Sat Oct 23]
-  Wales - Scotland  1-3   @ Cardiff, Wales
-[Wed Nov 10]
-  England - Wales  1-0   @ Birmingham, England
-[Wed Nov 17]
-  Scotland - Northern Ireland  3-2   @ Glasgow, Scotland
+Wed Mar 10
+  Wales                v Northern Ireland      2-0   @ Wrexham, Wales
+Sat Apr 10
+  Scotland             v England               0-2   @ Glasgow, Scotland
+Sat Oct 9
+  Northern Ireland     v England               2-6   @ Belfast, Northern Ireland
+Sat Oct 23
+  Wales                v Scotland              1-3   @ Cardiff, Wales
+Wed Nov 10
+  England              v Wales                 1-0   @ Birmingham, England
+Wed Nov 17
+  Scotland             v Northern Ireland      3-2   @ Glasgow, Scotland
 

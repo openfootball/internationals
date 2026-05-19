@@ -1,78 +1,78 @@
 = Gold Cup 2013
 
-# Date       Sun Jul/7 - Sun Jul/28 2013 (21d)
+# Date       Sun Jul 7 - Sun Jul 28 2013 (21d)
 # Teams      12
 # Matches    25
 
-[Sun Jul 7]
-  Canada - Martinique  0-1   @ Pasadena, United States
-     -; Fabrice Reuperné 90'
-  Mexico - Panama  1-2   @ Pasadena, United States
-     Marco Fabián 45';
-     Gabriel Torres 7' (pen.) Gabriel Torres 48'
-[Mon Jul 8]
-  El Salvador - Trinidad and Tobago  2-2   @ Harrison, United States
-     Rodolfo Zelaya 22' Rodolfo Zelaya 69';
-     Keon Daniel 11' Kenwyne Jones 73'
-  Haiti - Honduras  0-2   @ Harrison, United States
-     -; Rony Martínez 4' Marvin Chávez 78'
-[Tue Jul 9]
-  Costa Rica - Cuba  3-0   @ Portland, United States
-     Michael Barrantes 52' Jairo Arrieta 71' Michael Barrantes 77'
-  United States - Belize  6-1   @ Portland, United States
-     Chris Wondolowski 12' Chris Wondolowski 37' Chris Wondolowski 41' Stuart Holden 58' Michael Orozco 72' Landon Donovan 76' (pen.);
-     Ian Gaynair 40'
-[Thu Jul 11]
-  Mexico - Canada  2-0   @ Seattle, United States
-     Raúl Jiménez 42' Marco Fabián 57' (pen.)
-  Panama - Martinique  1-0   @ Seattle, United States
-     Gabriel Torres 85' (pen.)
-[Fri Jul 12]
-  Honduras - El Salvador  1-0   @ Miami Gardens, United States
-     Jorge Claros 90'
-  Trinidad and Tobago - Haiti  0-2   @ Miami Gardens, United States
-     -; Jean-Eudes Maurice 16' Jean-Eudes Maurice 53'
-[Sat Jul 13]
-  Costa Rica - Belize  1-0   @ Sandy, United States
-     Dalton Eiley 49' (o.g.)
-  United States - Cuba  4-1   @ Sandy, United States
-     Landon Donovan 45' (pen.) Joe Corona 57' Chris Wondolowski 66' Chris Wondolowski 85';
-     José Ciprian Alfonso 36'
-[Sun Jul 14]
-  Martinique - Mexico  1-3   @ Denver, United States
-     Kévin Parsemain 43' (pen.);
-     Marco Fabián 21' Luis Montes 34' Miguel Ángel Ponce 90'
-  Panama - Canada  0-0   @ Denver, United States
-[Mon Jul 15]
-  El Salvador - Haiti  1-0   @ Houston, United States
-     Rodolfo Zelaya 76'
-  Honduras - Trinidad and Tobago  0-2   @ Houston, United States
-     -; Kenwyne Jones 48' (pen.) Kevin Molino 67'
-[Tue Jul 16]
-  Cuba - Belize  4-0   @ East Hartford, United States
-     Ariel Martínez 38' Ariel Martínez 61' Ariel Martínez 84' Yénier Márquez 90'
-  United States - Costa Rica  1-0   @ East Hartford, United States
-     Brek Shea 82'
-[Sat Jul 20]
-  Mexico - Trinidad and Tobago  1-0   @ Atlanta, United States
-     Raúl Jiménez 84'
-  Panama - Cuba  6-1   @ Atlanta, United States
-     Gabriel Torres 25' (pen.) Gabriel Torres 37' Carlos Gabriel Rodríguez 68' Blas Pérez 78' Jairo Jiménez 85' Blas Pérez 88';
-     José Ciprian Alfonso 21'
-[Sun Jul 21]
-  Honduras - Costa Rica  1-0   @ Baltimore, United States
-     Andy Najar 49'
-  United States - El Salvador  5-1   @ Baltimore, United States
-     Clarence Goodson 21' Joe Corona 29' Eddie Johnson 60' Landon Donovan 78' Mikkel Diskerud 83';
-     Rodolfo Zelaya 39' (pen.)
-[Wed Jul 24]
-  Panama - Mexico  2-1   @ Arlington, United States
-     Blas Pérez 13' Román Torres 61';
-     Luis Montes 26'
-  United States - Honduras  3-1   @ Arlington, United States
-     Eddie Johnson 11' Landon Donovan 27' Landon Donovan 53';
-     Nery Medina 52'
-[Sun Jul 28]
-  United States - Panama  1-0   @ Chicago, United States
-     Brek Shea 69'
+Sun Jul 7
+  Canada               v Martinique            0-1   @ Pasadena, United States
+     (Fabrice Reuperné 90')
+  Mexico               v Panama                1-2   @ Pasadena, United States
+     (Marco Fabián 45';
+      Gabriel Torres 7'(p) Gabriel Torres 48')
+Mon Jul 8
+  El Salvador          v Trinidad and Tobago   2-2   @ Harrison, United States
+     (Rodolfo Zelaya 22' Rodolfo Zelaya 69';
+      Keon Daniel 11' Kenwyne Jones 73')
+  Haiti                v Honduras              0-2   @ Harrison, United States
+     (Rony Martínez 4' Marvin Chávez 78')
+Tue Jul 9
+  Costa Rica           v Cuba                  3-0   @ Portland, United States
+     (Michael Barrantes 52' Jairo Arrieta 71' Michael Barrantes 77')
+  United States        v Belize                6-1   @ Portland, United States
+     (Chris Wondolowski 12' Chris Wondolowski 37' Chris Wondolowski 41' Stuart Holden 58' Michael Orozco 72' Landon Donovan 76'(p);
+      Ian Gaynair 40')
+Thu Jul 11
+  Mexico               v Canada                2-0   @ Seattle, United States
+     (Raúl Jiménez 42' Marco Fabián 57'(p))
+  Panama               v Martinique            1-0   @ Seattle, United States
+     (Gabriel Torres 85'(p))
+Fri Jul 12
+  Honduras             v El Salvador           1-0   @ Miami Gardens, United States
+     (Jorge Claros 90')
+  Trinidad and Tobago  v Haiti                 0-2   @ Miami Gardens, United States
+     (Jean-Eudes Maurice 16' Jean-Eudes Maurice 53')
+Sat Jul 13
+  Costa Rica           v Belize                1-0   @ Sandy, United States
+     (Dalton Eiley 49'(og))
+  United States        v Cuba                  4-1   @ Sandy, United States
+     (Landon Donovan 45'(p) Joe Corona 57' Chris Wondolowski 66' Chris Wondolowski 85';
+      José Ciprian Alfonso 36')
+Sun Jul 14
+  Martinique           v Mexico                1-3   @ Denver, United States
+     (Kévin Parsemain 43'(p);
+      Marco Fabián 21' Luis Montes 34' Miguel Ángel Ponce 90')
+  Panama               v Canada                0-0   @ Denver, United States
+Mon Jul 15
+  El Salvador          v Haiti                 1-0   @ Houston, United States
+     (Rodolfo Zelaya 76')
+  Honduras             v Trinidad and Tobago   0-2   @ Houston, United States
+     (Kenwyne Jones 48'(p) Kevin Molino 67')
+Tue Jul 16
+  Cuba                 v Belize                4-0   @ East Hartford, United States
+     (Ariel Martínez 38' Ariel Martínez 61' Ariel Martínez 84' Yénier Márquez 90')
+  United States        v Costa Rica            1-0   @ East Hartford, United States
+     (Brek Shea 82')
+Sat Jul 20
+  Mexico               v Trinidad and Tobago   1-0   @ Atlanta, United States
+     (Raúl Jiménez 84')
+  Panama               v Cuba                  6-1   @ Atlanta, United States
+     (Gabriel Torres 25'(p) Gabriel Torres 37' Carlos Gabriel Rodríguez 68' Blas Pérez 78' Jairo Jiménez 85' Blas Pérez 88';
+      José Ciprian Alfonso 21')
+Sun Jul 21
+  Honduras             v Costa Rica            1-0   @ Baltimore, United States
+     (Andy Najar 49')
+  United States        v El Salvador           5-1   @ Baltimore, United States
+     (Clarence Goodson 21' Joe Corona 29' Eddie Johnson 60' Landon Donovan 78' Mikkel Diskerud 83';
+      Rodolfo Zelaya 39'(p))
+Wed Jul 24
+  Panama               v Mexico                2-1   @ Arlington, United States
+     (Blas Pérez 13' Román Torres 61';
+      Luis Montes 26')
+  United States        v Honduras              3-1   @ Arlington, United States
+     (Eddie Johnson 11' Landon Donovan 27' Landon Donovan 53';
+      Nery Medina 52')
+Sun Jul 28
+  United States        v Panama                1-0   @ Chicago, United States
+     (Brek Shea 69')
 

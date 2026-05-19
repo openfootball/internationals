@@ -1,15 +1,15 @@
 = Korea Cup 1982
 
-# Date       Wed Jun/9 - Sun Jun/13 1982 (4d)
+# Date       Wed Jun 9 - Sun Jun 13 1982 (4d)
 # Teams      5
 # Matches    4
 
-[Wed Jun 9]
-  South Korea - India  1-0   @ Busan, South Korea
-[Thu Jun 10]
-  Malaysia - Thailand  1-1   @ Busan, South Korea
-[Fri Jun 11]
-  South Korea - Bahrain  3-0   @ Gwangju, South Korea
-[Sun Jun 13]
-  Bahrain - India  0-0   @ Incheon, South Korea
+Wed Jun 9
+  South Korea          v India                 1-0   @ Busan, South Korea
+Thu Jun 10
+  Malaysia             v Thailand              1-1   @ Busan, South Korea
+Fri Jun 11
+  South Korea          v Bahrain               3-0   @ Gwangju, South Korea
+Sun Jun 13
+  Bahrain              v India                 0-0   @ Incheon, South Korea
 

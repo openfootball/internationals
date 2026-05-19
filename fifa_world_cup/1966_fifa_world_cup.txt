@@ -1,97 +1,97 @@
 = FIFA World Cup 1966
 
-# Date       Mon Jul/11 - Sat Jul/30 1966 (19d)
+# Date       Mon Jul 11 - Sat Jul 30 1966 (19d)
 # Teams      16
 # Matches    32
 
-[Mon Jul 11]
-  England - Uruguay  0-0   @ London, England
-[Tue Jul 12]
-  Brazil - Bulgaria  2-0   @ Liverpool, England
-     Pelé 15' Garrincha 63'
-  Germany - Switzerland  5-0   @ Sheffield, England
-     Sigfried Held 16' Helmut Haller 21' Franz Beckenbauer 40' Franz Beckenbauer 52' Helmut Haller 77' (pen.)
-  North Korea - Russia  0-3   @ Middlesbrough, England
-     -; Eduard Malofeyev 31' Anatoliy Banishevskiy 33' Eduard Malofeyev 88'
-[Wed Jul 13]
-  Argentina - Spain  2-1   @ Birmingham, England
-     Luis Artime 65' Luis Artime 79';
-     Pirri 71'
-  Chile - Italy  0-2   @ Sunderland, England
-     -; Sandro Mazzola 8' Paolo Barison 88'
-  France - Mexico  1-1   @ London, England
-     Gérard Hausser 62';
-     Enrique Borja 48'
-  Hungary - Portugal  1-3   @ Manchester, England
-     Ferenc Bene 60';
-     José Augusto de Almeida 2' José Augusto de Almeida 67' José Augusto Torres 90'
-[Fri Jul 15]
-  Brazil - Hungary  1-3   @ Liverpool, England
-     Tostão 14';
-     Ferenc Bene 2' János Farkas 64' Kálmán Mészöly 73' (pen.)
-  Chile - North Korea  1-1   @ Middlesbrough, England
-     Rubén Marcos 26' (pen.);
-     Pak Seung-zin 88'
-  France - Uruguay  1-2   @ London, England
-     Héctor De Bourgoing 15' (pen.);
-     Pedro Rocha 26' Julio César Cortés 31'
-  Spain - Switzerland  2-1   @ Sheffield, England
-     Manuel Sanchís Martínez 57' Amancio Amaro 75';
-     René-Pierre Quentin 31'
-[Sat Jul 16]
-  Argentina - Germany  0-0   @ Birmingham, England
-  Bulgaria - Portugal  0-3   @ Manchester, England
-     -; Ivan Vutsov 7' (o.g.) Eusébio 38' José Augusto Torres 81'
-  England - Mexico  2-0   @ London, England
-     Bobby Charlton 37' Roger Hunt 75'
-  Italy - Russia  0-1   @ Sunderland, England
-     -; Igor Chislenko 57'
-[Tue Jul 19]
-  Argentina - Switzerland  2-0   @ Sheffield, England
-     Luis Artime 52' Ermindo Onega 79'
-  Brazil - Portugal  1-3   @ Liverpool, England
-     Rildo da Costa Menezes 73';
-     António Simões 15' Eusébio 27' Eusébio 85'
-  Italy - North Korea  0-1   @ Middlesbrough, England
-     -; Pak Doo-ik 42'
-  Mexico - Uruguay  0-0   @ London, England
-[Wed Jul 20]
-  Bulgaria - Hungary  1-3   @ Manchester, England
-     Georgi Asparuhov 15';
-     Ivan Davidov 43' (o.g.) Kálmán Mészöly 45' Ferenc Bene 54'
-  Chile - Russia  1-2   @ Sunderland, England
-     Rubén Marcos 32';
-     Valeriy Porkujan 28' Valeriy Porkujan 85'
-  England - France  2-0   @ London, England
-     Roger Hunt 38' Roger Hunt 75'
-  Germany - Spain  2-1   @ Birmingham, England
-     Lothar Emmerich 39' Uwe Seeler 84';
-     Josep Maria Fusté 23'
-[Sat Jul 23]
-  England - Argentina  1-0   @ London, England
-     Geoff Hurst 78'
-  Germany - Uruguay  4-0   @ Sheffield, England
-     Helmut Haller 11' Franz Beckenbauer 70' Uwe Seeler 75' Helmut Haller 83'
-  Hungary - Russia  1-2   @ Sunderland, England
-     Ferenc Bene 57';
-     Igor Chislenko 5' Valeriy Porkujan 46'
-  North Korea - Portugal  3-5   @ Liverpool, England
-     Pak Seung-zin 1' Li Dong-woon 22' Yang Seung-kook 25';
-     Eusébio 27' Eusébio 43' (pen.) Eusébio 56' Eusébio 59' (pen.) José Augusto de Almeida 80'
-[Mon Jul 25]
-  Germany - Russia  2-1   @ Liverpool, England
-     Helmut Haller 43' Franz Beckenbauer 67';
-     Valeriy Porkujan 88'
-[Tue Jul 26]
-  England - Portugal  2-1   @ London, England
-     Bobby Charlton 30' Bobby Charlton 80';
-     Eusébio 82' (pen.)
-[Thu Jul 28]
-  Portugal - Russia  2-1   @ London, England
-     Eusébio 12' (pen.) José Augusto Torres 89';
-     Eduard Malofeyev 43'
-[Sat Jul 30]
-  England - Germany  4-2   @ London, England
-     Geoff Hurst 18' Martin Peters 78' Geoff Hurst 101' Geoff Hurst 120';
-     Helmut Haller 12' Wolfgang Weber 89'
+Mon Jul 11
+  England              v Uruguay               0-0   @ London, England
+Tue Jul 12
+  Brazil               v Bulgaria              2-0   @ Liverpool, England
+     (Pelé 15' Garrincha 63')
+  Germany              v Switzerland           5-0   @ Sheffield, England
+     (Sigfried Held 16' Helmut Haller 21' Franz Beckenbauer 40' Franz Beckenbauer 52' Helmut Haller 77'(p))
+  North Korea          v Russia                0-3   @ Middlesbrough, England
+     (Eduard Malofeyev 31' Anatoliy Banishevskiy 33' Eduard Malofeyev 88')
+Wed Jul 13
+  Argentina            v Spain                 2-1   @ Birmingham, England
+     (Luis Artime 65' Luis Artime 79';
+      Pirri 71')
+  Chile                v Italy                 0-2   @ Sunderland, England
+     (Sandro Mazzola 8' Paolo Barison 88')
+  France               v Mexico                1-1   @ London, England
+     (Gérard Hausser 62';
+      Enrique Borja 48')
+  Hungary              v Portugal              1-3   @ Manchester, England
+     (Ferenc Bene 60';
+      José Augusto de Almeida 2' José Augusto de Almeida 67' José Augusto Torres 90')
+Fri Jul 15
+  Brazil               v Hungary               1-3   @ Liverpool, England
+     (Tostão 14';
+      Ferenc Bene 2' János Farkas 64' Kálmán Mészöly 73'(p))
+  Chile                v North Korea           1-1   @ Middlesbrough, England
+     (Rubén Marcos 26'(p);
+      Pak Seung-zin 88')
+  France               v Uruguay               1-2   @ London, England
+     (Héctor De Bourgoing 15'(p);
+      Pedro Rocha 26' Julio César Cortés 31')
+  Spain                v Switzerland           2-1   @ Sheffield, England
+     (Manuel Sanchís Martínez 57' Amancio Amaro 75';
+      René-Pierre Quentin 31')
+Sat Jul 16
+  Argentina            v Germany               0-0   @ Birmingham, England
+  Bulgaria             v Portugal              0-3   @ Manchester, England
+     (Ivan Vutsov 7'(og) Eusébio 38' José Augusto Torres 81')
+  England              v Mexico                2-0   @ London, England
+     (Bobby Charlton 37' Roger Hunt 75')
+  Italy                v Russia                0-1   @ Sunderland, England
+     (Igor Chislenko 57')
+Tue Jul 19
+  Argentina            v Switzerland           2-0   @ Sheffield, England
+     (Luis Artime 52' Ermindo Onega 79')
+  Brazil               v Portugal              1-3   @ Liverpool, England
+     (Rildo da Costa Menezes 73';
+      António Simões 15' Eusébio 27' Eusébio 85')
+  Italy                v North Korea           0-1   @ Middlesbrough, England
+     (Pak Doo-ik 42')
+  Mexico               v Uruguay               0-0   @ London, England
+Wed Jul 20
+  Bulgaria             v Hungary               1-3   @ Manchester, England
+     (Georgi Asparuhov 15';
+      Ivan Davidov 43'(og) Kálmán Mészöly 45' Ferenc Bene 54')
+  Chile                v Russia                1-2   @ Sunderland, England
+     (Rubén Marcos 32';
+      Valeriy Porkujan 28' Valeriy Porkujan 85')
+  England              v France                2-0   @ London, England
+     (Roger Hunt 38' Roger Hunt 75')
+  Germany              v Spain                 2-1   @ Birmingham, England
+     (Lothar Emmerich 39' Uwe Seeler 84';
+      Josep Maria Fusté 23')
+Sat Jul 23
+  England              v Argentina             1-0   @ London, England
+     (Geoff Hurst 78')
+  Germany              v Uruguay               4-0   @ Sheffield, England
+     (Helmut Haller 11' Franz Beckenbauer 70' Uwe Seeler 75' Helmut Haller 83')
+  Hungary              v Russia                1-2   @ Sunderland, England
+     (Ferenc Bene 57';
+      Igor Chislenko 5' Valeriy Porkujan 46')
+  North Korea          v Portugal              3-5   @ Liverpool, England
+     (Pak Seung-zin 1' Li Dong-woon 22' Yang Seung-kook 25';
+      Eusébio 27' Eusébio 43'(p) Eusébio 56' Eusébio 59'(p) José Augusto de Almeida 80')
+Mon Jul 25
+  Germany              v Russia                2-1   @ Liverpool, England
+     (Helmut Haller 43' Franz Beckenbauer 67';
+      Valeriy Porkujan 88')
+Tue Jul 26
+  England              v Portugal              2-1   @ London, England
+     (Bobby Charlton 30' Bobby Charlton 80';
+      Eusébio 82'(p))
+Thu Jul 28
+  Portugal             v Russia                2-1   @ London, England
+     (Eusébio 12'(p) José Augusto Torres 89';
+      Eduard Malofeyev 43')
+Sat Jul 30
+  England              v Germany               4-2   @ London, England
+     (Geoff Hurst 18' Martin Peters 78' Geoff Hurst 101' Geoff Hurst 120';
+      Helmut Haller 12' Wolfgang Weber 89')
 

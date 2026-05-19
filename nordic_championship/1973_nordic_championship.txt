@@ -1,15 +1,15 @@
 = Nordic Championship 1973
 
-# Date       Thu Jun/21 - Sun Sep/23 1973 (94d)
+# Date       Thu Jun 21 - Sun Sep 23 1973 (94d)
 # Teams      4
 # Matches    4
 
-[Thu Jun 21]
-  Denmark - Norway  1-0   @ Copenhagen, Denmark
-[Sun Jul 8]
-  Sweden - Finland  1-1   @ Halmstad, Sweden
-[Wed Aug 29]
-  Finland - Sweden  1-2   @ Helsinki, Finland
-[Sun Sep 23]
-  Norway - Denmark  0-1   @ Trondheim, Norway
+Thu Jun 21
+  Denmark              v Norway                1-0   @ Copenhagen, Denmark
+Sun Jul 8
+  Sweden               v Finland               1-1   @ Halmstad, Sweden
+Wed Aug 29
+  Finland              v Sweden                1-2   @ Helsinki, Finland
+Sun Sep 23
+  Norway               v Denmark               0-1   @ Trondheim, Norway
 

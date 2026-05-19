@@ -1,18 +1,18 @@
 = East Asian Games 1993
 
-# Date       Mon May/10 - Tue May/18 1993 (8d)
+# Date       Mon May 10 - Tue May 18 1993 (8d)
 # Teams      4
 # Matches    6
 
-[Mon May 10]
-  China PR - Mongolia  6-1   @ Shanghai, China PR
-[Wed May 12]
-  North Korea - Mongolia  7-0   @ Shanghai, China PR
-  China PR - Macau  11-0   @ Shanghai, China PR
-[Fri May 14]
-  China PR - North Korea  1-1   @ Shanghai, China PR
-[Sun May 16]
-  North Korea - Macau  6-0   @ Shanghai, China PR
-[Tue May 18]
-  Mongolia - Macau  4-3   @ Shanghai, China PR
+Mon May 10
+  China PR             v Mongolia              6-1   @ Shanghai, China PR
+Wed May 12
+  North Korea          v Mongolia              7-0   @ Shanghai, China PR
+  China PR             v Macau                 11-0   @ Shanghai, China PR
+Fri May 14
+  China PR             v North Korea           1-1   @ Shanghai, China PR
+Sun May 16
+  North Korea          v Macau                 6-0   @ Shanghai, China PR
+Tue May 18
+  Mongolia             v Macau                 4-3   @ Shanghai, China PR
 

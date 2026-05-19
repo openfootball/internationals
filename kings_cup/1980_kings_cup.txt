@@ -1,13 +1,13 @@
 = King's Cup 1980
 
-# Date       Sun Nov/16 - Tue Nov/25 1980 (9d)
+# Date       Sun Nov 16 - Tue Nov 25 1980 (9d)
 # Teams      3
 # Matches    3
 
-[Sun Nov 16]
-  Brunei - Western Australia  0-2   @ Bangkok, Thailand
-[Thu Nov 20]
-  Brunei - Singapore  0-3   @ Bangkok, Thailand
-[Tue Nov 25]
-  Singapore - Western Australia  1-1   @ Bangkok, Thailand
+Sun Nov 16
+  Brunei               v Western Australia     0-2   @ Bangkok, Thailand
+Thu Nov 20
+  Brunei               v Singapore             0-3   @ Bangkok, Thailand
+Tue Nov 25
+  Singapore            v Western Australia     1-1   @ Bangkok, Thailand
 

@@ -1,49 +1,49 @@
 = CFU Caribbean Cup qualification 1998
 
-# Date       Tue Mar/3 - Sun May/10 1998 (68d)
+# Date       Tue Mar 3 - Sun May 10 1998 (68d)
 # Teams      22
 # Matches    25
 
-[Tue Mar 3]
-  Aruba - French Guiana  1-0   @ Oranjestad, Aruba
-  Suriname - Curaçao  3-3   @ Oranjestad, Aruba
-[Thu Mar 5]
-  Aruba - Curaçao  0-1   @ Oranjestad, Aruba
-  Suriname - French Guiana  2-2   @ Oranjestad, Aruba
-[Sat Mar 7]
-  Aruba - Suriname  3-3   @ Oranjestad, Aruba
-  Curaçao - French Guiana  2-1   @ Oranjestad, Aruba
-[Wed Mar 11]
-  Haiti - Puerto Rico  4-0   @ Port-au-Prince, Haiti
-[Fri Mar 13]
-  Dominican Republic - Puerto Rico  3-1   @ Port-au-Prince, Haiti
-[Sun Mar 15]
-  Haiti - Dominican Republic  5-0   @ Port-au-Prince, Haiti
-[Wed Mar 18]
-  Saint Lucia - Barbados  2-1   @ Castries, Saint Lucia
-[Fri Mar 20]
-  Martinique - Barbados  4-1   @ Castries, Saint Lucia
-  Saint Lucia - Saint Vincent and the Grenadines  3-2   @ Castries, Saint Lucia
-[Sun Mar 22]
-  Saint Lucia - Martinique  1-2   @ Castries, Saint Lucia
-[Wed Apr 1]
-  Dominica - Guadeloupe  1-1   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - British Virgin Islands  4-0   @ Basseterre, Saint Kitts and Nevis
-[Fri Apr 3]
-  Guadeloupe - British Virgin Islands  3-0   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - Dominica  1-2   @ Basseterre, Saint Kitts and Nevis
-[Sun Apr 5]
-  Dominica - British Virgin Islands  4-1   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - Guadeloupe  2-1   @ Basseterre, Saint Kitts and Nevis
-[Wed Apr 15]
-  Grenada - Anguilla  14-1   @ St. John's, Antigua and Barbuda
-[Sun Apr 19]
-  Antigua and Barbuda - Grenada  2-1   @ St. John's, Antigua and Barbuda
-  Guyana - Anguilla  14-0   @ St. John's, Antigua and Barbuda
-[Wed May 6]
-  Cayman Islands - Cuba  2-2   @ George Town, Cayman Islands
-[Fri May 8]
-  Cuba - Bermuda  2-1   @ George Town, Cayman Islands
-[Sun May 10]
-  Cayman Islands - Bermuda  2-0   @ George Town, Cayman Islands
+Tue Mar 3
+  Aruba                v French Guiana         1-0   @ Oranjestad, Aruba
+  Suriname             v Curaçao               3-3   @ Oranjestad, Aruba
+Thu Mar 5
+  Aruba                v Curaçao               0-1   @ Oranjestad, Aruba
+  Suriname             v French Guiana         2-2   @ Oranjestad, Aruba
+Sat Mar 7
+  Aruba                v Suriname              3-3   @ Oranjestad, Aruba
+  Curaçao              v French Guiana         2-1   @ Oranjestad, Aruba
+Wed Mar 11
+  Haiti                v Puerto Rico           4-0   @ Port-au-Prince, Haiti
+Fri Mar 13
+  Dominican Republic   v Puerto Rico           3-1   @ Port-au-Prince, Haiti
+Sun Mar 15
+  Haiti                v Dominican Republic    5-0   @ Port-au-Prince, Haiti
+Wed Mar 18
+  Saint Lucia          v Barbados              2-1   @ Castries, Saint Lucia
+Fri Mar 20
+  Martinique           v Barbados              4-1   @ Castries, Saint Lucia
+  Saint Lucia          v Saint Vincent and the Grenadines  3-2   @ Castries, Saint Lucia
+Sun Mar 22
+  Saint Lucia          v Martinique            1-2   @ Castries, Saint Lucia
+Wed Apr 1
+  Dominica             v Guadeloupe            1-1   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v British Virgin Islands  4-0   @ Basseterre, Saint Kitts and Nevis
+Fri Apr 3
+  Guadeloupe           v British Virgin Islands  3-0   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v Dominica              1-2   @ Basseterre, Saint Kitts and Nevis
+Sun Apr 5
+  Dominica             v British Virgin Islands  4-1   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v Guadeloupe            2-1   @ Basseterre, Saint Kitts and Nevis
+Wed Apr 15
+  Grenada              v Anguilla              14-1   @ St. John's, Antigua and Barbuda
+Sun Apr 19
+  Antigua and Barbuda  v Grenada               2-1   @ St. John's, Antigua and Barbuda
+  Guyana               v Anguilla              14-0   @ St. John's, Antigua and Barbuda
+Wed May 6
+  Cayman Islands       v Cuba                  2-2   @ George Town, Cayman Islands
+Fri May 8
+  Cuba                 v Bermuda               2-1   @ George Town, Cayman Islands
+Sun May 10
+  Cayman Islands       v Bermuda               2-0   @ George Town, Cayman Islands
 

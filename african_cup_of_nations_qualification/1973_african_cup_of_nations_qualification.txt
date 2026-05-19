@@ -1,49 +1,49 @@
 = African Cup of Nations qualification 1973
 
-# Date       Sat Mar/31 - Sun Jul/29 1973 (120d)
+# Date       Sat Mar 31 - Sun Jul 29 1973 (120d)
 # Teams      21
 # Matches    30
 
-[Sat Mar 31]
-  Sierra Leone - Mali  1-1   @ Freetown, Sierra Leone
-[Sun Apr 8]
-  Central African Republic - Ivory Coast  4-2   @ Bangui, Central African Republic
-  Ghana - Senegal  3-2   @ Accra, Ghana
-  Lesotho - Mauritius  0-0   @ Maseru, Lesotho
-  Ethiopia - Tanzania  2-1   @ Addis Ababa, Ethiopia
-  Tanzania - Ethiopia  3-0   @ Dar es Salaam, Tanzania
-[Fri Apr 13]
-  Sudan - Nigeria  1-1   @ Khartoum, Sudan
-[Sun Apr 15]
-  Uganda - Kenya  1-0   @ Kampala, Uganda
-  Burkina Faso - DR Congo  0-5   @ Ouagadougou, Upper Volta
-[Sat Apr 21]
-  Nigeria - Sudan  2-1   @ Lagos, Nigeria
-  Senegal - Ghana  1-0   @ Dakar, Senegal   [Ghana wins on penalties]
-[Sun Apr 22]
-  Mauritius - Lesotho  5-1   @ Port Louis, Mauritius
-  DR Congo - Burkina Faso  4-1   @ Kinshasa, Zaïre
-[Sat Apr 28]
-  Kenya - Uganda  1-2   @ Nairobi, Kenya
-  Mali - Sierra Leone  4-2   @ Bamako, Mali
-[Sun May 27]
-  Cameroon - DR Congo  2-1   @ Yaoundé, Cameroon
-  Mali - Guinea  2-2   @ Bamako, Mali
-  Uganda - Algeria  2-1   @ Kampala, Uganda
-  Tanzania - Mauritius  1-1   @ Dar es Salaam, Tanzania
-[Tue Jun 5]
-  Zambia - Madagascar  3-1   @ Ndola, Zambia
-  Madagascar - Zambia  2-1   @ Antananarivo, Madagascar
-[Thu Jun 14]
-  Algeria - Uganda  1-1   @ Algiers, Algeria
-  Guinea - Mali  1-1   @ Conakry, Guinea   [Guinea wins on penalties]
-  Mauritius - Tanzania  1-1   @ Port Louis, Mauritius   [Mauritius wins on penalties]
-  DR Congo - Cameroon  2-0   @ Kinshasa, Zaïre
-[Sun Jul 15]
-  Ghana - Ivory Coast  0-3   @ Accra, Ghana
-  Zambia - Nigeria  5-1   @ Lusaka, Zambia
-  Nigeria - Zambia  3-2   @ Lagos, Nigeria
-[Sun Jul 29]
-  Ivory Coast - Central African Republic  5-1   @ Lagos, Nigeria
-  Ivory Coast - Ghana  1-0   @ Abidjan, Ivory Coast
+Sat Mar 31
+  Sierra Leone         v Mali                  1-1   @ Freetown, Sierra Leone
+Sun Apr 8
+  Central African Republic v Ivory Coast           4-2   @ Bangui, Central African Republic
+  Ghana                v Senegal               3-2   @ Accra, Ghana
+  Lesotho              v Mauritius             0-0   @ Maseru, Lesotho
+  Ethiopia             v Tanzania              2-1   @ Addis Ababa, Ethiopia
+  Tanzania             v Ethiopia              3-0   @ Dar es Salaam, Tanzania
+Fri Apr 13
+  Sudan                v Nigeria               1-1   @ Khartoum, Sudan
+Sun Apr 15
+  Uganda               v Kenya                 1-0   @ Kampala, Uganda
+  Burkina Faso         v DR Congo              0-5   @ Ouagadougou, Upper Volta
+Sat Apr 21
+  Nigeria              v Sudan                 2-1   @ Lagos, Nigeria
+  Senegal              v Ghana                 1-0   @ Dakar, Senegal   [Ghana wins on penalties]
+Sun Apr 22
+  Mauritius            v Lesotho               5-1   @ Port Louis, Mauritius
+  DR Congo             v Burkina Faso          4-1   @ Kinshasa, Zaïre
+Sat Apr 28
+  Kenya                v Uganda                1-2   @ Nairobi, Kenya
+  Mali                 v Sierra Leone          4-2   @ Bamako, Mali
+Sun May 27
+  Cameroon             v DR Congo              2-1   @ Yaoundé, Cameroon
+  Mali                 v Guinea                2-2   @ Bamako, Mali
+  Uganda               v Algeria               2-1   @ Kampala, Uganda
+  Tanzania             v Mauritius             1-1   @ Dar es Salaam, Tanzania
+Tue Jun 5
+  Zambia               v Madagascar            3-1   @ Ndola, Zambia
+  Madagascar           v Zambia                2-1   @ Antananarivo, Madagascar
+Thu Jun 14
+  Algeria              v Uganda                1-1   @ Algiers, Algeria
+  Guinea               v Mali                  1-1   @ Conakry, Guinea   [Guinea wins on penalties]
+  Mauritius            v Tanzania              1-1   @ Port Louis, Mauritius   [Mauritius wins on penalties]
+  DR Congo             v Cameroon              2-0   @ Kinshasa, Zaïre
+Sun Jul 15
+  Ghana                v Ivory Coast           0-3   @ Accra, Ghana
+  Zambia               v Nigeria               5-1   @ Lusaka, Zambia
+  Nigeria              v Zambia                3-2   @ Lagos, Nigeria
+Sun Jul 29
+  Ivory Coast          v Central African Republic  5-1   @ Lagos, Nigeria
+  Ivory Coast          v Ghana                 1-0   @ Abidjan, Ivory Coast
 

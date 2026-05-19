@@ -1,13 +1,13 @@
 = Cyprus International Tournament 1999
 
-# Date       Wed Feb/3 - Fri Feb/5 1999 (2d)
+# Date       Wed Feb 3 - Fri Feb 5 1999 (2d)
 # Teams      4
 # Matches    4
 
-[Wed Feb 3]
-  Cyprus - Belgium  0-1   @ Limassol, Cyprus
-  Greece - Finland  2-1   @ Larnaca, Cyprus
-[Fri Feb 5]
-  Cyprus - Finland  2-1   @ Paralímni, Cyprus
-  Greece - Belgium  1-0   @ Larnaca, Cyprus
+Wed Feb 3
+  Cyprus               v Belgium               0-1   @ Limassol, Cyprus
+  Greece               v Finland               2-1   @ Larnaca, Cyprus
+Fri Feb 5
+  Cyprus               v Finland               2-1   @ Paralímni, Cyprus
+  Greece               v Belgium               1-0   @ Larnaca, Cyprus
 

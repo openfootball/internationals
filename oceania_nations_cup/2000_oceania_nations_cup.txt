@@ -1,37 +1,37 @@
 = Oceania Nations Cup 2000
 
-# Date       Mon Jun/19 - Wed Jun/28 2000 (9d)
+# Date       Mon Jun 19 - Wed Jun 28 2000 (9d)
 # Teams      6
 # Matches    10
 
-[Mon Jun 19]
-  Australia - Cook Islands  17-0   @ Papeete, Tahiti
-     Paul Agostino 18' Kevin Muscat 21' Danny Tiatto 24' Craig Foster 30' David Zdrilic 35' Craig Foster 42' Kevin Muscat 45' (pen.) Craig Foster 51' Paul Agostino 53' Tony Popovic 60' David Zdrilic 65' Paul Agostino 68' Steve Corica 70' Craig Foster 80' Clayton Zane 82' Clayton Zane 87' Clayton Zane 89'
-  Tahiti - New Zealand  0-2   @ Papeete, Tahiti
-     -; Kris Bouckenooghe 27' Chris Jackson 78'
-[Wed Jun 21]
-  New Zealand - Vanuatu  3-1   @ Papeete, Tahiti
-     Chris Killen 47' Jonathan Perry 56' Chris Killen 84';
-     Richard Iwai 14'
-  Solomon Islands - Cook Islands  5-1   @ Papeete, Tahiti
-     Batram Suri 33' Commins Menapi 47' Jack Samani 63' Gideon Omokirio 74' Henry Koto 88';
-     Daniel Shepherd 55'
-[Thu Jun 22]
-  Tahiti - Vanuatu  2-3   @ Papeete, Tahiti
-     Jean-Loup Rousseau 2' (pen.) Harold Amaru 87';
-     Jimmy Ben 49' Richard Iwai 60' Georgina Tura 77'
-[Fri Jun 23]
-  Solomon Islands - Australia  0-6   @ Papeete, Tahiti
-     -; Scott Chipperfield 6' Clayton Zane 13' Clayton Zane 35' Gideon Omokirio 36' (o.g.) Kevin Muscat 39' (pen.) Pablo Cardozo 43'
-[Sun Jun 25]
-  Australia - Vanuatu  1-0   @ Papeete, Tahiti
-     Kevin Muscat 5' (pen.)
-  New Zealand - Solomon Islands  2-0   @ Papeete, Tahiti
-     Simon Elliott 51' Simon Elliott 55'
-[Wed Jun 28]
-  Australia - New Zealand  2-0   @ Papeete, Tahiti
-     Shaun Murphy 40' Craig Foster 66'
-  Vanuatu - Solomon Islands  1-2   @ Papeete, Tahiti
-     Lexa Bibi 35';
-     Commins Menapi 53' Gideon Omokirio 69' (pen.)
+Mon Jun 19
+  Australia            v Cook Islands          17-0   @ Papeete, Tahiti
+     (Paul Agostino 18' Kevin Muscat 21' Danny Tiatto 24' Craig Foster 30' David Zdrilic 35' Craig Foster 42' Kevin Muscat 45'(p) Craig Foster 51' Paul Agostino 53' Tony Popovic 60' David Zdrilic 65' Paul Agostino 68' Steve Corica 70' Craig Foster 80' Clayton Zane 82' Clayton Zane 87' Clayton Zane 89')
+  Tahiti               v New Zealand           0-2   @ Papeete, Tahiti
+     (Kris Bouckenooghe 27' Chris Jackson 78')
+Wed Jun 21
+  New Zealand          v Vanuatu               3-1   @ Papeete, Tahiti
+     (Chris Killen 47' Jonathan Perry 56' Chris Killen 84';
+      Richard Iwai 14')
+  Solomon Islands      v Cook Islands          5-1   @ Papeete, Tahiti
+     (Batram Suri 33' Commins Menapi 47' Jack Samani 63' Gideon Omokirio 74' Henry Koto 88';
+      Daniel Shepherd 55')
+Thu Jun 22
+  Tahiti               v Vanuatu               2-3   @ Papeete, Tahiti
+     (Jean-Loup Rousseau 2'(p) Harold Amaru 87';
+      Jimmy Ben 49' Richard Iwai 60' Georgina Tura 77')
+Fri Jun 23
+  Solomon Islands      v Australia             0-6   @ Papeete, Tahiti
+     (Scott Chipperfield 6' Clayton Zane 13' Clayton Zane 35' Gideon Omokirio 36'(og) Kevin Muscat 39'(p) Pablo Cardozo 43')
+Sun Jun 25
+  Australia            v Vanuatu               1-0   @ Papeete, Tahiti
+     (Kevin Muscat 5'(p))
+  New Zealand          v Solomon Islands       2-0   @ Papeete, Tahiti
+     (Simon Elliott 51' Simon Elliott 55')
+Wed Jun 28
+  Australia            v New Zealand           2-0   @ Papeete, Tahiti
+     (Shaun Murphy 40' Craig Foster 66')
+  Vanuatu              v Solomon Islands       1-2   @ Papeete, Tahiti
+     (Lexa Bibi 35';
+      Commins Menapi 53' Gideon Omokirio 69'(p))
 

@@ -1,13 +1,13 @@
 = Prime Minister's Cup 2004
 
-# Date       Wed Dec/1 - Fri Dec/3 2004 (2d)
+# Date       Wed Dec 1 - Fri Dec 3 2004 (2d)
 # Teams      4
 # Matches    4
 
-[Wed Dec 1]
-  Bahrain - Finland  1-2   @ Riffa, Bahrain
-  Latvia - Oman  2-3   @ Riffa, Bahrain
-[Fri Dec 3]
-  Bahrain - Latvia  2-2   @ Riffa, Bahrain   [Bahrain wins on penalties]
-  Finland - Oman  0-0   @ Riffa, Bahrain   [Oman wins on penalties]
+Wed Dec 1
+  Bahrain              v Finland               1-2   @ Riffa, Bahrain
+  Latvia               v Oman                  2-3   @ Riffa, Bahrain
+Fri Dec 3
+  Bahrain              v Latvia                2-2   @ Riffa, Bahrain   [Bahrain wins on penalties]
+  Finland              v Oman                  0-0   @ Riffa, Bahrain   [Oman wins on penalties]
 

@@ -1,19 +1,19 @@
 = British Home Championship 1980
 
-# Date       Fri May/16 - Sat May/24 1980 (8d)
+# Date       Fri May 16 - Sat May 24 1980 (8d)
 # Teams      4
 # Matches    6
 
-[Fri May 16]
-  Northern Ireland - Scotland  1-0   @ Belfast, Northern Ireland
-[Sat May 17]
-  Wales - England  4-1   @ Wrexham, Wales
-[Tue May 20]
-  England - Northern Ireland  1-1   @ London, England
-[Wed May 21]
-  Scotland - Wales  1-0   @ Glasgow, Scotland
-[Fri May 23]
-  Wales - Northern Ireland  0-1   @ Cardiff, Wales
-[Sat May 24]
-  Scotland - England  0-2   @ Glasgow, Scotland
+Fri May 16
+  Northern Ireland     v Scotland              1-0   @ Belfast, Northern Ireland
+Sat May 17
+  Wales                v England               4-1   @ Wrexham, Wales
+Tue May 20
+  England              v Northern Ireland      1-1   @ London, England
+Wed May 21
+  Scotland             v Wales                 1-0   @ Glasgow, Scotland
+Fri May 23
+  Wales                v Northern Ireland      0-1   @ Cardiff, Wales
+Sat May 24
+  Scotland             v England               0-2   @ Glasgow, Scotland
 

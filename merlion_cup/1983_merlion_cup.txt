@@ -1,15 +1,15 @@
 = Merlion Cup 1983
 
-# Date       Sun Dec/4 - Sat Dec/17 1983 (13d)
+# Date       Sun Dec 4 - Sat Dec 17 1983 (13d)
 # Teams      4
 # Matches    4
 
-[Sun Dec 4]
-  Australia - China PR  1-2   @ Kallang, Singapore
-[Sun Dec 11]
-  Singapore - Brunei  4-0   @ Kallang, Singapore
-[Wed Dec 14]
-  Singapore - China PR  1-0   @ Kallang, Singapore
-[Sat Dec 17]
-  Singapore - Australia  2-4   @ Kallang, Singapore
+Sun Dec 4
+  Australia            v China PR              1-2   @ Kallang, Singapore
+Sun Dec 11
+  Singapore            v Brunei                4-0   @ Kallang, Singapore
+Wed Dec 14
+  Singapore            v China PR              1-0   @ Kallang, Singapore
+Sat Dec 17
+  Singapore            v Australia             2-4   @ Kallang, Singapore
 

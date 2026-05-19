@@ -1,13 +1,13 @@
 = Vietnam Independence Cup 1966
 
-# Date       Tue Nov/1 - Sat Nov/5 1966 (4d)
+# Date       Tue Nov 1 - Sat Nov 5 1966 (4d)
 # Teams      3
 # Matches    3
 
-[Tue Nov 1]
-  Vietnam Republic - Malaysia  3-2   @ Saigon, Vietnam Republic
-[Thu Nov 3]
-  Malaysia - Thailand  1-1   @ Saigon, Vietnam Republic
-[Sat Nov 5]
-  Vietnam Republic - Thailand  4-1   @ Saigon, Vietnam Republic
+Tue Nov 1
+  Vietnam Republic     v Malaysia              3-2   @ Saigon, Vietnam Republic
+Thu Nov 3
+  Malaysia             v Thailand              1-1   @ Saigon, Vietnam Republic
+Sat Nov 5
+  Vietnam Republic     v Thailand              4-1   @ Saigon, Vietnam Republic
 

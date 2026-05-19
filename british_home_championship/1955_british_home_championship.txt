@@ -1,19 +1,19 @@
 = British Home Championship 1955
 
-# Date       Sat Apr/2 - Wed Nov/9 1955 (221d)
+# Date       Sat Apr 2 - Wed Nov 9 1955 (221d)
 # Teams      4
 # Matches    6
 
-[Sat Apr 2]
-  England - Scotland  7-2   @ London, England
-[Wed Apr 20]
-  Northern Ireland - Wales  2-3   @ Belfast, Northern Ireland
-[Sat Oct 8]
-  Northern Ireland - Scotland  2-1   @ Belfast, Northern Ireland
-[Sat Oct 22]
-  Wales - England  2-1   @ Cardiff, Wales
-[Wed Nov 2]
-  England - Northern Ireland  3-0   @ London, England
-[Wed Nov 9]
-  Scotland - Wales  2-0   @ Glasgow, Scotland
+Sat Apr 2
+  England              v Scotland              7-2   @ London, England
+Wed Apr 20
+  Northern Ireland     v Wales                 2-3   @ Belfast, Northern Ireland
+Sat Oct 8
+  Northern Ireland     v Scotland              2-1   @ Belfast, Northern Ireland
+Sat Oct 22
+  Wales                v England               2-1   @ Cardiff, Wales
+Wed Nov 2
+  England              v Northern Ireland      3-0   @ London, England
+Wed Nov 9
+  Scotland             v Wales                 2-0   @ Glasgow, Scotland
 

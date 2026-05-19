@@ -1,35 +1,35 @@
 = Merdeka Tournament 1982
 
-# Date       Thu Aug/5 - Fri Aug/20 1982 (15d)
+# Date       Thu Aug 5 - Fri Aug 20 1982 (15d)
 # Teams      9
 # Matches    17
 
-[Thu Aug 5]
-  Malaysia - Indonesia  0-2   @ Kuala Lumpur, Malaysia
-[Fri Aug 6]
-  India - Thailand  0-0   @ Kuala Lumpur, Malaysia
-  South Korea - Senegal  0-2   @ Kuala Lumpur, Malaysia
-[Sat Aug 7]
-  Singapore - Ghana  0-3   @ Kuala Lumpur, Malaysia
-  Malaysia - United Arab Emirates  1-0   @ Kuala Lumpur, Malaysia
-[Sun Aug 8]
-  South Korea - Indonesia  4-0   @ Kuala Lumpur, Malaysia
-[Mon Aug 9]
-  Ghana - India  1-0   @ Kuala Lumpur, Malaysia
-  Senegal - United Arab Emirates  3-1   @ Kuala Lumpur, Malaysia
-[Tue Aug 10]
-  Malaysia - South Korea  1-2   @ Kuala Lumpur, Malaysia
-[Wed Aug 11]
-  Indonesia - Senegal  2-2   @ Kuala Lumpur, Malaysia
-  Thailand - Ghana  1-4   @ Kota Bharu, Malaysia
-[Thu Aug 12]
-  Singapore - India  3-0   @ George Town, Malaysia
-  South Korea - United Arab Emirates  3-2   @ Kuala Lumpur, Malaysia
-[Fri Aug 13]
-  Malaysia - Senegal  1-0   @ Kuantan, Malaysia
-[Sat Aug 14]
-  Singapore - Thailand  2-0   @ Kuala Lumpur, Malaysia
-  Indonesia - United Arab Emirates  1-2   @ Kuala Lumpur, Malaysia
-[Fri Aug 20]
-  Ghana - Senegal  2-2   @ Kuala Lumpur, Malaysia
+Thu Aug 5
+  Malaysia             v Indonesia             0-2   @ Kuala Lumpur, Malaysia
+Fri Aug 6
+  India                v Thailand              0-0   @ Kuala Lumpur, Malaysia
+  South Korea          v Senegal               0-2   @ Kuala Lumpur, Malaysia
+Sat Aug 7
+  Singapore            v Ghana                 0-3   @ Kuala Lumpur, Malaysia
+  Malaysia             v United Arab Emirates  1-0   @ Kuala Lumpur, Malaysia
+Sun Aug 8
+  South Korea          v Indonesia             4-0   @ Kuala Lumpur, Malaysia
+Mon Aug 9
+  Ghana                v India                 1-0   @ Kuala Lumpur, Malaysia
+  Senegal              v United Arab Emirates  3-1   @ Kuala Lumpur, Malaysia
+Tue Aug 10
+  Malaysia             v South Korea           1-2   @ Kuala Lumpur, Malaysia
+Wed Aug 11
+  Indonesia            v Senegal               2-2   @ Kuala Lumpur, Malaysia
+  Thailand             v Ghana                 1-4   @ Kota Bharu, Malaysia
+Thu Aug 12
+  Singapore            v India                 3-0   @ George Town, Malaysia
+  South Korea          v United Arab Emirates  3-2   @ Kuala Lumpur, Malaysia
+Fri Aug 13
+  Malaysia             v Senegal               1-0   @ Kuantan, Malaysia
+Sat Aug 14
+  Singapore            v Thailand              2-0   @ Kuala Lumpur, Malaysia
+  Indonesia            v United Arab Emirates  1-2   @ Kuala Lumpur, Malaysia
+Fri Aug 20
+  Ghana                v Senegal               2-2   @ Kuala Lumpur, Malaysia
 

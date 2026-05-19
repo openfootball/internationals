@@ -1,19 +1,19 @@
 = Baltic Cup 1992
 
-# Date       Fri Jul/10 - Sun Jul/12 1992 (2d)
+# Date       Fri Jul 10 - Sun Jul 12 1992 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Jul 10]
-  Latvia - Estonia  2-1   @ Liepāja, Latvia
-     Ainārs Linards 34' Ainārs Linards 38';
-     Indro Olumets 61'
-[Sat Jul 11]
-  Estonia - Lithuania  1-1   @ Liepāja, Latvia
-     Indro Olumets 64';
-     Vaidotas Šlekys 27'
-[Sun Jul 12]
-  Latvia - Lithuania  2-3   @ Liepāja, Latvia
-     Vitalijs Teplovs 27' Jurijs Popkovs 89';
-     Virginijus Baltušnikas 28' Virginijus Baltušnikas 31' Virginijus Baltušnikas 79'
+Fri Jul 10
+  Latvia               v Estonia               2-1   @ Liepāja, Latvia
+     (Ainārs Linards 34' Ainārs Linards 38';
+      Indro Olumets 61')
+Sat Jul 11
+  Estonia              v Lithuania             1-1   @ Liepāja, Latvia
+     (Indro Olumets 64';
+      Vaidotas Šlekys 27')
+Sun Jul 12
+  Latvia               v Lithuania             2-3   @ Liepāja, Latvia
+     (Vitalijs Teplovs 27' Jurijs Popkovs 89';
+      Virginijus Baltušnikas 28' Virginijus Baltušnikas 31' Virginijus Baltušnikas 79')
 

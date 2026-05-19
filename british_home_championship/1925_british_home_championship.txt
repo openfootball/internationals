@@ -1,20 +1,20 @@
 = British Home Championship 1925
 
-# Date       Sat Feb/14 - Sat Oct/31 1925 (259d)
+# Date       Sat Feb 14 - Sat Oct 31 1925 (259d)
 # Teams      4
 # Matches    7
 
-[Sat Feb 14]
-  Scotland - Wales  3-1   @ Edinburgh, Scotland
-[Sat Feb 28]
-  Northern Ireland - Scotland  0-3   @ Belfast, Northern Ireland
-  Wales - England  1-2   @ Swansea, Wales
-[Sat Apr 4]
-  Scotland - England  2-0   @ Glasgow, Scotland
-[Sat Apr 18]
-  Wales - Northern Ireland  0-0   @ Wrexham, Wales
-[Sat Oct 24]
-  Northern Ireland - England  0-0   @ Belfast, Northern Ireland
-[Sat Oct 31]
-  Wales - Scotland  0-3   @ Cardiff, Wales
+Sat Feb 14
+  Scotland             v Wales                 3-1   @ Edinburgh, Scotland
+Sat Feb 28
+  Northern Ireland     v Scotland              0-3   @ Belfast, Northern Ireland
+  Wales                v England               1-2   @ Swansea, Wales
+Sat Apr 4
+  Scotland             v England               2-0   @ Glasgow, Scotland
+Sat Apr 18
+  Wales                v Northern Ireland      0-0   @ Wrexham, Wales
+Sat Oct 24
+  Northern Ireland     v England               0-0   @ Belfast, Northern Ireland
+Sat Oct 31
+  Wales                v Scotland              0-3   @ Cardiff, Wales
 

@@ -1,69 +1,69 @@
 = AFC Asian Cup 1988
 
-# Date       Fri Dec/2 - Sun Dec/18 1988 (16d)
+# Date       Fri Dec 2 - Sun Dec 18 1988 (16d)
 # Teams      10
 # Matches    24
 
-[Fri Dec 2]
-  Qatar - Iran  0-2   @ Doha, Qatar
-     -; Karim Bavi 6' Farshad Pious 89'
-  Syria - Saudi Arabia  0-2   @ Doha, Qatar
-     -; Saleh Al-Mutlaq 20' Mohamed Al-Suwaiyed Shehrani 82'
-[Sat Dec 3]
-  Kuwait - Bahrain  0-0   @ Doha, Qatar
-  United Arab Emirates - South Korea  0-1   @ Doha, Qatar
-     -; Lee Tae-ho 8' (pen.)
-[Sun Dec 4]
-  China PR - Syria  3-0   @ Doha, Qatar
-     Gao Sheng 13' Xie Yuxin 14' Xie Yuxin 19'
-  Japan - Iran  0-0   @ Doha, Qatar
-[Mon Dec 5]
-  Qatar - United Arab Emirates  2-1   @ Doha, Qatar
-     Mansour Muftah 17' Muhsin Musabah 26' (o.g.);
-     Hassan Mohamed 35'
-  Saudi Arabia - Kuwait  0-0   @ Doha, Qatar
-[Tue Dec 6]
-  Bahrain - China PR  0-1   @ Doha, Qatar
-     -; Zhang Xiaowen 78'
-  South Korea - Japan  2-0   @ Doha, Qatar
-     Hwang Sun-hong 13' Kim Joo-sung 35'
-[Thu Dec 8]
-  Iran - United Arab Emirates  1-0   @ Doha, Qatar
-     Farshad Pious 27'
-  Syria - Kuwait  1-0   @ Doha, Qatar
-     Walid Al-Nasser 63'
-[Fri Dec 9]
-  Qatar - South Korea  2-3   @ Doha, Qatar
-     Khalid Salman 47' (pen.) Khalid Salman 80' (pen.);
-     Chung Hae-won 10' Kim Joo-sung 34' Chung Hae-won 72'
-  Saudi Arabia - Bahrain  1-1   @ Doha, Qatar
-     Yousuf Jazea'a 78';
-     Fayad Mahmoud 44' (pen.)
-[Sat Dec 10]
-  Kuwait - China PR  2-2   @ Doha, Qatar
-     Adel Abbas Hussain 60' (pen.) Mansour Basha Mohamed 62';
-     Ma Lin 10' Ma Lin 87'
-  United Arab Emirates - Japan  1-0   @ Doha, Qatar
-     Abdulaziz Mohamed 86'
-[Sun Dec 11]
-  Bahrain - Syria  0-1   @ Doha, Qatar
-     -; Walid Abu Al-Sel 72' (pen.)
-  South Korea - Iran  3-0   @ Doha, Qatar
-     Byun Byung-joo 26' Hwang Sun-hong 42' Byun Byung-joo 57'
-[Mon Dec 12]
-  China PR - Saudi Arabia  0-1   @ Doha, Qatar
-     -; Fahad Al-Bishi 56'
-  Qatar - Japan  3-0   @ Doha, Qatar
-     Adel Khamis 58' Adel Khamis 82' Mansour Muftah 90'
-[Wed Dec 14]
-  South Korea - China PR  2-1   @ Doha, Qatar
-     Lee Tae-ho 93' Lee Tae-ho 103';
-     Mai Chao 100'
-[Thu Dec 15]
-  Saudi Arabia - Iran  1-0   @ Doha, Qatar
-     Majed Abdullah 16'
-[Sat Dec 17]
-  China PR - Iran  0-0   @ Doha, Qatar   [Iran wins on penalties]
-[Sun Dec 18]
-  South Korea - Saudi Arabia  0-0   @ Doha, Qatar   [Saudi Arabia wins on penalties]
+Fri Dec 2
+  Qatar                v Iran                  0-2   @ Doha, Qatar
+     (Karim Bavi 6' Farshad Pious 89')
+  Syria                v Saudi Arabia          0-2   @ Doha, Qatar
+     (Saleh Al-Mutlaq 20' Mohamed Al-Suwaiyed Shehrani 82')
+Sat Dec 3
+  Kuwait               v Bahrain               0-0   @ Doha, Qatar
+  United Arab Emirates v South Korea           0-1   @ Doha, Qatar
+     (Lee Tae-ho 8'(p))
+Sun Dec 4
+  China PR             v Syria                 3-0   @ Doha, Qatar
+     (Gao Sheng 13' Xie Yuxin 14' Xie Yuxin 19')
+  Japan                v Iran                  0-0   @ Doha, Qatar
+Mon Dec 5
+  Qatar                v United Arab Emirates  2-1   @ Doha, Qatar
+     (Mansour Muftah 17' Muhsin Musabah 26'(og);
+      Hassan Mohamed 35')
+  Saudi Arabia         v Kuwait                0-0   @ Doha, Qatar
+Tue Dec 6
+  Bahrain              v China PR              0-1   @ Doha, Qatar
+     (Zhang Xiaowen 78')
+  South Korea          v Japan                 2-0   @ Doha, Qatar
+     (Hwang Sun-hong 13' Kim Joo-sung 35')
+Thu Dec 8
+  Iran                 v United Arab Emirates  1-0   @ Doha, Qatar
+     (Farshad Pious 27')
+  Syria                v Kuwait                1-0   @ Doha, Qatar
+     (Walid Al-Nasser 63')
+Fri Dec 9
+  Qatar                v South Korea           2-3   @ Doha, Qatar
+     (Khalid Salman 47'(p) Khalid Salman 80'(p);
+      Chung Hae-won 10' Kim Joo-sung 34' Chung Hae-won 72')
+  Saudi Arabia         v Bahrain               1-1   @ Doha, Qatar
+     (Yousuf Jazea'a 78';
+      Fayad Mahmoud 44'(p))
+Sat Dec 10
+  Kuwait               v China PR              2-2   @ Doha, Qatar
+     (Adel Abbas Hussain 60'(p) Mansour Basha Mohamed 62';
+      Ma Lin 10' Ma Lin 87')
+  United Arab Emirates v Japan                 1-0   @ Doha, Qatar
+     (Abdulaziz Mohamed 86')
+Sun Dec 11
+  Bahrain              v Syria                 0-1   @ Doha, Qatar
+     (Walid Abu Al-Sel 72'(p))
+  South Korea          v Iran                  3-0   @ Doha, Qatar
+     (Byun Byung-joo 26' Hwang Sun-hong 42' Byun Byung-joo 57')
+Mon Dec 12
+  China PR             v Saudi Arabia          0-1   @ Doha, Qatar
+     (Fahad Al-Bishi 56')
+  Qatar                v Japan                 3-0   @ Doha, Qatar
+     (Adel Khamis 58' Adel Khamis 82' Mansour Muftah 90')
+Wed Dec 14
+  South Korea          v China PR              2-1   @ Doha, Qatar
+     (Lee Tae-ho 93' Lee Tae-ho 103';
+      Mai Chao 100')
+Thu Dec 15
+  Saudi Arabia         v Iran                  1-0   @ Doha, Qatar
+     (Majed Abdullah 16')
+Sat Dec 17
+  China PR             v Iran                  0-0   @ Doha, Qatar   [Iran wins on penalties]
+Sun Dec 18
+  South Korea          v Saudi Arabia          0-0   @ Doha, Qatar   [Saudi Arabia wins on penalties]
 

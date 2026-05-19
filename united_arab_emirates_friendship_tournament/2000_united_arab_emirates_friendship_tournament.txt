@@ -1,13 +1,13 @@
 = United Arab Emirates Friendship Tournament 2000
 
-# Date       Wed Oct/4 - Sat Oct/7 2000 (3d)
+# Date       Wed Oct 4 - Sat Oct 7 2000 (3d)
 # Teams      4
 # Matches    4
 
-[Wed Oct 4]
-  Australia - Kuwait  1-0   @ Dubai, United Arab Emirates
-  United Arab Emirates - South Korea  1-1   @ Dubai, United Arab Emirates   [United Arab Emirates wins on penalties]
-[Sat Oct 7]
-  Australia - South Korea  2-4   @ Dubai, United Arab Emirates
-  United Arab Emirates - Kuwait  1-0   @ Dubai, United Arab Emirates
+Wed Oct 4
+  Australia            v Kuwait                1-0   @ Dubai, United Arab Emirates
+  United Arab Emirates v South Korea           1-1   @ Dubai, United Arab Emirates   [United Arab Emirates wins on penalties]
+Sat Oct 7
+  Australia            v South Korea           2-4   @ Dubai, United Arab Emirates
+  United Arab Emirates v Kuwait                1-0   @ Dubai, United Arab Emirates
 

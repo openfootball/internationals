@@ -1,15 +1,15 @@
 = Copa Chevallier Boutell 1945
 
-# Date       Sat Jan/6 - Mon Jul/9 1945 (184d)
+# Date       Sat Jan 6 - Mon Jul 9 1945 (184d)
 # Teams      2
 # Matches    4
 
-[Sat Jan 6]
-  Argentina - Paraguay  5-2   @ Buenos Aires, Argentina
-[Tue Jan 9]
-  Argentina - Paraguay  5-3   @ Buenos Aires, Argentina
-[Sat Jul 7]
-  Paraguay - Argentina  5-1   @ Asunción, Paraguay
-[Mon Jul 9]
-  Paraguay - Argentina  1-3   @ Asunción, Paraguay
+Sat Jan 6
+  Argentina            v Paraguay              5-2   @ Buenos Aires, Argentina
+Tue Jan 9
+  Argentina            v Paraguay              5-3   @ Buenos Aires, Argentina
+Sat Jul 7
+  Paraguay             v Argentina             5-1   @ Asunción, Paraguay
+Mon Jul 9
+  Paraguay             v Argentina             1-3   @ Asunción, Paraguay
 

@@ -1,30 +1,30 @@
 = CECAFA Cup 1978
 
-# Date       Wed Nov/1 - Sun Nov/19 1978 (18d)
+# Date       Wed Nov 1 - Sun Nov 19 1978 (18d)
 # Teams      5
 # Matches    14
 
-[Wed Nov 1]
-  Malawi - Kenya  1-0   @ Blantyre, Malawi
-[Fri Nov 3]
-  Malawi - Somalia  3-1   @ Lilongwe, Malawi
-[Sun Nov 5]
-  Malawi - Uganda  0-2   @ Lilongwe, Malawi
-[Tue Nov 7]
-  Uganda - Zambia  1-2   @ Blantyre, Malawi
-[Thu Nov 9]
-  Kenya - Uganda  0-1   @ Blantyre, Malawi
-  Somalia - Zambia  0-4   @ Blantyre, Malawi
-[Sat Nov 11]
-  Kenya - Somalia  1-0   @ Blantyre, Malawi
-  Malawi - Zambia  2-1   @ Blantyre, Malawi
-[Mon Nov 13]
-  Kenya - Zambia  0-9   @ Blantyre, Malawi
-  Somalia - Uganda  2-2   @ Lilongwe, Malawi
-[Fri Nov 17]
-  Malawi - Kenya  2-0   @ Blantyre, Malawi
-  Uganda - Zambia  0-4   @ Blantyre, Malawi
-[Sun Nov 19]
-  Kenya - Uganda  2-0   @ Blantyre, Malawi
-  Malawi - Zambia  3-2   @ Blantyre, Malawi
+Wed Nov 1
+  Malawi               v Kenya                 1-0   @ Blantyre, Malawi
+Fri Nov 3
+  Malawi               v Somalia               3-1   @ Lilongwe, Malawi
+Sun Nov 5
+  Malawi               v Uganda                0-2   @ Lilongwe, Malawi
+Tue Nov 7
+  Uganda               v Zambia                1-2   @ Blantyre, Malawi
+Thu Nov 9
+  Kenya                v Uganda                0-1   @ Blantyre, Malawi
+  Somalia              v Zambia                0-4   @ Blantyre, Malawi
+Sat Nov 11
+  Kenya                v Somalia               1-0   @ Blantyre, Malawi
+  Malawi               v Zambia                2-1   @ Blantyre, Malawi
+Mon Nov 13
+  Kenya                v Zambia                0-9   @ Blantyre, Malawi
+  Somalia              v Uganda                2-2   @ Lilongwe, Malawi
+Fri Nov 17
+  Malawi               v Kenya                 2-0   @ Blantyre, Malawi
+  Uganda               v Zambia                0-4   @ Blantyre, Malawi
+Sun Nov 19
+  Kenya                v Uganda                2-0   @ Blantyre, Malawi
+  Malawi               v Zambia                3-2   @ Blantyre, Malawi
 

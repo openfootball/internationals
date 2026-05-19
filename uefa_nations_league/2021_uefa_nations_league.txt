@@ -1,22 +1,22 @@
 = UEFA Nations League 2021
 
-# Date       Wed Oct/6 - Sun Oct/10 2021 (4d)
+# Date       Wed Oct 6 - Sun Oct 10 2021 (4d)
 # Teams      4
 # Matches    4
 
-[Wed Oct 6]
-  Italy - Spain  1-2   @ Milan, Italy
-     Lorenzo Pellegrini 83';
-     Ferran Torres 17' Ferran Torres 45'
-[Thu Oct 7]
-  Belgium - France  2-3   @ Turin, Italy
-     Yannick Carrasco 37' Romelu Lukaku 40';
-     Karim Benzema 62' Kylian Mbappé 69' (pen.) Théo Hernandez 90'
-[Sun Oct 10]
-  Italy - Belgium  2-1   @ Turin, Italy
-     Nicolò Barella 46' Domenico Berardi 65' (pen.);
-     Charles De Ketelaere 86'
-  Spain - France  1-2   @ Milan, Italy
-     Mikel Oyarzabal 64';
-     Karim Benzema 66' Kylian Mbappé 80'
+Wed Oct 6
+  Italy                v Spain                 1-2   @ Milan, Italy
+     (Lorenzo Pellegrini 83';
+      Ferran Torres 17' Ferran Torres 45')
+Thu Oct 7
+  Belgium              v France                2-3   @ Turin, Italy
+     (Yannick Carrasco 37' Romelu Lukaku 40';
+      Karim Benzema 62' Kylian Mbappé 69'(p) Théo Hernandez 90')
+Sun Oct 10
+  Italy                v Belgium               2-1   @ Turin, Italy
+     (Nicolò Barella 46' Domenico Berardi 65'(p);
+      Charles De Ketelaere 86')
+  Spain                v France                1-2   @ Milan, Italy
+     (Mikel Oyarzabal 64';
+      Karim Benzema 66' Kylian Mbappé 80')
 

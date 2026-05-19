@@ -1,19 +1,19 @@
 = Nordic Championship 1936
 
-# Date       Sun Jun/14 - Sun Sep/27 1936 (105d)
+# Date       Sun Jun 14 - Sun Sep 27 1936 (105d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 14]
-  Denmark - Sweden  4-3   @ Copenhagen, Denmark
-[Tue Jun 30]
-  Finland - Denmark  1-4   @ Helsinki, Finland
-[Sun Jul 5]
-  Sweden - Norway  2-0   @ Gothenburg, Sweden
-[Sun Sep 6]
-  Norway - Finland  0-2   @ Oslo, Norway
-[Sun Sep 20]
-  Norway - Denmark  3-3   @ Oslo, Norway
-[Sun Sep 27]
-  Finland - Sweden  1-2   @ Helsinki, Finland
+Sun Jun 14
+  Denmark              v Sweden                4-3   @ Copenhagen, Denmark
+Tue Jun 30
+  Finland              v Denmark               1-4   @ Helsinki, Finland
+Sun Jul 5
+  Sweden               v Norway                2-0   @ Gothenburg, Sweden
+Sun Sep 6
+  Norway               v Finland               0-2   @ Oslo, Norway
+Sun Sep 20
+  Norway               v Denmark               3-3   @ Oslo, Norway
+Sun Sep 27
+  Finland              v Sweden                1-2   @ Helsinki, Finland
 

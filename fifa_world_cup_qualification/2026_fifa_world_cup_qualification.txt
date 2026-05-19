@@ -1,51 +1,51 @@
 = FIFA World Cup qualification 2026
 
-# Date       Thu Mar/26 - Tue Mar/31 2026 (5d)
+# Date       Thu Mar 26 - Tue Mar 31 2026 (5d)
 # Teams      22
 # Matches    16
 
-[Thu Mar 26]
-  New Caledonia - Jamaica  0-1   @ Zapopan, Mexico
-     -; Bailey Cadamarteri 18'
-  Bolivia - Suriname  2-1   @ Guadalupe, Mexico
-     Moisés Paniagua 72' Miguel Terceros 79' (pen.);
-     Liam van Gelderen 48'
-  Italy - Northern Ireland  2-0   @ Bergamo, Italy
-     Sandro Tonali 56' Moise Kean 80'
-  Wales - Bosnia and Herzegovina  1-1   @ Cardiff, Wales   [Bosnia and Herzegovina wins on penalties]
-     Daniel James 51';
-     Edin Džeko 86'
-  Poland - Albania  2-1   @ Warsaw, Poland
-     Robert Lewandowski 63' Piotr Zieliński 73';
-     Arbër Hoxha 42'
-  Ukraine - Sweden  1-3   @ Valencia, Spain
-     Matviy Ponomarenko 90';
-     Viktor Gyökeres 6' Viktor Gyökeres 51' Viktor Gyökeres 73' (pen.)
-  Slovakia - Kosovo  3-4   @ Bratislava, Slovakia
-     Martin Valjent 6' Lukáš Haraslín 45' David Strelec 90';
-     Veldin Hodža 21' Fisnik Asllani 47' Florent Muslija 60' Kreshnik Hajrizi 72'
-  Turkey - Romania  1-0   @ Istanbul, Turkey
-     Ferdi Kadıoğlu 53'
-  Czech Republic - Republic of Ireland  2-2   @ Prague, Czech Republic   [Czech Republic wins on penalties]
-     Patrik Schick 27' (pen.) Ladislav Krejčí 86';
-     Troy Parrott 19' (pen.) Matěj Kovář 23' (o.g.)
-  Denmark - North Macedonia  4-0   @ Copenhagen, Denmark
-     Mikkel Damsgaard 49' Gustav Isaksen 58' Gustav Isaksen 59' Christian Nørgaard 75'
-[Tue Mar 31]
-  DR Congo - Jamaica  1-0   @ Zapopan, Mexico
-     Axel Tuanzebe 100'
-  Iraq - Bolivia  2-1   @ Guadalupe, Mexico
-     Ali Al-Hamadi 10' Aymen Hussein 53';
-     Moisés Paniagua 38'
-  Bosnia and Herzegovina - Italy  1-1   @ Zenica, Bosnia and Herzegovina   [Bosnia and Herzegovina wins on penalties]
-     Haris Tabaković 79';
-     Moise Kean 15'
-  Sweden - Poland  3-2   @ Solna, Sweden
-     Anthony Elanga 20' Gustaf Lagerbielke 44' Viktor Gyökeres 88';
-     Nicola Zalewski 33' Karol Świderski 55'
-  Kosovo - Turkey  0-1   @ Pristina, Kosovo
-     -; Kerem Aktürkoğlu 53'
-  Czech Republic - Denmark  2-2   @ Prague, Czech Republic   [Czech Republic wins on penalties]
-     Pavel Šulc 3' Ladislav Krejčí 100';
-     Joachim Andersen 72' Kasper Høgh 111'
+Thu Mar 26
+  New Caledonia        v Jamaica               0-1   @ Zapopan, Mexico
+     (Bailey Cadamarteri 18')
+  Bolivia              v Suriname              2-1   @ Guadalupe, Mexico
+     (Moisés Paniagua 72' Miguel Terceros 79'(p);
+      Liam van Gelderen 48')
+  Italy                v Northern Ireland      2-0   @ Bergamo, Italy
+     (Sandro Tonali 56' Moise Kean 80')
+  Wales                v Bosnia and Herzegovina  1-1   @ Cardiff, Wales   [Bosnia and Herzegovina wins on penalties]
+     (Daniel James 51';
+      Edin Džeko 86')
+  Poland               v Albania               2-1   @ Warsaw, Poland
+     (Robert Lewandowski 63' Piotr Zieliński 73';
+      Arbër Hoxha 42')
+  Ukraine              v Sweden                1-3   @ Valencia, Spain
+     (Matviy Ponomarenko 90';
+      Viktor Gyökeres 6' Viktor Gyökeres 51' Viktor Gyökeres 73'(p))
+  Slovakia             v Kosovo                3-4   @ Bratislava, Slovakia
+     (Martin Valjent 6' Lukáš Haraslín 45' David Strelec 90';
+      Veldin Hodža 21' Fisnik Asllani 47' Florent Muslija 60' Kreshnik Hajrizi 72')
+  Turkey               v Romania               1-0   @ Istanbul, Turkey
+     (Ferdi Kadıoğlu 53')
+  Czech Republic       v Republic of Ireland   2-2   @ Prague, Czech Republic   [Czech Republic wins on penalties]
+     (Patrik Schick 27'(p) Ladislav Krejčí 86';
+      Troy Parrott 19'(p) Matěj Kovář 23'(og))
+  Denmark              v North Macedonia       4-0   @ Copenhagen, Denmark
+     (Mikkel Damsgaard 49' Gustav Isaksen 58' Gustav Isaksen 59' Christian Nørgaard 75')
+Tue Mar 31
+  DR Congo             v Jamaica               1-0   @ Zapopan, Mexico
+     (Axel Tuanzebe 100')
+  Iraq                 v Bolivia               2-1   @ Guadalupe, Mexico
+     (Ali Al-Hamadi 10' Aymen Hussein 53';
+      Moisés Paniagua 38')
+  Bosnia and Herzegovina v Italy                 1-1   @ Zenica, Bosnia and Herzegovina   [Bosnia and Herzegovina wins on penalties]
+     (Haris Tabaković 79';
+      Moise Kean 15')
+  Sweden               v Poland                3-2   @ Solna, Sweden
+     (Anthony Elanga 20' Gustaf Lagerbielke 44' Viktor Gyökeres 88';
+      Nicola Zalewski 33' Karol Świderski 55')
+  Kosovo               v Turkey                0-1   @ Pristina, Kosovo
+     (Kerem Aktürkoğlu 53')
+  Czech Republic       v Denmark               2-2   @ Prague, Czech Republic   [Czech Republic wins on penalties]
+     (Pavel Šulc 3' Ladislav Krejčí 100';
+      Joachim Andersen 72' Kasper Høgh 111')
 

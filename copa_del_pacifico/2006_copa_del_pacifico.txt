@@ -1,11 +1,11 @@
 = Copa del Pacífico 2006
 
-# Date       Sat Oct/7 - Wed Oct/11 2006 (4d)
+# Date       Sat Oct 7 - Wed Oct 11 2006 (4d)
 # Teams      2
 # Matches    2
 
-[Sat Oct 7]
-  Chile - Peru  3-2   @ Viña del Mar, Chile
-[Wed Oct 11]
-  Peru - Chile  0-1   @ Tacna, Peru
+Sat Oct 7
+  Chile                v Peru                  3-2   @ Viña del Mar, Chile
+Wed Oct 11
+  Peru                 v Chile                 0-1   @ Tacna, Peru
 

@@ -1,56 +1,56 @@
 = Asian Games 1994
 
-# Date       Sat Oct/1 - Sun Oct/16 1994 (15d)
+# Date       Sat Oct 1 - Sun Oct 16 1994 (15d)
 # Teams      18
 # Matches    40
 
-[Sat Oct 1]
-  Turkmenistan - China PR  2-2   @ Hiroshima, Japan
-  Yemen - Bahrain  0-2   @ Hiroshima, Japan
-  Saudi Arabia - Uzbekistan  1-4   @ Hiroshima, Japan
-  Malaysia - Hong Kong  4-3   @ Hiroshima, Japan
-  South Korea - Nepal  11-0   @ Onomichi, Japan
-  Kuwait - Oman  2-2   @ Miyoshi, Japan
-[Mon Oct 3]
-  China PR - Yemen  4-0   @ Hiroshima, Japan
-  Iran - Bahrain  0-0   @ Hiroshima, Japan
-  Uzbekistan - Malaysia  5-0   @ Hiroshima, Japan
-  Thailand - Hong Kong  1-2   @ Hiroshima, Japan
-  Kuwait - Nepal  8-0   @ Onomichi, Japan
-  Qatar - Myanmar  2-2   @ Miyoshi, Japan
-  Japan - United Arab Emirates  1-1   @ Miyoshi, Japan
-[Wed Oct 5]
-  Bahrain - China PR  2-3   @ Onomichi, Japan
-  Iran - Turkmenistan  1-1   @ Onomichi, Japan
-  Hong Kong - Uzbekistan  0-1   @ Miyoshi, Japan
-  Thailand - Saudi Arabia  2-4   @ Miyoshi, Japan
-  South Korea - Oman  2-1   @ Hiroshima, Japan
-  Myanmar - United Arab Emirates  0-2   @ Hiroshima, Japan
-  Japan - Qatar  1-1   @ Hiroshima, Japan
-[Fri Oct 7]
-  Iran - China PR  0-1   @ Hiroshima, Japan
-  Yemen - Turkmenistan  0-4   @ Hiroshima, Japan
-  Thailand - Uzbekistan  4-5   @ Hiroshima, Japan
-  Malaysia - Saudi Arabia  1-2   @ Hiroshima, Japan
-  South Korea - Kuwait  0-1   @ Miyoshi, Japan
-[Sun Oct 9]
-  Bahrain - Turkmenistan  2-2   @ Miyoshi, Japan
-  Iran - Yemen  4-0   @ Miyoshi, Japan
-  Hong Kong - Saudi Arabia  1-2   @ Hiroshima, Japan
-  Thailand - Malaysia  1-1   @ Hiroshima, Japan
-  Oman - Nepal  1-0   @ Hiroshima, Japan
-  United Arab Emirates - Qatar  2-2   @ Onomichi, Japan
-  Japan - Myanmar  5-0   @ Onomichi, Japan
-[Tue Oct 11]
-  China PR - Saudi Arabia  2-0   @ Onomichi, Japan
-  Kuwait - United Arab Emirates  2-1   @ Hiroshima, Japan
-  Uzbekistan - Turkmenistan  3-0   @ Miyoshi, Japan
-  Japan - South Korea  2-3   @ Hiroshima, Japan
-[Thu Oct 13]
-  China PR - Kuwait  2-0   @ Hiroshima, Japan
-  Uzbekistan - South Korea  1-0   @ Hiroshima, Japan
-[Sat Oct 15]
-  Kuwait - South Korea  2-1   @ Hiroshima, Japan
-[Sun Oct 16]
-  China PR - Uzbekistan  2-4   @ Hiroshima, Japan
+Sat Oct 1
+  Turkmenistan         v China PR              2-2   @ Hiroshima, Japan
+  Yemen                v Bahrain               0-2   @ Hiroshima, Japan
+  Saudi Arabia         v Uzbekistan            1-4   @ Hiroshima, Japan
+  Malaysia             v Hong Kong             4-3   @ Hiroshima, Japan
+  South Korea          v Nepal                 11-0   @ Onomichi, Japan
+  Kuwait               v Oman                  2-2   @ Miyoshi, Japan
+Mon Oct 3
+  China PR             v Yemen                 4-0   @ Hiroshima, Japan
+  Iran                 v Bahrain               0-0   @ Hiroshima, Japan
+  Uzbekistan           v Malaysia              5-0   @ Hiroshima, Japan
+  Thailand             v Hong Kong             1-2   @ Hiroshima, Japan
+  Kuwait               v Nepal                 8-0   @ Onomichi, Japan
+  Qatar                v Myanmar               2-2   @ Miyoshi, Japan
+  Japan                v United Arab Emirates  1-1   @ Miyoshi, Japan
+Wed Oct 5
+  Bahrain              v China PR              2-3   @ Onomichi, Japan
+  Iran                 v Turkmenistan          1-1   @ Onomichi, Japan
+  Hong Kong            v Uzbekistan            0-1   @ Miyoshi, Japan
+  Thailand             v Saudi Arabia          2-4   @ Miyoshi, Japan
+  South Korea          v Oman                  2-1   @ Hiroshima, Japan
+  Myanmar              v United Arab Emirates  0-2   @ Hiroshima, Japan
+  Japan                v Qatar                 1-1   @ Hiroshima, Japan
+Fri Oct 7
+  Iran                 v China PR              0-1   @ Hiroshima, Japan
+  Yemen                v Turkmenistan          0-4   @ Hiroshima, Japan
+  Thailand             v Uzbekistan            4-5   @ Hiroshima, Japan
+  Malaysia             v Saudi Arabia          1-2   @ Hiroshima, Japan
+  South Korea          v Kuwait                0-1   @ Miyoshi, Japan
+Sun Oct 9
+  Bahrain              v Turkmenistan          2-2   @ Miyoshi, Japan
+  Iran                 v Yemen                 4-0   @ Miyoshi, Japan
+  Hong Kong            v Saudi Arabia          1-2   @ Hiroshima, Japan
+  Thailand             v Malaysia              1-1   @ Hiroshima, Japan
+  Oman                 v Nepal                 1-0   @ Hiroshima, Japan
+  United Arab Emirates v Qatar                 2-2   @ Onomichi, Japan
+  Japan                v Myanmar               5-0   @ Onomichi, Japan
+Tue Oct 11
+  China PR             v Saudi Arabia          2-0   @ Onomichi, Japan
+  Kuwait               v United Arab Emirates  2-1   @ Hiroshima, Japan
+  Uzbekistan           v Turkmenistan          3-0   @ Miyoshi, Japan
+  Japan                v South Korea           2-3   @ Hiroshima, Japan
+Thu Oct 13
+  China PR             v Kuwait                2-0   @ Hiroshima, Japan
+  Uzbekistan           v South Korea           1-0   @ Hiroshima, Japan
+Sat Oct 15
+  Kuwait               v South Korea           2-1   @ Hiroshima, Japan
+Sun Oct 16
+  China PR             v Uzbekistan            2-4   @ Hiroshima, Japan
 

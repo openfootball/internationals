@@ -1,60 +1,60 @@
 = CFU Caribbean Cup qualification 2010
 
-# Date       Fri Oct/1 - Sun Nov/14 2010 (44d)
+# Date       Fri Oct 1 - Sun Nov 14 2010 (44d)
 # Teams      21
 # Matches    34
 
-[Fri Oct 1]
-  Saint Martin - Cayman Islands  1-1   @ Bayamón, Puerto Rico
-[Sat Oct 2]
-  Puerto Rico - Anguilla  3-1   @ Bayamón, Puerto Rico
-[Mon Oct 4]
-  Cayman Islands - Anguilla  4-1   @ Bayamón, Puerto Rico
-  Puerto Rico - Saint Martin  2-0   @ Bayamón, Puerto Rico
-[Wed Oct 6]
-  Anguilla - Saint Martin  2-1   @ Bayamón, Puerto Rico
-  Barbados - Saint Kitts and Nevis  1-1   @ Kingstown, Saint Vincent and the Grenadines
-  Puerto Rico - Cayman Islands  2-0   @ Bayamón, Puerto Rico
-[Fri Oct 8]
-  Montserrat - Barbados  0-5   @ Kingstown, Saint Vincent and the Grenadines
-  Saint Vincent and the Grenadines - Saint Kitts and Nevis  1-1   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Oct 10]
-  Saint Kitts and Nevis - Montserrat  4-0   @ Kingstown, Saint Vincent and the Grenadines
-[Wed Oct 13]
-  Guyana - Saint Lucia  1-0   @ Paramaribo, Suriname
-  Suriname - Curaçao  2-1   @ Paramaribo, Suriname
-[Thu Oct 14]
-  Dominican Republic - British Virgin Islands  17-0   @ San Cristóbal, Dominican Republic
-[Fri Oct 15]
-  British Virgin Islands - Dominica  0-10   @ San Cristóbal, Dominican Republic
-  Curaçao - Guyana  2-3   @ Paramaribo, Suriname
-  Suriname - Saint Lucia  2-1   @ Paramaribo, Suriname
-[Sun Oct 17]
-  Dominican Republic - Dominica  0-1   @ San Cristóbal, Dominican Republic
-  Saint Lucia - Curaçao  2-2   @ Paramaribo, Suriname
-  Suriname - Guyana  0-2   @ Paramaribo, Suriname
-[Fri Oct 22]
-  Grenada - Puerto Rico  3-1   @ St. George's, Grenada
-  Saint Kitts and Nevis - Guadeloupe  1-2   @ St. George's, Grenada
-[Sun Oct 24]
-  Grenada - Saint Kitts and Nevis  2-0   @ St. George's, Grenada
-  Guadeloupe - Puerto Rico  3-2   @ St. George's, Grenada
-[Tue Oct 26]
-  Grenada - Guadeloupe  0-3   @ St. George's, Grenada
-  Puerto Rico - Saint Kitts and Nevis  0-1   @ St. George's, Grenada
-[Tue Nov 2]
-  Haiti - Guyana  0-0   @ San Fernando, Trinidad and Tobago
-[Thu Nov 4]
-  Trinidad and Tobago - Guyana  2-1   @ San Fernando, Trinidad and Tobago
-[Sat Nov 6]
-  Trinidad and Tobago - Haiti  4-0   @ San Fernando, Trinidad and Tobago
-[Wed Nov 10]
-  Antigua and Barbuda - Suriname  2-1   @ St. John's, Antigua and Barbuda
-  Cuba - Dominica  4-2   @ St. John's, Antigua and Barbuda
-[Fri Nov 12]
-  Antigua and Barbuda - Dominica  0-0   @ St. John's, Antigua and Barbuda
-  Suriname - Cuba  3-3   @ St. John's, Antigua and Barbuda
-[Sun Nov 14]
-  Antigua and Barbuda - Cuba  0-0   @ St. John's, Antigua and Barbuda
-  Dominica - Suriname  0-5   @ St. John's, Antigua and Barbuda
+Fri Oct 1
+  Saint Martin         v Cayman Islands        1-1   @ Bayamón, Puerto Rico
+Sat Oct 2
+  Puerto Rico          v Anguilla              3-1   @ Bayamón, Puerto Rico
+Mon Oct 4
+  Cayman Islands       v Anguilla              4-1   @ Bayamón, Puerto Rico
+  Puerto Rico          v Saint Martin          2-0   @ Bayamón, Puerto Rico
+Wed Oct 6
+  Anguilla             v Saint Martin          2-1   @ Bayamón, Puerto Rico
+  Barbados             v Saint Kitts and Nevis  1-1   @ Kingstown, Saint Vincent and the Grenadines
+  Puerto Rico          v Cayman Islands        2-0   @ Bayamón, Puerto Rico
+Fri Oct 8
+  Montserrat           v Barbados              0-5   @ Kingstown, Saint Vincent and the Grenadines
+  Saint Vincent and the Grenadines v Saint Kitts and Nevis  1-1   @ Kingstown, Saint Vincent and the Grenadines
+Sun Oct 10
+  Saint Kitts and Nevis v Montserrat            4-0   @ Kingstown, Saint Vincent and the Grenadines
+Wed Oct 13
+  Guyana               v Saint Lucia           1-0   @ Paramaribo, Suriname
+  Suriname             v Curaçao               2-1   @ Paramaribo, Suriname
+Thu Oct 14
+  Dominican Republic   v British Virgin Islands  17-0   @ San Cristóbal, Dominican Republic
+Fri Oct 15
+  British Virgin Islands v Dominica              0-10   @ San Cristóbal, Dominican Republic
+  Curaçao              v Guyana                2-3   @ Paramaribo, Suriname
+  Suriname             v Saint Lucia           2-1   @ Paramaribo, Suriname
+Sun Oct 17
+  Dominican Republic   v Dominica              0-1   @ San Cristóbal, Dominican Republic
+  Saint Lucia          v Curaçao               2-2   @ Paramaribo, Suriname
+  Suriname             v Guyana                0-2   @ Paramaribo, Suriname
+Fri Oct 22
+  Grenada              v Puerto Rico           3-1   @ St. George's, Grenada
+  Saint Kitts and Nevis v Guadeloupe            1-2   @ St. George's, Grenada
+Sun Oct 24
+  Grenada              v Saint Kitts and Nevis  2-0   @ St. George's, Grenada
+  Guadeloupe           v Puerto Rico           3-2   @ St. George's, Grenada
+Tue Oct 26
+  Grenada              v Guadeloupe            0-3   @ St. George's, Grenada
+  Puerto Rico          v Saint Kitts and Nevis  0-1   @ St. George's, Grenada
+Tue Nov 2
+  Haiti                v Guyana                0-0   @ San Fernando, Trinidad and Tobago
+Thu Nov 4
+  Trinidad and Tobago  v Guyana                2-1   @ San Fernando, Trinidad and Tobago
+Sat Nov 6
+  Trinidad and Tobago  v Haiti                 4-0   @ San Fernando, Trinidad and Tobago
+Wed Nov 10
+  Antigua and Barbuda  v Suriname              2-1   @ St. John's, Antigua and Barbuda
+  Cuba                 v Dominica              4-2   @ St. John's, Antigua and Barbuda
+Fri Nov 12
+  Antigua and Barbuda  v Dominica              0-0   @ St. John's, Antigua and Barbuda
+  Suriname             v Cuba                  3-3   @ St. John's, Antigua and Barbuda
+Sun Nov 14
+  Antigua and Barbuda  v Cuba                  0-0   @ St. John's, Antigua and Barbuda
+  Dominica             v Suriname              0-5   @ St. John's, Antigua and Barbuda
 

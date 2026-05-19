@@ -1,151 +1,151 @@
 = African Cup of Nations 2024
 
-# Date       Sat Jan/13 - Sun Feb/11 2024 (29d)
+# Date       Sat Jan 13 - Sun Feb 11 2024 (29d)
 # Teams      24
 # Matches    52
 
-[Sat Jan 13]
-  Ivory Coast - Guinea-Bissau  2-0   @ Ebimpé, Ivory Coast
-     Seko Fofana 4' Jean-Philippe Krasso 58'
-[Sun Jan 14]
-  Nigeria - Equatorial Guinea  1-1   @ Ebimpé, Ivory Coast
-     Victor Osimhen 38';
-     Iban Salvador 36'
-  Egypt - Mozambique  2-2   @ Abidjan, Ivory Coast
-     Mostafa Mohamed 2' Mohamed Salah 90' (pen.);
-     Witi 55' Clésio 58'
-  Ghana - Cape Verde  1-2   @ Abidjan, Ivory Coast
-     Alexander Djiku 56';
-     Jamiro Monteiro 17' Garry Rodrigues 90'
-[Mon Jan 15]
-  Senegal - Gambia  3-0   @ Yamoussoukro, Ivory Coast
-     Pape Gueye 4' Lamine Camara 52' Lamine Camara 86'
-  Cameroon - Guinea  1-1   @ Yamoussoukro, Ivory Coast
-     Frank Magri 51';
-     Mohamed Bayo 10'
-  Algeria - Angola  1-1   @ Bouaké, Ivory Coast
-     Baghdad Bounedjah 18';
-     Mabululu 68' (pen.)
-[Tue Jan 16]
-  Burkina Faso - Mauritania  1-0   @ Bouaké, Ivory Coast
-     Bertrand Traoré 90' (pen.)
-  Tunisia - Namibia  0-1   @ Korhogo, Ivory Coast
-     -; Deon Hotto 88'
-  Mali - South Africa  2-0   @ Korhogo, Ivory Coast
-     Hamari Traoré 60' Lassine Sinayoko 66'
-[Wed Jan 17]
-  Morocco - Tanzania  3-0   @ San-Pédro, Ivory Coast
-     Romain Saïss 30' Azzedine Ounahi 77' Youssef En-Nesyri 80'
-  DR Congo - Zambia  1-1   @ San-Pédro, Ivory Coast
-     Yoane Wissa 27';
-     Kings Kangwa 23'
-[Thu Jan 18]
-  Equatorial Guinea - Guinea-Bissau  4-2   @ Ebimpé, Ivory Coast
-     Emilio Nsue 21' Josete Miranda 46' Emilio Nsue 51' Emilio Nsue 61';
-     Esteban Obiang 37' (o.g.) Zé Turbo 90'
-  Ivory Coast - Nigeria  0-1   @ Ebimpé, Ivory Coast
-     -; William Troost-Ekong 55' (pen.)
-  Egypt - Ghana  2-2   @ Abidjan, Ivory Coast
-     Omar Marmoush 69' Mostafa Mohamed 74';
-     Mohammed Kudus 45' Mohammed Kudus 71'
-[Fri Jan 19]
-  Cape Verde - Mozambique  3-0   @ Abidjan, Ivory Coast
-     Bebé 32' Ryan Mendes 51' Kevin Pina 69'
-  Senegal - Cameroon  3-1   @ Yamoussoukro, Ivory Coast
-     Ismaïla Sarr 16' Habib Diallo 71' Sadio Mané 90';
-     Jean-Charles Castelletto 83'
-  Guinea - Gambia  1-0   @ Yamoussoukro, Ivory Coast
-     Aguibou Camara 69'
-[Sat Jan 20]
-  Algeria - Burkina Faso  2-2   @ Bouaké, Ivory Coast
-     Baghdad Bounedjah 51' Baghdad Bounedjah 90';
-     Mohamed Konaté 45' Bertrand Traoré 71' (pen.)
-  Mauritania - Angola  2-3   @ Bouaké, Ivory Coast
-     Sidi Bouna Amar 43' Aboubakary Koita 58';
-     Gelson Dala 30' Gelson Dala 50' Gilberto 53'
-  Tunisia - Mali  1-1   @ Korhogo, Ivory Coast
-     Hamza Rafia 20';
-     Lassine Sinayoko 10'
-[Sun Jan 21]
-  South Africa - Namibia  4-0   @ Korhogo, Ivory Coast
-     Percy Tau 14' (pen.) Themba Zwane 25' Themba Zwane 40' Thapelo Maseko 75'
-  Morocco - DR Congo  1-1   @ San-Pédro, Ivory Coast
-     Achraf Hakimi 6';
-     Silas Katompa Mvumpa 76'
-  Zambia - Tanzania  1-1   @ San-Pédro, Ivory Coast
-     Patson Daka 88';
-     Simon Msuva 11'
-[Mon Jan 22]
-  Guinea-Bissau - Nigeria  0-1   @ Abidjan, Ivory Coast
-     -; Opa Sanganté 36' (o.g.)
-  Ivory Coast - Equatorial Guinea  0-4   @ Ebimpé, Ivory Coast
-     -; Emilio Nsue 42' Pablo Ganet 73' Emilio Nsue 75' Jannick Buyla 88'
-  Cape Verde - Egypt  2-2   @ Abidjan, Ivory Coast
-     Gilson Tavares 45' Bryan Teixeira 90';
-     Trézéguet 50' Mostafa Mohamed 90'
-  Mozambique - Ghana  2-2   @ Ebimpé, Ivory Coast
-     Geny Catamo 90' (pen.) Reinildo Mandava 90';
-     Jordan Ayew 15' (pen.) Jordan Ayew 70' (pen.)
-[Tue Jan 23]
-  Gambia - Cameroon  2-3   @ Bouaké, Ivory Coast
-     Ablie Jallow 72' Ebrima Colley 85';
-     Karl Toko Ekambi 56' James Gomez 87' (o.g.) Christopher Wooh 90'
-  Guinea - Senegal  0-2   @ Yamoussoukro, Ivory Coast
-     -; Abdoulaye Seck 61' Iliman Ndiaye 90'
-  Angola - Burkina Faso  2-0   @ Yamoussoukro, Ivory Coast
-     Mabululu 36' Zini 90'
-  Mauritania - Algeria  1-0   @ Bouaké, Ivory Coast
-     Mohamed Dellahi Yali 37'
-[Wed Jan 24]
-  Namibia - Mali  0-0   @ San-Pédro, Ivory Coast
-  South Africa - Tunisia  0-0   @ Korhogo, Ivory Coast
-  Tanzania - DR Congo  0-0   @ Korhogo, Ivory Coast
-  Zambia - Morocco  0-1   @ San-Pédro, Ivory Coast
-     -; Hakim Ziyech 37'
-[Sat Jan 27]
-  Angola - Namibia  3-0   @ Bouaké, Ivory Coast
-     Gelson Dala 38' Gelson Dala 42' Mabululu 66'
-  Nigeria - Cameroon  2-0   @ Abidjan, Ivory Coast
-     Ademola Lookman 36' Ademola Lookman 90'
-[Sun Jan 28]
-  Egypt - DR Congo  1-1   @ San-Pédro, Ivory Coast   [DR Congo wins on penalties]
-     Mostafa Mohamed 45' (pen.);
-     Meschak Elia 37'
-  Equatorial Guinea - Guinea  0-1   @ Ebimpé, Ivory Coast
-     -; Mohamed Bayo 90'
-[Mon Jan 29]
-  Cape Verde - Mauritania  1-0   @ Abidjan, Ivory Coast
-     Ryan Mendes 88' (pen.)
-  Ivory Coast - Senegal  1-1   @ Yamoussoukro, Ivory Coast   [Ivory Coast wins on penalties]
-     Franck Kessié 86' (pen.);
-     Habib Diallo 4'
-[Tue Jan 30]
-  Mali - Burkina Faso  2-1   @ Korhogo, Ivory Coast
-     Edmond Tapsoba 3' (o.g.) Lassine Sinayoko 47';
-     Bertrand Traoré 57' (pen.)
-  Morocco - South Africa  0-2   @ San-Pédro, Ivory Coast
-     -; Evidence Makgopa 57' Teboho Mokoena 90'
-[Fri Feb 2]
-  DR Congo - Guinea  3-1   @ Ebimpé, Ivory Coast
-     Chancel Mbemba 27' Yoane Wissa 65' (pen.) Arthur Masuaku 82';
-     Mohamed Bayo 21' (pen.)
-  Nigeria - Angola  1-0   @ Abidjan, Ivory Coast
-     Ademola Lookman 41'
-[Sat Feb 3]
-  Cape Verde - South Africa  0-0   @ Yamoussoukro, Ivory Coast   [South Africa wins on penalties]
-  Ivory Coast - Mali  2-1   @ Bouaké, Ivory Coast
-     Simon Adingra 90' Oumar Diakité 120';
-     Nene Dorgeles 71'
-[Wed Feb 7]
-  Ivory Coast - DR Congo  1-0   @ Ebimpé, Ivory Coast
-     Sébastien Haller 65'
-  Nigeria - South Africa  1-1   @ Bouaké, Ivory Coast   [Nigeria wins on penalties]
-     William Troost-Ekong 67' (pen.);
-     Teboho Mokoena 90' (pen.)
-[Sat Feb 10]
-  South Africa - DR Congo  0-0   @ Abidjan, Ivory Coast
-[Sun Feb 11]
-  Ivory Coast - Nigeria  2-1   @ Ebimpé, Ivory Coast
-     Franck Kessié 62' Sébastien Haller 81';
-     William Troost-Ekong 38'
+Sat Jan 13
+  Ivory Coast          v Guinea-Bissau         2-0   @ Ebimpé, Ivory Coast
+     (Seko Fofana 4' Jean-Philippe Krasso 58')
+Sun Jan 14
+  Nigeria              v Equatorial Guinea     1-1   @ Ebimpé, Ivory Coast
+     (Victor Osimhen 38';
+      Iban Salvador 36')
+  Egypt                v Mozambique            2-2   @ Abidjan, Ivory Coast
+     (Mostafa Mohamed 2' Mohamed Salah 90'(p);
+      Witi 55' Clésio 58')
+  Ghana                v Cape Verde            1-2   @ Abidjan, Ivory Coast
+     (Alexander Djiku 56';
+      Jamiro Monteiro 17' Garry Rodrigues 90')
+Mon Jan 15
+  Senegal              v Gambia                3-0   @ Yamoussoukro, Ivory Coast
+     (Pape Gueye 4' Lamine Camara 52' Lamine Camara 86')
+  Cameroon             v Guinea                1-1   @ Yamoussoukro, Ivory Coast
+     (Frank Magri 51';
+      Mohamed Bayo 10')
+  Algeria              v Angola                1-1   @ Bouaké, Ivory Coast
+     (Baghdad Bounedjah 18';
+      Mabululu 68'(p))
+Tue Jan 16
+  Burkina Faso         v Mauritania            1-0   @ Bouaké, Ivory Coast
+     (Bertrand Traoré 90'(p))
+  Tunisia              v Namibia               0-1   @ Korhogo, Ivory Coast
+     (Deon Hotto 88')
+  Mali                 v South Africa          2-0   @ Korhogo, Ivory Coast
+     (Hamari Traoré 60' Lassine Sinayoko 66')
+Wed Jan 17
+  Morocco              v Tanzania              3-0   @ San-Pédro, Ivory Coast
+     (Romain Saïss 30' Azzedine Ounahi 77' Youssef En-Nesyri 80')
+  DR Congo             v Zambia                1-1   @ San-Pédro, Ivory Coast
+     (Yoane Wissa 27';
+      Kings Kangwa 23')
+Thu Jan 18
+  Equatorial Guinea    v Guinea-Bissau         4-2   @ Ebimpé, Ivory Coast
+     (Emilio Nsue 21' Josete Miranda 46' Emilio Nsue 51' Emilio Nsue 61';
+      Esteban Obiang 37'(og) Zé Turbo 90')
+  Ivory Coast          v Nigeria               0-1   @ Ebimpé, Ivory Coast
+     (William Troost-Ekong 55'(p))
+  Egypt                v Ghana                 2-2   @ Abidjan, Ivory Coast
+     (Omar Marmoush 69' Mostafa Mohamed 74';
+      Mohammed Kudus 45' Mohammed Kudus 71')
+Fri Jan 19
+  Cape Verde           v Mozambique            3-0   @ Abidjan, Ivory Coast
+     (Bebé 32' Ryan Mendes 51' Kevin Pina 69')
+  Senegal              v Cameroon              3-1   @ Yamoussoukro, Ivory Coast
+     (Ismaïla Sarr 16' Habib Diallo 71' Sadio Mané 90';
+      Jean-Charles Castelletto 83')
+  Guinea               v Gambia                1-0   @ Yamoussoukro, Ivory Coast
+     (Aguibou Camara 69')
+Sat Jan 20
+  Algeria              v Burkina Faso          2-2   @ Bouaké, Ivory Coast
+     (Baghdad Bounedjah 51' Baghdad Bounedjah 90';
+      Mohamed Konaté 45' Bertrand Traoré 71'(p))
+  Mauritania           v Angola                2-3   @ Bouaké, Ivory Coast
+     (Sidi Bouna Amar 43' Aboubakary Koita 58';
+      Gelson Dala 30' Gelson Dala 50' Gilberto 53')
+  Tunisia              v Mali                  1-1   @ Korhogo, Ivory Coast
+     (Hamza Rafia 20';
+      Lassine Sinayoko 10')
+Sun Jan 21
+  South Africa         v Namibia               4-0   @ Korhogo, Ivory Coast
+     (Percy Tau 14'(p) Themba Zwane 25' Themba Zwane 40' Thapelo Maseko 75')
+  Morocco              v DR Congo              1-1   @ San-Pédro, Ivory Coast
+     (Achraf Hakimi 6';
+      Silas Katompa Mvumpa 76')
+  Zambia               v Tanzania              1-1   @ San-Pédro, Ivory Coast
+     (Patson Daka 88';
+      Simon Msuva 11')
+Mon Jan 22
+  Guinea-Bissau        v Nigeria               0-1   @ Abidjan, Ivory Coast
+     (Opa Sanganté 36'(og))
+  Ivory Coast          v Equatorial Guinea     0-4   @ Ebimpé, Ivory Coast
+     (Emilio Nsue 42' Pablo Ganet 73' Emilio Nsue 75' Jannick Buyla 88')
+  Cape Verde           v Egypt                 2-2   @ Abidjan, Ivory Coast
+     (Gilson Tavares 45' Bryan Teixeira 90';
+      Trézéguet 50' Mostafa Mohamed 90')
+  Mozambique           v Ghana                 2-2   @ Ebimpé, Ivory Coast
+     (Geny Catamo 90'(p) Reinildo Mandava 90';
+      Jordan Ayew 15'(p) Jordan Ayew 70'(p))
+Tue Jan 23
+  Gambia               v Cameroon              2-3   @ Bouaké, Ivory Coast
+     (Ablie Jallow 72' Ebrima Colley 85';
+      Karl Toko Ekambi 56' James Gomez 87'(og) Christopher Wooh 90')
+  Guinea               v Senegal               0-2   @ Yamoussoukro, Ivory Coast
+     (Abdoulaye Seck 61' Iliman Ndiaye 90')
+  Angola               v Burkina Faso          2-0   @ Yamoussoukro, Ivory Coast
+     (Mabululu 36' Zini 90')
+  Mauritania           v Algeria               1-0   @ Bouaké, Ivory Coast
+     (Mohamed Dellahi Yali 37')
+Wed Jan 24
+  Namibia              v Mali                  0-0   @ San-Pédro, Ivory Coast
+  South Africa         v Tunisia               0-0   @ Korhogo, Ivory Coast
+  Tanzania             v DR Congo              0-0   @ Korhogo, Ivory Coast
+  Zambia               v Morocco               0-1   @ San-Pédro, Ivory Coast
+     (Hakim Ziyech 37')
+Sat Jan 27
+  Angola               v Namibia               3-0   @ Bouaké, Ivory Coast
+     (Gelson Dala 38' Gelson Dala 42' Mabululu 66')
+  Nigeria              v Cameroon              2-0   @ Abidjan, Ivory Coast
+     (Ademola Lookman 36' Ademola Lookman 90')
+Sun Jan 28
+  Egypt                v DR Congo              1-1   @ San-Pédro, Ivory Coast   [DR Congo wins on penalties]
+     (Mostafa Mohamed 45'(p);
+      Meschak Elia 37')
+  Equatorial Guinea    v Guinea                0-1   @ Ebimpé, Ivory Coast
+     (Mohamed Bayo 90')
+Mon Jan 29
+  Cape Verde           v Mauritania            1-0   @ Abidjan, Ivory Coast
+     (Ryan Mendes 88'(p))
+  Ivory Coast          v Senegal               1-1   @ Yamoussoukro, Ivory Coast   [Ivory Coast wins on penalties]
+     (Franck Kessié 86'(p);
+      Habib Diallo 4')
+Tue Jan 30
+  Mali                 v Burkina Faso          2-1   @ Korhogo, Ivory Coast
+     (Edmond Tapsoba 3'(og) Lassine Sinayoko 47';
+      Bertrand Traoré 57'(p))
+  Morocco              v South Africa          0-2   @ San-Pédro, Ivory Coast
+     (Evidence Makgopa 57' Teboho Mokoena 90')
+Fri Feb 2
+  DR Congo             v Guinea                3-1   @ Ebimpé, Ivory Coast
+     (Chancel Mbemba 27' Yoane Wissa 65'(p) Arthur Masuaku 82';
+      Mohamed Bayo 21'(p))
+  Nigeria              v Angola                1-0   @ Abidjan, Ivory Coast
+     (Ademola Lookman 41')
+Sat Feb 3
+  Cape Verde           v South Africa          0-0   @ Yamoussoukro, Ivory Coast   [South Africa wins on penalties]
+  Ivory Coast          v Mali                  2-1   @ Bouaké, Ivory Coast
+     (Simon Adingra 90' Oumar Diakité 120';
+      Nene Dorgeles 71')
+Wed Feb 7
+  Ivory Coast          v DR Congo              1-0   @ Ebimpé, Ivory Coast
+     (Sébastien Haller 65')
+  Nigeria              v South Africa          1-1   @ Bouaké, Ivory Coast   [Nigeria wins on penalties]
+     (William Troost-Ekong 67'(p);
+      Teboho Mokoena 90'(p))
+Sat Feb 10
+  South Africa         v DR Congo              0-0   @ Abidjan, Ivory Coast
+Sun Feb 11
+  Ivory Coast          v Nigeria               2-1   @ Ebimpé, Ivory Coast
+     (Franck Kessié 62' Sébastien Haller 81';
+      William Troost-Ekong 38')
 

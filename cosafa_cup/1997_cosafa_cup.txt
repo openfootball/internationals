@@ -1,27 +1,27 @@
 = COSAFA Cup 1997
 
-# Date       Sat Apr/12 - Sun Aug/31 1997 (141d)
+# Date       Sat Apr 12 - Sun Aug 31 1997 (141d)
 # Teams      5
 # Matches    10
 
-[Sat Apr 12]
-  Malawi - Mozambique  2-2   @ Lilongwe, Malawi
-[Sat Apr 19]
-  Zambia - Malawi  4-0   @ Lusaka, Zambia
-[Sat May 31]
-  Tanzania - Namibia  0-0   @ Mwanza, Tanzania
-[Sun Jun 15]
-  Mozambique - Tanzania  3-0   @ Maputo, Mozambique
-[Sat Jun 28]
-  Namibia - Malawi  4-1   @ Windhoek, Namibia
-[Sat Jul 5]
-  Tanzania - Zambia  2-2   @ Arusha, Tanzania
-[Sun Jul 20]
-  Mozambique - Namibia  1-1   @ Maputo, Mozambique
-[Sat Aug 2]
-  Zambia - Mozambique  2-1   @ Lusaka, Zambia
-[Sat Aug 9]
-  Malawi - Tanzania  2-2   @ Lilongwe, Malawi
-[Sun Aug 31]
-  Namibia - Zambia  1-1   @ Windhoek, Namibia
+Sat Apr 12
+  Malawi               v Mozambique            2-2   @ Lilongwe, Malawi
+Sat Apr 19
+  Zambia               v Malawi                4-0   @ Lusaka, Zambia
+Sat May 31
+  Tanzania             v Namibia               0-0   @ Mwanza, Tanzania
+Sun Jun 15
+  Mozambique           v Tanzania              3-0   @ Maputo, Mozambique
+Sat Jun 28
+  Namibia              v Malawi                4-1   @ Windhoek, Namibia
+Sat Jul 5
+  Tanzania             v Zambia                2-2   @ Arusha, Tanzania
+Sun Jul 20
+  Mozambique           v Namibia               1-1   @ Maputo, Mozambique
+Sat Aug 2
+  Zambia               v Mozambique            2-1   @ Lusaka, Zambia
+Sat Aug 9
+  Malawi               v Tanzania              2-2   @ Lilongwe, Malawi
+Sun Aug 31
+  Namibia              v Zambia                1-1   @ Windhoek, Namibia
 

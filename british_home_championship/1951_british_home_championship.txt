@@ -1,18 +1,18 @@
 = British Home Championship 1951
 
-# Date       Wed Mar/7 - Wed Nov/14 1951 (252d)
+# Date       Wed Mar 7 - Wed Nov 14 1951 (252d)
 # Teams      4
 # Matches    6
 
-[Wed Mar 7]
-  Northern Ireland - Wales  1-2   @ Belfast, Northern Ireland
-[Sat Apr 14]
-  England - Scotland  2-3   @ London, England
-[Sat Oct 6]
-  Northern Ireland - Scotland  0-3   @ Belfast, Northern Ireland
-[Sat Oct 20]
-  Wales - England  1-1   @ Cardiff, Wales
-[Wed Nov 14]
-  England - Northern Ireland  2-0   @ London, England
-  Scotland - Wales  0-1   @ Glasgow, Scotland
+Wed Mar 7
+  Northern Ireland     v Wales                 1-2   @ Belfast, Northern Ireland
+Sat Apr 14
+  England              v Scotland              2-3   @ London, England
+Sat Oct 6
+  Northern Ireland     v Scotland              0-3   @ Belfast, Northern Ireland
+Sat Oct 20
+  Wales                v England               1-1   @ Cardiff, Wales
+Wed Nov 14
+  England              v Northern Ireland      2-0   @ London, England
+  Scotland             v Wales                 0-1   @ Glasgow, Scotland
 

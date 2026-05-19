@@ -1,15 +1,15 @@
 = Nordic Championship 1978
 
-# Date       Wed May/31 - Wed Aug/16 1978 (77d)
+# Date       Wed May 31 - Wed Aug 16 1978 (77d)
 # Teams      4
 # Matches    4
 
-[Wed May 31]
-  Norway - Denmark  1-2   @ Oslo, Norway
-[Wed Jun 28]
-  Sweden - Finland  2-1   @ Borås, Sweden
-[Wed Aug 9]
-  Finland - Norway  1-1   @ Helsinki, Finland
-[Wed Aug 16]
-  Denmark - Sweden  2-1   @ Copenhagen, Denmark
+Wed May 31
+  Norway               v Denmark               1-2   @ Oslo, Norway
+Wed Jun 28
+  Sweden               v Finland               2-1   @ Borås, Sweden
+Wed Aug 9
+  Finland              v Norway                1-1   @ Helsinki, Finland
+Wed Aug 16
+  Denmark              v Sweden                2-1   @ Copenhagen, Denmark
 

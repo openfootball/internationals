@@ -1,32 +1,32 @@
 = Gulf Cup 1998
 
-# Date       Fri Oct/30 - Thu Nov/12 1998 (13d)
+# Date       Fri Oct 30 - Thu Nov 12 1998 (13d)
 # Teams      6
 # Matches    15
 
-[Fri Oct 30]
-  Bahrain - United Arab Emirates  0-1   @ Manama, Bahrain
-[Sat Oct 31]
-  Kuwait - Saudi Arabia  1-2   @ Manama, Bahrain
-  Oman - Qatar  2-1   @ Manama, Bahrain
-[Mon Nov 2]
-  Bahrain - Saudi Arabia  1-1   @ Manama, Bahrain
-  Kuwait - Qatar  6-2   @ Manama, Bahrain
-[Tue Nov 3]
-  United Arab Emirates - Oman  3-2   @ Manama, Bahrain
-[Thu Nov 5]
-  Oman - Saudi Arabia  0-1   @ Manama, Bahrain
-  Qatar - United Arab Emirates  0-0   @ Manama, Bahrain
-[Fri Nov 6]
-  Bahrain - Kuwait  0-2   @ Manama, Bahrain
-[Sun Nov 8]
-  Bahrain - Qatar  0-0   @ Manama, Bahrain
-  Saudi Arabia - United Arab Emirates  1-0   @ Manama, Bahrain
-[Mon Nov 9]
-  Oman - Kuwait  0-5   @ Manama, Bahrain
-[Wed Nov 11]
-  Qatar - Saudi Arabia  0-0   @ Manama, Bahrain
-[Thu Nov 12]
-  Bahrain - Oman  2-2   @ Manama, Bahrain
-  United Arab Emirates - Kuwait  1-4   @ Manama, Bahrain
+Fri Oct 30
+  Bahrain              v United Arab Emirates  0-1   @ Manama, Bahrain
+Sat Oct 31
+  Kuwait               v Saudi Arabia          1-2   @ Manama, Bahrain
+  Oman                 v Qatar                 2-1   @ Manama, Bahrain
+Mon Nov 2
+  Bahrain              v Saudi Arabia          1-1   @ Manama, Bahrain
+  Kuwait               v Qatar                 6-2   @ Manama, Bahrain
+Tue Nov 3
+  United Arab Emirates v Oman                  3-2   @ Manama, Bahrain
+Thu Nov 5
+  Oman                 v Saudi Arabia          0-1   @ Manama, Bahrain
+  Qatar                v United Arab Emirates  0-0   @ Manama, Bahrain
+Fri Nov 6
+  Bahrain              v Kuwait                0-2   @ Manama, Bahrain
+Sun Nov 8
+  Bahrain              v Qatar                 0-0   @ Manama, Bahrain
+  Saudi Arabia         v United Arab Emirates  1-0   @ Manama, Bahrain
+Mon Nov 9
+  Oman                 v Kuwait                0-5   @ Manama, Bahrain
+Wed Nov 11
+  Qatar                v Saudi Arabia          0-0   @ Manama, Bahrain
+Thu Nov 12
+  Bahrain              v Oman                  2-2   @ Manama, Bahrain
+  United Arab Emirates v Kuwait                1-4   @ Manama, Bahrain
 

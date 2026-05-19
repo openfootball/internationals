@@ -1,13 +1,13 @@
 = NAFU Championship 1991
 
-# Date       Tue Mar/12 - Sat Mar/16 1991 (4d)
+# Date       Tue Mar 12 - Sat Mar 16 1991 (4d)
 # Teams      3
 # Matches    3
 
-[Tue Mar 12]
-  United States - Mexico  2-2   @ Los Angeles, United States
-[Thu Mar 14]
-  Canada - Mexico  0-3   @ Los Angeles, United States
-[Sat Mar 16]
-  United States - Canada  2-0   @ Torrance, United States
+Tue Mar 12
+  United States        v Mexico                2-2   @ Los Angeles, United States
+Thu Mar 14
+  Canada               v Mexico                0-3   @ Los Angeles, United States
+Sat Mar 16
+  United States        v Canada                2-0   @ Torrance, United States
 

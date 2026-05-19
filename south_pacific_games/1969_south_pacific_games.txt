@@ -1,29 +1,29 @@
 = South Pacific Games 1969
 
-# Date       Thu Aug/14 - Fri Aug/22 1969 (8d)
+# Date       Thu Aug 14 - Fri Aug 22 1969 (8d)
 # Teams      6
 # Matches    16
 
-[Thu Aug 14]
-  Fiji - Solomon Islands  5-1   @ Port Moresby, Papua New Guinea
-  Tahiti - Vanuatu  3-3   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - New Caledonia  1-4   @ Port Moresby, Papua New Guinea
-[Fri Aug 15]
-  New Caledonia - Solomon Islands  1-1   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - Tahiti  1-3   @ Port Moresby, Papua New Guinea
-  Fiji - Vanuatu  5-2   @ Port Moresby, Papua New Guinea
-[Sat Aug 16]
-  Fiji - Tahiti  0-2   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - Solomon Islands  4-0   @ Port Moresby, Papua New Guinea
-  New Caledonia - Vanuatu  2-0   @ Port Moresby, Papua New Guinea
-[Mon Aug 18]
-  Fiji - New Caledonia  0-11   @ Port Moresby, Papua New Guinea
-  Solomon Islands - Tahiti  0-7   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - Vanuatu  2-1   @ Port Moresby, Papua New Guinea
-[Wed Aug 20]
-  Vanuatu - Solomon Islands  7-2   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - Fiji  1-1   @ Port Moresby, Papua New Guinea
-[Fri Aug 22]
-  New Caledonia - Tahiti  2-1   @ Port Moresby, Papua New Guinea
-  Papua New Guinea - Fiji  2-1   @ Port Moresby, Papua New Guinea
+Thu Aug 14
+  Fiji                 v Solomon Islands       5-1   @ Port Moresby, Papua New Guinea
+  Tahiti               v Vanuatu               3-3   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v New Caledonia         1-4   @ Port Moresby, Papua New Guinea
+Fri Aug 15
+  New Caledonia        v Solomon Islands       1-1   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v Tahiti                1-3   @ Port Moresby, Papua New Guinea
+  Fiji                 v Vanuatu               5-2   @ Port Moresby, Papua New Guinea
+Sat Aug 16
+  Fiji                 v Tahiti                0-2   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v Solomon Islands       4-0   @ Port Moresby, Papua New Guinea
+  New Caledonia        v Vanuatu               2-0   @ Port Moresby, Papua New Guinea
+Mon Aug 18
+  Fiji                 v New Caledonia         0-11   @ Port Moresby, Papua New Guinea
+  Solomon Islands      v Tahiti                0-7   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v Vanuatu               2-1   @ Port Moresby, Papua New Guinea
+Wed Aug 20
+  Vanuatu              v Solomon Islands       7-2   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v Fiji                  1-1   @ Port Moresby, Papua New Guinea
+Fri Aug 22
+  New Caledonia        v Tahiti                2-1   @ Port Moresby, Papua New Guinea
+  Papua New Guinea     v Fiji                  2-1   @ Port Moresby, Papua New Guinea
 

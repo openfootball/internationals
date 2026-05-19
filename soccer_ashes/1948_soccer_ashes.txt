@@ -1,13 +1,13 @@
 = Soccer Ashes 1948
 
-# Date       Sat Aug/14 - Sat Sep/4 1948 (21d)
+# Date       Sat Aug 14 - Sat Sep 4 1948 (21d)
 # Teams      2
 # Matches    3
 
-[Sat Aug 14]
-  New Zealand - Australia  0-6   @ Wellington, New Zealand
-[Sat Aug 28]
-  New Zealand - Australia  0-7   @ Christchurch, New Zealand
-[Sat Sep 4]
-  New Zealand - Australia  0-4   @ Wellington, New Zealand
+Sat Aug 14
+  New Zealand          v Australia             0-6   @ Wellington, New Zealand
+Sat Aug 28
+  New Zealand          v Australia             0-7   @ Christchurch, New Zealand
+Sat Sep 4
+  New Zealand          v Australia             0-4   @ Wellington, New Zealand
 

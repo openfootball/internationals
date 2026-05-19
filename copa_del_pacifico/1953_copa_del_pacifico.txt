@@ -1,11 +1,11 @@
 = Copa del Pacífico 1953
 
-# Date       Sun Jul/26 - Tue Jul/28 1953 (2d)
+# Date       Sun Jul 26 - Tue Jul 28 1953 (2d)
 # Teams      2
 # Matches    2
 
-[Sun Jul 26]
-  Peru - Chile  1-2   @ Lima, Peru
-[Tue Jul 28]
-  Peru - Chile  5-0   @ Lima, Peru
+Sun Jul 26
+  Peru                 v Chile                 1-2   @ Lima, Peru
+Tue Jul 28
+  Peru                 v Chile                 5-0   @ Lima, Peru
 

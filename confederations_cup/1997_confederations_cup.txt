@@ -1,52 +1,52 @@
 = Confederations Cup 1997
 
-# Date       Fri Dec/12 - Sun Dec/21 1997 (9d)
+# Date       Fri Dec 12 - Sun Dec 21 1997 (9d)
 # Teams      8
 # Matches    16
 
-[Fri Dec 12]
-  Mexico - Australia  1-3   @ Riyadh, Saudi Arabia
-     Luis Hernández 80' (pen.);
-     Mark Viduka 45' John Aloisi 59' Damian Mori 90'
-  Saudi Arabia - Brazil  0-3   @ Riyadh, Saudi Arabia
-     -; César Sampaio 65' Romário 73' Romário 80'
-[Sat Dec 13]
-  South Africa - Czech Republic  2-2   @ Riyadh, Saudi Arabia
-     Brendan Augustine 39' Helman Mkhalele 86';
-     Vladimír Šmicer 19' Vladimír Šmicer 40'
-  United Arab Emirates - Uruguay  0-2   @ Riyadh, Saudi Arabia
-     -; Nicolás Olivera 45' Antonio Pacheco D'Agosti 90'
-[Sun Dec 14]
-  Australia - Brazil  0-0   @ Riyadh, Saudi Arabia
-  Saudi Arabia - Mexico  0-5   @ Riyadh, Saudi Arabia
-     -; Francisco Palencia 20' Francisco Palencia 62' Cuauhtémoc Blanco 68' Braulio Luna 75' Cuauhtémoc Blanco 76'
-[Mon Dec 15]
-  Czech Republic - Uruguay  1-2   @ Riyadh, Saudi Arabia
-     Horst Siegl 89';
-     Nicolás Olivera 26' Marcelo Zalayeta 88'
-  United Arab Emirates - South Africa  1-0   @ Riyadh, Saudi Arabia
-     Hassan Mubarak 5'
-[Tue Dec 16]
-  Brazil - Mexico  3-2   @ Riyadh, Saudi Arabia
-     Romário 41' (pen.) Denílson de Oliveira Araújo 61' Júnior Baiano 66';
-     Cuauhtémoc Blanco 51' Ramón Ramírez 90'
-  Saudi Arabia - Australia  1-0   @ Riyadh, Saudi Arabia
-     Mohammed Al-Khilaiwi 40'
-[Wed Dec 17]
-  United Arab Emirates - Czech Republic  1-6   @ Riyadh, Saudi Arabia
-     Adnan Al Talyani 78';
-     Mohamed Obaid Al-Zahiri 11' (o.g.) Pavel Nedvěd 22' Pavel Nedvěd 31' Vladimír Šmicer 42' Vladimír Šmicer 68' Vladimír Šmicer 71'
-  Uruguay - South Africa  4-3   @ Riyadh, Saudi Arabia
-     Darío Silva 12' Álvaro Recoba 42' Darío Silva 66' Christian Callejas 90';
-     Lucas Radebe 11' Helman Mkhalele 69' Pollen Ndlanya 77'
-[Fri Dec 19]
-  Brazil - Czech Republic  2-0   @ Riyadh, Saudi Arabia
-     Romário 54' Ronaldo 83'
-  Uruguay - Australia  0-1   @ Riyadh, Saudi Arabia
-     -; Harry Kewell 92'
-[Sun Dec 21]
-  Brazil - Australia  6-0   @ Riyadh, Saudi Arabia
-     Ronaldo 15' Ronaldo 27' Romário 38' Romário 53' Ronaldo 59' Romário 75' (pen.)
-  Czech Republic - Uruguay  1-0   @ Riyadh, Saudi Arabia
-     Edvard Lasota 63'
+Fri Dec 12
+  Mexico               v Australia             1-3   @ Riyadh, Saudi Arabia
+     (Luis Hernández 80'(p);
+      Mark Viduka 45' John Aloisi 59' Damian Mori 90')
+  Saudi Arabia         v Brazil                0-3   @ Riyadh, Saudi Arabia
+     (César Sampaio 65' Romário 73' Romário 80')
+Sat Dec 13
+  South Africa         v Czech Republic        2-2   @ Riyadh, Saudi Arabia
+     (Brendan Augustine 39' Helman Mkhalele 86';
+      Vladimír Šmicer 19' Vladimír Šmicer 40')
+  United Arab Emirates v Uruguay               0-2   @ Riyadh, Saudi Arabia
+     (Nicolás Olivera 45' Antonio Pacheco D'Agosti 90')
+Sun Dec 14
+  Australia            v Brazil                0-0   @ Riyadh, Saudi Arabia
+  Saudi Arabia         v Mexico                0-5   @ Riyadh, Saudi Arabia
+     (Francisco Palencia 20' Francisco Palencia 62' Cuauhtémoc Blanco 68' Braulio Luna 75' Cuauhtémoc Blanco 76')
+Mon Dec 15
+  Czech Republic       v Uruguay               1-2   @ Riyadh, Saudi Arabia
+     (Horst Siegl 89';
+      Nicolás Olivera 26' Marcelo Zalayeta 88')
+  United Arab Emirates v South Africa          1-0   @ Riyadh, Saudi Arabia
+     (Hassan Mubarak 5')
+Tue Dec 16
+  Brazil               v Mexico                3-2   @ Riyadh, Saudi Arabia
+     (Romário 41'(p) Denílson de Oliveira Araújo 61' Júnior Baiano 66';
+      Cuauhtémoc Blanco 51' Ramón Ramírez 90')
+  Saudi Arabia         v Australia             1-0   @ Riyadh, Saudi Arabia
+     (Mohammed Al-Khilaiwi 40')
+Wed Dec 17
+  United Arab Emirates v Czech Republic        1-6   @ Riyadh, Saudi Arabia
+     (Adnan Al Talyani 78';
+      Mohamed Obaid Al-Zahiri 11'(og) Pavel Nedvěd 22' Pavel Nedvěd 31' Vladimír Šmicer 42' Vladimír Šmicer 68' Vladimír Šmicer 71')
+  Uruguay              v South Africa          4-3   @ Riyadh, Saudi Arabia
+     (Darío Silva 12' Álvaro Recoba 42' Darío Silva 66' Christian Callejas 90';
+      Lucas Radebe 11' Helman Mkhalele 69' Pollen Ndlanya 77')
+Fri Dec 19
+  Brazil               v Czech Republic        2-0   @ Riyadh, Saudi Arabia
+     (Romário 54' Ronaldo 83')
+  Uruguay              v Australia             0-1   @ Riyadh, Saudi Arabia
+     (Harry Kewell 92')
+Sun Dec 21
+  Brazil               v Australia             6-0   @ Riyadh, Saudi Arabia
+     (Ronaldo 15' Ronaldo 27' Romário 38' Romário 53' Ronaldo 59' Romário 75'(p))
+  Czech Republic       v Uruguay               1-0   @ Riyadh, Saudi Arabia
+     (Edvard Lasota 63')
 

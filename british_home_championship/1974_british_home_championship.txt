@@ -1,17 +1,17 @@
 = British Home Championship 1974
 
-# Date       Sat May/11 - Sat May/18 1974 (7d)
+# Date       Sat May 11 - Sat May 18 1974 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 11]
-  Scotland - Northern Ireland  0-1   @ Glasgow, Scotland
-  Wales - England  0-2   @ Cardiff, Wales
-[Tue May 14]
-  Scotland - Wales  2-0   @ Glasgow, Scotland
-[Wed May 15]
-  England - Northern Ireland  1-0   @ London, England
-[Sat May 18]
-  Scotland - England  2-0   @ Glasgow, Scotland
-  Wales - Northern Ireland  1-0   @ Wrexham, Wales
+Sat May 11
+  Scotland             v Northern Ireland      0-1   @ Glasgow, Scotland
+  Wales                v England               0-2   @ Cardiff, Wales
+Tue May 14
+  Scotland             v Wales                 2-0   @ Glasgow, Scotland
+Wed May 15
+  England              v Northern Ireland      1-0   @ London, England
+Sat May 18
+  Scotland             v England               2-0   @ Glasgow, Scotland
+  Wales                v Northern Ireland      1-0   @ Wrexham, Wales
 

@@ -1,31 +1,31 @@
 = AFC Asian Cup 1956
 
-# Date       Sat Sep/1 - Sat Sep/15 1956 (14d)
+# Date       Sat Sep 1 - Sat Sep 15 1956 (14d)
 # Teams      4
 # Matches    6
 
-[Sat Sep 1]
-  Hong Kong - Israel  2-3   @ So Kon Po, Hong Kong
-     Au Chi Yin 12' Au Chi Yin 66';
-     Yehoshua Glazer 37' Nahum Stelmach 69' Yehoshua Glazer 76'
-[Thu Sep 6]
-  Hong Kong - South Korea  2-2   @ So Kon Po, Hong Kong
-     Tang Yee Kit 10' Ko Po Keung 39';
-     Kim Ji-sung 45' Choi Kwang-seok 62'
-[Sat Sep 8]
-  Israel - South Korea  1-2   @ So Kon Po, Hong Kong
-     Nahum Stelmach 71';
-     Woo Sang-kwon 52' Sung Nak-woon 64'
-[Sun Sep 9]
-  Hong Kong - Vietnam Republic  2-2   @ So Kon Po, Hong Kong
-     Chu Wing Wah 59' (pen.) Ko Po Keung 79';
-     Trần Văn Tổng 30' Lê Hữu Đức 64'
-[Wed Sep 12]
-  Israel - Vietnam Republic  2-1   @ So Kon Po, Hong Kong
-     Nahum Stelmach 14' Nahum Stelmach 27';
-     Trần Văn Tổng 58'
-[Sat Sep 15]
-  South Korea - Vietnam Republic  5-3   @ So Kon Po, Hong Kong
-     Sung Nak-woon 5' Woo Sang-kwon 41' (pen.) Choi Chung-min 57' Woo Sang-kwon 58' Choi Chung-min 66';
-     Trải Văn Đào 20' Lê Hữu Đức 51' Lê Hữu Đức 63'
+Sat Sep 1
+  Hong Kong            v Israel                2-3   @ So Kon Po, Hong Kong
+     (Au Chi Yin 12' Au Chi Yin 66';
+      Yehoshua Glazer 37' Nahum Stelmach 69' Yehoshua Glazer 76')
+Thu Sep 6
+  Hong Kong            v South Korea           2-2   @ So Kon Po, Hong Kong
+     (Tang Yee Kit 10' Ko Po Keung 39';
+      Kim Ji-sung 45' Choi Kwang-seok 62')
+Sat Sep 8
+  Israel               v South Korea           1-2   @ So Kon Po, Hong Kong
+     (Nahum Stelmach 71';
+      Woo Sang-kwon 52' Sung Nak-woon 64')
+Sun Sep 9
+  Hong Kong            v Vietnam Republic      2-2   @ So Kon Po, Hong Kong
+     (Chu Wing Wah 59'(p) Ko Po Keung 79';
+      Trần Văn Tổng 30' Lê Hữu Đức 64')
+Wed Sep 12
+  Israel               v Vietnam Republic      2-1   @ So Kon Po, Hong Kong
+     (Nahum Stelmach 14' Nahum Stelmach 27';
+      Trần Văn Tổng 58')
+Sat Sep 15
+  South Korea          v Vietnam Republic      5-3   @ So Kon Po, Hong Kong
+     (Sung Nak-woon 5' Woo Sang-kwon 41'(p) Choi Chung-min 57' Woo Sang-kwon 58' Choi Chung-min 66';
+      Trải Văn Đào 20' Lê Hữu Đức 51' Lê Hữu Đức 63')
 

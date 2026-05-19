@@ -1,15 +1,15 @@
 = COSAFA Cup qualification 1997
 
-# Date       Sat Mar/1 - Sun Mar/16 1997 (15d)
+# Date       Sat Mar 1 - Sun Mar 16 1997 (15d)
 # Teams      8
 # Matches    4
 
-[Sat Mar 1]
-  Botswana - Malawi  1-4   @ Gaborone, Botswana
-[Sun Mar 2]
-  Lesotho - Zambia  0-2   @ Maseru, Lesotho
-[Mon Mar 3]
-  Eswatini - Mozambique  0-4   @ Lobamba, Swaziland
-[Sun Mar 16]
-  Namibia - Zimbabwe  2-1   @ Windhoek, Namibia
+Sat Mar 1
+  Botswana             v Malawi                1-4   @ Gaborone, Botswana
+Sun Mar 2
+  Lesotho              v Zambia                0-2   @ Maseru, Lesotho
+Mon Mar 3
+  Eswatini             v Mozambique            0-4   @ Lobamba, Swaziland
+Sun Mar 16
+  Namibia              v Zimbabwe              2-1   @ Windhoek, Namibia
 

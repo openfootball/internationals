@@ -1,19 +1,19 @@
 = Far Eastern Championship Games 1934
 
-# Date       Sat May/12 - Sun May/20 1934 (8d)
+# Date       Sat May 12 - Sun May 20 1934 (8d)
 # Teams      4
 # Matches    6
 
-[Sat May 12]
-  Philippines - China PR  0-2   @ Manila, Philippines
-[Sun May 13]
-  Japan - Indonesia  1-7   @ Manila, Philippines
-[Mon May 14]
-  China PR - Indonesia  2-0   @ Manila, Philippines
-[Tue May 15]
-  Philippines - Japan  3-4   @ Manila, Philippines
-[Sat May 19]
-  Philippines - Indonesia  3-2   @ Manila, Philippines
-[Sun May 20]
-  China PR - Japan  4-3   @ Manila, Philippines
+Sat May 12
+  Philippines          v China PR              0-2   @ Manila, Philippines
+Sun May 13
+  Japan                v Indonesia             1-7   @ Manila, Philippines
+Mon May 14
+  China PR             v Indonesia             2-0   @ Manila, Philippines
+Tue May 15
+  Philippines          v Japan                 3-4   @ Manila, Philippines
+Sat May 19
+  Philippines          v Indonesia             3-2   @ Manila, Philippines
+Sun May 20
+  China PR             v Japan                 4-3   @ Manila, Philippines
 

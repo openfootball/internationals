@@ -1,42 +1,42 @@
 = COSAFA Cup 2017
 
-# Date       Sun Jun/25 - Sun Jul/9 2017 (14d)
+# Date       Sun Jun 25 - Sun Jul 9 2017 (14d)
 # Teams      14
 # Matches    23
 
-[Sun Jun 25]
-  Mauritius - Angola  0-1   @ Moruleng, South Africa
-  Tanzania - Malawi  2-0   @ Moruleng, South Africa
-[Mon Jun 26]
-  Madagascar - Seychelles  2-0   @ Moruleng, South Africa
-  Mozambique - Zimbabwe  0-4   @ Moruleng, South Africa
-[Tue Jun 27]
-  Angola - Tanzania  0-0   @ Rustenburg, South Africa
-  Malawi - Mauritius  0-0   @ Rustenburg, South Africa
-[Wed Jun 28]
-  Seychelles - Mozambique  1-2   @ Rustenburg, South Africa
-  Zimbabwe - Madagascar  0-0   @ Rustenburg, South Africa
-[Thu Jun 29]
-  Malawi - Angola  0-0   @ Rustenburg, South Africa
-  Tanzania - Mauritius  1-1   @ Moruleng, South Africa
-[Fri Jun 30]
-  Mozambique - Madagascar  1-4   @ Moruleng, South Africa
-  Zimbabwe - Seychelles  6-0   @ Rustenburg, South Africa
-[Sat Jul 1]
-  Botswana - Zambia  1-2   @ Rustenburg, South Africa
-  Namibia - Lesotho  0-0   @ Rustenburg, South Africa   [Lesotho wins on penalties]
-[Sun Jul 2]
-  South Africa - Tanzania  0-1   @ Rustenburg, South Africa
-  Eswatini - Zimbabwe  1-2   @ Rustenburg, South Africa
-[Tue Jul 4]
-  Namibia - Eswatini  1-0   @ Moruleng, South Africa
-  South Africa - Botswana  2-0   @ Moruleng, South Africa
-[Wed Jul 5]
-  Lesotho - Zimbabwe  3-4   @ Moruleng, South Africa
-  Zambia - Tanzania  4-2   @ Moruleng, South Africa
-[Fri Jul 7]
-  South Africa - Namibia  1-0   @ Moruleng, South Africa
-  Tanzania - Lesotho  0-0   @ Moruleng, South Africa   [Tanzania wins on penalties]
-[Sun Jul 9]
-  Zambia - Zimbabwe  1-3   @ Rustenburg, South Africa
+Sun Jun 25
+  Mauritius            v Angola                0-1   @ Moruleng, South Africa
+  Tanzania             v Malawi                2-0   @ Moruleng, South Africa
+Mon Jun 26
+  Madagascar           v Seychelles            2-0   @ Moruleng, South Africa
+  Mozambique           v Zimbabwe              0-4   @ Moruleng, South Africa
+Tue Jun 27
+  Angola               v Tanzania              0-0   @ Rustenburg, South Africa
+  Malawi               v Mauritius             0-0   @ Rustenburg, South Africa
+Wed Jun 28
+  Seychelles           v Mozambique            1-2   @ Rustenburg, South Africa
+  Zimbabwe             v Madagascar            0-0   @ Rustenburg, South Africa
+Thu Jun 29
+  Malawi               v Angola                0-0   @ Rustenburg, South Africa
+  Tanzania             v Mauritius             1-1   @ Moruleng, South Africa
+Fri Jun 30
+  Mozambique           v Madagascar            1-4   @ Moruleng, South Africa
+  Zimbabwe             v Seychelles            6-0   @ Rustenburg, South Africa
+Sat Jul 1
+  Botswana             v Zambia                1-2   @ Rustenburg, South Africa
+  Namibia              v Lesotho               0-0   @ Rustenburg, South Africa   [Lesotho wins on penalties]
+Sun Jul 2
+  South Africa         v Tanzania              0-1   @ Rustenburg, South Africa
+  Eswatini             v Zimbabwe              1-2   @ Rustenburg, South Africa
+Tue Jul 4
+  Namibia              v Eswatini              1-0   @ Moruleng, South Africa
+  South Africa         v Botswana              2-0   @ Moruleng, South Africa
+Wed Jul 5
+  Lesotho              v Zimbabwe              3-4   @ Moruleng, South Africa
+  Zambia               v Tanzania              4-2   @ Moruleng, South Africa
+Fri Jul 7
+  South Africa         v Namibia               1-0   @ Moruleng, South Africa
+  Tanzania             v Lesotho               0-0   @ Moruleng, South Africa   [Tanzania wins on penalties]
+Sun Jul 9
+  Zambia               v Zimbabwe              1-3   @ Rustenburg, South Africa
 

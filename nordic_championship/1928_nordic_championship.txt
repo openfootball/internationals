@@ -1,13 +1,13 @@
 = Nordic Championship 1928
 
-# Date       Thu Jun/7 - Sun Oct/7 1928 (122d)
+# Date       Thu Jun 7 - Sun Oct 7 1928 (122d)
 # Teams      3
 # Matches    3
 
-[Thu Jun 7]
-  Sweden - Norway  6-1   @ Stockholm, Sweden
-[Sun Jun 17]
-  Norway - Denmark  2-3   @ Oslo, Norway
-[Sun Oct 7]
-  Denmark - Sweden  3-1   @ Copenhagen, Denmark
+Thu Jun 7
+  Sweden               v Norway                6-1   @ Stockholm, Sweden
+Sun Jun 17
+  Norway               v Denmark               2-3   @ Oslo, Norway
+Sun Oct 7
+  Denmark              v Sweden                3-1   @ Copenhagen, Denmark
 

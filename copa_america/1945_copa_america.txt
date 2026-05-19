@@ -1,70 +1,70 @@
 = Copa América 1945
 
-# Date       Sun Jan/14 - Wed Feb/28 1945 (45d)
+# Date       Sun Jan 14 - Wed Feb 28 1945 (45d)
 # Teams      7
 # Matches    21
 
-[Sun Jan 14]
-  Chile - Ecuador  6-3   @ Santiago, Chile
-     Juan Alcántara 28' Erasmo Vera 29' Francisco Hormazábal 45' Juan Alcántara 59' Guillermo Clavero 70' Juan Alcántara 81';
-     Enrique Raymondi Chávez 30' José María Jiménez 44' Luis Mendoza 51'
-[Thu Jan 18]
-  Argentina - Bolivia  4-0   @ Santiago, Chile
-     René Pontoni 10' Rinaldo Martino 43' Félix Loustau 70' Vicente de la Mata 75'
-[Sun Jan 21]
-  Brazil - Colombia  3-0   @ Santiago, Chile
-     Jorge Ceciliano 13' Heleno de Freitas 15' Jaime de Almeida 38'
-[Wed Jan 24]
-  Chile - Bolivia  5-0   @ Santiago, Chile
-     Guillermo Clavero 13' Guillermo Clavero 27' Guillermo Clavero 39' Juan Alcántara 75' Juan Alcántara 79'
-  Ecuador - Uruguay  1-5   @ Santiago, Chile
-     Víctor Aguayo 39';
-     Atilio García 1' Roberto Porta 28' Atilio García 60' Obdulio Varela 69' Atilio García 83'
-[Sun Jan 28]
-  Bolivia - Brazil  0-2   @ Santiago, Chile
-     -; Ademir de Menezes 48' Tesourinha 80'
-  Colombia - Uruguay  0-7   @ Santiago, Chile
-     -; Atilio García 22' Juan Riephoff 25' José García 37' José María Ortiz 75' José García 83' Roberto Porta 86' Atilio García 89'
-[Wed Jan 31]
-  Argentina - Ecuador  4-2   @ Santiago, Chile
-     René Pontoni 11' Vicente de la Mata 50' Rinaldo Martino 69' Manuel Pellegrina 83';
-     Víctor Aguayo 53' José Mendoza 62'
-  Chile - Colombia  2-0   @ Santiago, Chile
-     Desiderio Medina 48' Manuel Piñeiro 80'
-[Wed Feb 7]
-  Argentina - Colombia  9-1   @ Santiago, Chile
-     René Pontoni 3' René Pontoni 7' Norberto Doroteo Méndez 15' Rinaldo Martino 27' Norberto Doroteo Méndez 39' Mario Boyé 41' Félix Loustau 50' José Luis Ferraro 80' José Luis Ferraro 81';
-     Arturo Mendoza 52'
-  Brazil - Uruguay  3-0   @ Santiago, Chile
-     Heleno de Freitas 8' Rui Campos 20' Heleno de Freitas 32'
-[Sun Feb 11]
-  Bolivia - Ecuador  0-0   @ Santiago, Chile
-  Chile - Argentina  1-1   @ Santiago, Chile
-     Desiderio Medina 3';
-     Norberto Doroteo Méndez 52'
-[Thu Feb 15]
-  Argentina - Brazil  3-1   @ Santiago, Chile
-     Norberto Doroteo Méndez 14' Norberto Doroteo Méndez 20' Norberto Doroteo Méndez 40';
-     Ademir de Menezes 32'
-  Bolivia - Uruguay  0-2   @ Santiago, Chile
-     -; Nicolás Falero 26' Roberto Porta 75'
-[Sun Feb 18]
-  Chile - Uruguay  1-0   @ Santiago, Chile
-     Desiderio Medina 8'
-  Colombia - Ecuador  3-1   @ Santiago, Chile
-     Luis González Rubio 2' Roberto Gámez 64' Fulgencio Berdugo 70';
-     Víctor Aguayo 4'
-[Wed Feb 21]
-  Bolivia - Colombia  3-3   @ Santiago, Chile
-     Raúl Fernández 57' Zenón González 75' Severo Orgaz 80';
-     Luis González Rubio 3' Fulgencio Berdugo 7' Roberto Gámez 67'
-  Brazil - Ecuador  9-2   @ Santiago, Chile
-     Ademir de Menezes 3' Ademir de Menezes 10' Heleno de Freitas 22' Heleno de Freitas 28' Zizinho 40' Zizinho 65' Jair 67' Jair 68' Ademir de Menezes 75';
-     Víctor Aguayo 42' Guillermo Albornoz 49'
-[Sun Feb 25]
-  Argentina - Uruguay  1-0   @ Santiago, Chile
-     Rinaldo Martino 50'
-[Wed Feb 28]
-  Chile - Brazil  0-1   @ Santiago, Chile
-     -; Heleno de Freitas 20'
+Sun Jan 14
+  Chile                v Ecuador               6-3   @ Santiago, Chile
+     (Juan Alcántara 28' Erasmo Vera 29' Francisco Hormazábal 45' Juan Alcántara 59' Guillermo Clavero 70' Juan Alcántara 81';
+      Enrique Raymondi Chávez 30' José María Jiménez 44' Luis Mendoza 51')
+Thu Jan 18
+  Argentina            v Bolivia               4-0   @ Santiago, Chile
+     (René Pontoni 10' Rinaldo Martino 43' Félix Loustau 70' Vicente de la Mata 75')
+Sun Jan 21
+  Brazil               v Colombia              3-0   @ Santiago, Chile
+     (Jorge Ceciliano 13' Heleno de Freitas 15' Jaime de Almeida 38')
+Wed Jan 24
+  Chile                v Bolivia               5-0   @ Santiago, Chile
+     (Guillermo Clavero 13' Guillermo Clavero 27' Guillermo Clavero 39' Juan Alcántara 75' Juan Alcántara 79')
+  Ecuador              v Uruguay               1-5   @ Santiago, Chile
+     (Víctor Aguayo 39';
+      Atilio García 1' Roberto Porta 28' Atilio García 60' Obdulio Varela 69' Atilio García 83')
+Sun Jan 28
+  Bolivia              v Brazil                0-2   @ Santiago, Chile
+     (Ademir de Menezes 48' Tesourinha 80')
+  Colombia             v Uruguay               0-7   @ Santiago, Chile
+     (Atilio García 22' Juan Riephoff 25' José García 37' José María Ortiz 75' José García 83' Roberto Porta 86' Atilio García 89')
+Wed Jan 31
+  Argentina            v Ecuador               4-2   @ Santiago, Chile
+     (René Pontoni 11' Vicente de la Mata 50' Rinaldo Martino 69' Manuel Pellegrina 83';
+      Víctor Aguayo 53' José Mendoza 62')
+  Chile                v Colombia              2-0   @ Santiago, Chile
+     (Desiderio Medina 48' Manuel Piñeiro 80')
+Wed Feb 7
+  Argentina            v Colombia              9-1   @ Santiago, Chile
+     (René Pontoni 3' René Pontoni 7' Norberto Doroteo Méndez 15' Rinaldo Martino 27' Norberto Doroteo Méndez 39' Mario Boyé 41' Félix Loustau 50' José Luis Ferraro 80' José Luis Ferraro 81';
+      Arturo Mendoza 52')
+  Brazil               v Uruguay               3-0   @ Santiago, Chile
+     (Heleno de Freitas 8' Rui Campos 20' Heleno de Freitas 32')
+Sun Feb 11
+  Bolivia              v Ecuador               0-0   @ Santiago, Chile
+  Chile                v Argentina             1-1   @ Santiago, Chile
+     (Desiderio Medina 3';
+      Norberto Doroteo Méndez 52')
+Thu Feb 15
+  Argentina            v Brazil                3-1   @ Santiago, Chile
+     (Norberto Doroteo Méndez 14' Norberto Doroteo Méndez 20' Norberto Doroteo Méndez 40';
+      Ademir de Menezes 32')
+  Bolivia              v Uruguay               0-2   @ Santiago, Chile
+     (Nicolás Falero 26' Roberto Porta 75')
+Sun Feb 18
+  Chile                v Uruguay               1-0   @ Santiago, Chile
+     (Desiderio Medina 8')
+  Colombia             v Ecuador               3-1   @ Santiago, Chile
+     (Luis González Rubio 2' Roberto Gámez 64' Fulgencio Berdugo 70';
+      Víctor Aguayo 4')
+Wed Feb 21
+  Bolivia              v Colombia              3-3   @ Santiago, Chile
+     (Raúl Fernández 57' Zenón González 75' Severo Orgaz 80';
+      Luis González Rubio 3' Fulgencio Berdugo 7' Roberto Gámez 67')
+  Brazil               v Ecuador               9-2   @ Santiago, Chile
+     (Ademir de Menezes 3' Ademir de Menezes 10' Heleno de Freitas 22' Heleno de Freitas 28' Zizinho 40' Zizinho 65' Jair 67' Jair 68' Ademir de Menezes 75';
+      Víctor Aguayo 42' Guillermo Albornoz 49')
+Sun Feb 25
+  Argentina            v Uruguay               1-0   @ Santiago, Chile
+     (Rinaldo Martino 50')
+Wed Feb 28
+  Chile                v Brazil                0-1   @ Santiago, Chile
+     (Heleno de Freitas 20')
 

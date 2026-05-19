@@ -1,11 +1,11 @@
 = Balkan Cup 1976
 
-# Date       Wed May/12 - Sun Nov/28 1976 (200d)
+# Date       Wed May 12 - Sun Nov 28 1976 (200d)
 # Teams      2
 # Matches    2
 
-[Wed May 12]
-  Bulgaria - Romania  1-0   @ Veliko Tărnovo, Bulgaria
-[Sun Nov 28]
-  Romania - Bulgaria  3-2   @ Bucharest, Romania
+Wed May 12
+  Bulgaria             v Romania               1-0   @ Veliko Tărnovo, Bulgaria
+Sun Nov 28
+  Romania              v Bulgaria              3-2   @ Bucharest, Romania
 

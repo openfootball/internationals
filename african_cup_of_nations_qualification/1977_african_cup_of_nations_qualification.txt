@@ -1,50 +1,50 @@
 = African Cup of Nations qualification 1977
 
-# Date       Fri Jan/28 - Sun Oct/16 1977 (261d)
+# Date       Fri Jan 28 - Sun Oct 16 1977 (261d)
 # Teams      20
 # Matches    27
 
-[Fri Jan 28]
-  Mauritius - Malawi  3-2   @ Curepipe, Mauritius
-[Thu Feb 17]
-  Algeria - Kenya  4-1   @ Algiers, Algeria
-  Mauritius - Ethiopia  2-3   @ Curepipe, Mauritius
-  Sierra Leone - Nigeria  1-1   @ Freetown, Sierra Leone
-[Sun Mar 13]
-  Kenya - Algeria  2-1   @ Mombasa, Kenya
-  Cameroon - Congo  2-0   @ Yaoundé, Cameroon
-  Guinea - Libya  3-0   @ Conakry, Guinea
-  Senegal - Togo  2-1   @ Dakar, Senegal
-  Egypt - Tunisia  2-2   @ Cairo, Egypt
-  Ethiopia - Mauritius  1-0   @ Addis Ababa, Ethiopia
-  Nigeria - Sierra Leone  2-0   @ Lagos, Nigeria
-[Sun Mar 20]
-  Burkina Faso - Ivory Coast  0-1   @ Ouagadougou, Upper Volta
-[Fri Mar 25]
-  Libya - Guinea  0-2   @ Benghazi, Libya
-[Sat Mar 26]
-  Togo - Senegal  0-1   @ Lomé, Togo
-[Sun Mar 27]
-  Ivory Coast - Burkina Faso  4-1   @ Abidjan, Ivory Coast
-[Wed Apr 27]
-  Tunisia - Egypt  3-2   @ Tunis, Tunisia
-[Sun Jun 5]
-  Congo - Cameroon  4-0   @ Brazzaville, Congo
-[Thu Jun 9]
-  Algeria - Zambia  2-0   @ Algiers, Algeria
-[Sun Jun 12]
-  Senegal - Nigeria  3-1   @ Dakar, Senegal
-  Ethiopia - Uganda  0-0   @ Addis Ababa, Ethiopia
-[Sun Jun 26]
-  Zambia - Algeria  2-0   @ Lusaka, Zambia   [Zambia wins on penalties]
-  Uganda - Ethiopia  2-1   @ Kampala, Uganda
-  Nigeria - Senegal  3-0   @ Lagos, Nigeria
-[Sun Jul 17]
-  Congo - Gabon  3-2   @ Brazzaville, Congo
-[Sun Jul 31]
-  Gabon - Congo  3-3   @ Libreville, Gabon
-[Sun Oct 2]
-  Tunisia - Guinea  3-0   @ Tunis, Tunisia
-[Sun Oct 16]
-  Guinea - Tunisia  3-2   @ Conakry, Guinea
+Fri Jan 28
+  Mauritius            v Malawi                3-2   @ Curepipe, Mauritius
+Thu Feb 17
+  Algeria              v Kenya                 4-1   @ Algiers, Algeria
+  Mauritius            v Ethiopia              2-3   @ Curepipe, Mauritius
+  Sierra Leone         v Nigeria               1-1   @ Freetown, Sierra Leone
+Sun Mar 13
+  Kenya                v Algeria               2-1   @ Mombasa, Kenya
+  Cameroon             v Congo                 2-0   @ Yaoundé, Cameroon
+  Guinea               v Libya                 3-0   @ Conakry, Guinea
+  Senegal              v Togo                  2-1   @ Dakar, Senegal
+  Egypt                v Tunisia               2-2   @ Cairo, Egypt
+  Ethiopia             v Mauritius             1-0   @ Addis Ababa, Ethiopia
+  Nigeria              v Sierra Leone          2-0   @ Lagos, Nigeria
+Sun Mar 20
+  Burkina Faso         v Ivory Coast           0-1   @ Ouagadougou, Upper Volta
+Fri Mar 25
+  Libya                v Guinea                0-2   @ Benghazi, Libya
+Sat Mar 26
+  Togo                 v Senegal               0-1   @ Lomé, Togo
+Sun Mar 27
+  Ivory Coast          v Burkina Faso          4-1   @ Abidjan, Ivory Coast
+Wed Apr 27
+  Tunisia              v Egypt                 3-2   @ Tunis, Tunisia
+Sun Jun 5
+  Congo                v Cameroon              4-0   @ Brazzaville, Congo
+Thu Jun 9
+  Algeria              v Zambia                2-0   @ Algiers, Algeria
+Sun Jun 12
+  Senegal              v Nigeria               3-1   @ Dakar, Senegal
+  Ethiopia             v Uganda                0-0   @ Addis Ababa, Ethiopia
+Sun Jun 26
+  Zambia               v Algeria               2-0   @ Lusaka, Zambia   [Zambia wins on penalties]
+  Uganda               v Ethiopia              2-1   @ Kampala, Uganda
+  Nigeria              v Senegal               3-0   @ Lagos, Nigeria
+Sun Jul 17
+  Congo                v Gabon                 3-2   @ Brazzaville, Congo
+Sun Jul 31
+  Gabon                v Congo                 3-3   @ Libreville, Gabon
+Sun Oct 2
+  Tunisia              v Guinea                3-0   @ Tunis, Tunisia
+Sun Oct 16
+  Guinea               v Tunisia               3-2   @ Conakry, Guinea
 

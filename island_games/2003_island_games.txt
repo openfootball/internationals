@@ -1,42 +1,42 @@
 = Island Games 2003
 
-# Date       Sun Jun/29 - Fri Jul/4 2003 (5d)
+# Date       Sun Jun 29 - Fri Jul 4 2003 (5d)
 # Teams      14
 # Matches    30
 
-[Sun Jun 29]
-  Saare County - Ynys Môn  0-2   @ Saint Sampson, Guernsey
-  Frøya - Jersey  1-5   @ Saint Sampson, Guernsey
-  Shetland - Gotland  0-0   @ Saint Sampson, Guernsey
-  Guernsey - Alderney  7-1   @ Saint Sampson, Guernsey
-  Gibraltar - Sark  19-0   @ Saint Martin, Guernsey
-  Isle of Wight - Greenland  1-2   @ Saint Martin, Guernsey
-[Mon Jun 30]
-  Isle of Man - Saare County  4-0   @ Saint Sampson, Guernsey
-  Gotland - Frøya  2-2   @ Saint Sampson, Guernsey
-  Jersey - Shetland  5-0   @ Saint Sampson, Guernsey
-  Guernsey - Orkney  10-0   @ Saint Sampson, Guernsey
-  Sark - Isle of Wight  0-20   @ Saint Martin, Guernsey
-  Gibraltar - Greenland  2-0   @ Saint Martin, Guernsey
-[Tue Jul 1]
-  Ynys Môn - Isle of Man  1-2   @ Saint Sampson, Guernsey
-  Shetland - Frøya  3-1   @ Saint Sampson, Guernsey
-  Jersey - Gotland  0-0   @ Saint Sampson, Guernsey
-  Orkney - Alderney  3-1   @ Saint Sampson, Guernsey
-  Isle of Wight - Gibraltar  2-1   @ Saint Martin, Guernsey
-  Greenland - Sark  16-0   @ Saint Martin, Guernsey
-[Thu Jul 3]
-  Frøya - Sark  15-0   @ Alderney, Guernsey
-  Alderney - Greenland  0-3   @ Saint Sampson, Guernsey
-  Gotland - Saare County  3-0   @ Saint Sampson, Guernsey
-  Orkney - Gibraltar  1-7   @ Saint Sampson, Guernsey
-  Isle of Man - Jersey  2-1   @ Saint Sampson, Guernsey
-  Guernsey - Isle of Wight  3-1   @ Saint Sampson, Guernsey
-[Fri Jul 4]
-  Saare County - Alderney  0-1   @ Saint Martin, Guernsey
-  Gotland - Greenland  2-1   @ Saint Sampson, Guernsey
-  Orkney - Shetland  0-6   @ Saint Sampson, Guernsey
-  Gibraltar - Ynys Môn  0-2   @ Saint Sampson, Guernsey
-  Jersey - Isle of Wight  3-0   @ Saint Martin, Guernsey
-  Guernsey - Isle of Man  3-1   @ St. Peter Port, Guernsey
+Sun Jun 29
+  Saare County         v Ynys Môn              0-2   @ Saint Sampson, Guernsey
+  Frøya                v Jersey                1-5   @ Saint Sampson, Guernsey
+  Shetland             v Gotland               0-0   @ Saint Sampson, Guernsey
+  Guernsey             v Alderney              7-1   @ Saint Sampson, Guernsey
+  Gibraltar            v Sark                  19-0   @ Saint Martin, Guernsey
+  Isle of Wight        v Greenland             1-2   @ Saint Martin, Guernsey
+Mon Jun 30
+  Isle of Man          v Saare County          4-0   @ Saint Sampson, Guernsey
+  Gotland              v Frøya                 2-2   @ Saint Sampson, Guernsey
+  Jersey               v Shetland              5-0   @ Saint Sampson, Guernsey
+  Guernsey             v Orkney                10-0   @ Saint Sampson, Guernsey
+  Sark                 v Isle of Wight         0-20   @ Saint Martin, Guernsey
+  Gibraltar            v Greenland             2-0   @ Saint Martin, Guernsey
+Tue Jul 1
+  Ynys Môn             v Isle of Man           1-2   @ Saint Sampson, Guernsey
+  Shetland             v Frøya                 3-1   @ Saint Sampson, Guernsey
+  Jersey               v Gotland               0-0   @ Saint Sampson, Guernsey
+  Orkney               v Alderney              3-1   @ Saint Sampson, Guernsey
+  Isle of Wight        v Gibraltar             2-1   @ Saint Martin, Guernsey
+  Greenland            v Sark                  16-0   @ Saint Martin, Guernsey
+Thu Jul 3
+  Frøya                v Sark                  15-0   @ Alderney, Guernsey
+  Alderney             v Greenland             0-3   @ Saint Sampson, Guernsey
+  Gotland              v Saare County          3-0   @ Saint Sampson, Guernsey
+  Orkney               v Gibraltar             1-7   @ Saint Sampson, Guernsey
+  Isle of Man          v Jersey                2-1   @ Saint Sampson, Guernsey
+  Guernsey             v Isle of Wight         3-1   @ Saint Sampson, Guernsey
+Fri Jul 4
+  Saare County         v Alderney              0-1   @ Saint Martin, Guernsey
+  Gotland              v Greenland             2-1   @ Saint Sampson, Guernsey
+  Orkney               v Shetland              0-6   @ Saint Sampson, Guernsey
+  Gibraltar            v Ynys Môn              0-2   @ Saint Sampson, Guernsey
+  Jersey               v Isle of Wight         3-0   @ Saint Martin, Guernsey
+  Guernsey             v Isle of Man           3-1   @ St. Peter Port, Guernsey
 

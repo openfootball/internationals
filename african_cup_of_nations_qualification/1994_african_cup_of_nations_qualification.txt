@@ -1,51 +1,51 @@
 = African Cup of Nations qualification 1994
 
-# Date       Sat Sep/3 - Sun Nov/20 1994 (78d)
+# Date       Sat Sep 3 - Sun Nov 20 1994 (78d)
 # Teams      30
 # Matches    34
 
-[Sat Sep 3]
-  Senegal - Mauritania  0-0   @ Dakar, Senegal
-  Tanzania - Uganda  4-0   @ Dar es Salaam, Tanzania
-[Sun Sep 4]
-  Angola - Namibia  2-0   @ Luanda, Angola
-  Botswana - Guinea  0-1   @ Gaborone, Botswana
-  Burkina Faso - Morocco  2-1   @ Ouagadougou, Burkina Faso
-  DR Congo - Malawi  1-1   @ Kinshasa, Zaïre
-  Ethiopia - Algeria  0-0   @ Addis Ababa, Ethiopia
-  Ghana - Sierra Leone  4-1   @ Accra, Ghana
-  Liberia - Togo  1-0   @ Monrovia, Liberia
-  Mali - Mozambique  2-1   @ Bamako, Mali
-  Sudan - Egypt  0-0   @ Khartoum, Sudan
-[Fri Oct 14]
-  Algeria - Sudan  1-1   @ Algiers, Algeria
-  Egypt - Tanzania  5-1   @ Cairo, Egypt
-[Sat Oct 15]
-  Malawi - Zimbabwe  3-1   @ Blantyre, Malawi
-  Namibia - Mali  2-1   @ Windhoek, Namibia
-  Uganda - Ethiopia  4-1   @ Kampala, Uganda
-[Sun Oct 16]
-  Cameroon - DR Congo  1-0   @ Douala, Cameroon
-  Guinea - Angola  3-1   @ Conakry, Guinea
-  Mozambique - Botswana  3-1   @ Maputo, Mozambique
-  Sierra Leone - Congo  3-2   @ Freetown, Sierra Leone
-  Togo - Senegal  2-0   @ Lomé, Togo
-[Sun Oct 30]
-  Mali - Guinea  2-0   @ Bamako, Mali
-[Fri Nov 11]
-  Egypt - Ethiopia  5-0   @ Cairo, Egypt
-  Mauritania - Liberia  1-1   @ Nouakchott, Mauritania
-[Sat Nov 12]
-  Tanzania - Sudan  2-0   @ Dar es Salaam, Tanzania
-  Uganda - Algeria  1-1   @ Kampala, Uganda
-[Sun Nov 13]
-  Gabon - Mauritius  3-0   @ Libreville, Gabon
-  Mali - Angola  0-0   @ Bamako, Mali
-  Morocco - Ivory Coast  1-0   @ Casablanca, Morocco
-  Mozambique - Guinea  2-1   @ Maputo, Mozambique
-  Namibia - Botswana  1-1   @ Windhoek, Namibia
-  Tunisia - Togo  1-1   @ Tunis, Tunisia
-  Zimbabwe - DR Congo  2-1   @ Harare, Zimbabwe
-[Sun Nov 20]
-  Gabon - Zambia  2-1   @ Libreville, Gabon
+Sat Sep 3
+  Senegal              v Mauritania            0-0   @ Dakar, Senegal
+  Tanzania             v Uganda                4-0   @ Dar es Salaam, Tanzania
+Sun Sep 4
+  Angola               v Namibia               2-0   @ Luanda, Angola
+  Botswana             v Guinea                0-1   @ Gaborone, Botswana
+  Burkina Faso         v Morocco               2-1   @ Ouagadougou, Burkina Faso
+  DR Congo             v Malawi                1-1   @ Kinshasa, Zaïre
+  Ethiopia             v Algeria               0-0   @ Addis Ababa, Ethiopia
+  Ghana                v Sierra Leone          4-1   @ Accra, Ghana
+  Liberia              v Togo                  1-0   @ Monrovia, Liberia
+  Mali                 v Mozambique            2-1   @ Bamako, Mali
+  Sudan                v Egypt                 0-0   @ Khartoum, Sudan
+Fri Oct 14
+  Algeria              v Sudan                 1-1   @ Algiers, Algeria
+  Egypt                v Tanzania              5-1   @ Cairo, Egypt
+Sat Oct 15
+  Malawi               v Zimbabwe              3-1   @ Blantyre, Malawi
+  Namibia              v Mali                  2-1   @ Windhoek, Namibia
+  Uganda               v Ethiopia              4-1   @ Kampala, Uganda
+Sun Oct 16
+  Cameroon             v DR Congo              1-0   @ Douala, Cameroon
+  Guinea               v Angola                3-1   @ Conakry, Guinea
+  Mozambique           v Botswana              3-1   @ Maputo, Mozambique
+  Sierra Leone         v Congo                 3-2   @ Freetown, Sierra Leone
+  Togo                 v Senegal               2-0   @ Lomé, Togo
+Sun Oct 30
+  Mali                 v Guinea                2-0   @ Bamako, Mali
+Fri Nov 11
+  Egypt                v Ethiopia              5-0   @ Cairo, Egypt
+  Mauritania           v Liberia               1-1   @ Nouakchott, Mauritania
+Sat Nov 12
+  Tanzania             v Sudan                 2-0   @ Dar es Salaam, Tanzania
+  Uganda               v Algeria               1-1   @ Kampala, Uganda
+Sun Nov 13
+  Gabon                v Mauritius             3-0   @ Libreville, Gabon
+  Mali                 v Angola                0-0   @ Bamako, Mali
+  Morocco              v Ivory Coast           1-0   @ Casablanca, Morocco
+  Mozambique           v Guinea                2-1   @ Maputo, Mozambique
+  Namibia              v Botswana              1-1   @ Windhoek, Namibia
+  Tunisia              v Togo                  1-1   @ Tunis, Tunisia
+  Zimbabwe             v DR Congo              2-1   @ Harare, Zimbabwe
+Sun Nov 20
+  Gabon                v Zambia                2-1   @ Libreville, Gabon
 

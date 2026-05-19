@@ -1,13 +1,13 @@
 = Cyprus International Tournament 2007
 
-# Date       Tue Feb/6 - Wed Feb/7 2007 (1d)
+# Date       Tue Feb 6 - Wed Feb 7 2007 (1d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 6]
-  Cyprus - Hungary  2-1   @ Limassol, Cyprus
-  Latvia - Bulgaria  0-2   @ Larnaca, Cyprus
-[Wed Feb 7]
-  Cyprus - Bulgaria  0-3   @ Nicosia, Cyprus
-  Latvia - Hungary  0-2   @ Limassol, Cyprus
+Tue Feb 6
+  Cyprus               v Hungary               2-1   @ Limassol, Cyprus
+  Latvia               v Bulgaria              0-2   @ Larnaca, Cyprus
+Wed Feb 7
+  Cyprus               v Bulgaria              0-3   @ Nicosia, Cyprus
+  Latvia               v Hungary               0-2   @ Limassol, Cyprus
 

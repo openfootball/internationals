@@ -1,31 +1,31 @@
 = Asian Games 1954
 
-# Date       Sat May/1 - Sat May/8 1954 (7d)
+# Date       Sat May 1 - Sat May 8 1954 (7d)
 # Teams      12
 # Matches    16
 
-[Sat May 1]
-  Taiwan - Vietnam  3-2   @ Manila, Philippines
-  Japan - Indonesia  3-5   @ Manila, Philippines
-[Sun May 2]
-  Singapore - Pakistan  2-6   @ Manila, Philippines
-  South Korea - Hong Kong  3-3   @ Manila, Philippines
-[Mon May 3]
-  Philippines - Vietnam  2-3   @ Manila, Philippines
-  India - Japan  3-2   @ Manila, Philippines
-[Tue May 4]
-  Myanmar - Singapore  1-1   @ Manila, Philippines
-  South Korea - Afghanistan  8-2   @ Manila, Philippines
-[Wed May 5]
-  Myanmar - Pakistan  2-1   @ Manila, Philippines
-  India - Indonesia  0-4   @ Manila, Philippines
-[Thu May 6]
-  Philippines - Taiwan  0-4   @ Manila, Philippines
-  Hong Kong - Afghanistan  4-2   @ Manila, Philippines
-[Fri May 7]
-  Taiwan - Indonesia  4-2   @ Manila, Philippines
-  Myanmar - South Korea  2-2   @ Manila, Philippines
-[Sat May 8]
-  Indonesia - Myanmar  4-5   @ Manila, Philippines
-  Taiwan - South Korea  5-2   @ Manila, Philippines
+Sat May 1
+  Taiwan               v Vietnam               3-2   @ Manila, Philippines
+  Japan                v Indonesia             3-5   @ Manila, Philippines
+Sun May 2
+  Singapore            v Pakistan              2-6   @ Manila, Philippines
+  South Korea          v Hong Kong             3-3   @ Manila, Philippines
+Mon May 3
+  Philippines          v Vietnam               2-3   @ Manila, Philippines
+  India                v Japan                 3-2   @ Manila, Philippines
+Tue May 4
+  Myanmar              v Singapore             1-1   @ Manila, Philippines
+  South Korea          v Afghanistan           8-2   @ Manila, Philippines
+Wed May 5
+  Myanmar              v Pakistan              2-1   @ Manila, Philippines
+  India                v Indonesia             0-4   @ Manila, Philippines
+Thu May 6
+  Philippines          v Taiwan                0-4   @ Manila, Philippines
+  Hong Kong            v Afghanistan           4-2   @ Manila, Philippines
+Fri May 7
+  Taiwan               v Indonesia             4-2   @ Manila, Philippines
+  Myanmar              v South Korea           2-2   @ Manila, Philippines
+Sat May 8
+  Indonesia            v Myanmar               4-5   @ Manila, Philippines
+  Taiwan               v South Korea           5-2   @ Manila, Philippines
 

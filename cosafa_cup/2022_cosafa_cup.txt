@@ -1,39 +1,39 @@
 = COSAFA Cup 2022
 
-# Date       Tue Jul/5 - Sun Jul/17 2022 (12d)
+# Date       Tue Jul 5 - Sun Jul 17 2022 (12d)
 # Teams      14
 # Matches    23
 
-[Tue Jul 5]
-  Seychelles - Botswana  0-1   @ Durban, South Africa
-  Angola - Comoros  3-1   @ Durban, South Africa
-[Wed Jul 6]
-  Mauritius - Eswatini  0-3   @ Durban, South Africa
-  Lesotho - Malawi  2-1   @ Durban, South Africa
-[Thu Jul 7]
-  Comoros - Botswana  0-1   @ Durban, South Africa
-  Angola - Seychelles  3-0   @ Durban, South Africa
-[Fri Jul 8]
-  Malawi - Eswatini  1-1   @ Durban, South Africa
-  Lesotho - Mauritius  2-1   @ Durban, South Africa
-[Sun Jul 10]
-  Seychelles - Comoros  1-2   @ KwaMashu, South Africa
-  Botswana - Angola  1-0   @ Durban, South Africa
-  Mauritius - Malawi  0-2   @ KwaMashu, South Africa
-  Eswatini - Lesotho  2-0   @ Durban, South Africa
-[Tue Jul 12]
-  Madagascar - Namibia  0-2   @ KwaMashu, South Africa
-  Zambia - Botswana  1-1   @ KwaMashu, South Africa   [Zambia wins on penalties]
-[Wed Jul 13]
-  South Africa - Mozambique  0-0   @ KwaMashu, South Africa   [Mozambique wins on penalties]
-  Senegal - Eswatini  1-1   @ KwaMashu, South Africa   [Senegal wins on penalties]
-[Fri Jul 15]
-  South Africa - Madagascar  2-1   @ Sugar Ray Xulu Stadium, South Africa
-  Botswana - Eswatini  2-0   @ Sugar Ray Xulu Stadium, South Africa
-  Namibia - Mozambique  1-0   @ Durban, South Africa
-  Zambia - Senegal  4-3   @ Durban, South Africa
-[Sun Jul 17]
-  South Africa - Botswana  2-1   @ Sugar Ray Xulu Stadium, South Africa
-  Mozambique - Senegal  1-1   @ Moses Mabhida Stadium, South Africa   [Senegal wins on penalties]
-  Namibia - Zambia  0-1   @ Moses Mabhida Stadium, South Africa
+Tue Jul 5
+  Seychelles           v Botswana              0-1   @ Durban, South Africa
+  Angola               v Comoros               3-1   @ Durban, South Africa
+Wed Jul 6
+  Mauritius            v Eswatini              0-3   @ Durban, South Africa
+  Lesotho              v Malawi                2-1   @ Durban, South Africa
+Thu Jul 7
+  Comoros              v Botswana              0-1   @ Durban, South Africa
+  Angola               v Seychelles            3-0   @ Durban, South Africa
+Fri Jul 8
+  Malawi               v Eswatini              1-1   @ Durban, South Africa
+  Lesotho              v Mauritius             2-1   @ Durban, South Africa
+Sun Jul 10
+  Seychelles           v Comoros               1-2   @ KwaMashu, South Africa
+  Botswana             v Angola                1-0   @ Durban, South Africa
+  Mauritius            v Malawi                0-2   @ KwaMashu, South Africa
+  Eswatini             v Lesotho               2-0   @ Durban, South Africa
+Tue Jul 12
+  Madagascar           v Namibia               0-2   @ KwaMashu, South Africa
+  Zambia               v Botswana              1-1   @ KwaMashu, South Africa   [Zambia wins on penalties]
+Wed Jul 13
+  South Africa         v Mozambique            0-0   @ KwaMashu, South Africa   [Mozambique wins on penalties]
+  Senegal              v Eswatini              1-1   @ KwaMashu, South Africa   [Senegal wins on penalties]
+Fri Jul 15
+  South Africa         v Madagascar            2-1   @ Sugar Ray Xulu Stadium, South Africa
+  Botswana             v Eswatini              2-0   @ Sugar Ray Xulu Stadium, South Africa
+  Namibia              v Mozambique            1-0   @ Durban, South Africa
+  Zambia               v Senegal               4-3   @ Durban, South Africa
+Sun Jul 17
+  South Africa         v Botswana              2-1   @ Sugar Ray Xulu Stadium, South Africa
+  Mozambique           v Senegal               1-1   @ Moses Mabhida Stadium, South Africa   [Senegal wins on penalties]
+  Namibia              v Zambia                0-1   @ Moses Mabhida Stadium, South Africa
 

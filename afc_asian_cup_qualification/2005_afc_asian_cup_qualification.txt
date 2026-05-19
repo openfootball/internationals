@@ -1,11 +1,11 @@
 = AFC Asian Cup qualification 2005
 
-# Date       Thu Dec/22 - Mon Dec/26 2005 (4d)
+# Date       Thu Dec 22 - Mon Dec 26 2005 (4d)
 # Teams      2
 # Matches    2
 
-[Thu Dec 22]
-  Bangladesh - Pakistan  0-0   @ Dhaka, Bangladesh
-[Mon Dec 26]
-  Pakistan - Bangladesh  0-1   @ Karachi, Pakistan
+Thu Dec 22
+  Bangladesh           v Pakistan              0-0   @ Dhaka, Bangladesh
+Mon Dec 26
+  Pakistan             v Bangladesh            0-1   @ Karachi, Pakistan
 

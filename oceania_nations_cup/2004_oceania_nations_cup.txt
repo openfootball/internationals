@@ -1,53 +1,53 @@
 = Oceania Nations Cup 2004
 
-# Date       Sat May/29 - Tue Oct/12 2004 (136d)
+# Date       Sat May 29 - Tue Oct 12 2004 (136d)
 # Teams      6
 # Matches    17
 
-[Sat May 29]
-  Australia - New Zealand  1-0   @ Adelaide, Australia
-     Mark Bresciano 40'
-  Tahiti - Fiji  0-0   @ Adelaide, Australia
-  Vanuatu - Solomon Islands  0-1   @ Adelaide, Australia
-     -; Batram Suri 51' (pen.)
-[Mon May 31]
-  Australia - Tahiti  9-0   @ Adelaide, Australia
-     Tim Cahill 14' Josip Skoko 43' Vincent Simon 44' (o.g.) Tim Cahill 47' Mile Sterjovski 51' Mile Sterjovski 61' Mile Sterjovski 74' David Zdrilic 85' Scott Chipperfield 89'
-  Fiji - Vanuatu  1-0   @ Adelaide, Australia
-     Veresa Toma 73'
-  New Zealand - Solomon Islands  3-0   @ Adelaide, Australia
-     Brent Fisher 36' Duncan Oughton 81' Aaran Lines 90'
-[Wed Jun 2]
-  Australia - Fiji  6-1   @ Adelaide, Australia
-     Adrian Madaschi 6' Tim Cahill 39' Adrian Madaschi 50' Tim Cahill 66' Tim Cahill 75' Ahmad Elrich 89';
-     Laisiasa Gataurua 19'
-  New Zealand - Vanuatu  2-4   @ Adelaide, Australia
-     Vaughan Coveny 61' Vaughan Coveny 75';
-     Seimata Chilia 37' Lexa Bibi 64' Jean Maleb 72' Alphose Qorig 88'
-  Tahiti - Solomon Islands  0-4   @ Adelaide, Australia
-     -; Henry Fa'arodo 9' Commins Menapi 14' Batram Suri 42' Commins Menapi 80'
-[Fri Jun 4]
-  Australia - Vanuatu  3-0   @ Adelaide, Australia
-     John Aloisi 25' Brett Emerton 81' John Aloisi 85'
-  Fiji - Solomon Islands  1-2   @ Adelaide, Australia
-     Veresa Toma 21';
-     Paul Kakai 16' Mahlon Houkarawa 82'
-  New Zealand - Tahiti  10-0   @ Adelaide, Australia
-     Vaughan Coveny 6' Brent Fisher 16' Brent Fisher 22' Vaughan Coveny 38' Vaughan Coveny 45' Brent Fisher 63' Neil Jones 72' Duncan Oughton 74' Ryan Nelsen 82' Ryan Nelsen 87'
-[Sun Jun 6]
-  Australia - Solomon Islands  2-2   @ Adelaide, Australia
-     Tim Cahill 50' Brett Emerton 52';
-     Commins Menapi 43' Commins Menapi 75'
-  Fiji - New Zealand  0-2   @ Adelaide, Australia
-     -; Che Bunce 8' Vaughan Coveny 56'
-  Tahiti - Vanuatu  2-1   @ Adelaide, Australia
-     Axel Temataua 40' Gabriel Wajoka 89';
-     Richard Iwai 23'
-[Sat Oct 9]
-  Solomon Islands - Australia  1-5   @ Honiara, Solomon Islands
-     Batram Suri 60';
-     Josip Skoko 5' Ante Milicic 19' Josip Skoko 28' Brett Emerton 43' Ahmad Elrich 79'
-[Tue Oct 12]
-  Australia - Solomon Islands  6-0   @ Sydney, Australia
-     Ante Milicic 5' Harry Kewell 8' Tony Vidmar 60' Archie Thompson 79' Ahmad Elrich 82' Brett Emerton 89'
+Sat May 29
+  Australia            v New Zealand           1-0   @ Adelaide, Australia
+     (Mark Bresciano 40')
+  Tahiti               v Fiji                  0-0   @ Adelaide, Australia
+  Vanuatu              v Solomon Islands       0-1   @ Adelaide, Australia
+     (Batram Suri 51'(p))
+Mon May 31
+  Australia            v Tahiti                9-0   @ Adelaide, Australia
+     (Tim Cahill 14' Josip Skoko 43' Vincent Simon 44'(og) Tim Cahill 47' Mile Sterjovski 51' Mile Sterjovski 61' Mile Sterjovski 74' David Zdrilic 85' Scott Chipperfield 89')
+  Fiji                 v Vanuatu               1-0   @ Adelaide, Australia
+     (Veresa Toma 73')
+  New Zealand          v Solomon Islands       3-0   @ Adelaide, Australia
+     (Brent Fisher 36' Duncan Oughton 81' Aaran Lines 90')
+Wed Jun 2
+  Australia            v Fiji                  6-1   @ Adelaide, Australia
+     (Adrian Madaschi 6' Tim Cahill 39' Adrian Madaschi 50' Tim Cahill 66' Tim Cahill 75' Ahmad Elrich 89';
+      Laisiasa Gataurua 19')
+  New Zealand          v Vanuatu               2-4   @ Adelaide, Australia
+     (Vaughan Coveny 61' Vaughan Coveny 75';
+      Seimata Chilia 37' Lexa Bibi 64' Jean Maleb 72' Alphose Qorig 88')
+  Tahiti               v Solomon Islands       0-4   @ Adelaide, Australia
+     (Henry Fa'arodo 9' Commins Menapi 14' Batram Suri 42' Commins Menapi 80')
+Fri Jun 4
+  Australia            v Vanuatu               3-0   @ Adelaide, Australia
+     (John Aloisi 25' Brett Emerton 81' John Aloisi 85')
+  Fiji                 v Solomon Islands       1-2   @ Adelaide, Australia
+     (Veresa Toma 21';
+      Paul Kakai 16' Mahlon Houkarawa 82')
+  New Zealand          v Tahiti                10-0   @ Adelaide, Australia
+     (Vaughan Coveny 6' Brent Fisher 16' Brent Fisher 22' Vaughan Coveny 38' Vaughan Coveny 45' Brent Fisher 63' Neil Jones 72' Duncan Oughton 74' Ryan Nelsen 82' Ryan Nelsen 87')
+Sun Jun 6
+  Australia            v Solomon Islands       2-2   @ Adelaide, Australia
+     (Tim Cahill 50' Brett Emerton 52';
+      Commins Menapi 43' Commins Menapi 75')
+  Fiji                 v New Zealand           0-2   @ Adelaide, Australia
+     (Che Bunce 8' Vaughan Coveny 56')
+  Tahiti               v Vanuatu               2-1   @ Adelaide, Australia
+     (Axel Temataua 40' Gabriel Wajoka 89';
+      Richard Iwai 23')
+Sat Oct 9
+  Solomon Islands      v Australia             1-5   @ Honiara, Solomon Islands
+     (Batram Suri 60';
+      Josip Skoko 5' Ante Milicic 19' Josip Skoko 28' Brett Emerton 43' Ahmad Elrich 79')
+Tue Oct 12
+  Australia            v Solomon Islands       6-0   @ Sydney, Australia
+     (Ante Milicic 5' Harry Kewell 8' Tony Vidmar 60' Archie Thompson 79' Ahmad Elrich 82' Brett Emerton 89')
 

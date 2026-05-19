@@ -1,74 +1,74 @@
 = Friendly 1942
 
-# Date       Thu Jan/1 - Sun Nov/22 1942 (325d)
+# Date       Thu Jan 1 - Sun Nov 22 1942 (325d)
 # Teams      27
 # Matches    34
 
-[Thu Jan 1]
-  Portugal - Switzerland  3-0   @ Lisbon, Portugal
-[Sun Jan 18]
-  Croatia - Germany  0-2   @ Zagreb, Croatia
-[Mon Jan 26]
-  Cuba - Puerto Rico  1-0   @ Havana, Cuba
-[Thu Jan 29]
-  Cuba - Puerto Rico  1-0   @ Havana, Cuba
-[Sun Feb 1]
-  Germany - Switzerland  1-2   @ Vienna, Germany
-[Sun Mar 8]
-  France - Switzerland  0-2   @ Marseille, France
-[Sun Mar 15]
-  Spain - France  4-0   @ Seville, Spain
-[Sun Apr 5]
-  Italy - Croatia  4-0   @ Genoa, Italy
-[Sat Apr 11]
-  Barbados - Trinidad and Tobago  3-3   @ Bridgetown, Barbados
-[Sun Apr 12]
-  Germany - Spain  1-1   @ Berlin, Germany
-[Sun Apr 19]
-  Italy - Spain  4-0   @ Milan, Italy
-[Sun May 3]
-  Hungary - Germany  3-5   @ Budapest, Hungary
-[Mon May 25]
-  Curaçao - Aruba  2-2   @ Willemstad, Curaçao
-[Sun Jun 7]
-  Slovakia - Croatia  1-2   @ Bratislava, Slovakia
-[Sun Jun 14]
-  Hungary - Croatia  1-1   @ Budapest, Hungary
-[Sun Jun 28]
-  Denmark - Sweden  0-3   @ Copenhagen, Denmark
-[Tue Jul 7]
-  Kenya - Uganda  4-3   @ Nairobi, Kenya
-[Sun Jul 19]
-  Bulgaria - Germany  0-3   @ Sofia, Bulgaria
-[Mon Aug 3]
-  Latvia - Estonia  4-0   @ Riga, Soviet Union
-[Sat Aug 8]
-  China PR - Japan  1-6   @ Xinjing, Manchuria
-[Sun Aug 9]
-  Manchukuo - Japan  0-3   @ Xinjing, Manchuria
-[Mon Aug 10]
-  Japan - Mongolia  12-0   @ Xinjing, Manchuria
-[Sun Aug 16]
-  Germany - Romania  7-0   @ Beuthen, Germany
-[Tue Aug 18]
-  Estonia - Latvia  1-8   @ Tallinn, Soviet Union
-[Sun Aug 23]
-  Slovakia - Romania  1-0   @ Bratislava, Slovakia
-[Sun Sep 6]
-  Croatia - Slovakia  6-1   @ Zagreb, Croatia
-[Sun Sep 20]
-  Germany - Sweden  2-3   @ Berlin, Germany
-[Sun Oct 4]
-  Sweden - Denmark  2-1   @ Solna, Sweden
-[Sun Oct 11]
-  Romania - Croatia  2-2   @ Bucharest, Romania
-[Sun Oct 18]
-  Switzerland - Germany  3-5   @ Bern, Switzerland
-[Sun Nov 1]
-  Germany - Croatia  5-1   @ Stuttgart, Germany
-  Hungary - Switzerland  3-0   @ Budapest, Hungary
-[Sun Nov 15]
-  Switzerland - Sweden  3-1   @ Zürich, Switzerland
-[Sun Nov 22]
-  Slovakia - Germany  2-5   @ Bratislava, Slovakia
+Thu Jan 1
+  Portugal             v Switzerland           3-0   @ Lisbon, Portugal
+Sun Jan 18
+  Croatia              v Germany               0-2   @ Zagreb, Croatia
+Mon Jan 26
+  Cuba                 v Puerto Rico           1-0   @ Havana, Cuba
+Thu Jan 29
+  Cuba                 v Puerto Rico           1-0   @ Havana, Cuba
+Sun Feb 1
+  Germany              v Switzerland           1-2   @ Vienna, Germany
+Sun Mar 8
+  France               v Switzerland           0-2   @ Marseille, France
+Sun Mar 15
+  Spain                v France                4-0   @ Seville, Spain
+Sun Apr 5
+  Italy                v Croatia               4-0   @ Genoa, Italy
+Sat Apr 11
+  Barbados             v Trinidad and Tobago   3-3   @ Bridgetown, Barbados
+Sun Apr 12
+  Germany              v Spain                 1-1   @ Berlin, Germany
+Sun Apr 19
+  Italy                v Spain                 4-0   @ Milan, Italy
+Sun May 3
+  Hungary              v Germany               3-5   @ Budapest, Hungary
+Mon May 25
+  Curaçao              v Aruba                 2-2   @ Willemstad, Curaçao
+Sun Jun 7
+  Slovakia             v Croatia               1-2   @ Bratislava, Slovakia
+Sun Jun 14
+  Hungary              v Croatia               1-1   @ Budapest, Hungary
+Sun Jun 28
+  Denmark              v Sweden                0-3   @ Copenhagen, Denmark
+Tue Jul 7
+  Kenya                v Uganda                4-3   @ Nairobi, Kenya
+Sun Jul 19
+  Bulgaria             v Germany               0-3   @ Sofia, Bulgaria
+Mon Aug 3
+  Latvia               v Estonia               4-0   @ Riga, Soviet Union
+Sat Aug 8
+  China PR             v Japan                 1-6   @ Xinjing, Manchuria
+Sun Aug 9
+  Manchukuo            v Japan                 0-3   @ Xinjing, Manchuria
+Mon Aug 10
+  Japan                v Mongolia              12-0   @ Xinjing, Manchuria
+Sun Aug 16
+  Germany              v Romania               7-0   @ Beuthen, Germany
+Tue Aug 18
+  Estonia              v Latvia                1-8   @ Tallinn, Soviet Union
+Sun Aug 23
+  Slovakia             v Romania               1-0   @ Bratislava, Slovakia
+Sun Sep 6
+  Croatia              v Slovakia              6-1   @ Zagreb, Croatia
+Sun Sep 20
+  Germany              v Sweden                2-3   @ Berlin, Germany
+Sun Oct 4
+  Sweden               v Denmark               2-1   @ Solna, Sweden
+Sun Oct 11
+  Romania              v Croatia               2-2   @ Bucharest, Romania
+Sun Oct 18
+  Switzerland          v Germany               3-5   @ Bern, Switzerland
+Sun Nov 1
+  Germany              v Croatia               5-1   @ Stuttgart, Germany
+  Hungary              v Switzerland           3-0   @ Budapest, Hungary
+Sun Nov 15
+  Switzerland          v Sweden                3-1   @ Zürich, Switzerland
+Sun Nov 22
+  Slovakia             v Germany               2-5   @ Bratislava, Slovakia
 

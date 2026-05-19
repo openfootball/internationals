@@ -1,19 +1,19 @@
 = Nordic Championship 1938
 
-# Date       Fri Jun/17 - Sun Oct/2 1938 (107d)
+# Date       Fri Jun 17 - Sun Oct 2 1938 (107d)
 # Teams      4
 # Matches    6
 
-[Fri Jun 17]
-  Norway - Finland  9-0   @ Oslo, Norway
-[Tue Jun 21]
-  Denmark - Sweden  0-1   @ Copenhagen, Denmark
-[Mon Jul 4]
-  Finland - Sweden  2-4   @ Helsinki, Finland
-[Wed Aug 31]
-  Finland - Denmark  2-1   @ Helsinki, Finland
-[Sun Sep 18]
-  Norway - Denmark  1-1   @ Oslo, Norway
-[Sun Oct 2]
-  Sweden - Norway  2-3   @ Solna, Sweden
+Fri Jun 17
+  Norway               v Finland               9-0   @ Oslo, Norway
+Tue Jun 21
+  Denmark              v Sweden                0-1   @ Copenhagen, Denmark
+Mon Jul 4
+  Finland              v Sweden                2-4   @ Helsinki, Finland
+Wed Aug 31
+  Finland              v Denmark               2-1   @ Helsinki, Finland
+Sun Sep 18
+  Norway               v Denmark               1-1   @ Oslo, Norway
+Sun Oct 2
+  Sweden               v Norway                2-3   @ Solna, Sweden
 

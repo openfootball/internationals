@@ -1,23 +1,23 @@
 = AFC Asian Cup qualification 1979
 
-# Date       Mon Mar/5 - Mon May/14 1979 (70d)
+# Date       Mon Mar 5 - Mon May 14 1979 (70d)
 # Teams      8
 # Matches    8
 
-[Mon Mar 5]
-  Bangladesh - Afghanistan  3-2   @ Dhaka, Bangladesh
-[Wed Mar 7]
-  Bangladesh - Qatar  1-3   @ Dhaka, Bangladesh
-[Wed May 2]
-  North Korea - Hong Kong  3-0   @ Bangkok, Thailand
-[Mon May 7]
-  North Korea - Indonesia  3-1   @ Bangkok, Thailand
-[Wed May 9]
-  Malaysia - North Korea  1-1   @ Bangkok, Thailand
-[Fri May 11]
-  Malaysia - Hong Kong  0-0   @ Bangkok, Thailand
-[Sat May 12]
-  Thailand - North Korea  0-1   @ Bangkok, Thailand
-[Mon May 14]
-  North Korea - Malaysia  1-0   @ Bangkok, Thailand
+Mon Mar 5
+  Bangladesh           v Afghanistan           3-2   @ Dhaka, Bangladesh
+Wed Mar 7
+  Bangladesh           v Qatar                 1-3   @ Dhaka, Bangladesh
+Wed May 2
+  North Korea          v Hong Kong             3-0   @ Bangkok, Thailand
+Mon May 7
+  North Korea          v Indonesia             3-1   @ Bangkok, Thailand
+Wed May 9
+  Malaysia             v North Korea           1-1   @ Bangkok, Thailand
+Fri May 11
+  Malaysia             v Hong Kong             0-0   @ Bangkok, Thailand
+Sat May 12
+  Thailand             v North Korea           0-1   @ Bangkok, Thailand
+Mon May 14
+  North Korea          v Malaysia              1-0   @ Bangkok, Thailand
 

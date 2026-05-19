@@ -1,56 +1,56 @@
 = AFC Asian Cup qualification 1971
 
-# Date       Fri May/21 - Fri Dec/24 1971 (217d)
+# Date       Fri May 21 - Fri Dec 24 1971 (217d)
 # Teams      13
 # Matches    29
 
-[Fri May 21]
-  Thailand - Cambodia  1-1   @ Bangkok, Thailand
-[Sat May 22]
-  Indonesia - Hong Kong  2-1   @ Bangkok, Thailand
-  Malaysia - Brunei  8-0   @ Bangkok, Thailand
-[Mon May 24]
-  Cambodia - Hong Kong  2-1   @ Bangkok, Thailand
-  Thailand - Brunei  10-0   @ Bangkok, Thailand
-[Wed May 26]
-  Malaysia - Cambodia  2-1   @ Bangkok, Thailand
-  Thailand - Indonesia  0-1   @ Bangkok, Thailand
-[Fri May 28]
-  Indonesia - Brunei  9-0   @ Bangkok, Thailand
-  Malaysia - Hong Kong  2-1   @ Bangkok, Thailand
-[Sun May 30]
-  Cambodia - Indonesia  2-0   @ Bangkok, Thailand
-  Thailand - Malaysia  1-0   @ Bangkok, Thailand
-[Tue Jun 1]
-  Malaysia - Indonesia  3-0   @ Bangkok, Thailand
-  Thailand - Cambodia  4-2   @ Bangkok, Thailand
-[Fri Dec 10]
-  Kuwait - Iraq  1-1   @ Kuwait City, Kuwait
-[Sat Dec 11]
-  Bahrain - Lebanon  3-0   @ Kuwait City, Kuwait
-  Syria - Jordan  0-0   @ Kuwait City, Kuwait
-[Mon Dec 13]
-  Iraq - Sri Lanka  5-0   @ Kuwait City, Kuwait
-  Jordan - Bahrain  3-2   @ Kuwait City, Kuwait
-[Tue Dec 14]
-  Kuwait - Lebanon  1-0   @ Kuwait City, Kuwait
-[Wed Dec 15]
-  Iraq - Bahrain  1-0   @ Kuwait City, Kuwait
-[Thu Dec 16]
-  Jordan - Sri Lanka  2-1   @ Kuwait City, Kuwait
-[Fri Dec 17]
-  Kuwait - Syria  2-2   @ Kuwait City, Kuwait
-[Sat Dec 18]
-  Iraq - Jordan  2-0   @ Kuwait City, Kuwait
-[Sun Dec 19]
-  Lebanon - Syria  3-2   @ Kuwait City, Kuwait
-[Mon Dec 20]
-  Bahrain - Sri Lanka  3-0   @ Kuwait City, Kuwait
-[Tue Dec 21]
-  Kuwait - Jordan  2-0   @ Kuwait City, Kuwait
-[Wed Dec 22]
-  Iraq - Lebanon  4-1   @ Kuwait City, Kuwait
-[Fri Dec 24]
-  Kuwait - Iraq  0-1   @ Kuwait City, Kuwait
-  Lebanon - Jordan  2-0   @ Kuwait City, Kuwait
+Fri May 21
+  Thailand             v Cambodia              1-1   @ Bangkok, Thailand
+Sat May 22
+  Indonesia            v Hong Kong             2-1   @ Bangkok, Thailand
+  Malaysia             v Brunei                8-0   @ Bangkok, Thailand
+Mon May 24
+  Cambodia             v Hong Kong             2-1   @ Bangkok, Thailand
+  Thailand             v Brunei                10-0   @ Bangkok, Thailand
+Wed May 26
+  Malaysia             v Cambodia              2-1   @ Bangkok, Thailand
+  Thailand             v Indonesia             0-1   @ Bangkok, Thailand
+Fri May 28
+  Indonesia            v Brunei                9-0   @ Bangkok, Thailand
+  Malaysia             v Hong Kong             2-1   @ Bangkok, Thailand
+Sun May 30
+  Cambodia             v Indonesia             2-0   @ Bangkok, Thailand
+  Thailand             v Malaysia              1-0   @ Bangkok, Thailand
+Tue Jun 1
+  Malaysia             v Indonesia             3-0   @ Bangkok, Thailand
+  Thailand             v Cambodia              4-2   @ Bangkok, Thailand
+Fri Dec 10
+  Kuwait               v Iraq                  1-1   @ Kuwait City, Kuwait
+Sat Dec 11
+  Bahrain              v Lebanon               3-0   @ Kuwait City, Kuwait
+  Syria                v Jordan                0-0   @ Kuwait City, Kuwait
+Mon Dec 13
+  Iraq                 v Sri Lanka             5-0   @ Kuwait City, Kuwait
+  Jordan               v Bahrain               3-2   @ Kuwait City, Kuwait
+Tue Dec 14
+  Kuwait               v Lebanon               1-0   @ Kuwait City, Kuwait
+Wed Dec 15
+  Iraq                 v Bahrain               1-0   @ Kuwait City, Kuwait
+Thu Dec 16
+  Jordan               v Sri Lanka             2-1   @ Kuwait City, Kuwait
+Fri Dec 17
+  Kuwait               v Syria                 2-2   @ Kuwait City, Kuwait
+Sat Dec 18
+  Iraq                 v Jordan                2-0   @ Kuwait City, Kuwait
+Sun Dec 19
+  Lebanon              v Syria                 3-2   @ Kuwait City, Kuwait
+Mon Dec 20
+  Bahrain              v Sri Lanka             3-0   @ Kuwait City, Kuwait
+Tue Dec 21
+  Kuwait               v Jordan                2-0   @ Kuwait City, Kuwait
+Wed Dec 22
+  Iraq                 v Lebanon               4-1   @ Kuwait City, Kuwait
+Fri Dec 24
+  Kuwait               v Iraq                  0-1   @ Kuwait City, Kuwait
+  Lebanon              v Jordan                2-0   @ Kuwait City, Kuwait
 

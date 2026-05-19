@@ -1,15 +1,15 @@
 = Nordic Championship 1974
 
-# Date       Mon Jun/3 - Thu Aug/15 1974 (73d)
+# Date       Mon Jun 3 - Thu Aug 15 1974 (73d)
 # Teams      4
 # Matches    4
 
-[Mon Jun 3]
-  Denmark - Sweden  0-2   @ Copenhagen, Denmark
-[Thu Jun 6]
-  Finland - Denmark  1-1   @ Oulu, Finland
-[Thu Aug 8]
-  Sweden - Norway  2-1   @ Gothenburg, Sweden
-[Thu Aug 15]
-  Norway - Finland  1-2   @ Oslo, Norway
+Mon Jun 3
+  Denmark              v Sweden                0-2   @ Copenhagen, Denmark
+Thu Jun 6
+  Finland              v Denmark               1-1   @ Oulu, Finland
+Thu Aug 8
+  Sweden               v Norway                2-1   @ Gothenburg, Sweden
+Thu Aug 15
+  Norway               v Finland               1-2   @ Oslo, Norway
 

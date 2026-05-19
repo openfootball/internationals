@@ -1,19 +1,19 @@
 = Nations Cup 2011
 
-# Date       Tue Feb/8 - Sun May/29 2011 (110d)
+# Date       Tue Feb 8 - Sun May 29 2011 (110d)
 # Teams      4
 # Matches    6
 
-[Tue Feb 8]
-  Republic of Ireland - Wales  3-0   @ Dublin, Republic of Ireland
-[Wed Feb 9]
-  Scotland - Northern Ireland  3-0   @ Dublin, Republic of Ireland
-[Tue May 24]
-  Republic of Ireland - Northern Ireland  5-0   @ Dublin, Republic of Ireland
-[Wed May 25]
-  Wales - Scotland  1-3   @ Dublin, Republic of Ireland
-[Fri May 27]
-  Wales - Northern Ireland  2-0   @ Dublin, Republic of Ireland
-[Sun May 29]
-  Republic of Ireland - Scotland  1-0   @ Dublin, Republic of Ireland
+Tue Feb 8
+  Republic of Ireland  v Wales                 3-0   @ Dublin, Republic of Ireland
+Wed Feb 9
+  Scotland             v Northern Ireland      3-0   @ Dublin, Republic of Ireland
+Tue May 24
+  Republic of Ireland  v Northern Ireland      5-0   @ Dublin, Republic of Ireland
+Wed May 25
+  Wales                v Scotland              1-3   @ Dublin, Republic of Ireland
+Fri May 27
+  Wales                v Northern Ireland      2-0   @ Dublin, Republic of Ireland
+Sun May 29
+  Republic of Ireland  v Scotland              1-0   @ Dublin, Republic of Ireland
 

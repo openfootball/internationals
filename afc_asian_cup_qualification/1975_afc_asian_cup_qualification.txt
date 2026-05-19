@@ -1,62 +1,62 @@
 = AFC Asian Cup qualification 1975
 
-# Date       Sat Mar/15 - Thu Jun/26 1975 (103d)
+# Date       Sat Mar 15 - Thu Jun 26 1975 (103d)
 # Teams      15
 # Matches    31
 
-[Sat Mar 15]
-  Thailand - Indonesia  3-1   @ Bangkok, Thailand
-[Sun Mar 16]
-  Malaysia - South Korea  2-1   @ Bangkok, Thailand
-[Mon Mar 17]
-  Indonesia - Vietnam Republic  2-1   @ Bangkok, Thailand
-[Tue Mar 18]
-  Thailand - Malaysia  0-1   @ Bangkok, Thailand
-[Wed Mar 19]
-  South Korea - Vietnam Republic  1-0   @ Bangkok, Thailand
-[Thu Mar 20]
-  Malaysia - Indonesia  0-0   @ Bangkok, Thailand
-[Fri Mar 21]
-  Thailand - Vietnam Republic  4-0   @ Bangkok, Thailand
-[Sat Mar 22]
-  South Korea - Indonesia  1-0   @ Bangkok, Thailand
-[Sun Mar 23]
-  Malaysia - Vietnam Republic  3-0   @ Bangkok, Thailand
-[Mon Mar 24]
-  Thailand - South Korea  1-0   @ Bangkok, Thailand
-[Wed Apr 2]
-  Iraq - Qatar  1-0   @ Baghdad, Iraq
-  Saudi Arabia - Afghanistan  2-0   @ Baghdad, Iraq
-[Fri Apr 4]
-  Iraq - Afghanistan  4-0   @ Baghdad, Iraq
-  Saudi Arabia - Qatar  2-1   @ Baghdad, Iraq
-[Sun Apr 6]
-  Iraq - Saudi Arabia  1-1   @ Baghdad, Iraq
-  Qatar - Afghanistan  2-1   @ Baghdad, Iraq
-[Thu Apr 10]
-  Iraq - Qatar  3-0   @ Baghdad, Iraq
-  Saudi Arabia - Afghanistan  6-0   @ Baghdad, Iraq
-[Sat Apr 12]
-  Iraq - Saudi Arabia  2-1   @ Baghdad, Iraq
-  Qatar - Afghanistan  1-1   @ Baghdad, Iraq
-[Mon Apr 14]
-  Iraq - Afghanistan  3-1   @ Baghdad, Iraq
-  Saudi Arabia - Qatar  0-1   @ Baghdad, Iraq
-[Sat Jun 14]
-  Hong Kong - Japan  0-0   @ So Kon Po, Hong Kong
-[Sun Jun 15]
-  China PR - North Korea  1-0   @ So Kon Po, Hong Kong
-[Tue Jun 17]
-  North Korea - Japan  1-0   @ So Kon Po, Hong Kong
-[Thu Jun 19]
-  China PR - Brunei  10-1   @ So Kon Po, Hong Kong
-  North Korea - Singapore  1-0   @ So Kon Po, Hong Kong
-[Sat Jun 21]
-  Hong Kong - China PR  0-1   @ So Kon Po, Hong Kong
-[Mon Jun 23]
-  China PR - Japan  2-1   @ So Kon Po, Hong Kong
-[Tue Jun 24]
-  Hong Kong - North Korea  3-3   @ So Kon Po, Hong Kong
-[Thu Jun 26]
-  North Korea - China PR  2-0   @ So Kon Po, Hong Kong
+Sat Mar 15
+  Thailand             v Indonesia             3-1   @ Bangkok, Thailand
+Sun Mar 16
+  Malaysia             v South Korea           2-1   @ Bangkok, Thailand
+Mon Mar 17
+  Indonesia            v Vietnam Republic      2-1   @ Bangkok, Thailand
+Tue Mar 18
+  Thailand             v Malaysia              0-1   @ Bangkok, Thailand
+Wed Mar 19
+  South Korea          v Vietnam Republic      1-0   @ Bangkok, Thailand
+Thu Mar 20
+  Malaysia             v Indonesia             0-0   @ Bangkok, Thailand
+Fri Mar 21
+  Thailand             v Vietnam Republic      4-0   @ Bangkok, Thailand
+Sat Mar 22
+  South Korea          v Indonesia             1-0   @ Bangkok, Thailand
+Sun Mar 23
+  Malaysia             v Vietnam Republic      3-0   @ Bangkok, Thailand
+Mon Mar 24
+  Thailand             v South Korea           1-0   @ Bangkok, Thailand
+Wed Apr 2
+  Iraq                 v Qatar                 1-0   @ Baghdad, Iraq
+  Saudi Arabia         v Afghanistan           2-0   @ Baghdad, Iraq
+Fri Apr 4
+  Iraq                 v Afghanistan           4-0   @ Baghdad, Iraq
+  Saudi Arabia         v Qatar                 2-1   @ Baghdad, Iraq
+Sun Apr 6
+  Iraq                 v Saudi Arabia          1-1   @ Baghdad, Iraq
+  Qatar                v Afghanistan           2-1   @ Baghdad, Iraq
+Thu Apr 10
+  Iraq                 v Qatar                 3-0   @ Baghdad, Iraq
+  Saudi Arabia         v Afghanistan           6-0   @ Baghdad, Iraq
+Sat Apr 12
+  Iraq                 v Saudi Arabia          2-1   @ Baghdad, Iraq
+  Qatar                v Afghanistan           1-1   @ Baghdad, Iraq
+Mon Apr 14
+  Iraq                 v Afghanistan           3-1   @ Baghdad, Iraq
+  Saudi Arabia         v Qatar                 0-1   @ Baghdad, Iraq
+Sat Jun 14
+  Hong Kong            v Japan                 0-0   @ So Kon Po, Hong Kong
+Sun Jun 15
+  China PR             v North Korea           1-0   @ So Kon Po, Hong Kong
+Tue Jun 17
+  North Korea          v Japan                 1-0   @ So Kon Po, Hong Kong
+Thu Jun 19
+  China PR             v Brunei                10-1   @ So Kon Po, Hong Kong
+  North Korea          v Singapore             1-0   @ So Kon Po, Hong Kong
+Sat Jun 21
+  Hong Kong            v China PR              0-1   @ So Kon Po, Hong Kong
+Mon Jun 23
+  China PR             v Japan                 2-1   @ So Kon Po, Hong Kong
+Tue Jun 24
+  Hong Kong            v North Korea           3-3   @ So Kon Po, Hong Kong
+Thu Jun 26
+  North Korea          v China PR              2-0   @ So Kon Po, Hong Kong
 

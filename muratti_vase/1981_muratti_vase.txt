@@ -1,11 +1,11 @@
 = Muratti Vase 1981
 
-# Date       Sat Mar/21 - Mon May/4 1981 (44d)
+# Date       Sat Mar 21 - Mon May 4 1981 (44d)
 # Teams      3
 # Matches    2
 
-[Sat Mar 21]
-  Alderney - Jersey  0-5   @ Alderney, Alderney
-[Mon May 4]
-  Guernsey - Jersey  1-4   @ Guernsey, Guernsey
+Sat Mar 21
+  Alderney             v Jersey                0-5   @ Alderney, Alderney
+Mon May 4
+  Guernsey             v Jersey                1-4   @ Guernsey, Guernsey
 

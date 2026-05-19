@@ -1,22 +1,22 @@
 = WAFF Championship 2002
 
-# Date       Fri Aug/30 - Sat Sep/7 2002 (8d)
+# Date       Fri Aug 30 - Sat Sep 7 2002 (8d)
 # Teams      6
 # Matches    10
 
-[Fri Aug 30]
-  Jordan - Iran  1-0   @ Damascus, Syria
-  Syria - Palestine  2-1   @ Damascus, Syria
-[Sun Sep 1]
-  Lebanon - Jordan  0-1   @ Damascus, Syria
-  Palestine - Iraq  0-2   @ Damascus, Syria
-[Tue Sep 3]
-  Iran - Lebanon  2-0   @ Damascus, Syria
-  Syria - Iraq  0-1   @ Damascus, Syria
-[Thu Sep 5]
-  Iraq - Iran  0-0   @ Damascus, Syria   [Iraq wins on penalties]
-  Syria - Jordan  1-2   @ Damascus, Syria
-[Sat Sep 7]
-  Jordan - Iraq  2-3   @ Damascus, Syria
-  Syria - Iran  2-2   @ Damascus, Syria   [Iran wins on penalties]
+Fri Aug 30
+  Jordan               v Iran                  1-0   @ Damascus, Syria
+  Syria                v Palestine             2-1   @ Damascus, Syria
+Sun Sep 1
+  Lebanon              v Jordan                0-1   @ Damascus, Syria
+  Palestine            v Iraq                  0-2   @ Damascus, Syria
+Tue Sep 3
+  Iran                 v Lebanon               2-0   @ Damascus, Syria
+  Syria                v Iraq                  0-1   @ Damascus, Syria
+Thu Sep 5
+  Iraq                 v Iran                  0-0   @ Damascus, Syria   [Iraq wins on penalties]
+  Syria                v Jordan                1-2   @ Damascus, Syria
+Sat Sep 7
+  Jordan               v Iraq                  2-3   @ Damascus, Syria
+  Syria                v Iran                  2-2   @ Damascus, Syria   [Iran wins on penalties]
 

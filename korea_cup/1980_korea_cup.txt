@@ -1,24 +1,24 @@
 = Korea Cup 1980
 
-# Date       Sat Aug/23 - Tue Sep/2 1980 (10d)
+# Date       Sat Aug 23 - Tue Sep 2 1980 (10d)
 # Teams      5
 # Matches    11
 
-[Sat Aug 23]
-  Indonesia - Thailand  2-1   @ Seoul, South Korea
-  South Korea - Malaysia  2-0   @ Seoul, South Korea
-[Mon Aug 25]
-  Bahrain - Malaysia  1-1   @ Seoul, South Korea
-  South Korea - Indonesia  3-0   @ Chuncheon, South Korea
-[Wed Aug 27]
-  Bahrain - Indonesia  2-3   @ Seoul, South Korea
-  South Korea - Thailand  4-0   @ Daejeon, South Korea
-[Fri Aug 29]
-  South Korea - Bahrain  5-0   @ Gwangju, South Korea
-  Malaysia - Thailand  1-4   @ Seoul, South Korea
-[Sun Aug 31]
-  Bahrain - Thailand  0-1   @ Seoul, South Korea
-  Indonesia - Malaysia  1-1   @ Seoul, South Korea
-[Tue Sep 2]
-  South Korea - Indonesia  2-0   @ Seoul, South Korea
+Sat Aug 23
+  Indonesia            v Thailand              2-1   @ Seoul, South Korea
+  South Korea          v Malaysia              2-0   @ Seoul, South Korea
+Mon Aug 25
+  Bahrain              v Malaysia              1-1   @ Seoul, South Korea
+  South Korea          v Indonesia             3-0   @ Chuncheon, South Korea
+Wed Aug 27
+  Bahrain              v Indonesia             2-3   @ Seoul, South Korea
+  South Korea          v Thailand              4-0   @ Daejeon, South Korea
+Fri Aug 29
+  South Korea          v Bahrain               5-0   @ Gwangju, South Korea
+  Malaysia             v Thailand              1-4   @ Seoul, South Korea
+Sun Aug 31
+  Bahrain              v Thailand              0-1   @ Seoul, South Korea
+  Indonesia            v Malaysia              1-1   @ Seoul, South Korea
+Tue Sep 2
+  South Korea          v Indonesia             2-0   @ Seoul, South Korea
 

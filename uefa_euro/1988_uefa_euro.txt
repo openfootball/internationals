@@ -1,53 +1,53 @@
 = UEFA Euro 1988
 
-# Date       Fri Jun/10 - Sat Jun/25 1988 (15d)
+# Date       Fri Jun 10 - Sat Jun 25 1988 (15d)
 # Teams      8
 # Matches    15
 
-[Fri Jun 10]
-  Germany - Italy  1-1   @ Düsseldorf, Germany
-     Andreas Brehme 55';
-     Roberto Mancini 52'
-[Sat Jun 11]
-  Denmark - Spain  2-3   @ Hanover, Germany
-     Michael Laudrup 24' Flemming Povlsen 82';
-     Míchel 5' Emilio Butragueño 53' Rafael Gordillo 66'
-[Sun Jun 12]
-  England - Republic of Ireland  0-1   @ Stuttgart, Germany
-     -; Ray Houghton 6'
-  Netherlands - Russia  0-1   @ Cologne, Germany
-     -; Vasyl Rats 52'
-[Tue Jun 14]
-  Germany - Denmark  2-0   @ Gelsenkirchen, Germany
-     Jürgen Klinsmann 10' Olaf Thon 85'
-  Italy - Spain  1-0   @ Frankfurt am Main, Germany
-     Gianluca Vialli 73'
-[Wed Jun 15]
-  England - Netherlands  1-3   @ Düsseldorf, Germany
-     Bryan Robson 53';
-     Marco van Basten 44' Marco van Basten 71' Marco van Basten 75'
-  Republic of Ireland - Russia  1-1   @ Hanover, Germany
-     Ronnie Whelan 38';
-     Oleh Protasov 74'
-[Fri Jun 17]
-  Germany - Spain  2-0   @ Munich, Germany
-     Rudi Völler 29' Rudi Völler 51'
-  Italy - Denmark  2-0   @ Cologne, Germany
-     Alessandro Altobelli 67' Luigi De Agostini 87'
-[Sat Jun 18]
-  England - Russia  1-3   @ Frankfurt am Main, Germany
-     Tony Adams 16';
-     Sergei Aleinikov 3' Oleksiy Mykhaylychenko 28' Viktor Pasulko 73'
-  Republic of Ireland - Netherlands  0-1   @ Gelsenkirchen, Germany
-     -; Wim Kieft 82'
-[Tue Jun 21]
-  Germany - Netherlands  1-2   @ Hamburg, Germany
-     Lothar Matthäus 55' (pen.);
-     Ronald Koeman 74' (pen.) Marco van Basten 88'
-[Wed Jun 22]
-  Russia - Italy  2-0   @ Stuttgart, Germany
-     Hennadiy Lytovchenko 58' Oleh Protasov 62'
-[Sat Jun 25]
-  Russia - Netherlands  0-2   @ Munich, Germany
-     -; Ruud Gullit 32' Marco van Basten 54'
+Fri Jun 10
+  Germany              v Italy                 1-1   @ Düsseldorf, Germany
+     (Andreas Brehme 55';
+      Roberto Mancini 52')
+Sat Jun 11
+  Denmark              v Spain                 2-3   @ Hanover, Germany
+     (Michael Laudrup 24' Flemming Povlsen 82';
+      Míchel 5' Emilio Butragueño 53' Rafael Gordillo 66')
+Sun Jun 12
+  England              v Republic of Ireland   0-1   @ Stuttgart, Germany
+     (Ray Houghton 6')
+  Netherlands          v Russia                0-1   @ Cologne, Germany
+     (Vasyl Rats 52')
+Tue Jun 14
+  Germany              v Denmark               2-0   @ Gelsenkirchen, Germany
+     (Jürgen Klinsmann 10' Olaf Thon 85')
+  Italy                v Spain                 1-0   @ Frankfurt am Main, Germany
+     (Gianluca Vialli 73')
+Wed Jun 15
+  England              v Netherlands           1-3   @ Düsseldorf, Germany
+     (Bryan Robson 53';
+      Marco van Basten 44' Marco van Basten 71' Marco van Basten 75')
+  Republic of Ireland  v Russia                1-1   @ Hanover, Germany
+     (Ronnie Whelan 38';
+      Oleh Protasov 74')
+Fri Jun 17
+  Germany              v Spain                 2-0   @ Munich, Germany
+     (Rudi Völler 29' Rudi Völler 51')
+  Italy                v Denmark               2-0   @ Cologne, Germany
+     (Alessandro Altobelli 67' Luigi De Agostini 87')
+Sat Jun 18
+  England              v Russia                1-3   @ Frankfurt am Main, Germany
+     (Tony Adams 16';
+      Sergei Aleinikov 3' Oleksiy Mykhaylychenko 28' Viktor Pasulko 73')
+  Republic of Ireland  v Netherlands           0-1   @ Gelsenkirchen, Germany
+     (Wim Kieft 82')
+Tue Jun 21
+  Germany              v Netherlands           1-2   @ Hamburg, Germany
+     (Lothar Matthäus 55'(p);
+      Ronald Koeman 74'(p) Marco van Basten 88')
+Wed Jun 22
+  Russia               v Italy                 2-0   @ Stuttgart, Germany
+     (Hennadiy Lytovchenko 58' Oleh Protasov 62')
+Sat Jun 25
+  Russia               v Netherlands           0-2   @ Munich, Germany
+     (Ruud Gullit 32' Marco van Basten 54')
 

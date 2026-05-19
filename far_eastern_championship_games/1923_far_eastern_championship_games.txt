@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1923
 
-# Date       Tue May/22 - Thu May/24 1923 (2d)
+# Date       Tue May 22 - Thu May 24 1923 (2d)
 # Teams      3
 # Matches    3
 
-[Tue May 22]
-  China PR - Philippines  3-0   @ Osaka, Japan
-[Wed May 23]
-  Japan - Philippines  1-2   @ Osaka, Japan
-[Thu May 24]
-  Japan - China PR  1-5   @ Osaka, Japan
+Tue May 22
+  China PR             v Philippines           3-0   @ Osaka, Japan
+Wed May 23
+  Japan                v Philippines           1-2   @ Osaka, Japan
+Thu May 24
+  Japan                v China PR              1-5   @ Osaka, Japan
 

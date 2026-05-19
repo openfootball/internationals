@@ -1,145 +1,145 @@
 = FIFA World Cup qualification 1988
 
-# Date       Sat May/21 - Wed Dec/21 1988 (214d)
+# Date       Sat May 21 - Wed Dec 21 1988 (214d)
 # Teams      46
 # Matches    49
 
-[Sat May 21]
-  Northern Ireland - Malta  3-0   @ Belfast, Northern Ireland
-     Jimmy Quinn 14' Steve Penney 23' Colin Clarke 25'
-[Fri Jun 3]
-  Libya - Burkina Faso  3-0   @ Tripoli, Libya
-     Ezzewdin Bezan 8' Fawzi El-Aisawi 22' (pen.) Ayad El-Ghadi 30'
-[Sun Jul 3]
-  Burkina Faso - Libya  2-0   @ Ouagadougou, Burkina Faso
-     Gabriel Gnimassou 65' Jules Kadeba 73'
-[Sat Jul 16]
-  Uganda - Malawi  1-0   @ Kampala, Uganda
-     Sundayin Moriri 66'
-[Sat Jul 30]
-  Malawi - Uganda  3-1   @ Lilongwe, Malawi
-     Gilbert Chirwa 3' Peterkins Kayira 6' Lawrence Waya 51';
-     Sundayin Moriri 69'
-[Fri Aug 5]
-  Tunisia - Guinea  5-0   @ Tunis, Tunisia
-     Bassam Jeridi 3' Nabil Maâloul 11' Jameleddine Limam 75' Kais Yâakoubi 82' Jameleddine Limam 89'
-[Sun Aug 7]
-  Angola - Sudan  0-0   @ Luanda, Angola
-  Ghana - Liberia  0-0   @ Accra, Ghana
-[Sun Aug 21]
-  Guinea - Tunisia  3-0   @ Conakry, Guinea
-     Abdoulaye Emmerson 34' Camara Toure 49' Abdoulaye Emmerson 82'
-  Liberia - Ghana  2-0   @ Monrovia, Liberia
-     George Weah 27' James Debbah 88'
-[Wed Aug 31]
-  Finland - Germany  0-4   @ Helsinki, Finland
-     -; Rudi Völler 7' Rudi Völler 15' Lothar Matthäus 52' Karl-Heinz Riedle 87'
-  Iceland - Russia  1-1   @ Reykjavík, Iceland
-     Sigurður Grétarsson 10';
-     Hennadiy Lytovchenko 75'
-[Wed Sep 14]
-  Netherlands - Wales  1-0   @ Amsterdam, Netherlands
-     Ruud Gullit 82'
-  Northern Ireland - Republic of Ireland  0-0   @ Belfast, Northern Ireland
-  Norway - Scotland  1-2   @ Oslo, Norway
-     Jan Åge Fjørtoft 44';
-     Paul McStay 14' Mo Johnston 62'
-[Wed Sep 21]
-  Luxembourg - Switzerland  1-4   @ Luxembourg, Luxembourg
-     Robby Langers 80';
-     Alain Sutter 1' Kubilay Türkyilmaz 21' (pen.) Beat Sutter 28' Kubilay Türkyilmaz 53'
-[Wed Sep 28]
-  France - Norway  1-0   @ Paris, France
-     Jean-Pierre Papin 84' (pen.)
-[Wed Oct 12]
-  Turkey - Iceland  1-1   @ Istanbul, Turkey
-     Ünal Karaman 73';
-     Guðmundur Torfason 62'
-[Tue Oct 18]
-  Luxembourg - Czechoslovakia  0-2   @ Esch-sur-Alzette, Luxembourg
-     -; Ivan Hašek 25' Jozef Chovanec 35'
-[Wed Oct 19]
-  Belgium - Switzerland  1-0   @ Brussels, Belgium
-     Patrick Vervoort 30'
-  Bulgaria - Romania  1-3   @ Sofia, Bulgaria
-     Hristo Kolev 31';
-     Dorin Mateuț 25' Rodion Cămătaru 79' Rodion Cămătaru 89'
-  England - Sweden  0-0   @ London, England
-  German DR - Iceland  2-0   @ Berlin, German DR
-     Andreas Thom 34' Andreas Thom 88'
-  Germany - Netherlands  0-0   @ Munich, Germany
-  Greece - Denmark  1-1   @ Athens, Greece
-     Tasos Mitropoulos 41';
-     Flemming Povlsen 56'
-  Hungary - Northern Ireland  1-0   @ Budapest, Hungary
-     István Vincze 84'
-  Poland - Albania  1-0   @ Chorzów, Poland
-     Krzysztof Warzycha 78'
-  Russia - Austria  2-0   @ Kyiv, Soviet Union
-     Oleksiy Mykhaylychenko 46' Oleksandr Zavarov 68'
-  Scotland - Yugoslavia  1-1   @ Glasgow, Scotland
-     Mo Johnston 19';
-     Srečko Katanec 37'
-  Wales - Finland  2-2   @ Swansea, Wales
-     Dean Saunders 16' (pen.) Aki Lahtinen 40' (o.g.);
-     Kari Ukkonen 9' Mixu Paatelainen 44'
-[Sat Oct 22]
-  Cyprus - France  1-1   @ Nicosia, Cyprus
-     Pambos Pittas 78' (pen.);
-     Daniel Xuereb 44'
-[Wed Nov 2]
-  Austria - Turkey  3-2   @ Vienna, Austria
-     Toni Polster 38' Andreas Herzog 42' Andreas Herzog 54';
-     Feyyaz Uçar 61' Tanju Çolak 81'
-  Cyprus - Norway  0-3   @ Limassol, Cyprus
-     -; Gøran Sørloth 57' Gøran Sørloth 78' Kjetil Osvold 90'
-  Denmark - Bulgaria  1-1   @ Copenhagen, Denmark
-     Lars Elstrup 8';
-     Ayan Sadakov 38'
-  Romania - Greece  3-0   @ Bucharest, Romania
-     Dorin Mateuț 26' Gheorghe Hagi 40' (pen.) Ioan Sabău 84'
-[Sat Nov 5]
-  Albania - Sweden  1-2   @ Tirana, Albania
-     Ylli Shehu 33';
-     Hans Holmqvist 68' Johnny Ekström 71'
-[Fri Nov 11]
-  Sudan - Angola  1-2   @ Khartoum, Sudan
-     Osama Idris 7';
-     José Vieira Dias Paulino do Carmo 79' Mavango Kiala 85'
-[Wed Nov 16]
-  Czechoslovakia - Belgium  0-0   @ Bratislava, Czechoslovakia
-  Portugal - Luxembourg  1-0   @ Porto, Portugal
-     Fernando Gomes 31'
-  Spain - Republic of Ireland  2-0   @ Seville, Spain
-     Manolo 52' Emilio Butragueño 66'
-[Sat Nov 19]
-  Yugoslavia - France  3-2   @ Belgrade, Yugoslavia
-     Predrag Spasić 11' Safet Sušić 76' Dragan Stojković 82';
-     Christian Perez 3' Franck Sauzée 68'
-[Sat Nov 26]
-  Fiji - Australia  1-0   @ Nadi, Fiji
-     Ravuame Madigi 66'
-[Wed Nov 30]
-  Turkey - German DR  3-1   @ Istanbul, Turkey
-     Tanju Çolak 23' Tanju Çolak 63' Oğuz Çetin 69';
-     Andreas Thom 76'
-[Sat Dec 3]
-  Australia - Fiji  5-1   @ Speers Point, Australia
-     Charlie Yankos 9' Warren Spink 25' Charlie Yankos 69' (pen.) Graham Arnold 84' Paul Trimboli 87';
-     Loten Dalai 89'
-[Sun Dec 11]
-  Malta - Hungary  2-2   @ Attard, Malta
-     Carmel Busuttil 46' Carmel Busuttil 90';
-     István Vincze 5' József Kiprich 56'
-  Yugoslavia - Cyprus  4-0   @ Belgrade, Yugoslavia
-     Dejan Savićević 13' Dejan Savićević 33' Faruk Hadžibegić 44' (pen.) Dejan Savićević 82'
-  New Zealand - Taiwan  4-0   @ Wellington, New Zealand
-     Billy Wright 36' Darren McClennan 45' Noel Barkley 57' Danny Halligan 76'
-[Thu Dec 15]
-  New Zealand - Taiwan  4-1   @ Auckland, New Zealand
-     Billy Wright 12' Darren McClennan 17' Darren McClennan 42' Darren McClennan 49';
-     Garry Lund 56' (o.g.)
-[Wed Dec 21]
-  Spain - Northern Ireland  4-0   @ Seville, Spain
-     Anton Rogan 30' (o.g.) Emilio Butragueño 55' Míchel 60' (pen.) Alan McDonald 64' (o.g.)
+Sat May 21
+  Northern Ireland     v Malta                 3-0   @ Belfast, Northern Ireland
+     (Jimmy Quinn 14' Steve Penney 23' Colin Clarke 25')
+Fri Jun 3
+  Libya                v Burkina Faso          3-0   @ Tripoli, Libya
+     (Ezzewdin Bezan 8' Fawzi El-Aisawi 22'(p) Ayad El-Ghadi 30')
+Sun Jul 3
+  Burkina Faso         v Libya                 2-0   @ Ouagadougou, Burkina Faso
+     (Gabriel Gnimassou 65' Jules Kadeba 73')
+Sat Jul 16
+  Uganda               v Malawi                1-0   @ Kampala, Uganda
+     (Sundayin Moriri 66')
+Sat Jul 30
+  Malawi               v Uganda                3-1   @ Lilongwe, Malawi
+     (Gilbert Chirwa 3' Peterkins Kayira 6' Lawrence Waya 51';
+      Sundayin Moriri 69')
+Fri Aug 5
+  Tunisia              v Guinea                5-0   @ Tunis, Tunisia
+     (Bassam Jeridi 3' Nabil Maâloul 11' Jameleddine Limam 75' Kais Yâakoubi 82' Jameleddine Limam 89')
+Sun Aug 7
+  Angola               v Sudan                 0-0   @ Luanda, Angola
+  Ghana                v Liberia               0-0   @ Accra, Ghana
+Sun Aug 21
+  Guinea               v Tunisia               3-0   @ Conakry, Guinea
+     (Abdoulaye Emmerson 34' Camara Toure 49' Abdoulaye Emmerson 82')
+  Liberia              v Ghana                 2-0   @ Monrovia, Liberia
+     (George Weah 27' James Debbah 88')
+Wed Aug 31
+  Finland              v Germany               0-4   @ Helsinki, Finland
+     (Rudi Völler 7' Rudi Völler 15' Lothar Matthäus 52' Karl-Heinz Riedle 87')
+  Iceland              v Russia                1-1   @ Reykjavík, Iceland
+     (Sigurður Grétarsson 10';
+      Hennadiy Lytovchenko 75')
+Wed Sep 14
+  Netherlands          v Wales                 1-0   @ Amsterdam, Netherlands
+     (Ruud Gullit 82')
+  Northern Ireland     v Republic of Ireland   0-0   @ Belfast, Northern Ireland
+  Norway               v Scotland              1-2   @ Oslo, Norway
+     (Jan Åge Fjørtoft 44';
+      Paul McStay 14' Mo Johnston 62')
+Wed Sep 21
+  Luxembourg           v Switzerland           1-4   @ Luxembourg, Luxembourg
+     (Robby Langers 80';
+      Alain Sutter 1' Kubilay Türkyilmaz 21'(p) Beat Sutter 28' Kubilay Türkyilmaz 53')
+Wed Sep 28
+  France               v Norway                1-0   @ Paris, France
+     (Jean-Pierre Papin 84'(p))
+Wed Oct 12
+  Turkey               v Iceland               1-1   @ Istanbul, Turkey
+     (Ünal Karaman 73';
+      Guðmundur Torfason 62')
+Tue Oct 18
+  Luxembourg           v Czechoslovakia        0-2   @ Esch-sur-Alzette, Luxembourg
+     (Ivan Hašek 25' Jozef Chovanec 35')
+Wed Oct 19
+  Belgium              v Switzerland           1-0   @ Brussels, Belgium
+     (Patrick Vervoort 30')
+  Bulgaria             v Romania               1-3   @ Sofia, Bulgaria
+     (Hristo Kolev 31';
+      Dorin Mateuț 25' Rodion Cămătaru 79' Rodion Cămătaru 89')
+  England              v Sweden                0-0   @ London, England
+  German DR            v Iceland               2-0   @ Berlin, German DR
+     (Andreas Thom 34' Andreas Thom 88')
+  Germany              v Netherlands           0-0   @ Munich, Germany
+  Greece               v Denmark               1-1   @ Athens, Greece
+     (Tasos Mitropoulos 41';
+      Flemming Povlsen 56')
+  Hungary              v Northern Ireland      1-0   @ Budapest, Hungary
+     (István Vincze 84')
+  Poland               v Albania               1-0   @ Chorzów, Poland
+     (Krzysztof Warzycha 78')
+  Russia               v Austria               2-0   @ Kyiv, Soviet Union
+     (Oleksiy Mykhaylychenko 46' Oleksandr Zavarov 68')
+  Scotland             v Yugoslavia            1-1   @ Glasgow, Scotland
+     (Mo Johnston 19';
+      Srečko Katanec 37')
+  Wales                v Finland               2-2   @ Swansea, Wales
+     (Dean Saunders 16'(p) Aki Lahtinen 40'(og);
+      Kari Ukkonen 9' Mixu Paatelainen 44')
+Sat Oct 22
+  Cyprus               v France                1-1   @ Nicosia, Cyprus
+     (Pambos Pittas 78'(p);
+      Daniel Xuereb 44')
+Wed Nov 2
+  Austria              v Turkey                3-2   @ Vienna, Austria
+     (Toni Polster 38' Andreas Herzog 42' Andreas Herzog 54';
+      Feyyaz Uçar 61' Tanju Çolak 81')
+  Cyprus               v Norway                0-3   @ Limassol, Cyprus
+     (Gøran Sørloth 57' Gøran Sørloth 78' Kjetil Osvold 90')
+  Denmark              v Bulgaria              1-1   @ Copenhagen, Denmark
+     (Lars Elstrup 8';
+      Ayan Sadakov 38')
+  Romania              v Greece                3-0   @ Bucharest, Romania
+     (Dorin Mateuț 26' Gheorghe Hagi 40'(p) Ioan Sabău 84')
+Sat Nov 5
+  Albania              v Sweden                1-2   @ Tirana, Albania
+     (Ylli Shehu 33';
+      Hans Holmqvist 68' Johnny Ekström 71')
+Fri Nov 11
+  Sudan                v Angola                1-2   @ Khartoum, Sudan
+     (Osama Idris 7';
+      José Vieira Dias Paulino do Carmo 79' Mavango Kiala 85')
+Wed Nov 16
+  Czechoslovakia       v Belgium               0-0   @ Bratislava, Czechoslovakia
+  Portugal             v Luxembourg            1-0   @ Porto, Portugal
+     (Fernando Gomes 31')
+  Spain                v Republic of Ireland   2-0   @ Seville, Spain
+     (Manolo 52' Emilio Butragueño 66')
+Sat Nov 19
+  Yugoslavia           v France                3-2   @ Belgrade, Yugoslavia
+     (Predrag Spasić 11' Safet Sušić 76' Dragan Stojković 82';
+      Christian Perez 3' Franck Sauzée 68')
+Sat Nov 26
+  Fiji                 v Australia             1-0   @ Nadi, Fiji
+     (Ravuame Madigi 66')
+Wed Nov 30
+  Turkey               v German DR             3-1   @ Istanbul, Turkey
+     (Tanju Çolak 23' Tanju Çolak 63' Oğuz Çetin 69';
+      Andreas Thom 76')
+Sat Dec 3
+  Australia            v Fiji                  5-1   @ Speers Point, Australia
+     (Charlie Yankos 9' Warren Spink 25' Charlie Yankos 69'(p) Graham Arnold 84' Paul Trimboli 87';
+      Loten Dalai 89')
+Sun Dec 11
+  Malta                v Hungary               2-2   @ Attard, Malta
+     (Carmel Busuttil 46' Carmel Busuttil 90';
+      István Vincze 5' József Kiprich 56')
+  Yugoslavia           v Cyprus                4-0   @ Belgrade, Yugoslavia
+     (Dejan Savićević 13' Dejan Savićević 33' Faruk Hadžibegić 44'(p) Dejan Savićević 82')
+  New Zealand          v Taiwan                4-0   @ Wellington, New Zealand
+     (Billy Wright 36' Darren McClennan 45' Noel Barkley 57' Danny Halligan 76')
+Thu Dec 15
+  New Zealand          v Taiwan                4-1   @ Auckland, New Zealand
+     (Billy Wright 12' Darren McClennan 17' Darren McClennan 42' Darren McClennan 49';
+      Garry Lund 56'(og))
+Wed Dec 21
+  Spain                v Northern Ireland      4-0   @ Seville, Spain
+     (Anton Rogan 30'(og) Emilio Butragueño 55' Míchel 60'(p) Alan McDonald 64'(og))
 

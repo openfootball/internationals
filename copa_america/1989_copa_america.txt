@@ -1,72 +1,72 @@
 = Copa América 1989
 
-# Date       Sat Jul/1 - Sun Jul/16 1989 (15d)
+# Date       Sat Jul 1 - Sun Jul 16 1989 (15d)
 # Teams      10
 # Matches    26
 
-[Sat Jul 1]
-  Brazil - Venezuela  3-1   @ Salvador, Brazil
-     Bebeto 2' Geovani Faria da Silva 36' (pen.) Baltazar Maria de Morais Júnior 57';
-     Carlos Maldonado 63'
-  Paraguay - Peru  5-2   @ Salvador, Brazil
-     Adolfino Cañete 38' Gustavo Neffa 41' Alfredo Mendoza 51' José del Solar 75' (o.g.) Adolfino Cañete 84';
-     Jorge Hirano 30' Juan Reynoso Guzmán 80'
-[Sun Jul 2]
-  Argentina - Chile  1-0   @ Goiânia, Brazil
-     Claudio Caniggia 55'
-  Uruguay - Ecuador  0-1   @ Goiânia, Brazil
-     -; Ermen Benítez 88'
-[Mon Jul 3]
-  Brazil - Peru  0-0   @ Salvador, Brazil
-  Venezuela - Colombia  2-4   @ Salvador, Brazil
-     Carlos Maldonado 73' Carlos Maldonado 88';
-     René Higuita 36' (pen.) Arnoldo Iguarán 46' Antony de Ávila 71' Arnoldo Iguarán 75'
-[Tue Jul 4]
-  Argentina - Ecuador  0-0   @ Goiânia, Brazil
-  Uruguay - Bolivia  3-0   @ Goiânia, Brazil
-     Santiago Ostolaza 30' Rubén Sosa 33' Santiago Ostolaza 60'
-[Wed Jul 5]
-  Colombia - Paraguay  0-1   @ Salvador, Brazil
-     -; Alfredo Mendoza 51'
-  Peru - Venezuela  1-1   @ Salvador, Brazil
-     Franco Navarro 30';
-     Carlos Maldonado 29'
-[Thu Jul 6]
-  Chile - Uruguay  0-3   @ Goiânia, Brazil
-     -; Rubén Sosa 44' Antonio Alzamendi 73' Enzo Francescoli 78'
-  Ecuador - Bolivia  0-0   @ Goiânia, Brazil
-[Fri Jul 7]
-  Brazil - Colombia  0-0   @ Salvador, Brazil
-  Paraguay - Venezuela  3-0   @ Salvador, Brazil
-     Gustavo Neffa 41' Buenaventura Ferreira 50' Buenaventura Ferreira 73'
-[Sat Jul 8]
-  Bolivia - Chile  0-5   @ Goiânia, Brazil
-     -; Juvenal Olmos 9' Jaime Patricio Ramírez 10' Fernando Astengo 55' Jaime Pizarro 68' (pen.) Óscar Reyes 85'
-  Uruguay - Argentina  0-1   @ Goiânia, Brazil
-     -; Claudio Caniggia 69'
-[Sun Jul 9]
-  Brazil - Paraguay  2-0   @ Recife, Brazil
-     Bebeto 47' Bebeto 82'
-  Colombia - Peru  1-1   @ Recife, Brazil
-     Arnoldo Iguarán 32';
-     Jorge Hirano 43'
-[Mon Jul 10]
-  Argentina - Bolivia  0-0   @ Goiânia, Brazil
-  Chile - Ecuador  2-1   @ Goiânia, Brazil
-     Juvenal Olmos 44' Juan Carlos Letelier 88';
-     Ney Avilés 89'
-[Wed Jul 12]
-  Brazil - Argentina  2-0   @ Rio de Janeiro, Brazil
-     Bebeto 48' Romário 55'
-  Paraguay - Uruguay  0-3   @ Rio de Janeiro, Brazil
-     -; Enzo Francescoli 28' Antonio Alzamendi 82' Rubén Paz 89'
-[Fri Jul 14]
-  Argentina - Uruguay  0-2   @ Rio de Janeiro, Brazil
-     -; Rubén Sosa 38' Rubén Sosa 81'
-  Brazil - Paraguay  3-0   @ Rio de Janeiro, Brazil
-     Bebeto 16' Bebeto 52' Romário 58'
-[Sun Jul 16]
-  Brazil - Uruguay  1-0   @ Rio de Janeiro, Brazil
-     Romário 49'
-  Paraguay - Argentina  0-0   @ Rio de Janeiro, Brazil
+Sat Jul 1
+  Brazil               v Venezuela             3-1   @ Salvador, Brazil
+     (Bebeto 2' Geovani Faria da Silva 36'(p) Baltazar Maria de Morais Júnior 57';
+      Carlos Maldonado 63')
+  Paraguay             v Peru                  5-2   @ Salvador, Brazil
+     (Adolfino Cañete 38' Gustavo Neffa 41' Alfredo Mendoza 51' José del Solar 75'(og) Adolfino Cañete 84';
+      Jorge Hirano 30' Juan Reynoso Guzmán 80')
+Sun Jul 2
+  Argentina            v Chile                 1-0   @ Goiânia, Brazil
+     (Claudio Caniggia 55')
+  Uruguay              v Ecuador               0-1   @ Goiânia, Brazil
+     (Ermen Benítez 88')
+Mon Jul 3
+  Brazil               v Peru                  0-0   @ Salvador, Brazil
+  Venezuela            v Colombia              2-4   @ Salvador, Brazil
+     (Carlos Maldonado 73' Carlos Maldonado 88';
+      René Higuita 36'(p) Arnoldo Iguarán 46' Antony de Ávila 71' Arnoldo Iguarán 75')
+Tue Jul 4
+  Argentina            v Ecuador               0-0   @ Goiânia, Brazil
+  Uruguay              v Bolivia               3-0   @ Goiânia, Brazil
+     (Santiago Ostolaza 30' Rubén Sosa 33' Santiago Ostolaza 60')
+Wed Jul 5
+  Colombia             v Paraguay              0-1   @ Salvador, Brazil
+     (Alfredo Mendoza 51')
+  Peru                 v Venezuela             1-1   @ Salvador, Brazil
+     (Franco Navarro 30';
+      Carlos Maldonado 29')
+Thu Jul 6
+  Chile                v Uruguay               0-3   @ Goiânia, Brazil
+     (Rubén Sosa 44' Antonio Alzamendi 73' Enzo Francescoli 78')
+  Ecuador              v Bolivia               0-0   @ Goiânia, Brazil
+Fri Jul 7
+  Brazil               v Colombia              0-0   @ Salvador, Brazil
+  Paraguay             v Venezuela             3-0   @ Salvador, Brazil
+     (Gustavo Neffa 41' Buenaventura Ferreira 50' Buenaventura Ferreira 73')
+Sat Jul 8
+  Bolivia              v Chile                 0-5   @ Goiânia, Brazil
+     (Juvenal Olmos 9' Jaime Patricio Ramírez 10' Fernando Astengo 55' Jaime Pizarro 68'(p) Óscar Reyes 85')
+  Uruguay              v Argentina             0-1   @ Goiânia, Brazil
+     (Claudio Caniggia 69')
+Sun Jul 9
+  Brazil               v Paraguay              2-0   @ Recife, Brazil
+     (Bebeto 47' Bebeto 82')
+  Colombia             v Peru                  1-1   @ Recife, Brazil
+     (Arnoldo Iguarán 32';
+      Jorge Hirano 43')
+Mon Jul 10
+  Argentina            v Bolivia               0-0   @ Goiânia, Brazil
+  Chile                v Ecuador               2-1   @ Goiânia, Brazil
+     (Juvenal Olmos 44' Juan Carlos Letelier 88';
+      Ney Avilés 89')
+Wed Jul 12
+  Brazil               v Argentina             2-0   @ Rio de Janeiro, Brazil
+     (Bebeto 48' Romário 55')
+  Paraguay             v Uruguay               0-3   @ Rio de Janeiro, Brazil
+     (Enzo Francescoli 28' Antonio Alzamendi 82' Rubén Paz 89')
+Fri Jul 14
+  Argentina            v Uruguay               0-2   @ Rio de Janeiro, Brazil
+     (Rubén Sosa 38' Rubén Sosa 81')
+  Brazil               v Paraguay              3-0   @ Rio de Janeiro, Brazil
+     (Bebeto 16' Bebeto 52' Romário 58')
+Sun Jul 16
+  Brazil               v Uruguay               1-0   @ Rio de Janeiro, Brazil
+     (Romário 49')
+  Paraguay             v Argentina             0-0   @ Rio de Janeiro, Brazil
 

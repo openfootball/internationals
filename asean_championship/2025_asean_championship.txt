@@ -1,11 +1,11 @@
 = ASEAN Championship 2025
 
-# Date       Thu Jan/2 - Sun Jan/5 2025 (3d)
+# Date       Thu Jan 2 - Sun Jan 5 2025 (3d)
 # Teams      2
 # Matches    2
 
-[Thu Jan 2]
-  Vietnam - Thailand  2-1   @ Việt Trì, Vietnam
-[Sun Jan 5]
-  Thailand - Vietnam  2-3   @ Bangkok, Thailand
+Thu Jan 2
+  Vietnam              v Thailand              2-1   @ Việt Trì, Vietnam
+Sun Jan 5
+  Thailand             v Vietnam               2-3   @ Bangkok, Thailand
 

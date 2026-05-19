@@ -1,33 +1,33 @@
 = UEFA Euro qualification 1976
 
-# Date       Sat Feb/28 - Sat May/22 1976 (84d)
+# Date       Sat Feb 28 - Sat May 22 1976 (84d)
 # Teams      9
 # Matches    9
 
-[Sat Feb 28]
-  Germany - Malta  8-0   @ Dortmund, Germany
-     Ronald Worm 5' Ronald Worm 27' Jupp Heynckes 34' Erich Beer 41' (pen.) Jupp Heynckes 58' Erich Beer 77' Berti Vogts 82' Bernd Hölzenbein 87'
-[Sat Apr 24]
-  Czechoslovakia - Russia  2-0   @ Bratislava, Czechoslovakia
-     Jozef Móder 34' Antonín Panenka 47'
-  Spain - Germany  1-1   @ Madrid, Spain
-     Santillana 21';
-     Erich Beer 60'
-  Yugoslavia - Wales  2-0   @ Zagreb, Yugoslavia
-     Momčilo Vukotić 1' Danilo Popivoda 57'
-[Sun Apr 25]
-  Netherlands - Belgium  5-0   @ Rotterdam, Netherlands
-     Wim Rijsbergen 17' Rob Rensenbrink 27' Rob Rensenbrink 58' Johan Neeskens 79' (pen.) Rob Rensenbrink 85'
-[Sat May 22]
-  Belgium - Netherlands  1-2   @ Brussels, Belgium
-     Roger Van Gool 27';
-     Johnny Rep 61' Johan Cruyff 77'
-  Germany - Spain  2-0   @ Munich, Germany
-     Uli Hoeneß 17' Klaus Toppmöller 43'
-  Russia - Czechoslovakia  2-2   @ Kyiv, Soviet Union
-     Leonid Buryak 53' Oleg Blokhin 87';
-     Jozef Móder 45' Jozef Móder 82'
-  Wales - Yugoslavia  1-1   @ Cardiff, Wales
-     Ian Evans 38';
-     Josip Katalinski 19' (pen.)
+Sat Feb 28
+  Germany              v Malta                 8-0   @ Dortmund, Germany
+     (Ronald Worm 5' Ronald Worm 27' Jupp Heynckes 34' Erich Beer 41'(p) Jupp Heynckes 58' Erich Beer 77' Berti Vogts 82' Bernd Hölzenbein 87')
+Sat Apr 24
+  Czechoslovakia       v Russia                2-0   @ Bratislava, Czechoslovakia
+     (Jozef Móder 34' Antonín Panenka 47')
+  Spain                v Germany               1-1   @ Madrid, Spain
+     (Santillana 21';
+      Erich Beer 60')
+  Yugoslavia           v Wales                 2-0   @ Zagreb, Yugoslavia
+     (Momčilo Vukotić 1' Danilo Popivoda 57')
+Sun Apr 25
+  Netherlands          v Belgium               5-0   @ Rotterdam, Netherlands
+     (Wim Rijsbergen 17' Rob Rensenbrink 27' Rob Rensenbrink 58' Johan Neeskens 79'(p) Rob Rensenbrink 85')
+Sat May 22
+  Belgium              v Netherlands           1-2   @ Brussels, Belgium
+     (Roger Van Gool 27';
+      Johnny Rep 61' Johan Cruyff 77')
+  Germany              v Spain                 2-0   @ Munich, Germany
+     (Uli Hoeneß 17' Klaus Toppmöller 43')
+  Russia               v Czechoslovakia        2-2   @ Kyiv, Soviet Union
+     (Leonid Buryak 53' Oleg Blokhin 87';
+      Jozef Móder 45' Jozef Móder 82')
+  Wales                v Yugoslavia            1-1   @ Cardiff, Wales
+     (Ian Evans 38';
+      Josip Katalinski 19'(p))
 

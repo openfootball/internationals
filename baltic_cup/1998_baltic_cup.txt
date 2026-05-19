@@ -1,16 +1,16 @@
 = Baltic Cup 1998
 
-# Date       Tue Apr/21 - Sun Jun/28 1998 (68d)
+# Date       Tue Apr 21 - Sun Jun 28 1998 (68d)
 # Teams      3
 # Matches    3
 
-[Tue Apr 21]
-  Latvia - Lithuania  1-2   @ Liepāja, Latvia
-     Igors Sļesarčuks 87';
-     Igors Stepanovs 20' (o.g.) Irmantas Stumbrys 71'
-[Thu Jun 25]
-  Estonia - Latvia  0-2   @ Valga, Estonia
-     -; Marians Pahars 19' Vladimirs Babičevs 87'
-[Sun Jun 28]
-  Estonia - Lithuania  0-0   @ Viljandi, Estonia
+Tue Apr 21
+  Latvia               v Lithuania             1-2   @ Liepāja, Latvia
+     (Igors Sļesarčuks 87';
+      Igors Stepanovs 20'(og) Irmantas Stumbrys 71')
+Thu Jun 25
+  Estonia              v Latvia                0-2   @ Valga, Estonia
+     (Marians Pahars 19' Vladimirs Babičevs 87')
+Sun Jun 28
+  Estonia              v Lithuania             0-0   @ Viljandi, Estonia
 

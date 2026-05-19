@@ -1,43 +1,43 @@
 = Asian Games 1966
 
-# Date       Sat Dec/10 - Tue Dec/20 1966 (10d)
+# Date       Sat Dec 10 - Tue Dec 20 1966 (10d)
 # Teams      11
 # Matches    25
 
-[Sat Dec 10]
-  Thailand - South Korea  3-0   @ Bangkok, Thailand
-  Japan - India  2-1   @ Bangkok, Thailand
-  Iran - Malaysia  2-0   @ Bangkok, Thailand
-  Indonesia - Singapore  3-0   @ Bangkok, Thailand
-[Sun Dec 11]
-  Iran - Japan  1-3   @ Bangkok, Thailand
-  Indonesia - Vietnam Republic  0-0   @ Bangkok, Thailand
-[Mon Dec 12]
-  South Korea - Myanmar  0-1   @ Bangkok, Thailand
-  Malaysia - India  1-2   @ Bangkok, Thailand
-  Vietnam Republic - Taiwan  2-1   @ Bangkok, Thailand
-[Tue Dec 13]
-  India - Iran  1-4   @ Bangkok, Thailand
-  Singapore - Taiwan  3-3   @ Bangkok, Thailand
-[Wed Dec 14]
-  Thailand - Myanmar  1-1   @ Bangkok, Thailand
-  Malaysia - Japan  0-1   @ Bangkok, Thailand
-  Taiwan - Indonesia  1-3   @ Bangkok, Thailand
-  Singapore - Vietnam Republic  5-0   @ Bangkok, Thailand
-[Thu Dec 15]
-  Thailand - Singapore  0-2   @ Bangkok, Thailand
-  Myanmar - Indonesia  2-2   @ Bangkok, Thailand
-[Fri Dec 16]
-  Japan - Singapore  5-1   @ Bangkok, Thailand
-  Iran - Indonesia  1-0   @ Bangkok, Thailand
-[Sat Dec 17]
-  Thailand - Japan  1-5   @ Bangkok, Thailand
-  Myanmar - Iran  1-0   @ Bangkok, Thailand
-[Sun Dec 18]
-  Japan - Iran  0-1   @ Bangkok, Thailand
-  Myanmar - Singapore  2-0   @ Bangkok, Thailand
-[Mon Dec 19]
-  Japan - Singapore  2-0   @ Bangkok, Thailand
-[Tue Dec 20]
-  Iran - Myanmar  0-1   @ Bangkok, Thailand
+Sat Dec 10
+  Thailand             v South Korea           3-0   @ Bangkok, Thailand
+  Japan                v India                 2-1   @ Bangkok, Thailand
+  Iran                 v Malaysia              2-0   @ Bangkok, Thailand
+  Indonesia            v Singapore             3-0   @ Bangkok, Thailand
+Sun Dec 11
+  Iran                 v Japan                 1-3   @ Bangkok, Thailand
+  Indonesia            v Vietnam Republic      0-0   @ Bangkok, Thailand
+Mon Dec 12
+  South Korea          v Myanmar               0-1   @ Bangkok, Thailand
+  Malaysia             v India                 1-2   @ Bangkok, Thailand
+  Vietnam Republic     v Taiwan                2-1   @ Bangkok, Thailand
+Tue Dec 13
+  India                v Iran                  1-4   @ Bangkok, Thailand
+  Singapore            v Taiwan                3-3   @ Bangkok, Thailand
+Wed Dec 14
+  Thailand             v Myanmar               1-1   @ Bangkok, Thailand
+  Malaysia             v Japan                 0-1   @ Bangkok, Thailand
+  Taiwan               v Indonesia             1-3   @ Bangkok, Thailand
+  Singapore            v Vietnam Republic      5-0   @ Bangkok, Thailand
+Thu Dec 15
+  Thailand             v Singapore             0-2   @ Bangkok, Thailand
+  Myanmar              v Indonesia             2-2   @ Bangkok, Thailand
+Fri Dec 16
+  Japan                v Singapore             5-1   @ Bangkok, Thailand
+  Iran                 v Indonesia             1-0   @ Bangkok, Thailand
+Sat Dec 17
+  Thailand             v Japan                 1-5   @ Bangkok, Thailand
+  Myanmar              v Iran                  1-0   @ Bangkok, Thailand
+Sun Dec 18
+  Japan                v Iran                  0-1   @ Bangkok, Thailand
+  Myanmar              v Singapore             2-0   @ Bangkok, Thailand
+Mon Dec 19
+  Japan                v Singapore             2-0   @ Bangkok, Thailand
+Tue Dec 20
+  Iran                 v Myanmar               0-1   @ Bangkok, Thailand
 

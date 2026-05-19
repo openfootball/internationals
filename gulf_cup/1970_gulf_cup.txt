@@ -1,19 +1,19 @@
 = Gulf Cup 1970
 
-# Date       Fri Mar/27 - Fri Apr/3 1970 (7d)
+# Date       Fri Mar 27 - Fri Apr 3 1970 (7d)
 # Teams      4
 # Matches    6
 
-[Fri Mar 27]
-  Bahrain - Qatar  2-1   @ Isa Town, Bahrain
-[Sat Mar 28]
-  Saudi Arabia - Kuwait  1-3   @ Isa Town, Bahrain
-[Mon Mar 30]
-  Bahrain - Saudi Arabia  0-0   @ Isa Town, Bahrain
-[Tue Mar 31]
-  Kuwait - Qatar  4-2   @ Isa Town, Bahrain
-[Thu Apr 2]
-  Saudi Arabia - Qatar  1-1   @ Isa Town, Bahrain
-[Fri Apr 3]
-  Bahrain - Kuwait  1-3   @ Isa Town, Bahrain
+Fri Mar 27
+  Bahrain              v Qatar                 2-1   @ Isa Town, Bahrain
+Sat Mar 28
+  Saudi Arabia         v Kuwait                1-3   @ Isa Town, Bahrain
+Mon Mar 30
+  Bahrain              v Saudi Arabia          0-0   @ Isa Town, Bahrain
+Tue Mar 31
+  Kuwait               v Qatar                 4-2   @ Isa Town, Bahrain
+Thu Apr 2
+  Saudi Arabia         v Qatar                 1-1   @ Isa Town, Bahrain
+Fri Apr 3
+  Bahrain              v Kuwait                1-3   @ Isa Town, Bahrain
 

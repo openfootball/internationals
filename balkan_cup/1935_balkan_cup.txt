@@ -1,21 +1,21 @@
 = Balkan Cup 1935
 
-# Date       Tue Jan/1 - Mon Jun/24 1935 (174d)
+# Date       Tue Jan 1 - Mon Jun 24 1935 (174d)
 # Teams      4
 # Matches    8
 
-[Tue Jan 1]
-  Greece - Bulgaria  1-2   @ Athens, Greece
-  Romania - Yugoslavia  0-4   @ Athens, Greece
-[Sun Jun 16]
-  Bulgaria - Greece  5-2   @ Sofia, Bulgaria
-[Mon Jun 17]
-  Romania - Yugoslavia  0-2   @ Sofia, Bulgaria
-[Wed Jun 19]
-  Bulgaria - Romania  4-0   @ Sofia, Bulgaria
-[Fri Jun 21]
-  Greece - Yugoslavia  1-6   @ Sofia, Bulgaria
-[Mon Jun 24]
-  Bulgaria - Yugoslavia  3-3   @ Sofia, Bulgaria
-  Greece - Romania  2-2   @ Sofia, Bulgaria
+Tue Jan 1
+  Greece               v Bulgaria              1-2   @ Athens, Greece
+  Romania              v Yugoslavia            0-4   @ Athens, Greece
+Sun Jun 16
+  Bulgaria             v Greece                5-2   @ Sofia, Bulgaria
+Mon Jun 17
+  Romania              v Yugoslavia            0-2   @ Sofia, Bulgaria
+Wed Jun 19
+  Bulgaria             v Romania               4-0   @ Sofia, Bulgaria
+Fri Jun 21
+  Greece               v Yugoslavia            1-6   @ Sofia, Bulgaria
+Mon Jun 24
+  Bulgaria             v Yugoslavia            3-3   @ Sofia, Bulgaria
+  Greece               v Romania               2-2   @ Sofia, Bulgaria
 

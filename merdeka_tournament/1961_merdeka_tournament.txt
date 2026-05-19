@@ -1,27 +1,27 @@
 = Merdeka Tournament 1961
 
-# Date       Wed Aug/2 - Sun Aug/13 1961 (11d)
+# Date       Wed Aug 2 - Sun Aug 13 1961 (11d)
 # Teams      8
 # Matches    12
 
-[Wed Aug 2]
-  Indonesia - Singapore  1-0   @ Kuala Lumpur, Malaya
-  Malaysia - Japan  3-2   @ Kuala Lumpur, Malaya
-[Thu Aug 3]
-  India - Vietnam Republic  1-2   @ Kuala Lumpur, Malaya
-[Sat Aug 5]
-  Malaysia - Vietnam Republic  3-1   @ Kuala Lumpur, Malaya
-[Sun Aug 6]
-  Hong Kong - Thailand  2-1   @ Kuala Lumpur, Malaya
-  India - Japan  1-3   @ Kuala Lumpur, Malaya
-[Wed Aug 9]
-  Indonesia - Thailand  2-1   @ Kuala Lumpur, Malaya
-  Malaysia - India  1-2   @ Kuala Lumpur, Malaya
-[Thu Aug 10]
-  Japan - Vietnam Republic  2-3   @ Kuala Lumpur, Malaya
-[Sat Aug 12]
-  Singapore - Thailand  5-3   @ Kuala Lumpur, Malaya
-[Sun Aug 13]
-  Malaysia - Indonesia  1-2   @ Kuala Lumpur, Malaya
-  Singapore - Vietnam Republic  1-2   @ Kuala Lumpur, Malaya
+Wed Aug 2
+  Indonesia            v Singapore             1-0   @ Kuala Lumpur, Malaya
+  Malaysia             v Japan                 3-2   @ Kuala Lumpur, Malaya
+Thu Aug 3
+  India                v Vietnam Republic      1-2   @ Kuala Lumpur, Malaya
+Sat Aug 5
+  Malaysia             v Vietnam Republic      3-1   @ Kuala Lumpur, Malaya
+Sun Aug 6
+  Hong Kong            v Thailand              2-1   @ Kuala Lumpur, Malaya
+  India                v Japan                 1-3   @ Kuala Lumpur, Malaya
+Wed Aug 9
+  Indonesia            v Thailand              2-1   @ Kuala Lumpur, Malaya
+  Malaysia             v India                 1-2   @ Kuala Lumpur, Malaya
+Thu Aug 10
+  Japan                v Vietnam Republic      2-3   @ Kuala Lumpur, Malaya
+Sat Aug 12
+  Singapore            v Thailand              5-3   @ Kuala Lumpur, Malaya
+Sun Aug 13
+  Malaysia             v Indonesia             1-2   @ Kuala Lumpur, Malaya
+  Singapore            v Vietnam Republic      1-2   @ Kuala Lumpur, Malaya
 

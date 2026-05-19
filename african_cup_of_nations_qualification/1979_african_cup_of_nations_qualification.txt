@@ -1,50 +1,50 @@
 = African Cup of Nations qualification 1979
 
-# Date       Sun Feb/18 - Sun Aug/26 1979 (189d)
+# Date       Sun Feb 18 - Sun Aug 26 1979 (189d)
 # Teams      20
 # Matches    28
 
-[Sun Feb 18]
-  Mauritania - Morocco  2-2   @ Nouakchott, Mauritania
-[Sun Apr 8]
-  Morocco - Mauritania  4-1   @ Casablanca, Morocco
-[Sun Apr 15]
-  Benin - Ivory Coast  1-0   @ Cotonou, Benin
-  Congo - DR Congo  4-2   @ Brazzaville, Congo
-  Malawi - Zambia  0-2   @ Blantyre, Malawi
-  Guinea - Cameroon  3-0   @ Conakry, Guinea
-  Libya - Ethiopia  2-1   @ Tripoli, Libya
-[Mon Apr 16]
-  Togo - Gambia  2-0   @ Lomé, Togo
-  Mauritius - Tanzania  3-2   @ Curepipe, Mauritius
-[Sun Apr 29]
-  DR Congo - Congo  4-1   @ Kinshasa, Zaïre
-  Gambia - Togo  1-0   @ Banjul, Gambia
-  Tanzania - Mauritius  4-0   @ Dar es Salaam, Tanzania
-  Ivory Coast - Benin  4-1   @ Abidjan, Ivory Coast
-  Ethiopia - Libya  1-1   @ Addis Ababa, Ethiopia
-  Cameroon - Guinea  3-0   @ Yaoundé, Cameroon   [Guinea wins on penalties]
-  Zambia - Malawi  2-0   @ Ndola, Zambia
-[Sun Jun 24]
-  Algeria - Libya  3-1   @ Algiers, Algeria
-  Morocco - Togo  7-0   @ Mohammedia, Morocco
-[Fri Jun 29]
-  Sudan - Ivory Coast  2-0   @ Khartoum, Sudan
-[Sat Jun 30]
-  Kenya - Egypt  3-1   @ Nairobi, Kenya
-[Fri Jul 6]
-  Ivory Coast - Sudan  4-0   @ Abidjan, Ivory Coast
-  Togo - Morocco  2-1   @ Lomé, Togo
-[Sun Jul 8]
-  Libya - Algeria  1-0   @ Tripoli, Libya
-[Fri Jul 13]
-  Egypt - Kenya  3-0   @ Cairo, Egypt
-[Sun Aug 5]
-  DR Congo - Guinea  3-2   @ Kinshasa, Zaïre
-[Sat Aug 11]
-  Tanzania - Zambia  1-0   @ Dar es Salaam, Tanzania
-[Sun Aug 19]
-  Guinea - DR Congo  3-1   @ Conakry, Guinea
-[Sun Aug 26]
-  Zambia - Tanzania  1-1   @ Ndola, Zambia
+Sun Feb 18
+  Mauritania           v Morocco               2-2   @ Nouakchott, Mauritania
+Sun Apr 8
+  Morocco              v Mauritania            4-1   @ Casablanca, Morocco
+Sun Apr 15
+  Benin                v Ivory Coast           1-0   @ Cotonou, Benin
+  Congo                v DR Congo              4-2   @ Brazzaville, Congo
+  Malawi               v Zambia                0-2   @ Blantyre, Malawi
+  Guinea               v Cameroon              3-0   @ Conakry, Guinea
+  Libya                v Ethiopia              2-1   @ Tripoli, Libya
+Mon Apr 16
+  Togo                 v Gambia                2-0   @ Lomé, Togo
+  Mauritius            v Tanzania              3-2   @ Curepipe, Mauritius
+Sun Apr 29
+  DR Congo             v Congo                 4-1   @ Kinshasa, Zaïre
+  Gambia               v Togo                  1-0   @ Banjul, Gambia
+  Tanzania             v Mauritius             4-0   @ Dar es Salaam, Tanzania
+  Ivory Coast          v Benin                 4-1   @ Abidjan, Ivory Coast
+  Ethiopia             v Libya                 1-1   @ Addis Ababa, Ethiopia
+  Cameroon             v Guinea                3-0   @ Yaoundé, Cameroon   [Guinea wins on penalties]
+  Zambia               v Malawi                2-0   @ Ndola, Zambia
+Sun Jun 24
+  Algeria              v Libya                 3-1   @ Algiers, Algeria
+  Morocco              v Togo                  7-0   @ Mohammedia, Morocco
+Fri Jun 29
+  Sudan                v Ivory Coast           2-0   @ Khartoum, Sudan
+Sat Jun 30
+  Kenya                v Egypt                 3-1   @ Nairobi, Kenya
+Fri Jul 6
+  Ivory Coast          v Sudan                 4-0   @ Abidjan, Ivory Coast
+  Togo                 v Morocco               2-1   @ Lomé, Togo
+Sun Jul 8
+  Libya                v Algeria               1-0   @ Tripoli, Libya
+Fri Jul 13
+  Egypt                v Kenya                 3-0   @ Cairo, Egypt
+Sun Aug 5
+  DR Congo             v Guinea                3-2   @ Kinshasa, Zaïre
+Sat Aug 11
+  Tanzania             v Zambia                1-0   @ Dar es Salaam, Tanzania
+Sun Aug 19
+  Guinea               v DR Congo              3-1   @ Conakry, Guinea
+Sun Aug 26
+  Zambia               v Tanzania              1-1   @ Ndola, Zambia
 

@@ -1,11 +1,11 @@
 = Copa del Pacífico 1968
 
-# Date       Sun Aug/18 - Wed Aug/21 1968 (3d)
+# Date       Sun Aug 18 - Wed Aug 21 1968 (3d)
 # Teams      2
 # Matches    2
 
-[Sun Aug 18]
-  Peru - Chile  1-2   @ Lima, Peru
-[Wed Aug 21]
-  Peru - Chile  0-0   @ Lima, Peru
+Sun Aug 18
+  Peru                 v Chile                 1-2   @ Lima, Peru
+Wed Aug 21
+  Peru                 v Chile                 0-0   @ Lima, Peru
 

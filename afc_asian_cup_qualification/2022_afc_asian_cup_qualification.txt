@@ -1,46 +1,46 @@
 = AFC Asian Cup qualification 2022
 
-# Date       Wed Jun/8 - Tue Jun/14 2022 (6d)
+# Date       Wed Jun 8 - Tue Jun 14 2022 (6d)
 # Teams      24
 # Matches    36
 
-[Wed Jun 8]
-  Kuwait - Indonesia  1-2   @ Kuwait City, Kuwait
-  Jordan - Nepal  2-0   @ Kuwait City, Kuwait
-  Philippines - Yemen  0-0   @ Ulaanbaatar, Mongolia
-  Mongolia - Palestine  0-1   @ Ulaanbaatar, Mongolia
-  Thailand - Maldives  3-0   @ Namangan, Uzbekistan
-  Uzbekistan - Sri Lanka  3-0   @ Namangan, Uzbekistan
-  Hong Kong - Afghanistan  2-1   @ Kolkota, India
-  India - Cambodia  2-0   @ Kolkota, India
-  Bahrain - Bangladesh  2-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Turkmenistan  3-1   @ Kuala Lumpur, Malaysia
-  Tajikistan - Myanmar  4-0   @ Bishkek, Kyrgyzstan
-  Kyrgyzstan - Singapore  2-1   @ Bishkek, Kyrgyzstan
-[Sat Jun 11]
-  Kuwait - Nepal  4-1   @ Kuwait City, Kuwait
-  Indonesia - Jordan  0-1   @ Kuwait City, Kuwait
-  Mongolia - Philippines  0-1   @ Ulaanbaatar, Mongolia
-  Yemen - Palestine  0-5   @ Ulaanbaatar, Mongolia
-  Sri Lanka - Thailand  0-2   @ Namangan, Uzbekistan
-  Uzbekistan - Maldives  4-0   @ Namangan, Uzbekistan
-  Cambodia - Hong Kong  0-3   @ Kolkota, India
-  India - Afghanistan  2-1   @ Kolkota, India
-  Bangladesh - Turkmenistan  1-2   @ Kuala Lumpur, Malaysia
-  Malaysia - Bahrain  1-2   @ Kuala Lumpur, Malaysia
-  Singapore - Tajikistan  0-1   @ Bishkek, Kyrgyzstan
-  Kyrgyzstan - Myanmar  2-0   @ Bishkek, Kyrgyzstan
-[Tue Jun 14]
-  Kuwait - Jordan  0-3   @ Kuwait City, Kuwait
-  Indonesia - Nepal  7-0   @ Kuwait City, Kuwait
-  Palestine - Philippines  4-0   @ Ulaanbaatar, Mongolia
-  Mongolia - Yemen  2-0   @ Ulaanbaatar, Mongolia
-  Maldives - Sri Lanka  1-0   @ Namangan, Uzbekistan
-  Uzbekistan - Thailand  2-0   @ Namangan, Uzbekistan
-  Afghanistan - Cambodia  2-2   @ Kolkota, India
-  India - Hong Kong  4-0   @ Kolkota, India
-  Bahrain - Turkmenistan  1-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Bangladesh  4-1   @ Kuala Lumpur, Malaysia
-  Myanmar - Singapore  2-6   @ Bishkek, Kyrgyzstan
-  Kyrgyzstan - Tajikistan  0-0   @ Bishkek, Kyrgyzstan
+Wed Jun 8
+  Kuwait               v Indonesia             1-2   @ Kuwait City, Kuwait
+  Jordan               v Nepal                 2-0   @ Kuwait City, Kuwait
+  Philippines          v Yemen                 0-0   @ Ulaanbaatar, Mongolia
+  Mongolia             v Palestine             0-1   @ Ulaanbaatar, Mongolia
+  Thailand             v Maldives              3-0   @ Namangan, Uzbekistan
+  Uzbekistan           v Sri Lanka             3-0   @ Namangan, Uzbekistan
+  Hong Kong            v Afghanistan           2-1   @ Kolkota, India
+  India                v Cambodia              2-0   @ Kolkota, India
+  Bahrain              v Bangladesh            2-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Turkmenistan          3-1   @ Kuala Lumpur, Malaysia
+  Tajikistan           v Myanmar               4-0   @ Bishkek, Kyrgyzstan
+  Kyrgyzstan           v Singapore             2-1   @ Bishkek, Kyrgyzstan
+Sat Jun 11
+  Kuwait               v Nepal                 4-1   @ Kuwait City, Kuwait
+  Indonesia            v Jordan                0-1   @ Kuwait City, Kuwait
+  Mongolia             v Philippines           0-1   @ Ulaanbaatar, Mongolia
+  Yemen                v Palestine             0-5   @ Ulaanbaatar, Mongolia
+  Sri Lanka            v Thailand              0-2   @ Namangan, Uzbekistan
+  Uzbekistan           v Maldives              4-0   @ Namangan, Uzbekistan
+  Cambodia             v Hong Kong             0-3   @ Kolkota, India
+  India                v Afghanistan           2-1   @ Kolkota, India
+  Bangladesh           v Turkmenistan          1-2   @ Kuala Lumpur, Malaysia
+  Malaysia             v Bahrain               1-2   @ Kuala Lumpur, Malaysia
+  Singapore            v Tajikistan            0-1   @ Bishkek, Kyrgyzstan
+  Kyrgyzstan           v Myanmar               2-0   @ Bishkek, Kyrgyzstan
+Tue Jun 14
+  Kuwait               v Jordan                0-3   @ Kuwait City, Kuwait
+  Indonesia            v Nepal                 7-0   @ Kuwait City, Kuwait
+  Palestine            v Philippines           4-0   @ Ulaanbaatar, Mongolia
+  Mongolia             v Yemen                 2-0   @ Ulaanbaatar, Mongolia
+  Maldives             v Sri Lanka             1-0   @ Namangan, Uzbekistan
+  Uzbekistan           v Thailand              2-0   @ Namangan, Uzbekistan
+  Afghanistan          v Cambodia              2-2   @ Kolkota, India
+  India                v Hong Kong             4-0   @ Kolkota, India
+  Bahrain              v Turkmenistan          1-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Bangladesh            4-1   @ Kuala Lumpur, Malaysia
+  Myanmar              v Singapore             2-6   @ Bishkek, Kyrgyzstan
+  Kyrgyzstan           v Tajikistan            0-0   @ Bishkek, Kyrgyzstan
 

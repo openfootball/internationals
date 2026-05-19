@@ -1,11 +1,11 @@
 = Copa Artigas 1977
 
-# Date       Wed Jan/12 - Sun Jan/23 1977 (11d)
+# Date       Wed Jan 12 - Sun Jan 23 1977 (11d)
 # Teams      2
 # Matches    2
 
-[Wed Jan 12]
-  Paraguay - Uruguay  1-1   @ Asunción, Paraguay
-[Sun Jan 23]
-  Uruguay - Paraguay  2-1   @ Montevideo, Uruguay
+Wed Jan 12
+  Paraguay             v Uruguay               1-1   @ Asunción, Paraguay
+Sun Jan 23
+  Uruguay              v Paraguay              2-1   @ Montevideo, Uruguay
 

@@ -1,32 +1,32 @@
 = CECAFA Cup 1987
 
-# Date       Sun Dec/13 - Sun Dec/27 1987 (14d)
+# Date       Sun Dec 13 - Sun Dec 27 1987 (14d)
 # Teams      8
 # Matches    15
 
-[Sun Dec 13]
-  Ethiopia - Tanzania  0-0   @ Addis Ababa, Ethiopia
-  Malawi - Zimbabwe  1-1   @ Addis Ababa, Ethiopia   [Zimbabwe wins on penalties]
-[Mon Dec 14]
-  Kenya - Zanzibar  0-0   @ Addis Ababa, Ethiopia
-  Uganda - Zambia  4-0   @ Addis Ababa, Ethiopia
-[Wed Dec 16]
-  Kenya - Tanzania  3-2   @ Addis Ababa, Ethiopia
-  Uganda - Zimbabwe  0-0   @ Addis Ababa, Ethiopia
-[Thu Dec 17]
-  Ethiopia - Zanzibar  0-0   @ Addis Ababa, Ethiopia
-  Malawi - Zambia  2-1   @ Addis Ababa, Ethiopia
-[Sat Dec 19]
-  Tanzania - Zanzibar  0-2   @ Addis Ababa, Ethiopia
-[Sun Dec 20]
-  Ethiopia - Kenya  2-1   @ Addis Ababa, Ethiopia
-  Malawi - Uganda  0-2   @ Addis Ababa, Ethiopia
-[Wed Dec 23]
-  Zanzibar - Zimbabwe  0-1   @ Addis Ababa, Ethiopia
-[Thu Dec 24]
-  Ethiopia - Uganda  3-0   @ Addis Ababa, Ethiopia
-[Sat Dec 26]
-  Uganda - Zanzibar  2-0   @ Addis Ababa, Ethiopia
-[Sun Dec 27]
-  Ethiopia - Zimbabwe  1-1   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
+Sun Dec 13
+  Ethiopia             v Tanzania              0-0   @ Addis Ababa, Ethiopia
+  Malawi               v Zimbabwe              1-1   @ Addis Ababa, Ethiopia   [Zimbabwe wins on penalties]
+Mon Dec 14
+  Kenya                v Zanzibar              0-0   @ Addis Ababa, Ethiopia
+  Uganda               v Zambia                4-0   @ Addis Ababa, Ethiopia
+Wed Dec 16
+  Kenya                v Tanzania              3-2   @ Addis Ababa, Ethiopia
+  Uganda               v Zimbabwe              0-0   @ Addis Ababa, Ethiopia
+Thu Dec 17
+  Ethiopia             v Zanzibar              0-0   @ Addis Ababa, Ethiopia
+  Malawi               v Zambia                2-1   @ Addis Ababa, Ethiopia
+Sat Dec 19
+  Tanzania             v Zanzibar              0-2   @ Addis Ababa, Ethiopia
+Sun Dec 20
+  Ethiopia             v Kenya                 2-1   @ Addis Ababa, Ethiopia
+  Malawi               v Uganda                0-2   @ Addis Ababa, Ethiopia
+Wed Dec 23
+  Zanzibar             v Zimbabwe              0-1   @ Addis Ababa, Ethiopia
+Thu Dec 24
+  Ethiopia             v Uganda                3-0   @ Addis Ababa, Ethiopia
+Sat Dec 26
+  Uganda               v Zanzibar              2-0   @ Addis Ababa, Ethiopia
+Sun Dec 27
+  Ethiopia             v Zimbabwe              1-1   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
 

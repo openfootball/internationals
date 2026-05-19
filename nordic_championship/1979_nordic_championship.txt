@@ -1,15 +1,15 @@
 = Nordic Championship 1979
 
-# Date       Thu Jun/28 - Wed Sep/26 1979 (90d)
+# Date       Thu Jun 28 - Wed Sep 26 1979 (90d)
 # Teams      4
 # Matches    4
 
-[Thu Jun 28]
-  Sweden - Norway  2-0   @ Gothenburg, Sweden
-[Wed Aug 15]
-  Norway - Sweden  2-0   @ Oslo, Norway
-[Wed Aug 29]
-  Finland - Denmark  0-0   @ Mikkeli, Finland
-[Wed Sep 26]
-  Denmark - Finland  1-0   @ Copenhagen, Denmark
+Thu Jun 28
+  Sweden               v Norway                2-0   @ Gothenburg, Sweden
+Wed Aug 15
+  Norway               v Sweden                2-0   @ Oslo, Norway
+Wed Aug 29
+  Finland              v Denmark               0-0   @ Mikkeli, Finland
+Wed Sep 26
+  Denmark              v Finland               1-0   @ Copenhagen, Denmark
 

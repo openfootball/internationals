@@ -1,15 +1,15 @@
 = Balkan Cup 1978
 
-# Date       Wed Mar/22 - Wed Nov/15 1978 (238d)
+# Date       Wed Mar 22 - Wed Nov 15 1978 (238d)
 # Teams      5
 # Matches    4
 
-[Wed Mar 22]
-  Turkey - Romania  1-1   @ Istanbul, Turkey
-[Wed May 3]
-  Romania - Bulgaria  2-0   @ Bucharest, Romania
-[Wed May 31]
-  Bulgaria - Romania  1-1   @ Sofia, Bulgaria
-[Wed Nov 15]
-  Yugoslavia - Greece  4-1   @ Skopje, Yugoslavia
+Wed Mar 22
+  Turkey               v Romania               1-1   @ Istanbul, Turkey
+Wed May 3
+  Romania              v Bulgaria              2-0   @ Bucharest, Romania
+Wed May 31
+  Bulgaria             v Romania               1-1   @ Sofia, Bulgaria
+Wed Nov 15
+  Yugoslavia           v Greece                4-1   @ Skopje, Yugoslavia
 

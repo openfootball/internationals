@@ -1,19 +1,19 @@
 = British Home Championship 1905
 
-# Date       Sat Feb/25 - Sat Apr/8 1905 (42d)
+# Date       Sat Feb 25 - Sat Apr 8 1905 (42d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 25]
-  England - Northern Ireland  1-1   @ Middlesbrough, England
-[Mon Mar 6]
-  Wales - Scotland  3-1   @ Wrexham, Wales
-[Sat Mar 18]
-  Scotland - Northern Ireland  4-0   @ Glasgow, Scotland
-[Mon Mar 27]
-  England - Wales  3-1   @ Liverpool, England
-[Sat Apr 1]
-  England - Scotland  1-0   @ London, England
-[Sat Apr 8]
-  Northern Ireland - Wales  2-2   @ Belfast, Ireland
+Sat Feb 25
+  England              v Northern Ireland      1-1   @ Middlesbrough, England
+Mon Mar 6
+  Wales                v Scotland              3-1   @ Wrexham, Wales
+Sat Mar 18
+  Scotland             v Northern Ireland      4-0   @ Glasgow, Scotland
+Mon Mar 27
+  England              v Wales                 3-1   @ Liverpool, England
+Sat Apr 1
+  England              v Scotland              1-0   @ London, England
+Sat Apr 8
+  Northern Ireland     v Wales                 2-2   @ Belfast, Ireland
 

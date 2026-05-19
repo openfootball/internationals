@@ -1,19 +1,19 @@
 = British Home Championship 1929
 
-# Date       Sat Feb/2 - Wed Nov/20 1929 (291d)
+# Date       Sat Feb 2 - Wed Nov 20 1929 (291d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 2]
-  Wales - Northern Ireland  2-2   @ Wrexham, Wales
-[Sat Feb 23]
-  Northern Ireland - Scotland  3-7   @ Belfast, Northern Ireland
-[Sat Apr 13]
-  Scotland - England  1-0   @ Glasgow, Scotland
-[Sat Oct 19]
-  Northern Ireland - England  0-3   @ Belfast, Northern Ireland
-[Sat Oct 26]
-  Wales - Scotland  2-4   @ Cardiff, Wales
-[Wed Nov 20]
-  England - Wales  6-0   @ London, England
+Sat Feb 2
+  Wales                v Northern Ireland      2-2   @ Wrexham, Wales
+Sat Feb 23
+  Northern Ireland     v Scotland              3-7   @ Belfast, Northern Ireland
+Sat Apr 13
+  Scotland             v England               1-0   @ Glasgow, Scotland
+Sat Oct 19
+  Northern Ireland     v England               0-3   @ Belfast, Northern Ireland
+Sat Oct 26
+  Wales                v Scotland              2-4   @ Cardiff, Wales
+Wed Nov 20
+  England              v Wales                 6-0   @ London, England
 

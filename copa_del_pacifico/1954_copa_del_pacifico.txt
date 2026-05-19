@@ -1,11 +1,11 @@
 = Copa del Pacífico 1954
 
-# Date       Fri Sep/17 - Sun Sep/19 1954 (2d)
+# Date       Fri Sep 17 - Sun Sep 19 1954 (2d)
 # Teams      2
 # Matches    2
 
-[Fri Sep 17]
-  Chile - Peru  2-1   @ Santiago, Chile
-[Sun Sep 19]
-  Chile - Peru  2-4   @ Santiago, Chile
+Fri Sep 17
+  Chile                v Peru                  2-1   @ Santiago, Chile
+Sun Sep 19
+  Chile                v Peru                  2-4   @ Santiago, Chile
 

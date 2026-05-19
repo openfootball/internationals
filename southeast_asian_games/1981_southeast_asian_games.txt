@@ -1,25 +1,25 @@
 = Southeast Asian Games 1981
 
-# Date       Sun Dec/6 - Tue Dec/15 1981 (9d)
+# Date       Sun Dec 6 - Tue Dec 15 1981 (9d)
 # Teams      6
 # Matches    10
 
-[Sun Dec 6]
-  Malaysia - Myanmar  1-0   @ Manila, Philippines
-[Mon Dec 7]
-  Indonesia - Singapore  1-0   @ Manila, Philippines
-[Tue Dec 8]
-  Malaysia - Thailand  2-2   @ Manila, Philippines
-[Wed Dec 9]
-  Philippines - Singapore  0-4   @ Manila, Philippines
-[Fri Dec 11]
-  Thailand - Myanmar  3-3   @ Manila, Philippines
-  Philippines - Indonesia  0-2   @ Manila, Philippines
-[Sun Dec 13]
-  Malaysia - Singapore  1-1   @ Manila, Philippines   [Malaysia wins on penalties]
-  Thailand - Indonesia  2-1   @ Manila, Philippines
-[Mon Dec 14]
-  Indonesia - Singapore  2-0   @ Manila, Philippines
-[Tue Dec 15]
-  Thailand - Malaysia  2-1   @ Manila, Philippines
+Sun Dec 6
+  Malaysia             v Myanmar               1-0   @ Manila, Philippines
+Mon Dec 7
+  Indonesia            v Singapore             1-0   @ Manila, Philippines
+Tue Dec 8
+  Malaysia             v Thailand              2-2   @ Manila, Philippines
+Wed Dec 9
+  Philippines          v Singapore             0-4   @ Manila, Philippines
+Fri Dec 11
+  Thailand             v Myanmar               3-3   @ Manila, Philippines
+  Philippines          v Indonesia             0-2   @ Manila, Philippines
+Sun Dec 13
+  Malaysia             v Singapore             1-1   @ Manila, Philippines   [Malaysia wins on penalties]
+  Thailand             v Indonesia             2-1   @ Manila, Philippines
+Mon Dec 14
+  Indonesia            v Singapore             2-0   @ Manila, Philippines
+Tue Dec 15
+  Thailand             v Malaysia              2-1   @ Manila, Philippines
 

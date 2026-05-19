@@ -1,23 +1,23 @@
 = Central European International Cup 1928
 
-# Date       Sun Jan/1 - Thu Nov/1 1928 (305d)
+# Date       Sun Jan 1 - Thu Nov 1 1928 (305d)
 # Teams      5
 # Matches    8
 
-[Sun Jan 1]
-  Italy - Switzerland  3-2   @ Genoa, Italy
-[Sun Mar 25]
-  Italy - Hungary  4-3   @ Rome, Italy
-[Sun Apr 1]
-  Austria - Czechoslovakia  0-1   @ Vienna, Austria
-[Sun Apr 22]
-  Hungary - Czechoslovakia  2-0   @ Budapest, Hungary
-[Sun Oct 7]
-  Austria - Hungary  5-1   @ Vienna, Austria
-[Sun Oct 14]
-  Switzerland - Italy  2-3   @ Zürich, Switzerland
-[Sun Oct 28]
-  Austria - Switzerland  2-0   @ Vienna, Austria
-[Thu Nov 1]
-  Hungary - Switzerland  3-1   @ Budapest, Hungary
+Sun Jan 1
+  Italy                v Switzerland           3-2   @ Genoa, Italy
+Sun Mar 25
+  Italy                v Hungary               4-3   @ Rome, Italy
+Sun Apr 1
+  Austria              v Czechoslovakia        0-1   @ Vienna, Austria
+Sun Apr 22
+  Hungary              v Czechoslovakia        2-0   @ Budapest, Hungary
+Sun Oct 7
+  Austria              v Hungary               5-1   @ Vienna, Austria
+Sun Oct 14
+  Switzerland          v Italy                 2-3   @ Zürich, Switzerland
+Sun Oct 28
+  Austria              v Switzerland           2-0   @ Vienna, Austria
+Thu Nov 1
+  Hungary              v Switzerland           3-1   @ Budapest, Hungary
 

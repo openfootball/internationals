@@ -1,13 +1,13 @@
 = Nordic Championship 1924
 
-# Date       Sun Jun/15 - Sun Sep/21 1924 (98d)
+# Date       Sun Jun 15 - Sun Sep 21 1924 (98d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 15]
-  Denmark - Sweden  2-3   @ Copenhagen, Denmark
-[Sun Sep 14]
-  Norway - Denmark  1-3   @ Kristiania, Norway
-[Sun Sep 21]
-  Sweden - Norway  6-1   @ Solna, Sweden
+Sun Jun 15
+  Denmark              v Sweden                2-3   @ Copenhagen, Denmark
+Sun Sep 14
+  Norway               v Denmark               1-3   @ Kristiania, Norway
+Sun Sep 21
+  Sweden               v Norway                6-1   @ Solna, Sweden
 

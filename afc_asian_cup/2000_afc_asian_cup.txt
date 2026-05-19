@@ -1,83 +1,83 @@
 = AFC Asian Cup 2000
 
-# Date       Thu Oct/12 - Sun Oct/29 2000 (17d)
+# Date       Thu Oct 12 - Sun Oct 29 2000 (17d)
 # Teams      12
 # Matches    26
 
-[Thu Oct 12]
-  Iraq - Thailand  2-0   @ Tripoli, Lebanon
-     Qahtan Chathir 27' Haidar Mahmoud 60'
-  Lebanon - Iran  0-4   @ Beirut, Lebanon
-     -; Karim Bagheri 19' Hamid Estili 75' Hamid Estili 87' Ali Daei 90'
-[Fri Oct 13]
-  South Korea - China PR  2-2   @ Tripoli, Lebanon
-     Lee Young-pyo 30' Noh Jung-yoon 58';
-     Su Maozhen 36' Fan Zhiyi 66' (pen.)
-  Kuwait - Indonesia  0-0   @ Tripoli, Lebanon
-[Sat Oct 14]
-  Qatar - Uzbekistan  1-1   @ Sidon, Lebanon
-     Mohammed Gholam 61';
-     Mirjalol Qosimov 73'
-  Saudi Arabia - Japan  1-4   @ Sidon, Lebanon
-     Ryuzo Morioka 90' (o.g.);
-     Atsushi Yanagisawa 26' Naohiro Takahara 39' Hiroshi Nanami 54' Shinji Ono 90'
-[Sun Oct 15]
-  Iran - Thailand  1-1   @ Beirut, Lebanon
-     Ali Daei 73';
-     Seksan Piturat 12'
-  Lebanon - Iraq  2-2   @ Beirut, Lebanon
-     Abbas Chahrour 28' Moussa Hojeij 76';
-     Sabah Jeayer 5' Sabah Jeayer 22'
-[Mon Oct 16]
-  China PR - Indonesia  4-0   @ Tripoli, Lebanon
-     Li Ming 2' Shen Si 7' (pen.) Yang Chen 10' Qi Hong 90'
-  South Korea - Kuwait  0-1   @ Tripoli, Lebanon
-     -; Jasem Al-Huwaidi 43'
-[Tue Oct 17]
-  Japan - Uzbekistan  8-1   @ Sidon, Lebanon
-     Hiroaki Morishima 7' Akinori Nishizawa 14' Naohiro Takahara 18' Naohiro Takahara 20' Akinori Nishizawa 25' Akinori Nishizawa 49' Naohiro Takahara 57' Hideaki Kitajima 79';
-     Sergey Lushan 29'
-  Saudi Arabia - Qatar  0-0   @ Sidon, Lebanon
-[Wed Oct 18]
-  Iran - Iraq  1-0   @ Sidon, Lebanon
-     Ali Daei 77'
-  Lebanon - Thailand  1-1   @ Beirut, Lebanon
-     Luís Fernandes 83';
-     Seksan Piturat 58'
-[Thu Oct 19]
-  China PR - Kuwait  0-0   @ Tripoli, Lebanon
-  South Korea - Indonesia  3-0   @ Beirut, Lebanon
-     Lee Dong-gook 30' Lee Dong-gook 76' Lee Dong-gook 90'
-[Fri Oct 20]
-  Japan - Qatar  1-1   @ Beirut, Lebanon
-     Akinori Nishizawa 61';
-     Abdulnasser Al-Obaidly 22'
-  Saudi Arabia - Uzbekistan  5-0   @ Sidon, Lebanon
-     Marzouk Al-Otaibi 18' Mohammad Al-Shalhoub 35' Mohammad Al-Shalhoub 78' Mohammad Al-Shalhoub 86' Nawaf Al-Temyat 88'
-[Mon Oct 23]
-  China PR - Qatar  3-1   @ Sidon, Lebanon
-     Li Ming 9' Qi Hong 38' Yang Chen 54';
-     Mohammed Salem Al-Enazi 65'
-  Iran - South Korea  1-2   @ Tripoli, Lebanon
-     Karim Bagheri 71';
-     Kim Sang-sik 90' Lee Dong-gook 99'
-[Tue Oct 24]
-  Japan - Iraq  4-1   @ Beirut, Lebanon
-     Hiroshi Nanami 8' Naohiro Takahara 11' Hiroshi Nanami 29' Tomokazu Myojin 62';
-     Abbas Obeid 4'
-  Kuwait - Saudi Arabia  2-3   @ Beirut, Lebanon
-     Bashar Abdullah 62' Jasem Al-Huwaidi 68';
-     Nawaf Al-Temyat 45' Talal Al-Meshal 72' Nawaf Al-Temyat 109'
-[Thu Oct 26]
-  China PR - Japan  2-3   @ Beirut, Lebanon
-     Qi Hong 30' Yang Chen 48';
-     Fan Zhiyi 21' (o.g.) Akinori Nishizawa 53' Tomokazu Myojin 61'
-  South Korea - Saudi Arabia  1-2   @ Beirut, Lebanon
-     Lee Dong-gook 90';
-     Talal Al-Meshal 76' Talal Al-Meshal 80'
-[Sun Oct 29]
-  China PR - South Korea  0-1   @ Beirut, Lebanon
-     -; Lee Dong-gook 76'
-  Japan - Saudi Arabia  1-0   @ Beirut, Lebanon
-     Shigeyoshi Mochizuki 30'
+Thu Oct 12
+  Iraq                 v Thailand              2-0   @ Tripoli, Lebanon
+     (Qahtan Chathir 27' Haidar Mahmoud 60')
+  Lebanon              v Iran                  0-4   @ Beirut, Lebanon
+     (Karim Bagheri 19' Hamid Estili 75' Hamid Estili 87' Ali Daei 90')
+Fri Oct 13
+  South Korea          v China PR              2-2   @ Tripoli, Lebanon
+     (Lee Young-pyo 30' Noh Jung-yoon 58';
+      Su Maozhen 36' Fan Zhiyi 66'(p))
+  Kuwait               v Indonesia             0-0   @ Tripoli, Lebanon
+Sat Oct 14
+  Qatar                v Uzbekistan            1-1   @ Sidon, Lebanon
+     (Mohammed Gholam 61';
+      Mirjalol Qosimov 73')
+  Saudi Arabia         v Japan                 1-4   @ Sidon, Lebanon
+     (Ryuzo Morioka 90'(og);
+      Atsushi Yanagisawa 26' Naohiro Takahara 39' Hiroshi Nanami 54' Shinji Ono 90')
+Sun Oct 15
+  Iran                 v Thailand              1-1   @ Beirut, Lebanon
+     (Ali Daei 73';
+      Seksan Piturat 12')
+  Lebanon              v Iraq                  2-2   @ Beirut, Lebanon
+     (Abbas Chahrour 28' Moussa Hojeij 76';
+      Sabah Jeayer 5' Sabah Jeayer 22')
+Mon Oct 16
+  China PR             v Indonesia             4-0   @ Tripoli, Lebanon
+     (Li Ming 2' Shen Si 7'(p) Yang Chen 10' Qi Hong 90')
+  South Korea          v Kuwait                0-1   @ Tripoli, Lebanon
+     (Jasem Al-Huwaidi 43')
+Tue Oct 17
+  Japan                v Uzbekistan            8-1   @ Sidon, Lebanon
+     (Hiroaki Morishima 7' Akinori Nishizawa 14' Naohiro Takahara 18' Naohiro Takahara 20' Akinori Nishizawa 25' Akinori Nishizawa 49' Naohiro Takahara 57' Hideaki Kitajima 79';
+      Sergey Lushan 29')
+  Saudi Arabia         v Qatar                 0-0   @ Sidon, Lebanon
+Wed Oct 18
+  Iran                 v Iraq                  1-0   @ Sidon, Lebanon
+     (Ali Daei 77')
+  Lebanon              v Thailand              1-1   @ Beirut, Lebanon
+     (Luís Fernandes 83';
+      Seksan Piturat 58')
+Thu Oct 19
+  China PR             v Kuwait                0-0   @ Tripoli, Lebanon
+  South Korea          v Indonesia             3-0   @ Beirut, Lebanon
+     (Lee Dong-gook 30' Lee Dong-gook 76' Lee Dong-gook 90')
+Fri Oct 20
+  Japan                v Qatar                 1-1   @ Beirut, Lebanon
+     (Akinori Nishizawa 61';
+      Abdulnasser Al-Obaidly 22')
+  Saudi Arabia         v Uzbekistan            5-0   @ Sidon, Lebanon
+     (Marzouk Al-Otaibi 18' Mohammad Al-Shalhoub 35' Mohammad Al-Shalhoub 78' Mohammad Al-Shalhoub 86' Nawaf Al-Temyat 88')
+Mon Oct 23
+  China PR             v Qatar                 3-1   @ Sidon, Lebanon
+     (Li Ming 9' Qi Hong 38' Yang Chen 54';
+      Mohammed Salem Al-Enazi 65')
+  Iran                 v South Korea           1-2   @ Tripoli, Lebanon
+     (Karim Bagheri 71';
+      Kim Sang-sik 90' Lee Dong-gook 99')
+Tue Oct 24
+  Japan                v Iraq                  4-1   @ Beirut, Lebanon
+     (Hiroshi Nanami 8' Naohiro Takahara 11' Hiroshi Nanami 29' Tomokazu Myojin 62';
+      Abbas Obeid 4')
+  Kuwait               v Saudi Arabia          2-3   @ Beirut, Lebanon
+     (Bashar Abdullah 62' Jasem Al-Huwaidi 68';
+      Nawaf Al-Temyat 45' Talal Al-Meshal 72' Nawaf Al-Temyat 109')
+Thu Oct 26
+  China PR             v Japan                 2-3   @ Beirut, Lebanon
+     (Qi Hong 30' Yang Chen 48';
+      Fan Zhiyi 21'(og) Akinori Nishizawa 53' Tomokazu Myojin 61')
+  South Korea          v Saudi Arabia          1-2   @ Beirut, Lebanon
+     (Lee Dong-gook 90';
+      Talal Al-Meshal 76' Talal Al-Meshal 80')
+Sun Oct 29
+  China PR             v South Korea           0-1   @ Beirut, Lebanon
+     (Lee Dong-gook 76')
+  Japan                v Saudi Arabia          1-0   @ Beirut, Lebanon
+     (Shigeyoshi Mochizuki 30')
 

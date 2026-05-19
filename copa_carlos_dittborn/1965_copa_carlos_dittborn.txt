@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1965
 
-# Date       Wed Jul/14 - Wed Jul/21 1965 (7d)
+# Date       Wed Jul 14 - Wed Jul 21 1965 (7d)
 # Teams      2
 # Matches    2
 
-[Wed Jul 14]
-  Argentina - Chile  1-0   @ Buenos Aires, Argentina
-[Wed Jul 21]
-  Chile - Argentina  1-1   @ Santiago, Chile
+Wed Jul 14
+  Argentina            v Chile                 1-0   @ Buenos Aires, Argentina
+Wed Jul 21
+  Chile                v Argentina             1-1   @ Santiago, Chile
 

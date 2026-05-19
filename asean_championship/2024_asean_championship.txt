@@ -1,45 +1,45 @@
 = ASEAN Championship 2024
 
-# Date       Sun Dec/8 - Mon Dec/30 2024 (22d)
+# Date       Sun Dec 8 - Mon Dec 30 2024 (22d)
 # Teams      10
 # Matches    24
 
-[Sun Dec 8]
-  Cambodia - Malaysia  2-2   @ Phnom Penh, Cambodia
-  Timor-Leste - Thailand  0-10   @ Hanoi, Vietnam
-[Mon Dec 9]
-  Myanmar - Indonesia  0-1   @ Yangon, Myanmar
-  Laos - Vietnam  1-4   @ Vientiane, Laos
-[Wed Dec 11]
-  Singapore - Cambodia  2-1   @ Singapore, Singapore
-  Malaysia - Timor-Leste  3-2   @ Kuala Lumpur, Malaysia
-[Thu Dec 12]
-  Philippines - Myanmar  1-1   @ Manila, Philippines
-  Indonesia - Laos  3-3   @ Surakarta, Indonesia
-[Sat Dec 14]
-  Timor-Leste - Singapore  0-3   @ Hanoi, Vietnam
-  Thailand - Malaysia  1-0   @ Bangkok, Thailand
-[Sun Dec 15]
-  Laos - Philippines  1-1   @ Vientiane, Laos
-  Vietnam - Indonesia  1-0   @ Việt Trì, Vietnam
-[Tue Dec 17]
-  Cambodia - Timor-Leste  2-1   @ Phnom Penh, Cambodia
-  Singapore - Thailand  2-4   @ Singapore, Singapore
-[Wed Dec 18]
-  Myanmar - Laos  3-2   @ Yangon, Myanmar
-  Philippines - Vietnam  1-1   @ Manila, Philippines
-[Fri Dec 20]
-  Thailand - Cambodia  3-2   @ Bangkok, Thailand
-  Malaysia - Singapore  0-0   @ Kuala Lumpur, Malaysia
-[Sat Dec 21]
-  Vietnam - Myanmar  5-0   @ Việt Trì, Vietnam
-  Indonesia - Philippines  0-1   @ Surakarta, Indonesia
-[Thu Dec 26]
-  Singapore - Vietnam  0-2   @ Singapore, Singapore
-[Fri Dec 27]
-  Philippines - Thailand  2-1   @ Manila, Philippines
-[Sun Dec 29]
-  Vietnam - Singapore  3-1   @ Việt Trì, Vietnam
-[Mon Dec 30]
-  Thailand - Philippines  3-1   @ Bangkok, Thailand
+Sun Dec 8
+  Cambodia             v Malaysia              2-2   @ Phnom Penh, Cambodia
+  Timor-Leste          v Thailand              0-10   @ Hanoi, Vietnam
+Mon Dec 9
+  Myanmar              v Indonesia             0-1   @ Yangon, Myanmar
+  Laos                 v Vietnam               1-4   @ Vientiane, Laos
+Wed Dec 11
+  Singapore            v Cambodia              2-1   @ Singapore, Singapore
+  Malaysia             v Timor-Leste           3-2   @ Kuala Lumpur, Malaysia
+Thu Dec 12
+  Philippines          v Myanmar               1-1   @ Manila, Philippines
+  Indonesia            v Laos                  3-3   @ Surakarta, Indonesia
+Sat Dec 14
+  Timor-Leste          v Singapore             0-3   @ Hanoi, Vietnam
+  Thailand             v Malaysia              1-0   @ Bangkok, Thailand
+Sun Dec 15
+  Laos                 v Philippines           1-1   @ Vientiane, Laos
+  Vietnam              v Indonesia             1-0   @ Việt Trì, Vietnam
+Tue Dec 17
+  Cambodia             v Timor-Leste           2-1   @ Phnom Penh, Cambodia
+  Singapore            v Thailand              2-4   @ Singapore, Singapore
+Wed Dec 18
+  Myanmar              v Laos                  3-2   @ Yangon, Myanmar
+  Philippines          v Vietnam               1-1   @ Manila, Philippines
+Fri Dec 20
+  Thailand             v Cambodia              3-2   @ Bangkok, Thailand
+  Malaysia             v Singapore             0-0   @ Kuala Lumpur, Malaysia
+Sat Dec 21
+  Vietnam              v Myanmar               5-0   @ Việt Trì, Vietnam
+  Indonesia            v Philippines           0-1   @ Surakarta, Indonesia
+Thu Dec 26
+  Singapore            v Vietnam               0-2   @ Singapore, Singapore
+Fri Dec 27
+  Philippines          v Thailand              2-1   @ Manila, Philippines
+Sun Dec 29
+  Vietnam              v Singapore             3-1   @ Việt Trì, Vietnam
+Mon Dec 30
+  Thailand             v Philippines           3-1   @ Bangkok, Thailand
 

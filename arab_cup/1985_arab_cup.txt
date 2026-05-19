@@ -1,25 +1,25 @@
 = Arab Cup 1985
 
-# Date       Wed Jul/3 - Fri Jul/12 1985 (9d)
+# Date       Wed Jul 3 - Fri Jul 12 1985 (9d)
 # Teams      6
 # Matches    10
 
-[Wed Jul 3]
-  Saudi Arabia - Jordan  4-0   @ Taif, Saudi Arabia
-[Thu Jul 4]
-  Bahrain - Iraq  1-1   @ Taif, Saudi Arabia
-[Fri Jul 5]
-  Jordan - Qatar  0-2   @ Taif, Saudi Arabia
-[Sat Jul 6]
-  Bahrain - Mauritania  2-0   @ Taif, Saudi Arabia
-[Sun Jul 7]
-  Saudi Arabia - Qatar  1-0   @ Taif, Saudi Arabia
-[Mon Jul 8]
-  Iraq - Mauritania  2-0   @ Taif, Saudi Arabia
-[Wed Jul 10]
-  Bahrain - Qatar  1-1   @ Taif, Saudi Arabia   [Bahrain wins on penalties]
-  Saudi Arabia - Iraq  2-3   @ Taif, Saudi Arabia
-[Fri Jul 12]
-  Bahrain - Iraq  0-1   @ Taif, Saudi Arabia
-  Saudi Arabia - Qatar  0-0   @ Taif, Saudi Arabia   [Saudi Arabia wins on penalties]
+Wed Jul 3
+  Saudi Arabia         v Jordan                4-0   @ Taif, Saudi Arabia
+Thu Jul 4
+  Bahrain              v Iraq                  1-1   @ Taif, Saudi Arabia
+Fri Jul 5
+  Jordan               v Qatar                 0-2   @ Taif, Saudi Arabia
+Sat Jul 6
+  Bahrain              v Mauritania            2-0   @ Taif, Saudi Arabia
+Sun Jul 7
+  Saudi Arabia         v Qatar                 1-0   @ Taif, Saudi Arabia
+Mon Jul 8
+  Iraq                 v Mauritania            2-0   @ Taif, Saudi Arabia
+Wed Jul 10
+  Bahrain              v Qatar                 1-1   @ Taif, Saudi Arabia   [Bahrain wins on penalties]
+  Saudi Arabia         v Iraq                  2-3   @ Taif, Saudi Arabia
+Fri Jul 12
+  Bahrain              v Iraq                  0-1   @ Taif, Saudi Arabia
+  Saudi Arabia         v Qatar                 0-0   @ Taif, Saudi Arabia   [Saudi Arabia wins on penalties]
 

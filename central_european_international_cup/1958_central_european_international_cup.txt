@@ -1,13 +1,13 @@
 = Central European International Cup 1958
 
-# Date       Sun Mar/23 - Sat Dec/13 1958 (265d)
+# Date       Sun Mar 23 - Sat Dec 13 1958 (265d)
 # Teams      4
 # Matches    3
 
-[Sun Mar 23]
-  Austria - Italy  3-2   @ Vienna, Austria
-[Sat Sep 20]
-  Czechoslovakia - Switzerland  2-1   @ Bratislava, Czechoslovakia
-[Sat Dec 13]
-  Italy - Czechoslovakia  1-1   @ Genoa, Italy
+Sun Mar 23
+  Austria              v Italy                 3-2   @ Vienna, Austria
+Sat Sep 20
+  Czechoslovakia       v Switzerland           2-1   @ Bratislava, Czechoslovakia
+Sat Dec 13
+  Italy                v Czechoslovakia        1-1   @ Genoa, Italy
 

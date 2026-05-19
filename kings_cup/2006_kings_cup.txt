@@ -1,18 +1,18 @@
 = King's Cup 2006
 
-# Date       Sun Dec/24 - Sat Dec/30 2006 (6d)
+# Date       Sun Dec 24 - Sat Dec 30 2006 (6d)
 # Teams      4
 # Matches    7
 
-[Sun Dec 24]
-  Singapore - Kazakhstan  0-0   @ Bangkok, Thailand
-  Thailand - Vietnam  2-1   @ Bangkok, Thailand
-[Tue Dec 26]
-  Thailand - Singapore  2-0   @ Bangkok, Thailand
-  Vietnam - Kazakhstan  2-1   @ Bangkok, Thailand
-[Thu Dec 28]
-  Singapore - Vietnam  2-3   @ Bangkok, Thailand
-  Thailand - Kazakhstan  2-2   @ Bangkok, Thailand
-[Sat Dec 30]
-  Thailand - Vietnam  3-1   @ Bangkok, Thailand
+Sun Dec 24
+  Singapore            v Kazakhstan            0-0   @ Bangkok, Thailand
+  Thailand             v Vietnam               2-1   @ Bangkok, Thailand
+Tue Dec 26
+  Thailand             v Singapore             2-0   @ Bangkok, Thailand
+  Vietnam              v Kazakhstan            2-1   @ Bangkok, Thailand
+Thu Dec 28
+  Singapore            v Vietnam               2-3   @ Bangkok, Thailand
+  Thailand             v Kazakhstan            2-2   @ Bangkok, Thailand
+Sat Dec 30
+  Thailand             v Vietnam               3-1   @ Bangkok, Thailand
 

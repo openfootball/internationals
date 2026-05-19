@@ -1,18 +1,18 @@
 = Nordic Championship 1966
 
-# Date       Sat Jun/4 - Sun Nov/6 1966 (155d)
+# Date       Sat Jun 4 - Sun Nov 6 1966 (155d)
 # Teams      4
 # Matches    6
 
-[Sat Jun 4]
-  Finland - Sweden  1-0   @ Helsinki, Finland
-[Sun Jun 26]
-  Denmark - Norway  0-1   @ Copenhagen, Denmark
-[Sun Aug 14]
-  Norway - Finland  1-1   @ Stavanger, Norway
-[Sun Sep 18]
-  Finland - Denmark  2-1   @ Helsinki, Finland
-  Norway - Sweden  2-4   @ Oslo, Norway
-[Sun Nov 6]
-  Sweden - Denmark  2-1   @ Solna, Sweden
+Sat Jun 4
+  Finland              v Sweden                1-0   @ Helsinki, Finland
+Sun Jun 26
+  Denmark              v Norway                0-1   @ Copenhagen, Denmark
+Sun Aug 14
+  Norway               v Finland               1-1   @ Stavanger, Norway
+Sun Sep 18
+  Finland              v Denmark               2-1   @ Helsinki, Finland
+  Norway               v Sweden                2-4   @ Oslo, Norway
+Sun Nov 6
+  Sweden               v Denmark               2-1   @ Solna, Sweden
 

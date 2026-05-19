@@ -1,25 +1,25 @@
 = CECAFA Cup 1994
 
-# Date       Sat Nov/26 - Thu Dec/8 1994 (12d)
+# Date       Sat Nov 26 - Thu Dec 8 1994 (12d)
 # Teams      7
 # Matches    11
 
-[Sat Nov 26]
-  Kenya - Somalia  3-1   @ Nairobi, Kenya
-[Mon Nov 28]
-  Kenya - Djibouti  4-1   @ Nairobi, Kenya
-[Tue Nov 29]
-  Tanzania - Somalia  4-0   @ Nairobi, Kenya
-[Thu Dec 1]
-  Kenya - Tanzania  0-1   @ Nairobi, Kenya
-  Somalia - Djibouti  2-1   @ Nairobi, Kenya
-  Uganda - Seychelles  2-0   @ Nairobi, Kenya
-[Sat Dec 3]
-  Tanzania - Djibouti  3-0   @ Nairobi, Kenya
-  Uganda - Eritrea  0-0   @ Nairobi, Kenya
-[Mon Dec 5]
-  Kenya - Uganda  0-1   @ Nairobi, Kenya
-  Tanzania - Eritrea  1-0   @ Nairobi, Kenya
-[Thu Dec 8]
-  Kenya - Eritrea  1-0   @ Nairobi, Kenya
+Sat Nov 26
+  Kenya                v Somalia               3-1   @ Nairobi, Kenya
+Mon Nov 28
+  Kenya                v Djibouti              4-1   @ Nairobi, Kenya
+Tue Nov 29
+  Tanzania             v Somalia               4-0   @ Nairobi, Kenya
+Thu Dec 1
+  Kenya                v Tanzania              0-1   @ Nairobi, Kenya
+  Somalia              v Djibouti              2-1   @ Nairobi, Kenya
+  Uganda               v Seychelles            2-0   @ Nairobi, Kenya
+Sat Dec 3
+  Tanzania             v Djibouti              3-0   @ Nairobi, Kenya
+  Uganda               v Eritrea               0-0   @ Nairobi, Kenya
+Mon Dec 5
+  Kenya                v Uganda                0-1   @ Nairobi, Kenya
+  Tanzania             v Eritrea               1-0   @ Nairobi, Kenya
+Thu Dec 8
+  Kenya                v Eritrea               1-0   @ Nairobi, Kenya
 

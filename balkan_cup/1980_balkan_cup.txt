@@ -1,11 +1,11 @@
 = Balkan Cup 1980
 
-# Date       Sun Mar/30 - Wed Aug/27 1980 (150d)
+# Date       Sun Mar 30 - Wed Aug 27 1980 (150d)
 # Teams      2
 # Matches    2
 
-[Sun Mar 30]
-  Yugoslavia - Romania  2-0   @ Belgrade, Yugoslavia
-[Wed Aug 27]
-  Romania - Yugoslavia  4-1   @ Bucharest, Romania
+Sun Mar 30
+  Yugoslavia           v Romania               2-0   @ Belgrade, Yugoslavia
+Wed Aug 27
+  Romania              v Yugoslavia            4-1   @ Bucharest, Romania
 

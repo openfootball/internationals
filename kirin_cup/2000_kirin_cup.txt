@@ -1,13 +1,13 @@
 = Kirin Cup 2000
 
-# Date       Sun Jun/11 - Sun Jun/18 2000 (7d)
+# Date       Sun Jun 11 - Sun Jun 18 2000 (7d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 11]
-  Japan - Slovakia  1-1   @ Rifu, Japan
-[Wed Jun 14]
-  Bolivia - Slovakia  0-2   @ Tosu, Japan
-[Sun Jun 18]
-  Japan - Bolivia  2-0   @ Yokohama, Japan
+Sun Jun 11
+  Japan                v Slovakia              1-1   @ Rifu, Japan
+Wed Jun 14
+  Bolivia              v Slovakia              0-2   @ Tosu, Japan
+Sun Jun 18
+  Japan                v Bolivia               2-0   @ Yokohama, Japan
 

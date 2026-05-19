@@ -1,11 +1,11 @@
 = Copa Bernardo O'Higgins 1955
 
-# Date       Sun Sep/18 - Tue Sep/20 1955 (2d)
+# Date       Sun Sep 18 - Tue Sep 20 1955 (2d)
 # Teams      2
 # Matches    2
 
-[Sun Sep 18]
-  Brazil - Chile  1-1   @ Rio de Janeiro, Brazil
-[Tue Sep 20]
-  Brazil - Chile  2-1   @ São Paulo, Brazil
+Sun Sep 18
+  Brazil               v Chile                 1-1   @ Rio de Janeiro, Brazil
+Tue Sep 20
+  Brazil               v Chile                 2-1   @ São Paulo, Brazil
 

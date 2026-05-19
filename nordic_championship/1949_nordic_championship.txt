@@ -1,17 +1,17 @@
 = Nordic Championship 1949
 
-# Date       Fri Jul/8 - Sun Oct/23 1949 (107d)
+# Date       Fri Jul 8 - Sun Oct 23 1949 (107d)
 # Teams      4
 # Matches    6
 
-[Fri Jul 8]
-  Finland - Norway  1-1   @ Helsinki, Finland
-[Sun Sep 11]
-  Denmark - Finland  0-2   @ Copenhagen, Denmark
-  Norway - Denmark  0-2   @ Oslo, Norway
-[Sun Oct 2]
-  Sweden - Finland  8-1   @ Malmö, Sweden
-  Sweden - Norway  3-3   @ Solna, Sweden
-[Sun Oct 23]
-  Denmark - Sweden  3-2   @ Copenhagen, Denmark
+Fri Jul 8
+  Finland              v Norway                1-1   @ Helsinki, Finland
+Sun Sep 11
+  Denmark              v Finland               0-2   @ Copenhagen, Denmark
+  Norway               v Denmark               0-2   @ Oslo, Norway
+Sun Oct 2
+  Sweden               v Finland               8-1   @ Malmö, Sweden
+  Sweden               v Norway                3-3   @ Solna, Sweden
+Sun Oct 23
+  Denmark              v Sweden                3-2   @ Copenhagen, Denmark
 

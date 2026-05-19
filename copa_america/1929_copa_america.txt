@@ -1,27 +1,27 @@
 = Copa América 1929
 
-# Date       Fri Nov/1 - Sun Nov/17 1929 (16d)
+# Date       Fri Nov 1 - Sun Nov 17 1929 (16d)
 # Teams      4
 # Matches    6
 
-[Fri Nov 1]
-  Paraguay - Uruguay  3-0   @ Buenos Aires, Argentina
-     Aurelio González 16' Diógenes Domínguez 55' Aurelio González 86'
-[Sun Nov 3]
-  Argentina - Peru  3-0   @ Buenos Aires, Argentina
-     Carlos Peucelle 6' Adolfo Zumelzú 38' Adolfo Zumelzú 58'
-[Sun Nov 10]
-  Argentina - Paraguay  4-1   @ Buenos Aires, Argentina
-     Mario Evaristo 7' Manuel Ferreira 24' Manuel Ferreira 48' Roberto Cherro 50';
-     Diógenes Domínguez 56'
-[Mon Nov 11]
-  Peru - Uruguay  1-4   @ Buenos Aires, Argentina
-     Agustín Lizarbe 81';
-     Lorenzo Fernández 21' Lorenzo Fernández 29' Lorenzo Fernández 43' José Leandro Andrade 69'
-[Sat Nov 16]
-  Paraguay - Peru  5-0   @ Avellaneda, Argentina
-     Lino Nessi 10' Aurelio González 55' Aurelio González 63' Aurelio González 69' Diógenes Domínguez 82'
-[Sun Nov 17]
-  Argentina - Uruguay  2-0   @ Buenos Aires, Argentina
-     Manuel Ferreira 14' Mario Evaristo 77'
+Fri Nov 1
+  Paraguay             v Uruguay               3-0   @ Buenos Aires, Argentina
+     (Aurelio González 16' Diógenes Domínguez 55' Aurelio González 86')
+Sun Nov 3
+  Argentina            v Peru                  3-0   @ Buenos Aires, Argentina
+     (Carlos Peucelle 6' Adolfo Zumelzú 38' Adolfo Zumelzú 58')
+Sun Nov 10
+  Argentina            v Paraguay              4-1   @ Buenos Aires, Argentina
+     (Mario Evaristo 7' Manuel Ferreira 24' Manuel Ferreira 48' Roberto Cherro 50';
+      Diógenes Domínguez 56')
+Mon Nov 11
+  Peru                 v Uruguay               1-4   @ Buenos Aires, Argentina
+     (Agustín Lizarbe 81';
+      Lorenzo Fernández 21' Lorenzo Fernández 29' Lorenzo Fernández 43' José Leandro Andrade 69')
+Sat Nov 16
+  Paraguay             v Peru                  5-0   @ Avellaneda, Argentina
+     (Lino Nessi 10' Aurelio González 55' Aurelio González 63' Aurelio González 69' Diógenes Domínguez 82')
+Sun Nov 17
+  Argentina            v Uruguay               2-0   @ Buenos Aires, Argentina
+     (Manuel Ferreira 14' Mario Evaristo 77')
 

@@ -1,15 +1,15 @@
 = Central European International Cup 1927
 
-# Date       Sun Sep/18 - Sun Nov/6 1927 (49d)
+# Date       Sun Sep 18 - Sun Nov 6 1927 (49d)
 # Teams      4
 # Matches    4
 
-[Sun Sep 18]
-  Czechoslovakia - Austria  2-0   @ Prague, Czechoslovakia
-[Sun Sep 25]
-  Hungary - Austria  5-3   @ Budapest, Hungary
-[Sun Oct 23]
-  Czechoslovakia - Italy  2-2   @ Prague, Czechoslovakia
-[Sun Nov 6]
-  Italy - Austria  0-1   @ Bologna, Italy
+Sun Sep 18
+  Czechoslovakia       v Austria               2-0   @ Prague, Czechoslovakia
+Sun Sep 25
+  Hungary              v Austria               5-3   @ Budapest, Hungary
+Sun Oct 23
+  Czechoslovakia       v Italy                 2-2   @ Prague, Czechoslovakia
+Sun Nov 6
+  Italy                v Austria               0-1   @ Bologna, Italy
 

@@ -1,50 +1,50 @@
 = Friendly 1913
 
-# Date       Sun Jan/12 - Sun Nov/23 1913 (315d)
+# Date       Sun Jan 12 - Sun Nov 23 1913 (315d)
 # Teams      16
 # Matches    25
 
-[Sun Jan 12]
-  France - Italy  1-0   @ Saint-Ouen, France
-[Sun Feb 16]
-  Belgium - France  3-0   @ Brussels, Belgium
-[Sun Mar 9]
-  Belgium - Netherlands  3-3   @ Antwerp, Belgium
-  Switzerland - France  1-4   @ Geneva, Switzerland
-[Sun Apr 20]
-  France - Luxembourg  8-0   @ Saint-Ouen, France
-  Netherlands - Belgium  2-4   @ Zwolle, Netherlands
-[Sun Apr 27]
-  Austria - Hungary  1-4   @ Vienna, Austria
-[Thu May 1]
-  Italy - Belgium  1-0   @ Turin, Italy
-[Sun May 4]
-  Russia - Sweden  1-4   @ Moscow, Russia
-  Switzerland - Belgium  1-2   @ Basel, Switzerland
-[Sun May 18]
-  Germany - Switzerland  1-2   @ Freiburg, Germany
-  Hungary - Sweden  2-0   @ Budapest, Hungary
-[Sun May 25]
-  Denmark - Sweden  8-0   @ Copenhagen, Denmark
-[Sun Jun 8]
-  Sweden - Norway  9-0   @ Stockholm, Sweden
-[Sun Jun 15]
-  Argentina - Uruguay  1-1   @ Avellaneda, Argentina
-  Austria - Italy  2-0   @ Vienna, Austria
-[Wed Jul 9]
-  Argentina - Uruguay  2-1   @ Avellaneda, Argentina
-[Sun Sep 14]
-  Russia - Norway  1-1   @ Moscow, Russia
-[Sun Sep 21]
-  Chile - Argentina  0-2   @ Viña del Mar, Chile
-[Sun Oct 5]
-  Sweden - Denmark  0-10   @ Stockholm, Sweden
-[Sun Oct 26]
-  Germany - Denmark  1-4   @ Hamburg, Germany
-  Hungary - Austria  4-3   @ Budapest, Hungary
-  Norway - Sweden  1-1   @ Kristiania, Norway
-[Sun Nov 2]
-  Belgium - Switzerland  2-0   @ Verviers, Belgium
-[Sun Nov 23]
-  Belgium - Germany  6-2   @ Antwerp, Belgium
+Sun Jan 12
+  France               v Italy                 1-0   @ Saint-Ouen, France
+Sun Feb 16
+  Belgium              v France                3-0   @ Brussels, Belgium
+Sun Mar 9
+  Belgium              v Netherlands           3-3   @ Antwerp, Belgium
+  Switzerland          v France                1-4   @ Geneva, Switzerland
+Sun Apr 20
+  France               v Luxembourg            8-0   @ Saint-Ouen, France
+  Netherlands          v Belgium               2-4   @ Zwolle, Netherlands
+Sun Apr 27
+  Austria              v Hungary               1-4   @ Vienna, Austria
+Thu May 1
+  Italy                v Belgium               1-0   @ Turin, Italy
+Sun May 4
+  Russia               v Sweden                1-4   @ Moscow, Russia
+  Switzerland          v Belgium               1-2   @ Basel, Switzerland
+Sun May 18
+  Germany              v Switzerland           1-2   @ Freiburg, Germany
+  Hungary              v Sweden                2-0   @ Budapest, Hungary
+Sun May 25
+  Denmark              v Sweden                8-0   @ Copenhagen, Denmark
+Sun Jun 8
+  Sweden               v Norway                9-0   @ Stockholm, Sweden
+Sun Jun 15
+  Argentina            v Uruguay               1-1   @ Avellaneda, Argentina
+  Austria              v Italy                 2-0   @ Vienna, Austria
+Wed Jul 9
+  Argentina            v Uruguay               2-1   @ Avellaneda, Argentina
+Sun Sep 14
+  Russia               v Norway                1-1   @ Moscow, Russia
+Sun Sep 21
+  Chile                v Argentina             0-2   @ Viña del Mar, Chile
+Sun Oct 5
+  Sweden               v Denmark               0-10   @ Stockholm, Sweden
+Sun Oct 26
+  Germany              v Denmark               1-4   @ Hamburg, Germany
+  Hungary              v Austria               4-3   @ Budapest, Hungary
+  Norway               v Sweden                1-1   @ Kristiania, Norway
+Sun Nov 2
+  Belgium              v Switzerland           2-0   @ Verviers, Belgium
+Sun Nov 23
+  Belgium              v Germany               6-2   @ Antwerp, Belgium
 

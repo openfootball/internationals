@@ -1,63 +1,63 @@
 = UEFA Euro qualification 1966
 
-# Date       Wed Sep/7 - Wed Dec/7 1966 (91d)
+# Date       Wed Sep 7 - Wed Dec 7 1966 (91d)
 # Teams      21
 # Matches    17
 
-[Wed Sep 7]
-  Netherlands - Hungary  2-2   @ Rotterdam, Netherlands
-     Miel Pijs 35' Johan Cruyff 54';
-     Dezső Molnár 70' Kálmán Mészöly 86'
-[Wed Sep 21]
-  Hungary - Denmark  6-0   @ Budapest, Hungary
-     Flórián Albert 1' Kálmán Mészöly 9' (pen.) Ferenc Bene 14' Flórián Albert 30' János Farkas 36' Zoltán Varga 83'
-[Sun Oct 2]
-  Finland - Austria  0-0   @ Helsinki, Finland
-  Poland - Luxembourg  4-0   @ Szczecin, Poland
-     Andrzej Jarosik 49' Jan Liberda 54' Ryszard Grzegorczyk 73' Jerzy Sadek 87'
-[Sun Oct 16]
-  Greece - Finland  2-1   @ Salonica, Greece
-     Alekos Alexiadis 39' Alekos Alexiadis 86';
-     Pertti Mäkipää 57'
-[Sat Oct 22]
-  France - Poland  2-1   @ Paris, France
-     Fleury Di Nallo 26' Georges Lech 85';
-     Ryszard Grzegorczyk 61'
-[Sun Oct 23]
-  Republic of Ireland - Spain  0-0   @ Dublin, Republic of Ireland
-[Wed Nov 2]
-  Romania - Switzerland  4-2   @ Bucharest, Romania
-     Mircea Dridea 8' Constantin Frățilă 11' Constantin Frățilă 25' Constantin Frățilă 38';
-     Fritz Künzli 54' Karl Odermatt 70'
-[Fri Nov 11]
-  Belgium - France  2-1   @ Brussels, Belgium
-     Paul Van Himst 51' Paul Van Himst 54';
-     Georges Lech 67'
-[Sun Nov 13]
-  Bulgaria - Norway  4-2   @ Sofia, Bulgaria
-     Nikola Tsanev 18' Petar Zhekov 42' Nikola Tsanev 43' Petar Zhekov 85';
-     Kjetil Hasund 59' Kjetil Hasund 86'
-  Portugal - Sweden  1-2   @ Oeiras, Portugal
-     Jaime Graça 21';
-     Inge Danielsson 29' Inge Danielsson 87'
-[Wed Nov 16]
-  Republic of Ireland - Turkey  2-1   @ Dublin, Republic of Ireland
-     Frank O'Neill 60' Andy McEvoy 74';
-     Ogün Altıparmak 88'
-[Sat Nov 26]
-  Italy - Romania  3-1   @ Naples, Italy
-     Sandro Mazzola 30' Virginio De Paoli 43' Sandro Mazzola 67';
-     Nicolae Dobrin 7'
-  Luxembourg - France  0-3   @ Luxembourg, Luxembourg
-     -; Yves Herbet 8' Hervé Revelli 40' Georges Lech 41'
-[Wed Nov 30]
-  Netherlands - Denmark  2-0   @ Rotterdam, Netherlands
-     Sjaak Swart 58' Willy van der Kuijlen 73'
-[Sat Dec 3]
-  Cyprus - Romania  1-5   @ Nicosia, Cyprus
-     Costakis Pierides 31';
-     Mircea Dridea 49' Mircea Lucescu 51' Constantin Frățilă 65' Constantin Frățilă 74' Mircea Dridea 82'
-[Wed Dec 7]
-  Spain - Republic of Ireland  2-0   @ Valencia, Spain
-     José María García Lavilla 20' Pirri 35'
+Wed Sep 7
+  Netherlands          v Hungary               2-2   @ Rotterdam, Netherlands
+     (Miel Pijs 35' Johan Cruyff 54';
+      Dezső Molnár 70' Kálmán Mészöly 86')
+Wed Sep 21
+  Hungary              v Denmark               6-0   @ Budapest, Hungary
+     (Flórián Albert 1' Kálmán Mészöly 9'(p) Ferenc Bene 14' Flórián Albert 30' János Farkas 36' Zoltán Varga 83')
+Sun Oct 2
+  Finland              v Austria               0-0   @ Helsinki, Finland
+  Poland               v Luxembourg            4-0   @ Szczecin, Poland
+     (Andrzej Jarosik 49' Jan Liberda 54' Ryszard Grzegorczyk 73' Jerzy Sadek 87')
+Sun Oct 16
+  Greece               v Finland               2-1   @ Salonica, Greece
+     (Alekos Alexiadis 39' Alekos Alexiadis 86';
+      Pertti Mäkipää 57')
+Sat Oct 22
+  France               v Poland                2-1   @ Paris, France
+     (Fleury Di Nallo 26' Georges Lech 85';
+      Ryszard Grzegorczyk 61')
+Sun Oct 23
+  Republic of Ireland  v Spain                 0-0   @ Dublin, Republic of Ireland
+Wed Nov 2
+  Romania              v Switzerland           4-2   @ Bucharest, Romania
+     (Mircea Dridea 8' Constantin Frățilă 11' Constantin Frățilă 25' Constantin Frățilă 38';
+      Fritz Künzli 54' Karl Odermatt 70')
+Fri Nov 11
+  Belgium              v France                2-1   @ Brussels, Belgium
+     (Paul Van Himst 51' Paul Van Himst 54';
+      Georges Lech 67')
+Sun Nov 13
+  Bulgaria             v Norway                4-2   @ Sofia, Bulgaria
+     (Nikola Tsanev 18' Petar Zhekov 42' Nikola Tsanev 43' Petar Zhekov 85';
+      Kjetil Hasund 59' Kjetil Hasund 86')
+  Portugal             v Sweden                1-2   @ Oeiras, Portugal
+     (Jaime Graça 21';
+      Inge Danielsson 29' Inge Danielsson 87')
+Wed Nov 16
+  Republic of Ireland  v Turkey                2-1   @ Dublin, Republic of Ireland
+     (Frank O'Neill 60' Andy McEvoy 74';
+      Ogün Altıparmak 88')
+Sat Nov 26
+  Italy                v Romania               3-1   @ Naples, Italy
+     (Sandro Mazzola 30' Virginio De Paoli 43' Sandro Mazzola 67';
+      Nicolae Dobrin 7')
+  Luxembourg           v France                0-3   @ Luxembourg, Luxembourg
+     (Yves Herbet 8' Hervé Revelli 40' Georges Lech 41')
+Wed Nov 30
+  Netherlands          v Denmark               2-0   @ Rotterdam, Netherlands
+     (Sjaak Swart 58' Willy van der Kuijlen 73')
+Sat Dec 3
+  Cyprus               v Romania               1-5   @ Nicosia, Cyprus
+     (Costakis Pierides 31';
+      Mircea Dridea 49' Mircea Lucescu 51' Constantin Frățilă 65' Constantin Frățilă 74' Mircea Dridea 82')
+Wed Dec 7
+  Spain                v Republic of Ireland   2-0   @ Valencia, Spain
+     (José María García Lavilla 20' Pirri 35')
 

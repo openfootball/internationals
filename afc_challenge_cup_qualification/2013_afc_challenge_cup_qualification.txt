@@ -1,41 +1,41 @@
 = AFC Challenge Cup qualification 2013
 
-# Date       Sat Mar/2 - Tue Mar/26 2013 (24d)
+# Date       Sat Mar 2 - Tue Mar 26 2013 (24d)
 # Teams      19
 # Matches    25
 
-[Sat Mar 2]
-  Afghanistan - Sri Lanka  1-0   @ Vientiane, Laos
-  Myanmar - Guam  5-0   @ Yangon, Myanmar
-  India - Taiwan  2-1   @ Yangon, Myanmar
-  Laos - Mongolia  1-1   @ Vientiane, Laos
-  Nepal - Northern Mariana Islands  6-0   @ Kathmandu, Nepal
-  Palestine - Bangladesh  1-0   @ Kathmandu, Nepal
-[Mon Mar 4]
-  Guam - India  0-4   @ Yangon, Myanmar
-  Laos - Sri Lanka  4-2   @ Vientiane, Laos
-  Mongolia - Afghanistan  0-1   @ Vientiane, Laos
-  Nepal - Bangladesh  0-2   @ Kathmandu, Nepal
-  Northern Mariana Islands - Palestine  0-9   @ Kathmandu, Nepal
-[Wed Mar 6]
-  Bangladesh - Northern Mariana Islands  4-0   @ Kathmandu, Nepal
-  Myanmar - India  1-0   @ Yangon, Myanmar
-  Laos - Afghanistan  1-1   @ Vientiane, Laos
-  Nepal - Palestine  0-0   @ Kathmandu, Nepal
-  Sri Lanka - Mongolia  3-0   @ Vientiane, Laos
-[Sun Mar 17]
-  Kyrgyzstan - Macau  1-0   @ Bishkek, Kyrgyzstan
-  Tajikistan - Pakistan  1-0   @ Bishkek, Kyrgyzstan
-[Tue Mar 19]
-  Kyrgyzstan - Pakistan  1-0   @ Bishkek, Kyrgyzstan
-  Macau - Tajikistan  0-3   @ Bishkek, Kyrgyzstan
-[Thu Mar 21]
-  Kyrgyzstan - Tajikistan  1-0   @ Bishkek, Kyrgyzstan
-  Pakistan - Macau  2-0   @ Bishkek, Kyrgyzstan
-[Fri Mar 22]
-  Turkmenistan - Cambodia  7-0   @ Manila, Philippines
-[Sun Mar 24]
-  Philippines - Cambodia  8-0   @ Manila, Philippines
-[Tue Mar 26]
-  Philippines - Turkmenistan  1-0   @ Manila, Philippines
+Sat Mar 2
+  Afghanistan          v Sri Lanka             1-0   @ Vientiane, Laos
+  Myanmar              v Guam                  5-0   @ Yangon, Myanmar
+  India                v Taiwan                2-1   @ Yangon, Myanmar
+  Laos                 v Mongolia              1-1   @ Vientiane, Laos
+  Nepal                v Northern Mariana Islands  6-0   @ Kathmandu, Nepal
+  Palestine            v Bangladesh            1-0   @ Kathmandu, Nepal
+Mon Mar 4
+  Guam                 v India                 0-4   @ Yangon, Myanmar
+  Laos                 v Sri Lanka             4-2   @ Vientiane, Laos
+  Mongolia             v Afghanistan           0-1   @ Vientiane, Laos
+  Nepal                v Bangladesh            0-2   @ Kathmandu, Nepal
+  Northern Mariana Islands v Palestine             0-9   @ Kathmandu, Nepal
+Wed Mar 6
+  Bangladesh           v Northern Mariana Islands  4-0   @ Kathmandu, Nepal
+  Myanmar              v India                 1-0   @ Yangon, Myanmar
+  Laos                 v Afghanistan           1-1   @ Vientiane, Laos
+  Nepal                v Palestine             0-0   @ Kathmandu, Nepal
+  Sri Lanka            v Mongolia              3-0   @ Vientiane, Laos
+Sun Mar 17
+  Kyrgyzstan           v Macau                 1-0   @ Bishkek, Kyrgyzstan
+  Tajikistan           v Pakistan              1-0   @ Bishkek, Kyrgyzstan
+Tue Mar 19
+  Kyrgyzstan           v Pakistan              1-0   @ Bishkek, Kyrgyzstan
+  Macau                v Tajikistan            0-3   @ Bishkek, Kyrgyzstan
+Thu Mar 21
+  Kyrgyzstan           v Tajikistan            1-0   @ Bishkek, Kyrgyzstan
+  Pakistan             v Macau                 2-0   @ Bishkek, Kyrgyzstan
+Fri Mar 22
+  Turkmenistan         v Cambodia              7-0   @ Manila, Philippines
+Sun Mar 24
+  Philippines          v Cambodia              8-0   @ Manila, Philippines
+Tue Mar 26
+  Philippines          v Turkmenistan          1-0   @ Manila, Philippines
 

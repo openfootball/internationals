@@ -1,33 +1,33 @@
 = Island Games 2007
 
-# Date       Sat Jun/30 - Thu Jul/5 2007 (5d)
+# Date       Sat Jun 30 - Thu Jul 5 2007 (5d)
 # Teams      11
 # Matches    21
 
-[Sat Jun 30]
-  Menorca - Jersey  0-1   @ Rhodes, Greece
-  Bermuda - Ynys Môn  1-2   @ Rhodes, Greece
-  Rhodes - Saare County  2-0   @ Rhodes, Greece
-[Sun Jul 1]
-  Jersey - Gibraltar  1-1   @ Rhodes, Greece
-  Åland Islands - Bermuda  0-2   @ Rhodes, Greece
-  Rhodes - Frøya  3-1   @ Rhodes, Greece
-  Western Isles - Gotland  2-1   @ Rhodes, Greece
-[Mon Jul 2]
-  Gibraltar - Menorca  2-1   @ Rhodes, Greece
-  Ynys Môn - Åland Islands  0-2   @ Rhodes, Greece
-  Saare County - Frøya  2-3   @ Rhodes, Greece
-  Gotland - Western Isles  1-3   @ Rhodes, Greece
-[Wed Jul 4]
-  Menorca - Ynys Môn  6-1   @ Rhodes, Greece
-  Jersey - Åland Islands  1-0   @ Rhodes, Greece
-  Frøya - Gotland  0-3   @ Rhodes, Greece
-  Gibraltar - Bermuda  2-0   @ Rhodes, Greece
-  Rhodes - Western Isles  1-0   @ Rhodes, Greece
-[Thu Jul 5]
-  Menorca - Saare County  4-1   @ Rhodes, Greece
-  Åland Islands - Frøya  3-1   @ Rhodes, Greece
-  Jersey - Gotland  1-0   @ Rhodes, Greece
-  Bermuda - Western Isles  0-1   @ Rhodes, Greece
-  Rhodes - Gibraltar  0-4   @ Rhodes, Greece
+Sat Jun 30
+  Menorca              v Jersey                0-1   @ Rhodes, Greece
+  Bermuda              v Ynys Môn              1-2   @ Rhodes, Greece
+  Rhodes               v Saare County          2-0   @ Rhodes, Greece
+Sun Jul 1
+  Jersey               v Gibraltar             1-1   @ Rhodes, Greece
+  Åland Islands        v Bermuda               0-2   @ Rhodes, Greece
+  Rhodes               v Frøya                 3-1   @ Rhodes, Greece
+  Western Isles        v Gotland               2-1   @ Rhodes, Greece
+Mon Jul 2
+  Gibraltar            v Menorca               2-1   @ Rhodes, Greece
+  Ynys Môn             v Åland Islands         0-2   @ Rhodes, Greece
+  Saare County         v Frøya                 2-3   @ Rhodes, Greece
+  Gotland              v Western Isles         1-3   @ Rhodes, Greece
+Wed Jul 4
+  Menorca              v Ynys Môn              6-1   @ Rhodes, Greece
+  Jersey               v Åland Islands         1-0   @ Rhodes, Greece
+  Frøya                v Gotland               0-3   @ Rhodes, Greece
+  Gibraltar            v Bermuda               2-0   @ Rhodes, Greece
+  Rhodes               v Western Isles         1-0   @ Rhodes, Greece
+Thu Jul 5
+  Menorca              v Saare County          4-1   @ Rhodes, Greece
+  Åland Islands        v Frøya                 3-1   @ Rhodes, Greece
+  Jersey               v Gotland               1-0   @ Rhodes, Greece
+  Bermuda              v Western Isles         0-1   @ Rhodes, Greece
+  Rhodes               v Gibraltar             0-4   @ Rhodes, Greece
 

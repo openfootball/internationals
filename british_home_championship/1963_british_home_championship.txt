@@ -1,17 +1,17 @@
 = British Home Championship 1963
 
-# Date       Wed Apr/3 - Wed Nov/20 1963 (231d)
+# Date       Wed Apr 3 - Wed Nov 20 1963 (231d)
 # Teams      4
 # Matches    6
 
-[Wed Apr 3]
-  Northern Ireland - Wales  1-4   @ Belfast, Northern Ireland
-[Sat Apr 6]
-  England - Scotland  1-2   @ London, England
-[Sat Oct 12]
-  Northern Ireland - Scotland  2-1   @ Belfast, Northern Ireland
-  Wales - England  0-4   @ Cardiff, Wales
-[Wed Nov 20]
-  England - Northern Ireland  8-3   @ London, England
-  Scotland - Wales  2-1   @ Glasgow, Scotland
+Wed Apr 3
+  Northern Ireland     v Wales                 1-4   @ Belfast, Northern Ireland
+Sat Apr 6
+  England              v Scotland              1-2   @ London, England
+Sat Oct 12
+  Northern Ireland     v Scotland              2-1   @ Belfast, Northern Ireland
+  Wales                v England               0-4   @ Cardiff, Wales
+Wed Nov 20
+  England              v Northern Ireland      8-3   @ London, England
+  Scotland             v Wales                 2-1   @ Glasgow, Scotland
 

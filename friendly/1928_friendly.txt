@@ -1,98 +1,98 @@
 = Friendly 1928
 
-# Date       Sun Jan/8 - Fri Dec/7 1928 (334d)
+# Date       Sun Jan 8 - Fri Dec 7 1928 (334d)
 # Teams      39
 # Matches    53
 
-[Sun Jan 8]
-  Belgium - Austria  1-2   @ Brussels, Belgium
-  Portugal - Spain  2-2   @ Lisbon, Portugal
-[Sun Feb 12]
-  Belgium - Republic of Ireland  2-4   @ Liège, Belgium
-[Tue Feb 21]
-  France - Northern Ireland  4-0   @ Montrouge, France
-[Sun Mar 11]
-  Netherlands - Belgium  1-1   @ Amsterdam, Netherlands
-  Switzerland - France  4-3   @ Lausanne, Switzerland
-[Fri Mar 16]
-  Guyana - Trinidad and Tobago  1-1   @ Georgetown, British Guiana
-[Sun Apr 1]
-  Belgium - Netherlands  1-0   @ Antwerp, Belgium
-  Portugal - Argentina  0-0   @ Lisbon, Portugal
-[Sun Apr 8]
-  Yugoslavia - Turkey  2-1   @ Zagreb, Yugoslavia
-[Sun Apr 15]
-  France - Belgium  2-3   @ Colombes, France
-  Portugal - Italy  4-1   @ Porto, Portugal
-  Romania - Turkey  4-2   @ Arad, Romania
-  Switzerland - Germany  2-3   @ Bern, Switzerland
-  Uganda - Kenya  4-0   @ Kampala, Uganda
-[Sun Apr 22]
-  Netherlands - Denmark  2-0   @ Amsterdam, Netherlands
-  Spain - Italy  1-1   @ Gijón, Spain
-[Sun Apr 29]
-  France - Portugal  1-1   @ Paris, France
-[Sun May 6]
-  Austria - Yugoslavia  3-0   @ Vienna, Austria
-  Hungary - Austria  5-5   @ Budapest, Hungary
-  Switzerland - Netherlands  2-1   @ Basel, Switzerland
-  Yugoslavia - Romania  3-1   @ Belgrade, Yugoslavia
-[Sun May 13]
-  France - Czechoslovakia  0-2   @ Colombes, France
-[Thu May 17]
-  France - England  1-5   @ Colombes, France
-[Sat May 19]
-  Belgium - England  1-3   @ Antwerp, Belgium
-[Sun Jun 3]
-  Finland - Norway  0-6   @ Helsinki, Finland
-[Sun Jun 10]
-  Poland - United States  3-3   @ Warsaw, Poland
-[Thu Jun 14]
-  Netherlands - Egypt  1-2   @ Rotterdam, Netherlands
-[Thu Jun 28]
-  Luxembourg - Egypt  1-1   @ Esch-sur-Alzette, Luxembourg
-[Sun Jul 1]
-  Poland - Sweden  2-1   @ Katowice, Poland
-[Fri Jul 6]
-  Latvia - Sweden  0-4   @ Riga, Latvia
-[Mon Jul 9]
-  Estonia - Sweden  0-1   @ Tallinn, Estonia
-[Sun Jul 29]
-  Sweden - Austria  2-3   @ Stockholm, Sweden
-[Sun Aug 12]
-  Finland - Estonia  2-2   @ Helsinki, Finland
-[Wed Aug 15]
-  Paraguay - Uruguay  3-1   @ Asunción, Paraguay
-[Fri Aug 17]
-  Belarus - Switzerland  6-3   @ Moscow, Soviet Union
-[Sun Aug 19]
-  Belarus - Ukraine  2-6   @ Moscow, Soviet Union
-  Latvia - Finland  2-1   @ Riga, Latvia
-  Paraguay - Uruguay  1-1   @ Asunción, Paraguay
-[Wed Aug 22]
-  Belarus - Finland  1-2   @ Moscow, Soviet Union
-[Sat Sep 1]
-  Lithuania - Latvia  1-1   @ Kaunas, Lithuania
-[Sun Sep 2]
-  Finland - Sweden  2-3   @ Helsinki, Finland
-[Sun Sep 16]
-  Germany - Denmark  2-1   @ Nuremberg, Germany
-[Sun Sep 23]
-  Czechoslovakia - Hungary  6-1   @ Prague, Czechoslovakia
-  Latvia - Estonia  1-1   @ Riga, Latvia
-  Norway - Germany  0-2   @ Oslo, Norway
-[Sun Sep 30]
-  Sweden - Germany  2-0   @ Stockholm, Sweden
-[Sat Oct 27]
-  Czechoslovakia - Poland  3-2   @ Prague, Czechoslovakia
-[Sun Oct 28]
-  Czechoslovakia - Yugoslavia  7-1   @ Prague, Czechoslovakia
-[Sun Nov 4]
-  Netherlands - Belgium  1-1   @ Amsterdam, Netherlands
-[Sun Nov 11]
-  Italy - Austria  2-2   @ Rome, Italy
-[Sun Dec 2]
-  Italy - Netherlands  3-2   @ Milan, Italy
-[Fri Dec 7]
-  El Salvador - Honduras  5-0   @ San Salvador, El Salvador
+Sun Jan 8
+  Belgium              v Austria               1-2   @ Brussels, Belgium
+  Portugal             v Spain                 2-2   @ Lisbon, Portugal
+Sun Feb 12
+  Belgium              v Republic of Ireland   2-4   @ Liège, Belgium
+Tue Feb 21
+  France               v Northern Ireland      4-0   @ Montrouge, France
+Sun Mar 11
+  Netherlands          v Belgium               1-1   @ Amsterdam, Netherlands
+  Switzerland          v France                4-3   @ Lausanne, Switzerland
+Fri Mar 16
+  Guyana               v Trinidad and Tobago   1-1   @ Georgetown, British Guiana
+Sun Apr 1
+  Belgium              v Netherlands           1-0   @ Antwerp, Belgium
+  Portugal             v Argentina             0-0   @ Lisbon, Portugal
+Sun Apr 8
+  Yugoslavia           v Turkey                2-1   @ Zagreb, Yugoslavia
+Sun Apr 15
+  France               v Belgium               2-3   @ Colombes, France
+  Portugal             v Italy                 4-1   @ Porto, Portugal
+  Romania              v Turkey                4-2   @ Arad, Romania
+  Switzerland          v Germany               2-3   @ Bern, Switzerland
+  Uganda               v Kenya                 4-0   @ Kampala, Uganda
+Sun Apr 22
+  Netherlands          v Denmark               2-0   @ Amsterdam, Netherlands
+  Spain                v Italy                 1-1   @ Gijón, Spain
+Sun Apr 29
+  France               v Portugal              1-1   @ Paris, France
+Sun May 6
+  Austria              v Yugoslavia            3-0   @ Vienna, Austria
+  Hungary              v Austria               5-5   @ Budapest, Hungary
+  Switzerland          v Netherlands           2-1   @ Basel, Switzerland
+  Yugoslavia           v Romania               3-1   @ Belgrade, Yugoslavia
+Sun May 13
+  France               v Czechoslovakia        0-2   @ Colombes, France
+Thu May 17
+  France               v England               1-5   @ Colombes, France
+Sat May 19
+  Belgium              v England               1-3   @ Antwerp, Belgium
+Sun Jun 3
+  Finland              v Norway                0-6   @ Helsinki, Finland
+Sun Jun 10
+  Poland               v United States         3-3   @ Warsaw, Poland
+Thu Jun 14
+  Netherlands          v Egypt                 1-2   @ Rotterdam, Netherlands
+Thu Jun 28
+  Luxembourg           v Egypt                 1-1   @ Esch-sur-Alzette, Luxembourg
+Sun Jul 1
+  Poland               v Sweden                2-1   @ Katowice, Poland
+Fri Jul 6
+  Latvia               v Sweden                0-4   @ Riga, Latvia
+Mon Jul 9
+  Estonia              v Sweden                0-1   @ Tallinn, Estonia
+Sun Jul 29
+  Sweden               v Austria               2-3   @ Stockholm, Sweden
+Sun Aug 12
+  Finland              v Estonia               2-2   @ Helsinki, Finland
+Wed Aug 15
+  Paraguay             v Uruguay               3-1   @ Asunción, Paraguay
+Fri Aug 17
+  Belarus              v Switzerland           6-3   @ Moscow, Soviet Union
+Sun Aug 19
+  Belarus              v Ukraine               2-6   @ Moscow, Soviet Union
+  Latvia               v Finland               2-1   @ Riga, Latvia
+  Paraguay             v Uruguay               1-1   @ Asunción, Paraguay
+Wed Aug 22
+  Belarus              v Finland               1-2   @ Moscow, Soviet Union
+Sat Sep 1
+  Lithuania            v Latvia                1-1   @ Kaunas, Lithuania
+Sun Sep 2
+  Finland              v Sweden                2-3   @ Helsinki, Finland
+Sun Sep 16
+  Germany              v Denmark               2-1   @ Nuremberg, Germany
+Sun Sep 23
+  Czechoslovakia       v Hungary               6-1   @ Prague, Czechoslovakia
+  Latvia               v Estonia               1-1   @ Riga, Latvia
+  Norway               v Germany               0-2   @ Oslo, Norway
+Sun Sep 30
+  Sweden               v Germany               2-0   @ Stockholm, Sweden
+Sat Oct 27
+  Czechoslovakia       v Poland                3-2   @ Prague, Czechoslovakia
+Sun Oct 28
+  Czechoslovakia       v Yugoslavia            7-1   @ Prague, Czechoslovakia
+Sun Nov 4
+  Netherlands          v Belgium               1-1   @ Amsterdam, Netherlands
+Sun Nov 11
+  Italy                v Austria               2-2   @ Rome, Italy
+Sun Dec 2
+  Italy                v Netherlands           3-2   @ Milan, Italy
+Fri Dec 7
+  El Salvador          v Honduras              5-0   @ San Salvador, El Salvador
 

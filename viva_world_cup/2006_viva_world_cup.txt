@@ -1,19 +1,19 @@
 = Viva World Cup 2006
 
-# Date       Mon Nov/20 - Fri Nov/24 2006 (4d)
+# Date       Mon Nov 20 - Fri Nov 24 2006 (4d)
 # Teams      4
 # Matches    8
 
-[Mon Nov 20]
-  Monaco - Ambazonia  3-0   @ Costebelle, France
-  Occitania - Sápmi  0-7   @ Costebelle, France
-[Tue Nov 21]
-  Sápmi - Ambazonia  3-0   @ Costebelle, France
-  Occitania - Monaco  2-3   @ Hyères, France
-[Thu Nov 23]
-  Occitania - Ambazonia  3-0   @ Hyères, France
-  Sápmi - Monaco  14-0   @ Hyères, France
-[Fri Nov 24]
-  Occitania - Ambazonia  3-0   @ Hyères, France
-  Sápmi - Monaco  21-1   @ Hyères, France
+Mon Nov 20
+  Monaco               v Ambazonia             3-0   @ Costebelle, France
+  Occitania            v Sápmi                 0-7   @ Costebelle, France
+Tue Nov 21
+  Sápmi                v Ambazonia             3-0   @ Costebelle, France
+  Occitania            v Monaco                2-3   @ Hyères, France
+Thu Nov 23
+  Occitania            v Ambazonia             3-0   @ Hyères, France
+  Sápmi                v Monaco                14-0   @ Hyères, France
+Fri Nov 24
+  Occitania            v Ambazonia             3-0   @ Hyères, France
+  Sápmi                v Monaco                21-1   @ Hyères, France
 

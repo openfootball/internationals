@@ -1,16 +1,16 @@
 = Gold Cup qualification 1999
 
-# Date       Wed Oct/6 - Sun Oct/10 1999 (4d)
+# Date       Wed Oct 6 - Sun Oct 10 1999 (4d)
 # Teams      4
 # Matches    6
 
-[Wed Oct 6]
-  Canada - Cuba  0-0   @ Los Angeles, United States
-  El Salvador - Haiti  1-1   @ Los Angeles, United States
-[Fri Oct 8]
-  Canada - El Salvador  2-1   @ Los Angeles, United States
-  Cuba - Haiti  0-1   @ Los Angeles, United States
-[Sun Oct 10]
-  Canada - Haiti  2-1   @ Los Angeles, United States
-  Cuba - El Salvador  3-1   @ Los Angeles, United States
+Wed Oct 6
+  Canada               v Cuba                  0-0   @ Los Angeles, United States
+  El Salvador          v Haiti                 1-1   @ Los Angeles, United States
+Fri Oct 8
+  Canada               v El Salvador           2-1   @ Los Angeles, United States
+  Cuba                 v Haiti                 0-1   @ Los Angeles, United States
+Sun Oct 10
+  Canada               v Haiti                 2-1   @ Los Angeles, United States
+  Cuba                 v El Salvador           3-1   @ Los Angeles, United States
 

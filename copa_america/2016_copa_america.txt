@@ -1,98 +1,98 @@
 = Copa América 2016
 
-# Date       Fri Jun/3 - Sun Jun/26 2016 (23d)
+# Date       Fri Jun 3 - Sun Jun 26 2016 (23d)
 # Teams      16
 # Matches    32
 
-[Fri Jun 3]
-  United States - Colombia  0-2   @ Santa Clara, United States
-     -; Cristián Zapata 8' James Rodríguez 42' (pen.)
-[Sat Jun 4]
-  Brazil - Ecuador  0-0   @ Pasadena, United States
-  Costa Rica - Paraguay  0-0   @ Orlando, United States
-  Haiti - Peru  0-1   @ Seattle, United States
-     -; Paolo Guerrero 61'
-[Sun Jun 5]
-  Jamaica - Venezuela  0-1   @ Chicago, United States
-     -; Josef Martínez 15'
-  Mexico - Uruguay  3-1   @ Glendale, United States
-     Álvaro Pereira 4' (o.g.) Rafael Márquez 85' Héctor Herrera 90';
-     Diego Godín 74'
-[Mon Jun 6]
-  Argentina - Chile  2-1   @ Santa Clara, United States
-     Ángel Di María 51' Éver Banega 59';
-     José Pedro Fuenzalida 90'
-  Panama - Bolivia  2-1   @ Orlando, United States
-     Blas Pérez 11' Blas Pérez 87';
-     Juan Carlos Arce 54'
-[Tue Jun 7]
-  Colombia - Paraguay  2-1   @ Pasadena, United States
-     Carlos Bacca 12' James Rodríguez 30';
-     Víctor Ayala 71'
-  United States - Costa Rica  4-0   @ Chicago, United States
-     Clint Dempsey 9' (pen.) Jermaine Jones 37' Bobby Wood 42' Graham Zusi 87'
-[Wed Jun 8]
-  Brazil - Haiti  7-1   @ Orlando, United States
-     Philippe Coutinho 14' Philippe Coutinho 29' Renato Augusto 35' Gabriel Barbosa 59' Lucas Lima 67' Renato Augusto 86' Philippe Coutinho 90';
-     James Marcelin 70'
-  Ecuador - Peru  2-2   @ Glendale, United States
-     Enner Valencia 39' Miller Bolaños 49';
-     Christian Cueva 5' Edison Flores 13'
-[Thu Jun 9]
-  Mexico - Jamaica  2-0   @ Pasadena, United States
-     Javier Hernández 18' Oribe Peralta 81'
-  Uruguay - Venezuela  0-1   @ Philadelphia, United States
-     -; Salomón Rondón 36'
-[Fri Jun 10]
-  Argentina - Panama  5-0   @ Chicago, United States
-     Nicolás Otamendi 7' Lionel Messi 68' Lionel Messi 78' Lionel Messi 87' Sergio Agüero 90'
-  Chile - Bolivia  2-1   @ Foxborough, United States
-     Arturo Vidal 46' Arturo Vidal 90' (pen.);
-     Jhasmani Campos 61'
-[Sat Jun 11]
-  Colombia - Costa Rica  2-3   @ Houston, United States
-     Frank Fabra 6' Marlos Moreno 73';
-     Johan Venegas 2' Frank Fabra 34' (o.g.) Celso Borges 58'
-  United States - Paraguay  1-0   @ Philadelphia, United States
-     Clint Dempsey 27'
-[Sun Jun 12]
-  Brazil - Peru  0-1   @ Foxborough, United States
-     -; Raúl Ruidíaz 75'
-  Ecuador - Haiti  4-0   @ East Rutherford, United States
-     Enner Valencia 11' Jaime Ayoví 20' Christian Noboa 57' Antonio Valencia 78'
-[Mon Jun 13]
-  Mexico - Venezuela  1-1   @ Houston, United States
-     Jesús Manuel Corona 80';
-     José Manuel Velázquez 10'
-  Uruguay - Jamaica  3-0   @ Santa Clara, United States
-     Abel Hernández 21' Je-Vaughn Watson 66' (o.g.) Mathías Corujo 88'
-[Tue Jun 14]
-  Argentina - Bolivia  3-0   @ Seattle, United States
-     Erik Lamela 13' Ezequiel Lavezzi 15' Víctor Cuesta 32'
-  Chile - Panama  4-2   @ Philadelphia, United States
-     Eduardo Vargas 15' Eduardo Vargas 43' Alexis Sánchez 50' Alexis Sánchez 89';
-     Miguel Camargo 5' Abdiel Arroyo 75'
-[Thu Jun 16]
-  United States - Ecuador  2-1   @ Seattle, United States
-     Clint Dempsey 22' Gyasi Zardes 65';
-     Michael Arroyo 74'
-[Fri Jun 17]
-  Peru - Colombia  0-0   @ East Rutherford, United States   [Colombia wins on penalties]
-[Sat Jun 18]
-  Argentina - Venezuela  4-1   @ Foxborough, United States
-     Gonzalo Higuaín 8' Gonzalo Higuaín 28' Lionel Messi 60' Erik Lamela 71';
-     Salomón Rondón 70'
-  Mexico - Chile  0-7   @ Santa Clara, United States
-     -; Edson Puch 15' Eduardo Vargas 43' Alexis Sánchez 48' Eduardo Vargas 51' Eduardo Vargas 57' Eduardo Vargas 73' Edson Puch 87'
-[Tue Jun 21]
-  United States - Argentina  0-4   @ Houston, United States
-     -; Ezequiel Lavezzi 3' Lionel Messi 32' Gonzalo Higuaín 50' Gonzalo Higuaín 86'
-[Wed Jun 22]
-  Colombia - Chile  0-2   @ Chicago, United States
-     -; Charles Aránguiz 6' José Pedro Fuenzalida 10'
-[Sat Jun 25]
-  United States - Colombia  0-1   @ Glendale, United States
-     -; Carlos Bacca 31'
-[Sun Jun 26]
-  Argentina - Chile  0-0   @ East Rutherford, United States   [Chile wins on penalties]
+Fri Jun 3
+  United States        v Colombia              0-2   @ Santa Clara, United States
+     (Cristián Zapata 8' James Rodríguez 42'(p))
+Sat Jun 4
+  Brazil               v Ecuador               0-0   @ Pasadena, United States
+  Costa Rica           v Paraguay              0-0   @ Orlando, United States
+  Haiti                v Peru                  0-1   @ Seattle, United States
+     (Paolo Guerrero 61')
+Sun Jun 5
+  Jamaica              v Venezuela             0-1   @ Chicago, United States
+     (Josef Martínez 15')
+  Mexico               v Uruguay               3-1   @ Glendale, United States
+     (Álvaro Pereira 4'(og) Rafael Márquez 85' Héctor Herrera 90';
+      Diego Godín 74')
+Mon Jun 6
+  Argentina            v Chile                 2-1   @ Santa Clara, United States
+     (Ángel Di María 51' Éver Banega 59';
+      José Pedro Fuenzalida 90')
+  Panama               v Bolivia               2-1   @ Orlando, United States
+     (Blas Pérez 11' Blas Pérez 87';
+      Juan Carlos Arce 54')
+Tue Jun 7
+  Colombia             v Paraguay              2-1   @ Pasadena, United States
+     (Carlos Bacca 12' James Rodríguez 30';
+      Víctor Ayala 71')
+  United States        v Costa Rica            4-0   @ Chicago, United States
+     (Clint Dempsey 9'(p) Jermaine Jones 37' Bobby Wood 42' Graham Zusi 87')
+Wed Jun 8
+  Brazil               v Haiti                 7-1   @ Orlando, United States
+     (Philippe Coutinho 14' Philippe Coutinho 29' Renato Augusto 35' Gabriel Barbosa 59' Lucas Lima 67' Renato Augusto 86' Philippe Coutinho 90';
+      James Marcelin 70')
+  Ecuador              v Peru                  2-2   @ Glendale, United States
+     (Enner Valencia 39' Miller Bolaños 49';
+      Christian Cueva 5' Edison Flores 13')
+Thu Jun 9
+  Mexico               v Jamaica               2-0   @ Pasadena, United States
+     (Javier Hernández 18' Oribe Peralta 81')
+  Uruguay              v Venezuela             0-1   @ Philadelphia, United States
+     (Salomón Rondón 36')
+Fri Jun 10
+  Argentina            v Panama                5-0   @ Chicago, United States
+     (Nicolás Otamendi 7' Lionel Messi 68' Lionel Messi 78' Lionel Messi 87' Sergio Agüero 90')
+  Chile                v Bolivia               2-1   @ Foxborough, United States
+     (Arturo Vidal 46' Arturo Vidal 90'(p);
+      Jhasmani Campos 61')
+Sat Jun 11
+  Colombia             v Costa Rica            2-3   @ Houston, United States
+     (Frank Fabra 6' Marlos Moreno 73';
+      Johan Venegas 2' Frank Fabra 34'(og) Celso Borges 58')
+  United States        v Paraguay              1-0   @ Philadelphia, United States
+     (Clint Dempsey 27')
+Sun Jun 12
+  Brazil               v Peru                  0-1   @ Foxborough, United States
+     (Raúl Ruidíaz 75')
+  Ecuador              v Haiti                 4-0   @ East Rutherford, United States
+     (Enner Valencia 11' Jaime Ayoví 20' Christian Noboa 57' Antonio Valencia 78')
+Mon Jun 13
+  Mexico               v Venezuela             1-1   @ Houston, United States
+     (Jesús Manuel Corona 80';
+      José Manuel Velázquez 10')
+  Uruguay              v Jamaica               3-0   @ Santa Clara, United States
+     (Abel Hernández 21' Je-Vaughn Watson 66'(og) Mathías Corujo 88')
+Tue Jun 14
+  Argentina            v Bolivia               3-0   @ Seattle, United States
+     (Erik Lamela 13' Ezequiel Lavezzi 15' Víctor Cuesta 32')
+  Chile                v Panama                4-2   @ Philadelphia, United States
+     (Eduardo Vargas 15' Eduardo Vargas 43' Alexis Sánchez 50' Alexis Sánchez 89';
+      Miguel Camargo 5' Abdiel Arroyo 75')
+Thu Jun 16
+  United States        v Ecuador               2-1   @ Seattle, United States
+     (Clint Dempsey 22' Gyasi Zardes 65';
+      Michael Arroyo 74')
+Fri Jun 17
+  Peru                 v Colombia              0-0   @ East Rutherford, United States   [Colombia wins on penalties]
+Sat Jun 18
+  Argentina            v Venezuela             4-1   @ Foxborough, United States
+     (Gonzalo Higuaín 8' Gonzalo Higuaín 28' Lionel Messi 60' Erik Lamela 71';
+      Salomón Rondón 70')
+  Mexico               v Chile                 0-7   @ Santa Clara, United States
+     (Edson Puch 15' Eduardo Vargas 43' Alexis Sánchez 48' Eduardo Vargas 51' Eduardo Vargas 57' Eduardo Vargas 73' Edson Puch 87')
+Tue Jun 21
+  United States        v Argentina             0-4   @ Houston, United States
+     (Ezequiel Lavezzi 3' Lionel Messi 32' Gonzalo Higuaín 50' Gonzalo Higuaín 86')
+Wed Jun 22
+  Colombia             v Chile                 0-2   @ Chicago, United States
+     (Charles Aránguiz 6' José Pedro Fuenzalida 10')
+Sat Jun 25
+  United States        v Colombia              0-1   @ Glendale, United States
+     (Carlos Bacca 31')
+Sun Jun 26
+  Argentina            v Chile                 0-0   @ East Rutherford, United States   [Chile wins on penalties]
 

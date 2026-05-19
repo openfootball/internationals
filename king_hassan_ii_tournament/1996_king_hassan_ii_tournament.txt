@@ -1,13 +1,13 @@
 = King Hassan II Tournament 1996
 
-# Date       Wed Dec/11 - Thu Dec/12 1996 (1d)
+# Date       Wed Dec 11 - Thu Dec 12 1996 (1d)
 # Teams      4
 # Matches    4
 
-[Wed Dec 11]
-  Czech Republic - Nigeria  2-1   @ Casablanca, Morocco
-  Morocco - Croatia  2-2   @ Casablanca, Morocco   [Croatia wins on penalties]
-[Thu Dec 12]
-  Croatia - Czech Republic  1-1   @ Casablanca, Morocco   [Croatia wins on penalties]
-  Morocco - Nigeria  2-0   @ Casablanca, Morocco
+Wed Dec 11
+  Czech Republic       v Nigeria               2-1   @ Casablanca, Morocco
+  Morocco              v Croatia               2-2   @ Casablanca, Morocco   [Croatia wins on penalties]
+Thu Dec 12
+  Croatia              v Czech Republic        1-1   @ Casablanca, Morocco   [Croatia wins on penalties]
+  Morocco              v Nigeria               2-0   @ Casablanca, Morocco
 

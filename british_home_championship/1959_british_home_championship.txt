@@ -1,17 +1,17 @@
 = British Home Championship 1959
 
-# Date       Sat Apr/11 - Wed Nov/18 1959 (221d)
+# Date       Sat Apr 11 - Wed Nov 18 1959 (221d)
 # Teams      4
 # Matches    5
 
-[Sat Apr 11]
-  England - Scotland  1-0   @ London, England
-[Wed Apr 22]
-  Northern Ireland - Wales  4-1   @ Belfast, Northern Ireland
-[Sat Oct 3]
-  Northern Ireland - Scotland  0-4   @ Belfast, Northern Ireland
-[Sat Oct 17]
-  Wales - England  1-1   @ Cardiff, Wales
-[Wed Nov 18]
-  England - Northern Ireland  2-1   @ London, England
+Sat Apr 11
+  England              v Scotland              1-0   @ London, England
+Wed Apr 22
+  Northern Ireland     v Wales                 4-1   @ Belfast, Northern Ireland
+Sat Oct 3
+  Northern Ireland     v Scotland              0-4   @ Belfast, Northern Ireland
+Sat Oct 17
+  Wales                v England               1-1   @ Cardiff, Wales
+Wed Nov 18
+  England              v Northern Ireland      2-1   @ London, England
 

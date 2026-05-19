@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1921
 
-# Date       Mon May/30 - Wed Jun/1 1921 (2d)
+# Date       Mon May 30 - Wed Jun 1 1921 (2d)
 # Teams      3
 # Matches    3
 
-[Mon May 30]
-  Philippines - Japan  3-1   @ Shanghai, China PR
-[Tue May 31]
-  China PR - Philippines  1-0   @ Shanghai, China PR
-[Wed Jun 1]
-  China PR - Japan  4-0   @ Shanghai, China PR
+Mon May 30
+  Philippines          v Japan                 3-1   @ Shanghai, China PR
+Tue May 31
+  China PR             v Philippines           1-0   @ Shanghai, China PR
+Wed Jun 1
+  China PR             v Japan                 4-0   @ Shanghai, China PR
 

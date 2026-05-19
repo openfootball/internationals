@@ -1,93 +1,93 @@
 = FIFA World Cup 1962
 
-# Date       Wed May/30 - Sun Jun/17 1962 (18d)
+# Date       Wed May 30 - Sun Jun 17 1962 (18d)
 # Teams      16
 # Matches    32
 
-[Wed May 30]
-  Argentina - Bulgaria  1-0   @ Rancagua, Chile
-     Héctor Facundo 4'
-  Brazil - Mexico  2-0   @ Viña del Mar, Chile
-     Mário Zagallo 56' Pelé 73'
-  Chile - Switzerland  3-1   @ Santiago, Chile
-     Leonel Sánchez 44' Jaime Ramírez 51' Leonel Sánchez 55';
-     Rolf Wüthrich 6'
-  Colombia - Uruguay  1-2   @ Arica, Chile
-     Francisco Zuluaga 19' (pen.);
-     Luis Cubilla 56' José Sasía 75'
-[Thu May 31]
-  Czechoslovakia - Spain  1-0   @ Viña del Mar, Chile
-     Jozef Štibrányi 80'
-  England - Hungary  1-2   @ Rancagua, Chile
-     Ron Flowers 60' (pen.);
-     Lajos Tichy 17' Flórián Albert 71'
-  Germany - Italy  0-0   @ Santiago, Chile
-  Russia - Yugoslavia  2-0   @ Arica, Chile
-     Valentin Kozmich Ivanov 51' Viktor Ponedelnik 83'
-[Sat Jun 2]
-  Argentina - England  1-3   @ Rancagua, Chile
-     José Sanfilippo 81';
-     Ron Flowers 17' (pen.) Bobby Charlton 42' Jimmy Greaves 67'
-  Brazil - Czechoslovakia  0-0   @ Viña del Mar, Chile
-  Chile - Italy  2-0   @ Santiago, Chile
-     Jaime Ramírez 73' Jorge Toro 87'
-  Uruguay - Yugoslavia  1-3   @ Arica, Chile
-     Ángel Cabrera 19';
-     Josip Skoblar 25' (pen.) Milan Galić 29' Dražan Jerković 49'
-[Sun Jun 3]
-  Bulgaria - Hungary  1-6   @ Rancagua, Chile
-     Georgi Sokolov 64';
-     Flórián Albert 1' Flórián Albert 6' Lajos Tichy 8' Ernő Solymosi 12' Flórián Albert 53' Lajos Tichy 70'
-  Colombia - Russia  4-4   @ Arica, Chile
-     Germán Aceros 21' Marcos Coll 68' Antonio Rada 72' Marino Klinger 86';
-     Valentin Kozmich Ivanov 8' Igor Chislenko 10' Valentin Kozmich Ivanov 11' Viktor Ponedelnik 56'
-  Germany - Switzerland  2-1   @ Santiago, Chile
-     Albert Brülls 45' Uwe Seeler 59';
-     Heinz Schneiter 73'
-  Mexico - Spain  0-1   @ Viña del Mar, Chile
-     -; Joaquín Peiró 90'
-[Wed Jun 6]
-  Argentina - Hungary  0-0   @ Rancagua, Chile
-  Brazil - Spain  2-1   @ Viña del Mar, Chile
-     Amarildo Tavares da Silveira 72' Amarildo Tavares da Silveira 86';
-     Adelardo Rodríguez 35'
-  Chile - Germany  0-2   @ Santiago, Chile
-     -; Horst Szymaniak 21' (pen.) Uwe Seeler 82'
-  Russia - Uruguay  2-1   @ Arica, Chile
-     Aleksei Mamykin 38' Valentin Kozmich Ivanov 89';
-     José Sasía 54'
-[Thu Jun 7]
-  Bulgaria - England  0-0   @ Rancagua, Chile
-  Colombia - Yugoslavia  0-5   @ Arica, Chile
-     -; Milan Galić 20' Dražan Jerković 25' Milan Galić 61' Vojislav Melić 82' Dražan Jerković 87'
-  Czechoslovakia - Mexico  1-3   @ Viña del Mar, Chile
-     Václav Mašek 1';
-     Isidoro Díaz 12' Alfredo del Águila 29' Héctor Hernández 90' (pen.)
-  Italy - Switzerland  3-0   @ Santiago, Chile
-     Bruno Mora 2' Giacomo Bulgarelli 65' Giacomo Bulgarelli 67'
-[Sun Jun 10]
-  Brazil - England  3-1   @ Viña del Mar, Chile
-     Garrincha 31' Vavá 53' Garrincha 59';
-     Gerry Hitchens 38'
-  Chile - Russia  2-1   @ Arica, Chile
-     Leonel Sánchez 11' Eladio Rojas 29';
-     Igor Chislenko 26'
-  Czechoslovakia - Hungary  1-0   @ Rancagua, Chile
-     Adolf Scherer 13'
-  Germany - Yugoslavia  0-1   @ Santiago, Chile
-     -; Petar Radaković 85'
-[Wed Jun 13]
-  Chile - Brazil  2-4   @ Santiago, Chile
-     Jorge Toro 42' Leonel Sánchez 61' (pen.);
-     Garrincha 9' Garrincha 32' Vavá 47' Vavá 78'
-  Czechoslovakia - Yugoslavia  3-1   @ Viña del Mar, Chile
-     Josef Kadraba 48' Adolf Scherer 80' Adolf Scherer 84' (pen.);
-     Dražan Jerković 69'
-[Sat Jun 16]
-  Chile - Yugoslavia  1-0   @ Santiago, Chile
-     Eladio Rojas 90'
-[Sun Jun 17]
-  Brazil - Czechoslovakia  3-1   @ Santiago, Chile
-     Amarildo Tavares da Silveira 17' Zito 69' Vavá 78';
-     Josef Masopust 15'
+Wed May 30
+  Argentina            v Bulgaria              1-0   @ Rancagua, Chile
+     (Héctor Facundo 4')
+  Brazil               v Mexico                2-0   @ Viña del Mar, Chile
+     (Mário Zagallo 56' Pelé 73')
+  Chile                v Switzerland           3-1   @ Santiago, Chile
+     (Leonel Sánchez 44' Jaime Ramírez 51' Leonel Sánchez 55';
+      Rolf Wüthrich 6')
+  Colombia             v Uruguay               1-2   @ Arica, Chile
+     (Francisco Zuluaga 19'(p);
+      Luis Cubilla 56' José Sasía 75')
+Thu May 31
+  Czechoslovakia       v Spain                 1-0   @ Viña del Mar, Chile
+     (Jozef Štibrányi 80')
+  England              v Hungary               1-2   @ Rancagua, Chile
+     (Ron Flowers 60'(p);
+      Lajos Tichy 17' Flórián Albert 71')
+  Germany              v Italy                 0-0   @ Santiago, Chile
+  Russia               v Yugoslavia            2-0   @ Arica, Chile
+     (Valentin Kozmich Ivanov 51' Viktor Ponedelnik 83')
+Sat Jun 2
+  Argentina            v England               1-3   @ Rancagua, Chile
+     (José Sanfilippo 81';
+      Ron Flowers 17'(p) Bobby Charlton 42' Jimmy Greaves 67')
+  Brazil               v Czechoslovakia        0-0   @ Viña del Mar, Chile
+  Chile                v Italy                 2-0   @ Santiago, Chile
+     (Jaime Ramírez 73' Jorge Toro 87')
+  Uruguay              v Yugoslavia            1-3   @ Arica, Chile
+     (Ángel Cabrera 19';
+      Josip Skoblar 25'(p) Milan Galić 29' Dražan Jerković 49')
+Sun Jun 3
+  Bulgaria             v Hungary               1-6   @ Rancagua, Chile
+     (Georgi Sokolov 64';
+      Flórián Albert 1' Flórián Albert 6' Lajos Tichy 8' Ernő Solymosi 12' Flórián Albert 53' Lajos Tichy 70')
+  Colombia             v Russia                4-4   @ Arica, Chile
+     (Germán Aceros 21' Marcos Coll 68' Antonio Rada 72' Marino Klinger 86';
+      Valentin Kozmich Ivanov 8' Igor Chislenko 10' Valentin Kozmich Ivanov 11' Viktor Ponedelnik 56')
+  Germany              v Switzerland           2-1   @ Santiago, Chile
+     (Albert Brülls 45' Uwe Seeler 59';
+      Heinz Schneiter 73')
+  Mexico               v Spain                 0-1   @ Viña del Mar, Chile
+     (Joaquín Peiró 90')
+Wed Jun 6
+  Argentina            v Hungary               0-0   @ Rancagua, Chile
+  Brazil               v Spain                 2-1   @ Viña del Mar, Chile
+     (Amarildo Tavares da Silveira 72' Amarildo Tavares da Silveira 86';
+      Adelardo Rodríguez 35')
+  Chile                v Germany               0-2   @ Santiago, Chile
+     (Horst Szymaniak 21'(p) Uwe Seeler 82')
+  Russia               v Uruguay               2-1   @ Arica, Chile
+     (Aleksei Mamykin 38' Valentin Kozmich Ivanov 89';
+      José Sasía 54')
+Thu Jun 7
+  Bulgaria             v England               0-0   @ Rancagua, Chile
+  Colombia             v Yugoslavia            0-5   @ Arica, Chile
+     (Milan Galić 20' Dražan Jerković 25' Milan Galić 61' Vojislav Melić 82' Dražan Jerković 87')
+  Czechoslovakia       v Mexico                1-3   @ Viña del Mar, Chile
+     (Václav Mašek 1';
+      Isidoro Díaz 12' Alfredo del Águila 29' Héctor Hernández 90'(p))
+  Italy                v Switzerland           3-0   @ Santiago, Chile
+     (Bruno Mora 2' Giacomo Bulgarelli 65' Giacomo Bulgarelli 67')
+Sun Jun 10
+  Brazil               v England               3-1   @ Viña del Mar, Chile
+     (Garrincha 31' Vavá 53' Garrincha 59';
+      Gerry Hitchens 38')
+  Chile                v Russia                2-1   @ Arica, Chile
+     (Leonel Sánchez 11' Eladio Rojas 29';
+      Igor Chislenko 26')
+  Czechoslovakia       v Hungary               1-0   @ Rancagua, Chile
+     (Adolf Scherer 13')
+  Germany              v Yugoslavia            0-1   @ Santiago, Chile
+     (Petar Radaković 85')
+Wed Jun 13
+  Chile                v Brazil                2-4   @ Santiago, Chile
+     (Jorge Toro 42' Leonel Sánchez 61'(p);
+      Garrincha 9' Garrincha 32' Vavá 47' Vavá 78')
+  Czechoslovakia       v Yugoslavia            3-1   @ Viña del Mar, Chile
+     (Josef Kadraba 48' Adolf Scherer 80' Adolf Scherer 84'(p);
+      Dražan Jerković 69')
+Sat Jun 16
+  Chile                v Yugoslavia            1-0   @ Santiago, Chile
+     (Eladio Rojas 90')
+Sun Jun 17
+  Brazil               v Czechoslovakia        3-1   @ Santiago, Chile
+     (Amarildo Tavares da Silveira 17' Zito 69' Vavá 78';
+      Josef Masopust 15')
 

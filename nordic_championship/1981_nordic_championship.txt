@@ -1,17 +1,17 @@
 = Nordic Championship 1981
 
-# Date       Thu May/14 - Wed Sep/23 1981 (132d)
+# Date       Thu May 14 - Wed Sep 23 1981 (132d)
 # Teams      4
 # Matches    5
 
-[Thu May 14]
-  Sweden - Denmark  1-2   @ Malmö, Sweden
-[Thu Jul 2]
-  Finland - Norway  3-1   @ Helsinki, Finland
-[Wed Jul 29]
-  Sweden - Finland  1-0   @ Halmstad, Sweden
-[Wed Aug 12]
-  Finland - Denmark  1-2   @ Tampere, Finland
-[Wed Sep 23]
-  Denmark - Norway  2-1   @ Copenhagen, Denmark
+Thu May 14
+  Sweden               v Denmark               1-2   @ Malmö, Sweden
+Thu Jul 2
+  Finland              v Norway                3-1   @ Helsinki, Finland
+Wed Jul 29
+  Sweden               v Finland               1-0   @ Halmstad, Sweden
+Wed Aug 12
+  Finland              v Denmark               1-2   @ Tampere, Finland
+Wed Sep 23
+  Denmark              v Norway                2-1   @ Copenhagen, Denmark
 

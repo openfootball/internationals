@@ -1,17 +1,17 @@
 = Cyprus International Tournament 1998
 
-# Date       Thu Feb/5 - Mon Feb/9 1998 (4d)
+# Date       Thu Feb 5 - Mon Feb 9 1998 (4d)
 # Teams      5
 # Matches    6
 
-[Thu Feb 5]
-  Cyprus - Finland  1-1   @ Limassol, Cyprus
-  Iceland - Slovenia  2-3   @ Limassol, Cyprus
-[Fri Feb 6]
-  Slovenia - Slovakia  1-1   @ Limassol, Cyprus
-[Sat Feb 7]
-  Iceland - Slovakia  1-2   @ Limassol, Cyprus
-[Mon Feb 9]
-  Cyprus - Slovenia  1-0   @ Limassol, Cyprus
-  Finland - Slovakia  0-2   @ Larnaca, Cyprus
+Thu Feb 5
+  Cyprus               v Finland               1-1   @ Limassol, Cyprus
+  Iceland              v Slovenia              2-3   @ Limassol, Cyprus
+Fri Feb 6
+  Slovenia             v Slovakia              1-1   @ Limassol, Cyprus
+Sat Feb 7
+  Iceland              v Slovakia              1-2   @ Limassol, Cyprus
+Mon Feb 9
+  Cyprus               v Slovenia              1-0   @ Limassol, Cyprus
+  Finland              v Slovakia              0-2   @ Larnaca, Cyprus
 

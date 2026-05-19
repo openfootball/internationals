@@ -1,25 +1,25 @@
 = SAFF Cup 1999
 
-# Date       Thu Apr/22 - Sat May/1 1999 (9d)
+# Date       Thu Apr 22 - Sat May 1 1999 (9d)
 # Teams      6
 # Matches    10
 
-[Thu Apr 22]
-  India - Bangladesh  0-0   @ Margao, India
-[Fri Apr 23]
-  Sri Lanka - Maldives  0-0   @ Margao, India
-[Sat Apr 24]
-  Pakistan - Bangladesh  0-4   @ Margao, India
-[Sun Apr 25]
-  Sri Lanka - Nepal  2-3   @ Margao, India
-[Mon Apr 26]
-  India - Pakistan  2-0   @ Margao, India
-[Tue Apr 27]
-  Nepal - Maldives  2-3   @ Margao, India
-[Thu Apr 29]
-  Bangladesh - Nepal  2-1   @ Margao, India
-  India - Maldives  2-1   @ Margao, India
-[Sat May 1]
-  India - Bangladesh  2-0   @ Margao, India
-  Maldives - Nepal  2-0   @ Margao, India
+Thu Apr 22
+  India                v Bangladesh            0-0   @ Margao, India
+Fri Apr 23
+  Sri Lanka            v Maldives              0-0   @ Margao, India
+Sat Apr 24
+  Pakistan             v Bangladesh            0-4   @ Margao, India
+Sun Apr 25
+  Sri Lanka            v Nepal                 2-3   @ Margao, India
+Mon Apr 26
+  India                v Pakistan              2-0   @ Margao, India
+Tue Apr 27
+  Nepal                v Maldives              2-3   @ Margao, India
+Thu Apr 29
+  Bangladesh           v Nepal                 2-1   @ Margao, India
+  India                v Maldives              2-1   @ Margao, India
+Sat May 1
+  India                v Bangladesh            2-0   @ Margao, India
+  Maldives             v Nepal                 2-0   @ Margao, India
 

@@ -1,46 +1,46 @@
 = Friendly 1920
 
-# Date       Sun Jan/18 - Sun Nov/7 1920 (294d)
+# Date       Sun Jan 18 - Sun Nov 7 1920 (294d)
 # Teams      15
 # Matches    21
 
-[Sun Jan 18]
-  Italy - France  9-4   @ Milan, Italy
-[Sun Feb 29]
-  Switzerland - France  0-2   @ Geneva, Switzerland
-[Sun Mar 28]
-  France - Belgium  2-1   @ Paris, France
-  Switzerland - Italy  3-0   @ Bern, Switzerland
-[Mon Apr 5]
-  Netherlands - Denmark  2-0   @ Amsterdam, Netherlands
-[Sun May 2]
-  Austria - Hungary  2-2   @ Vienna, Austria
-[Thu May 13]
-  Italy - Netherlands  1-1   @ Genoa, Italy
-[Sun May 16]
-  Switzerland - Netherlands  2-1   @ Basel, Switzerland
-[Sun May 30]
-  Sweden - Finland  4-0   @ Stockholm, Sweden
-[Sun Jun 6]
-  Sweden - Switzerland  0-1   @ Stockholm, Sweden
-[Sun Jun 13]
-  Norway - Denmark  1-1   @ Kristiania, Norway
-[Sun Jun 27]
-  Norway - Sweden  0-3   @ Kristiania, Norway
-  Switzerland - Germany  4-1   @ Zürich, Switzerland
-[Fri Sep 3]
-  Egypt - Yugoslavia  4-2   @ Antwerp, Belgium
-[Sun Sep 19]
-  Finland - Sweden  1-0   @ Helsinki, Finland
-[Sun Sep 26]
-  Austria - Germany  3-2   @ Vienna, Austria
-  Sweden - Norway  0-0   @ Stockholm, Sweden
-[Sun Oct 10]
-  Sweden - Denmark  0-2   @ Stockholm, Sweden
-[Sun Oct 17]
-  Finland - Estonia  6-0   @ Helsinki, Finland
-[Sun Oct 24]
-  Germany - Hungary  1-0   @ Berlin, Germany
-[Sun Nov 7]
-  Hungary - Austria  1-2   @ Budapest, Hungary
+Sun Jan 18
+  Italy                v France                9-4   @ Milan, Italy
+Sun Feb 29
+  Switzerland          v France                0-2   @ Geneva, Switzerland
+Sun Mar 28
+  France               v Belgium               2-1   @ Paris, France
+  Switzerland          v Italy                 3-0   @ Bern, Switzerland
+Mon Apr 5
+  Netherlands          v Denmark               2-0   @ Amsterdam, Netherlands
+Sun May 2
+  Austria              v Hungary               2-2   @ Vienna, Austria
+Thu May 13
+  Italy                v Netherlands           1-1   @ Genoa, Italy
+Sun May 16
+  Switzerland          v Netherlands           2-1   @ Basel, Switzerland
+Sun May 30
+  Sweden               v Finland               4-0   @ Stockholm, Sweden
+Sun Jun 6
+  Sweden               v Switzerland           0-1   @ Stockholm, Sweden
+Sun Jun 13
+  Norway               v Denmark               1-1   @ Kristiania, Norway
+Sun Jun 27
+  Norway               v Sweden                0-3   @ Kristiania, Norway
+  Switzerland          v Germany               4-1   @ Zürich, Switzerland
+Fri Sep 3
+  Egypt                v Yugoslavia            4-2   @ Antwerp, Belgium
+Sun Sep 19
+  Finland              v Sweden                1-0   @ Helsinki, Finland
+Sun Sep 26
+  Austria              v Germany               3-2   @ Vienna, Austria
+  Sweden               v Norway                0-0   @ Stockholm, Sweden
+Sun Oct 10
+  Sweden               v Denmark               0-2   @ Stockholm, Sweden
+Sun Oct 17
+  Finland              v Estonia               6-0   @ Helsinki, Finland
+Sun Oct 24
+  Germany              v Hungary               1-0   @ Berlin, Germany
+Sun Nov 7
+  Hungary              v Austria               1-2   @ Budapest, Hungary
 

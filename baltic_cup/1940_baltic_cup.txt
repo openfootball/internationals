@@ -1,13 +1,13 @@
 = Baltic Cup 1940
 
-# Date       Fri Sep/6 - Sun Sep/8 1940 (2d)
+# Date       Fri Sep 6 - Sun Sep 8 1940 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Sep 6]
-  Latvia - Lithuania  1-0   @ Riga, Soviet Union
-[Sat Sep 7]
-  Estonia - Lithuania  1-1   @ Riga, Soviet Union
-[Sun Sep 8]
-  Latvia - Estonia  2-2   @ Riga, Soviet Union
+Fri Sep 6
+  Latvia               v Lithuania             1-0   @ Riga, Soviet Union
+Sat Sep 7
+  Estonia              v Lithuania             1-1   @ Riga, Soviet Union
+Sun Sep 8
+  Latvia               v Estonia               2-2   @ Riga, Soviet Union
 

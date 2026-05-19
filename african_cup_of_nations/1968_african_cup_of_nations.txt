@@ -1,54 +1,54 @@
 = African Cup of Nations 1968
 
-# Date       Fri Jan/12 - Sun Jan/21 1968 (9d)
+# Date       Fri Jan 12 - Sun Jan 21 1968 (9d)
 # Teams      8
 # Matches    16
 
-[Fri Jan 12]
-  Algeria - Ivory Coast  0-3   @ Addis Ababa, Ethiopia
-     -; Jean-Louis Bozon 15' Laurent Pokou 25' Laurent Pokou 65'
-  Congo - DR Congo  0-3   @ Asmara, Ethiopia
-     -; Ignace Muwawa 19' Nicodème Kabamba 27' (pen.) Nicodème Kabamba 51'
-  Ethiopia - Uganda  2-1   @ Addis Ababa, Ethiopia
-     Girma Tekle ??' Luciano Vassallo ??' (pen.);
-     Polly Ouma ??'
-  Ghana - Senegal  2-2   @ Asmara, Ethiopia
-     Osei Kofi 63' Wilberforce Mfum 87';
-     Doudou Diongue 10' Yatma Diop 65'
-[Sun Jan 14]
-  Algeria - Uganda  4-0   @ Addis Ababa, Ethiopia
-     Hacène Lalmas 15' Hacène Lalmas 25' Mokhtar Kalem 60' Hacène Lalmas 70'
-  Congo - Senegal  1-2   @ Asmara, Ethiopia
-     Jean Foutika 31';
-     Yatma Diop 27' Yatma Diouck 86'
-  DR Congo - Ghana  1-2   @ Asmara, Ethiopia
-     Saio Ernest Mokili 42';
-     Osei Kofi 17' (pen.) Wilberforce Mfum 84'
-  Ethiopia - Ivory Coast  1-0   @ Addis Ababa, Ethiopia
-     Bekuretsion Gebre-Hiwot 86'
-[Tue Jan 16]
-  Congo - Ghana  1-3   @ Asmara, Ethiopia
-     Jean Foutika ??';
-     Osei Kofi ??' Osei Kofi ??' Wilberforce Mfum ??'
-  DR Congo - Senegal  2-1   @ Asmara, Ethiopia
-     Kidumu Mantantu ??' Elias Tshimanga ??';
-     Yatma Diouck ??'
-  Ethiopia - Algeria  3-1   @ Addis Ababa, Ethiopia
-     Mengistu Worku 16' Shewangizaw Agonafer 19' Luciano Vassallo 27' (pen.);
-     Boualem Amirouche 68'
-  Ivory Coast - Uganda  2-1   @ Addis Ababa, Ethiopia
-     Laurent Pokou ??' Eustache Manglé ??';
-     Denis Obua ??'
-[Fri Jan 19]
-  Ethiopia - DR Congo  2-3   @ Addis Ababa, Ethiopia
-     Luciano Vassallo 25' Mengistu Worku 65';
-     Kidumu Mantantu 3' Léon Mungamuni 16' Léon Mungamuni 100'
-  Ghana - Ivory Coast  4-3   @ Asmara, Ethiopia
-     Wilberforce Mfum ??' Wilberforce Mfum ??' Ibrahim Sunday ??' Frank Odoi ??';
-     Laurent Pokou ??' Laurent Pokou ??' Henri Konan ??' (pen.)
-[Sun Jan 21]
-  DR Congo - Ghana  1-0   @ Addis Ababa, Ethiopia
-     Pierre Kalala Mukendi 66'
-  Ethiopia - Ivory Coast  0-1   @ Addis Ababa, Ethiopia
-     -; Laurent Pokou 28'
+Fri Jan 12
+  Algeria              v Ivory Coast           0-3   @ Addis Ababa, Ethiopia
+     (Jean-Louis Bozon 15' Laurent Pokou 25' Laurent Pokou 65')
+  Congo                v DR Congo              0-3   @ Asmara, Ethiopia
+     (Ignace Muwawa 19' Nicodème Kabamba 27'(p) Nicodème Kabamba 51')
+  Ethiopia             v Uganda                2-1   @ Addis Ababa, Ethiopia
+     (Girma Tekle ??' Luciano Vassallo ??'(p);
+      Polly Ouma ??')
+  Ghana                v Senegal               2-2   @ Asmara, Ethiopia
+     (Osei Kofi 63' Wilberforce Mfum 87';
+      Doudou Diongue 10' Yatma Diop 65')
+Sun Jan 14
+  Algeria              v Uganda                4-0   @ Addis Ababa, Ethiopia
+     (Hacène Lalmas 15' Hacène Lalmas 25' Mokhtar Kalem 60' Hacène Lalmas 70')
+  Congo                v Senegal               1-2   @ Asmara, Ethiopia
+     (Jean Foutika 31';
+      Yatma Diop 27' Yatma Diouck 86')
+  DR Congo             v Ghana                 1-2   @ Asmara, Ethiopia
+     (Saio Ernest Mokili 42';
+      Osei Kofi 17'(p) Wilberforce Mfum 84')
+  Ethiopia             v Ivory Coast           1-0   @ Addis Ababa, Ethiopia
+     (Bekuretsion Gebre-Hiwot 86')
+Tue Jan 16
+  Congo                v Ghana                 1-3   @ Asmara, Ethiopia
+     (Jean Foutika ??';
+      Osei Kofi ??' Osei Kofi ??' Wilberforce Mfum ??')
+  DR Congo             v Senegal               2-1   @ Asmara, Ethiopia
+     (Kidumu Mantantu ??' Elias Tshimanga ??';
+      Yatma Diouck ??')
+  Ethiopia             v Algeria               3-1   @ Addis Ababa, Ethiopia
+     (Mengistu Worku 16' Shewangizaw Agonafer 19' Luciano Vassallo 27'(p);
+      Boualem Amirouche 68')
+  Ivory Coast          v Uganda                2-1   @ Addis Ababa, Ethiopia
+     (Laurent Pokou ??' Eustache Manglé ??';
+      Denis Obua ??')
+Fri Jan 19
+  Ethiopia             v DR Congo              2-3   @ Addis Ababa, Ethiopia
+     (Luciano Vassallo 25' Mengistu Worku 65';
+      Kidumu Mantantu 3' Léon Mungamuni 16' Léon Mungamuni 100')
+  Ghana                v Ivory Coast           4-3   @ Asmara, Ethiopia
+     (Wilberforce Mfum ??' Wilberforce Mfum ??' Ibrahim Sunday ??' Frank Odoi ??';
+      Laurent Pokou ??' Laurent Pokou ??' Henri Konan ??'(p))
+Sun Jan 21
+  DR Congo             v Ghana                 1-0   @ Addis Ababa, Ethiopia
+     (Pierre Kalala Mukendi 66')
+  Ethiopia             v Ivory Coast           0-1   @ Addis Ababa, Ethiopia
+     (Laurent Pokou 28')
 

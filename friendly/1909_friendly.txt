@@ -1,28 +1,28 @@
 = Friendly 1909
 
-# Date       Sun Mar/21 - Sun Nov/7 1909 (231d)
+# Date       Sun Mar 21 - Sun Nov 7 1909 (231d)
 # Teams      8
 # Matches    11
 
-[Sun Mar 21]
-  Belgium - Netherlands  1-4   @ Antwerp, Belgium
-[Sun Apr 4]
-  Germany - Switzerland  1-0   @ Karlsruhe, Germany
-  Hungary - Germany  3-3   @ Budapest, Hungary
-[Sun Apr 25]
-  Netherlands - Belgium  4-1   @ Rotterdam, Netherlands
-[Sun May 2]
-  Austria - Hungary  3-4   @ Vienna, Austria
-[Sun May 9]
-  Belgium - France  5-2   @ Brussels, Belgium
-[Sat May 29]
-  Hungary - England  2-4   @ Budapest, Hungary
-[Sun May 30]
-  Hungary - Austria  1-1   @ Budapest, Hungary
-[Mon May 31]
-  Hungary - England  2-8   @ Budapest, Hungary
-[Tue Jun 1]
-  Austria - England  1-8   @ Vienna, Austria
-[Sun Nov 7]
-  Hungary - Austria  2-2   @ Budapest, Hungary
+Sun Mar 21
+  Belgium              v Netherlands           1-4   @ Antwerp, Belgium
+Sun Apr 4
+  Germany              v Switzerland           1-0   @ Karlsruhe, Germany
+  Hungary              v Germany               3-3   @ Budapest, Hungary
+Sun Apr 25
+  Netherlands          v Belgium               4-1   @ Rotterdam, Netherlands
+Sun May 2
+  Austria              v Hungary               3-4   @ Vienna, Austria
+Sun May 9
+  Belgium              v France                5-2   @ Brussels, Belgium
+Sat May 29
+  Hungary              v England               2-4   @ Budapest, Hungary
+Sun May 30
+  Hungary              v Austria               1-1   @ Budapest, Hungary
+Mon May 31
+  Hungary              v England               2-8   @ Budapest, Hungary
+Tue Jun 1
+  Austria              v England               1-8   @ Vienna, Austria
+Sun Nov 7
+  Hungary              v Austria               2-2   @ Budapest, Hungary
 

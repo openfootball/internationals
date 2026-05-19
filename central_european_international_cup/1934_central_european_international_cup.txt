@@ -1,21 +1,21 @@
 = Central European International Cup 1934
 
-# Date       Sun Feb/11 - Sun Nov/11 1934 (273d)
+# Date       Sun Feb 11 - Sun Nov 11 1934 (273d)
 # Teams      5
 # Matches    7
 
-[Sun Feb 11]
-  Italy - Austria  2-4   @ Turin, Italy
-[Sun Mar 25]
-  Switzerland - Austria  2-3   @ Geneva, Switzerland
-[Sun Apr 29]
-  Czechoslovakia - Hungary  2-2   @ Prague, Czechoslovakia
-[Sun Sep 23]
-  Austria - Czechoslovakia  2-2   @ Vienna, Austria
-[Sun Oct 7]
-  Hungary - Austria  3-1   @ Budapest, Hungary
-[Sun Oct 14]
-  Switzerland - Czechoslovakia  2-2   @ Geneva, Switzerland
-[Sun Nov 11]
-  Austria - Switzerland  3-0   @ Vienna, Austria
+Sun Feb 11
+  Italy                v Austria               2-4   @ Turin, Italy
+Sun Mar 25
+  Switzerland          v Austria               2-3   @ Geneva, Switzerland
+Sun Apr 29
+  Czechoslovakia       v Hungary               2-2   @ Prague, Czechoslovakia
+Sun Sep 23
+  Austria              v Czechoslovakia        2-2   @ Vienna, Austria
+Sun Oct 7
+  Hungary              v Austria               3-1   @ Budapest, Hungary
+Sun Oct 14
+  Switzerland          v Czechoslovakia        2-2   @ Geneva, Switzerland
+Sun Nov 11
+  Austria              v Switzerland           3-0   @ Vienna, Austria
 

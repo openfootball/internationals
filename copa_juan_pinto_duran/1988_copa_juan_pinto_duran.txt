@@ -1,11 +1,11 @@
 = Copa Juan Pinto Durán 1988
 
-# Date       Tue Nov/1 - Wed Nov/9 1988 (8d)
+# Date       Tue Nov 1 - Wed Nov 9 1988 (8d)
 # Teams      2
 # Matches    2
 
-[Tue Nov 1]
-  Chile - Uruguay  1-1   @ Concepción, Chile
-[Wed Nov 9]
-  Uruguay - Chile  3-1   @ Montevideo, Uruguay
+Tue Nov 1
+  Chile                v Uruguay               1-1   @ Concepción, Chile
+Wed Nov 9
+  Uruguay              v Chile                 3-1   @ Montevideo, Uruguay
 

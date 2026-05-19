@@ -1,18 +1,18 @@
 = USA Cup 1993
 
-# Date       Sun Jun/6 - Sat Jun/19 1993 (13d)
+# Date       Sun Jun 6 - Sat Jun 19 1993 (13d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 6]
-  United States - Brazil  0-2   @ New Haven, United States
-[Wed Jun 9]
-  United States - England  2-0   @ Foxborough, United States
-[Thu Jun 10]
-  Brazil - Germany  3-3   @ Washington, D.C., United States
-[Sun Jun 13]
-  Brazil - England  1-1   @ Washington, D.C., United States
-  United States - Germany  3-4   @ Chicago, United States
-[Sat Jun 19]
-  England - Germany  1-2   @ Pontiac, United States
+Sun Jun 6
+  United States        v Brazil                0-2   @ New Haven, United States
+Wed Jun 9
+  United States        v England               2-0   @ Foxborough, United States
+Thu Jun 10
+  Brazil               v Germany               3-3   @ Washington, D.C., United States
+Sun Jun 13
+  Brazil               v England               1-1   @ Washington, D.C., United States
+  United States        v Germany               3-4   @ Chicago, United States
+Sat Jun 19
+  England              v Germany               1-2   @ Pontiac, United States
 

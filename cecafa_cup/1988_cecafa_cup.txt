@@ -1,30 +1,30 @@
 = CECAFA Cup 1988
 
-# Date       Sun Nov/6 - Sat Nov/19 1988 (13d)
+# Date       Sun Nov 6 - Sat Nov 19 1988 (13d)
 # Teams      8
 # Matches    15
 
-[Sun Nov 6]
-  Ethiopia - Zambia  0-0   @ Blantyre, Malawi
-  Malawi - Tanzania  0-0   @ Lilongwe, Malawi
-[Tue Nov 8]
-  Kenya - Zanzibar  2-0   @ Lilongwe, Malawi
-  Uganda - Zimbabwe  0-0   @ Blantyre, Malawi
-[Thu Nov 10]
-  Kenya - Tanzania  2-0   @ Lilongwe, Malawi
-  Malawi - Zanzibar  1-0   @ Lilongwe, Malawi
-[Fri Nov 11]
-  Ethiopia - Uganda  2-1   @ Blantyre, Malawi
-  Zambia - Zimbabwe  1-1   @ Blantyre, Malawi
-[Sat Nov 12]
-  Malawi - Kenya  3-0   @ Lilongwe, Malawi
-  Tanzania - Zanzibar  0-1   @ Lilongwe, Malawi
-[Sun Nov 13]
-  Ethiopia - Zimbabwe  1-2   @ Blantyre, Malawi
-  Uganda - Zambia  0-3   @ Blantyre, Malawi
-[Thu Nov 17]
-  Kenya - Zambia  0-1   @ Blantyre, Malawi
-[Sat Nov 19]
-  Kenya - Zimbabwe  0-0   @ Blantyre, Malawi
-  Malawi - Zambia  3-1   @ Blantyre, Malawi
+Sun Nov 6
+  Ethiopia             v Zambia                0-0   @ Blantyre, Malawi
+  Malawi               v Tanzania              0-0   @ Lilongwe, Malawi
+Tue Nov 8
+  Kenya                v Zanzibar              2-0   @ Lilongwe, Malawi
+  Uganda               v Zimbabwe              0-0   @ Blantyre, Malawi
+Thu Nov 10
+  Kenya                v Tanzania              2-0   @ Lilongwe, Malawi
+  Malawi               v Zanzibar              1-0   @ Lilongwe, Malawi
+Fri Nov 11
+  Ethiopia             v Uganda                2-1   @ Blantyre, Malawi
+  Zambia               v Zimbabwe              1-1   @ Blantyre, Malawi
+Sat Nov 12
+  Malawi               v Kenya                 3-0   @ Lilongwe, Malawi
+  Tanzania             v Zanzibar              0-1   @ Lilongwe, Malawi
+Sun Nov 13
+  Ethiopia             v Zimbabwe              1-2   @ Blantyre, Malawi
+  Uganda               v Zambia                0-3   @ Blantyre, Malawi
+Thu Nov 17
+  Kenya                v Zambia                0-1   @ Blantyre, Malawi
+Sat Nov 19
+  Kenya                v Zimbabwe              0-0   @ Blantyre, Malawi
+  Malawi               v Zambia                3-1   @ Blantyre, Malawi
 

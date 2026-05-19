@@ -1,63 +1,63 @@
 = African Cup of Nations 1992
 
-# Date       Sun Jan/12 - Sun Jan/26 1992 (14d)
+# Date       Sun Jan 12 - Sun Jan 26 1992 (14d)
 # Teams      12
 # Matches    20
 
-[Sun Jan 12]
-  Cameroon - Morocco  1-0   @ Dakar, Senegal
-     André Kana-Biyik 23'
-  Senegal - Nigeria  1-2   @ Dakar, Senegal
-     Jules Bocandé 36';
-     Samson Siasia 13' Stephen Keshi 89'
-[Mon Jan 13]
-  Algeria - Ivory Coast  0-3   @ Ziguinchor, Senegal
-     -; Ben Badi 14' Youssouf Falikou Fofana 25' Joël Tiéhi 89'
-  Egypt - Zambia  0-1   @ Ziguinchor, Senegal
-     -; Kalusha Bwalya 61'
-[Tue Jan 14]
-  Morocco - DR Congo  1-1   @ Dakar, Senegal
-     Said Rokbi 89';
-     Andre Kona N'Gole 90'
-  Nigeria - Kenya  2-1   @ Dakar, Senegal
-     Rashidi Yekini 7' Rashidi Yekini 15';
-     Mickey Weche 89' (pen.)
-[Wed Jan 15]
-  Ivory Coast - Congo  0-0   @ Ziguinchor, Senegal
-  Zambia - Ghana  0-1   @ Ziguinchor, Senegal
-     -; Abedi Pele 64'
-[Thu Jan 16]
-  Cameroon - DR Congo  1-1   @ Dakar, Senegal
-     François Omam-Biyik 15';
-     Tueba Menayane 1'
-  Senegal - Kenya  3-0   @ Dakar, Senegal
-     Souleyman Sané 46' Jules Bocandé 68' Victor Diagne 89'
-[Fri Jan 17]
-  Algeria - Congo  1-1   @ Ziguinchor, Senegal
-     Nacer Bouiche 44';
-     Pierre Tchibota 6'
-  Egypt - Ghana  0-1   @ Ziguinchor, Senegal
-     -; Tony Yeboah 89'
-[Sun Jan 19]
-  Nigeria - DR Congo  1-0   @ Dakar, Senegal
-     Rashidi Yekini 22'
-  Senegal - Cameroon  0-1   @ Dakar, Senegal
-     -; Ernest Ebongué 89'
-[Mon Jan 20]
-  Ghana - Congo  2-1   @ Dakar, Senegal
-     Anthony Yeboah 29' Abedi Pele 57';
-     Pierre Tchibota 52'
-  Ivory Coast - Zambia  1-0   @ Dakar, Senegal
-     Donald-Olivier Sié 94'
-[Thu Jan 23]
-  Cameroon - Ivory Coast  0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
-  Nigeria - Ghana  1-2   @ Dakar, Senegal
-     Mutiu Adepoju 11';
-     Abedi Pele 43' Prince Polley 54'
-[Sat Jan 25]
-  Cameroon - Nigeria  1-2   @ Dakar, Senegal
-     Emmanuel Maboang 85';
-     Friday Ekpo 75' Rashidi Yekini 88'
-[Sun Jan 26]
-  Ghana - Ivory Coast  0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
+Sun Jan 12
+  Cameroon             v Morocco               1-0   @ Dakar, Senegal
+     (André Kana-Biyik 23')
+  Senegal              v Nigeria               1-2   @ Dakar, Senegal
+     (Jules Bocandé 36';
+      Samson Siasia 13' Stephen Keshi 89')
+Mon Jan 13
+  Algeria              v Ivory Coast           0-3   @ Ziguinchor, Senegal
+     (Ben Badi 14' Youssouf Falikou Fofana 25' Joël Tiéhi 89')
+  Egypt                v Zambia                0-1   @ Ziguinchor, Senegal
+     (Kalusha Bwalya 61')
+Tue Jan 14
+  Morocco              v DR Congo              1-1   @ Dakar, Senegal
+     (Said Rokbi 89';
+      Andre Kona N'Gole 90')
+  Nigeria              v Kenya                 2-1   @ Dakar, Senegal
+     (Rashidi Yekini 7' Rashidi Yekini 15';
+      Mickey Weche 89'(p))
+Wed Jan 15
+  Ivory Coast          v Congo                 0-0   @ Ziguinchor, Senegal
+  Zambia               v Ghana                 0-1   @ Ziguinchor, Senegal
+     (Abedi Pele 64')
+Thu Jan 16
+  Cameroon             v DR Congo              1-1   @ Dakar, Senegal
+     (François Omam-Biyik 15';
+      Tueba Menayane 1')
+  Senegal              v Kenya                 3-0   @ Dakar, Senegal
+     (Souleyman Sané 46' Jules Bocandé 68' Victor Diagne 89')
+Fri Jan 17
+  Algeria              v Congo                 1-1   @ Ziguinchor, Senegal
+     (Nacer Bouiche 44';
+      Pierre Tchibota 6')
+  Egypt                v Ghana                 0-1   @ Ziguinchor, Senegal
+     (Tony Yeboah 89')
+Sun Jan 19
+  Nigeria              v DR Congo              1-0   @ Dakar, Senegal
+     (Rashidi Yekini 22')
+  Senegal              v Cameroon              0-1   @ Dakar, Senegal
+     (Ernest Ebongué 89')
+Mon Jan 20
+  Ghana                v Congo                 2-1   @ Dakar, Senegal
+     (Anthony Yeboah 29' Abedi Pele 57';
+      Pierre Tchibota 52')
+  Ivory Coast          v Zambia                1-0   @ Dakar, Senegal
+     (Donald-Olivier Sié 94')
+Thu Jan 23
+  Cameroon             v Ivory Coast           0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
+  Nigeria              v Ghana                 1-2   @ Dakar, Senegal
+     (Mutiu Adepoju 11';
+      Abedi Pele 43' Prince Polley 54')
+Sat Jan 25
+  Cameroon             v Nigeria               1-2   @ Dakar, Senegal
+     (Emmanuel Maboang 85';
+      Friday Ekpo 75' Rashidi Yekini 88')
+Sun Jan 26
+  Ghana                v Ivory Coast           0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
 

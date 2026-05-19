@@ -1,17 +1,17 @@
 = British Home Championship 1922
 
-# Date       Sat Feb/4 - Sat Oct/21 1922 (259d)
+# Date       Sat Feb 4 - Sat Oct 21 1922 (259d)
 # Teams      4
 # Matches    5
 
-[Sat Feb 4]
-  Wales - Scotland  2-1   @ Wrexham, Wales
-[Sat Mar 4]
-  Scotland - Northern Ireland  2-1   @ Glasgow, Scotland
-[Mon Mar 13]
-  England - Wales  1-0   @ Liverpool, England
-[Sat Apr 8]
-  England - Scotland  0-1   @ Birmingham, England
-[Sat Oct 21]
-  England - Northern Ireland  2-0   @ West Bromwich, England
+Sat Feb 4
+  Wales                v Scotland              2-1   @ Wrexham, Wales
+Sat Mar 4
+  Scotland             v Northern Ireland      2-1   @ Glasgow, Scotland
+Mon Mar 13
+  England              v Wales                 1-0   @ Liverpool, England
+Sat Apr 8
+  England              v Scotland              0-1   @ Birmingham, England
+Sat Oct 21
+  England              v Northern Ireland      2-0   @ West Bromwich, England
 

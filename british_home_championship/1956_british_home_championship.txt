@@ -1,19 +1,19 @@
 = British Home Championship 1956
 
-# Date       Wed Apr/11 - Wed Nov/14 1956 (217d)
+# Date       Wed Apr 11 - Wed Nov 14 1956 (217d)
 # Teams      4
 # Matches    6
 
-[Wed Apr 11]
-  Wales - Northern Ireland  1-1   @ Cardiff, Wales
-[Sat Apr 14]
-  Scotland - England  1-1   @ Glasgow, Scotland
-[Sat Oct 6]
-  Northern Ireland - England  1-1   @ Belfast, Northern Ireland
-[Sat Oct 20]
-  Wales - Scotland  2-2   @ Cardiff, Wales
-[Wed Nov 7]
-  Scotland - Northern Ireland  1-0   @ Glasgow, Scotland
-[Wed Nov 14]
-  England - Wales  3-1   @ London, England
+Wed Apr 11
+  Wales                v Northern Ireland      1-1   @ Cardiff, Wales
+Sat Apr 14
+  Scotland             v England               1-1   @ Glasgow, Scotland
+Sat Oct 6
+  Northern Ireland     v England               1-1   @ Belfast, Northern Ireland
+Sat Oct 20
+  Wales                v Scotland              2-2   @ Cardiff, Wales
+Wed Nov 7
+  Scotland             v Northern Ireland      1-0   @ Glasgow, Scotland
+Wed Nov 14
+  England              v Wales                 3-1   @ London, England
 

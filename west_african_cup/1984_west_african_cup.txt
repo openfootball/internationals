@@ -1,29 +1,29 @@
 = West African Cup 1984
 
-# Date       Sat Nov/17 - Wed Nov/28 1984 (11d)
+# Date       Sat Nov 17 - Wed Nov 28 1984 (11d)
 # Teams      5
 # Matches    12
 
-[Sat Nov 17]
-  Burkina Faso - Togo  1-1   @ Ouagadougou, Burkina Faso
-[Sun Nov 18]
-  Ghana - Ivory Coast  2-0   @ Ouagadougou, Burkina Faso
-[Tue Nov 20]
-  Burkina Faso - Ivory Coast  2-2   @ Ouagadougou, Burkina Faso
-[Wed Nov 21]
-  Ghana - Togo  2-2   @ Ouagadougou, Burkina Faso
-[Thu Nov 22]
-  Burkina Faso - Benin  2-1   @ Ouagadougou, Burkina Faso
-[Fri Nov 23]
-  Ivory Coast - Togo  1-1   @ Ouagadougou, Burkina Faso
-[Sat Nov 24]
-  Benin - Ivory Coast  1-2   @ Ouagadougou, Burkina Faso
-  Burkina Faso - Ghana  1-1   @ Ouagadougou, Burkina Faso
-[Sun Nov 25]
-  Benin - Togo  0-2   @ Ouagadougou, Burkina Faso
-[Tue Nov 27]
-  Benin - Ghana  1-3   @ Ouagadougou, Burkina Faso
-[Wed Nov 28]
-  Burkina Faso - Ivory Coast  0-2   @ Ouagadougou, Burkina Faso
-  Ghana - Togo  1-1   @ Ouagadougou, Burkina Faso   [Ghana wins on penalties]
+Sat Nov 17
+  Burkina Faso         v Togo                  1-1   @ Ouagadougou, Burkina Faso
+Sun Nov 18
+  Ghana                v Ivory Coast           2-0   @ Ouagadougou, Burkina Faso
+Tue Nov 20
+  Burkina Faso         v Ivory Coast           2-2   @ Ouagadougou, Burkina Faso
+Wed Nov 21
+  Ghana                v Togo                  2-2   @ Ouagadougou, Burkina Faso
+Thu Nov 22
+  Burkina Faso         v Benin                 2-1   @ Ouagadougou, Burkina Faso
+Fri Nov 23
+  Ivory Coast          v Togo                  1-1   @ Ouagadougou, Burkina Faso
+Sat Nov 24
+  Benin                v Ivory Coast           1-2   @ Ouagadougou, Burkina Faso
+  Burkina Faso         v Ghana                 1-1   @ Ouagadougou, Burkina Faso
+Sun Nov 25
+  Benin                v Togo                  0-2   @ Ouagadougou, Burkina Faso
+Tue Nov 27
+  Benin                v Ghana                 1-3   @ Ouagadougou, Burkina Faso
+Wed Nov 28
+  Burkina Faso         v Ivory Coast           0-2   @ Ouagadougou, Burkina Faso
+  Ghana                v Togo                  1-1   @ Ouagadougou, Burkina Faso   [Ghana wins on penalties]
 

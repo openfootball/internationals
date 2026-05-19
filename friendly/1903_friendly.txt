@@ -1,15 +1,15 @@
 = Friendly 1903
 
-# Date       Sun Apr/5 - Sun Oct/11 1903 (189d)
+# Date       Sun Apr 5 - Sun Oct 11 1903 (189d)
 # Teams      5
 # Matches    4
 
-[Sun Apr 5]
-  Hungary - Czechoslovakia  2-1   @ Budapest, Hungary
-[Thu Jun 11]
-  Hungary - Austria  3-2   @ Budapest, Hungary
-[Sun Sep 13]
-  Argentina - Uruguay  2-3   @ Buenos Aires, Argentina
-[Sun Oct 11]
-  Austria - Hungary  4-2   @ Vienna, Austria
+Sun Apr 5
+  Hungary              v Czechoslovakia        2-1   @ Budapest, Hungary
+Thu Jun 11
+  Hungary              v Austria               3-2   @ Budapest, Hungary
+Sun Sep 13
+  Argentina            v Uruguay               2-3   @ Buenos Aires, Argentina
+Sun Oct 11
+  Austria              v Hungary               4-2   @ Vienna, Austria
 

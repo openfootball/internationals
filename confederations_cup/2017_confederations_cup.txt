@@ -1,58 +1,58 @@
 = Confederations Cup 2017
 
-# Date       Sat Jun/17 - Sun Jul/2 2017 (15d)
+# Date       Sat Jun 17 - Sun Jul 2 2017 (15d)
 # Teams      8
 # Matches    16
 
-[Sat Jun 17]
-  Russia - New Zealand  2-0   @ Saint Petersburg, Russia
-     Michael Boxall 31' (o.g.) Fyodor Smolov 69'
-[Sun Jun 18]
-  Cameroon - Chile  0-2   @ Moscow, Russia
-     -; Arturo Vidal 81' Eduardo Vargas 90'
-  Portugal - Mexico  2-2   @ Kazan, Russia
-     Ricardo Quaresma 34' Cédric Soares 86';
-     Javier Hernández 42' Héctor Moreno 90'
-[Mon Jun 19]
-  Australia - Germany  2-3   @ Sochi, Russia
-     Tom Rogic 41' Tomi Juric 56';
-     Lars Stindl 5' Julian Draxler 44' (pen.) Leon Goretzka 48'
-[Wed Jun 21]
-  Mexico - New Zealand  2-1   @ Sochi, Russia
-     Raúl Jiménez 54' Oribe Peralta 72';
-     Chris Wood 42'
-  Russia - Portugal  0-1   @ Moscow, Russia
-     -; Cristiano Ronaldo 8'
-[Thu Jun 22]
-  Cameroon - Australia  1-1   @ Saint Petersburg, Russia
-     André-Frank Zambo Anguissa 45';
-     Mark Milligan 60' (pen.)
-  Germany - Chile  1-1   @ Kazan, Russia
-     Lars Stindl 41';
-     Alexis Sánchez 6'
-[Sat Jun 24]
-  New Zealand - Portugal  0-4   @ Saint Petersburg, Russia
-     -; Cristiano Ronaldo 33' (pen.) Bernardo Silva 37' André Silva 80' Nani 90'
-  Russia - Mexico  1-2   @ Kazan, Russia
-     Aleksandr Samedov 25';
-     Néstor Araujo 30' Hirving Lozano 52'
-[Sun Jun 25]
-  Chile - Australia  1-1   @ Moscow, Russia
-     Martín Rodríguez 67';
-     James Troisi 42'
-  Germany - Cameroon  3-1   @ Sochi, Russia
-     Kerem Demirbay 48' Timo Werner 66' Timo Werner 81';
-     Vincent Aboubakar 78'
-[Wed Jun 28]
-  Portugal - Chile  0-0   @ Kazan, Russia   [Chile wins on penalties]
-[Thu Jun 29]
-  Germany - Mexico  4-1   @ Sochi, Russia
-     Leon Goretzka 6' Leon Goretzka 8' Timo Werner 59' Amin Younes 90';
-     Marco Fabián 89'
-[Sun Jul 2]
-  Chile - Germany  0-1   @ Saint Petersburg, Russia
-     -; Lars Stindl 20'
-  Portugal - Mexico  2-1   @ Moscow, Russia
-     Pepe 90' Adrien Silva 104' (pen.);
-     Luís Neto 54' (o.g.)
+Sat Jun 17
+  Russia               v New Zealand           2-0   @ Saint Petersburg, Russia
+     (Michael Boxall 31'(og) Fyodor Smolov 69')
+Sun Jun 18
+  Cameroon             v Chile                 0-2   @ Moscow, Russia
+     (Arturo Vidal 81' Eduardo Vargas 90')
+  Portugal             v Mexico                2-2   @ Kazan, Russia
+     (Ricardo Quaresma 34' Cédric Soares 86';
+      Javier Hernández 42' Héctor Moreno 90')
+Mon Jun 19
+  Australia            v Germany               2-3   @ Sochi, Russia
+     (Tom Rogic 41' Tomi Juric 56';
+      Lars Stindl 5' Julian Draxler 44'(p) Leon Goretzka 48')
+Wed Jun 21
+  Mexico               v New Zealand           2-1   @ Sochi, Russia
+     (Raúl Jiménez 54' Oribe Peralta 72';
+      Chris Wood 42')
+  Russia               v Portugal              0-1   @ Moscow, Russia
+     (Cristiano Ronaldo 8')
+Thu Jun 22
+  Cameroon             v Australia             1-1   @ Saint Petersburg, Russia
+     (André-Frank Zambo Anguissa 45';
+      Mark Milligan 60'(p))
+  Germany              v Chile                 1-1   @ Kazan, Russia
+     (Lars Stindl 41';
+      Alexis Sánchez 6')
+Sat Jun 24
+  New Zealand          v Portugal              0-4   @ Saint Petersburg, Russia
+     (Cristiano Ronaldo 33'(p) Bernardo Silva 37' André Silva 80' Nani 90')
+  Russia               v Mexico                1-2   @ Kazan, Russia
+     (Aleksandr Samedov 25';
+      Néstor Araujo 30' Hirving Lozano 52')
+Sun Jun 25
+  Chile                v Australia             1-1   @ Moscow, Russia
+     (Martín Rodríguez 67';
+      James Troisi 42')
+  Germany              v Cameroon              3-1   @ Sochi, Russia
+     (Kerem Demirbay 48' Timo Werner 66' Timo Werner 81';
+      Vincent Aboubakar 78')
+Wed Jun 28
+  Portugal             v Chile                 0-0   @ Kazan, Russia   [Chile wins on penalties]
+Thu Jun 29
+  Germany              v Mexico                4-1   @ Sochi, Russia
+     (Leon Goretzka 6' Leon Goretzka 8' Timo Werner 59' Amin Younes 90';
+      Marco Fabián 89')
+Sun Jul 2
+  Chile                v Germany               0-1   @ Saint Petersburg, Russia
+     (Lars Stindl 20')
+  Portugal             v Mexico                2-1   @ Moscow, Russia
+     (Pepe 90' Adrien Silva 104'(p);
+      Luís Neto 54'(og))
 

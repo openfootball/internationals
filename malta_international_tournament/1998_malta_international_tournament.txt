@@ -1,16 +1,16 @@
 = Malta International Tournament 1998
 
-# Date       Fri Feb/6 - Tue Feb/10 1998 (4d)
+# Date       Fri Feb 6 - Tue Feb 10 1998 (4d)
 # Teams      4
 # Matches    6
 
-[Fri Feb 6]
-  Georgia - Latvia  2-1   @ Attard, Malta
-  Malta - Albania  1-1   @ Attard, Malta
-[Sun Feb 8]
-  Albania - Georgia  0-3   @ Attard, Malta
-  Malta - Latvia  2-1   @ Attard, Malta
-[Tue Feb 10]
-  Albania - Latvia  2-2   @ Attard, Malta
-  Malta - Georgia  1-3   @ Attard, Malta
+Fri Feb 6
+  Georgia              v Latvia                2-1   @ Attard, Malta
+  Malta                v Albania               1-1   @ Attard, Malta
+Sun Feb 8
+  Albania              v Georgia               0-3   @ Attard, Malta
+  Malta                v Latvia                2-1   @ Attard, Malta
+Tue Feb 10
+  Albania              v Latvia                2-2   @ Attard, Malta
+  Malta                v Georgia               1-3   @ Attard, Malta
 

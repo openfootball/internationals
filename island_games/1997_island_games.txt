@@ -1,33 +1,33 @@
 = Island Games 1997
 
-# Date       Sun Jun/29 - Fri Jul/4 1997 (5d)
+# Date       Sun Jun 29 - Fri Jul 4 1997 (5d)
 # Teams      9
 # Matches    20
 
-[Sun Jun 29]
-  Jersey - Frøya  4-1   @ St. Clement, Jersey
-  Gibraltar - Guernsey  1-2   @ Grouville, Jersey
-  Ynys Môn - Hitra  8-0   @ St. Peter, Jersey
-  Shetland - Isle of Wight  0-0   @ St. Peter, Jersey
-[Mon Jun 30]
-  Jersey - Greenland  2-1   @ St. Peter, Jersey
-  Frøya - Guernsey  1-2   @ St. Peter, Jersey
-[Tue Jul 1]
-  Ynys Môn - Shetland  4-0   @ St. Clement, Jersey
-  Hitra - Isle of Wight  0-4   @ Grouville, Jersey
-  Guernsey - Greenland  0-0   @ St Helier, Jersey
-  Frøya - Gibraltar  0-4   @ St. Lawrence, Jersey
-[Wed Jul 2]
-  Gibraltar - Greenland  5-1   @ St. Lawrence, Jersey
-  Jersey - Guernsey  4-0   @ St Helier, Jersey
-[Thu Jul 3]
-  Frøya - Greenland  2-1   @ Grouville, Jersey
-  Jersey - Gibraltar  3-2   @ St Helier, Jersey
-  Ynys Môn - Isle of Wight  0-0   @ St. Peter, Jersey
-  Shetland - Hitra  2-1   @ St. Lawrence, Jersey
-  Frøya - Hitra  4-1   @ Grouville, Jersey
-  Shetland - Gibraltar  2-1   @ St. Lawrence, Jersey
-  Isle of Wight - Guernsey  3-1   @ St. Peter, Jersey
-[Fri Jul 4]
-  Jersey - Ynys Môn  2-1   @ St Helier, Jersey
+Sun Jun 29
+  Jersey               v Frøya                 4-1   @ St. Clement, Jersey
+  Gibraltar            v Guernsey              1-2   @ Grouville, Jersey
+  Ynys Môn             v Hitra                 8-0   @ St. Peter, Jersey
+  Shetland             v Isle of Wight         0-0   @ St. Peter, Jersey
+Mon Jun 30
+  Jersey               v Greenland             2-1   @ St. Peter, Jersey
+  Frøya                v Guernsey              1-2   @ St. Peter, Jersey
+Tue Jul 1
+  Ynys Môn             v Shetland              4-0   @ St. Clement, Jersey
+  Hitra                v Isle of Wight         0-4   @ Grouville, Jersey
+  Guernsey             v Greenland             0-0   @ St Helier, Jersey
+  Frøya                v Gibraltar             0-4   @ St. Lawrence, Jersey
+Wed Jul 2
+  Gibraltar            v Greenland             5-1   @ St. Lawrence, Jersey
+  Jersey               v Guernsey              4-0   @ St Helier, Jersey
+Thu Jul 3
+  Frøya                v Greenland             2-1   @ Grouville, Jersey
+  Jersey               v Gibraltar             3-2   @ St Helier, Jersey
+  Ynys Môn             v Isle of Wight         0-0   @ St. Peter, Jersey
+  Shetland             v Hitra                 2-1   @ St. Lawrence, Jersey
+  Frøya                v Hitra                 4-1   @ Grouville, Jersey
+  Shetland             v Gibraltar             2-1   @ St. Lawrence, Jersey
+  Isle of Wight        v Guernsey              3-1   @ St. Peter, Jersey
+Fri Jul 4
+  Jersey               v Ynys Môn              2-1   @ St Helier, Jersey
 

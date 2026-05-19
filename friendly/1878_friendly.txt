@@ -1,11 +1,11 @@
 = Friendly 1878
 
-# Date       Sat Mar/2 - Sat Mar/23 1878 (21d)
+# Date       Sat Mar 2 - Sat Mar 23 1878 (21d)
 # Teams      3
 # Matches    2
 
-[Sat Mar 2]
-  Scotland - England  7-2   @ Glasgow, Scotland
-[Sat Mar 23]
-  Scotland - Wales  9-0   @ Glasgow, Scotland
+Sat Mar 2
+  Scotland             v England               7-2   @ Glasgow, Scotland
+Sat Mar 23
+  Scotland             v Wales                 9-0   @ Glasgow, Scotland
 

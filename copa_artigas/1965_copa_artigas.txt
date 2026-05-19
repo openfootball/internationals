@@ -1,11 +1,11 @@
 = Copa Artigas 1965
 
-# Date       Sun Apr/25 - Sat May/1 1965 (6d)
+# Date       Sun Apr 25 - Sat May 1 1965 (6d)
 # Teams      2
 # Matches    2
 
-[Sun Apr 25]
-  Paraguay - Uruguay  2-1   @ Asunción, Paraguay
-[Sat May 1]
-  Uruguay - Paraguay  4-0   @ Montevideo, Uruguay
+Sun Apr 25
+  Paraguay             v Uruguay               2-1   @ Asunción, Paraguay
+Sat May 1
+  Uruguay              v Paraguay              4-0   @ Montevideo, Uruguay
 

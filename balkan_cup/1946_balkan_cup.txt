@@ -1,17 +1,17 @@
 = Balkan Cup 1946
 
-# Date       Mon Oct/7 - Sun Oct/13 1946 (6d)
+# Date       Mon Oct 7 - Sun Oct 13 1946 (6d)
 # Teams      4
 # Matches    5
 
-[Mon Oct 7]
-  Albania - Yugoslavia  2-3   @ Tirana, Albania
-[Tue Oct 8]
-  Bulgaria - Romania  2-2   @ Tirana, Albania
-[Wed Oct 9]
-  Albania - Bulgaria  3-1   @ Tirana, Albania
-[Fri Oct 11]
-  Romania - Yugoslavia  2-1   @ Tirana, Albania
-[Sun Oct 13]
-  Albania - Romania  1-0   @ Tirana, Albania
+Mon Oct 7
+  Albania              v Yugoslavia            2-3   @ Tirana, Albania
+Tue Oct 8
+  Bulgaria             v Romania               2-2   @ Tirana, Albania
+Wed Oct 9
+  Albania              v Bulgaria              3-1   @ Tirana, Albania
+Fri Oct 11
+  Romania              v Yugoslavia            2-1   @ Tirana, Albania
+Sun Oct 13
+  Albania              v Romania               1-0   @ Tirana, Albania
 

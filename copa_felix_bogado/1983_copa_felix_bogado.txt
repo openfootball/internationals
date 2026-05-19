@@ -1,11 +1,11 @@
 = Copa Félix Bogado 1983
 
-# Date       Thu Jul/14 - Thu Jul/21 1983 (7d)
+# Date       Thu Jul 14 - Thu Jul 21 1983 (7d)
 # Teams      2
 # Matches    2
 
-[Thu Jul 14]
-  Paraguay - Argentina  1-0   @ Asunción, Paraguay
-[Thu Jul 21]
-  Argentina - Paraguay  0-0   @ Buenos Aires, Argentina
+Thu Jul 14
+  Paraguay             v Argentina             1-0   @ Asunción, Paraguay
+Thu Jul 21
+  Argentina            v Paraguay              0-0   @ Buenos Aires, Argentina
 

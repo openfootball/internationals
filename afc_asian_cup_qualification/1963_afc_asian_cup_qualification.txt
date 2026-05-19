@@ -1,16 +1,16 @@
 = AFC Asian Cup qualification 1963
 
-# Date       Sat Dec/7 - Sat Dec/14 1963 (7d)
+# Date       Sat Dec 7 - Sat Dec 14 1963 (7d)
 # Teams      4
 # Matches    6
 
-[Sat Dec 7]
-  Hong Kong - Thailand  3-3   @ Saigon, Vietnam Republic
-  Vietnam Republic - Malaysia  5-3   @ Saigon, Vietnam Republic
-[Wed Dec 11]
-  Malaysia - Thailand  3-1   @ Saigon, Vietnam Republic
-  Vietnam Republic - Hong Kong  1-4   @ Saigon, Vietnam Republic
-[Sat Dec 14]
-  Hong Kong - Malaysia  4-3   @ Saigon, Vietnam Republic
-  Vietnam Republic - Thailand  3-0   @ Saigon, Vietnam Republic
+Sat Dec 7
+  Hong Kong            v Thailand              3-3   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Malaysia              5-3   @ Saigon, Vietnam Republic
+Wed Dec 11
+  Malaysia             v Thailand              3-1   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Hong Kong             1-4   @ Saigon, Vietnam Republic
+Sat Dec 14
+  Hong Kong            v Malaysia              4-3   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Thailand              3-0   @ Saigon, Vietnam Republic
 

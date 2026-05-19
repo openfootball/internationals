@@ -1,13 +1,13 @@
 = Rous Cup 1988
 
-# Date       Tue May/17 - Tue May/24 1988 (7d)
+# Date       Tue May 17 - Tue May 24 1988 (7d)
 # Teams      3
 # Matches    3
 
-[Tue May 17]
-  Scotland - Colombia  0-0   @ Glasgow, Scotland
-[Sat May 21]
-  England - Scotland  1-0   @ London, England
-[Tue May 24]
-  England - Colombia  1-1   @ London, England
+Tue May 17
+  Scotland             v Colombia              0-0   @ Glasgow, Scotland
+Sat May 21
+  England              v Scotland              1-0   @ London, England
+Tue May 24
+  England              v Colombia              1-1   @ London, England
 

@@ -1,16 +1,16 @@
 = Prime Minister's Cup 2003
 
-# Date       Fri Dec/12 - Thu Dec/18 2003 (6d)
+# Date       Fri Dec 12 - Thu Dec 18 2003 (6d)
 # Teams      4
 # Matches    6
 
-[Fri Dec 12]
-  Bahrain - Iraq  2-2   @ Riffa, Bahrain
-  Kenya - Egypt  0-1   @ Riffa, Bahrain
-[Mon Dec 15]
-  Bahrain - Egypt  0-1   @ Riffa, Bahrain
-  Iraq - Kenya  2-0   @ Riffa, Bahrain
-[Thu Dec 18]
-  Bahrain - Kenya  2-1   @ Riffa, Bahrain
-  Egypt - Iraq  2-0   @ Riffa, Bahrain
+Fri Dec 12
+  Bahrain              v Iraq                  2-2   @ Riffa, Bahrain
+  Kenya                v Egypt                 0-1   @ Riffa, Bahrain
+Mon Dec 15
+  Bahrain              v Egypt                 0-1   @ Riffa, Bahrain
+  Iraq                 v Kenya                 2-0   @ Riffa, Bahrain
+Thu Dec 18
+  Bahrain              v Kenya                 2-1   @ Riffa, Bahrain
+  Egypt                v Iraq                  2-0   @ Riffa, Bahrain
 

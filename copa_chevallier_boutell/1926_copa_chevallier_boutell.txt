@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1926
 
-# Date       Sat May/29 - Thu Jun/3 1926 (5d)
+# Date       Sat May 29 - Thu Jun 3 1926 (5d)
 # Teams      2
 # Matches    2
 
-[Sat May 29]
-  Argentina - Paraguay  2-1   @ Buenos Aires, Argentina
-[Thu Jun 3]
-  Argentina - Paraguay  2-1   @ Buenos Aires, Argentina
+Sat May 29
+  Argentina            v Paraguay              2-1   @ Buenos Aires, Argentina
+Thu Jun 3
+  Argentina            v Paraguay              2-1   @ Buenos Aires, Argentina
 

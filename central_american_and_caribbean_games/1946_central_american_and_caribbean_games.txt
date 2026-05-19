@@ -1,40 +1,40 @@
 = Central American and Caribbean Games 1946
 
-# Date       Mon Dec/9 - Sat Dec/21 1946 (12d)
+# Date       Mon Dec 9 - Sat Dec 21 1946 (12d)
 # Teams      7
 # Matches    21
 
-[Mon Dec 9]
-  Colombia - Curaçao  4-2   @ Barranquilla, Colombia
-  Panama - Guatemala  4-2   @ Barranquilla, Colombia
-[Tue Dec 10]
-  Costa Rica - Puerto Rico  12-0   @ Barranquilla, Colombia
-[Thu Dec 12]
-  Colombia - Venezuela  2-0   @ Barranquilla, Colombia
-  Curaçao - Guatemala  2-2   @ Barranquilla, Colombia
-[Fri Dec 13]
-  Panama - Puerto Rico  12-1   @ Barranquilla, Colombia
-[Sat Dec 14]
-  Costa Rica - Venezuela  4-2   @ Barranquilla, Colombia
-[Sun Dec 15]
-  Colombia - Guatemala  4-2   @ Barranquilla, Colombia
-  Curaçao - Puerto Rico  14-0   @ Barranquilla, Colombia
-[Mon Dec 16]
-  Colombia - Puerto Rico  4-1   @ Barranquilla, Colombia
-  Costa Rica - Guatemala  6-0   @ Barranquilla, Colombia
-  Panama - Venezuela  2-1   @ Barranquilla, Colombia
-[Tue Dec 17]
-  Panama - Curaçao  2-2   @ Barranquilla, Colombia
-[Wed Dec 18]
-  Venezuela - Guatemala  3-2   @ Barranquilla, Colombia
-  Colombia - Costa Rica  4-1   @ Barranquilla, Colombia
-[Thu Dec 19]
-  Curaçao - Venezuela  1-0   @ Barranquilla, Colombia
-  Guatemala - Puerto Rico  4-1   @ Barranquilla, Colombia
-[Fri Dec 20]
-  Colombia - Panama  2-1   @ Barranquilla, Colombia
-  Curaçao - Costa Rica  4-2   @ Barranquilla, Colombia
-  Venezuela - Puerto Rico  6-0   @ Barranquilla, Colombia
-[Sat Dec 21]
-  Panama - Costa Rica  2-0   @ Barranquilla, Colombia
+Mon Dec 9
+  Colombia             v Curaçao               4-2   @ Barranquilla, Colombia
+  Panama               v Guatemala             4-2   @ Barranquilla, Colombia
+Tue Dec 10
+  Costa Rica           v Puerto Rico           12-0   @ Barranquilla, Colombia
+Thu Dec 12
+  Colombia             v Venezuela             2-0   @ Barranquilla, Colombia
+  Curaçao              v Guatemala             2-2   @ Barranquilla, Colombia
+Fri Dec 13
+  Panama               v Puerto Rico           12-1   @ Barranquilla, Colombia
+Sat Dec 14
+  Costa Rica           v Venezuela             4-2   @ Barranquilla, Colombia
+Sun Dec 15
+  Colombia             v Guatemala             4-2   @ Barranquilla, Colombia
+  Curaçao              v Puerto Rico           14-0   @ Barranquilla, Colombia
+Mon Dec 16
+  Colombia             v Puerto Rico           4-1   @ Barranquilla, Colombia
+  Costa Rica           v Guatemala             6-0   @ Barranquilla, Colombia
+  Panama               v Venezuela             2-1   @ Barranquilla, Colombia
+Tue Dec 17
+  Panama               v Curaçao               2-2   @ Barranquilla, Colombia
+Wed Dec 18
+  Venezuela            v Guatemala             3-2   @ Barranquilla, Colombia
+  Colombia             v Costa Rica            4-1   @ Barranquilla, Colombia
+Thu Dec 19
+  Curaçao              v Venezuela             1-0   @ Barranquilla, Colombia
+  Guatemala            v Puerto Rico           4-1   @ Barranquilla, Colombia
+Fri Dec 20
+  Colombia             v Panama                2-1   @ Barranquilla, Colombia
+  Curaçao              v Costa Rica            4-2   @ Barranquilla, Colombia
+  Venezuela            v Puerto Rico           6-0   @ Barranquilla, Colombia
+Sat Dec 21
+  Panama               v Costa Rica            2-0   @ Barranquilla, Colombia
 

@@ -1,72 +1,72 @@
 = UEFA Euro qualification 1962
 
-# Date       Thu Jun/21 - Sun Dec/16 1962 (178d)
+# Date       Thu Jun 21 - Sun Dec 16 1962 (178d)
 # Teams      24
 # Matches    18
 
-[Thu Jun 21]
-  Norway - Sweden  0-2   @ Oslo, Norway
-     -; Örjan Martinsson 10' Örjan Martinsson 40'
-[Thu Jun 28]
-  Denmark - Malta  6-1   @ Copenhagen, Denmark
-     Ole Madsen 9' Ole Madsen 14' Eyvind Clausen 22' Ole Madsen 49' Henning Enoksen 71' Carl Bertelsen 80';
-     Eddie Theobald 57'
-[Sun Aug 12]
-  Republic of Ireland - Iceland  4-2   @ Dublin, Republic of Ireland
-     Liam Tuohy 11' Amby Fogarty 41' Noel Cantwell 65' Noel Cantwell 76';
-     Ríkharður Jónsson 37' Ríkharður Jónsson 86'
-[Sun Sep 2]
-  Iceland - Republic of Ireland  1-1   @ Reykjavík, Iceland
-     Garðar Árnason 59';
-     Liam Tuohy 38'
-[Wed Oct 3]
-  England - France  1-1   @ Sheffield, England
-     Ron Flowers 57' (pen.);
-     Yvon Goujon 8'
-[Wed Oct 10]
-  Poland - Northern Ireland  0-2   @ Chorzów, Poland
-     -; Derek Dougan 17' Billy Humphries 54'
-[Thu Nov 1]
-  Spain - Romania  6-0   @ Madrid, Spain
-     Vicente Guillot 7' José Luis Veloso 9' Enrique Collar 17' Vicente Guillot 27' Vicente Guillot 70' Ion Nunweiller 81' (o.g.)
-[Sun Nov 4]
-  Sweden - Norway  1-1   @ Malmö, Sweden
-     Leif Eriksson 49';
-     John Krogh 60'
-  Yugoslavia - Belgium  3-2   @ Belgrade, Yugoslavia
-     Josip Skoblar 12' Josip Skoblar 32' (pen.) Velibor Vasović 89';
-     Jacques Stockman 26' Armand Jurion 58'
-[Wed Nov 7]
-  Bulgaria - Portugal  3-1   @ Sofia, Bulgaria
-     Georgi Asparuhov 65' Georgi Asparuhov 76' Todor Diev 84';
-     Eusébio 49'
-  Hungary - Wales  3-1   @ Budapest, Hungary
-     Flórián Albert 5' Lajos Tichy 34' Károly Sándor 48';
-     Terry Medwin 19'
-[Sun Nov 11]
-  Netherlands - Switzerland  3-1   @ Amsterdam, Netherlands
-     Anthonie van der Linden 11' Sjaak Swart 74' Henk Groot 76';
-     Charles Hertig 42'
-[Wed Nov 21]
-  German DR - Czechoslovakia  2-1   @ Berlin, German DR
-     Dieter Erler 60' Kurt Liebrecht 80' (pen.);
-     Rudolf Kučera 90'
-[Sun Nov 25]
-  Romania - Spain  3-1   @ Bucharest, Romania
-     Nicolae Tătaru 2' Cicerone Manolache 8' Gheorghe Constantin 61';
-     José Luis Veloso 70'
-[Wed Nov 28]
-  Northern Ireland - Poland  2-0   @ Belfast, Northern Ireland
-     Johnny Crossan 8' Billy Bingham 63'
-[Sun Dec 2]
-  Italy - Turkey  6-0   @ Bologna, Italy
-     Gianni Rivera 15' Alberto Orlando 22' Alberto Orlando 29' Alberto Orlando 35' Gianni Rivera 47' Alberto Orlando 85'
-[Sat Dec 8]
-  Malta - Denmark  1-3   @ Gżira, Malta
-     Joseph Urpani 39';
-     Ole Madsen 14' Carl Emil Christiansen 42' Carl Bertelsen 47'
-[Sun Dec 16]
-  Portugal - Bulgaria  3-1   @ Oeiras, Portugal
-     Hernâni Ferreira da Silva 4' Hernâni Ferreira da Silva 26' Mário Coluna 53';
-     Hristo Iliev 83'
+Thu Jun 21
+  Norway               v Sweden                0-2   @ Oslo, Norway
+     (Örjan Martinsson 10' Örjan Martinsson 40')
+Thu Jun 28
+  Denmark              v Malta                 6-1   @ Copenhagen, Denmark
+     (Ole Madsen 9' Ole Madsen 14' Eyvind Clausen 22' Ole Madsen 49' Henning Enoksen 71' Carl Bertelsen 80';
+      Eddie Theobald 57')
+Sun Aug 12
+  Republic of Ireland  v Iceland               4-2   @ Dublin, Republic of Ireland
+     (Liam Tuohy 11' Amby Fogarty 41' Noel Cantwell 65' Noel Cantwell 76';
+      Ríkharður Jónsson 37' Ríkharður Jónsson 86')
+Sun Sep 2
+  Iceland              v Republic of Ireland   1-1   @ Reykjavík, Iceland
+     (Garðar Árnason 59';
+      Liam Tuohy 38')
+Wed Oct 3
+  England              v France                1-1   @ Sheffield, England
+     (Ron Flowers 57'(p);
+      Yvon Goujon 8')
+Wed Oct 10
+  Poland               v Northern Ireland      0-2   @ Chorzów, Poland
+     (Derek Dougan 17' Billy Humphries 54')
+Thu Nov 1
+  Spain                v Romania               6-0   @ Madrid, Spain
+     (Vicente Guillot 7' José Luis Veloso 9' Enrique Collar 17' Vicente Guillot 27' Vicente Guillot 70' Ion Nunweiller 81'(og))
+Sun Nov 4
+  Sweden               v Norway                1-1   @ Malmö, Sweden
+     (Leif Eriksson 49';
+      John Krogh 60')
+  Yugoslavia           v Belgium               3-2   @ Belgrade, Yugoslavia
+     (Josip Skoblar 12' Josip Skoblar 32'(p) Velibor Vasović 89';
+      Jacques Stockman 26' Armand Jurion 58')
+Wed Nov 7
+  Bulgaria             v Portugal              3-1   @ Sofia, Bulgaria
+     (Georgi Asparuhov 65' Georgi Asparuhov 76' Todor Diev 84';
+      Eusébio 49')
+  Hungary              v Wales                 3-1   @ Budapest, Hungary
+     (Flórián Albert 5' Lajos Tichy 34' Károly Sándor 48';
+      Terry Medwin 19')
+Sun Nov 11
+  Netherlands          v Switzerland           3-1   @ Amsterdam, Netherlands
+     (Anthonie van der Linden 11' Sjaak Swart 74' Henk Groot 76';
+      Charles Hertig 42')
+Wed Nov 21
+  German DR            v Czechoslovakia        2-1   @ Berlin, German DR
+     (Dieter Erler 60' Kurt Liebrecht 80'(p);
+      Rudolf Kučera 90')
+Sun Nov 25
+  Romania              v Spain                 3-1   @ Bucharest, Romania
+     (Nicolae Tătaru 2' Cicerone Manolache 8' Gheorghe Constantin 61';
+      José Luis Veloso 70')
+Wed Nov 28
+  Northern Ireland     v Poland                2-0   @ Belfast, Northern Ireland
+     (Johnny Crossan 8' Billy Bingham 63')
+Sun Dec 2
+  Italy                v Turkey                6-0   @ Bologna, Italy
+     (Gianni Rivera 15' Alberto Orlando 22' Alberto Orlando 29' Alberto Orlando 35' Gianni Rivera 47' Alberto Orlando 85')
+Sat Dec 8
+  Malta                v Denmark               1-3   @ Gżira, Malta
+     (Joseph Urpani 39';
+      Ole Madsen 14' Carl Emil Christiansen 42' Carl Bertelsen 47')
+Sun Dec 16
+  Portugal             v Bulgaria              3-1   @ Oeiras, Portugal
+     (Hernâni Ferreira da Silva 4' Hernâni Ferreira da Silva 26' Mário Coluna 53';
+      Hristo Iliev 83')
 

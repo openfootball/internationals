@@ -1,38 +1,38 @@
 = UEFA Euro qualification 1968
 
-# Date       Sat Feb/17 - Sat May/11 1968 (84d)
+# Date       Sat Feb 17 - Sat May 11 1968 (84d)
 # Teams      10
 # Matches    9
 
-[Sat Feb 17]
-  Cyprus - Switzerland  2-1   @ Nicosia, Cyprus
-     Melis Asprou 22' Pambos Papadopoulos 46';
-     Kostas Panayiotou 9' (o.g.)
-[Wed Apr 3]
-  England - Spain  1-0   @ London, England
-     Bobby Charlton 84'
-[Sat Apr 6]
-  Bulgaria - Italy  3-2   @ Sofia, Bulgaria
-     Nikola Kotkov 11' (pen.) Dinko Dermendzhiev 66' Petar Zhekov 73';
-     Dimitar Penev 60' (o.g.) Pierino Prati 83'
-  France - Yugoslavia  1-1   @ Marseille, France
-     Fleury Di Nallo 78';
-     Vahidin Musemić 66'
-[Sat Apr 20]
-  Italy - Bulgaria  2-0   @ Naples, Italy
-     Pierino Prati 14' Angelo Domenghini 55'
-[Wed Apr 24]
-  Yugoslavia - France  5-1   @ Belgrade, Yugoslavia
-     Ilija Petković 3' Vahidin Musemić 13' Dragan Džajić 14' Ilija Petković 32' Vahidin Musemić 79';
-     Fleury Di Nallo 33'
-[Sat May 4]
-  Hungary - Russia  2-0   @ Budapest, Hungary
-     János Farkas 21' János Göröcs 85'
-[Wed May 8]
-  Spain - England  1-2   @ Madrid, Spain
-     Amancio Amaro 47';
-     Martin Peters 54' Norman Hunter 81'
-[Sat May 11]
-  Russia - Hungary  3-0   @ Moscow, Soviet Union
-     Ernő Solymosi 22' (o.g.) Murtaz Khurtsilava 59' Anatoliy Byshovets 73'
+Sat Feb 17
+  Cyprus               v Switzerland           2-1   @ Nicosia, Cyprus
+     (Melis Asprou 22' Pambos Papadopoulos 46';
+      Kostas Panayiotou 9'(og))
+Wed Apr 3
+  England              v Spain                 1-0   @ London, England
+     (Bobby Charlton 84')
+Sat Apr 6
+  Bulgaria             v Italy                 3-2   @ Sofia, Bulgaria
+     (Nikola Kotkov 11'(p) Dinko Dermendzhiev 66' Petar Zhekov 73';
+      Dimitar Penev 60'(og) Pierino Prati 83')
+  France               v Yugoslavia            1-1   @ Marseille, France
+     (Fleury Di Nallo 78';
+      Vahidin Musemić 66')
+Sat Apr 20
+  Italy                v Bulgaria              2-0   @ Naples, Italy
+     (Pierino Prati 14' Angelo Domenghini 55')
+Wed Apr 24
+  Yugoslavia           v France                5-1   @ Belgrade, Yugoslavia
+     (Ilija Petković 3' Vahidin Musemić 13' Dragan Džajić 14' Ilija Petković 32' Vahidin Musemić 79';
+      Fleury Di Nallo 33')
+Sat May 4
+  Hungary              v Russia                2-0   @ Budapest, Hungary
+     (János Farkas 21' János Göröcs 85')
+Wed May 8
+  Spain                v England               1-2   @ Madrid, Spain
+     (Amancio Amaro 47';
+      Martin Peters 54' Norman Hunter 81')
+Sat May 11
+  Russia               v Hungary               3-0   @ Moscow, Soviet Union
+     (Ernő Solymosi 22'(og) Murtaz Khurtsilava 59' Anatoliy Byshovets 73')
 

@@ -1,19 +1,19 @@
 = Nordic Championship 1969
 
-# Date       Thu May/22 - Sun Sep/21 1969 (122d)
+# Date       Thu May 22 - Sun Sep 21 1969 (122d)
 # Teams      4
 # Matches    6
 
-[Thu May 22]
-  Sweden - Finland  4-0   @ Växjö, Sweden
-[Sun Jun 1]
-  Sweden - Norway  4-2   @ Gothenburg, Sweden
-[Wed Jun 25]
-  Denmark - Sweden  0-1   @ Copenhagen, Denmark
-[Sun Aug 24]
-  Finland - Norway  2-2   @ Helsinki, Finland
-[Wed Sep 10]
-  Denmark - Finland  5-2   @ Copenhagen, Denmark
-[Sun Sep 21]
-  Norway - Denmark  2-0   @ Oslo, Norway
+Thu May 22
+  Sweden               v Finland               4-0   @ Växjö, Sweden
+Sun Jun 1
+  Sweden               v Norway                4-2   @ Gothenburg, Sweden
+Wed Jun 25
+  Denmark              v Sweden                0-1   @ Copenhagen, Denmark
+Sun Aug 24
+  Finland              v Norway                2-2   @ Helsinki, Finland
+Wed Sep 10
+  Denmark              v Finland               5-2   @ Copenhagen, Denmark
+Sun Sep 21
+  Norway               v Denmark               2-0   @ Oslo, Norway
 

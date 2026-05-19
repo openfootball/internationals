@@ -1,27 +1,27 @@
 = UDEAC Cup 1985
 
-# Date       Sat Dec/7 - Thu Dec/19 1985 (12d)
+# Date       Sat Dec 7 - Thu Dec 19 1985 (12d)
 # Teams      6
 # Matches    10
 
-[Sat Dec 7]
-  Gabon - Congo  1-0   @ Libreville, Gabon
-[Sun Dec 8]
-  Cameroon - Equatorial Guinea  2-0   @ Libreville, Gabon
-[Mon Dec 9]
-  Central African Republic - Congo  1-4   @ Libreville, Gabon
-[Tue Dec 10]
-  Chad - Equatorial Guinea  1-1   @ Libreville, Gabon
-[Wed Dec 11]
-  Gabon - Central African Republic  4-0   @ Libreville, Gabon
-[Thu Dec 12]
-  Chad - Cameroon  2-2   @ Libreville, Gabon
-[Sat Dec 14]
-  Gabon - Chad  3-0   @ Libreville, Gabon
-[Sun Dec 15]
-  Congo - Cameroon  1-0   @ Libreville, Gabon
-[Wed Dec 18]
-  Chad - Cameroon  1-2   @ Libreville, Gabon
-[Thu Dec 19]
-  Gabon - Congo  3-0   @ Libreville, Gabon
+Sat Dec 7
+  Gabon                v Congo                 1-0   @ Libreville, Gabon
+Sun Dec 8
+  Cameroon             v Equatorial Guinea     2-0   @ Libreville, Gabon
+Mon Dec 9
+  Central African Republic v Congo                 1-4   @ Libreville, Gabon
+Tue Dec 10
+  Chad                 v Equatorial Guinea     1-1   @ Libreville, Gabon
+Wed Dec 11
+  Gabon                v Central African Republic  4-0   @ Libreville, Gabon
+Thu Dec 12
+  Chad                 v Cameroon              2-2   @ Libreville, Gabon
+Sat Dec 14
+  Gabon                v Chad                  3-0   @ Libreville, Gabon
+Sun Dec 15
+  Congo                v Cameroon              1-0   @ Libreville, Gabon
+Wed Dec 18
+  Chad                 v Cameroon              1-2   @ Libreville, Gabon
+Thu Dec 19
+  Gabon                v Congo                 3-0   @ Libreville, Gabon
 

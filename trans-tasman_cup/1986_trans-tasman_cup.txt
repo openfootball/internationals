@@ -1,11 +1,11 @@
 = Trans-Tasman Cup 1986
 
-# Date       Sat Oct/25 - Sun Nov/2 1986 (8d)
+# Date       Sat Oct 25 - Sun Nov 2 1986 (8d)
 # Teams      2
 # Matches    2
 
-[Sat Oct 25]
-  New Zealand - Australia  1-1   @ Auckland, New Zealand
-[Sun Nov 2]
-  Australia - New Zealand  2-1   @ Sydney, Australia
+Sat Oct 25
+  New Zealand          v Australia             1-1   @ Auckland, New Zealand
+Sun Nov 2
+  Australia            v New Zealand           2-1   @ Sydney, Australia
 

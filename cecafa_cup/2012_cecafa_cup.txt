@@ -1,45 +1,45 @@
 = CECAFA Cup 2012
 
-# Date       Sat Nov/24 - Sat Dec/8 2012 (14d)
+# Date       Sat Nov 24 - Sat Dec 8 2012 (14d)
 # Teams      12
 # Matches    26
 
-[Sat Nov 24]
-  Ethiopia - South Sudan  1-0   @ Kampala, Uganda
-  Uganda - Kenya  1-0   @ Kampala, Uganda
-[Sun Nov 25]
-  Burundi - Somalia  5-1   @ Kampala, Uganda
-  Tanzania - Sudan  2-0   @ Kampala, Uganda
-[Mon Nov 26]
-  Rwanda - Malawi  2-0   @ Kampala, Uganda
-  Zanzibar - Eritrea  0-0   @ Kampala, Uganda
-[Tue Nov 27]
-  South Sudan - Kenya  0-2   @ Kampala, Uganda
-  Uganda - Ethiopia  1-0   @ Kampala, Uganda
-[Wed Nov 28]
-  Somalia - Sudan  0-1   @ Kampala, Uganda
-  Tanzania - Burundi  0-1   @ Kampala, Uganda
-[Thu Nov 29]
-  Malawi - Eritrea  3-2   @ Kampala, Uganda
-  Rwanda - Zanzibar  1-2   @ Kampala, Uganda
-[Fri Nov 30]
-  Kenya - Ethiopia  3-1   @ Kampala, Uganda
-  Uganda - South Sudan  4-0   @ Kampala, Uganda
-[Sat Dec 1]
-  Eritrea - Rwanda  0-2   @ Kampala, Uganda
-  Malawi - Zanzibar  2-0   @ Kampala, Uganda
-  Somalia - Tanzania  0-7   @ Kampala, Uganda
-  Sudan - Burundi  0-1   @ Kampala, Uganda
-[Mon Dec 3]
-  Burundi - Zanzibar  0-0   @ Kampala, Uganda
-  Rwanda - Tanzania  0-2   @ Kampala, Uganda
-[Tue Dec 4]
-  Kenya - Malawi  1-0   @ Kampala, Uganda
-  Uganda - Ethiopia  2-0   @ Kampala, Uganda
-[Thu Dec 6]
-  Uganda - Tanzania  3-0   @ Kampala, Uganda
-  Zanzibar - Kenya  2-2   @ Kampala, Uganda
-[Sat Dec 8]
-  Tanzania - Zanzibar  1-1   @ Kampala, Uganda
-  Uganda - Kenya  2-1   @ Kampala, Uganda
+Sat Nov 24
+  Ethiopia             v South Sudan           1-0   @ Kampala, Uganda
+  Uganda               v Kenya                 1-0   @ Kampala, Uganda
+Sun Nov 25
+  Burundi              v Somalia               5-1   @ Kampala, Uganda
+  Tanzania             v Sudan                 2-0   @ Kampala, Uganda
+Mon Nov 26
+  Rwanda               v Malawi                2-0   @ Kampala, Uganda
+  Zanzibar             v Eritrea               0-0   @ Kampala, Uganda
+Tue Nov 27
+  South Sudan          v Kenya                 0-2   @ Kampala, Uganda
+  Uganda               v Ethiopia              1-0   @ Kampala, Uganda
+Wed Nov 28
+  Somalia              v Sudan                 0-1   @ Kampala, Uganda
+  Tanzania             v Burundi               0-1   @ Kampala, Uganda
+Thu Nov 29
+  Malawi               v Eritrea               3-2   @ Kampala, Uganda
+  Rwanda               v Zanzibar              1-2   @ Kampala, Uganda
+Fri Nov 30
+  Kenya                v Ethiopia              3-1   @ Kampala, Uganda
+  Uganda               v South Sudan           4-0   @ Kampala, Uganda
+Sat Dec 1
+  Eritrea              v Rwanda                0-2   @ Kampala, Uganda
+  Malawi               v Zanzibar              2-0   @ Kampala, Uganda
+  Somalia              v Tanzania              0-7   @ Kampala, Uganda
+  Sudan                v Burundi               0-1   @ Kampala, Uganda
+Mon Dec 3
+  Burundi              v Zanzibar              0-0   @ Kampala, Uganda
+  Rwanda               v Tanzania              0-2   @ Kampala, Uganda
+Tue Dec 4
+  Kenya                v Malawi                1-0   @ Kampala, Uganda
+  Uganda               v Ethiopia              2-0   @ Kampala, Uganda
+Thu Dec 6
+  Uganda               v Tanzania              3-0   @ Kampala, Uganda
+  Zanzibar             v Kenya                 2-2   @ Kampala, Uganda
+Sat Dec 8
+  Tanzania             v Zanzibar              1-1   @ Kampala, Uganda
+  Uganda               v Kenya                 2-1   @ Kampala, Uganda
 

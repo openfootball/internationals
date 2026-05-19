@@ -1,22 +1,22 @@
 = King's Cup 1982
 
-# Date       Sat May/1 - Mon May/17 1982 (16d)
+# Date       Sat May 1 - Mon May 17 1982 (16d)
 # Teams      6
 # Matches    8
 
-[Sat May 1]
-  Thailand - Singapore  1-1   @ Bangkok, Thailand
-[Wed May 5]
-  South Korea - Malaysia  5-0   @ Bangkok, Thailand
-  Nepal - Singapore  0-2   @ Bangkok, Thailand
-[Thu May 6]
-  Philippines - Singapore  0-1   @ Bangkok, Thailand
-[Sun May 9]
-  Thailand - South Korea  0-3   @ Bangkok, Thailand
-[Thu May 13]
-  Thailand - Singapore  1-0   @ Bangkok, Thailand
-[Sat May 15]
-  Thailand - Singapore  2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
-[Mon May 17]
-  Thailand - South Korea  0-0   @ Bangkok, Thailand   [Thailand wins on penalties]
+Sat May 1
+  Thailand             v Singapore             1-1   @ Bangkok, Thailand
+Wed May 5
+  South Korea          v Malaysia              5-0   @ Bangkok, Thailand
+  Nepal                v Singapore             0-2   @ Bangkok, Thailand
+Thu May 6
+  Philippines          v Singapore             0-1   @ Bangkok, Thailand
+Sun May 9
+  Thailand             v South Korea           0-3   @ Bangkok, Thailand
+Thu May 13
+  Thailand             v Singapore             1-0   @ Bangkok, Thailand
+Sat May 15
+  Thailand             v Singapore             2-2   @ Bangkok, Thailand   [Thailand wins on penalties]
+Mon May 17
+  Thailand             v South Korea           0-0   @ Bangkok, Thailand   [Thailand wins on penalties]
 

@@ -1,18 +1,18 @@
 = British Home Championship 1885
 
-# Date       Sat Feb/28 - Sat Apr/11 1885 (42d)
+# Date       Sat Feb 28 - Sat Apr 11 1885 (42d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 28]
-  England - Northern Ireland  4-0   @ Manchester, England
-[Sat Mar 14]
-  England - Wales  1-1   @ Blackburn, England
-  Scotland - Northern Ireland  8-2   @ Glasgow, Scotland
-[Sat Mar 21]
-  England - Scotland  1-1   @ London, England
-[Mon Mar 23]
-  Wales - Scotland  1-8   @ Wrexham, Wales
-[Sat Apr 11]
-  Northern Ireland - Wales  2-8   @ Belfast, Ireland
+Sat Feb 28
+  England              v Northern Ireland      4-0   @ Manchester, England
+Sat Mar 14
+  England              v Wales                 1-1   @ Blackburn, England
+  Scotland             v Northern Ireland      8-2   @ Glasgow, Scotland
+Sat Mar 21
+  England              v Scotland              1-1   @ London, England
+Mon Mar 23
+  Wales                v Scotland              1-8   @ Wrexham, Wales
+Sat Apr 11
+  Northern Ireland     v Wales                 2-8   @ Belfast, Ireland
 

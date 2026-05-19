@@ -1,51 +1,51 @@
 = African Cup of Nations 1982
 
-# Date       Fri Mar/5 - Fri Mar/19 1982 (14d)
+# Date       Fri Mar 5 - Fri Mar 19 1982 (14d)
 # Teams      8
 # Matches    16
 
-[Fri Mar 5]
-  Cameroon - Tunisia  1-1   @ Tripoli, Libya
-     Grégoire M'Bida 61';
-     Kamel Gabsi 60'
-  Libya - Ghana  2-2   @ Tripoli, Libya
-     Abdel Razak Jaranah 58' Fawzi Al-Issawi 76';
-     George Alhassan 28' Opoku Nti 89'
-[Sun Mar 7]
-  Algeria - Zambia  1-0   @ Benghazi, Libya
-     Chaabane Merzekane 85'
-  Ethiopia - Nigeria  0-3   @ Benghazi, Libya
-     -; Stephen Keshi 27' Ademola Adeshina 40' Stephen Keshi 84'
-[Tue Mar 9]
-  Cameroon - Ghana  0-0   @ Tripoli, Libya
-  Libya - Tunisia  2-0   @ Tripoli, Libya
-     Kamel Seddik 42' (o.g.) Faraj Al-Bor'osi 89'
-[Wed Mar 10]
-  Algeria - Nigeria  2-1   @ Benghazi, Libya
-     Okey Isima 44' (o.g.) Salah Assad 65';
-     Emmanuel Osigwe 40'
-  Ethiopia - Zambia  0-1   @ Benghazi, Libya
-     -; Geofrey Munshya 68'
-[Fri Mar 12]
-  Ghana - Tunisia  1-0   @ Tripoli, Libya
-     John Ebow Essien 28'
-  Libya - Cameroon  0-0   @ Tripoli, Libya
-[Sat Mar 13]
-  Algeria - Ethiopia  0-0   @ Benghazi, Libya
-  Nigeria - Zambia  0-3   @ Benghazi, Libya
-     -; Peter Kaumba 25' Aaron Njovu 80' Peter Fregene 81' (o.g.)
-[Tue Mar 16]
-  Algeria - Ghana  2-3   @ Benghazi, Libya
-     Djamel Zidane 29' Salah Assad 62';
-     George Alhassan 4' Opoku Nti 90' George Alhassan 103'
-  Libya - Zambia  2-1   @ Tripoli, Libya
-     Ali Al-Beshari 38' Ali Al-Beshari 84';
-     Peter Kaumba 29'
-[Thu Mar 18]
-  Algeria - Zambia  0-2   @ Tripoli, Libya
-     -; Peter Kaumba 2' Geofrey Munshya 25'
-[Fri Mar 19]
-  Libya - Ghana  1-1   @ Tripoli, Libya   [Ghana wins on penalties]
-     Ali Al-Beshari 70';
-     George Alhassan 35'
+Fri Mar 5
+  Cameroon             v Tunisia               1-1   @ Tripoli, Libya
+     (Grégoire M'Bida 61';
+      Kamel Gabsi 60')
+  Libya                v Ghana                 2-2   @ Tripoli, Libya
+     (Abdel Razak Jaranah 58' Fawzi Al-Issawi 76';
+      George Alhassan 28' Opoku Nti 89')
+Sun Mar 7
+  Algeria              v Zambia                1-0   @ Benghazi, Libya
+     (Chaabane Merzekane 85')
+  Ethiopia             v Nigeria               0-3   @ Benghazi, Libya
+     (Stephen Keshi 27' Ademola Adeshina 40' Stephen Keshi 84')
+Tue Mar 9
+  Cameroon             v Ghana                 0-0   @ Tripoli, Libya
+  Libya                v Tunisia               2-0   @ Tripoli, Libya
+     (Kamel Seddik 42'(og) Faraj Al-Bor'osi 89')
+Wed Mar 10
+  Algeria              v Nigeria               2-1   @ Benghazi, Libya
+     (Okey Isima 44'(og) Salah Assad 65';
+      Emmanuel Osigwe 40')
+  Ethiopia             v Zambia                0-1   @ Benghazi, Libya
+     (Geofrey Munshya 68')
+Fri Mar 12
+  Ghana                v Tunisia               1-0   @ Tripoli, Libya
+     (John Ebow Essien 28')
+  Libya                v Cameroon              0-0   @ Tripoli, Libya
+Sat Mar 13
+  Algeria              v Ethiopia              0-0   @ Benghazi, Libya
+  Nigeria              v Zambia                0-3   @ Benghazi, Libya
+     (Peter Kaumba 25' Aaron Njovu 80' Peter Fregene 81'(og))
+Tue Mar 16
+  Algeria              v Ghana                 2-3   @ Benghazi, Libya
+     (Djamel Zidane 29' Salah Assad 62';
+      George Alhassan 4' Opoku Nti 90' George Alhassan 103')
+  Libya                v Zambia                2-1   @ Tripoli, Libya
+     (Ali Al-Beshari 38' Ali Al-Beshari 84';
+      Peter Kaumba 29')
+Thu Mar 18
+  Algeria              v Zambia                0-2   @ Tripoli, Libya
+     (Peter Kaumba 2' Geofrey Munshya 25')
+Fri Mar 19
+  Libya                v Ghana                 1-1   @ Tripoli, Libya   [Ghana wins on penalties]
+     (Ali Al-Beshari 70';
+      George Alhassan 35')
 

@@ -1,31 +1,31 @@
 = CONIFA European Football Cup 2017
 
-# Date       Sun Jun/4 - Sat Jun/10 2017 (6d)
+# Date       Sun Jun 4 - Sat Jun 10 2017 (6d)
 # Teams      8
 # Matches    18
 
-[Sun Jun 4]
-  Northern Cyprus - Kárpátalja  1-0   @ Nicosia, Northern Cyprus
-[Mon Jun 5]
-  Abkhazia - South Ossetia  2-1   @ Kyrenia, Northern Cyprus
-  Padania - Ellan Vannin  1-0   @ Morphou, Northern Cyprus
-  Felvidék - Székely Land  1-0   @ Famagusta, Northern Cyprus
-[Tue Jun 6]
-  Northern Cyprus - South Ossetia  8-0   @ Kyrenia, Northern Cyprus
-  Kárpátalja - Abkhazia  2-2   @ Nicosia, Northern Cyprus
-  Székely Land - Padania  1-1   @ Famagusta, Northern Cyprus
-  Ellan Vannin - Felvidék  1-0   @ Morphou, Northern Cyprus
-[Wed Jun 7]
-  Northern Cyprus - Abkhazia  0-0   @ Morphou, Northern Cyprus
-  South Ossetia - Kárpátalja  1-4   @ Famagusta, Northern Cyprus
-  Ellan Vannin - Székely Land  2-4   @ Kyrenia, Northern Cyprus
-  Padania - Felvidék  2-0   @ Nicosia, Northern Cyprus
-[Fri Jun 9]
-  South Ossetia - Felvidék  0-2   @ Famagusta, Northern Cyprus
-  Kárpátalja - Ellan Vannin  3-3   @ Morphou, Northern Cyprus   [Kárpátalja wins on penalties]
-  Northern Cyprus - Székely Land  2-1   @ Nicosia, Northern Cyprus
-  Padania - Abkhazia  0-0   @ Kyrenia, Northern Cyprus   [Padania wins on penalties]
-[Sat Jun 10]
-  Székely Land - Abkhazia  3-1   @ Kyrenia, Northern Cyprus
-  Northern Cyprus - Padania  1-1   @ Nicosia, Northern Cyprus   [Padania wins on penalties]
+Sun Jun 4
+  Northern Cyprus      v Kárpátalja            1-0   @ Nicosia, Northern Cyprus
+Mon Jun 5
+  Abkhazia             v South Ossetia         2-1   @ Kyrenia, Northern Cyprus
+  Padania              v Ellan Vannin          1-0   @ Morphou, Northern Cyprus
+  Felvidék             v Székely Land          1-0   @ Famagusta, Northern Cyprus
+Tue Jun 6
+  Northern Cyprus      v South Ossetia         8-0   @ Kyrenia, Northern Cyprus
+  Kárpátalja           v Abkhazia              2-2   @ Nicosia, Northern Cyprus
+  Székely Land         v Padania               1-1   @ Famagusta, Northern Cyprus
+  Ellan Vannin         v Felvidék              1-0   @ Morphou, Northern Cyprus
+Wed Jun 7
+  Northern Cyprus      v Abkhazia              0-0   @ Morphou, Northern Cyprus
+  South Ossetia        v Kárpátalja            1-4   @ Famagusta, Northern Cyprus
+  Ellan Vannin         v Székely Land          2-4   @ Kyrenia, Northern Cyprus
+  Padania              v Felvidék              2-0   @ Nicosia, Northern Cyprus
+Fri Jun 9
+  South Ossetia        v Felvidék              0-2   @ Famagusta, Northern Cyprus
+  Kárpátalja           v Ellan Vannin          3-3   @ Morphou, Northern Cyprus   [Kárpátalja wins on penalties]
+  Northern Cyprus      v Székely Land          2-1   @ Nicosia, Northern Cyprus
+  Padania              v Abkhazia              0-0   @ Kyrenia, Northern Cyprus   [Padania wins on penalties]
+Sat Jun 10
+  Székely Land         v Abkhazia              3-1   @ Kyrenia, Northern Cyprus
+  Northern Cyprus      v Padania               1-1   @ Nicosia, Northern Cyprus   [Padania wins on penalties]
 

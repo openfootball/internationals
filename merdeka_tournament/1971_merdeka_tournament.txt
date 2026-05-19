@@ -1,44 +1,44 @@
 = Merdeka Tournament 1971
 
-# Date       Wed Aug/4 - Sat Aug/21 1971 (17d)
+# Date       Wed Aug 4 - Sat Aug 21 1971 (17d)
 # Teams      10
 # Matches    25
 
-[Wed Aug 4]
-  Malaysia - Vietnam Republic  2-0   @ Kuala Lumpur, Malaysia
-[Thu Aug 5]
-  Hong Kong - Singapore  1-2   @ Kuala Lumpur, Malaysia
-  India - Philippines  5-1   @ Kuala Lumpur, Malaysia
-[Sat Aug 7]
-  Myanmar - Singapore  0-1   @ Kuala Lumpur, Malaysia
-  India - Indonesia  1-3   @ Kuala Lumpur, Malaysia
-  Malaysia - Taiwan  0-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Thailand  0-2   @ Kuala Lumpur, Malaysia
-[Mon Aug 9]
-  Myanmar - Indonesia  2-2   @ Kuala Lumpur, Malaysia
-  Taiwan - Thailand  4-0   @ Kuala Lumpur, Malaysia
-  Hong Kong - Philippines  2-1   @ Kuala Lumpur, Malaysia
-[Tue Aug 10]
-  India - Singapore  2-2   @ Kuala Lumpur, Malaysia
-  Thailand - Vietnam Republic  2-4   @ Kuala Lumpur, Malaysia
-[Wed Aug 11]
-  Myanmar - Hong Kong  4-0   @ Kuala Lumpur, Malaysia
-  Indonesia - Philippines  3-1   @ Kuala Lumpur, Malaysia
-[Thu Aug 12]
-  Taiwan - Vietnam Republic  3-2   @ Kuala Lumpur, Malaysia
-[Fri Aug 13]
-  Myanmar - Philippines  2-0   @ Kuala Lumpur, Malaysia
-  Hong Kong - India  2-1   @ Kuala Lumpur, Malaysia
-  Indonesia - Singapore  4-0   @ Ipoh, Malaysia
-[Sun Aug 15]
-  Myanmar - India  9-1   @ Kuala Lumpur, Malaysia
-  Hong Kong - Indonesia  0-3   @ Ipoh, Malaysia
-  Philippines - Singapore  4-4   @ Kuala Lumpur, Malaysia
-[Tue Aug 17]
-  Philippines - Thailand  3-1   @ Kuala Lumpur, Malaysia
-[Wed Aug 18]
-  Indonesia - Taiwan  1-0   @ Kuala Lumpur, Malaysia
-[Sat Aug 21]
-  Myanmar - Indonesia  1-0   @ Kuala Lumpur, Malaysia
-  Hong Kong - Vietnam Republic  1-3   @ Kuala Lumpur, Malaysia
+Wed Aug 4
+  Malaysia             v Vietnam Republic      2-0   @ Kuala Lumpur, Malaysia
+Thu Aug 5
+  Hong Kong            v Singapore             1-2   @ Kuala Lumpur, Malaysia
+  India                v Philippines           5-1   @ Kuala Lumpur, Malaysia
+Sat Aug 7
+  Myanmar              v Singapore             0-1   @ Kuala Lumpur, Malaysia
+  India                v Indonesia             1-3   @ Kuala Lumpur, Malaysia
+  Malaysia             v Taiwan                0-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Thailand              0-2   @ Kuala Lumpur, Malaysia
+Mon Aug 9
+  Myanmar              v Indonesia             2-2   @ Kuala Lumpur, Malaysia
+  Taiwan               v Thailand              4-0   @ Kuala Lumpur, Malaysia
+  Hong Kong            v Philippines           2-1   @ Kuala Lumpur, Malaysia
+Tue Aug 10
+  India                v Singapore             2-2   @ Kuala Lumpur, Malaysia
+  Thailand             v Vietnam Republic      2-4   @ Kuala Lumpur, Malaysia
+Wed Aug 11
+  Myanmar              v Hong Kong             4-0   @ Kuala Lumpur, Malaysia
+  Indonesia            v Philippines           3-1   @ Kuala Lumpur, Malaysia
+Thu Aug 12
+  Taiwan               v Vietnam Republic      3-2   @ Kuala Lumpur, Malaysia
+Fri Aug 13
+  Myanmar              v Philippines           2-0   @ Kuala Lumpur, Malaysia
+  Hong Kong            v India                 2-1   @ Kuala Lumpur, Malaysia
+  Indonesia            v Singapore             4-0   @ Ipoh, Malaysia
+Sun Aug 15
+  Myanmar              v India                 9-1   @ Kuala Lumpur, Malaysia
+  Hong Kong            v Indonesia             0-3   @ Ipoh, Malaysia
+  Philippines          v Singapore             4-4   @ Kuala Lumpur, Malaysia
+Tue Aug 17
+  Philippines          v Thailand              3-1   @ Kuala Lumpur, Malaysia
+Wed Aug 18
+  Indonesia            v Taiwan                1-0   @ Kuala Lumpur, Malaysia
+Sat Aug 21
+  Myanmar              v Indonesia             1-0   @ Kuala Lumpur, Malaysia
+  Hong Kong            v Vietnam Republic      1-3   @ Kuala Lumpur, Malaysia
 

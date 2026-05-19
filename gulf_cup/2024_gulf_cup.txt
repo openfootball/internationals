@@ -1,28 +1,28 @@
 = Gulf Cup 2024
 
-# Date       Sat Dec/21 - Tue Dec/31 2024 (10d)
+# Date       Sat Dec 21 - Tue Dec 31 2024 (10d)
 # Teams      8
 # Matches    14
 
-[Sat Dec 21]
-  Kuwait - Oman  1-1   @ Kuwait City, Kuwait
-  Qatar - United Arab Emirates  1-1   @ Sulaibikhat, Kuwait
-[Sun Dec 22]
-  Iraq - Yemen  1-0   @ Sulaibikhat, Kuwait
-  Saudi Arabia - Bahrain  2-3   @ Kuwait City, Kuwait
-[Tue Dec 24]
-  Oman - Qatar  2-1   @ Sulaibikhat, Kuwait
-  Kuwait - United Arab Emirates  2-1   @ Kuwait City, Kuwait
-[Wed Dec 25]
-  Yemen - Saudi Arabia  2-3   @ Sulaibikhat, Kuwait
-  Bahrain - Iraq  2-0   @ Kuwait City, Kuwait
-[Fri Dec 27]
-  Kuwait - Qatar  1-1   @ Kuwait City, Kuwait
-  United Arab Emirates - Oman  1-1   @ Sulaibikhat, Kuwait
-[Sat Dec 28]
-  Iraq - Saudi Arabia  1-3   @ Kuwait City, Kuwait
-  Bahrain - Yemen  1-2   @ Sulaibikhat, Kuwait
-[Tue Dec 31]
-  Oman - Saudi Arabia  2-1   @ Sulaibikhat, Kuwait
-  Kuwait - Bahrain  0-1   @ Kuwait City, Kuwait
+Sat Dec 21
+  Kuwait               v Oman                  1-1   @ Kuwait City, Kuwait
+  Qatar                v United Arab Emirates  1-1   @ Sulaibikhat, Kuwait
+Sun Dec 22
+  Iraq                 v Yemen                 1-0   @ Sulaibikhat, Kuwait
+  Saudi Arabia         v Bahrain               2-3   @ Kuwait City, Kuwait
+Tue Dec 24
+  Oman                 v Qatar                 2-1   @ Sulaibikhat, Kuwait
+  Kuwait               v United Arab Emirates  2-1   @ Kuwait City, Kuwait
+Wed Dec 25
+  Yemen                v Saudi Arabia          2-3   @ Sulaibikhat, Kuwait
+  Bahrain              v Iraq                  2-0   @ Kuwait City, Kuwait
+Fri Dec 27
+  Kuwait               v Qatar                 1-1   @ Kuwait City, Kuwait
+  United Arab Emirates v Oman                  1-1   @ Sulaibikhat, Kuwait
+Sat Dec 28
+  Iraq                 v Saudi Arabia          1-3   @ Kuwait City, Kuwait
+  Bahrain              v Yemen                 1-2   @ Sulaibikhat, Kuwait
+Tue Dec 31
+  Oman                 v Saudi Arabia          2-1   @ Sulaibikhat, Kuwait
+  Kuwait               v Bahrain               0-1   @ Kuwait City, Kuwait
 

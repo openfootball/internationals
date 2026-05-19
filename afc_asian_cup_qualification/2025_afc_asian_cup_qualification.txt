@@ -1,72 +1,72 @@
 = AFC Asian Cup qualification 2025
 
-# Date       Tue Mar/25 - Wed Nov/19 2025 (239d)
+# Date       Tue Mar 25 - Wed Nov 19 2025 (239d)
 # Teams      24
 # Matches    59
 
-[Tue Mar 25]
-  Tajikistan - Timor-Leste  1-0   @ Dushanbe, Tajikistan
-  Philippines - Maldives  4-1   @ Capas, Philippines
-  Bhutan - Yemen  0-0   @ Thimphu, Bhutan
-  Lebanon - Brunei  5-0   @ Al Wakrah, Qatar
-  India - Bangladesh  0-0   @ Shillong, India
-  Singapore - Hong Kong  0-0   @ Kallang, Singapore
-  Taiwan - Turkmenistan  1-2   @ Kaohsiung, Taiwan
-  Thailand - Sri Lanka  1-0   @ Bangkok, Thailand
-  Myanmar - Afghanistan  2-1   @ Yangon, Myanmar
-  Syria - Pakistan  2-0   @ Al Hofuf, Saudi Arabia
-  Vietnam - Laos  5-0   @ Thu Dau Mot, Vietnam
-  Malaysia - Nepal  2-0   @ Johor, Malaysia
-[Tue Jun 10]
-  Timor-Leste - Maldives  1-0   @ Darwin, Australia
-  Philippines - Tajikistan  2-2   @ Capas, Philippines
-  Brunei - Bhutan  2-1   @ Bandar Seri Begawan, Brunei
-  Yemen - Lebanon  0-0   @ Kuwait City, Kuwait
-  Bangladesh - Singapore  1-2   @ Dhaka, Bangladesh
-  Hong Kong - India  1-0   @ Kowloon, Hong Kong
-  Sri Lanka - Taiwan  3-1   @ Colombo, Sri Lanka
-  Turkmenistan - Thailand  3-1   @ Ashgabat, Turkmenistan
-  Myanmar - Pakistan  1-0   @ Yangon, Myanmar
-  Afghanistan - Syria  0-1   @ Al Hofuf, Saudi Arabia
-  Laos - Nepal  2-1   @ Vientiane, Laos
-  Malaysia - Vietnam  4-0   @ Kuala Lumpur, Malaysia
-[Thu Oct 9]
-  Tajikistan - Maldives  2-0   @ Hisor, Tajikistan
-  Timor-Leste - Philippines  1-4   @ Darwin, Australia
-  Brunei - Yemen  0-2   @ Bandar Seri Begawan, Brunei
-  Lebanon - Bhutan  2-0   @ Doha, Qatar
-  Singapore - India  1-1   @ Kallang, Singapore
-  Bangladesh - Hong Kong  3-4   @ Dhaka, Bangladesh
-  Sri Lanka - Turkmenistan  1-0   @ Colombo, Sri Lanka
-  Thailand - Taiwan  2-0   @ Bangkok, Thailand
-  Pakistan - Afghanistan  0-0   @ Islamabad, Pakistan
-  Syria - Myanmar  5-1   @ Al Hofuf, Saudi Arabia
-  Laos - Malaysia  0-3   @ Vientiane, Laos
-  Vietnam - Nepal  3-1   @ Ho Chi Minh City, Vietnam
-[Tue Oct 14]
-  Maldives - Tajikistan  0-3   @ Malé, Maldives
-  Philippines - Timor-Leste  3-1   @ Capas, Philippines
-  Bhutan - Lebanon  0-4   @ Al Wakrah, Qatar
-  Yemen - Brunei  9-0   @ Kuwait City, Kuwait
-  India - Singapore  1-2   @ Margao, India
-  Hong Kong - Bangladesh  1-1   @ Kowloon, Hong Kong
-  Taiwan - Thailand  1-6   @ Taipei, Taiwan
-  Turkmenistan - Sri Lanka  2-1   @ Arkadag, Turkmenistan
-  Myanmar - Syria  0-3   @ Yangon, Myanmar
-  Afghanistan - Pakistan  1-1   @ Al Farwaniyah, Kuwait
-  Vietnam - Nepal  1-0   @ Ho Chi Minh City, Vietnam
-  Malaysia - Laos  5-1   @ Kuala Lumpur, Malaysia
-[Tue Nov 18]
-  Maldives - Philippines  0-2   @ Malé, Maldives
-  Timor-Leste - Tajikistan  0-5   @ Darwin, Australia
-  Yemen - Bhutan  7-1   @ Kuwait City, Kuwait
-  Brunei - Lebanon  0-3   @ Bandar Seri Begawan, Brunei
-  Bangladesh - India  1-0   @ Dhaka, Bangladesh
-  Hong Kong - Singapore  1-2   @ Kowloon, Hong Kong
-  Sri Lanka - Thailand  0-4   @ Colombo, Sri Lanka
-  Turkmenistan - Taiwan  3-1   @ Arkadag, Turkmenistan
-  Pakistan - Syria  0-5   @ Islamabad, Pakistan
-  Malaysia - Nepal  1-0   @ Kuala Lumpur, Malaysia
-[Wed Nov 19]
-  Laos - Vietnam  0-2   @ Vientiane, Laos
+Tue Mar 25
+  Tajikistan           v Timor-Leste           1-0   @ Dushanbe, Tajikistan
+  Philippines          v Maldives              4-1   @ Capas, Philippines
+  Bhutan               v Yemen                 0-0   @ Thimphu, Bhutan
+  Lebanon              v Brunei                5-0   @ Al Wakrah, Qatar
+  India                v Bangladesh            0-0   @ Shillong, India
+  Singapore            v Hong Kong             0-0   @ Kallang, Singapore
+  Taiwan               v Turkmenistan          1-2   @ Kaohsiung, Taiwan
+  Thailand             v Sri Lanka             1-0   @ Bangkok, Thailand
+  Myanmar              v Afghanistan           2-1   @ Yangon, Myanmar
+  Syria                v Pakistan              2-0   @ Al Hofuf, Saudi Arabia
+  Vietnam              v Laos                  5-0   @ Thu Dau Mot, Vietnam
+  Malaysia             v Nepal                 2-0   @ Johor, Malaysia
+Tue Jun 10
+  Timor-Leste          v Maldives              1-0   @ Darwin, Australia
+  Philippines          v Tajikistan            2-2   @ Capas, Philippines
+  Brunei               v Bhutan                2-1   @ Bandar Seri Begawan, Brunei
+  Yemen                v Lebanon               0-0   @ Kuwait City, Kuwait
+  Bangladesh           v Singapore             1-2   @ Dhaka, Bangladesh
+  Hong Kong            v India                 1-0   @ Kowloon, Hong Kong
+  Sri Lanka            v Taiwan                3-1   @ Colombo, Sri Lanka
+  Turkmenistan         v Thailand              3-1   @ Ashgabat, Turkmenistan
+  Myanmar              v Pakistan              1-0   @ Yangon, Myanmar
+  Afghanistan          v Syria                 0-1   @ Al Hofuf, Saudi Arabia
+  Laos                 v Nepal                 2-1   @ Vientiane, Laos
+  Malaysia             v Vietnam               4-0   @ Kuala Lumpur, Malaysia
+Thu Oct 9
+  Tajikistan           v Maldives              2-0   @ Hisor, Tajikistan
+  Timor-Leste          v Philippines           1-4   @ Darwin, Australia
+  Brunei               v Yemen                 0-2   @ Bandar Seri Begawan, Brunei
+  Lebanon              v Bhutan                2-0   @ Doha, Qatar
+  Singapore            v India                 1-1   @ Kallang, Singapore
+  Bangladesh           v Hong Kong             3-4   @ Dhaka, Bangladesh
+  Sri Lanka            v Turkmenistan          1-0   @ Colombo, Sri Lanka
+  Thailand             v Taiwan                2-0   @ Bangkok, Thailand
+  Pakistan             v Afghanistan           0-0   @ Islamabad, Pakistan
+  Syria                v Myanmar               5-1   @ Al Hofuf, Saudi Arabia
+  Laos                 v Malaysia              0-3   @ Vientiane, Laos
+  Vietnam              v Nepal                 3-1   @ Ho Chi Minh City, Vietnam
+Tue Oct 14
+  Maldives             v Tajikistan            0-3   @ Malé, Maldives
+  Philippines          v Timor-Leste           3-1   @ Capas, Philippines
+  Bhutan               v Lebanon               0-4   @ Al Wakrah, Qatar
+  Yemen                v Brunei                9-0   @ Kuwait City, Kuwait
+  India                v Singapore             1-2   @ Margao, India
+  Hong Kong            v Bangladesh            1-1   @ Kowloon, Hong Kong
+  Taiwan               v Thailand              1-6   @ Taipei, Taiwan
+  Turkmenistan         v Sri Lanka             2-1   @ Arkadag, Turkmenistan
+  Myanmar              v Syria                 0-3   @ Yangon, Myanmar
+  Afghanistan          v Pakistan              1-1   @ Al Farwaniyah, Kuwait
+  Vietnam              v Nepal                 1-0   @ Ho Chi Minh City, Vietnam
+  Malaysia             v Laos                  5-1   @ Kuala Lumpur, Malaysia
+Tue Nov 18
+  Maldives             v Philippines           0-2   @ Malé, Maldives
+  Timor-Leste          v Tajikistan            0-5   @ Darwin, Australia
+  Yemen                v Bhutan                7-1   @ Kuwait City, Kuwait
+  Brunei               v Lebanon               0-3   @ Bandar Seri Begawan, Brunei
+  Bangladesh           v India                 1-0   @ Dhaka, Bangladesh
+  Hong Kong            v Singapore             1-2   @ Kowloon, Hong Kong
+  Sri Lanka            v Thailand              0-4   @ Colombo, Sri Lanka
+  Turkmenistan         v Taiwan                3-1   @ Arkadag, Turkmenistan
+  Pakistan             v Syria                 0-5   @ Islamabad, Pakistan
+  Malaysia             v Nepal                 1-0   @ Kuala Lumpur, Malaysia
+Wed Nov 19
+  Laos                 v Vietnam               0-2   @ Vientiane, Laos
 

@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1925
 
-# Date       Mon May/18 - Fri May/22 1925 (4d)
+# Date       Mon May 18 - Fri May 22 1925 (4d)
 # Teams      3
 # Matches    3
 
-[Mon May 18]
-  Philippines - Japan  4-0   @ Manila, Philippines
-[Wed May 20]
-  Japan - China PR  0-2   @ Manila, Philippines
-[Fri May 22]
-  Philippines - China PR  1-5   @ Manila, Philippines
+Mon May 18
+  Philippines          v Japan                 4-0   @ Manila, Philippines
+Wed May 20
+  Japan                v China PR              0-2   @ Manila, Philippines
+Fri May 22
+  Philippines          v China PR              1-5   @ Manila, Philippines
 

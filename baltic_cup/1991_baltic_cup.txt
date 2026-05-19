@@ -1,18 +1,18 @@
 = Baltic Cup 1991
 
-# Date       Fri Nov/15 - Sun Nov/17 1991 (2d)
+# Date       Fri Nov 15 - Sun Nov 17 1991 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Nov 15]
-  Lithuania - Estonia  4-1   @ Klaipėda, Lithuania
-     Stanislovas Vitkovskis 17' Tomas Ramelis 34' Valdas Urbonas 54' (pen.) Darius Magdišauskas 69';
-     Urmas Kirs 14'
-[Sat Nov 16]
-  Estonia - Latvia  0-2   @ Klaipėda, Lithuania
-     -; Dzintars Sproģis 42' Igors Troickis 79'
-[Sun Nov 17]
-  Lithuania - Latvia  1-1   @ Kretinga, Lithuania
-     Aurelijus Skarbalius 20';
-     Vitalijs Teplovs 14'
+Fri Nov 15
+  Lithuania            v Estonia               4-1   @ Klaipėda, Lithuania
+     (Stanislovas Vitkovskis 17' Tomas Ramelis 34' Valdas Urbonas 54'(p) Darius Magdišauskas 69';
+      Urmas Kirs 14')
+Sat Nov 16
+  Estonia              v Latvia                0-2   @ Klaipėda, Lithuania
+     (Dzintars Sproģis 42' Igors Troickis 79')
+Sun Nov 17
+  Lithuania            v Latvia                1-1   @ Kretinga, Lithuania
+     (Aurelijus Skarbalius 20';
+      Vitalijs Teplovs 14')
 

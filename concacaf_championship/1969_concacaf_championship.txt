@@ -1,50 +1,50 @@
 = CONCACAF Championship 1969
 
-# Date       Sun Nov/23 - Sun Dec/7 1969 (14d)
+# Date       Sun Nov 23 - Sun Dec 7 1969 (14d)
 # Teams      6
 # Matches    15
 
-[Sun Nov 23]
-  Costa Rica - Jamaica  3-0   @ San José, Costa Rica
-     Álvaro Cascante 1' Roy Sáenz 62' Edward Dawkins 67' (o.g.)
-[Thu Nov 27]
-  Costa Rica - Curaçao  2-1   @ San José, Costa Rica
-     Jaime Grant 1' Álvaro Cascante 75';
-     Ismael Croes 30'
-  Mexico - Jamaica  2-0   @ San José, Costa Rica
-     Francisco Mancilla 15' Alfonso Sabater 83'
-  Guatemala - Trinidad and Tobago  2-0   @ San José, Costa Rica
-     Tomás Gamboa 8' Marco Fión 84'
-[Sat Nov 29]
-  Guatemala - Curaçao  6-1   @ San José, Costa Rica
-     Nelson Melgar 4' Daniel Salamanca 24' Rolando Valdez 32' Daniel Salamanca 46' Edgar Meulens 54' (o.g.) Nelson Melgar 82';
-     Carlos Regales 22'
-[Sun Nov 30]
-  Jamaica - Trinidad and Tobago  2-3   @ San José, Costa Rica
-     Delroy Scott 20' Joshua Hamilton 31';
-     Everald Cummings 33' Keith Douglas 40' Ulrich Haynes 85'
-  Costa Rica - Mexico  2-0   @ San José, Costa Rica
-     Jaime Grant 4' Roy Sáenz 33'
-[Tue Dec 2]
-  Curaçao - Trinidad and Tobago  3-1   @ San José, Costa Rica
-     Melvin Loefstok 11' Melvin Loefstok 49' Martijn 65';
-     Ulrich Haynes 4'
-  Mexico - Guatemala  0-1   @ San José, Costa Rica
-     -; Marco Fión 46'
-[Thu Dec 4]
-  Costa Rica - Trinidad and Tobago  5-0   @ San José, Costa Rica
-     Víctor Ruiz 10' Víctor Ruiz 55' Víctor Ruiz 65' Víctor Ruiz 70' Wálter Elizondo 85' (pen.)
-  Jamaica - Guatemala  0-0   @ San José, Costa Rica
-  Mexico - Curaçao  2-2   @ San José, Costa Rica
-     José Álvarez Crespo 69' Leopoldo Barba 71';
-     Adelbert Toppenberg 42' Adelbert Toppenberg 65'
-[Sat Dec 6]
-  Jamaica - Curaçao  1-2   @ San José, Costa Rica
-     David Largie 50';
-     Carlos Regales 6' Martijn 48'
-[Sun Dec 7]
-  Mexico - Trinidad and Tobago  0-0   @ San José, Costa Rica
-  Costa Rica - Guatemala  1-1   @ San José, Costa Rica
-     Vicente Wanchope 50';
-     Marco Antonio Fión 7'
+Sun Nov 23
+  Costa Rica           v Jamaica               3-0   @ San José, Costa Rica
+     (Álvaro Cascante 1' Roy Sáenz 62' Edward Dawkins 67'(og))
+Thu Nov 27
+  Costa Rica           v Curaçao               2-1   @ San José, Costa Rica
+     (Jaime Grant 1' Álvaro Cascante 75';
+      Ismael Croes 30')
+  Mexico               v Jamaica               2-0   @ San José, Costa Rica
+     (Francisco Mancilla 15' Alfonso Sabater 83')
+  Guatemala            v Trinidad and Tobago   2-0   @ San José, Costa Rica
+     (Tomás Gamboa 8' Marco Fión 84')
+Sat Nov 29
+  Guatemala            v Curaçao               6-1   @ San José, Costa Rica
+     (Nelson Melgar 4' Daniel Salamanca 24' Rolando Valdez 32' Daniel Salamanca 46' Edgar Meulens 54'(og) Nelson Melgar 82';
+      Carlos Regales 22')
+Sun Nov 30
+  Jamaica              v Trinidad and Tobago   2-3   @ San José, Costa Rica
+     (Delroy Scott 20' Joshua Hamilton 31';
+      Everald Cummings 33' Keith Douglas 40' Ulrich Haynes 85')
+  Costa Rica           v Mexico                2-0   @ San José, Costa Rica
+     (Jaime Grant 4' Roy Sáenz 33')
+Tue Dec 2
+  Curaçao              v Trinidad and Tobago   3-1   @ San José, Costa Rica
+     (Melvin Loefstok 11' Melvin Loefstok 49' Martijn 65';
+      Ulrich Haynes 4')
+  Mexico               v Guatemala             0-1   @ San José, Costa Rica
+     (Marco Fión 46')
+Thu Dec 4
+  Costa Rica           v Trinidad and Tobago   5-0   @ San José, Costa Rica
+     (Víctor Ruiz 10' Víctor Ruiz 55' Víctor Ruiz 65' Víctor Ruiz 70' Wálter Elizondo 85'(p))
+  Jamaica              v Guatemala             0-0   @ San José, Costa Rica
+  Mexico               v Curaçao               2-2   @ San José, Costa Rica
+     (José Álvarez Crespo 69' Leopoldo Barba 71';
+      Adelbert Toppenberg 42' Adelbert Toppenberg 65')
+Sat Dec 6
+  Jamaica              v Curaçao               1-2   @ San José, Costa Rica
+     (David Largie 50';
+      Carlos Regales 6' Martijn 48')
+Sun Dec 7
+  Mexico               v Trinidad and Tobago   0-0   @ San José, Costa Rica
+  Costa Rica           v Guatemala             1-1   @ San José, Costa Rica
+     (Vicente Wanchope 50';
+      Marco Antonio Fión 7')
 

@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1971
 
-# Date       Wed Jul/21 - Wed Aug/4 1971 (14d)
+# Date       Wed Jul 21 - Wed Aug 4 1971 (14d)
 # Teams      2
 # Matches    2
 
-[Wed Jul 21]
-  Chile - Argentina  2-2   @ Santiago, Chile
-[Wed Aug 4]
-  Argentina - Chile  1-0   @ Buenos Aires, Argentina
+Wed Jul 21
+  Chile                v Argentina             2-2   @ Santiago, Chile
+Wed Aug 4
+  Argentina            v Chile                 1-0   @ Buenos Aires, Argentina
 

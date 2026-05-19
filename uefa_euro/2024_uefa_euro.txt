@@ -1,154 +1,154 @@
 = UEFA Euro 2024
 
-# Date       Fri Jun/14 - Sun Jul/14 2024 (30d)
+# Date       Fri Jun 14 - Sun Jul 14 2024 (30d)
 # Teams      24
 # Matches    51
 
-[Fri Jun 14]
-  Germany - Scotland  5-1   @ Munich, Germany
-     Florian Wirtz 10' Jamal Musiala 19' Kai Havertz 45' (pen.) Niclas Füllkrug 68' Emre Can 90';
-     Antonio Rüdiger 87' (o.g.)
-[Sat Jun 15]
-  Hungary - Switzerland  1-3   @ Cologne, Germany
-     Barnabás Varga 66';
-     Kwadwo Duah 12' Michel Aebischer 45' Breel Embolo 90'
-  Spain - Croatia  3-0   @ Berlin, Germany
-     Álvaro Morata 29' Fabián Ruiz 32' Dani Carvajal 45'
-  Italy - Albania  2-1   @ Dortmund, Germany
-     Alessandro Bastoni 11' Nicolò Barella 16';
-     Nedim Bajrami 1'
-[Sun Jun 16]
-  Slovenia - Denmark  1-1   @ Stuttgart, Germany
-     Erik Janža 77';
-     Christian Eriksen 17'
-  Serbia - England  0-1   @ Gelsenkirchen, Germany
-     -; Jude Bellingham 13'
-  Poland - Netherlands  1-2   @ Hamburg, Germany
-     Adam Buksa 16';
-     Cody Gakpo 29' Wout Weghorst 83'
-[Mon Jun 17]
-  Austria - France  0-1   @ Düsseldorf, Germany
-     -; Maximilian Wöber 38' (o.g.)
-  Romania - Ukraine  3-0   @ Munich, Germany
-     Nicolae Stanciu 29' Răzvan Marin 53' Denis Drăguș 57'
-  Belgium - Slovakia  0-1   @ Frankfurt, Germany
-     -; Ivan Schranz 7'
-[Tue Jun 18]
-  Turkey - Georgia  3-1   @ Dortmund, Germany
-     Mert Müldür 25' Arda Güler 65' Kerem Aktürkoğlu 90';
-     Georges Mikautadze 32'
-  Portugal - Czech Republic  2-1   @ Leipzig, Germany
-     Robin Hranáč 69' (o.g.) Francisco Conceição 90';
-     Lukáš Provod 62'
-[Wed Jun 19]
-  Germany - Hungary  2-0   @ Stuttgart, Germany
-     Jamal Musiala 22' İlkay Gündoğan 67'
-  Scotland - Switzerland  1-1   @ Cologne, Germany
-     Scott McTominay 13';
-     Xherdan Shaqiri 26'
-  Croatia - Albania  2-2   @ Hamburg, Germany
-     Andrej Kramarić 74' Klaus Gjasula 76' (o.g.);
-     Qazim Laçi 11' Klaus Gjasula 90'
-[Thu Jun 20]
-  Spain - Italy  1-0   @ Gelsenkirchen, Germany
-     Riccardo Calafiori 55' (o.g.)
-  Slovenia - Serbia  1-1   @ Munich, Germany
-     Žan Karničnik 69';
-     Luka Jović 90'
-  Denmark - England  1-1   @ Frankfurt, Germany
-     Morten Hjulmand 34';
-     Harry Kane 18'
-[Fri Jun 21]
-  Poland - Austria  1-3   @ Berlin, Germany
-     Krzysztof Piątek 30';
-     Gernot Trauner 9' Christoph Baumgartner 66' Marko Arnautović 78' (pen.)
-  Netherlands - France  0-0   @ Leipzig, Germany
-  Slovakia - Ukraine  1-2   @ Düsseldorf, Germany
-     Ivan Schranz 17';
-     Mykola Shaparenko 54' Roman Yaremchuk 80'
-[Sat Jun 22]
-  Belgium - Romania  2-0   @ Cologne, Germany
-     Youri Tielemans 2' Kevin De Bruyne 80'
-  Georgia - Czech Republic  1-1   @ Hamburg, Germany
-     Georges Mikautadze 45' (pen.);
-     Patrik Schick 59'
-  Turkey - Portugal  0-3   @ Dortmund, Germany
-     -; Bernardo Silva 21' Samet Akaydin 28' (o.g.) Bruno Fernandes 56'
-[Sun Jun 23]
-  Germany - Switzerland  1-1   @ Frankfurt, Germany
-     Niclas Füllkrug 90';
-     Dan Ndoye 28'
-  Scotland - Hungary  0-1   @ Stuttgart, Germany
-     -; Kevin Csoboth 90'
-[Mon Jun 24]
-  Albania - Spain  0-1   @ Düsseldorf, Germany
-     -; Ferran Torres 13'
-  Croatia - Italy  1-1   @ Leipzig, Germany
-     Luka Modrić 55';
-     Mattia Zaccagni 90'
-[Tue Jun 25]
-  England - Slovenia  0-0   @ Cologne, Germany
-  Denmark - Serbia  0-0   @ Munich, Germany
-  Netherlands - Austria  2-3   @ Berlin, Germany
-     Cody Gakpo 47' Memphis Depay 75';
-     Donyell Malen 6' (o.g.) Romano Schmid 59' Marcel Sabitzer 80'
-  France - Poland  1-1   @ Dortmund, Germany
-     Kylian Mbappé 56' (pen.);
-     Robert Lewandowski 79' (pen.)
-[Wed Jun 26]
-  Slovakia - Romania  1-1   @ Frankfurt, Germany
-     Ondrej Duda 24';
-     Răzvan Marin 37' (pen.)
-  Ukraine - Belgium  0-0   @ Stuttgart, Germany
-  Georgia - Portugal  2-0   @ Gelsenkirchen, Germany
-     Khvicha Kvaratskhelia 2' Georges Mikautadze 57' (pen.)
-  Czech Republic - Turkey  1-2   @ Hamburg, Germany
-     Tomáš Souček 66';
-     Hakan Çalhanoğlu 51' Cenk Tosun 90'
-[Sat Jun 29]
-  Switzerland - Italy  2-0   @ Berlin, Germany
-     Remo Freuler 37' Ruben Vargas 46'
-  Germany - Denmark  2-0   @ Dortmund, Germany
-     Kai Havertz 53' (pen.) Jamal Musiala 68'
-[Sun Jun 30]
-  England - Slovakia  2-1   @ Gelsenkirchen, Germany
-     Jude Bellingham 90' Harry Kane 91';
-     Ivan Schranz 25'
-  Spain - Georgia  4-1   @ Cologne, Germany
-     Rodri 39' Fabián Ruiz 51' Nico Williams 75' Dani Olmo 83';
-     Robin Le Normand 18' (o.g.)
-[Mon Jul 1]
-  France - Belgium  1-0   @ Düsseldorf, Germany
-     Jan Vertonghen 85' (o.g.)
-  Portugal - Slovenia  0-0   @ Frankfurt, Germany   [Portugal wins on penalties]
-[Tue Jul 2]
-  Romania - Netherlands  0-3   @ Munich, Germany
-     -; Cody Gakpo 20' Donyell Malen 83' Donyell Malen 90'
-  Austria - Turkey  1-2   @ Leipzig, Germany
-     Michael Gregoritsch 66';
-     Merih Demiral 1' Merih Demiral 59'
-[Fri Jul 5]
-  Germany - Spain  1-2   @ Stuttgart, Germany
-     Florian Wirtz 89';
-     Dani Olmo 51' Mikel Merino 119'
-  Portugal - France  0-0   @ Hamburg, Germany   [France wins on penalties]
-[Sat Jul 6]
-  England - Switzerland  1-1   @ Düsseldorf, Germany   [England wins on penalties]
-     Bukayo Saka 80';
-     Breel Embolo 75'
-  Netherlands - Turkey  2-1   @ Berlin, Germany
-     Stefan de Vrij 70' Mert Müldür 76' (o.g.);
-     Samet Akaydin 35'
-[Tue Jul 9]
-  Spain - France  2-1   @ Munich, Germany
-     Lamine Yamal 21' Dani Olmo 25';
-     Randal Kolo Muani 9'
-[Wed Jul 10]
-  Netherlands - England  1-2   @ Dortmund, Germany
-     Xavi Simons 7';
-     Harry Kane 18' (pen.) Ollie Watkins 90'
-[Sun Jul 14]
-  Spain - England  2-1   @ Berlin, Germany
-     Nico Williams 47' Mikel Oyarzabal 86';
-     Cole Palmer 73'
+Fri Jun 14
+  Germany              v Scotland              5-1   @ Munich, Germany
+     (Florian Wirtz 10' Jamal Musiala 19' Kai Havertz 45'(p) Niclas Füllkrug 68' Emre Can 90';
+      Antonio Rüdiger 87'(og))
+Sat Jun 15
+  Hungary              v Switzerland           1-3   @ Cologne, Germany
+     (Barnabás Varga 66';
+      Kwadwo Duah 12' Michel Aebischer 45' Breel Embolo 90')
+  Spain                v Croatia               3-0   @ Berlin, Germany
+     (Álvaro Morata 29' Fabián Ruiz 32' Dani Carvajal 45')
+  Italy                v Albania               2-1   @ Dortmund, Germany
+     (Alessandro Bastoni 11' Nicolò Barella 16';
+      Nedim Bajrami 1')
+Sun Jun 16
+  Slovenia             v Denmark               1-1   @ Stuttgart, Germany
+     (Erik Janža 77';
+      Christian Eriksen 17')
+  Serbia               v England               0-1   @ Gelsenkirchen, Germany
+     (Jude Bellingham 13')
+  Poland               v Netherlands           1-2   @ Hamburg, Germany
+     (Adam Buksa 16';
+      Cody Gakpo 29' Wout Weghorst 83')
+Mon Jun 17
+  Austria              v France                0-1   @ Düsseldorf, Germany
+     (Maximilian Wöber 38'(og))
+  Romania              v Ukraine               3-0   @ Munich, Germany
+     (Nicolae Stanciu 29' Răzvan Marin 53' Denis Drăguș 57')
+  Belgium              v Slovakia              0-1   @ Frankfurt, Germany
+     (Ivan Schranz 7')
+Tue Jun 18
+  Turkey               v Georgia               3-1   @ Dortmund, Germany
+     (Mert Müldür 25' Arda Güler 65' Kerem Aktürkoğlu 90';
+      Georges Mikautadze 32')
+  Portugal             v Czech Republic        2-1   @ Leipzig, Germany
+     (Robin Hranáč 69'(og) Francisco Conceição 90';
+      Lukáš Provod 62')
+Wed Jun 19
+  Germany              v Hungary               2-0   @ Stuttgart, Germany
+     (Jamal Musiala 22' İlkay Gündoğan 67')
+  Scotland             v Switzerland           1-1   @ Cologne, Germany
+     (Scott McTominay 13';
+      Xherdan Shaqiri 26')
+  Croatia              v Albania               2-2   @ Hamburg, Germany
+     (Andrej Kramarić 74' Klaus Gjasula 76'(og);
+      Qazim Laçi 11' Klaus Gjasula 90')
+Thu Jun 20
+  Spain                v Italy                 1-0   @ Gelsenkirchen, Germany
+     (Riccardo Calafiori 55'(og))
+  Slovenia             v Serbia                1-1   @ Munich, Germany
+     (Žan Karničnik 69';
+      Luka Jović 90')
+  Denmark              v England               1-1   @ Frankfurt, Germany
+     (Morten Hjulmand 34';
+      Harry Kane 18')
+Fri Jun 21
+  Poland               v Austria               1-3   @ Berlin, Germany
+     (Krzysztof Piątek 30';
+      Gernot Trauner 9' Christoph Baumgartner 66' Marko Arnautović 78'(p))
+  Netherlands          v France                0-0   @ Leipzig, Germany
+  Slovakia             v Ukraine               1-2   @ Düsseldorf, Germany
+     (Ivan Schranz 17';
+      Mykola Shaparenko 54' Roman Yaremchuk 80')
+Sat Jun 22
+  Belgium              v Romania               2-0   @ Cologne, Germany
+     (Youri Tielemans 2' Kevin De Bruyne 80')
+  Georgia              v Czech Republic        1-1   @ Hamburg, Germany
+     (Georges Mikautadze 45'(p);
+      Patrik Schick 59')
+  Turkey               v Portugal              0-3   @ Dortmund, Germany
+     (Bernardo Silva 21' Samet Akaydin 28'(og) Bruno Fernandes 56')
+Sun Jun 23
+  Germany              v Switzerland           1-1   @ Frankfurt, Germany
+     (Niclas Füllkrug 90';
+      Dan Ndoye 28')
+  Scotland             v Hungary               0-1   @ Stuttgart, Germany
+     (Kevin Csoboth 90')
+Mon Jun 24
+  Albania              v Spain                 0-1   @ Düsseldorf, Germany
+     (Ferran Torres 13')
+  Croatia              v Italy                 1-1   @ Leipzig, Germany
+     (Luka Modrić 55';
+      Mattia Zaccagni 90')
+Tue Jun 25
+  England              v Slovenia              0-0   @ Cologne, Germany
+  Denmark              v Serbia                0-0   @ Munich, Germany
+  Netherlands          v Austria               2-3   @ Berlin, Germany
+     (Cody Gakpo 47' Memphis Depay 75';
+      Donyell Malen 6'(og) Romano Schmid 59' Marcel Sabitzer 80')
+  France               v Poland                1-1   @ Dortmund, Germany
+     (Kylian Mbappé 56'(p);
+      Robert Lewandowski 79'(p))
+Wed Jun 26
+  Slovakia             v Romania               1-1   @ Frankfurt, Germany
+     (Ondrej Duda 24';
+      Răzvan Marin 37'(p))
+  Ukraine              v Belgium               0-0   @ Stuttgart, Germany
+  Georgia              v Portugal              2-0   @ Gelsenkirchen, Germany
+     (Khvicha Kvaratskhelia 2' Georges Mikautadze 57'(p))
+  Czech Republic       v Turkey                1-2   @ Hamburg, Germany
+     (Tomáš Souček 66';
+      Hakan Çalhanoğlu 51' Cenk Tosun 90')
+Sat Jun 29
+  Switzerland          v Italy                 2-0   @ Berlin, Germany
+     (Remo Freuler 37' Ruben Vargas 46')
+  Germany              v Denmark               2-0   @ Dortmund, Germany
+     (Kai Havertz 53'(p) Jamal Musiala 68')
+Sun Jun 30
+  England              v Slovakia              2-1   @ Gelsenkirchen, Germany
+     (Jude Bellingham 90' Harry Kane 91';
+      Ivan Schranz 25')
+  Spain                v Georgia               4-1   @ Cologne, Germany
+     (Rodri 39' Fabián Ruiz 51' Nico Williams 75' Dani Olmo 83';
+      Robin Le Normand 18'(og))
+Mon Jul 1
+  France               v Belgium               1-0   @ Düsseldorf, Germany
+     (Jan Vertonghen 85'(og))
+  Portugal             v Slovenia              0-0   @ Frankfurt, Germany   [Portugal wins on penalties]
+Tue Jul 2
+  Romania              v Netherlands           0-3   @ Munich, Germany
+     (Cody Gakpo 20' Donyell Malen 83' Donyell Malen 90')
+  Austria              v Turkey                1-2   @ Leipzig, Germany
+     (Michael Gregoritsch 66';
+      Merih Demiral 1' Merih Demiral 59')
+Fri Jul 5
+  Germany              v Spain                 1-2   @ Stuttgart, Germany
+     (Florian Wirtz 89';
+      Dani Olmo 51' Mikel Merino 119')
+  Portugal             v France                0-0   @ Hamburg, Germany   [France wins on penalties]
+Sat Jul 6
+  England              v Switzerland           1-1   @ Düsseldorf, Germany   [England wins on penalties]
+     (Bukayo Saka 80';
+      Breel Embolo 75')
+  Netherlands          v Turkey                2-1   @ Berlin, Germany
+     (Stefan de Vrij 70' Mert Müldür 76'(og);
+      Samet Akaydin 35')
+Tue Jul 9
+  Spain                v France                2-1   @ Munich, Germany
+     (Lamine Yamal 21' Dani Olmo 25';
+      Randal Kolo Muani 9')
+Wed Jul 10
+  Netherlands          v England               1-2   @ Dortmund, Germany
+     (Xavi Simons 7';
+      Harry Kane 18'(p) Ollie Watkins 90')
+Sun Jul 14
+  Spain                v England               2-1   @ Berlin, Germany
+     (Nico Williams 47' Mikel Oyarzabal 86';
+      Cole Palmer 73')
 

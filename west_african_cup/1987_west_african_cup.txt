@@ -1,21 +1,21 @@
 = West African Cup 1987
 
-# Date       Sat Jan/31 - Sun Feb/8 1987 (8d)
+# Date       Sat Jan 31 - Sun Feb 8 1987 (8d)
 # Teams      6
 # Matches    7
 
-[Sat Jan 31]
-  Ivory Coast - Ghana  0-2   @ Monrovia, Liberia
-[Sun Feb 1]
-  Liberia - Burkina Faso  2-0   @ Monrovia, Liberia
-[Mon Feb 2]
-  Niger - Ghana  0-4   @ Monrovia, Liberia
-[Tue Feb 3]
-  Liberia - Benin  0-0   @ Monrovia, Liberia
-[Wed Feb 4]
-  Niger - Ivory Coast  0-1   @ Monrovia, Liberia
-[Thu Feb 5]
-  Burkina Faso - Benin  3-2   @ Monrovia, Liberia
-[Sun Feb 8]
-  Liberia - Ghana  1-2   @ Monrovia, Liberia
+Sat Jan 31
+  Ivory Coast          v Ghana                 0-2   @ Monrovia, Liberia
+Sun Feb 1
+  Liberia              v Burkina Faso          2-0   @ Monrovia, Liberia
+Mon Feb 2
+  Niger                v Ghana                 0-4   @ Monrovia, Liberia
+Tue Feb 3
+  Liberia              v Benin                 0-0   @ Monrovia, Liberia
+Wed Feb 4
+  Niger                v Ivory Coast           0-1   @ Monrovia, Liberia
+Thu Feb 5
+  Burkina Faso         v Benin                 3-2   @ Monrovia, Liberia
+Sun Feb 8
+  Liberia              v Ghana                 1-2   @ Monrovia, Liberia
 

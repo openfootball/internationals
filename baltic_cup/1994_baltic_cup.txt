@@ -1,16 +1,16 @@
 = Baltic Cup 1994
 
-# Date       Fri Jul/29 - Sun Jul/31 1994 (2d)
+# Date       Fri Jul 29 - Sun Jul 31 1994 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Jul 29]
-  Lithuania - Estonia  3-0   @ Vilnius, Lithuania
-     Valdas Ivanauskas 11' (pen.) Valdas Ivanauskas 23' Saulius Mikalajūnas 61'
-[Sat Jul 30]
-  Estonia - Latvia  0-2   @ Vilnius, Lithuania
-     -; Vitālijs Astafjevs 31' Rolands Bulders 37'
-[Sun Jul 31]
-  Lithuania - Latvia  1-0   @ Vilnius, Lithuania
-     Andrėjus Tereškinas 67' (pen.)
+Fri Jul 29
+  Lithuania            v Estonia               3-0   @ Vilnius, Lithuania
+     (Valdas Ivanauskas 11'(p) Valdas Ivanauskas 23' Saulius Mikalajūnas 61')
+Sat Jul 30
+  Estonia              v Latvia                0-2   @ Vilnius, Lithuania
+     (Vitālijs Astafjevs 31' Rolands Bulders 37')
+Sun Jul 31
+  Lithuania            v Latvia                1-0   @ Vilnius, Lithuania
+     (Andrėjus Tereškinas 67'(p))
 

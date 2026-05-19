@@ -1,31 +1,31 @@
 = COSAFA Cup 2002
 
-# Date       Sat Mar/16 - Sat Sep/28 2002 (196d)
+# Date       Sat Mar 16 - Sat Sep 28 2002 (196d)
 # Teams      12
 # Matches    12
 
-[Sat Mar 16]
-  Mauritius - Madagascar  2-3   @ Mapou, Mauritius
-[Sat Mar 30]
-  Botswana - South Africa  0-0   @ Gaborone, Botswana   [South Africa wins on penalties]
-[Sun Apr 7]
-  Lesotho - Mozambique  0-2   @ Maseru, Lesotho
-[Sun Apr 21]
-  Eswatini - Namibia  2-1   @ Lobamba, Swaziland
-[Sun May 5]
-  Zimbabwe - Eswatini  0-2   @ Harare, Zimbabwe
-[Sat May 18]
-  Malawi - Angola  2-1   @ Blantyre, Malawi
-[Sat Jul 6]
-  Zambia - Mozambique  3-0   @ Lusaka, Zambia
-[Sun Jul 21]
-  South Africa - Madagascar  0-0   @ Port Elizabeth, South Africa   [South Africa wins on penalties]
-[Sat Aug 10]
-  Malawi - Zambia  1-0   @ Blantyre, Malawi
-[Sat Aug 24]
-  South Africa - Eswatini  4-1   @ Polokwane, South Africa
-[Sat Sep 21]
-  Malawi - South Africa  1-3   @ Blantyre, Malawi
-[Sat Sep 28]
-  South Africa - Malawi  1-0   @ Durban, South Africa
+Sat Mar 16
+  Mauritius            v Madagascar            2-3   @ Mapou, Mauritius
+Sat Mar 30
+  Botswana             v South Africa          0-0   @ Gaborone, Botswana   [South Africa wins on penalties]
+Sun Apr 7
+  Lesotho              v Mozambique            0-2   @ Maseru, Lesotho
+Sun Apr 21
+  Eswatini             v Namibia               2-1   @ Lobamba, Swaziland
+Sun May 5
+  Zimbabwe             v Eswatini              0-2   @ Harare, Zimbabwe
+Sat May 18
+  Malawi               v Angola                2-1   @ Blantyre, Malawi
+Sat Jul 6
+  Zambia               v Mozambique            3-0   @ Lusaka, Zambia
+Sun Jul 21
+  South Africa         v Madagascar            0-0   @ Port Elizabeth, South Africa   [South Africa wins on penalties]
+Sat Aug 10
+  Malawi               v Zambia                1-0   @ Blantyre, Malawi
+Sat Aug 24
+  South Africa         v Eswatini              4-1   @ Polokwane, South Africa
+Sat Sep 21
+  Malawi               v South Africa          1-3   @ Blantyre, Malawi
+Sat Sep 28
+  South Africa         v Malawi                1-0   @ Durban, South Africa
 

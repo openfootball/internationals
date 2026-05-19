@@ -1,11 +1,11 @@
 = Copa Rio Branco 1950
 
-# Date       Sat May/6 - Sun May/14 1950 (8d)
+# Date       Sat May 6 - Sun May 14 1950 (8d)
 # Teams      2
 # Matches    2
 
-[Sat May 6]
-  Brazil - Uruguay  3-4   @ São Paulo, Brazil
-[Sun May 14]
-  Brazil - Uruguay  3-2   @ Rio de Janeiro, Brazil
+Sat May 6
+  Brazil               v Uruguay               3-4   @ São Paulo, Brazil
+Sun May 14
+  Brazil               v Uruguay               3-2   @ Rio de Janeiro, Brazil
 

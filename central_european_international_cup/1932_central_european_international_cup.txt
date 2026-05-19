@@ -1,25 +1,25 @@
 = Central European International Cup 1932
 
-# Date       Sun Feb/14 - Fri Oct/28 1932 (257d)
+# Date       Sun Feb 14 - Fri Oct 28 1932 (257d)
 # Teams      5
 # Matches    9
 
-[Sun Feb 14]
-  Italy - Switzerland  3-0   @ Naples, Italy
-[Sun Mar 20]
-  Austria - Italy  2-1   @ Vienna, Austria
-[Sun Apr 17]
-  Switzerland - Czechoslovakia  5-1   @ Zürich, Switzerland
-[Sun May 8]
-  Hungary - Italy  1-1   @ Budapest, Hungary
-[Sun May 22]
-  Czechoslovakia - Austria  1-1   @ Prague, Czechoslovakia
-[Sun Jun 19]
-  Switzerland - Hungary  3-1   @ Bern, Switzerland
-[Sun Sep 18]
-  Hungary - Czechoslovakia  2-1   @ Budapest, Hungary
-[Sun Oct 23]
-  Austria - Switzerland  3-1   @ Vienna, Austria
-[Fri Oct 28]
-  Czechoslovakia - Italy  2-1   @ Prague, Czechoslovakia
+Sun Feb 14
+  Italy                v Switzerland           3-0   @ Naples, Italy
+Sun Mar 20
+  Austria              v Italy                 2-1   @ Vienna, Austria
+Sun Apr 17
+  Switzerland          v Czechoslovakia        5-1   @ Zürich, Switzerland
+Sun May 8
+  Hungary              v Italy                 1-1   @ Budapest, Hungary
+Sun May 22
+  Czechoslovakia       v Austria               1-1   @ Prague, Czechoslovakia
+Sun Jun 19
+  Switzerland          v Hungary               3-1   @ Bern, Switzerland
+Sun Sep 18
+  Hungary              v Czechoslovakia        2-1   @ Budapest, Hungary
+Sun Oct 23
+  Austria              v Switzerland           3-1   @ Vienna, Austria
+Fri Oct 28
+  Czechoslovakia       v Italy                 2-1   @ Prague, Czechoslovakia
 

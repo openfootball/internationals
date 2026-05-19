@@ -1,19 +1,19 @@
 = British Home Championship 1926
 
-# Date       Sat Feb/13 - Sat Oct/30 1926 (259d)
+# Date       Sat Feb 13 - Sat Oct 30 1926 (259d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 13]
-  Northern Ireland - Wales  3-0   @ Belfast, Northern Ireland
-[Sat Feb 27]
-  Scotland - Northern Ireland  4-0   @ Glasgow, Scotland
-[Mon Mar 1]
-  England - Wales  1-3   @ London, England
-[Sat Apr 17]
-  England - Scotland  0-1   @ Manchester, England
-[Wed Oct 20]
-  England - Northern Ireland  3-3   @ Liverpool, England
-[Sat Oct 30]
-  Scotland - Wales  3-0   @ Glasgow, Scotland
+Sat Feb 13
+  Northern Ireland     v Wales                 3-0   @ Belfast, Northern Ireland
+Sat Feb 27
+  Scotland             v Northern Ireland      4-0   @ Glasgow, Scotland
+Mon Mar 1
+  England              v Wales                 1-3   @ London, England
+Sat Apr 17
+  England              v Scotland              0-1   @ Manchester, England
+Wed Oct 20
+  England              v Northern Ireland      3-3   @ Liverpool, England
+Sat Oct 30
+  Scotland             v Wales                 3-0   @ Glasgow, Scotland
 

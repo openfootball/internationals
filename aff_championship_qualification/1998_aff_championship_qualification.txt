@@ -1,19 +1,19 @@
 = AFF Championship qualification 1998
 
-# Date       Sat Mar/14 - Sat Mar/28 1998 (14d)
+# Date       Sat Mar 14 - Sat Mar 28 1998 (14d)
 # Teams      6
 # Matches    6
 
-[Sat Mar 14]
-  Myanmar - Brunei  4-1   @ Yangon, Myanmar
-[Mon Mar 16]
-  Laos - Brunei  2-1   @ Yangon, Myanmar
-[Wed Mar 18]
-  Myanmar - Laos  3-0   @ Yangon, Myanmar
-[Tue Mar 24]
-  Singapore - Philippines  1-0   @ Singapore, Singapore
-[Thu Mar 26]
-  Cambodia - Philippines  1-1   @ Singapore, Singapore
-[Sat Mar 28]
-  Singapore - Cambodia  3-0   @ Singapore, Singapore
+Sat Mar 14
+  Myanmar              v Brunei                4-1   @ Yangon, Myanmar
+Mon Mar 16
+  Laos                 v Brunei                2-1   @ Yangon, Myanmar
+Wed Mar 18
+  Myanmar              v Laos                  3-0   @ Yangon, Myanmar
+Tue Mar 24
+  Singapore            v Philippines           1-0   @ Singapore, Singapore
+Thu Mar 26
+  Cambodia             v Philippines           1-1   @ Singapore, Singapore
+Sat Mar 28
+  Singapore            v Cambodia              3-0   @ Singapore, Singapore
 

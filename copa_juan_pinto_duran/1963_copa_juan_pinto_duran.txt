@@ -1,11 +1,11 @@
 = Copa Juan Pinto Durán 1963
 
-# Date       Sat Mar/23 - Wed Jul/24 1963 (123d)
+# Date       Sat Mar 23 - Wed Jul 24 1963 (123d)
 # Teams      2
 # Matches    2
 
-[Sat Mar 23]
-  Uruguay - Chile  3-2   @ Montevideo, Uruguay
-[Wed Jul 24]
-  Chile - Uruguay  0-0   @ Santiago, Chile
+Sat Mar 23
+  Uruguay              v Chile                 3-2   @ Montevideo, Uruguay
+Wed Jul 24
+  Chile                v Uruguay               0-0   @ Santiago, Chile
 

@@ -1,13 +1,13 @@
 = Friendly 1879
 
-# Date       Sat Jan/18 - Mon Apr/7 1879 (79d)
+# Date       Sat Jan 18 - Mon Apr 7 1879 (79d)
 # Teams      3
 # Matches    3
 
-[Sat Jan 18]
-  England - Wales  2-1   @ London, England
-[Sat Apr 5]
-  England - Scotland  5-4   @ London, England
-[Mon Apr 7]
-  Wales - Scotland  0-3   @ Wrexham, Wales
+Sat Jan 18
+  England              v Wales                 2-1   @ London, England
+Sat Apr 5
+  England              v Scotland              5-4   @ London, England
+Mon Apr 7
+  Wales                v Scotland              0-3   @ Wrexham, Wales
 

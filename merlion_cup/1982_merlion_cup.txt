@@ -1,19 +1,19 @@
 = Merlion Cup 1982
 
-# Date       Tue Oct/5 - Sun Oct/17 1982 (12d)
+# Date       Tue Oct 5 - Sun Oct 17 1982 (12d)
 # Teams      5
 # Matches    6
 
-[Tue Oct 5]
-  Singapore - Malaysia  0-1   @ Kallang, Singapore
-[Thu Oct 7]
-  Singapore - Brunei  7-0   @ Kallang, Singapore
-[Sun Oct 10]
-  Brunei - Malaysia  0-4   @ Kallang, Singapore
-[Mon Oct 11]
-  Australia - Indonesia  2-0   @ Kallang, Singapore
-[Thu Oct 14]
-  Australia - Malaysia  5-0   @ Kallang, Singapore
-[Sun Oct 17]
-  Indonesia - Malaysia  0-0   @ Kallang, Singapore   [Indonesia wins on penalties]
+Tue Oct 5
+  Singapore            v Malaysia              0-1   @ Kallang, Singapore
+Thu Oct 7
+  Singapore            v Brunei                7-0   @ Kallang, Singapore
+Sun Oct 10
+  Brunei               v Malaysia              0-4   @ Kallang, Singapore
+Mon Oct 11
+  Australia            v Indonesia             2-0   @ Kallang, Singapore
+Thu Oct 14
+  Australia            v Malaysia              5-0   @ Kallang, Singapore
+Sun Oct 17
+  Indonesia            v Malaysia              0-0   @ Kallang, Singapore   [Indonesia wins on penalties]
 

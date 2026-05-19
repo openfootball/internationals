@@ -1,142 +1,142 @@
 = African Cup of Nations 2019
 
-# Date       Fri Jun/21 - Fri Jul/19 2019 (28d)
+# Date       Fri Jun 21 - Fri Jul 19 2019 (28d)
 # Teams      24
 # Matches    52
 
-[Fri Jun 21]
-  Egypt - Zimbabwe  1-0   @ Cairo, Egypt
-     Trézéguet 41'
-[Sat Jun 22]
-  DR Congo - Uganda  0-2   @ Cairo, Egypt
-     -; Patrick Kaddu 14' Emmanuel Okwi 48'
-  Nigeria - Burundi  1-0   @ Alexandria, Egypt
-     Odion Ighalo 77'
-  Guinea - Madagascar  2-2   @ Alexandria, Egypt
-     Sory Kaba 34' François Kamano 66' (pen.);
-     Anicet Abel 49' Carolus Andriamatsinoro 55'
-[Sun Jun 23]
-  Senegal - Tanzania  2-0   @ Cairo, Egypt
-     Keita Baldé 28' Krépin Diatta 64'
-  Algeria - Kenya  2-0   @ Cairo, Egypt
-     Baghdad Bounedjah 34' (pen.) Riyad Mahrez 43'
-  Morocco - Namibia  1-0   @ Cairo, Egypt
-     Itamunua Keimuine 89' (o.g.)
-[Mon Jun 24]
-  Ivory Coast - South Africa  1-0   @ Cairo, Egypt
-     Jonathan Kodjia 64'
-  Tunisia - Angola  1-1   @ Suez, Egypt
-     Youssef Msakni 34' (pen.);
-     Djalma Campos 73'
-  Mali - Mauritania  4-1   @ Suez, Egypt
-     Abdoulay Diaby 37' Moussa Marega 45' (pen.) Adama Traoré 55' Adama Traoré 74';
-     Moctar Sidi El Hacen 72' (pen.)
-[Tue Jun 25]
-  Cameroon - Guinea-Bissau  2-0   @ Ismailia, Egypt
-     Banana Yaya 66' Stéphane Bahoken 69'
-  Ghana - Benin  2-2   @ Ismailia, Egypt
-     André Ayew 9' Jordan Ayew 42';
-     Mickaël Poté 2' Mickaël Poté 63'
-[Wed Jun 26]
-  Uganda - Zimbabwe  1-1   @ Cairo, Egypt
-     Emmanuel Okwi 12';
-     Khama Billiat 40'
-  Egypt - DR Congo  2-0   @ Cairo, Egypt
-     Ahmed Elmohamady 25' Mohamed Salah 43'
-  Nigeria - Guinea  1-0   @ Alexandria, Egypt
-     Kenneth Omeruo 73'
-[Thu Jun 27]
-  Madagascar - Burundi  1-0   @ Alexandria, Egypt
-     Marco Ilaimaharitra 76'
-  Senegal - Algeria  0-1   @ Cairo, Egypt
-     -; Youcef Belaïli 49'
-  Kenya - Tanzania  3-2   @ Cairo, Egypt
-     Michael Olunga 39' Johanna Omolo 62' Michael Olunga 80';
-     Simon Msuva 6' Mbwana Samatta 40'
-[Fri Jun 28]
-  Morocco - Ivory Coast  1-0   @ Cairo, Egypt
-     Youssef En-Nesyri 23'
-  South Africa - Namibia  1-0   @ Cairo, Egypt
-     Bongani Zungu 68'
-  Tunisia - Mali  1-1   @ Suez, Egypt
-     Wahbi Khazri 70';
-     Diadie Samassékou 60'
-[Sat Jun 29]
-  Mauritania - Angola  0-0   @ Suez, Egypt
-  Cameroon - Ghana  0-0   @ Ismailia, Egypt
-  Benin - Guinea-Bissau  0-0   @ Ismailia, Egypt
-[Sun Jun 30]
-  Egypt - Uganda  2-0   @ Cairo, Egypt
-     Mohamed Salah 36' Ahmed Elmohamady 45'
-  Zimbabwe - DR Congo  0-4   @ Cairo, Egypt
-     -; Jonathan Bolingi 4' Cédric Bakambu 34' Cédric Bakambu 65' (pen.) Britt Assombalonga 78'
-  Burundi - Guinea  0-2   @ Cairo, Egypt
-     -; Mohamed Yattara 25' Mohamed Yattara 52'
-  Madagascar - Nigeria  2-0   @ Alexandria, Egypt
-     Lalaïna Nomenjanahary 13' Carolus Andriamatsinoro 53'
-[Mon Jul 1]
-  Kenya - Senegal  0-3   @ Cairo, Egypt
-     -; Ismaïla Sarr 63' Sadio Mané 71' Sadio Mané 78' (pen.)
-  Tanzania - Algeria  0-3   @ Cairo, Egypt
-     -; Islam Slimani 35' Adam Ounas 39' Adam Ounas 45'
-  Namibia - Ivory Coast  1-4   @ Cairo, Egypt
-     Joslin Kamatuka 71';
-     Max Gradel 39' Serey Dié 58' Wilfried Zaha 84' Maxwel Cornet 89'
-  South Africa - Morocco  0-1   @ Cairo, Egypt
-     -; Mbark Boussoufa 90'
-[Tue Jul 2]
-  Angola - Mali  0-1   @ Ismailia, Egypt
-     -; Amadou Haidara 37'
-  Mauritania - Tunisia  0-0   @ Suez, Egypt
-  Benin - Cameroon  0-0   @ Ismailia, Egypt
-  Guinea-Bissau - Ghana  0-2   @ Suez, Egypt
-     -; Jordan Ayew 46' Thomas Partey 72'
-[Fri Jul 5]
-  Morocco - Benin  1-1   @ Cairo, Egypt   [Benin wins on penalties]
-     Youssef En-Nesyri 76';
-     Moise Adilehou 53'
-  Uganda - Senegal  0-1   @ Cairo, Egypt
-     -; Sadio Mané 15'
-[Sat Jul 6]
-  Egypt - South Africa  0-1   @ Cairo, Egypt
-     -; Thembinkosi Lorch 85'
-  Nigeria - Cameroon  3-2   @ Alexandria, Egypt
-     Odion Ighalo 19' Odion Ighalo 63' Alex Iwobi 66';
-     Stéphane Bahoken 41' Clinton N'Jie 44'
-[Sun Jul 7]
-  Algeria - Guinea  3-0   @ Cairo, Egypt
-     Youcef Belaïli 24' Riyad Mahrez 57' Adam Ounas 82'
-  Madagascar - DR Congo  2-2   @ Alexandria, Egypt   [Madagascar wins on penalties]
-     Ibrahim Amada 9' Faneva Imà Andriatsima 77';
-     Cédric Bakambu 21' Chancel Mbemba 90'
-[Mon Jul 8]
-  Ghana - Tunisia  1-1   @ Ismailia, Egypt   [Tunisia wins on penalties]
-     Rami Bedoui 90' (o.g.);
-     Taha Yassine Khenissi 73'
-  Mali - Ivory Coast  0-1   @ Suez, Egypt
-     -; Wilfried Zaha 76'
-[Wed Jul 10]
-  Nigeria - South Africa  2-1   @ Cairo, Egypt
-     Samuel Chukwueze 27' William Troost-Ekong 89';
-     Bongani Zungu 71'
-  Senegal - Benin  1-0   @ Cairo, Egypt
-     Idrissa Gueye 70'
-[Thu Jul 11]
-  Ivory Coast - Algeria  1-1   @ Suez, Egypt   [Algeria wins on penalties]
-     Jonathan Kodjia 62';
-     Sofiane Feghouli 20'
-  Madagascar - Tunisia  0-3   @ Cairo, Egypt
-     -; Ferjani Sassi 52' Youssef Msakni 60' Naïm Sliti 90'
-[Sun Jul 14]
-  Algeria - Nigeria  2-1   @ Cairo, Egypt
-     William Troost-Ekong 40' (o.g.) Riyad Mahrez 90';
-     Odion Ighalo 72' (pen.)
-  Senegal - Tunisia  1-0   @ Cairo, Egypt
-     Dylan Bronn 101' (o.g.)
-[Wed Jul 17]
-  Tunisia - Nigeria  0-1   @ Cairo, Egypt
-     -; Odion Ighalo 3'
-[Fri Jul 19]
-  Senegal - Algeria  0-1   @ Cairo, Egypt
-     -; Baghdad Bounedjah 2'
+Fri Jun 21
+  Egypt                v Zimbabwe              1-0   @ Cairo, Egypt
+     (Trézéguet 41')
+Sat Jun 22
+  DR Congo             v Uganda                0-2   @ Cairo, Egypt
+     (Patrick Kaddu 14' Emmanuel Okwi 48')
+  Nigeria              v Burundi               1-0   @ Alexandria, Egypt
+     (Odion Ighalo 77')
+  Guinea               v Madagascar            2-2   @ Alexandria, Egypt
+     (Sory Kaba 34' François Kamano 66'(p);
+      Anicet Abel 49' Carolus Andriamatsinoro 55')
+Sun Jun 23
+  Senegal              v Tanzania              2-0   @ Cairo, Egypt
+     (Keita Baldé 28' Krépin Diatta 64')
+  Algeria              v Kenya                 2-0   @ Cairo, Egypt
+     (Baghdad Bounedjah 34'(p) Riyad Mahrez 43')
+  Morocco              v Namibia               1-0   @ Cairo, Egypt
+     (Itamunua Keimuine 89'(og))
+Mon Jun 24
+  Ivory Coast          v South Africa          1-0   @ Cairo, Egypt
+     (Jonathan Kodjia 64')
+  Tunisia              v Angola                1-1   @ Suez, Egypt
+     (Youssef Msakni 34'(p);
+      Djalma Campos 73')
+  Mali                 v Mauritania            4-1   @ Suez, Egypt
+     (Abdoulay Diaby 37' Moussa Marega 45'(p) Adama Traoré 55' Adama Traoré 74';
+      Moctar Sidi El Hacen 72'(p))
+Tue Jun 25
+  Cameroon             v Guinea-Bissau         2-0   @ Ismailia, Egypt
+     (Banana Yaya 66' Stéphane Bahoken 69')
+  Ghana                v Benin                 2-2   @ Ismailia, Egypt
+     (André Ayew 9' Jordan Ayew 42';
+      Mickaël Poté 2' Mickaël Poté 63')
+Wed Jun 26
+  Uganda               v Zimbabwe              1-1   @ Cairo, Egypt
+     (Emmanuel Okwi 12';
+      Khama Billiat 40')
+  Egypt                v DR Congo              2-0   @ Cairo, Egypt
+     (Ahmed Elmohamady 25' Mohamed Salah 43')
+  Nigeria              v Guinea                1-0   @ Alexandria, Egypt
+     (Kenneth Omeruo 73')
+Thu Jun 27
+  Madagascar           v Burundi               1-0   @ Alexandria, Egypt
+     (Marco Ilaimaharitra 76')
+  Senegal              v Algeria               0-1   @ Cairo, Egypt
+     (Youcef Belaïli 49')
+  Kenya                v Tanzania              3-2   @ Cairo, Egypt
+     (Michael Olunga 39' Johanna Omolo 62' Michael Olunga 80';
+      Simon Msuva 6' Mbwana Samatta 40')
+Fri Jun 28
+  Morocco              v Ivory Coast           1-0   @ Cairo, Egypt
+     (Youssef En-Nesyri 23')
+  South Africa         v Namibia               1-0   @ Cairo, Egypt
+     (Bongani Zungu 68')
+  Tunisia              v Mali                  1-1   @ Suez, Egypt
+     (Wahbi Khazri 70';
+      Diadie Samassékou 60')
+Sat Jun 29
+  Mauritania           v Angola                0-0   @ Suez, Egypt
+  Cameroon             v Ghana                 0-0   @ Ismailia, Egypt
+  Benin                v Guinea-Bissau         0-0   @ Ismailia, Egypt
+Sun Jun 30
+  Egypt                v Uganda                2-0   @ Cairo, Egypt
+     (Mohamed Salah 36' Ahmed Elmohamady 45')
+  Zimbabwe             v DR Congo              0-4   @ Cairo, Egypt
+     (Jonathan Bolingi 4' Cédric Bakambu 34' Cédric Bakambu 65'(p) Britt Assombalonga 78')
+  Burundi              v Guinea                0-2   @ Cairo, Egypt
+     (Mohamed Yattara 25' Mohamed Yattara 52')
+  Madagascar           v Nigeria               2-0   @ Alexandria, Egypt
+     (Lalaïna Nomenjanahary 13' Carolus Andriamatsinoro 53')
+Mon Jul 1
+  Kenya                v Senegal               0-3   @ Cairo, Egypt
+     (Ismaïla Sarr 63' Sadio Mané 71' Sadio Mané 78'(p))
+  Tanzania             v Algeria               0-3   @ Cairo, Egypt
+     (Islam Slimani 35' Adam Ounas 39' Adam Ounas 45')
+  Namibia              v Ivory Coast           1-4   @ Cairo, Egypt
+     (Joslin Kamatuka 71';
+      Max Gradel 39' Serey Dié 58' Wilfried Zaha 84' Maxwel Cornet 89')
+  South Africa         v Morocco               0-1   @ Cairo, Egypt
+     (Mbark Boussoufa 90')
+Tue Jul 2
+  Angola               v Mali                  0-1   @ Ismailia, Egypt
+     (Amadou Haidara 37')
+  Mauritania           v Tunisia               0-0   @ Suez, Egypt
+  Benin                v Cameroon              0-0   @ Ismailia, Egypt
+  Guinea-Bissau        v Ghana                 0-2   @ Suez, Egypt
+     (Jordan Ayew 46' Thomas Partey 72')
+Fri Jul 5
+  Morocco              v Benin                 1-1   @ Cairo, Egypt   [Benin wins on penalties]
+     (Youssef En-Nesyri 76';
+      Moise Adilehou 53')
+  Uganda               v Senegal               0-1   @ Cairo, Egypt
+     (Sadio Mané 15')
+Sat Jul 6
+  Egypt                v South Africa          0-1   @ Cairo, Egypt
+     (Thembinkosi Lorch 85')
+  Nigeria              v Cameroon              3-2   @ Alexandria, Egypt
+     (Odion Ighalo 19' Odion Ighalo 63' Alex Iwobi 66';
+      Stéphane Bahoken 41' Clinton N'Jie 44')
+Sun Jul 7
+  Algeria              v Guinea                3-0   @ Cairo, Egypt
+     (Youcef Belaïli 24' Riyad Mahrez 57' Adam Ounas 82')
+  Madagascar           v DR Congo              2-2   @ Alexandria, Egypt   [Madagascar wins on penalties]
+     (Ibrahim Amada 9' Faneva Imà Andriatsima 77';
+      Cédric Bakambu 21' Chancel Mbemba 90')
+Mon Jul 8
+  Ghana                v Tunisia               1-1   @ Ismailia, Egypt   [Tunisia wins on penalties]
+     (Rami Bedoui 90'(og);
+      Taha Yassine Khenissi 73')
+  Mali                 v Ivory Coast           0-1   @ Suez, Egypt
+     (Wilfried Zaha 76')
+Wed Jul 10
+  Nigeria              v South Africa          2-1   @ Cairo, Egypt
+     (Samuel Chukwueze 27' William Troost-Ekong 89';
+      Bongani Zungu 71')
+  Senegal              v Benin                 1-0   @ Cairo, Egypt
+     (Idrissa Gueye 70')
+Thu Jul 11
+  Ivory Coast          v Algeria               1-1   @ Suez, Egypt   [Algeria wins on penalties]
+     (Jonathan Kodjia 62';
+      Sofiane Feghouli 20')
+  Madagascar           v Tunisia               0-3   @ Cairo, Egypt
+     (Ferjani Sassi 52' Youssef Msakni 60' Naïm Sliti 90')
+Sun Jul 14
+  Algeria              v Nigeria               2-1   @ Cairo, Egypt
+     (William Troost-Ekong 40'(og) Riyad Mahrez 90';
+      Odion Ighalo 72'(p))
+  Senegal              v Tunisia               1-0   @ Cairo, Egypt
+     (Dylan Bronn 101'(og))
+Wed Jul 17
+  Tunisia              v Nigeria               0-1   @ Cairo, Egypt
+     (Odion Ighalo 3')
+Fri Jul 19
+  Senegal              v Algeria               0-1   @ Cairo, Egypt
+     (Baghdad Bounedjah 2')
 

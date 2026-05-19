@@ -1,29 +1,29 @@
 = CONCACAF Nations League qualification 2019
 
-# Date       Thu Mar/21 - Sun Mar/24 2019 (3d)
+# Date       Thu Mar 21 - Sun Mar 24 2019 (3d)
 # Teams      34
 # Matches    18
 
-[Thu Mar 21]
-  British Virgin Islands - Turks and Caicos Islands  2-2   @ The Valley, Anguilla
-[Fri Mar 22]
-  Anguilla - United States Virgin Islands  0-3   @ The Valley, Anguilla
-  Saint Vincent and the Grenadines - Bonaire  2-1   @ Arnos Vale, Saint Vincent and the Grenadines
-  Cayman Islands - Montserrat  1-2   @ West Bay, Cayman Islands
-  Saint Lucia - Aruba  3-2   @ North Sound, Antigua and Barbuda
-[Sat Mar 23]
-  Dominica - Bahamas  4-0   @ Roseau, Dominica
-  Sint Maarten - Saint Martin  4-3   @ The Valley, Anguilla
-  Antigua and Barbuda - Curaçao  2-1   @ North Sound, Antigua and Barbuda
-  Guyana - Belize  2-1   @ Leonora, Guyana
-  Suriname - Saint Kitts and Nevis  2-0   @ Paramaribo, Suriname
-  Guadeloupe - Martinique  0-1   @ Les Abymes, Guadeloupe
-[Sun Mar 24]
-  British Virgin Islands - Bonaire  1-2   @ The Valley, Anguilla
-  Puerto Rico - Grenada  0-2   @ Bayamón, Puerto Rico
-  Canada - French Guiana  4-1   @ Vancouver, Canada
-  Dominican Republic - Bermuda  1-3   @ Santiago de los Caballeros, Dominican Republic
-  Haiti - Cuba  2-1   @ Port-au-Prince, Haiti
-  Barbados - Nicaragua  0-1   @ Bridgetown, Barbados
-  El Salvador - Jamaica  2-0   @ San Salvador, El Salvador
+Thu Mar 21
+  British Virgin Islands v Turks and Caicos Islands  2-2   @ The Valley, Anguilla
+Fri Mar 22
+  Anguilla             v United States Virgin Islands  0-3   @ The Valley, Anguilla
+  Saint Vincent and the Grenadines v Bonaire               2-1   @ Arnos Vale, Saint Vincent and the Grenadines
+  Cayman Islands       v Montserrat            1-2   @ West Bay, Cayman Islands
+  Saint Lucia          v Aruba                 3-2   @ North Sound, Antigua and Barbuda
+Sat Mar 23
+  Dominica             v Bahamas               4-0   @ Roseau, Dominica
+  Sint Maarten         v Saint Martin          4-3   @ The Valley, Anguilla
+  Antigua and Barbuda  v Curaçao               2-1   @ North Sound, Antigua and Barbuda
+  Guyana               v Belize                2-1   @ Leonora, Guyana
+  Suriname             v Saint Kitts and Nevis  2-0   @ Paramaribo, Suriname
+  Guadeloupe           v Martinique            0-1   @ Les Abymes, Guadeloupe
+Sun Mar 24
+  British Virgin Islands v Bonaire               1-2   @ The Valley, Anguilla
+  Puerto Rico          v Grenada               0-2   @ Bayamón, Puerto Rico
+  Canada               v French Guiana         4-1   @ Vancouver, Canada
+  Dominican Republic   v Bermuda               1-3   @ Santiago de los Caballeros, Dominican Republic
+  Haiti                v Cuba                  2-1   @ Port-au-Prince, Haiti
+  Barbados             v Nicaragua             0-1   @ Bridgetown, Barbados
+  El Salvador          v Jamaica               2-0   @ San Salvador, El Salvador
 

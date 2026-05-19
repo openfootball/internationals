@@ -1,53 +1,53 @@
 = Merdeka Tournament 1980
 
-# Date       Wed Oct/15 - Sun Nov/2 1980 (18d)
+# Date       Wed Oct 15 - Sun Nov 2 1980 (18d)
 # Teams      8
 # Matches    28
 
-[Wed Oct 15]
-  South Korea - New Zealand  1-2   @ Kuala Lumpur, Malaysia
-[Thu Oct 16]
-  South Korea - Indonesia  1-0   @ Kuala Lumpur, Malaysia
-[Fri Oct 17]
-  Malaysia - Myanmar  3-2   @ Kuala Lumpur, Malaysia
-  Morocco - Thailand  2-1   @ Kuala Lumpur, Malaysia
-[Sat Oct 18]
-  South Korea - Kuwait  3-0   @ Kuala Lumpur, Malaysia
-[Sun Oct 19]
-  Kuwait - New Zealand  1-5   @ Kuala Lumpur, Malaysia
-[Mon Oct 20]
-  Myanmar - Morocco  2-2   @ Kuala Lumpur, Malaysia
-  Malaysia - Thailand  2-2   @ Kuala Lumpur, Malaysia
-  South Korea - Morocco  1-1   @ Kuala Lumpur, Malaysia
-[Tue Oct 21]
-  Indonesia - New Zealand  0-0   @ Kuala Lumpur, Malaysia
-[Wed Oct 22]
-  Myanmar - Thailand  1-2   @ Kuala Lumpur, Malaysia
-  Malaysia - South Korea  1-1   @ Kuala Lumpur, Malaysia
-  Kuwait - Myanmar  3-1   @ Kuala Lumpur, Malaysia
-[Thu Oct 23]
-  South Korea - Thailand  0-0   @ Kuala Lumpur, Malaysia
-[Fri Oct 24]
-  Myanmar - New Zealand  1-1   @ Kuala Lumpur, Malaysia
-  Kuwait - Thailand  0-1   @ Kuala Lumpur, Malaysia
-[Sat Oct 25]
-  Kuwait - Indonesia  1-2   @ Kuala Lumpur, Malaysia
-[Sun Oct 26]
-  Indonesia - Thailand  1-1   @ Kuala Lumpur, Malaysia
-  Morocco - New Zealand  3-0   @ Kuala Lumpur, Malaysia
-[Mon Oct 27]
-  Kuwait - Morocco  0-3   @ Kuala Lumpur, Malaysia
-  Malaysia - Indonesia  1-1   @ Kuala Lumpur, Malaysia
-[Tue Oct 28]
-  New Zealand - Thailand  1-1   @ Kuala Lumpur, Malaysia
-[Wed Oct 29]
-  Malaysia - Kuwait  2-1   @ Kuala Lumpur, Malaysia
-  Indonesia - Morocco  0-2   @ Kuala Lumpur, Malaysia
-[Thu Oct 30]
-  Malaysia - New Zealand  2-0   @ Kuala Lumpur, Malaysia
-  Myanmar - South Korea  1-1   @ Kuala Lumpur, Malaysia
-[Fri Oct 31]
-  Myanmar - Indonesia  1-0   @ Kuala Lumpur, Malaysia
-[Sun Nov 2]
-  Malaysia - Morocco  1-2   @ Kuala Lumpur, Malaysia
+Wed Oct 15
+  South Korea          v New Zealand           1-2   @ Kuala Lumpur, Malaysia
+Thu Oct 16
+  South Korea          v Indonesia             1-0   @ Kuala Lumpur, Malaysia
+Fri Oct 17
+  Malaysia             v Myanmar               3-2   @ Kuala Lumpur, Malaysia
+  Morocco              v Thailand              2-1   @ Kuala Lumpur, Malaysia
+Sat Oct 18
+  South Korea          v Kuwait                3-0   @ Kuala Lumpur, Malaysia
+Sun Oct 19
+  Kuwait               v New Zealand           1-5   @ Kuala Lumpur, Malaysia
+Mon Oct 20
+  Myanmar              v Morocco               2-2   @ Kuala Lumpur, Malaysia
+  Malaysia             v Thailand              2-2   @ Kuala Lumpur, Malaysia
+  South Korea          v Morocco               1-1   @ Kuala Lumpur, Malaysia
+Tue Oct 21
+  Indonesia            v New Zealand           0-0   @ Kuala Lumpur, Malaysia
+Wed Oct 22
+  Myanmar              v Thailand              1-2   @ Kuala Lumpur, Malaysia
+  Malaysia             v South Korea           1-1   @ Kuala Lumpur, Malaysia
+  Kuwait               v Myanmar               3-1   @ Kuala Lumpur, Malaysia
+Thu Oct 23
+  South Korea          v Thailand              0-0   @ Kuala Lumpur, Malaysia
+Fri Oct 24
+  Myanmar              v New Zealand           1-1   @ Kuala Lumpur, Malaysia
+  Kuwait               v Thailand              0-1   @ Kuala Lumpur, Malaysia
+Sat Oct 25
+  Kuwait               v Indonesia             1-2   @ Kuala Lumpur, Malaysia
+Sun Oct 26
+  Indonesia            v Thailand              1-1   @ Kuala Lumpur, Malaysia
+  Morocco              v New Zealand           3-0   @ Kuala Lumpur, Malaysia
+Mon Oct 27
+  Kuwait               v Morocco               0-3   @ Kuala Lumpur, Malaysia
+  Malaysia             v Indonesia             1-1   @ Kuala Lumpur, Malaysia
+Tue Oct 28
+  New Zealand          v Thailand              1-1   @ Kuala Lumpur, Malaysia
+Wed Oct 29
+  Malaysia             v Kuwait                2-1   @ Kuala Lumpur, Malaysia
+  Indonesia            v Morocco               0-2   @ Kuala Lumpur, Malaysia
+Thu Oct 30
+  Malaysia             v New Zealand           2-0   @ Kuala Lumpur, Malaysia
+  Myanmar              v South Korea           1-1   @ Kuala Lumpur, Malaysia
+Fri Oct 31
+  Myanmar              v Indonesia             1-0   @ Kuala Lumpur, Malaysia
+Sun Nov 2
+  Malaysia             v Morocco               1-2   @ Kuala Lumpur, Malaysia
 

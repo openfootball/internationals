@@ -1,19 +1,19 @@
 = South Asian Games 1993
 
-# Date       Mon Dec/20 - Sun Dec/26 1993 (6d)
+# Date       Mon Dec 20 - Sun Dec 26 1993 (6d)
 # Teams      6
 # Matches    8
 
-[Mon Dec 20]
-  Bangladesh - Maldives  0-0   @ Dhaka, Bangladesh
-  Sri Lanka - Pakistan  2-1   @ Dhaka, Bangladesh
-[Wed Dec 22]
-  Nepal - Maldives  0-0   @ Dhaka, Bangladesh
-  India - Sri Lanka  2-0   @ Dhaka, Bangladesh
-[Fri Dec 24]
-  Bangladesh - Nepal  0-1   @ Dhaka, Bangladesh
-  India - Pakistan  2-2   @ Dhaka, Bangladesh
-[Sun Dec 26]
-  Sri Lanka - Maldives  3-1   @ Dhaka, Bangladesh
-  Nepal - India  2-2   @ Dhaka, Bangladesh   [Nepal wins on penalties]
+Mon Dec 20
+  Bangladesh           v Maldives              0-0   @ Dhaka, Bangladesh
+  Sri Lanka            v Pakistan              2-1   @ Dhaka, Bangladesh
+Wed Dec 22
+  Nepal                v Maldives              0-0   @ Dhaka, Bangladesh
+  India                v Sri Lanka             2-0   @ Dhaka, Bangladesh
+Fri Dec 24
+  Bangladesh           v Nepal                 0-1   @ Dhaka, Bangladesh
+  India                v Pakistan              2-2   @ Dhaka, Bangladesh
+Sun Dec 26
+  Sri Lanka            v Maldives              3-1   @ Dhaka, Bangladesh
+  Nepal                v India                 2-2   @ Dhaka, Bangladesh   [Nepal wins on penalties]
 

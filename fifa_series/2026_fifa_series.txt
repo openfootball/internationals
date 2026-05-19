@@ -1,47 +1,47 @@
 = FIFA Series 2026
 
-# Date       Wed Mar/25 - Tue Mar/31 2026 (6d)
+# Date       Wed Mar 25 - Tue Mar 31 2026 (6d)
 # Teams      34
 # Matches    33
 
-[Wed Mar 25]
-  Kazakhstan - Namibia  2-0   @ Astana, Kazakhstan
-  United States Virgin Islands - American Samoa  5-2   @ Bayamón, Puerto Rico
-  Puerto Rico - Guam  4-0   @ Bayamón, Puerto Rico
-[Thu Mar 26]
-  Aruba - Macau  4-1   @ Kigali, Rwanda
-  Tanzania - Liechtenstein  0-1   @ Kigali, Rwanda
-[Fri Mar 27]
-  China PR - Curaçao  2-0   @ Sydney, Australia
-  Australia - Cameroon  1-0   @ Sydney, Australia
-  Azerbaijan - Saint Lucia  6-1   @ Sumgait, Azerbaijan
-  Solomon Islands - Bulgaria  2-10   @ Jakarta, Indonesia
-  Indonesia - Saint Kitts and Nevis  4-0   @ Jakarta, Indonesia
-  Chile - Cape Verde  4-2   @ Auckland, New Zealand
-  New Zealand - Finland  0-2   @ Auckland, New Zealand
-  Kenya - Estonia  1-1   @ Kigali, Rwanda   [Estonia wins on penalties]
-  Rwanda - Grenada  4-0   @ Kigali, Rwanda
-  Venezuela - Trinidad and Tobago  4-1   @ Tashkent, Uzbekistan
-  Uzbekistan - Gabon  3-1   @ Tashkent, Uzbekistan
-[Sat Mar 28]
-  Namibia - Comoros  0-0   @ Astana, Kazakhstan   [Namibia wins on penalties]
-  American Samoa - Guam  0-6   @ Bayamón, Puerto Rico
-  Puerto Rico - United States Virgin Islands  2-0   @ Bayamón, Puerto Rico
-[Sun Mar 29]
-  Macau - Tanzania  0-6   @ Kigali, Rwanda
-  Aruba - Liechtenstein  4-1   @ Kigali, Rwanda
-[Mon Mar 30]
-  Azerbaijan - Sierra Leone  1-1   @ Sumgait, Azerbaijan   [Azerbaijan wins on penalties]
-  Saint Kitts and Nevis - Solomon Islands  4-2   @ Jakarta, Indonesia
-  Indonesia - Bulgaria  0-1   @ Jakarta, Indonesia
-  Cape Verde - Finland  1-1   @ Auckland, New Zealand   [Cape Verde wins on penalties]
-  New Zealand - Chile  4-1   @ Auckland, New Zealand
-  Grenada - Kenya  0-3   @ Kigali, Rwanda
-  Rwanda - Estonia  2-0   @ Kigali, Rwanda
-  Gabon - Trinidad and Tobago  2-2   @ Tashkent, Uzbekistan   [Gabon wins on penalties]
-  Uzbekistan - Venezuela  0-0   @ Tashkent, Uzbekistan   [Uzbekistan wins on penalties]
-[Tue Mar 31]
-  Cameroon - China PR  2-0   @ Melbourne, Australia
-  Australia - Curaçao  5-1   @ Melbourne, Australia
-  Kazakhstan - Comoros  1-0   @ Astana, Kazakhstan
+Wed Mar 25
+  Kazakhstan           v Namibia               2-0   @ Astana, Kazakhstan
+  United States Virgin Islands v American Samoa        5-2   @ Bayamón, Puerto Rico
+  Puerto Rico          v Guam                  4-0   @ Bayamón, Puerto Rico
+Thu Mar 26
+  Aruba                v Macau                 4-1   @ Kigali, Rwanda
+  Tanzania             v Liechtenstein         0-1   @ Kigali, Rwanda
+Fri Mar 27
+  China PR             v Curaçao               2-0   @ Sydney, Australia
+  Australia            v Cameroon              1-0   @ Sydney, Australia
+  Azerbaijan           v Saint Lucia           6-1   @ Sumgait, Azerbaijan
+  Solomon Islands      v Bulgaria              2-10   @ Jakarta, Indonesia
+  Indonesia            v Saint Kitts and Nevis  4-0   @ Jakarta, Indonesia
+  Chile                v Cape Verde            4-2   @ Auckland, New Zealand
+  New Zealand          v Finland               0-2   @ Auckland, New Zealand
+  Kenya                v Estonia               1-1   @ Kigali, Rwanda   [Estonia wins on penalties]
+  Rwanda               v Grenada               4-0   @ Kigali, Rwanda
+  Venezuela            v Trinidad and Tobago   4-1   @ Tashkent, Uzbekistan
+  Uzbekistan           v Gabon                 3-1   @ Tashkent, Uzbekistan
+Sat Mar 28
+  Namibia              v Comoros               0-0   @ Astana, Kazakhstan   [Namibia wins on penalties]
+  American Samoa       v Guam                  0-6   @ Bayamón, Puerto Rico
+  Puerto Rico          v United States Virgin Islands  2-0   @ Bayamón, Puerto Rico
+Sun Mar 29
+  Macau                v Tanzania              0-6   @ Kigali, Rwanda
+  Aruba                v Liechtenstein         4-1   @ Kigali, Rwanda
+Mon Mar 30
+  Azerbaijan           v Sierra Leone          1-1   @ Sumgait, Azerbaijan   [Azerbaijan wins on penalties]
+  Saint Kitts and Nevis v Solomon Islands       4-2   @ Jakarta, Indonesia
+  Indonesia            v Bulgaria              0-1   @ Jakarta, Indonesia
+  Cape Verde           v Finland               1-1   @ Auckland, New Zealand   [Cape Verde wins on penalties]
+  New Zealand          v Chile                 4-1   @ Auckland, New Zealand
+  Grenada              v Kenya                 0-3   @ Kigali, Rwanda
+  Rwanda               v Estonia               2-0   @ Kigali, Rwanda
+  Gabon                v Trinidad and Tobago   2-2   @ Tashkent, Uzbekistan   [Gabon wins on penalties]
+  Uzbekistan           v Venezuela             0-0   @ Tashkent, Uzbekistan   [Uzbekistan wins on penalties]
+Tue Mar 31
+  Cameroon             v China PR              2-0   @ Melbourne, Australia
+  Australia            v Curaçao               5-1   @ Melbourne, Australia
+  Kazakhstan           v Comoros               1-0   @ Astana, Kazakhstan
 

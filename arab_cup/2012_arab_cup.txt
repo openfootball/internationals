@@ -1,29 +1,29 @@
 = Arab Cup 2012
 
-# Date       Fri Jun/22 - Thu Jul/5 2012 (13d)
+# Date       Fri Jun 22 - Thu Jul 5 2012 (13d)
 # Teams      9
 # Matches    11
 
-[Fri Jun 22]
-  Saudi Arabia - Kuwait  4-0   @ Taif, Saudi Arabia
-[Sat Jun 23]
-  Libya - Yemen  3-1   @ Jeddah, Saudi Arabia
-[Sun Jun 24]
-  Iraq - Lebanon  1-0   @ Jeddah, Saudi Arabia
-[Mon Jun 25]
-  Kuwait - Palestine  2-0   @ Taif, Saudi Arabia
-[Tue Jun 26]
-  Bahrain - Yemen  0-2   @ Jeddah, Saudi Arabia
-[Wed Jun 27]
-  Lebanon - Sudan  0-2   @ Jeddah, Saudi Arabia
-[Thu Jun 28]
-  Saudi Arabia - Palestine  2-2   @ Taif, Saudi Arabia
-[Fri Jun 29]
-  Libya - Bahrain  2-1   @ Taif, Saudi Arabia
-[Sat Jun 30]
-  Sudan - Iraq  1-1   @ Jeddah, Saudi Arabia
-[Tue Jul 3]
-  Saudi Arabia - Libya  0-2   @ Jeddah, Saudi Arabia
-[Thu Jul 5]
-  Saudi Arabia - Iraq  0-1   @ Jeddah, Saudi Arabia
+Fri Jun 22
+  Saudi Arabia         v Kuwait                4-0   @ Taif, Saudi Arabia
+Sat Jun 23
+  Libya                v Yemen                 3-1   @ Jeddah, Saudi Arabia
+Sun Jun 24
+  Iraq                 v Lebanon               1-0   @ Jeddah, Saudi Arabia
+Mon Jun 25
+  Kuwait               v Palestine             2-0   @ Taif, Saudi Arabia
+Tue Jun 26
+  Bahrain              v Yemen                 0-2   @ Jeddah, Saudi Arabia
+Wed Jun 27
+  Lebanon              v Sudan                 0-2   @ Jeddah, Saudi Arabia
+Thu Jun 28
+  Saudi Arabia         v Palestine             2-2   @ Taif, Saudi Arabia
+Fri Jun 29
+  Libya                v Bahrain               2-1   @ Taif, Saudi Arabia
+Sat Jun 30
+  Sudan                v Iraq                  1-1   @ Jeddah, Saudi Arabia
+Tue Jul 3
+  Saudi Arabia         v Libya                 0-2   @ Jeddah, Saudi Arabia
+Thu Jul 5
+  Saudi Arabia         v Iraq                  0-1   @ Jeddah, Saudi Arabia
 

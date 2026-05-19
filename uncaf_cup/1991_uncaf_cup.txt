@@ -1,22 +1,22 @@
 = UNCAF Cup 1991
 
-# Date       Sun Apr/14 - Sun Jun/2 1991 (49d)
+# Date       Sun Apr 14 - Sun Jun 2 1991 (49d)
 # Teams      6
 # Matches    9
 
-[Sun Apr 14]
-  Nicaragua - El Salvador  2-3   @ Managua, Nicaragua
-[Sun May 12]
-  Panama - Honduras  2-0   @ Panama City, Panama
-[Sat May 18]
-  Honduras - Panama  3-0   @ San Pedro Sula, Honduras
-[Sun May 26]
-  Costa Rica - Honduras  2-0   @ San José, Costa Rica
-  Guatemala - El Salvador  0-0   @ San José, Costa Rica
-[Wed May 29]
-  Costa Rica - El Salvador  7-1   @ San José, Costa Rica
-  Guatemala - Honduras  0-0   @ San José, Costa Rica
-[Sun Jun 2]
-  Costa Rica - Guatemala  1-0   @ San José, Costa Rica
-  Honduras - El Salvador  2-1   @ San José, Costa Rica
+Sun Apr 14
+  Nicaragua            v El Salvador           2-3   @ Managua, Nicaragua
+Sun May 12
+  Panama               v Honduras              2-0   @ Panama City, Panama
+Sat May 18
+  Honduras             v Panama                3-0   @ San Pedro Sula, Honduras
+Sun May 26
+  Costa Rica           v Honduras              2-0   @ San José, Costa Rica
+  Guatemala            v El Salvador           0-0   @ San José, Costa Rica
+Wed May 29
+  Costa Rica           v El Salvador           7-1   @ San José, Costa Rica
+  Guatemala            v Honduras              0-0   @ San José, Costa Rica
+Sun Jun 2
+  Costa Rica           v Guatemala             1-0   @ San José, Costa Rica
+  Honduras             v El Salvador           2-1   @ San José, Costa Rica
 

@@ -1,42 +1,42 @@
 = AFC Asian Cup qualification 1992
 
-# Date       Sun Apr/19 - Tue Jun/23 1992 (65d)
+# Date       Sun Apr 19 - Tue Jun 23 1992 (65d)
 # Teams      17
 # Matches    19
 
-[Sun Apr 19]
-  Singapore - Malaysia  1-1   @ Singapore, Singapore
-[Mon Apr 20]
-  China PR - Indonesia  2-0   @ Singapore, Singapore
-[Wed Apr 22]
-  Singapore - Indonesia  1-2   @ Singapore, Singapore
-[Thu Apr 23]
-  China PR - Malaysia  4-0   @ Singapore, Singapore
-[Fri Apr 24]
-  Indonesia - Malaysia  1-1   @ Singapore, Singapore
-[Sun Apr 26]
-  Singapore - China PR  0-1   @ Singapore, Singapore
-[Mon May 11]
-  Iran - Pakistan  7-0   @ Calcutta, India
-[Fri May 15]
-  India - Iran  0-3   @ Calcutta, India
-[Fri May 29]
-  Qatar - Syria  4-2   @ Doha, Qatar
-[Sun May 31]
-  Qatar - Oman  4-0   @ Doha, Qatar
-[Wed Jun 3]
-  North Korea - Taiwan  6-0   @ Pyongyang, North Korea
-  Macau - Hong Kong  2-2   @ Pyongyang, North Korea
-[Fri Jun 5]
-  Hong Kong - Taiwan  0-0   @ Pyongyang, North Korea
-  North Korea - Macau  2-0   @ Pyongyang, North Korea
-[Sun Jun 7]
-  North Korea - Hong Kong  0-0   @ Pyongyang, North Korea
-  Macau - Taiwan  2-0   @ Pyongyang, North Korea
-[Fri Jun 19]
-  South Korea - Bangladesh  6-0   @ Bangkok, Thailand
-[Sun Jun 21]
-  Thailand - South Korea  2-1   @ Bangkok, Thailand
-[Tue Jun 23]
-  Thailand - Bangladesh  1-0   @ Bangkok, Thailand
+Sun Apr 19
+  Singapore            v Malaysia              1-1   @ Singapore, Singapore
+Mon Apr 20
+  China PR             v Indonesia             2-0   @ Singapore, Singapore
+Wed Apr 22
+  Singapore            v Indonesia             1-2   @ Singapore, Singapore
+Thu Apr 23
+  China PR             v Malaysia              4-0   @ Singapore, Singapore
+Fri Apr 24
+  Indonesia            v Malaysia              1-1   @ Singapore, Singapore
+Sun Apr 26
+  Singapore            v China PR              0-1   @ Singapore, Singapore
+Mon May 11
+  Iran                 v Pakistan              7-0   @ Calcutta, India
+Fri May 15
+  India                v Iran                  0-3   @ Calcutta, India
+Fri May 29
+  Qatar                v Syria                 4-2   @ Doha, Qatar
+Sun May 31
+  Qatar                v Oman                  4-0   @ Doha, Qatar
+Wed Jun 3
+  North Korea          v Taiwan                6-0   @ Pyongyang, North Korea
+  Macau                v Hong Kong             2-2   @ Pyongyang, North Korea
+Fri Jun 5
+  Hong Kong            v Taiwan                0-0   @ Pyongyang, North Korea
+  North Korea          v Macau                 2-0   @ Pyongyang, North Korea
+Sun Jun 7
+  North Korea          v Hong Kong             0-0   @ Pyongyang, North Korea
+  Macau                v Taiwan                2-0   @ Pyongyang, North Korea
+Fri Jun 19
+  South Korea          v Bangladesh            6-0   @ Bangkok, Thailand
+Sun Jun 21
+  Thailand             v South Korea           2-1   @ Bangkok, Thailand
+Tue Jun 23
+  Thailand             v Bangladesh            1-0   @ Bangkok, Thailand
 

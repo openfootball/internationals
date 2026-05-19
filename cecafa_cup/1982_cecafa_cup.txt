@@ -1,31 +1,31 @@
 = CECAFA Cup 1982
 
-# Date       Sat Nov/13 - Sat Nov/27 1982 (14d)
+# Date       Sat Nov 13 - Sat Nov 27 1982 (14d)
 # Teams      7
 # Matches    13
 
-[Sat Nov 13]
-  Uganda - Malawi  2-1   @ Kampala, Uganda
-[Sun Nov 14]
-  Kenya - Sudan  2-0   @ Jinja, Uganda
-  Tanzania - Zimbabwe  0-3   @ Kampala, Uganda
-[Tue Nov 16]
-  Malawi - Zimbabwe  1-1   @ Kampala, Uganda
-[Wed Nov 17]
-  Uganda - Tanzania  1-0   @ Kampala, Uganda
-[Thu Nov 18]
-  Sudan - Zanzibar  0-1   @ Kampala, Uganda
-[Fri Nov 19]
-  Malawi - Tanzania  2-0   @ Kampala, Uganda
-[Sat Nov 20]
-  Uganda - Zimbabwe  1-1   @ Kampala, Uganda
-[Sun Nov 21]
-  Kenya - Zanzibar  2-2   @ Jinja, Uganda
-[Wed Nov 24]
-  Kenya - Zimbabwe  2-1   @ Jinja, Uganda
-  Uganda - Zanzibar  3-0   @ Kampala, Uganda
-[Fri Nov 26]
-  Zanzibar - Zimbabwe  0-3   @ Kampala, Uganda
-[Sat Nov 27]
-  Uganda - Kenya  1-1   @ Kampala, Uganda   [Kenya wins on penalties]
+Sat Nov 13
+  Uganda               v Malawi                2-1   @ Kampala, Uganda
+Sun Nov 14
+  Kenya                v Sudan                 2-0   @ Jinja, Uganda
+  Tanzania             v Zimbabwe              0-3   @ Kampala, Uganda
+Tue Nov 16
+  Malawi               v Zimbabwe              1-1   @ Kampala, Uganda
+Wed Nov 17
+  Uganda               v Tanzania              1-0   @ Kampala, Uganda
+Thu Nov 18
+  Sudan                v Zanzibar              0-1   @ Kampala, Uganda
+Fri Nov 19
+  Malawi               v Tanzania              2-0   @ Kampala, Uganda
+Sat Nov 20
+  Uganda               v Zimbabwe              1-1   @ Kampala, Uganda
+Sun Nov 21
+  Kenya                v Zanzibar              2-2   @ Jinja, Uganda
+Wed Nov 24
+  Kenya                v Zimbabwe              2-1   @ Jinja, Uganda
+  Uganda               v Zanzibar              3-0   @ Kampala, Uganda
+Fri Nov 26
+  Zanzibar             v Zimbabwe              0-3   @ Kampala, Uganda
+Sat Nov 27
+  Uganda               v Kenya                 1-1   @ Kampala, Uganda   [Kenya wins on penalties]
 

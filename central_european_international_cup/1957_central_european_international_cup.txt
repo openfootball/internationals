@@ -1,15 +1,15 @@
 = Central European International Cup 1957
 
-# Date       Sun Apr/14 - Sun Oct/13 1957 (182d)
+# Date       Sun Apr 14 - Sun Oct 13 1957 (182d)
 # Teams      5
 # Matches    4
 
-[Sun Apr 14]
-  Austria - Switzerland  4-0   @ Vienna, Austria
-[Sun May 12]
-  Yugoslavia - Italy  6-1   @ Zagreb, Yugoslavia
-[Sat May 18]
-  Czechoslovakia - Yugoslavia  1-0   @ Bratislava, Czechoslovakia
-[Sun Oct 13]
-  Austria - Czechoslovakia  2-2   @ Vienna, Austria
+Sun Apr 14
+  Austria              v Switzerland           4-0   @ Vienna, Austria
+Sun May 12
+  Yugoslavia           v Italy                 6-1   @ Zagreb, Yugoslavia
+Sat May 18
+  Czechoslovakia       v Yugoslavia            1-0   @ Bratislava, Czechoslovakia
+Sun Oct 13
+  Austria              v Czechoslovakia        2-2   @ Vienna, Austria
 

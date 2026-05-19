@@ -1,39 +1,39 @@
 = CCCF Championship 1953
 
-# Date       Sun Mar/8 - Sat Mar/21 1953 (13d)
+# Date       Sun Mar 8 - Sat Mar 21 1953 (13d)
 # Teams      7
 # Matches    21
 
-[Sun Mar 8]
-  Costa Rica - El Salvador  5-1   @ San José, Costa Rica
-  Honduras - Nicaragua  2-1   @ San José, Costa Rica
-[Mon Mar 9]
-  Guatemala - Curaçao  1-1   @ San José, Costa Rica
-[Tue Mar 10]
-  Costa Rica - Panama  3-0   @ San José, Costa Rica
-  El Salvador - Nicaragua  4-1   @ San José, Costa Rica
-[Wed Mar 11]
-  Curaçao - Nicaragua  8-0   @ San José, Costa Rica
-  Guatemala - Honduras  1-0   @ San José, Costa Rica
-[Thu Mar 12]
-  Panama - Curaçao  2-4   @ San José, Costa Rica
-[Fri Mar 13]
-  Costa Rica - Honduras  4-1   @ San José, Costa Rica
-  Guatemala - El Salvador  3-2   @ San José, Costa Rica
-[Sat Mar 14]
-  Panama - Nicaragua  0-2   @ San José, Costa Rica
-[Sun Mar 15]
-  Costa Rica - Curaçao  1-0   @ San José, Costa Rica
-  El Salvador - Honduras  0-3   @ San José, Costa Rica
-[Tue Mar 17]
-  Costa Rica - Nicaragua  3-0   @ San José, Costa Rica
-  Panama - Guatemala  2-2   @ San José, Costa Rica
-[Thu Mar 19]
-  Curaçao - Honduras  3-4   @ San José, Costa Rica
-  El Salvador - Panama  2-1   @ San José, Costa Rica
-  Guatemala - Nicaragua  1-0   @ San José, Costa Rica
-[Sat Mar 21]
-  Costa Rica - Guatemala  3-0   @ San José, Costa Rica
-  El Salvador - Curaçao  1-1   @ San José, Costa Rica
-  Honduras - Panama  3-1   @ San José, Costa Rica
+Sun Mar 8
+  Costa Rica           v El Salvador           5-1   @ San José, Costa Rica
+  Honduras             v Nicaragua             2-1   @ San José, Costa Rica
+Mon Mar 9
+  Guatemala            v Curaçao               1-1   @ San José, Costa Rica
+Tue Mar 10
+  Costa Rica           v Panama                3-0   @ San José, Costa Rica
+  El Salvador          v Nicaragua             4-1   @ San José, Costa Rica
+Wed Mar 11
+  Curaçao              v Nicaragua             8-0   @ San José, Costa Rica
+  Guatemala            v Honduras              1-0   @ San José, Costa Rica
+Thu Mar 12
+  Panama               v Curaçao               2-4   @ San José, Costa Rica
+Fri Mar 13
+  Costa Rica           v Honduras              4-1   @ San José, Costa Rica
+  Guatemala            v El Salvador           3-2   @ San José, Costa Rica
+Sat Mar 14
+  Panama               v Nicaragua             0-2   @ San José, Costa Rica
+Sun Mar 15
+  Costa Rica           v Curaçao               1-0   @ San José, Costa Rica
+  El Salvador          v Honduras              0-3   @ San José, Costa Rica
+Tue Mar 17
+  Costa Rica           v Nicaragua             3-0   @ San José, Costa Rica
+  Panama               v Guatemala             2-2   @ San José, Costa Rica
+Thu Mar 19
+  Curaçao              v Honduras              3-4   @ San José, Costa Rica
+  El Salvador          v Panama                2-1   @ San José, Costa Rica
+  Guatemala            v Nicaragua             1-0   @ San José, Costa Rica
+Sat Mar 21
+  Costa Rica           v Guatemala             3-0   @ San José, Costa Rica
+  El Salvador          v Curaçao               1-1   @ San José, Costa Rica
+  Honduras             v Panama                3-1   @ San José, Costa Rica
 

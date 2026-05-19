@@ -1,11 +1,11 @@
 = Friendly 1904
 
-# Date       Thu Jun/2 - Sun Oct/9 1904 (129d)
+# Date       Thu Jun 2 - Sun Oct 9 1904 (129d)
 # Teams      2
 # Matches    2
 
-[Thu Jun 2]
-  Hungary - Austria  3-0   @ Budapest, Hungary
-[Sun Oct 9]
-  Austria - Hungary  5-4   @ Vienna, Austria
+Thu Jun 2
+  Hungary              v Austria               3-0   @ Budapest, Hungary
+Sun Oct 9
+  Austria              v Hungary               5-4   @ Vienna, Austria
 

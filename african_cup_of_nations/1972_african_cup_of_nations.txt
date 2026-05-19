@@ -1,62 +1,62 @@
 = African Cup of Nations 1972
 
-# Date       Wed Feb/23 - Sun Mar/5 1972 (11d)
+# Date       Wed Feb 23 - Sun Mar 5 1972 (11d)
 # Teams      8
 # Matches    16
 
-[Wed Feb 23]
-  Cameroon - Kenya  2-1   @ Yaoundé, Cameroon
-     Jean-Baptiste N'Doga 7' Paul-Gaston N'Dongo 20';
-     Jonathan Niva 44'
-[Thu Feb 24]
-  Mali - Togo  3-3   @ Yaoundé, Cameroon
-     Bakary Traoré 10' Fantamady Keita 46' Bako Touré 49';
-     Edmond Apéti Kaolo 45' (pen.) Edmond Apéti Kaolo 60' Covi Adé 81'
-[Fri Feb 25]
-  Congo - Morocco  1-1   @ Douala, Cameroon
-     Paul Moukila 45';
-     Ahmed Faras 34'
-  Sudan - DR Congo  1-1   @ Douala, Cameroon
-     Omar Ali Hasab El-Rasoul 55';
-     Mayanga Maku 53'
-[Sat Feb 26]
-  Cameroon - Togo  2-0   @ Yaoundé, Cameroon
-     Joseph Yegba Maya 64' Simo Emmanuel Mvé 79'
-  Kenya - Mali  1-1   @ Yaoundé, Cameroon
-     Daniel Arudhi Nicodémus 60';
-     Fantamady Keita 45'
-[Sun Feb 27]
-  Congo - DR Congo  0-2   @ Douala, Cameroon
-     -; Jean Kalala N'Tumba 16' Jean Kalala N'Tumba 59'
-  Morocco - Sudan  1-1   @ Douala, Cameroon
-     Ahmed Faras 32';
-     Bushara Abdel-Nadief 49'
-[Mon Feb 28]
-  Cameroon - Mali  1-1   @ Yaoundé, Cameroon
-     François N'Doumbé 67';
-     Fantamady Keita 43'
-  Kenya - Togo  1-1   @ Yaoundé, Cameroon
-     Peter Ouma 30';
-     Edmond Apéti Kaolo 60'
-[Tue Feb 29]
-  Congo - Sudan  4-2   @ Douala, Cameroon
-     Jean-Michel M'Bono 8' François M'Pelé 32' Jonas Bahamboula 46' Jean-Michel M'Bono 55';
-     Kamal Abdel Wahab 37' Ahmed Bushara Wahba 44'
-  Morocco - DR Congo  1-1   @ Douala, Cameroon
-     Ahmed Faras 36';
-     Mayanga Maku 3'
-[Thu Mar 2]
-  Cameroon - Congo  0-1   @ Yaoundé, Cameroon
-     -; Noël Birindi Minga 31'
-  Mali - DR Congo  4-3   @ Douala, Cameroon
-     Adama Traoré 17' Fantamady Keita 48' Bako Touré 68' Fantamady Keita 92';
-     Jean Kalala N'Tumba 6' Kakoko Etepé 61' Gary Ngassebe 78'
-[Sat Mar 4]
-  Cameroon - DR Congo  5-2   @ Yaoundé, Cameroon
-     Jean-Paul Akono 4' (pen.) Paul-Gaston N'Dongo 31' Norbert Owona 32' Philippe Michel Mouthé 34' Jean-Baptiste N'Doga 42';
-     Kakoko Etepé 13' Mayanga Maku 17'
-[Sun Mar 5]
-  Congo - Mali  3-2   @ Yaoundé, Cameroon
-     Jean-Michel M'Bono 57' Jean-Michel M'Bono 59' François M'Pelé 63';
-     Moussa Diakhité 42' Moussa Traoré 75'
+Wed Feb 23
+  Cameroon             v Kenya                 2-1   @ Yaoundé, Cameroon
+     (Jean-Baptiste N'Doga 7' Paul-Gaston N'Dongo 20';
+      Jonathan Niva 44')
+Thu Feb 24
+  Mali                 v Togo                  3-3   @ Yaoundé, Cameroon
+     (Bakary Traoré 10' Fantamady Keita 46' Bako Touré 49';
+      Edmond Apéti Kaolo 45'(p) Edmond Apéti Kaolo 60' Covi Adé 81')
+Fri Feb 25
+  Congo                v Morocco               1-1   @ Douala, Cameroon
+     (Paul Moukila 45';
+      Ahmed Faras 34')
+  Sudan                v DR Congo              1-1   @ Douala, Cameroon
+     (Omar Ali Hasab El-Rasoul 55';
+      Mayanga Maku 53')
+Sat Feb 26
+  Cameroon             v Togo                  2-0   @ Yaoundé, Cameroon
+     (Joseph Yegba Maya 64' Simo Emmanuel Mvé 79')
+  Kenya                v Mali                  1-1   @ Yaoundé, Cameroon
+     (Daniel Arudhi Nicodémus 60';
+      Fantamady Keita 45')
+Sun Feb 27
+  Congo                v DR Congo              0-2   @ Douala, Cameroon
+     (Jean Kalala N'Tumba 16' Jean Kalala N'Tumba 59')
+  Morocco              v Sudan                 1-1   @ Douala, Cameroon
+     (Ahmed Faras 32';
+      Bushara Abdel-Nadief 49')
+Mon Feb 28
+  Cameroon             v Mali                  1-1   @ Yaoundé, Cameroon
+     (François N'Doumbé 67';
+      Fantamady Keita 43')
+  Kenya                v Togo                  1-1   @ Yaoundé, Cameroon
+     (Peter Ouma 30';
+      Edmond Apéti Kaolo 60')
+Tue Feb 29
+  Congo                v Sudan                 4-2   @ Douala, Cameroon
+     (Jean-Michel M'Bono 8' François M'Pelé 32' Jonas Bahamboula 46' Jean-Michel M'Bono 55';
+      Kamal Abdel Wahab 37' Ahmed Bushara Wahba 44')
+  Morocco              v DR Congo              1-1   @ Douala, Cameroon
+     (Ahmed Faras 36';
+      Mayanga Maku 3')
+Thu Mar 2
+  Cameroon             v Congo                 0-1   @ Yaoundé, Cameroon
+     (Noël Birindi Minga 31')
+  Mali                 v DR Congo              4-3   @ Douala, Cameroon
+     (Adama Traoré 17' Fantamady Keita 48' Bako Touré 68' Fantamady Keita 92';
+      Jean Kalala N'Tumba 6' Kakoko Etepé 61' Gary Ngassebe 78')
+Sat Mar 4
+  Cameroon             v DR Congo              5-2   @ Yaoundé, Cameroon
+     (Jean-Paul Akono 4'(p) Paul-Gaston N'Dongo 31' Norbert Owona 32' Philippe Michel Mouthé 34' Jean-Baptiste N'Doga 42';
+      Kakoko Etepé 13' Mayanga Maku 17')
+Sun Mar 5
+  Congo                v Mali                  3-2   @ Yaoundé, Cameroon
+     (Jean-Michel M'Bono 57' Jean-Michel M'Bono 59' François M'Pelé 63';
+      Moussa Diakhité 42' Moussa Traoré 75')
 

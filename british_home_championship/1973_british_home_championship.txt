@@ -1,17 +1,17 @@
 = British Home Championship 1973
 
-# Date       Sat May/12 - Sat May/19 1973 (7d)
+# Date       Sat May 12 - Sat May 19 1973 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 12]
-  England - Northern Ireland  2-1   @ Liverpool, England
-  Wales - Scotland  0-2   @ Wrexham, Wales
-[Tue May 15]
-  England - Wales  3-0   @ London, England
-[Wed May 16]
-  Scotland - Northern Ireland  1-2   @ Glasgow, Scotland
-[Sat May 19]
-  England - Scotland  1-0   @ London, England
-  Northern Ireland - Wales  1-0   @ Liverpool, England
+Sat May 12
+  England              v Northern Ireland      2-1   @ Liverpool, England
+  Wales                v Scotland              0-2   @ Wrexham, Wales
+Tue May 15
+  England              v Wales                 3-0   @ London, England
+Wed May 16
+  Scotland             v Northern Ireland      1-2   @ Glasgow, Scotland
+Sat May 19
+  England              v Scotland              1-0   @ London, England
+  Northern Ireland     v Wales                 1-0   @ Liverpool, England
 

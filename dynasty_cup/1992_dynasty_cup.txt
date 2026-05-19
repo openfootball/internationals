@@ -1,19 +1,19 @@
 = Dynasty Cup 1992
 
-# Date       Sat Aug/22 - Sat Aug/29 1992 (7d)
+# Date       Sat Aug 22 - Sat Aug 29 1992 (7d)
 # Teams      4
 # Matches    8
 
-[Sat Aug 22]
-  China PR - North Korea  2-2   @ Beijing, China PR
-  Japan - South Korea  0-0   @ Beijing, China PR
-[Mon Aug 24]
-  China PR - Japan  0-2   @ Beijing, China PR
-  South Korea - North Korea  1-1   @ Beijing, China PR
-[Wed Aug 26]
-  China PR - South Korea  0-2   @ Beijing, China PR
-  Japan - North Korea  4-1   @ Beijing, China PR
-[Sat Aug 29]
-  China PR - North Korea  0-0   @ Xiaogan, China PR
-  Japan - South Korea  2-2   @ Beijing, China PR   [Japan wins on penalties]
+Sat Aug 22
+  China PR             v North Korea           2-2   @ Beijing, China PR
+  Japan                v South Korea           0-0   @ Beijing, China PR
+Mon Aug 24
+  China PR             v Japan                 0-2   @ Beijing, China PR
+  South Korea          v North Korea           1-1   @ Beijing, China PR
+Wed Aug 26
+  China PR             v South Korea           0-2   @ Beijing, China PR
+  Japan                v North Korea           4-1   @ Beijing, China PR
+Sat Aug 29
+  China PR             v North Korea           0-0   @ Xiaogan, China PR
+  Japan                v South Korea           2-2   @ Beijing, China PR   [Japan wins on penalties]
 

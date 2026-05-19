@@ -1,16 +1,16 @@
 = Cyprus International Tournament 1997
 
-# Date       Fri Feb/14 - Mon Feb/17 1997 (3d)
+# Date       Fri Feb 14 - Mon Feb 17 1997 (3d)
 # Teams      4
 # Matches    6
 
-[Fri Feb 14]
-  Cyprus - Latvia  2-0   @ Paralímni, Cyprus
-  Lithuania - Poland  0-0   @ Agía Nápa, Cyprus
-[Sat Feb 15]
-  Cyprus - Poland  2-3   @ Agía Nápa, Cyprus
-  Latvia - Lithuania  1-0   @ Dherynia, Cyprus
-[Mon Feb 17]
-  Cyprus - Lithuania  1-0   @ Paralímni, Cyprus
-  Latvia - Poland  2-3   @ Dherynia, Cyprus
+Fri Feb 14
+  Cyprus               v Latvia                2-0   @ Paralímni, Cyprus
+  Lithuania            v Poland                0-0   @ Agía Nápa, Cyprus
+Sat Feb 15
+  Cyprus               v Poland                2-3   @ Agía Nápa, Cyprus
+  Latvia               v Lithuania             1-0   @ Dherynia, Cyprus
+Mon Feb 17
+  Cyprus               v Lithuania             1-0   @ Paralímni, Cyprus
+  Latvia               v Poland                2-3   @ Dherynia, Cyprus
 

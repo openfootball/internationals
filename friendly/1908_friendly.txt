@@ -1,40 +1,40 @@
 = Friendly 1908
 
-# Date       Sun Mar/8 - Sun Nov/1 1908 (238d)
+# Date       Sun Mar 8 - Sun Nov 1 1908 (238d)
 # Teams      11
 # Matches    17
 
-[Sun Mar 8]
-  Switzerland - France  1-2   @ Geneva, Switzerland
-[Sun Mar 29]
-  Belgium - Netherlands  1-4   @ Antwerp, Belgium
-[Sun Apr 5]
-  Hungary - Czechoslovakia  5-2   @ Budapest, Hungary
-  Switzerland - Germany  5-3   @ Basel, Switzerland
-[Sun Apr 12]
-  France - Belgium  1-2   @ Colombes, France
-[Sun Apr 26]
-  Netherlands - Belgium  3-1   @ Rotterdam, Netherlands
-[Sun May 3]
-  Austria - Hungary  4-0   @ Vienna, Austria
-[Sun May 10]
-  Netherlands - France  4-1   @ Rotterdam, Netherlands
-[Sat Jun 6]
-  Austria - England  1-6   @ Vienna, Austria
-[Sun Jun 7]
-  Austria - Germany  3-2   @ Vienna, Austria
-[Mon Jun 8]
-  Austria - England  1-11   @ Vienna, Austria
-[Wed Jun 10]
-  Hungary - England  0-7   @ Budapest, Hungary
-[Sat Jun 13]
-  Czechoslovakia - England  0-4   @ Prague, Bohemia
-[Sun Jul 12]
-  Sweden - Norway  11-3   @ Gothenburg, Sweden
-[Sun Oct 25]
-  Netherlands - Sweden  5-3   @ The Hague, Netherlands
-[Mon Oct 26]
-  Belgium - Sweden  2-1   @ Brussels, Belgium
-[Sun Nov 1]
-  Hungary - Austria  5-3   @ Budapest, Hungary
+Sun Mar 8
+  Switzerland          v France                1-2   @ Geneva, Switzerland
+Sun Mar 29
+  Belgium              v Netherlands           1-4   @ Antwerp, Belgium
+Sun Apr 5
+  Hungary              v Czechoslovakia        5-2   @ Budapest, Hungary
+  Switzerland          v Germany               5-3   @ Basel, Switzerland
+Sun Apr 12
+  France               v Belgium               1-2   @ Colombes, France
+Sun Apr 26
+  Netherlands          v Belgium               3-1   @ Rotterdam, Netherlands
+Sun May 3
+  Austria              v Hungary               4-0   @ Vienna, Austria
+Sun May 10
+  Netherlands          v France                4-1   @ Rotterdam, Netherlands
+Sat Jun 6
+  Austria              v England               1-6   @ Vienna, Austria
+Sun Jun 7
+  Austria              v Germany               3-2   @ Vienna, Austria
+Mon Jun 8
+  Austria              v England               1-11   @ Vienna, Austria
+Wed Jun 10
+  Hungary              v England               0-7   @ Budapest, Hungary
+Sat Jun 13
+  Czechoslovakia       v England               0-4   @ Prague, Bohemia
+Sun Jul 12
+  Sweden               v Norway                11-3   @ Gothenburg, Sweden
+Sun Oct 25
+  Netherlands          v Sweden                5-3   @ The Hague, Netherlands
+Mon Oct 26
+  Belgium              v Sweden                2-1   @ Brussels, Belgium
+Sun Nov 1
+  Hungary              v Austria               5-3   @ Budapest, Hungary
 

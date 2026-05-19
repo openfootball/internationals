@@ -1,11 +1,11 @@
 = Copa Artigas 1975
 
-# Date       Thu Jun/12 - Thu Jun/19 1975 (7d)
+# Date       Thu Jun 12 - Thu Jun 19 1975 (7d)
 # Teams      2
 # Matches    2
 
-[Thu Jun 12]
-  Paraguay - Uruguay  0-1   @ Asunción, Paraguay
-[Thu Jun 19]
-  Uruguay - Paraguay  0-1   @ Montevideo, Uruguay
+Thu Jun 12
+  Paraguay             v Uruguay               0-1   @ Asunción, Paraguay
+Thu Jun 19
+  Uruguay              v Paraguay              0-1   @ Montevideo, Uruguay
 

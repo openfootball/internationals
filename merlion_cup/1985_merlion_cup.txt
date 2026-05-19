@@ -1,15 +1,15 @@
 = Merlion Cup 1985
 
-# Date       Sun Oct/13 - Wed Oct/23 1985 (10d)
+# Date       Sun Oct 13 - Wed Oct 23 1985 (10d)
 # Teams      3
 # Matches    4
 
-[Sun Oct 13]
-  Brunei - Malaysia  0-4   @ Kallang, Singapore
-[Wed Oct 16]
-  Singapore - Brunei  2-1   @ Kallang, Singapore
-[Sun Oct 20]
-  Singapore - Malaysia  2-0   @ Kallang, Singapore
-[Wed Oct 23]
-  Singapore - Malaysia  4-0   @ Kallang, Singapore
+Sun Oct 13
+  Brunei               v Malaysia              0-4   @ Kallang, Singapore
+Wed Oct 16
+  Singapore            v Brunei                2-1   @ Kallang, Singapore
+Sun Oct 20
+  Singapore            v Malaysia              2-0   @ Kallang, Singapore
+Wed Oct 23
+  Singapore            v Malaysia              4-0   @ Kallang, Singapore
 

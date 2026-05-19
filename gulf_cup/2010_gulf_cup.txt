@@ -1,30 +1,30 @@
 = Gulf Cup 2010
 
-# Date       Mon Nov/22 - Sun Dec/5 2010 (13d)
+# Date       Mon Nov 22 - Sun Dec 5 2010 (13d)
 # Teams      8
 # Matches    15
 
-[Mon Nov 22]
-  Kuwait - Qatar  1-0   @ Aden, Yemen
-  Yemen - Saudi Arabia  0-4   @ Aden, Yemen
-[Tue Nov 23]
-  Iraq - United Arab Emirates  0-0   @ Aden, Yemen
-  Oman - Bahrain  1-1   @ Aden, Yemen
-[Thu Nov 25]
-  Saudi Arabia - Kuwait  0-0   @ Zinjibar, Yemen
-  Yemen - Qatar  1-2   @ Zinjibar, Yemen
-[Fri Nov 26]
-  Bahrain - Iraq  2-3   @ Aden, Yemen
-  United Arab Emirates - Oman  0-0   @ Aden, Yemen
-[Sun Nov 28]
-  Qatar - Saudi Arabia  1-1   @ Aden, Yemen
-  Yemen - Kuwait  0-3   @ Zinjibar, Yemen
-[Mon Nov 29]
-  Oman - Iraq  0-0   @ Zinjibar, Yemen
-  United Arab Emirates - Bahrain  3-1   @ Zinjibar, Yemen
-[Thu Dec 2]
-  Kuwait - Iraq  2-2   @ Aden, Yemen
-  United Arab Emirates - Saudi Arabia  0-1   @ Aden, Yemen
-[Sun Dec 5]
-  Kuwait - Saudi Arabia  1-0   @ Aden, Yemen
+Mon Nov 22
+  Kuwait               v Qatar                 1-0   @ Aden, Yemen
+  Yemen                v Saudi Arabia          0-4   @ Aden, Yemen
+Tue Nov 23
+  Iraq                 v United Arab Emirates  0-0   @ Aden, Yemen
+  Oman                 v Bahrain               1-1   @ Aden, Yemen
+Thu Nov 25
+  Saudi Arabia         v Kuwait                0-0   @ Zinjibar, Yemen
+  Yemen                v Qatar                 1-2   @ Zinjibar, Yemen
+Fri Nov 26
+  Bahrain              v Iraq                  2-3   @ Aden, Yemen
+  United Arab Emirates v Oman                  0-0   @ Aden, Yemen
+Sun Nov 28
+  Qatar                v Saudi Arabia          1-1   @ Aden, Yemen
+  Yemen                v Kuwait                0-3   @ Zinjibar, Yemen
+Mon Nov 29
+  Oman                 v Iraq                  0-0   @ Zinjibar, Yemen
+  United Arab Emirates v Bahrain               3-1   @ Zinjibar, Yemen
+Thu Dec 2
+  Kuwait               v Iraq                  2-2   @ Aden, Yemen
+  United Arab Emirates v Saudi Arabia          0-1   @ Aden, Yemen
+Sun Dec 5
+  Kuwait               v Saudi Arabia          1-0   @ Aden, Yemen
 

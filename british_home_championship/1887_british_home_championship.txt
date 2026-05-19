@@ -1,19 +1,19 @@
 = British Home Championship 1887
 
-# Date       Sat Feb/5 - Mon Mar/21 1887 (44d)
+# Date       Sat Feb 5 - Mon Mar 21 1887 (44d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 5]
-  England - Northern Ireland  7-0   @ Sheffield, England
-[Sat Feb 19]
-  Scotland - Northern Ireland  4-1   @ Glasgow, Scotland
-[Sat Feb 26]
-  England - Wales  4-0   @ London, England
-[Sat Mar 12]
-  Northern Ireland - Wales  4-1   @ Belfast, Ireland
-[Sat Mar 19]
-  England - Scotland  2-3   @ Blackburn, England
-[Mon Mar 21]
-  Wales - Scotland  0-2   @ Wrexham, Wales
+Sat Feb 5
+  England              v Northern Ireland      7-0   @ Sheffield, England
+Sat Feb 19
+  Scotland             v Northern Ireland      4-1   @ Glasgow, Scotland
+Sat Feb 26
+  England              v Wales                 4-0   @ London, England
+Sat Mar 12
+  Northern Ireland     v Wales                 4-1   @ Belfast, Ireland
+Sat Mar 19
+  England              v Scotland              2-3   @ Blackburn, England
+Mon Mar 21
+  Wales                v Scotland              0-2   @ Wrexham, Wales
 

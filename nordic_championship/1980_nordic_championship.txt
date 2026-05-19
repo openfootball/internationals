@@ -1,15 +1,15 @@
 = Nordic Championship 1980
 
-# Date       Wed May/7 - Thu Aug/21 1980 (106d)
+# Date       Wed May 7 - Thu Aug 21 1980 (106d)
 # Teams      4
 # Matches    4
 
-[Wed May 7]
-  Sweden - Denmark  0-1   @ Gothenburg, Sweden
-[Thu May 22]
-  Finland - Sweden  0-2   @ Helsinki, Finland
-[Wed Jun 4]
-  Denmark - Norway  3-1   @ Copenhagen, Denmark
-[Thu Aug 21]
-  Norway - Finland  6-1   @ Oslo, Norway
+Wed May 7
+  Sweden               v Denmark               0-1   @ Gothenburg, Sweden
+Thu May 22
+  Finland              v Sweden                0-2   @ Helsinki, Finland
+Wed Jun 4
+  Denmark              v Norway                3-1   @ Copenhagen, Denmark
+Thu Aug 21
+  Norway               v Finland               6-1   @ Oslo, Norway
 

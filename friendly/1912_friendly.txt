@@ -1,56 +1,56 @@
 = Friendly 1912
 
-# Date       Sun Jan/28 - Sun Dec/22 1912 (329d)
+# Date       Sun Jan 28 - Sun Dec 22 1912 (329d)
 # Teams      16
 # Matches    26
 
-[Sun Jan 28]
-  France - Belgium  1-1   @ Saint-Ouen, France
-[Sat Feb 10]
-  France - Catalonia  7-0   @ Paris, France
-[Sun Feb 18]
-  France - Switzerland  4-1   @ Saint-Ouen, France
-[Tue Feb 20]
-  Belgium - Switzerland  9-2   @ Antwerp, Belgium
-[Sun Mar 10]
-  Belgium - Netherlands  1-2   @ Antwerp, Belgium
-[Sun Mar 17]
-  Italy - France  3-4   @ Turin, Italy
-[Sun Mar 24]
-  Netherlands - Germany  5-5   @ Zwolle, Netherlands
-[Sun Apr 14]
-  Hungary - Germany  4-4   @ Budapest, Hungary
-[Sun Apr 28]
-  Netherlands - Belgium  4-3   @ Dordrecht, Netherlands
-[Sun May 5]
-  Austria - Hungary  1-1   @ Vienna, Austria
-  Switzerland - Germany  1-2   @ St. Gallen, Switzerland
-[Mon May 6]
-  Russia - Finland  1-1   @ Moscow, Russia
-[Sun Jun 16]
-  Norway - Sweden  1-2   @ Kristiania, Norway
-[Thu Jun 20]
-  Sweden - Hungary  2-2   @ Gothenburg, Sweden
-[Sun Jun 23]
-  Norway - Hungary  0-6   @ Kristiania, Norway
-[Thu Jun 27]
-  Sweden - Finland  7-1   @ Solna, Sweden
-[Wed Jul 3]
-  Norway - Russia  2-1   @ Stockholm, Sweden
-[Fri Jul 12]
-  Russia - Hungary  0-9   @ Moscow, Russia
-[Sun Jul 14]
-  Russia - Hungary  0-12   @ Moscow, Russia
-[Sun Oct 6]
-  Denmark - Germany  3-1   @ Copenhagen, Denmark
-[Sun Nov 3]
-  Hungary - Austria  4-0   @ Budapest, Hungary
-  Sweden - Norway  4-2   @ Gothenburg, Sweden
-[Sun Nov 17]
-  Germany - Netherlands  2-3   @ Leipzig, Germany
-[Sun Dec 1]
-  Uruguay - Argentina  1-3   @ Montevideo, Uruguay
-  Catalonia - France  1-0   @ Barcelona, Spain
-[Sun Dec 22]
-  Italy - Austria  1-3   @ Genoa, Italy
+Sun Jan 28
+  France               v Belgium               1-1   @ Saint-Ouen, France
+Sat Feb 10
+  France               v Catalonia             7-0   @ Paris, France
+Sun Feb 18
+  France               v Switzerland           4-1   @ Saint-Ouen, France
+Tue Feb 20
+  Belgium              v Switzerland           9-2   @ Antwerp, Belgium
+Sun Mar 10
+  Belgium              v Netherlands           1-2   @ Antwerp, Belgium
+Sun Mar 17
+  Italy                v France                3-4   @ Turin, Italy
+Sun Mar 24
+  Netherlands          v Germany               5-5   @ Zwolle, Netherlands
+Sun Apr 14
+  Hungary              v Germany               4-4   @ Budapest, Hungary
+Sun Apr 28
+  Netherlands          v Belgium               4-3   @ Dordrecht, Netherlands
+Sun May 5
+  Austria              v Hungary               1-1   @ Vienna, Austria
+  Switzerland          v Germany               1-2   @ St. Gallen, Switzerland
+Mon May 6
+  Russia               v Finland               1-1   @ Moscow, Russia
+Sun Jun 16
+  Norway               v Sweden                1-2   @ Kristiania, Norway
+Thu Jun 20
+  Sweden               v Hungary               2-2   @ Gothenburg, Sweden
+Sun Jun 23
+  Norway               v Hungary               0-6   @ Kristiania, Norway
+Thu Jun 27
+  Sweden               v Finland               7-1   @ Solna, Sweden
+Wed Jul 3
+  Norway               v Russia                2-1   @ Stockholm, Sweden
+Fri Jul 12
+  Russia               v Hungary               0-9   @ Moscow, Russia
+Sun Jul 14
+  Russia               v Hungary               0-12   @ Moscow, Russia
+Sun Oct 6
+  Denmark              v Germany               3-1   @ Copenhagen, Denmark
+Sun Nov 3
+  Hungary              v Austria               4-0   @ Budapest, Hungary
+  Sweden               v Norway                4-2   @ Gothenburg, Sweden
+Sun Nov 17
+  Germany              v Netherlands           2-3   @ Leipzig, Germany
+Sun Dec 1
+  Uruguay              v Argentina             1-3   @ Montevideo, Uruguay
+  Catalonia            v France                1-0   @ Barcelona, Spain
+Sun Dec 22
+  Italy                v Austria               1-3   @ Genoa, Italy
 

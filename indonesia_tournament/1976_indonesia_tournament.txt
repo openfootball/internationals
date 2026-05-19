@@ -1,13 +1,13 @@
 = Indonesia Tournament 1976
 
-# Date       Tue Jun/8 - Sat Jun/12 1976 (4d)
+# Date       Tue Jun 8 - Sat Jun 12 1976 (4d)
 # Teams      3
 # Matches    3
 
-[Tue Jun 8]
-  Myanmar - Malaysia  3-1   @ Jakarta, Indonesia
-[Thu Jun 10]
-  Indonesia - Malaysia  1-2   @ Jakarta, Indonesia
-[Sat Jun 12]
-  Indonesia - Myanmar  1-1   @ Jakarta, Indonesia
+Tue Jun 8
+  Myanmar              v Malaysia              3-1   @ Jakarta, Indonesia
+Thu Jun 10
+  Indonesia            v Malaysia              1-2   @ Jakarta, Indonesia
+Sat Jun 12
+  Indonesia            v Myanmar               1-1   @ Jakarta, Indonesia
 

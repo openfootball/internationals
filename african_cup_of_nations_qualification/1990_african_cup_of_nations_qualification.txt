@@ -1,52 +1,52 @@
 = African Cup of Nations qualification 1990
 
-# Date       Fri May/18 - Sun Nov/18 1990 (184d)
+# Date       Fri May 18 - Sun Nov 18 1990 (184d)
 # Teams      32
 # Matches    35
 
-[Fri May 18]
-  Mauritania - Gambia  2-0   @ Nouakchott, Mauritania
-[Sun Jun 3]
-  Gambia - Mauritania  2-1   @ Banjul, Gambia
-[Fri Aug 17]
-  Egypt - Ethiopia  2-0   @ Cairo, Egypt
-  Sudan - Mozambique  1-0   @ Khartoum, Sudan
-[Sat Aug 18]
-  Malawi - Congo  0-1   @ Zomba, Malawi
-[Sun Aug 19]
-  Cameroon - Mali  0-0   @ Yaoundé, Cameroon
-  Guinea - Sierra Leone  1-2   @ Conakry, Guinea
-  DR Congo - Tanzania  2-0   @ Kinshasa, Zaïre
-  Gabon - Uganda  1-0   @ Libreville, Gabon
-  Ivory Coast - Mauritania  2-0   @ Abidjan, Ivory Coast
-  Morocco - Niger  2-0   @ Casablanca, Morocco
-  Angola - Madagascar  0-1   @ Luanda, Angola
-  Tunisia - Chad  2-1   @ Tunis, Tunisia
-  Zambia - Eswatini  5-0   @ Lusaka, Zambia
-  Burkina Faso - Benin  2-0   @ Ouagadougou, Burkina Faso
-  Nigeria - Togo  3-0   @ Lagos, Nigeria
-[Sat Sep 1]
-  Sierra Leone - Cameroon  1-1   @ Freetown, Sierra Leone
-  Uganda - DR Congo  2-1   @ Kampala, Uganda
-  Tanzania - Gabon  0-0   @ Dar es Salaam, Tanzania
-  Ghana - Nigeria  1-0   @ Kumasi, Ghana
-  Eswatini - Angola  1-1   @ Lobamba, Swaziland
-  Madagascar - Zambia  0-0   @ Antananarivo, Madagascar
-[Sun Sep 2]
-  Congo - Zimbabwe  2-0   @ Brazzaville, Congo
-  Burkina Faso - Togo  2-0   @ Ouagadougou, Burkina Faso
-  Chad - Egypt  0-0   @ N'Djamena, Chad
-  Mali - Guinea  1-1   @ Bamako, Mali
-  Morocco - Mauritania  4-0   @ Casablanca, Morocco
-  Mozambique - Kenya  2-1   @ Maputo, Mozambique
-[Sun Sep 30]
-  Benin - Nigeria  0-1   @ Cotonou, Benin
-  Niger - Ivory Coast  0-1   @ Niamey, Niger
-  Togo - Ghana  0-1   @ Lomé, Togo
-[Sun Oct 14]
-  Benin - Togo  1-1   @ Cotonou, Benin
-  Niger - Mauritania  7-1   @ Niamey, Niger
-  Ghana - Burkina Faso  2-0   @ Accra, Ghana
-[Sun Nov 18]
-  Ethiopia - Tunisia  0-2   @ Addis Ababa, Ethiopia
+Fri May 18
+  Mauritania           v Gambia                2-0   @ Nouakchott, Mauritania
+Sun Jun 3
+  Gambia               v Mauritania            2-1   @ Banjul, Gambia
+Fri Aug 17
+  Egypt                v Ethiopia              2-0   @ Cairo, Egypt
+  Sudan                v Mozambique            1-0   @ Khartoum, Sudan
+Sat Aug 18
+  Malawi               v Congo                 0-1   @ Zomba, Malawi
+Sun Aug 19
+  Cameroon             v Mali                  0-0   @ Yaoundé, Cameroon
+  Guinea               v Sierra Leone          1-2   @ Conakry, Guinea
+  DR Congo             v Tanzania              2-0   @ Kinshasa, Zaïre
+  Gabon                v Uganda                1-0   @ Libreville, Gabon
+  Ivory Coast          v Mauritania            2-0   @ Abidjan, Ivory Coast
+  Morocco              v Niger                 2-0   @ Casablanca, Morocco
+  Angola               v Madagascar            0-1   @ Luanda, Angola
+  Tunisia              v Chad                  2-1   @ Tunis, Tunisia
+  Zambia               v Eswatini              5-0   @ Lusaka, Zambia
+  Burkina Faso         v Benin                 2-0   @ Ouagadougou, Burkina Faso
+  Nigeria              v Togo                  3-0   @ Lagos, Nigeria
+Sat Sep 1
+  Sierra Leone         v Cameroon              1-1   @ Freetown, Sierra Leone
+  Uganda               v DR Congo              2-1   @ Kampala, Uganda
+  Tanzania             v Gabon                 0-0   @ Dar es Salaam, Tanzania
+  Ghana                v Nigeria               1-0   @ Kumasi, Ghana
+  Eswatini             v Angola                1-1   @ Lobamba, Swaziland
+  Madagascar           v Zambia                0-0   @ Antananarivo, Madagascar
+Sun Sep 2
+  Congo                v Zimbabwe              2-0   @ Brazzaville, Congo
+  Burkina Faso         v Togo                  2-0   @ Ouagadougou, Burkina Faso
+  Chad                 v Egypt                 0-0   @ N'Djamena, Chad
+  Mali                 v Guinea                1-1   @ Bamako, Mali
+  Morocco              v Mauritania            4-0   @ Casablanca, Morocco
+  Mozambique           v Kenya                 2-1   @ Maputo, Mozambique
+Sun Sep 30
+  Benin                v Nigeria               0-1   @ Cotonou, Benin
+  Niger                v Ivory Coast           0-1   @ Niamey, Niger
+  Togo                 v Ghana                 0-1   @ Lomé, Togo
+Sun Oct 14
+  Benin                v Togo                  1-1   @ Cotonou, Benin
+  Niger                v Mauritania            7-1   @ Niamey, Niger
+  Ghana                v Burkina Faso          2-0   @ Accra, Ghana
+Sun Nov 18
+  Ethiopia             v Tunisia               0-2   @ Addis Ababa, Ethiopia
 

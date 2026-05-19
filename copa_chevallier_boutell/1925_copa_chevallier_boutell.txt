@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1925
 
-# Date       Thu Jul/9 - Sun Jul/12 1925 (3d)
+# Date       Thu Jul 9 - Sun Jul 12 1925 (3d)
 # Teams      2
 # Matches    2
 
-[Thu Jul 9]
-  Argentina - Paraguay  1-1   @ Buenos Aires, Argentina
-[Sun Jul 12]
-  Argentina - Paraguay  1-1   @ Buenos Aires, Argentina
+Thu Jul 9
+  Argentina            v Paraguay              1-1   @ Buenos Aires, Argentina
+Sun Jul 12
+  Argentina            v Paraguay              1-1   @ Buenos Aires, Argentina
 

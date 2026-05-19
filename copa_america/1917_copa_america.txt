@@ -1,26 +1,26 @@
 = Copa América 1917
 
-# Date       Sun Sep/30 - Sun Oct/14 1917 (14d)
+# Date       Sun Sep 30 - Sun Oct 14 1917 (14d)
 # Teams      4
 # Matches    6
 
-[Sun Sep 30]
-  Uruguay - Chile  4-0   @ Montevideo, Uruguay
-     Carlos Scarone 20' Ángel Romano 44' Carlos Scarone 62' (pen.) Ángel Romano 75'
-[Wed Oct 3]
-  Argentina - Brazil  4-2   @ Montevideo, Uruguay
-     Pedro Calomino 15' Alberto Ohaco 56' (pen.) Alberto Ohaco 58' (pen.) Antonio Blanco 80';
-     Neco 8' Silvio Lagreca 39' (pen.)
-[Sat Oct 6]
-  Argentina - Chile  1-0   @ Montevideo, Uruguay
-     Luis García 76' (o.g.)
-[Sun Oct 7]
-  Uruguay - Brazil  4-0   @ Montevideo, Uruguay
-     Héctor Scarone 8' Ángel Romano 17' Ángel Romano 77' Carlos Scarone 86'
-[Fri Oct 12]
-  Brazil - Chile  5-0   @ Montevideo, Uruguay
-     Caetano Izzo 21' Neco 23' Haroldo Domingues 26' Amílcar Barbuy 41' Haroldo Domingues 59'
-[Sun Oct 14]
-  Uruguay - Argentina  1-0   @ Montevideo, Uruguay
-     Héctor Scarone 62'
+Sun Sep 30
+  Uruguay              v Chile                 4-0   @ Montevideo, Uruguay
+     (Carlos Scarone 20' Ángel Romano 44' Carlos Scarone 62'(p) Ángel Romano 75')
+Wed Oct 3
+  Argentina            v Brazil                4-2   @ Montevideo, Uruguay
+     (Pedro Calomino 15' Alberto Ohaco 56'(p) Alberto Ohaco 58'(p) Antonio Blanco 80';
+      Neco 8' Silvio Lagreca 39'(p))
+Sat Oct 6
+  Argentina            v Chile                 1-0   @ Montevideo, Uruguay
+     (Luis García 76'(og))
+Sun Oct 7
+  Uruguay              v Brazil                4-0   @ Montevideo, Uruguay
+     (Héctor Scarone 8' Ángel Romano 17' Ángel Romano 77' Carlos Scarone 86')
+Fri Oct 12
+  Brazil               v Chile                 5-0   @ Montevideo, Uruguay
+     (Caetano Izzo 21' Neco 23' Haroldo Domingues 26' Amílcar Barbuy 41' Haroldo Domingues 59')
+Sun Oct 14
+  Uruguay              v Argentina             1-0   @ Montevideo, Uruguay
+     (Héctor Scarone 62')
 

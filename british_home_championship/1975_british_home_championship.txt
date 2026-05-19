@@ -1,18 +1,18 @@
 = British Home Championship 1975
 
-# Date       Sat May/17 - Sat May/24 1975 (7d)
+# Date       Sat May 17 - Sat May 24 1975 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 17]
-  Northern Ireland - England  0-0   @ Belfast, Northern Ireland
-  Wales - Scotland  2-2   @ Cardiff, Wales
-[Tue May 20]
-  Scotland - Northern Ireland  3-0   @ Glasgow, Scotland
-[Wed May 21]
-  England - Wales  2-2   @ London, England
-[Fri May 23]
-  Northern Ireland - Wales  1-0   @ Belfast, Northern Ireland
-[Sat May 24]
-  England - Scotland  5-1   @ London, England
+Sat May 17
+  Northern Ireland     v England               0-0   @ Belfast, Northern Ireland
+  Wales                v Scotland              2-2   @ Cardiff, Wales
+Tue May 20
+  Scotland             v Northern Ireland      3-0   @ Glasgow, Scotland
+Wed May 21
+  England              v Wales                 2-2   @ London, England
+Fri May 23
+  Northern Ireland     v Wales                 1-0   @ Belfast, Northern Ireland
+Sat May 24
+  England              v Scotland              5-1   @ London, England
 

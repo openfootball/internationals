@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1923
 
-# Date       Sun May/20 - Fri May/25 1923 (5d)
+# Date       Sun May 20 - Fri May 25 1923 (5d)
 # Teams      2
 # Matches    2
 
-[Sun May 20]
-  Argentina - Paraguay  0-2   @ Buenos Aires, Argentina
-[Fri May 25]
-  Argentina - Paraguay  1-0   @ Buenos Aires, Argentina
+Sun May 20
+  Argentina            v Paraguay              0-2   @ Buenos Aires, Argentina
+Fri May 25
+  Argentina            v Paraguay              1-0   @ Buenos Aires, Argentina
 

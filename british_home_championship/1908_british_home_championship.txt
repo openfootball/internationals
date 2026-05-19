@@ -1,19 +1,19 @@
 = British Home Championship 1908
 
-# Date       Sat Feb/15 - Sat Apr/11 1908 (56d)
+# Date       Sat Feb 15 - Sat Apr 11 1908 (56d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 15]
-  Northern Ireland - England  1-3   @ Belfast, Ireland
-[Sat Mar 7]
-  Scotland - Wales  2-1   @ Dundee, Scotland
-[Sat Mar 14]
-  Northern Ireland - Scotland  0-5   @ Dublin, Ireland
-[Mon Mar 16]
-  Wales - England  1-7   @ Wrexham, Wales
-[Sat Apr 4]
-  Scotland - England  1-1   @ Glasgow, Scotland
-[Sat Apr 11]
-  Wales - Northern Ireland  0-1   @ Aberdare, Wales
+Sat Feb 15
+  Northern Ireland     v England               1-3   @ Belfast, Ireland
+Sat Mar 7
+  Scotland             v Wales                 2-1   @ Dundee, Scotland
+Sat Mar 14
+  Northern Ireland     v Scotland              0-5   @ Dublin, Ireland
+Mon Mar 16
+  Wales                v England               1-7   @ Wrexham, Wales
+Sat Apr 4
+  Scotland             v England               1-1   @ Glasgow, Scotland
+Sat Apr 11
+  Wales                v Northern Ireland      0-1   @ Aberdare, Wales
 

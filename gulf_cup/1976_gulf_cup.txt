@@ -1,44 +1,44 @@
 = Gulf Cup 1976
 
-# Date       Fri Mar/26 - Thu Apr/15 1976 (20d)
+# Date       Fri Mar 26 - Thu Apr 15 1976 (20d)
 # Teams      7
 # Matches    22
 
-[Fri Mar 26]
-  Qatar - Saudi Arabia  1-0   @ Doha, Qatar
-[Sat Mar 27]
-  Bahrain - United Arab Emirates  3-2   @ Doha, Qatar
-  Iraq - Oman  4-0   @ Doha, Qatar
-[Sun Mar 28]
-  Qatar - Kuwait  0-4   @ Doha, Qatar
-[Mon Mar 29]
-  Bahrain - Iraq  1-4   @ Doha, Qatar
-  Saudi Arabia - United Arab Emirates  2-0   @ Doha, Qatar
-[Wed Mar 31]
-  Kuwait - Oman  8-0   @ Doha, Qatar
-[Thu Apr 1]
-  Iraq - Saudi Arabia  7-1   @ Doha, Qatar
-  Qatar - United Arab Emirates  3-1   @ Doha, Qatar
-[Fri Apr 2]
-  Bahrain - Oman  1-0   @ Doha, Qatar
-[Sat Apr 3]
-  Kuwait - United Arab Emirates  0-0   @ Doha, Qatar
-  Qatar - Iraq  0-0   @ Doha, Qatar
-[Sun Apr 4]
-  Oman - Saudi Arabia  1-3   @ Doha, Qatar
-[Tue Apr 6]
-  Bahrain - Kuwait  2-5   @ Doha, Qatar
-  Iraq - United Arab Emirates  4-0   @ Doha, Qatar
-[Wed Apr 7]
-  Qatar - Oman  4-1   @ Doha, Qatar
-[Thu Apr 8]
-  Bahrain - Saudi Arabia  2-1   @ Doha, Qatar
-  Iraq - Kuwait  2-2   @ Doha, Qatar
-[Sat Apr 10]
-  Oman - United Arab Emirates  1-1   @ Doha, Qatar
-  Qatar - Bahrain  3-0   @ Doha, Qatar
-[Sun Apr 11]
-  Kuwait - Saudi Arabia  3-1   @ Doha, Qatar
-[Thu Apr 15]
-  Iraq - Kuwait  2-4   @ Doha, Qatar
+Fri Mar 26
+  Qatar                v Saudi Arabia          1-0   @ Doha, Qatar
+Sat Mar 27
+  Bahrain              v United Arab Emirates  3-2   @ Doha, Qatar
+  Iraq                 v Oman                  4-0   @ Doha, Qatar
+Sun Mar 28
+  Qatar                v Kuwait                0-4   @ Doha, Qatar
+Mon Mar 29
+  Bahrain              v Iraq                  1-4   @ Doha, Qatar
+  Saudi Arabia         v United Arab Emirates  2-0   @ Doha, Qatar
+Wed Mar 31
+  Kuwait               v Oman                  8-0   @ Doha, Qatar
+Thu Apr 1
+  Iraq                 v Saudi Arabia          7-1   @ Doha, Qatar
+  Qatar                v United Arab Emirates  3-1   @ Doha, Qatar
+Fri Apr 2
+  Bahrain              v Oman                  1-0   @ Doha, Qatar
+Sat Apr 3
+  Kuwait               v United Arab Emirates  0-0   @ Doha, Qatar
+  Qatar                v Iraq                  0-0   @ Doha, Qatar
+Sun Apr 4
+  Oman                 v Saudi Arabia          1-3   @ Doha, Qatar
+Tue Apr 6
+  Bahrain              v Kuwait                2-5   @ Doha, Qatar
+  Iraq                 v United Arab Emirates  4-0   @ Doha, Qatar
+Wed Apr 7
+  Qatar                v Oman                  4-1   @ Doha, Qatar
+Thu Apr 8
+  Bahrain              v Saudi Arabia          2-1   @ Doha, Qatar
+  Iraq                 v Kuwait                2-2   @ Doha, Qatar
+Sat Apr 10
+  Oman                 v United Arab Emirates  1-1   @ Doha, Qatar
+  Qatar                v Bahrain               3-0   @ Doha, Qatar
+Sun Apr 11
+  Kuwait               v Saudi Arabia          3-1   @ Doha, Qatar
+Thu Apr 15
+  Iraq                 v Kuwait                2-4   @ Doha, Qatar
 

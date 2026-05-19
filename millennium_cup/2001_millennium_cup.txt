@@ -1,33 +1,33 @@
 = Millennium Cup 2001
 
-# Date       Thu Jan/11 - Thu Jan/25 2001 (14d)
+# Date       Thu Jan 11 - Thu Jan 25 2001 (14d)
 # Teams      12
 # Matches    15
 
-[Thu Jan 11]
-  Romania - Jordan  0-1   @ Margao, India
-[Fri Jan 12]
-  Bosnia and Herzegovina - Bangladesh  2-0   @ Kochi, India
-  Uzbekistan - Bahrain  5-0   @ Calcutta, India
-[Sat Jan 13]
-  India - Iceland  0-3   @ Kochi, India
-[Sun Jan 14]
-  Romania - Hong Kong  4-2   @ Margao, India
-  Serbia - Bosnia and Herzegovina  1-1   @ Kochi, India
-[Mon Jan 15]
-  Chile - Bahrain  2-0   @ Calcutta, India
-[Tue Jan 16]
-  Bangladesh - Serbia  1-4   @ Kochi, India
-  Hong Kong - Jordan  0-2   @ Margao, India
-[Wed Jan 17]
-  Chile - Uzbekistan  2-0   @ Calcutta, India
-[Sat Jan 20]
-  Chile - Iceland  2-0   @ Calcutta, India
-  Serbia - Romania  2-0   @ Margao, India
-[Mon Jan 22]
-  Bosnia and Herzegovina - Chile  1-0   @ Calcutta, India
-[Tue Jan 23]
-  Serbia - Japan  1-0   @ Calcutta, India
-[Thu Jan 25]
-  Bosnia and Herzegovina - Serbia  0-2   @ Calcutta, India
+Thu Jan 11
+  Romania              v Jordan                0-1   @ Margao, India
+Fri Jan 12
+  Bosnia and Herzegovina v Bangladesh            2-0   @ Kochi, India
+  Uzbekistan           v Bahrain               5-0   @ Calcutta, India
+Sat Jan 13
+  India                v Iceland               0-3   @ Kochi, India
+Sun Jan 14
+  Romania              v Hong Kong             4-2   @ Margao, India
+  Serbia               v Bosnia and Herzegovina  1-1   @ Kochi, India
+Mon Jan 15
+  Chile                v Bahrain               2-0   @ Calcutta, India
+Tue Jan 16
+  Bangladesh           v Serbia                1-4   @ Kochi, India
+  Hong Kong            v Jordan                0-2   @ Margao, India
+Wed Jan 17
+  Chile                v Uzbekistan            2-0   @ Calcutta, India
+Sat Jan 20
+  Chile                v Iceland               2-0   @ Calcutta, India
+  Serbia               v Romania               2-0   @ Margao, India
+Mon Jan 22
+  Bosnia and Herzegovina v Chile                 1-0   @ Calcutta, India
+Tue Jan 23
+  Serbia               v Japan                 1-0   @ Calcutta, India
+Thu Jan 25
+  Bosnia and Herzegovina v Serbia                0-2   @ Calcutta, India
 

@@ -1,19 +1,19 @@
 = Nordic Championship 1932
 
-# Date       Fri Jun/10 - Sun Sep/25 1932 (107d)
+# Date       Fri Jun 10 - Sun Sep 25 1932 (107d)
 # Teams      4
 # Matches    6
 
-[Fri Jun 10]
-  Finland - Sweden  1-3   @ Helsinki, Finland
-[Fri Jun 17]
-  Norway - Finland  2-1   @ Oslo, Norway
-[Sun Jun 19]
-  Denmark - Sweden  3-1   @ Copenhagen, Denmark
-[Fri Jul 1]
-  Sweden - Norway  1-4   @ Gothenburg, Sweden
-[Tue Aug 30]
-  Finland - Denmark  4-2   @ Helsinki, Finland
-[Sun Sep 25]
-  Norway - Denmark  1-2   @ Oslo, Norway
+Fri Jun 10
+  Finland              v Sweden                1-3   @ Helsinki, Finland
+Fri Jun 17
+  Norway               v Finland               2-1   @ Oslo, Norway
+Sun Jun 19
+  Denmark              v Sweden                3-1   @ Copenhagen, Denmark
+Fri Jul 1
+  Sweden               v Norway                1-4   @ Gothenburg, Sweden
+Tue Aug 30
+  Finland              v Denmark               4-2   @ Helsinki, Finland
+Sun Sep 25
+  Norway               v Denmark               1-2   @ Oslo, Norway
 

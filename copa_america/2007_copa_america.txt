@@ -1,83 +1,83 @@
 = Copa América 2007
 
-# Date       Tue Jun/26 - Sun Jul/15 2007 (19d)
+# Date       Tue Jun 26 - Sun Jul 15 2007 (19d)
 # Teams      12
 # Matches    26
 
-[Tue Jun 26]
-  Uruguay - Peru  0-3   @ Mérida, Venezuela
-     -; Miguel Villalta 27' Juan Carlos Mariño 70' Paolo Guerrero 88'
-  Venezuela - Bolivia  2-2   @ San Cristóbal, Venezuela
-     Giancarlo Maldonado 20' Ricardo Páez 55';
-     Jaime Moreno 38' Juan Carlos Arce 84'
-[Wed Jun 27]
-  Brazil - Mexico  0-2   @ Puerto Ordaz, Venezuela
-     -; Nery Castillo 23' Ramón Morales 28'
-  Ecuador - Chile  2-3   @ Puerto Ordaz, Venezuela
-     Antonio Valencia 16' Christian Benítez 23';
-     Humberto Suazo 20' Humberto Suazo 80' Carlos Villanueva 86'
-[Thu Jun 28]
-  Argentina - United States  4-1   @ Maracaibo, Venezuela
-     Hernán Crespo 11' Hernán Crespo 60' Pablo Aimar 76' Carlos Tevez 84';
-     Eddie Johnson 9' (pen.)
-  Paraguay - Colombia  5-0   @ Barinas, Venezuela
-     Roque Santa Cruz 30' Roque Santa Cruz 46' Roque Santa Cruz 80' Salvador Cabañas 84' Salvador Cabañas 88'
-[Sat Jun 30]
-  Bolivia - Uruguay  0-1   @ San Cristóbal, Venezuela
-     -; Vicente Sánchez 58'
-  Venezuela - Peru  2-0   @ San Cristóbal, Venezuela
-     Alejandro Cichero 48' Daniel Arismendi 79'
-[Sun Jul 1]
-  Brazil - Chile  3-0   @ Maturín, Venezuela
-     Robinho 36' (pen.) Robinho 84' Robinho 87'
-  Mexico - Ecuador  2-1   @ Maturín, Venezuela
-     Nery Castillo 21' Omar Bravo 79';
-     Édison Méndez 84'
-[Mon Jul 2]
-  Argentina - Colombia  4-2   @ Maracaibo, Venezuela
-     Hernán Crespo 20' (pen.) Juan Román Riquelme 34' Juan Román Riquelme 45' Diego Milito 90';
-     Edixon Perea 10' Jaime Castrillón 76'
-  United States - Paraguay  1-3   @ Barinas, Venezuela
-     Ricardo Clark 35';
-     Édgar Barreto 29' Óscar Cardozo 56' Salvador Cabañas 90'
-[Tue Jul 3]
-  Peru - Bolivia  2-2   @ Mérida, Venezuela
-     Claudio Pizarro 34' Claudio Pizarro 85';
-     Jaime Moreno 24' Jhasmani Campos 45'
-  Venezuela - Uruguay  0-0   @ Mérida, Venezuela
-[Wed Jul 4]
-  Brazil - Ecuador  1-0   @ Puerto la Cruz, Venezuela
-     Robinho 56' (pen.)
-  Mexico - Chile  0-0   @ Puerto la Cruz, Venezuela
-[Thu Jul 5]
-  Argentina - Paraguay  1-0   @ Barquisimeto, Venezuela
-     Javier Mascherano 79'
-  Colombia - United States  1-0   @ Barquisimeto, Venezuela
-     Jaime Castrillón 15'
-[Sat Jul 7]
-  Chile - Brazil  1-6   @ Puerto la Cruz, Venezuela
-     Humberto Suazo 76';
-     Juan 16' Júlio Baptista 23' Robinho 27' Robinho 50' Josué Anunciado de Oliveira 68' Vágner Love 85'
-  Venezuela - Uruguay  1-4   @ San Cristóbal, Venezuela
-     Juan Arango 41';
-     Diego Forlán 38' Pablo García 64' Cristian Rodríguez 86' Diego Forlán 90'
-[Sun Jul 8]
-  Argentina - Peru  4-0   @ Barquisimeto, Venezuela
-     Juan Román Riquelme 47' Lionel Messi 61' Javier Mascherano 75' Juan Román Riquelme 85'
-  Mexico - Paraguay  6-0   @ Maturín, Venezuela
-     Nery Castillo 5' (pen.) Gerardo Torrado 27' Nery Castillo 38' Fernando Arce 79' Cuauhtémoc Blanco 87' (pen.) Omar Bravo 90'
-[Tue Jul 10]
-  Uruguay - Brazil  2-2   @ Maracaibo, Venezuela   [Brazil wins on penalties]
-     Diego Forlán 36' Sebastián Abreu 69';
-     Maicon Sisenando 13' Júlio Baptista 41'
-[Wed Jul 11]
-  Mexico - Argentina  0-3   @ Puerto Ordaz, Venezuela
-     -; Gabriel Heinze 45' Lionel Messi 61' Juan Román Riquelme 65' (pen.)
-[Sat Jul 14]
-  Mexico - Uruguay  3-1   @ Caracas, Venezuela
-     Cuauhtémoc Blanco 36' (pen.) Omar Bravo 68' Andrés Guardado 76';
-     Sebastián Abreu 22'
-[Sun Jul 15]
-  Brazil - Argentina  3-0   @ Maracaibo, Venezuela
-     Júlio Baptista 4' Roberto Ayala 40' (o.g.) Dani Alves 69'
+Tue Jun 26
+  Uruguay              v Peru                  0-3   @ Mérida, Venezuela
+     (Miguel Villalta 27' Juan Carlos Mariño 70' Paolo Guerrero 88')
+  Venezuela            v Bolivia               2-2   @ San Cristóbal, Venezuela
+     (Giancarlo Maldonado 20' Ricardo Páez 55';
+      Jaime Moreno 38' Juan Carlos Arce 84')
+Wed Jun 27
+  Brazil               v Mexico                0-2   @ Puerto Ordaz, Venezuela
+     (Nery Castillo 23' Ramón Morales 28')
+  Ecuador              v Chile                 2-3   @ Puerto Ordaz, Venezuela
+     (Antonio Valencia 16' Christian Benítez 23';
+      Humberto Suazo 20' Humberto Suazo 80' Carlos Villanueva 86')
+Thu Jun 28
+  Argentina            v United States         4-1   @ Maracaibo, Venezuela
+     (Hernán Crespo 11' Hernán Crespo 60' Pablo Aimar 76' Carlos Tevez 84';
+      Eddie Johnson 9'(p))
+  Paraguay             v Colombia              5-0   @ Barinas, Venezuela
+     (Roque Santa Cruz 30' Roque Santa Cruz 46' Roque Santa Cruz 80' Salvador Cabañas 84' Salvador Cabañas 88')
+Sat Jun 30
+  Bolivia              v Uruguay               0-1   @ San Cristóbal, Venezuela
+     (Vicente Sánchez 58')
+  Venezuela            v Peru                  2-0   @ San Cristóbal, Venezuela
+     (Alejandro Cichero 48' Daniel Arismendi 79')
+Sun Jul 1
+  Brazil               v Chile                 3-0   @ Maturín, Venezuela
+     (Robinho 36'(p) Robinho 84' Robinho 87')
+  Mexico               v Ecuador               2-1   @ Maturín, Venezuela
+     (Nery Castillo 21' Omar Bravo 79';
+      Édison Méndez 84')
+Mon Jul 2
+  Argentina            v Colombia              4-2   @ Maracaibo, Venezuela
+     (Hernán Crespo 20'(p) Juan Román Riquelme 34' Juan Román Riquelme 45' Diego Milito 90';
+      Edixon Perea 10' Jaime Castrillón 76')
+  United States        v Paraguay              1-3   @ Barinas, Venezuela
+     (Ricardo Clark 35';
+      Édgar Barreto 29' Óscar Cardozo 56' Salvador Cabañas 90')
+Tue Jul 3
+  Peru                 v Bolivia               2-2   @ Mérida, Venezuela
+     (Claudio Pizarro 34' Claudio Pizarro 85';
+      Jaime Moreno 24' Jhasmani Campos 45')
+  Venezuela            v Uruguay               0-0   @ Mérida, Venezuela
+Wed Jul 4
+  Brazil               v Ecuador               1-0   @ Puerto la Cruz, Venezuela
+     (Robinho 56'(p))
+  Mexico               v Chile                 0-0   @ Puerto la Cruz, Venezuela
+Thu Jul 5
+  Argentina            v Paraguay              1-0   @ Barquisimeto, Venezuela
+     (Javier Mascherano 79')
+  Colombia             v United States         1-0   @ Barquisimeto, Venezuela
+     (Jaime Castrillón 15')
+Sat Jul 7
+  Chile                v Brazil                1-6   @ Puerto la Cruz, Venezuela
+     (Humberto Suazo 76';
+      Juan 16' Júlio Baptista 23' Robinho 27' Robinho 50' Josué Anunciado de Oliveira 68' Vágner Love 85')
+  Venezuela            v Uruguay               1-4   @ San Cristóbal, Venezuela
+     (Juan Arango 41';
+      Diego Forlán 38' Pablo García 64' Cristian Rodríguez 86' Diego Forlán 90')
+Sun Jul 8
+  Argentina            v Peru                  4-0   @ Barquisimeto, Venezuela
+     (Juan Román Riquelme 47' Lionel Messi 61' Javier Mascherano 75' Juan Román Riquelme 85')
+  Mexico               v Paraguay              6-0   @ Maturín, Venezuela
+     (Nery Castillo 5'(p) Gerardo Torrado 27' Nery Castillo 38' Fernando Arce 79' Cuauhtémoc Blanco 87'(p) Omar Bravo 90')
+Tue Jul 10
+  Uruguay              v Brazil                2-2   @ Maracaibo, Venezuela   [Brazil wins on penalties]
+     (Diego Forlán 36' Sebastián Abreu 69';
+      Maicon Sisenando 13' Júlio Baptista 41')
+Wed Jul 11
+  Mexico               v Argentina             0-3   @ Puerto Ordaz, Venezuela
+     (Gabriel Heinze 45' Lionel Messi 61' Juan Román Riquelme 65'(p))
+Sat Jul 14
+  Mexico               v Uruguay               3-1   @ Caracas, Venezuela
+     (Cuauhtémoc Blanco 36'(p) Omar Bravo 68' Andrés Guardado 76';
+      Sebastián Abreu 22')
+Sun Jul 15
+  Brazil               v Argentina             3-0   @ Maracaibo, Venezuela
+     (Júlio Baptista 4' Roberto Ayala 40'(og) Dani Alves 69')
 

@@ -1,35 +1,35 @@
 = African Cup of Nations qualification 1984
 
-# Date       Sat Aug/4 - Sun Dec/2 1984 (120d)
+# Date       Sat Aug 4 - Sun Dec 2 1984 (120d)
 # Teams      16
 # Matches    16
 
-[Sat Aug 4]
-  Tanzania - Uganda  0-1   @ Dar es Salaam, Tanzania
-[Sat Aug 18]
-  Uganda - Tanzania  1-3   @ Kampala, Uganda
-[Sun Sep 16]
-  Mauritius - Mozambique  0-0   @ Curepipe, Mauritius
-[Sun Sep 30]
-  Mozambique - Mauritius  3-0   @ Maputo, Mozambique
-[Sun Oct 14]
-  Zimbabwe - Eswatini  3-0   @ Bulawayo, Zimbabwe
-[Sun Nov 4]
-  Eswatini - Zimbabwe  1-5   @ Mbabane, Swaziland
-[Fri Nov 9]
-  Somalia - Kenya  1-0   @ Mogadishu, Somalia
-[Sun Nov 11]
-  DR Congo - Gabon  2-0   @ Kinshasa, Zaïre
-  Liberia - Mauritania  3-1   @ Monrovia, Liberia
-[Sun Nov 18]
-  Gambia - Sierra Leone  3-2   @ Banjul, Gambia
-  Mali - Benin  1-0   @ Bamako, Mali
-[Fri Nov 23]
-  Kenya - Somalia  1-0   @ Nairobi, Kenya   [Kenya wins on penalties]
-  Mauritania - Liberia  3-0   @ Nouakchott, Mauritania
-[Sun Nov 25]
-  Gabon - DR Congo  1-1   @ Libreville, Gabon
-[Sun Dec 2]
-  Benin - Mali  2-2   @ Cotonou, Benin
-  Sierra Leone - Gambia  2-0   @ Freetown, Sierra Leone
+Sat Aug 4
+  Tanzania             v Uganda                0-1   @ Dar es Salaam, Tanzania
+Sat Aug 18
+  Uganda               v Tanzania              1-3   @ Kampala, Uganda
+Sun Sep 16
+  Mauritius            v Mozambique            0-0   @ Curepipe, Mauritius
+Sun Sep 30
+  Mozambique           v Mauritius             3-0   @ Maputo, Mozambique
+Sun Oct 14
+  Zimbabwe             v Eswatini              3-0   @ Bulawayo, Zimbabwe
+Sun Nov 4
+  Eswatini             v Zimbabwe              1-5   @ Mbabane, Swaziland
+Fri Nov 9
+  Somalia              v Kenya                 1-0   @ Mogadishu, Somalia
+Sun Nov 11
+  DR Congo             v Gabon                 2-0   @ Kinshasa, Zaïre
+  Liberia              v Mauritania            3-1   @ Monrovia, Liberia
+Sun Nov 18
+  Gambia               v Sierra Leone          3-2   @ Banjul, Gambia
+  Mali                 v Benin                 1-0   @ Bamako, Mali
+Fri Nov 23
+  Kenya                v Somalia               1-0   @ Nairobi, Kenya   [Kenya wins on penalties]
+  Mauritania           v Liberia               3-0   @ Nouakchott, Mauritania
+Sun Nov 25
+  Gabon                v DR Congo              1-1   @ Libreville, Gabon
+Sun Dec 2
+  Benin                v Mali                  2-2   @ Cotonou, Benin
+  Sierra Leone         v Gambia                2-0   @ Freetown, Sierra Leone
 

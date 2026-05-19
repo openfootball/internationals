@@ -1,145 +1,145 @@
 = African Cup of Nations 2022
 
-# Date       Sun Jan/9 - Sun Feb/6 2022 (28d)
+# Date       Sun Jan 9 - Sun Feb 6 2022 (28d)
 # Teams      24
 # Matches    52
 
-[Sun Jan 9]
-  Cameroon - Burkina Faso  2-1   @ Yaoundé, Cameroon
-     Vincent Aboubakar 40' (pen.) Vincent Aboubakar 45' (pen.);
-     Gustavo Sangaré 24'
-  Ethiopia - Cape Verde  0-1   @ Yaoundé, Cameroon
-     -; Júlio Tavares 45'
-[Mon Jan 10]
-  Senegal - Zimbabwe  1-0   @ Bafoussam, Cameroon
-     Sadio Mané 90' (pen.)
-  Guinea - Malawi  1-0   @ Bafoussam, Cameroon
-     Issiaga Sylla 35'
-  Morocco - Ghana  1-0   @ Yaoundé, Cameroon
-     Sofiane Boufal 83'
-  Comoros - Gabon  0-1   @ Yaoundé, Cameroon
-     -; Aaron Boupendza 16'
-[Tue Jan 11]
-  Nigeria - Egypt  1-0   @ Garoua, Cameroon
-     Kelechi Iheanacho 30'
-  Sudan - Guinea-Bissau  0-0   @ Garoua, Cameroon
-  Algeria - Sierra Leone  0-0   @ Douala, Cameroon
-[Wed Jan 12]
-  Equatorial Guinea - Ivory Coast  0-1   @ Douala, Cameroon
-     -; Max Gradel 5'
-  Tunisia - Mali  0-1   @ Limbé, Cameroon
-     -; Ibrahima Koné 48' (pen.)
-  Mauritania - Gambia  0-1   @ Limbé, Cameroon
-     -; Ablie Jallow 10'
-[Thu Jan 13]
-  Cameroon - Ethiopia  4-1   @ Yaoundé, Cameroon
-     Karl Toko Ekambi 8' Vincent Aboubakar 53' Vincent Aboubakar 55' Karl Toko Ekambi 68';
-     Dawa Hotessa 4'
-  Cape Verde - Burkina Faso  0-1   @ Yaoundé, Cameroon
-     -; Hassane Bandé 39'
-[Fri Jan 14]
-  Senegal - Guinea  0-0   @ Bafoussam, Cameroon
-  Malawi - Zimbabwe  2-1   @ Bafoussam, Cameroon
-     Gabadinho Mhango 43' Gabadinho Mhango 58';
-     Ishmael Wadi 38'
-  Morocco - Comoros  2-0   @ Yaoundé, Cameroon
-     Selim Amallah 16' Zakaria Aboukhlal 88'
-  Gabon - Ghana  1-1   @ Yaoundé, Cameroon
-     Jim Allevinah 88';
-     André Ayew 18'
-[Sat Jan 15]
-  Nigeria - Sudan  3-1   @ Garoua, Cameroon
-     Samuel Chukwueze 3' Taiwo Awoniyi 45' Moses Simon 46';
-     Walieldin Khedr 70' (pen.)
-  Guinea-Bissau - Egypt  0-1   @ Garoua, Cameroon
-     -; Mohamed Salah 69'
-[Sun Jan 16]
-  Ivory Coast - Sierra Leone  2-2   @ Douala, Cameroon
-     Sébastien Haller 25' Nicolas Pépé 65';
-     Musa Noah Kamara 55' Alhaji Kamara 90'
-  Algeria - Equatorial Guinea  0-1   @ Douala, Cameroon
-     -; Esteban Obiang 70'
-  Gambia - Mali  1-1   @ Limbé, Cameroon
-     Musa Barrow 90' (pen.);
-     Ibrahima Koné 79' (pen.)
-  Tunisia - Mauritania  4-0   @ Limbé, Cameroon
-     Hamza Mathlouthi 4' Wahbi Khazri 9' Wahbi Khazri 64' Seifeddine Jaziri 66'
-[Mon Jan 17]
-  Burkina Faso - Ethiopia  1-1   @ Bafoussam, Cameroon
-     Cyrille Bayala 25';
-     Getaneh Kebede 52' (pen.)
-  Cameroon - Cape Verde  1-1   @ Yaoundé, Cameroon
-     Vincent Aboubakar 39';
-     Garry Rodrigues 53'
-[Tue Jan 18]
-  Malawi - Senegal  0-0   @ Bafoussam, Cameroon
-  Zimbabwe - Guinea  2-1   @ Yaoundé, Cameroon
-     Knowledge Musona 26' Kudakwashe Mahachi 43';
-     Naby Keïta 49'
-  Gabon - Morocco  2-2   @ Yaoundé, Cameroon
-     Jim Allevinah 21' Nayef Aguerd 81' (o.g.);
-     Sofiane Boufal 74' (pen.) Achraf Hakimi 84'
-  Ghana - Comoros  2-3   @ Garoua, Cameroon
-     Richmond Boakye 64' Alexander Djiku 77';
-     El Fardou Ben Nabouhane 4' Ahmed Mogni 62' Ahmed Mogni 85'
-[Wed Jan 19]
-  Egypt - Sudan  1-0   @ Yaoundé, Cameroon
-     Mohamed Abdelmonem 35'
-  Guinea-Bissau - Nigeria  0-2   @ Garoua, Cameroon
-     -; Umar Sadiq 56' William Troost-Ekong 75'
-[Thu Jan 20]
-  Ivory Coast - Algeria  3-1   @ Douala, Cameroon
-     Franck Kessié 22' Ibrahim Sangaré 39' Nicolas Pépé 54';
-     Sofiane Bendebka 73'
-  Sierra Leone - Equatorial Guinea  0-1   @ Limbé, Cameroon
-     -; Pablo Ganet 38'
-  Gambia - Tunisia  1-0   @ Limbé, Cameroon
-     Ablie Jallow 90'
-  Mali - Mauritania  2-0   @ Douala, Cameroon
-     Massadio Haïdara 2' Ibrahima Koné 49' (pen.)
-[Sun Jan 23]
-  Burkina Faso - Gabon  1-1   @ Limbé, Cameroon   [Burkina Faso wins on penalties]
-     Bertrand Traoré 28';
-     Adama Guira 90' (o.g.)
-  Nigeria - Tunisia  0-1   @ Garoua, Cameroon
-     -; Youssef Msakni 47'
-[Mon Jan 24]
-  Cameroon - Comoros  2-1   @ Yaoundé, Cameroon
-     Karl Toko Ekambi 29' Vincent Aboubakar 70';
-     Youssouf M'Changama 81'
-  Guinea - Gambia  0-1   @ Bafoussam, Cameroon
-     -; Musa Barrow 71'
-[Tue Jan 25]
-  Morocco - Malawi  2-1   @ Yaoundé, Cameroon
-     Youssef En-Nesyri 45' Achraf Hakimi 70';
-     Gabadinho Mhango 7'
-  Senegal - Cape Verde  2-0   @ Bafoussam, Cameroon
-     Sadio Mané 63' Bamba Dieng 90'
-[Wed Jan 26]
-  Ivory Coast - Egypt  0-0   @ Douala, Cameroon   [Egypt wins on penalties]
-  Mali - Equatorial Guinea  0-0   @ Limbé, Cameroon   [Equatorial Guinea wins on penalties]
-[Sat Jan 29]
-  Burkina Faso - Tunisia  1-0   @ Garoua, Cameroon
-     Dango Ouattara 45'
-  Cameroon - Gambia  2-0   @ Douala, Cameroon
-     Karl Toko Ekambi 50' Karl Toko Ekambi 57'
-[Sun Jan 30]
-  Egypt - Morocco  2-1   @ Yaoundé, Cameroon
-     Mohamed Salah 53' Trézéguet 100';
-     Sofiane Boufal 7' (pen.)
-  Senegal - Equatorial Guinea  3-1   @ Yaoundé, Cameroon
-     Famara Diédhiou 28' Cheikhou Kouyaté 68' Ismaïla Sarr 79';
-     Jannick Buyla 57'
-[Wed Feb 2]
-  Burkina Faso - Senegal  1-3   @ Yaoundé, Cameroon
-     Blati Touré 82';
-     Abdou Diallo 70' Idrissa Gueye 76' Sadio Mané 87'
-[Thu Feb 3]
-  Cameroon - Egypt  0-0   @ Yaoundé, Cameroon   [Egypt wins on penalties]
-[Sat Feb 5]
-  Cameroon - Burkina Faso  3-3   @ Yaoundé, Cameroon   [Cameroon wins on penalties]
-     Stéphane Bahoken 71' Vincent Aboubakar 85' Vincent Aboubakar 87';
-     Steeve Yago 24' André Onana 43' (o.g.) Djibril Ouattara 49'
-[Sun Feb 6]
-  Senegal - Egypt  0-0   @ Yaoundé, Cameroon   [Senegal wins on penalties]
+Sun Jan 9
+  Cameroon             v Burkina Faso          2-1   @ Yaoundé, Cameroon
+     (Vincent Aboubakar 40'(p) Vincent Aboubakar 45'(p);
+      Gustavo Sangaré 24')
+  Ethiopia             v Cape Verde            0-1   @ Yaoundé, Cameroon
+     (Júlio Tavares 45')
+Mon Jan 10
+  Senegal              v Zimbabwe              1-0   @ Bafoussam, Cameroon
+     (Sadio Mané 90'(p))
+  Guinea               v Malawi                1-0   @ Bafoussam, Cameroon
+     (Issiaga Sylla 35')
+  Morocco              v Ghana                 1-0   @ Yaoundé, Cameroon
+     (Sofiane Boufal 83')
+  Comoros              v Gabon                 0-1   @ Yaoundé, Cameroon
+     (Aaron Boupendza 16')
+Tue Jan 11
+  Nigeria              v Egypt                 1-0   @ Garoua, Cameroon
+     (Kelechi Iheanacho 30')
+  Sudan                v Guinea-Bissau         0-0   @ Garoua, Cameroon
+  Algeria              v Sierra Leone          0-0   @ Douala, Cameroon
+Wed Jan 12
+  Equatorial Guinea    v Ivory Coast           0-1   @ Douala, Cameroon
+     (Max Gradel 5')
+  Tunisia              v Mali                  0-1   @ Limbé, Cameroon
+     (Ibrahima Koné 48'(p))
+  Mauritania           v Gambia                0-1   @ Limbé, Cameroon
+     (Ablie Jallow 10')
+Thu Jan 13
+  Cameroon             v Ethiopia              4-1   @ Yaoundé, Cameroon
+     (Karl Toko Ekambi 8' Vincent Aboubakar 53' Vincent Aboubakar 55' Karl Toko Ekambi 68';
+      Dawa Hotessa 4')
+  Cape Verde           v Burkina Faso          0-1   @ Yaoundé, Cameroon
+     (Hassane Bandé 39')
+Fri Jan 14
+  Senegal              v Guinea                0-0   @ Bafoussam, Cameroon
+  Malawi               v Zimbabwe              2-1   @ Bafoussam, Cameroon
+     (Gabadinho Mhango 43' Gabadinho Mhango 58';
+      Ishmael Wadi 38')
+  Morocco              v Comoros               2-0   @ Yaoundé, Cameroon
+     (Selim Amallah 16' Zakaria Aboukhlal 88')
+  Gabon                v Ghana                 1-1   @ Yaoundé, Cameroon
+     (Jim Allevinah 88';
+      André Ayew 18')
+Sat Jan 15
+  Nigeria              v Sudan                 3-1   @ Garoua, Cameroon
+     (Samuel Chukwueze 3' Taiwo Awoniyi 45' Moses Simon 46';
+      Walieldin Khedr 70'(p))
+  Guinea-Bissau        v Egypt                 0-1   @ Garoua, Cameroon
+     (Mohamed Salah 69')
+Sun Jan 16
+  Ivory Coast          v Sierra Leone          2-2   @ Douala, Cameroon
+     (Sébastien Haller 25' Nicolas Pépé 65';
+      Musa Noah Kamara 55' Alhaji Kamara 90')
+  Algeria              v Equatorial Guinea     0-1   @ Douala, Cameroon
+     (Esteban Obiang 70')
+  Gambia               v Mali                  1-1   @ Limbé, Cameroon
+     (Musa Barrow 90'(p);
+      Ibrahima Koné 79'(p))
+  Tunisia              v Mauritania            4-0   @ Limbé, Cameroon
+     (Hamza Mathlouthi 4' Wahbi Khazri 9' Wahbi Khazri 64' Seifeddine Jaziri 66')
+Mon Jan 17
+  Burkina Faso         v Ethiopia              1-1   @ Bafoussam, Cameroon
+     (Cyrille Bayala 25';
+      Getaneh Kebede 52'(p))
+  Cameroon             v Cape Verde            1-1   @ Yaoundé, Cameroon
+     (Vincent Aboubakar 39';
+      Garry Rodrigues 53')
+Tue Jan 18
+  Malawi               v Senegal               0-0   @ Bafoussam, Cameroon
+  Zimbabwe             v Guinea                2-1   @ Yaoundé, Cameroon
+     (Knowledge Musona 26' Kudakwashe Mahachi 43';
+      Naby Keïta 49')
+  Gabon                v Morocco               2-2   @ Yaoundé, Cameroon
+     (Jim Allevinah 21' Nayef Aguerd 81'(og);
+      Sofiane Boufal 74'(p) Achraf Hakimi 84')
+  Ghana                v Comoros               2-3   @ Garoua, Cameroon
+     (Richmond Boakye 64' Alexander Djiku 77';
+      El Fardou Ben Nabouhane 4' Ahmed Mogni 62' Ahmed Mogni 85')
+Wed Jan 19
+  Egypt                v Sudan                 1-0   @ Yaoundé, Cameroon
+     (Mohamed Abdelmonem 35')
+  Guinea-Bissau        v Nigeria               0-2   @ Garoua, Cameroon
+     (Umar Sadiq 56' William Troost-Ekong 75')
+Thu Jan 20
+  Ivory Coast          v Algeria               3-1   @ Douala, Cameroon
+     (Franck Kessié 22' Ibrahim Sangaré 39' Nicolas Pépé 54';
+      Sofiane Bendebka 73')
+  Sierra Leone         v Equatorial Guinea     0-1   @ Limbé, Cameroon
+     (Pablo Ganet 38')
+  Gambia               v Tunisia               1-0   @ Limbé, Cameroon
+     (Ablie Jallow 90')
+  Mali                 v Mauritania            2-0   @ Douala, Cameroon
+     (Massadio Haïdara 2' Ibrahima Koné 49'(p))
+Sun Jan 23
+  Burkina Faso         v Gabon                 1-1   @ Limbé, Cameroon   [Burkina Faso wins on penalties]
+     (Bertrand Traoré 28';
+      Adama Guira 90'(og))
+  Nigeria              v Tunisia               0-1   @ Garoua, Cameroon
+     (Youssef Msakni 47')
+Mon Jan 24
+  Cameroon             v Comoros               2-1   @ Yaoundé, Cameroon
+     (Karl Toko Ekambi 29' Vincent Aboubakar 70';
+      Youssouf M'Changama 81')
+  Guinea               v Gambia                0-1   @ Bafoussam, Cameroon
+     (Musa Barrow 71')
+Tue Jan 25
+  Morocco              v Malawi                2-1   @ Yaoundé, Cameroon
+     (Youssef En-Nesyri 45' Achraf Hakimi 70';
+      Gabadinho Mhango 7')
+  Senegal              v Cape Verde            2-0   @ Bafoussam, Cameroon
+     (Sadio Mané 63' Bamba Dieng 90')
+Wed Jan 26
+  Ivory Coast          v Egypt                 0-0   @ Douala, Cameroon   [Egypt wins on penalties]
+  Mali                 v Equatorial Guinea     0-0   @ Limbé, Cameroon   [Equatorial Guinea wins on penalties]
+Sat Jan 29
+  Burkina Faso         v Tunisia               1-0   @ Garoua, Cameroon
+     (Dango Ouattara 45')
+  Cameroon             v Gambia                2-0   @ Douala, Cameroon
+     (Karl Toko Ekambi 50' Karl Toko Ekambi 57')
+Sun Jan 30
+  Egypt                v Morocco               2-1   @ Yaoundé, Cameroon
+     (Mohamed Salah 53' Trézéguet 100';
+      Sofiane Boufal 7'(p))
+  Senegal              v Equatorial Guinea     3-1   @ Yaoundé, Cameroon
+     (Famara Diédhiou 28' Cheikhou Kouyaté 68' Ismaïla Sarr 79';
+      Jannick Buyla 57')
+Wed Feb 2
+  Burkina Faso         v Senegal               1-3   @ Yaoundé, Cameroon
+     (Blati Touré 82';
+      Abdou Diallo 70' Idrissa Gueye 76' Sadio Mané 87')
+Thu Feb 3
+  Cameroon             v Egypt                 0-0   @ Yaoundé, Cameroon   [Egypt wins on penalties]
+Sat Feb 5
+  Cameroon             v Burkina Faso          3-3   @ Yaoundé, Cameroon   [Cameroon wins on penalties]
+     (Stéphane Bahoken 71' Vincent Aboubakar 85' Vincent Aboubakar 87';
+      Steeve Yago 24' André Onana 43'(og) Djibril Ouattara 49')
+Sun Feb 6
+  Senegal              v Egypt                 0-0   @ Yaoundé, Cameroon   [Senegal wins on penalties]
 

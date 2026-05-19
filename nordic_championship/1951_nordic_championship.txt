@@ -1,18 +1,18 @@
 = Nordic Championship 1951
 
-# Date       Thu Aug/16 - Sun Oct/21 1951 (66d)
+# Date       Thu Aug 16 - Sun Oct 21 1951 (66d)
 # Teams      4
 # Matches    6
 
-[Thu Aug 16]
-  Finland - Norway  1-1   @ Helsinki, Finland
-[Sun Sep 2]
-  Sweden - Finland  3-2   @ Solna, Sweden
-[Sun Sep 16]
-  Norway - Denmark  2-0   @ Oslo, Norway
-[Sun Sep 30]
-  Denmark - Finland  1-0   @ Copenhagen, Denmark
-  Sweden - Norway  3-4   @ Gothenburg, Sweden
-[Sun Oct 21]
-  Denmark - Sweden  3-1   @ Copenhagen, Denmark
+Thu Aug 16
+  Finland              v Norway                1-1   @ Helsinki, Finland
+Sun Sep 2
+  Sweden               v Finland               3-2   @ Solna, Sweden
+Sun Sep 16
+  Norway               v Denmark               2-0   @ Oslo, Norway
+Sun Sep 30
+  Denmark              v Finland               1-0   @ Copenhagen, Denmark
+  Sweden               v Norway                3-4   @ Gothenburg, Sweden
+Sun Oct 21
+  Denmark              v Sweden                3-1   @ Copenhagen, Denmark
 

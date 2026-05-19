@@ -1,22 +1,22 @@
 = WAFF Championship 2004
 
-# Date       Thu Jun/17 - Fri Jun/25 2004 (8d)
+# Date       Thu Jun 17 - Fri Jun 25 2004 (8d)
 # Teams      6
 # Matches    10
 
-[Thu Jun 17]
-  Iran - Lebanon  4-0   @ Tehran, Iran
-  Palestine - Jordan  1-1   @ Tehran, Iran
-[Sat Jun 19]
-  Iraq - Palestine  2-1   @ Tehran, Iran
-  Syria - Lebanon  3-1   @ Tehran, Iran
-[Mon Jun 21]
-  Iran - Syria  7-1   @ Tehran, Iran
-  Jordan - Iraq  2-0   @ Tehran, Iran
-[Wed Jun 23]
-  Iran - Iraq  2-1   @ Tehran, Iran
-  Jordan - Syria  1-1   @ Tehran, Iran   [Syria wins on penalties]
-[Fri Jun 25]
-  Iran - Syria  4-1   @ Tehran, Iran
-  Iraq - Jordan  1-3   @ Tehran, Iran
+Thu Jun 17
+  Iran                 v Lebanon               4-0   @ Tehran, Iran
+  Palestine            v Jordan                1-1   @ Tehran, Iran
+Sat Jun 19
+  Iraq                 v Palestine             2-1   @ Tehran, Iran
+  Syria                v Lebanon               3-1   @ Tehran, Iran
+Mon Jun 21
+  Iran                 v Syria                 7-1   @ Tehran, Iran
+  Jordan               v Iraq                  2-0   @ Tehran, Iran
+Wed Jun 23
+  Iran                 v Iraq                  2-1   @ Tehran, Iran
+  Jordan               v Syria                 1-1   @ Tehran, Iran   [Syria wins on penalties]
+Fri Jun 25
+  Iran                 v Syria                 4-1   @ Tehran, Iran
+  Iraq                 v Jordan                1-3   @ Tehran, Iran
 

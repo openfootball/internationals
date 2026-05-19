@@ -1,11 +1,11 @@
 = Copa Rio Branco 1968
 
-# Date       Sun Jun/9 - Wed Jun/12 1968 (3d)
+# Date       Sun Jun 9 - Wed Jun 12 1968 (3d)
 # Teams      2
 # Matches    2
 
-[Sun Jun 9]
-  Brazil - Uruguay  2-0   @ São Paulo, Brazil
-[Wed Jun 12]
-  Brazil - Uruguay  4-0   @ Rio de Janeiro, Brazil
+Sun Jun 9
+  Brazil               v Uruguay               2-0   @ São Paulo, Brazil
+Wed Jun 12
+  Brazil               v Uruguay               4-0   @ Rio de Janeiro, Brazil
 

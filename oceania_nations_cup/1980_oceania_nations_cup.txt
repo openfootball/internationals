@@ -1,52 +1,52 @@
 = Oceania Nations Cup 1980
 
-# Date       Sun Feb/24 - Sat Mar/1 1980 (6d)
+# Date       Sun Feb 24 - Sat Mar 1 1980 (6d)
 # Teams      8
 # Matches    14
 
-[Sun Feb 24]
-  New Caledonia - Australia  0-8   @ Nouméa, New Caledonia
-     -; Danny Moulis ??' Ian Hunter ??' Ian Hunter ??' Paul Kay ??' Paul Kay ??' Eddie Krncevic ??' Eddie Krncevic ??' Eddie Krncevic ??'
-  Vanuatu - Papua New Guinea  3-4   @ Nouméa, New Caledonia
-     N.N. ??' N.N. ??' N.N. ??';
-     N.N. ??' N.N. ??' N.N. ??' N.N. ??'
-[Mon Feb 25]
-  Fiji - Solomon Islands  3-1   @ Nouméa, New Caledonia
-     N.N. ??' N.N. ??' N.N. ??';
-     N.N. ??'
-  New Zealand - Tahiti  1-3   @ Nouméa, New Caledonia
-     Steve Sumner 47' (pen.);
-     Alfred Wabealo 61' Alfred Wabealo 73' Erroll Bennett 85'
-[Tue Feb 26]
-  Australia - Papua New Guinea  11-2   @ Nouméa, New Caledonia
-     Danny Moulis ??' Arno Bertogna ??' Vic Bozanic ??' Ian Hunter ??' Ian Hunter ??' Ian Hunter ??' Eddie Krncevic ??' Peter Sharne ??' Peter Sharne ??' Peter Sharne ??' Peter Sharne ??';
-     Mouagi ??' Torea ??'
-  New Caledonia - Vanuatu  4-3   @ Nouméa, New Caledonia
-     N.N. ??' N.N. ??' N.N. ??' N.N. ??';
-     N.N. ??' N.N. ??' N.N. ??'
-[Wed Feb 27]
-  Fiji - New Zealand  4-0   @ Nouméa, New Caledonia
-     Dewan Chand 10' Meli Vuilabasa 31' Dewan Chand 39' Meli Vuilabasa 63'
-  Solomon Islands - Tahiti  1-12   @ Nouméa, New Caledonia
-     N.N. ??';
-     N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??'
-[Thu Feb 28]
-  Australia - Vanuatu  1-0   @ Nouméa, New Caledonia
-     Eddie Krncevic ??'
-  New Caledonia - Papua New Guinea  8-0   @ Nouméa, New Caledonia
-     N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??'
-[Fri Feb 29]
-  Fiji - Tahiti  3-6   @ Nouméa, New Caledonia
-     N.N. ??' N.N. ??' N.N. ??';
-     N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??'
-  New Zealand - Solomon Islands  6-1   @ Nouméa, New Caledonia
-     Michael Groom 6' Mark Armstrong 16' Bill de Graaf 24' Bill de Graaf 39' Mark Armstrong 65' Mark Armstrong 69';
-     E. Karitea 66'
-[Sat Mar 1]
-  Australia - Tahiti  4-2   @ Nouméa, New Caledonia
-     Paul Kay 2' Danny Moulis 28' Paul Kay 38' Vic Bozanic 60';
-     Andre Wabealo 10' Erroll Bennett 52'
-  New Caledonia - Fiji  2-1   @ Nouméa, New Caledonia
-     Jean Xowie 37' Jacob Xowie 59';
-     Mohamed Salim 1'
+Sun Feb 24
+  New Caledonia        v Australia             0-8   @ Nouméa, New Caledonia
+     (Danny Moulis ??' Ian Hunter ??' Ian Hunter ??' Paul Kay ??' Paul Kay ??' Eddie Krncevic ??' Eddie Krncevic ??' Eddie Krncevic ??')
+  Vanuatu              v Papua New Guinea      3-4   @ Nouméa, New Caledonia
+     (N.N. ??' N.N. ??' N.N. ??';
+      N.N. ??' N.N. ??' N.N. ??' N.N. ??')
+Mon Feb 25
+  Fiji                 v Solomon Islands       3-1   @ Nouméa, New Caledonia
+     (N.N. ??' N.N. ??' N.N. ??';
+      N.N. ??')
+  New Zealand          v Tahiti                1-3   @ Nouméa, New Caledonia
+     (Steve Sumner 47'(p);
+      Alfred Wabealo 61' Alfred Wabealo 73' Erroll Bennett 85')
+Tue Feb 26
+  Australia            v Papua New Guinea      11-2   @ Nouméa, New Caledonia
+     (Danny Moulis ??' Arno Bertogna ??' Vic Bozanic ??' Ian Hunter ??' Ian Hunter ??' Ian Hunter ??' Eddie Krncevic ??' Peter Sharne ??' Peter Sharne ??' Peter Sharne ??' Peter Sharne ??';
+      Mouagi ??' Torea ??')
+  New Caledonia        v Vanuatu               4-3   @ Nouméa, New Caledonia
+     (N.N. ??' N.N. ??' N.N. ??' N.N. ??';
+      N.N. ??' N.N. ??' N.N. ??')
+Wed Feb 27
+  Fiji                 v New Zealand           4-0   @ Nouméa, New Caledonia
+     (Dewan Chand 10' Meli Vuilabasa 31' Dewan Chand 39' Meli Vuilabasa 63')
+  Solomon Islands      v Tahiti                1-12   @ Nouméa, New Caledonia
+     (N.N. ??';
+      N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??')
+Thu Feb 28
+  Australia            v Vanuatu               1-0   @ Nouméa, New Caledonia
+     (Eddie Krncevic ??')
+  New Caledonia        v Papua New Guinea      8-0   @ Nouméa, New Caledonia
+     (N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??')
+Fri Feb 29
+  Fiji                 v Tahiti                3-6   @ Nouméa, New Caledonia
+     (N.N. ??' N.N. ??' N.N. ??';
+      N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??' N.N. ??')
+  New Zealand          v Solomon Islands       6-1   @ Nouméa, New Caledonia
+     (Michael Groom 6' Mark Armstrong 16' Bill de Graaf 24' Bill de Graaf 39' Mark Armstrong 65' Mark Armstrong 69';
+      E. Karitea 66')
+Sat Mar 1
+  Australia            v Tahiti                4-2   @ Nouméa, New Caledonia
+     (Paul Kay 2' Danny Moulis 28' Paul Kay 38' Vic Bozanic 60';
+      Andre Wabealo 10' Erroll Bennett 52')
+  New Caledonia        v Fiji                  2-1   @ Nouméa, New Caledonia
+     (Jean Xowie 37' Jacob Xowie 59';
+      Mohamed Salim 1')
 

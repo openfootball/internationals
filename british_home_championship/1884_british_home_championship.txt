@@ -1,19 +1,19 @@
 = British Home Championship 1884
 
-# Date       Sat Jan/26 - Sat Mar/29 1884 (63d)
+# Date       Sat Jan 26 - Sat Mar 29 1884 (63d)
 # Teams      4
 # Matches    6
 
-[Sat Jan 26]
-  Northern Ireland - Scotland  0-5   @ Belfast, Ireland
-[Sat Feb 9]
-  Wales - Northern Ireland  6-0   @ Wrexham, Wales
-[Sat Feb 23]
-  Northern Ireland - England  1-8   @ Belfast, Ireland
-[Sat Mar 15]
-  Scotland - England  1-0   @ Glasgow, Scotland
-[Mon Mar 17]
-  Wales - England  0-4   @ Wrexham, Wales
-[Sat Mar 29]
-  Scotland - Wales  4-1   @ Glasgow, Scotland
+Sat Jan 26
+  Northern Ireland     v Scotland              0-5   @ Belfast, Ireland
+Sat Feb 9
+  Wales                v Northern Ireland      6-0   @ Wrexham, Wales
+Sat Feb 23
+  Northern Ireland     v England               1-8   @ Belfast, Ireland
+Sat Mar 15
+  Scotland             v England               1-0   @ Glasgow, Scotland
+Mon Mar 17
+  Wales                v England               0-4   @ Wrexham, Wales
+Sat Mar 29
+  Scotland             v Wales                 4-1   @ Glasgow, Scotland
 

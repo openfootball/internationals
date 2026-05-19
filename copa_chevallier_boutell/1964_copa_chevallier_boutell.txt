@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1964
 
-# Date       Wed Nov/25 - Tue Dec/8 1964 (13d)
+# Date       Wed Nov 25 - Tue Dec 8 1964 (13d)
 # Teams      2
 # Matches    2
 
-[Wed Nov 25]
-  Paraguay - Argentina  3-0   @ Asunción, Paraguay
-[Tue Dec 8]
-  Argentina - Paraguay  8-1   @ Buenos Aires, Argentina
+Wed Nov 25
+  Paraguay             v Argentina             3-0   @ Asunción, Paraguay
+Tue Dec 8
+  Argentina            v Paraguay              8-1   @ Buenos Aires, Argentina
 

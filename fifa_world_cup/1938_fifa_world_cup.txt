@@ -1,64 +1,64 @@
 = FIFA World Cup 1938
 
-# Date       Sat Jun/4 - Sun Jun/19 1938 (15d)
+# Date       Sat Jun 4 - Sun Jun 19 1938 (15d)
 # Teams      15
 # Matches    18
 
-[Sat Jun 4]
-  Germany - Switzerland  1-1   @ Paris, France
-     Josef Gauchel 29';
-     André Abegglen 43'
-[Sun Jun 5]
-  Brazil - Poland  6-5   @ Strasbourg, France
-     Leônidas da Silva 18' Romeu Pellicciari 25' José Perácio 44' José Perácio 71' Leônidas da Silva 93' Leônidas da Silva 104';
-     Friedrich Scherfke 23' (pen.) Ernst Wilimowski 53' Ernst Wilimowski 59' Ernst Wilimowski 89' Ernst Wilimowski 118'
-  Cuba - Romania  3-3   @ Toulouse, France
-     Héctor Socorro 44' José Magriñá 69' Héctor Socorro 103';
-     Silviu Bindea 35' Iuliu Barátky 88' Ștefan Dobay 105'
-  Czechoslovakia - Netherlands  3-0   @ Le Havre, France
-     Josef Košťálek 93' Josef Zeman 111' Oldřich Nejedlý 118'
-  France - Belgium  3-1   @ Colombes, France
-     Émile Veinante 1' Jean Nicolas 16' Jean Nicolas 69';
-     Hendrik Isemborghs 38'
-  Hungary - Indonesia  6-0   @ Reims, France
-     Vilmos Kohut 13' Géza Toldi 15' György Sárosi 28' Gyula Zsengellér 35' Gyula Zsengellér 76' György Sárosi 89'
-  Italy - Norway  2-1   @ Marseille, France
-     Pietro Ferraris 2' Silvio Piola 94';
-     Arne Brustad 83'
-[Thu Jun 9]
-  Cuba - Romania  2-1   @ Toulouse, France
-     Héctor Socorro 51' Tomás Fernández 57';
-     Ștefan Dobay 35'
-  Germany - Switzerland  2-4   @ Paris, France
-     Wilhelm Hahnemann 8' Ernst Lörtscher 22' (o.g.);
-     Eugen Walaschek 42' Alfred Bickel 64' André Abegglen 75' André Abegglen 78'
-[Sun Jun 12]
-  Brazil - Czechoslovakia  1-1   @ Bordeaux, France
-     Leônidas da Silva 30';
-     Oldřich Nejedlý 65' (pen.)
-  Cuba - Sweden  0-8   @ Antibes, France
-     -; Harry Andersson 9' Gustav Wetterström 22' Gustav Wetterström 37' Gustav Wetterström 44' Tore Keller 80' Harry Andersson 81' Arne Nyberg 84' Harry Andersson 89'
-  France - Italy  1-3   @ Colombes, France
-     Oscar Heisserer 10';
-     Gino Colaussi 9' Silvio Piola 51' Silvio Piola 72'
-  Hungary - Switzerland  2-0   @ Lille, France
-     György Sárosi 40' Gyula Zsengellér 89'
-[Tue Jun 14]
-  Brazil - Czechoslovakia  2-1   @ Bordeaux, France
-     Leônidas da Silva 57' Roberto Emílio da Cunha 62';
-     Vlastimil Kopecký 25'
-[Thu Jun 16]
-  Brazil - Italy  1-2   @ Marseille, France
-     Romeu Pellicciari 87';
-     Gino Colaussi 51' Giuseppe Meazza 60' (pen.)
-  Hungary - Sweden  5-1   @ Paris, France
-     Sven Jacobsson 19' (o.g.) Pál Titkos 37' Gyula Zsengellér 39' György Sárosi 65' Gyula Zsengellér 85';
-     Arne Nyberg 1'
-[Sun Jun 19]
-  Brazil - Sweden  4-2   @ Bordeaux, France
-     Romeu Pellicciari 44' Leônidas da Silva 63' Leônidas da Silva 74' José Perácio 80';
-     Sven Jonasson 28' Arne Nyberg 38'
-  Hungary - Italy  2-4   @ Colombes, France
-     Pál Titkos 8' György Sárosi 70';
-     Gino Colaussi 6' Silvio Piola 16' Gino Colaussi 35' Silvio Piola 82'
+Sat Jun 4
+  Germany              v Switzerland           1-1   @ Paris, France
+     (Josef Gauchel 29';
+      André Abegglen 43')
+Sun Jun 5
+  Brazil               v Poland                6-5   @ Strasbourg, France
+     (Leônidas da Silva 18' Romeu Pellicciari 25' José Perácio 44' José Perácio 71' Leônidas da Silva 93' Leônidas da Silva 104';
+      Friedrich Scherfke 23'(p) Ernst Wilimowski 53' Ernst Wilimowski 59' Ernst Wilimowski 89' Ernst Wilimowski 118')
+  Cuba                 v Romania               3-3   @ Toulouse, France
+     (Héctor Socorro 44' José Magriñá 69' Héctor Socorro 103';
+      Silviu Bindea 35' Iuliu Barátky 88' Ștefan Dobay 105')
+  Czechoslovakia       v Netherlands           3-0   @ Le Havre, France
+     (Josef Košťálek 93' Josef Zeman 111' Oldřich Nejedlý 118')
+  France               v Belgium               3-1   @ Colombes, France
+     (Émile Veinante 1' Jean Nicolas 16' Jean Nicolas 69';
+      Hendrik Isemborghs 38')
+  Hungary              v Indonesia             6-0   @ Reims, France
+     (Vilmos Kohut 13' Géza Toldi 15' György Sárosi 28' Gyula Zsengellér 35' Gyula Zsengellér 76' György Sárosi 89')
+  Italy                v Norway                2-1   @ Marseille, France
+     (Pietro Ferraris 2' Silvio Piola 94';
+      Arne Brustad 83')
+Thu Jun 9
+  Cuba                 v Romania               2-1   @ Toulouse, France
+     (Héctor Socorro 51' Tomás Fernández 57';
+      Ștefan Dobay 35')
+  Germany              v Switzerland           2-4   @ Paris, France
+     (Wilhelm Hahnemann 8' Ernst Lörtscher 22'(og);
+      Eugen Walaschek 42' Alfred Bickel 64' André Abegglen 75' André Abegglen 78')
+Sun Jun 12
+  Brazil               v Czechoslovakia        1-1   @ Bordeaux, France
+     (Leônidas da Silva 30';
+      Oldřich Nejedlý 65'(p))
+  Cuba                 v Sweden                0-8   @ Antibes, France
+     (Harry Andersson 9' Gustav Wetterström 22' Gustav Wetterström 37' Gustav Wetterström 44' Tore Keller 80' Harry Andersson 81' Arne Nyberg 84' Harry Andersson 89')
+  France               v Italy                 1-3   @ Colombes, France
+     (Oscar Heisserer 10';
+      Gino Colaussi 9' Silvio Piola 51' Silvio Piola 72')
+  Hungary              v Switzerland           2-0   @ Lille, France
+     (György Sárosi 40' Gyula Zsengellér 89')
+Tue Jun 14
+  Brazil               v Czechoslovakia        2-1   @ Bordeaux, France
+     (Leônidas da Silva 57' Roberto Emílio da Cunha 62';
+      Vlastimil Kopecký 25')
+Thu Jun 16
+  Brazil               v Italy                 1-2   @ Marseille, France
+     (Romeu Pellicciari 87';
+      Gino Colaussi 51' Giuseppe Meazza 60'(p))
+  Hungary              v Sweden                5-1   @ Paris, France
+     (Sven Jacobsson 19'(og) Pál Titkos 37' Gyula Zsengellér 39' György Sárosi 65' Gyula Zsengellér 85';
+      Arne Nyberg 1')
+Sun Jun 19
+  Brazil               v Sweden                4-2   @ Bordeaux, France
+     (Romeu Pellicciari 44' Leônidas da Silva 63' Leônidas da Silva 74' José Perácio 80';
+      Sven Jonasson 28' Arne Nyberg 38')
+  Hungary              v Italy                 2-4   @ Colombes, France
+     (Pál Titkos 8' György Sárosi 70';
+      Gino Colaussi 6' Silvio Piola 16' Gino Colaussi 35' Silvio Piola 82')
 

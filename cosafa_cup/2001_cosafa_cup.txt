@@ -1,31 +1,31 @@
 = COSAFA Cup 2001
 
-# Date       Sun Feb/11 - Sun Sep/30 2001 (231d)
+# Date       Sun Feb 11 - Sun Sep 30 2001 (231d)
 # Teams      11
 # Matches    12
 
-[Sun Feb 11]
-  Eswatini - Zambia  0-0   @ Lobamba, Swaziland   [Eswatini wins on penalties]
-[Sat Mar 17]
-  Botswana - Malawi  0-1   @ Gaborone, Botswana
-[Sun Apr 8]
-  Mauritius - Namibia  1-0   @ Mapou, Mauritius
-[Sun Apr 29]
-  Mozambique - South Africa  0-3   @ Maputo, Mozambique
-[Sun Jun 10]
-  Angola - Mauritius  1-0   @ Luanda, Angola
-[Sun Jun 24]
-  Lesotho - Zambia  1-2   @ Maseru, Lesotho
-[Sun Jul 8]
-  Zimbabwe - Eswatini  2-1   @ Harare, Zimbabwe
-[Sat Jul 21]
-  Malawi - South Africa  1-0   @ Blantyre, Malawi
-[Sat Aug 18]
-  Zambia - Angola  1-1   @ Lusaka, Zambia   [Angola wins on penalties]
-[Sat Aug 25]
-  Malawi - Zimbabwe  0-2   @ Blantyre, Malawi
-[Sun Sep 16]
-  Angola - Zimbabwe  0-0   @ Luanda, Angola
-[Sun Sep 30]
-  Zimbabwe - Angola  0-1   @ Harare, Zimbabwe
+Sun Feb 11
+  Eswatini             v Zambia                0-0   @ Lobamba, Swaziland   [Eswatini wins on penalties]
+Sat Mar 17
+  Botswana             v Malawi                0-1   @ Gaborone, Botswana
+Sun Apr 8
+  Mauritius            v Namibia               1-0   @ Mapou, Mauritius
+Sun Apr 29
+  Mozambique           v South Africa          0-3   @ Maputo, Mozambique
+Sun Jun 10
+  Angola               v Mauritius             1-0   @ Luanda, Angola
+Sun Jun 24
+  Lesotho              v Zambia                1-2   @ Maseru, Lesotho
+Sun Jul 8
+  Zimbabwe             v Eswatini              2-1   @ Harare, Zimbabwe
+Sat Jul 21
+  Malawi               v South Africa          1-0   @ Blantyre, Malawi
+Sat Aug 18
+  Zambia               v Angola                1-1   @ Lusaka, Zambia   [Angola wins on penalties]
+Sat Aug 25
+  Malawi               v Zimbabwe              0-2   @ Blantyre, Malawi
+Sun Sep 16
+  Angola               v Zimbabwe              0-0   @ Luanda, Angola
+Sun Sep 30
+  Zimbabwe             v Angola                0-1   @ Harare, Zimbabwe
 

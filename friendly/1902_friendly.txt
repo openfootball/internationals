@@ -1,11 +1,11 @@
 = Friendly 1902
 
-# Date       Sun Jul/20 - Sun Oct/12 1902 (84d)
+# Date       Sun Jul 20 - Sun Oct 12 1902 (84d)
 # Teams      4
 # Matches    2
 
-[Sun Jul 20]
-  Uruguay - Argentina  0-6   @ Montevideo, Uruguay
-[Sun Oct 12]
-  Austria - Hungary  5-0   @ Vienna, Austria
+Sun Jul 20
+  Uruguay              v Argentina             0-6   @ Montevideo, Uruguay
+Sun Oct 12
+  Austria              v Hungary               5-0   @ Vienna, Austria
 

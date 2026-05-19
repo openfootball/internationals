@@ -1,13 +1,13 @@
 = VFF Cup 2010
 
-# Date       Tue Nov/2 - Sat Nov/6 2010 (4d)
+# Date       Tue Nov 2 - Sat Nov 6 2010 (4d)
 # Teams      3
 # Matches    3
 
-[Tue Nov 2]
-  Singapore - North Korea  1-2   @ Hanoi, Vietnam
-[Thu Nov 4]
-  Vietnam - Singapore  1-1   @ Hanoi, Vietnam
-[Sat Nov 6]
-  Vietnam - North Korea  0-2   @ Hanoi, Vietnam
+Tue Nov 2
+  Singapore            v North Korea           1-2   @ Hanoi, Vietnam
+Thu Nov 4
+  Vietnam              v Singapore             1-1   @ Hanoi, Vietnam
+Sat Nov 6
+  Vietnam              v North Korea           0-2   @ Hanoi, Vietnam
 

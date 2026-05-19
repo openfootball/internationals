@@ -1,61 +1,61 @@
 = Asian Games 1986
 
-# Date       Sat Sep/20 - Sun Oct/5 1986 (15d)
+# Date       Sat Sep 20 - Sun Oct 5 1986 (15d)
 # Teams      18
 # Matches    40
 
-[Sat Sep 20]
-  South Korea - India  3-0   @ Busan, South Korea
-  China PR - Bahrain  5-1   @ Busan, South Korea
-  Kuwait - Bangladesh  4-0   @ Daejeon, South Korea
-  Japan - Nepal  5-0   @ Daejeon, South Korea
-[Sun Sep 21]
-  Iraq - Oman  4-0   @ Daegu, South Korea
-  United Arab Emirates - Pakistan  1-0   @ Daegu, South Korea
-  Malaysia - Saudi Arabia  1-3   @ Gwangju, South Korea
-  Qatar - Indonesia  1-1   @ Gwangju, South Korea
-[Mon Sep 22]
-  China PR - India  2-1   @ Busan, South Korea
-  Japan - Iran  0-2   @ Daejeon, South Korea
-  Nepal - Kuwait  0-5   @ Daejeon, South Korea
-[Tue Sep 23]
-  United Arab Emirates - Thailand  2-1   @ Daegu, South Korea
-  Pakistan - Iraq  1-5   @ Daegu, South Korea
-  Qatar - Malaysia  1-1   @ Gwangju, South Korea
-[Wed Sep 24]
-  South Korea - Bahrain  0-0   @ Busan, South Korea
-  Iran - Bangladesh  4-0   @ Daejeon, South Korea
-  Japan - Kuwait  0-2   @ Daejeon, South Korea
-[Thu Sep 25]
-  Thailand - Oman  0-0   @ Daegu, South Korea
-  United Arab Emirates - Iraq  2-1   @ Daegu, South Korea
-  Indonesia - Saudi Arabia  0-2   @ Gwangju, South Korea
-[Fri Sep 26]
-  Bahrain - India  3-0   @ Busan, South Korea
-  Nepal - Bangladesh  0-1   @ Daejeon, South Korea
-  Iran - Kuwait  0-1   @ Daejeon, South Korea
-[Sat Sep 27]
-  Oman - Pakistan  3-1   @ Daegu, South Korea
-  Thailand - Iraq  1-2   @ Daegu, South Korea
-  Indonesia - Malaysia  1-0   @ Gwangju, South Korea
-[Sun Sep 28]
-  South Korea - China PR  4-2   @ Busan, South Korea
-  Japan - Bangladesh  4-0   @ Daejeon, South Korea
-  Iran - Nepal  6-0   @ Daejeon, South Korea
-[Mon Sep 29]
-  United Arab Emirates - Oman  0-0   @ Daegu, South Korea
-  Thailand - Pakistan  6-0   @ Daegu, South Korea
-  Qatar - Saudi Arabia  0-1   @ Gwangju, South Korea
-[Wed Oct 1]
-  Saudi Arabia - Iraq  1-1   @ Seoul, South Korea   [Saudi Arabia wins on penalties]
-  South Korea - Iran  1-1   @ Busan, South Korea   [South Korea wins on penalties]
-  United Arab Emirates - Indonesia  2-2   @ Seoul, South Korea   [Indonesia wins on penalties]
-  Kuwait - China PR  1-1   @ Busan, South Korea   [Kuwait wins on penalties]
-[Fri Oct 3]
-  South Korea - Indonesia  4-0   @ Seoul, South Korea
-  Saudi Arabia - Kuwait  2-2   @ Seoul, South Korea   [Saudi Arabia wins on penalties]
-[Sat Oct 4]
-  Indonesia - Kuwait  0-5   @ Seoul, South Korea
-[Sun Oct 5]
-  South Korea - Saudi Arabia  2-0   @ Seoul, South Korea
+Sat Sep 20
+  South Korea          v India                 3-0   @ Busan, South Korea
+  China PR             v Bahrain               5-1   @ Busan, South Korea
+  Kuwait               v Bangladesh            4-0   @ Daejeon, South Korea
+  Japan                v Nepal                 5-0   @ Daejeon, South Korea
+Sun Sep 21
+  Iraq                 v Oman                  4-0   @ Daegu, South Korea
+  United Arab Emirates v Pakistan              1-0   @ Daegu, South Korea
+  Malaysia             v Saudi Arabia          1-3   @ Gwangju, South Korea
+  Qatar                v Indonesia             1-1   @ Gwangju, South Korea
+Mon Sep 22
+  China PR             v India                 2-1   @ Busan, South Korea
+  Japan                v Iran                  0-2   @ Daejeon, South Korea
+  Nepal                v Kuwait                0-5   @ Daejeon, South Korea
+Tue Sep 23
+  United Arab Emirates v Thailand              2-1   @ Daegu, South Korea
+  Pakistan             v Iraq                  1-5   @ Daegu, South Korea
+  Qatar                v Malaysia              1-1   @ Gwangju, South Korea
+Wed Sep 24
+  South Korea          v Bahrain               0-0   @ Busan, South Korea
+  Iran                 v Bangladesh            4-0   @ Daejeon, South Korea
+  Japan                v Kuwait                0-2   @ Daejeon, South Korea
+Thu Sep 25
+  Thailand             v Oman                  0-0   @ Daegu, South Korea
+  United Arab Emirates v Iraq                  2-1   @ Daegu, South Korea
+  Indonesia            v Saudi Arabia          0-2   @ Gwangju, South Korea
+Fri Sep 26
+  Bahrain              v India                 3-0   @ Busan, South Korea
+  Nepal                v Bangladesh            0-1   @ Daejeon, South Korea
+  Iran                 v Kuwait                0-1   @ Daejeon, South Korea
+Sat Sep 27
+  Oman                 v Pakistan              3-1   @ Daegu, South Korea
+  Thailand             v Iraq                  1-2   @ Daegu, South Korea
+  Indonesia            v Malaysia              1-0   @ Gwangju, South Korea
+Sun Sep 28
+  South Korea          v China PR              4-2   @ Busan, South Korea
+  Japan                v Bangladesh            4-0   @ Daejeon, South Korea
+  Iran                 v Nepal                 6-0   @ Daejeon, South Korea
+Mon Sep 29
+  United Arab Emirates v Oman                  0-0   @ Daegu, South Korea
+  Thailand             v Pakistan              6-0   @ Daegu, South Korea
+  Qatar                v Saudi Arabia          0-1   @ Gwangju, South Korea
+Wed Oct 1
+  Saudi Arabia         v Iraq                  1-1   @ Seoul, South Korea   [Saudi Arabia wins on penalties]
+  South Korea          v Iran                  1-1   @ Busan, South Korea   [South Korea wins on penalties]
+  United Arab Emirates v Indonesia             2-2   @ Seoul, South Korea   [Indonesia wins on penalties]
+  Kuwait               v China PR              1-1   @ Busan, South Korea   [Kuwait wins on penalties]
+Fri Oct 3
+  South Korea          v Indonesia             4-0   @ Seoul, South Korea
+  Saudi Arabia         v Kuwait                2-2   @ Seoul, South Korea   [Saudi Arabia wins on penalties]
+Sat Oct 4
+  Indonesia            v Kuwait                0-5   @ Seoul, South Korea
+Sun Oct 5
+  South Korea          v Saudi Arabia          2-0   @ Seoul, South Korea
 

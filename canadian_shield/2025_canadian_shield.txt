@@ -1,13 +1,13 @@
 = Canadian Shield 2025
 
-# Date       Sat Jun/7 - Tue Jun/10 2025 (3d)
+# Date       Sat Jun 7 - Tue Jun 10 2025 (3d)
 # Teams      4
 # Matches    4
 
-[Sat Jun 7]
-  Canada - Ukraine  4-2   @ Toronto, Canada
-  Ivory Coast - New Zealand  0-1   @ Toronto, Canada
-[Tue Jun 10]
-  New Zealand - Ukraine  1-2   @ Toronto, Canada
-  Canada - Ivory Coast  0-0   @ Toronto, Canada
+Sat Jun 7
+  Canada               v Ukraine               4-2   @ Toronto, Canada
+  Ivory Coast          v New Zealand           0-1   @ Toronto, Canada
+Tue Jun 10
+  New Zealand          v Ukraine               1-2   @ Toronto, Canada
+  Canada               v Ivory Coast           0-0   @ Toronto, Canada
 

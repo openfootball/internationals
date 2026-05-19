@@ -1,36 +1,36 @@
 = UEFA Euro qualification 1972
 
-# Date       Wed Feb/16 - Wed May/17 1972 (91d)
+# Date       Wed Feb 16 - Wed May 17 1972 (91d)
 # Teams      10
 # Matches    10
 
-[Wed Feb 16]
-  Northern Ireland - Spain  1-1   @ Kingston upon Hull, England
-     Sammy Morgan 71';
-     José Francisco Rojo 41'
-[Sat Apr 29]
-  England - Germany  1-3   @ London, England
-     Francis Lee 78';
-     Uli Hoeneß 27' Günter Netzer 84' (pen.) Gerd Müller 88'
-  Hungary - Romania  1-1   @ Budapest, Hungary
-     László Branikovits 11';
-     Lajos Sătmăreanu 56'
-  Italy - Belgium  0-0   @ Milan, Italy
-[Sun Apr 30]
-  Yugoslavia - Russia  0-0   @ Belgrade, Yugoslavia
-[Sat May 13]
-  Belgium - Italy  2-1   @ Brussels, Belgium
-     Wilfried Van Moer 23' Paul Van Himst 71';
-     Gigi Riva 86' (pen.)
-  Germany - England  0-0   @ Berlin, Germany
-  Russia - Yugoslavia  3-0   @ Moscow, Soviet Union
-     Viktor Kolotov 53' Anatoliy Banishevskiy 74' Eduard Kozynkevych 90'
-[Sun May 14]
-  Romania - Hungary  2-2   @ Bucharest, Romania
-     Nicolae Dobrin 14' Alexandru Neagu 81';
-     István Szőke 5' Lajos Kocsis 36'
-[Wed May 17]
-  Hungary - Romania  2-1   @ Belgrade, Yugoslavia
-     Lajos Kocsis 27' István Szőke 89';
-     Alexandru Neagu 34'
+Wed Feb 16
+  Northern Ireland     v Spain                 1-1   @ Kingston upon Hull, England
+     (Sammy Morgan 71';
+      José Francisco Rojo 41')
+Sat Apr 29
+  England              v Germany               1-3   @ London, England
+     (Francis Lee 78';
+      Uli Hoeneß 27' Günter Netzer 84'(p) Gerd Müller 88')
+  Hungary              v Romania               1-1   @ Budapest, Hungary
+     (László Branikovits 11';
+      Lajos Sătmăreanu 56')
+  Italy                v Belgium               0-0   @ Milan, Italy
+Sun Apr 30
+  Yugoslavia           v Russia                0-0   @ Belgrade, Yugoslavia
+Sat May 13
+  Belgium              v Italy                 2-1   @ Brussels, Belgium
+     (Wilfried Van Moer 23' Paul Van Himst 71';
+      Gigi Riva 86'(p))
+  Germany              v England               0-0   @ Berlin, Germany
+  Russia               v Yugoslavia            3-0   @ Moscow, Soviet Union
+     (Viktor Kolotov 53' Anatoliy Banishevskiy 74' Eduard Kozynkevych 90')
+Sun May 14
+  Romania              v Hungary               2-2   @ Bucharest, Romania
+     (Nicolae Dobrin 14' Alexandru Neagu 81';
+      István Szőke 5' Lajos Kocsis 36')
+Wed May 17
+  Hungary              v Romania               2-1   @ Belgrade, Yugoslavia
+     (Lajos Kocsis 27' István Szőke 89';
+      Alexandru Neagu 34')
 

@@ -1,19 +1,19 @@
 = USA Cup 1992
 
-# Date       Sat May/30 - Sun Jun/7 1992 (8d)
+# Date       Sat May 30 - Sun Jun 7 1992 (8d)
 # Teams      4
 # Matches    6
 
-[Sat May 30]
-  United States - Republic of Ireland  3-1   @ Washington, D.C., United States
-[Sun May 31]
-  Italy - Portugal  0-0   @ New Haven, United States
-[Wed Jun 3]
-  United States - Portugal  1-0   @ Chicago, United States
-[Thu Jun 4]
-  Republic of Ireland - Italy  0-2   @ Foxborough, United States
-[Sat Jun 6]
-  United States - Italy  1-1   @ Chicago, United States
-[Sun Jun 7]
-  Republic of Ireland - Portugal  2-0   @ Foxborough, United States
+Sat May 30
+  United States        v Republic of Ireland   3-1   @ Washington, D.C., United States
+Sun May 31
+  Italy                v Portugal              0-0   @ New Haven, United States
+Wed Jun 3
+  United States        v Portugal              1-0   @ Chicago, United States
+Thu Jun 4
+  Republic of Ireland  v Italy                 0-2   @ Foxborough, United States
+Sat Jun 6
+  United States        v Italy                 1-1   @ Chicago, United States
+Sun Jun 7
+  Republic of Ireland  v Portugal              2-0   @ Foxborough, United States
 

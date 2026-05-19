@@ -1,24 +1,24 @@
 = Viva World Cup 2009
 
-# Date       Mon Jun/22 - Sat Jun/27 2009 (5d)
+# Date       Mon Jun 22 - Sat Jun 27 2009 (5d)
 # Teams      6
 # Matches    11
 
-[Mon Jun 22]
-  Padania - Occitania  1-0   @ Novara, Italy
-  Provence - Gozo  3-1   @ Novara, Italy
-[Tue Jun 23]
-  Occitania - Iraqi Kurdistan  0-4   @ Varese, Italy
-  Sápmi - Provence  1-2   @ Varese, Italy
-[Wed Jun 24]
-  Padania - Iraqi Kurdistan  2-1   @ Brescia, Italy
-  Sápmi - Gozo  7-2   @ Brescia, Italy
-[Thu Jun 25]
-  Provence - Iraqi Kurdistan  0-6   @ Varese, Italy
-  Padania - Sápmi  4-0   @ Varese, Italy
-[Fri Jun 26]
-  Occitania - Gozo  2-1   @ Brescia, Italy
-  Provence - Sápmi  4-4   @ Brescia, Italy   [Sápmi wins on penalties]
-[Sat Jun 27]
-  Padania - Iraqi Kurdistan  2-0   @ Verona, Italy
+Mon Jun 22
+  Padania              v Occitania             1-0   @ Novara, Italy
+  Provence             v Gozo                  3-1   @ Novara, Italy
+Tue Jun 23
+  Occitania            v Iraqi Kurdistan       0-4   @ Varese, Italy
+  Sápmi                v Provence              1-2   @ Varese, Italy
+Wed Jun 24
+  Padania              v Iraqi Kurdistan       2-1   @ Brescia, Italy
+  Sápmi                v Gozo                  7-2   @ Brescia, Italy
+Thu Jun 25
+  Provence             v Iraqi Kurdistan       0-6   @ Varese, Italy
+  Padania              v Sápmi                 4-0   @ Varese, Italy
+Fri Jun 26
+  Occitania            v Gozo                  2-1   @ Brescia, Italy
+  Provence             v Sápmi                 4-4   @ Brescia, Italy   [Sápmi wins on penalties]
+Sat Jun 27
+  Padania              v Iraqi Kurdistan       2-0   @ Verona, Italy
 

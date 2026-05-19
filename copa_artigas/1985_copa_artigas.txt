@@ -1,11 +1,11 @@
 = Copa Artigas 1985
 
-# Date       Sun Feb/3 - Sun Feb/10 1985 (7d)
+# Date       Sun Feb 3 - Sun Feb 10 1985 (7d)
 # Teams      2
 # Matches    2
 
-[Sun Feb 3]
-  Uruguay - Paraguay  1-0   @ Montevideo, Uruguay
-[Sun Feb 10]
-  Paraguay - Uruguay  1-3   @ Asunción, Paraguay
+Sun Feb 3
+  Uruguay              v Paraguay              1-0   @ Montevideo, Uruguay
+Sun Feb 10
+  Paraguay             v Uruguay               1-3   @ Asunción, Paraguay
 

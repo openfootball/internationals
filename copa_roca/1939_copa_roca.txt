@@ -1,11 +1,11 @@
 = Copa Roca 1939
 
-# Date       Sun Jan/15 - Sun Jan/22 1939 (7d)
+# Date       Sun Jan 15 - Sun Jan 22 1939 (7d)
 # Teams      2
 # Matches    2
 
-[Sun Jan 15]
-  Brazil - Argentina  1-5   @ Rio de Janeiro, Brazil
-[Sun Jan 22]
-  Brazil - Argentina  3-2   @ Rio de Janeiro, Brazil
+Sun Jan 15
+  Brazil               v Argentina             1-5   @ Rio de Janeiro, Brazil
+Sun Jan 22
+  Brazil               v Argentina             3-2   @ Rio de Janeiro, Brazil
 

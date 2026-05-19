@@ -1,17 +1,17 @@
 = British Home Championship 1979
 
-# Date       Sat May/19 - Sat May/26 1979 (7d)
+# Date       Sat May 19 - Sat May 26 1979 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 19]
-  Northern Ireland - England  0-2   @ Belfast, Northern Ireland
-  Wales - Scotland  3-0   @ Cardiff, Wales
-[Tue May 22]
-  Scotland - Northern Ireland  1-0   @ Glasgow, Scotland
-[Wed May 23]
-  England - Wales  0-0   @ London, England
-[Sat May 26]
-  England - Scotland  3-1   @ London, England
-  Northern Ireland - Wales  1-1   @ Belfast, Northern Ireland
+Sat May 19
+  Northern Ireland     v England               0-2   @ Belfast, Northern Ireland
+  Wales                v Scotland              3-0   @ Cardiff, Wales
+Tue May 22
+  Scotland             v Northern Ireland      1-0   @ Glasgow, Scotland
+Wed May 23
+  England              v Wales                 0-0   @ London, England
+Sat May 26
+  England              v Scotland              3-1   @ London, England
+  Northern Ireland     v Wales                 1-1   @ Belfast, Northern Ireland
 

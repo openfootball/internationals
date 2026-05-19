@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1927
 
-# Date       Sat Aug/27 - Wed Aug/31 1927 (4d)
+# Date       Sat Aug 27 - Wed Aug 31 1927 (4d)
 # Teams      3
 # Matches    3
 
-[Sat Aug 27]
-  China PR - Japan  5-1   @ Shanghai, China PR
-[Mon Aug 29]
-  Japan - Philippines  2-1   @ Shanghai, China PR
-[Wed Aug 31]
-  China PR - Philippines  3-1   @ Shanghai, China PR
+Sat Aug 27
+  China PR             v Japan                 5-1   @ Shanghai, China PR
+Mon Aug 29
+  Japan                v Philippines           2-1   @ Shanghai, China PR
+Wed Aug 31
+  China PR             v Philippines           3-1   @ Shanghai, China PR
 

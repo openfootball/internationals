@@ -1,37 +1,37 @@
 = AFF Championship 2010
 
-# Date       Wed Dec/1 - Wed Dec/29 2010 (28d)
+# Date       Wed Dec 1 - Wed Dec 29 2010 (28d)
 # Teams      8
 # Matches    18
 
-[Wed Dec 1]
-  Indonesia - Malaysia  5-1   @ Jakarta, Indonesia
-  Thailand - Laos  2-2   @ Jakarta, Indonesia
-[Thu Dec 2]
-  Singapore - Philippines  1-1   @ Hanoi, Vietnam
-  Vietnam - Myanmar  7-1   @ Hanoi, Vietnam
-[Sat Dec 4]
-  Indonesia - Laos  6-0   @ Jakarta, Indonesia
-  Thailand - Malaysia  0-0   @ Jakarta, Indonesia
-[Sun Dec 5]
-  Singapore - Myanmar  2-1   @ Hanoi, Vietnam
-  Vietnam - Philippines  0-2   @ Hanoi, Vietnam
-[Tue Dec 7]
-  Indonesia - Thailand  2-1   @ Jakarta, Indonesia
-  Malaysia - Laos  5-1   @ Palembang, Indonesia
-[Wed Dec 8]
-  Myanmar - Philippines  0-0   @ Nam Định, Vietnam
-  Vietnam - Singapore  1-0   @ Hanoi, Vietnam
-[Wed Dec 15]
-  Malaysia - Vietnam  2-0   @ Kuala Lumpur, Malaysia
-[Thu Dec 16]
-  Indonesia - Philippines  1-0   @ Jakarta, Indonesia
-[Sat Dec 18]
-  Vietnam - Malaysia  0-0   @ Hanoi, Vietnam
-[Sun Dec 19]
-  Indonesia - Philippines  1-0   @ Jakarta, Indonesia
-[Sun Dec 26]
-  Malaysia - Indonesia  3-0   @ Kuala Lumpur, Malaysia
-[Wed Dec 29]
-  Indonesia - Malaysia  2-1   @ Jakarta, Indonesia
+Wed Dec 1
+  Indonesia            v Malaysia              5-1   @ Jakarta, Indonesia
+  Thailand             v Laos                  2-2   @ Jakarta, Indonesia
+Thu Dec 2
+  Singapore            v Philippines           1-1   @ Hanoi, Vietnam
+  Vietnam              v Myanmar               7-1   @ Hanoi, Vietnam
+Sat Dec 4
+  Indonesia            v Laos                  6-0   @ Jakarta, Indonesia
+  Thailand             v Malaysia              0-0   @ Jakarta, Indonesia
+Sun Dec 5
+  Singapore            v Myanmar               2-1   @ Hanoi, Vietnam
+  Vietnam              v Philippines           0-2   @ Hanoi, Vietnam
+Tue Dec 7
+  Indonesia            v Thailand              2-1   @ Jakarta, Indonesia
+  Malaysia             v Laos                  5-1   @ Palembang, Indonesia
+Wed Dec 8
+  Myanmar              v Philippines           0-0   @ Nam Định, Vietnam
+  Vietnam              v Singapore             1-0   @ Hanoi, Vietnam
+Wed Dec 15
+  Malaysia             v Vietnam               2-0   @ Kuala Lumpur, Malaysia
+Thu Dec 16
+  Indonesia            v Philippines           1-0   @ Jakarta, Indonesia
+Sat Dec 18
+  Vietnam              v Malaysia              0-0   @ Hanoi, Vietnam
+Sun Dec 19
+  Indonesia            v Philippines           1-0   @ Jakarta, Indonesia
+Sun Dec 26
+  Malaysia             v Indonesia             3-0   @ Kuala Lumpur, Malaysia
+Wed Dec 29
+  Indonesia            v Malaysia              2-1   @ Jakarta, Indonesia
 

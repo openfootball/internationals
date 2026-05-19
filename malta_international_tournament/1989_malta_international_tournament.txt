@@ -1,16 +1,16 @@
 = Malta International Tournament 1989
 
-# Date       Wed Feb/8 - Sun Feb/12 1989 (4d)
+# Date       Wed Feb 8 - Sun Feb 12 1989 (4d)
 # Teams      4
 # Matches    6
 
-[Wed Feb 8]
-  Algeria - Finland  2-0   @ Attard, Malta
-  Malta - Denmark  0-2   @ Attard, Malta
-[Fri Feb 10]
-  Denmark - Finland  0-0   @ Attard, Malta
-  Malta - Algeria  0-1   @ Attard, Malta
-[Sun Feb 12]
-  Algeria - Denmark  0-0   @ Attard, Malta
-  Malta - Finland  0-0   @ Attard, Malta
+Wed Feb 8
+  Algeria              v Finland               2-0   @ Attard, Malta
+  Malta                v Denmark               0-2   @ Attard, Malta
+Fri Feb 10
+  Denmark              v Finland               0-0   @ Attard, Malta
+  Malta                v Algeria               0-1   @ Attard, Malta
+Sun Feb 12
+  Algeria              v Denmark               0-0   @ Attard, Malta
+  Malta                v Finland               0-0   @ Attard, Malta
 

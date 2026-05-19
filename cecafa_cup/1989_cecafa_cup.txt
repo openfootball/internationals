@@ -1,30 +1,30 @@
 = CECAFA Cup 1989
 
-# Date       Sat Dec/2 - Sat Dec/16 1989 (14d)
+# Date       Sat Dec 2 - Sat Dec 16 1989 (14d)
 # Teams      7
 # Matches    13
 
-[Sat Dec 2]
-  Kenya - Uganda  2-1   @ Nairobi, Kenya
-  Malawi - Zanzibar  0-0   @ Nairobi, Kenya
-[Sun Dec 3]
-  Tanzania - Zimbabwe  0-3   @ Nairobi, Kenya
-[Tue Dec 5]
-  Kenya - Tanzania  2-1   @ Nairobi, Kenya
-[Wed Dec 6]
-  Uganda - Zimbabwe  1-1   @ Nairobi, Kenya
-  Zambia - Zanzibar  1-0   @ Nairobi, Kenya
-[Fri Dec 8]
-  Tanzania - Uganda  1-5   @ Nairobi, Kenya
-[Sat Dec 9]
-  Kenya - Zimbabwe  2-1   @ Nairobi, Kenya
-  Malawi - Zambia  0-0   @ Nairobi, Kenya
-[Wed Dec 13]
-  Uganda - Zambia  3-1   @ Nairobi, Kenya
-[Thu Dec 14]
-  Kenya - Malawi  0-1   @ Nairobi, Kenya
-[Fri Dec 15]
-  Kenya - Zambia  1-0   @ Nairobi, Kenya
-[Sat Dec 16]
-  Malawi - Uganda  3-3   @ Nairobi, Kenya   [Uganda wins on penalties]
+Sat Dec 2
+  Kenya                v Uganda                2-1   @ Nairobi, Kenya
+  Malawi               v Zanzibar              0-0   @ Nairobi, Kenya
+Sun Dec 3
+  Tanzania             v Zimbabwe              0-3   @ Nairobi, Kenya
+Tue Dec 5
+  Kenya                v Tanzania              2-1   @ Nairobi, Kenya
+Wed Dec 6
+  Uganda               v Zimbabwe              1-1   @ Nairobi, Kenya
+  Zambia               v Zanzibar              1-0   @ Nairobi, Kenya
+Fri Dec 8
+  Tanzania             v Uganda                1-5   @ Nairobi, Kenya
+Sat Dec 9
+  Kenya                v Zimbabwe              2-1   @ Nairobi, Kenya
+  Malawi               v Zambia                0-0   @ Nairobi, Kenya
+Wed Dec 13
+  Uganda               v Zambia                3-1   @ Nairobi, Kenya
+Thu Dec 14
+  Kenya                v Malawi                0-1   @ Nairobi, Kenya
+Fri Dec 15
+  Kenya                v Zambia                1-0   @ Nairobi, Kenya
+Sat Dec 16
+  Malawi               v Uganda                3-3   @ Nairobi, Kenya   [Uganda wins on penalties]
 

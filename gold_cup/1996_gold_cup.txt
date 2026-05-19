@@ -1,46 +1,46 @@
 = Gold Cup 1996
 
-# Date       Wed Jan/10 - Sun Jan/21 1996 (11d)
+# Date       Wed Jan 10 - Sun Jan 21 1996 (11d)
 # Teams      9
 # Matches    13
 
-[Wed Jan 10]
-  Canada - Honduras  3-1   @ Anaheim, United States
-     Carlo Corazzin 9' Kevin Holness 27' Kevin Holness 63';
-     Presley Carson 40'
-  Trinidad and Tobago - El Salvador  2-3   @ Anaheim, United States
-     Russell Latapy 59' Russell Latapy 64';
-     Raúl Díaz Arce 34' Ronald Cerritos 50' Raúl Díaz Arce 72' (pen.)
-[Thu Jan 11]
-  Mexico - Saint Vincent and the Grenadines  5-0   @ San Diego, United States
-     Luis García Postigo 29' Luis García Postigo 37' Ricardo Peláez 70' Agustín Garcia 80' Ricardo Peláez 90'
-[Fri Jan 12]
-  Brazil - Canada  4-1   @ Los Angeles, United States
-     André Luiz Moreira 3' Caio Ribeiro Decoussau 7' Sávio Bortolini Pimentel 14' Leandro Machado 86';
-     Tomasz Radzinski 66'
-[Sat Jan 13]
-  United States - Trinidad and Tobago  3-2   @ Anaheim, United States
-     Eric Wynalda 15' Eric Wynalda 34' Joe-Max Moore 53';
-     Arnold Dwarika 6' Arnold Dwarika 43'
-[Sun Jan 14]
-  Guatemala - Mexico  0-1   @ San Diego, United States
-     -; Eustacio Rizo 89'
-  Honduras - Brazil  0-5   @ Los Angeles, United States
-     -; Caio Ribeiro Decoussau 9' Paulo Roberto Jamelli Júnior 31' Paulo Roberto Jamelli Júnior 61' Sávio Bortolini Pimentel 80' Caio Ribeiro Decoussau 81'
-[Tue Jan 16]
-  Guatemala - Saint Vincent and the Grenadines  3-0   @ Anaheim, United States
-     Juan Manuel Funes 28' Edwin Westphal 42' Martin Machón 45'
-  United States - El Salvador  2-0   @ Anaheim, United States
-     Eric Wynalda 63' Marcelo Balboa 75'
-[Thu Jan 18]
-  United States - Brazil  0-1   @ Los Angeles, United States
-     -; Marcelo Balboa 79' (o.g.)
-[Fri Jan 19]
-  Mexico - Guatemala  1-0   @ San Diego, United States
-     Cuauhtémoc Blanco 64'
-[Sun Jan 21]
-  Mexico - Brazil  2-0   @ Los Angeles, United States
-     Luis García Postigo 54' Cuauhtémoc Blanco 75'
-  United States - Guatemala  3-0   @ Los Angeles, United States
-     Eric Wynalda 34' Jeff Agoos 37' Jovan Kirovski 87'
+Wed Jan 10
+  Canada               v Honduras              3-1   @ Anaheim, United States
+     (Carlo Corazzin 9' Kevin Holness 27' Kevin Holness 63';
+      Presley Carson 40')
+  Trinidad and Tobago  v El Salvador           2-3   @ Anaheim, United States
+     (Russell Latapy 59' Russell Latapy 64';
+      Raúl Díaz Arce 34' Ronald Cerritos 50' Raúl Díaz Arce 72'(p))
+Thu Jan 11
+  Mexico               v Saint Vincent and the Grenadines  5-0   @ San Diego, United States
+     (Luis García Postigo 29' Luis García Postigo 37' Ricardo Peláez 70' Agustín Garcia 80' Ricardo Peláez 90')
+Fri Jan 12
+  Brazil               v Canada                4-1   @ Los Angeles, United States
+     (André Luiz Moreira 3' Caio Ribeiro Decoussau 7' Sávio Bortolini Pimentel 14' Leandro Machado 86';
+      Tomasz Radzinski 66')
+Sat Jan 13
+  United States        v Trinidad and Tobago   3-2   @ Anaheim, United States
+     (Eric Wynalda 15' Eric Wynalda 34' Joe-Max Moore 53';
+      Arnold Dwarika 6' Arnold Dwarika 43')
+Sun Jan 14
+  Guatemala            v Mexico                0-1   @ San Diego, United States
+     (Eustacio Rizo 89')
+  Honduras             v Brazil                0-5   @ Los Angeles, United States
+     (Caio Ribeiro Decoussau 9' Paulo Roberto Jamelli Júnior 31' Paulo Roberto Jamelli Júnior 61' Sávio Bortolini Pimentel 80' Caio Ribeiro Decoussau 81')
+Tue Jan 16
+  Guatemala            v Saint Vincent and the Grenadines  3-0   @ Anaheim, United States
+     (Juan Manuel Funes 28' Edwin Westphal 42' Martin Machón 45')
+  United States        v El Salvador           2-0   @ Anaheim, United States
+     (Eric Wynalda 63' Marcelo Balboa 75')
+Thu Jan 18
+  United States        v Brazil                0-1   @ Los Angeles, United States
+     (Marcelo Balboa 79'(og))
+Fri Jan 19
+  Mexico               v Guatemala             1-0   @ San Diego, United States
+     (Cuauhtémoc Blanco 64')
+Sun Jan 21
+  Mexico               v Brazil                2-0   @ Los Angeles, United States
+     (Luis García Postigo 54' Cuauhtémoc Blanco 75')
+  United States        v Guatemala             3-0   @ Los Angeles, United States
+     (Eric Wynalda 34' Jeff Agoos 37' Jovan Kirovski 87')
 

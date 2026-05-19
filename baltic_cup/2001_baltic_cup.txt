@@ -1,19 +1,19 @@
 = Baltic Cup 2001
 
-# Date       Tue Jul/3 - Thu Jul/5 2001 (2d)
+# Date       Tue Jul 3 - Thu Jul 5 2001 (2d)
 # Teams      3
 # Matches    3
 
-[Tue Jul 3]
-  Latvia - Estonia  3-1   @ Riga, Latvia
-     Māris Verpakovskis 41' Marians Pahars 50' Vladimirs Koļesņičenko 90';
-     Indrek Zelinski 47'
-[Wed Jul 4]
-  Estonia - Lithuania  2-5   @ Riga, Latvia
-     Aivar Anniste 7' Mark Švets 35';
-     Orestas Buitkus 37' Deividas Česnauskis 46' Nerijus Vasiliauskas 73' Valdas Trakys 90' Raimondas Vilėniškis 90'
-[Thu Jul 5]
-  Latvia - Lithuania  4-1   @ Riga, Latvia
-     Andrejs Rubins 45' Marians Pahars 52' Oļegs Blagonadeždins 84' Vladimirs Koļesņičenko 89';
-     Nerijus Barasa 12'
+Tue Jul 3
+  Latvia               v Estonia               3-1   @ Riga, Latvia
+     (Māris Verpakovskis 41' Marians Pahars 50' Vladimirs Koļesņičenko 90';
+      Indrek Zelinski 47')
+Wed Jul 4
+  Estonia              v Lithuania             2-5   @ Riga, Latvia
+     (Aivar Anniste 7' Mark Švets 35';
+      Orestas Buitkus 37' Deividas Česnauskis 46' Nerijus Vasiliauskas 73' Valdas Trakys 90' Raimondas Vilėniškis 90')
+Thu Jul 5
+  Latvia               v Lithuania             4-1   @ Riga, Latvia
+     (Andrejs Rubins 45' Marians Pahars 52' Oļegs Blagonadeždins 84' Vladimirs Koļesņičenko 89';
+      Nerijus Barasa 12')
 

@@ -1,18 +1,18 @@
 = USA Cup 1996
 
-# Date       Sat Jun/8 - Sun Jun/16 1996 (8d)
+# Date       Sat Jun 8 - Sun Jun 16 1996 (8d)
 # Teams      4
 # Matches    6
 
-[Sat Jun 8]
-  Mexico - Bolivia  1-0   @ Dallas, United States
-[Sun Jun 9]
-  United States - Republic of Ireland  2-1   @ Foxborough, United States
-[Wed Jun 12]
-  Mexico - Republic of Ireland  2-2   @ East Rutherford, United States
-  United States - Bolivia  0-2   @ Washington, D.C., United States
-[Sat Jun 15]
-  Bolivia - Republic of Ireland  0-3   @ East Rutherford, United States
-[Sun Jun 16]
-  United States - Mexico  2-2   @ Pasadena, United States
+Sat Jun 8
+  Mexico               v Bolivia               1-0   @ Dallas, United States
+Sun Jun 9
+  United States        v Republic of Ireland   2-1   @ Foxborough, United States
+Wed Jun 12
+  Mexico               v Republic of Ireland   2-2   @ East Rutherford, United States
+  United States        v Bolivia               0-2   @ Washington, D.C., United States
+Sat Jun 15
+  Bolivia              v Republic of Ireland   0-3   @ East Rutherford, United States
+Sun Jun 16
+  United States        v Mexico                2-2   @ Pasadena, United States
 

@@ -1,34 +1,34 @@
 = AFC Asian Cup qualification 1967
 
-# Date       Wed Mar/22 - Sun Nov/19 1967 (242d)
+# Date       Wed Mar 22 - Sun Nov 19 1967 (242d)
 # Teams      13
 # Matches    14
 
-[Wed Mar 22]
-  Hong Kong - Vietnam Republic  2-0   @ So Kon Po, Hong Kong
-[Fri Mar 24]
-  Thailand - Vietnam Republic  0-1   @ So Kon Po, Hong Kong
-[Wed Mar 29]
-  Vietnam Republic - Malaysia  0-2   @ So Kon Po, Hong Kong
-[Sun Apr 2]
-  Vietnam Republic - Singapore  3-0   @ So Kon Po, Hong Kong
-[Sat Jul 29]
-  South Korea - Indonesia  1-1   @ Taipei, Taiwan
-[Tue Aug 1]
-  Japan - South Korea  2-1   @ Taipei, Taiwan
-[Thu Aug 3]
-  Japan - Philippines  2-0   @ Taipei, Taiwan
-[Sat Aug 5]
-  Japan - Indonesia  2-1   @ Taipei, Taiwan
-  South Korea - Philippines  7-0   @ Taipei, Taiwan
-[Mon Aug 7]
-  Indonesia - Philippines  6-0   @ Taipei, Taiwan
-[Sun Nov 12]
-  Myanmar - India  2-0   @ Yangon, Burma
-[Wed Nov 15]
-  India - Pakistan  1-1   @ Yangon, Burma
-[Thu Nov 16]
-  Myanmar - Cambodia  1-0   @ Yangon, Burma
-[Sun Nov 19]
-  Myanmar - Pakistan  2-0   @ Yangon, Burma
+Wed Mar 22
+  Hong Kong            v Vietnam Republic      2-0   @ So Kon Po, Hong Kong
+Fri Mar 24
+  Thailand             v Vietnam Republic      0-1   @ So Kon Po, Hong Kong
+Wed Mar 29
+  Vietnam Republic     v Malaysia              0-2   @ So Kon Po, Hong Kong
+Sun Apr 2
+  Vietnam Republic     v Singapore             3-0   @ So Kon Po, Hong Kong
+Sat Jul 29
+  South Korea          v Indonesia             1-1   @ Taipei, Taiwan
+Tue Aug 1
+  Japan                v South Korea           2-1   @ Taipei, Taiwan
+Thu Aug 3
+  Japan                v Philippines           2-0   @ Taipei, Taiwan
+Sat Aug 5
+  Japan                v Indonesia             2-1   @ Taipei, Taiwan
+  South Korea          v Philippines           7-0   @ Taipei, Taiwan
+Mon Aug 7
+  Indonesia            v Philippines           6-0   @ Taipei, Taiwan
+Sun Nov 12
+  Myanmar              v India                 2-0   @ Yangon, Burma
+Wed Nov 15
+  India                v Pakistan              1-1   @ Yangon, Burma
+Thu Nov 16
+  Myanmar              v Cambodia              1-0   @ Yangon, Burma
+Sun Nov 19
+  Myanmar              v Pakistan              2-0   @ Yangon, Burma
 

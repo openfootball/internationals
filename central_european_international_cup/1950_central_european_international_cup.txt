@@ -1,11 +1,11 @@
 = Central European International Cup 1950
 
-# Date       Sun Mar/19 - Sun Apr/2 1950 (14d)
+# Date       Sun Mar 19 - Sun Apr 2 1950 (14d)
 # Teams      3
 # Matches    2
 
-[Sun Mar 19]
-  Austria - Switzerland  3-3   @ Vienna, Austria
-[Sun Apr 2]
-  Austria - Italy  1-0   @ Vienna, Austria
+Sun Mar 19
+  Austria              v Switzerland           3-3   @ Vienna, Austria
+Sun Apr 2
+  Austria              v Italy                 1-0   @ Vienna, Austria
 

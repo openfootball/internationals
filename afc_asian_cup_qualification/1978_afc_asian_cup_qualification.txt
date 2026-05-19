@@ -1,15 +1,15 @@
 = AFC Asian Cup qualification 1978
 
-# Date       Mon Dec/25 - Fri Dec/29 1978 (4d)
+# Date       Mon Dec 25 - Fri Dec 29 1978 (4d)
 # Teams      4
 # Matches    5
 
-[Mon Dec 25]
-  South Korea - Macau  4-1   @ Manila, Philippines
-  Philippines - China PR  0-3   @ Manila, Philippines
-[Wed Dec 27]
-  China PR - Macau  2-1   @ Manila, Philippines
-  Philippines - South Korea  0-5   @ Manila, Philippines
-[Fri Dec 29]
-  South Korea - China PR  1-0   @ Manila, Philippines
+Mon Dec 25
+  South Korea          v Macau                 4-1   @ Manila, Philippines
+  Philippines          v China PR              0-3   @ Manila, Philippines
+Wed Dec 27
+  China PR             v Macau                 2-1   @ Manila, Philippines
+  Philippines          v South Korea           0-5   @ Manila, Philippines
+Fri Dec 29
+  South Korea          v China PR              1-0   @ Manila, Philippines
 

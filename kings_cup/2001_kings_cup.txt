@@ -1,19 +1,19 @@
 = King's Cup 2001
 
-# Date       Sat Feb/10 - Sat Feb/17 2001 (7d)
+# Date       Sat Feb 10 - Sat Feb 17 2001 (7d)
 # Teams      4
 # Matches    8
 
-[Sat Feb 10]
-  China PR - Qatar  1-1   @ Bangkok, Thailand
-  Thailand - Sweden  1-4   @ Bangkok, Thailand
-[Mon Feb 12]
-  China PR - Sweden  2-2   @ Bangkok, Thailand
-  Thailand - Qatar  1-3   @ Bangkok, Thailand
-[Wed Feb 14]
-  Sweden - Qatar  0-0   @ Bangkok, Thailand
-  Thailand - China PR  1-5   @ Bangkok, Thailand
-[Sat Feb 17]
-  China PR - Sweden  0-3   @ Bangkok, Thailand
-  Thailand - Qatar  2-0   @ Bangkok, Thailand
+Sat Feb 10
+  China PR             v Qatar                 1-1   @ Bangkok, Thailand
+  Thailand             v Sweden                1-4   @ Bangkok, Thailand
+Mon Feb 12
+  China PR             v Sweden                2-2   @ Bangkok, Thailand
+  Thailand             v Qatar                 1-3   @ Bangkok, Thailand
+Wed Feb 14
+  Sweden               v Qatar                 0-0   @ Bangkok, Thailand
+  Thailand             v China PR              1-5   @ Bangkok, Thailand
+Sat Feb 17
+  China PR             v Sweden                0-3   @ Bangkok, Thailand
+  Thailand             v Qatar                 2-0   @ Bangkok, Thailand
 

@@ -1,11 +1,11 @@
 = Copa Bernardo O'Higgins 1957
 
-# Date       Sun Sep/15 - Wed Sep/18 1957 (3d)
+# Date       Sun Sep 15 - Wed Sep 18 1957 (3d)
 # Teams      2
 # Matches    2
 
-[Sun Sep 15]
-  Chile - Brazil  1-0   @ Santiago, Chile
-[Wed Sep 18]
-  Chile - Brazil  1-1   @ Santiago, Chile
+Sun Sep 15
+  Chile                v Brazil                1-0   @ Santiago, Chile
+Wed Sep 18
+  Chile                v Brazil                1-1   @ Santiago, Chile
 

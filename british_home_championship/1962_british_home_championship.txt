@@ -1,18 +1,18 @@
 = British Home Championship 1962
 
-# Date       Wed Apr/11 - Wed Nov/21 1962 (224d)
+# Date       Wed Apr 11 - Wed Nov 21 1962 (224d)
 # Teams      4
 # Matches    6
 
-[Wed Apr 11]
-  Wales - Northern Ireland  4-0   @ Cardiff, Wales
-[Sat Apr 14]
-  Scotland - England  2-0   @ Glasgow, Scotland
-[Sat Oct 20]
-  Northern Ireland - England  1-3   @ Belfast, Northern Ireland
-  Wales - Scotland  2-3   @ Cardiff, Wales
-[Wed Nov 7]
-  Scotland - Northern Ireland  5-1   @ Glasgow, Scotland
-[Wed Nov 21]
-  England - Wales  4-0   @ London, England
+Wed Apr 11
+  Wales                v Northern Ireland      4-0   @ Cardiff, Wales
+Sat Apr 14
+  Scotland             v England               2-0   @ Glasgow, Scotland
+Sat Oct 20
+  Northern Ireland     v England               1-3   @ Belfast, Northern Ireland
+  Wales                v Scotland              2-3   @ Cardiff, Wales
+Wed Nov 7
+  Scotland             v Northern Ireland      5-1   @ Glasgow, Scotland
+Wed Nov 21
+  England              v Wales                 4-0   @ London, England
 

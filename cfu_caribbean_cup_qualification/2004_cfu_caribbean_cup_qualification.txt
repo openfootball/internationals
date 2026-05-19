@@ -1,55 +1,55 @@
 = CFU Caribbean Cup qualification 2004
 
-# Date       Sun Oct/31 - Tue Dec/21 2004 (51d)
+# Date       Sun Oct 31 - Tue Dec 21 2004 (51d)
 # Teams      20
 # Matches    34
 
-[Sun Oct 31]
-  Saint Kitts and Nevis - Montserrat  6-1   @ Basseterre, Saint Kitts and Nevis
-[Tue Nov 2]
-  Montserrat - Antigua and Barbuda  4-5   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - Saint Lucia  1-1   @ Basseterre, Saint Kitts and Nevis
-[Thu Nov 4]
-  Saint Kitts and Nevis - Antigua and Barbuda  2-0   @ Basseterre, Saint Kitts and Nevis
-[Sat Nov 6]
-  Antigua and Barbuda - Saint Lucia  1-2   @ Basseterre, Saint Kitts and Nevis
-[Wed Nov 10]
-  Guadeloupe - French Guiana  0-1   @ Fort-de-France, Martinique
-  Martinique - Dominica  5-1   @ Fort-de-France, Martinique
-[Fri Nov 12]
-  Guadeloupe - Dominica  7-0   @ Rivière-Pilote, Martinique
-  Martinique - French Guiana  0-0   @ Rivière-Pilote, Martinique
-[Sun Nov 14]
-  Dominica - French Guiana  0-4   @ Fort-de-France, Martinique
-  Martinique - Guadeloupe  0-0   @ Fort-de-France, Martinique
-[Wed Nov 24]
-  Cayman Islands - Bermuda  1-2   @ Kingstown, Saint Vincent and the Grenadines
-  Grenada - Suriname  2-2   @ Macoya, Trinidad and Tobago
-  Haiti - United States Virgin Islands  11-0   @ Kingston, Jamaica
-  Jamaica - Saint Martin  12-0   @ Kingston, Jamaica
-  Trinidad and Tobago - Puerto Rico  5-0   @ Macoya, Trinidad and Tobago
-[Fri Nov 26]
-  British Virgin Islands - Cayman Islands  0-1   @ Kingstown, Saint Vincent and the Grenadines
-  Jamaica - United States Virgin Islands  11-1   @ Montego Bay, Jamaica
-  Puerto Rico - Suriname  1-1   @ San Fernando, Trinidad and Tobago
-  Saint Martin - Haiti  0-2   @ Montego Bay, Jamaica
-  Trinidad and Tobago - Grenada  2-0   @ San Fernando, Trinidad and Tobago
-[Sun Nov 28]
-  Bermuda - British Virgin Islands  0-2   @ Kingstown, Saint Vincent and the Grenadines
-  Grenada - Puerto Rico  5-2   @ Arima, Trinidad and Tobago
-  Jamaica - Haiti  3-1   @ Kingston, Jamaica
-  Trinidad and Tobago - Suriname  1-0   @ Arima, Trinidad and Tobago
-  United States Virgin Islands - Saint Martin  0-0   @ Kingston, Jamaica
-[Sun Dec 12]
-  British Virgin Islands - Trinidad and Tobago  0-4   @ Road Town, British Virgin Islands
-  Cuba - Martinique  2-0   @ Havana, Cuba
-  Haiti - Saint Kitts and Nevis  1-0   @ Fort Lauderdale, United States
-  Saint Lucia - Jamaica  1-1   @ Vieux Fort, Saint Lucia
-[Wed Dec 15]
-  Saint Kitts and Nevis - Haiti  0-2   @ Basseterre, Saint Kitts and Nevis
-[Sun Dec 19]
-  Jamaica - Saint Lucia  2-1   @ Kingston, Jamaica
-  Trinidad and Tobago - British Virgin Islands  2-0   @ Macoya, Trinidad and Tobago
-[Tue Dec 21]
-  Martinique - Cuba  0-2   @ Fort-de-France, Martinique
+Sun Oct 31
+  Saint Kitts and Nevis v Montserrat            6-1   @ Basseterre, Saint Kitts and Nevis
+Tue Nov 2
+  Montserrat           v Antigua and Barbuda   4-5   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v Saint Lucia           1-1   @ Basseterre, Saint Kitts and Nevis
+Thu Nov 4
+  Saint Kitts and Nevis v Antigua and Barbuda   2-0   @ Basseterre, Saint Kitts and Nevis
+Sat Nov 6
+  Antigua and Barbuda  v Saint Lucia           1-2   @ Basseterre, Saint Kitts and Nevis
+Wed Nov 10
+  Guadeloupe           v French Guiana         0-1   @ Fort-de-France, Martinique
+  Martinique           v Dominica              5-1   @ Fort-de-France, Martinique
+Fri Nov 12
+  Guadeloupe           v Dominica              7-0   @ Rivière-Pilote, Martinique
+  Martinique           v French Guiana         0-0   @ Rivière-Pilote, Martinique
+Sun Nov 14
+  Dominica             v French Guiana         0-4   @ Fort-de-France, Martinique
+  Martinique           v Guadeloupe            0-0   @ Fort-de-France, Martinique
+Wed Nov 24
+  Cayman Islands       v Bermuda               1-2   @ Kingstown, Saint Vincent and the Grenadines
+  Grenada              v Suriname              2-2   @ Macoya, Trinidad and Tobago
+  Haiti                v United States Virgin Islands  11-0   @ Kingston, Jamaica
+  Jamaica              v Saint Martin          12-0   @ Kingston, Jamaica
+  Trinidad and Tobago  v Puerto Rico           5-0   @ Macoya, Trinidad and Tobago
+Fri Nov 26
+  British Virgin Islands v Cayman Islands        0-1   @ Kingstown, Saint Vincent and the Grenadines
+  Jamaica              v United States Virgin Islands  11-1   @ Montego Bay, Jamaica
+  Puerto Rico          v Suriname              1-1   @ San Fernando, Trinidad and Tobago
+  Saint Martin         v Haiti                 0-2   @ Montego Bay, Jamaica
+  Trinidad and Tobago  v Grenada               2-0   @ San Fernando, Trinidad and Tobago
+Sun Nov 28
+  Bermuda              v British Virgin Islands  0-2   @ Kingstown, Saint Vincent and the Grenadines
+  Grenada              v Puerto Rico           5-2   @ Arima, Trinidad and Tobago
+  Jamaica              v Haiti                 3-1   @ Kingston, Jamaica
+  Trinidad and Tobago  v Suriname              1-0   @ Arima, Trinidad and Tobago
+  United States Virgin Islands v Saint Martin          0-0   @ Kingston, Jamaica
+Sun Dec 12
+  British Virgin Islands v Trinidad and Tobago   0-4   @ Road Town, British Virgin Islands
+  Cuba                 v Martinique            2-0   @ Havana, Cuba
+  Haiti                v Saint Kitts and Nevis  1-0   @ Fort Lauderdale, United States
+  Saint Lucia          v Jamaica               1-1   @ Vieux Fort, Saint Lucia
+Wed Dec 15
+  Saint Kitts and Nevis v Haiti                 0-2   @ Basseterre, Saint Kitts and Nevis
+Sun Dec 19
+  Jamaica              v Saint Lucia           2-1   @ Kingston, Jamaica
+  Trinidad and Tobago  v British Virgin Islands  2-0   @ Macoya, Trinidad and Tobago
+Tue Dec 21
+  Martinique           v Cuba                  0-2   @ Fort-de-France, Martinique
 

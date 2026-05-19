@@ -1,30 +1,30 @@
 = Arab Cup 1988
 
-# Date       Fri Jul/8 - Thu Jul/21 1988 (13d)
+# Date       Fri Jul 8 - Thu Jul 21 1988 (13d)
 # Teams      7
 # Matches    13
 
-[Fri Jul 8]
-  Jordan - Bahrain  0-0   @ Amman, Jordan
-[Sat Jul 9]
-  Iraq - Tunisia  1-1   @ Amman, Jordan
-[Mon Jul 11]
-  Iraq - Lebanon  0-0   @ Amman, Jordan
-[Tue Jul 12]
-  Bahrain - Syria  1-2   @ Amman, Jordan
-[Wed Jul 13]
-  Egypt - Tunisia  1-0   @ Amman, Jordan
-[Fri Jul 15]
-  Egypt - Lebanon  3-0   @ Amman, Jordan
-[Sat Jul 16]
-  Jordan - Syria  2-0   @ Amman, Jordan
-[Sun Jul 17]
-  Egypt - Iraq  0-0   @ Amman, Jordan
-  Lebanon - Tunisia  1-1   @ Amman, Jordan
-[Tue Jul 19]
-  Egypt - Syria  0-0   @ Amman, Jordan   [Syria wins on penalties]
-  Jordan - Iraq  0-3   @ Amman, Jordan
-[Thu Jul 21]
-  Iraq - Syria  1-1   @ Amman, Jordan   [Iraq wins on penalties]
-  Jordan - Egypt  0-2   @ Amman, Jordan
+Fri Jul 8
+  Jordan               v Bahrain               0-0   @ Amman, Jordan
+Sat Jul 9
+  Iraq                 v Tunisia               1-1   @ Amman, Jordan
+Mon Jul 11
+  Iraq                 v Lebanon               0-0   @ Amman, Jordan
+Tue Jul 12
+  Bahrain              v Syria                 1-2   @ Amman, Jordan
+Wed Jul 13
+  Egypt                v Tunisia               1-0   @ Amman, Jordan
+Fri Jul 15
+  Egypt                v Lebanon               3-0   @ Amman, Jordan
+Sat Jul 16
+  Jordan               v Syria                 2-0   @ Amman, Jordan
+Sun Jul 17
+  Egypt                v Iraq                  0-0   @ Amman, Jordan
+  Lebanon              v Tunisia               1-1   @ Amman, Jordan
+Tue Jul 19
+  Egypt                v Syria                 0-0   @ Amman, Jordan   [Syria wins on penalties]
+  Jordan               v Iraq                  0-3   @ Amman, Jordan
+Thu Jul 21
+  Iraq                 v Syria                 1-1   @ Amman, Jordan   [Iraq wins on penalties]
+  Jordan               v Egypt                 0-2   @ Amman, Jordan
 

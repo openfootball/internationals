@@ -1,22 +1,22 @@
 = UEFA Euro qualification 1958
 
-# Date       Sun Sep/28 - Wed Dec/3 1958 (66d)
+# Date       Sun Sep 28 - Wed Dec 3 1958 (66d)
 # Teams      6
 # Matches    4
 
-[Sun Sep 28]
-  Russia - Hungary  3-1   @ Moscow, Soviet Union
-     Anatoli Ilyin 4' Slava Metreveli 20' Valentin Kozmich Ivanov 32';
-     János Göröcs 84'
-[Wed Oct 1]
-  France - Greece  7-1   @ Paris, France
-     Raymond Kopa 23' Just Fontaine 25' Thadée Cisowski 29' Jean Vincent 61' Thadée Cisowski 68' Just Fontaine 85' Jean Vincent 87';
-     Ilias Yfantis 48'
-[Sun Nov 2]
-  Romania - Turkey  3-0   @ Bucharest, Romania
-     Nicolae Oaidă 62' Gheorghe Constantin 77' Constantin Dinulescu 81'
-[Wed Dec 3]
-  Greece - France  1-1   @ Athens, Greece
-     Roger Marche 85' (o.g.);
-     Stéphane Bruey 71'
+Sun Sep 28
+  Russia               v Hungary               3-1   @ Moscow, Soviet Union
+     (Anatoli Ilyin 4' Slava Metreveli 20' Valentin Kozmich Ivanov 32';
+      János Göröcs 84')
+Wed Oct 1
+  France               v Greece                7-1   @ Paris, France
+     (Raymond Kopa 23' Just Fontaine 25' Thadée Cisowski 29' Jean Vincent 61' Thadée Cisowski 68' Just Fontaine 85' Jean Vincent 87';
+      Ilias Yfantis 48')
+Sun Nov 2
+  Romania              v Turkey                3-0   @ Bucharest, Romania
+     (Nicolae Oaidă 62' Gheorghe Constantin 77' Constantin Dinulescu 81')
+Wed Dec 3
+  Greece               v France                1-1   @ Athens, Greece
+     (Roger Marche 85'(og);
+      Stéphane Bruey 71')
 

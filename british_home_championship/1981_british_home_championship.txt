@@ -1,15 +1,15 @@
 = British Home Championship 1981
 
-# Date       Sat May/16 - Sat May/23 1981 (7d)
+# Date       Sat May 16 - Sat May 23 1981 (7d)
 # Teams      4
 # Matches    4
 
-[Sat May 16]
-  Wales - Scotland  2-0   @ Swansea, Wales
-[Tue May 19]
-  Scotland - Northern Ireland  2-0   @ Glasgow, Scotland
-[Wed May 20]
-  England - Wales  0-0   @ London, England
-[Sat May 23]
-  England - Scotland  0-1   @ London, England
+Sat May 16
+  Wales                v Scotland              2-0   @ Swansea, Wales
+Tue May 19
+  Scotland             v Northern Ireland      2-0   @ Glasgow, Scotland
+Wed May 20
+  England              v Wales                 0-0   @ London, England
+Sat May 23
+  England              v Scotland              0-1   @ London, England
 

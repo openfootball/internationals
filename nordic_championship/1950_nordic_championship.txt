@@ -1,18 +1,18 @@
 = Nordic Championship 1950
 
-# Date       Thu Jun/22 - Sun Oct/15 1950 (115d)
+# Date       Thu Jun 22 - Sun Oct 15 1950 (115d)
 # Teams      4
 # Matches    6
 
-[Thu Jun 22]
-  Denmark - Norway  4-0   @ Copenhagen, Denmark
-[Sun Aug 27]
-  Finland - Denmark  1-2   @ Helsinki, Finland
-[Sun Sep 10]
-  Norway - Finland  4-1   @ Oslo, Norway
-[Sun Sep 24]
-  Finland - Sweden  0-1   @ Helsinki, Finland
-  Norway - Sweden  1-3   @ Oslo, Norway
-[Sun Oct 15]
-  Sweden - Denmark  4-0   @ Solna, Sweden
+Thu Jun 22
+  Denmark              v Norway                4-0   @ Copenhagen, Denmark
+Sun Aug 27
+  Finland              v Denmark               1-2   @ Helsinki, Finland
+Sun Sep 10
+  Norway               v Finland               4-1   @ Oslo, Norway
+Sun Sep 24
+  Finland              v Sweden                0-1   @ Helsinki, Finland
+  Norway               v Sweden                1-3   @ Oslo, Norway
+Sun Oct 15
+  Sweden               v Denmark               4-0   @ Solna, Sweden
 

@@ -1,17 +1,17 @@
 = British Home Championship 1971
 
-# Date       Sat May/15 - Sat May/22 1971 (7d)
+# Date       Sat May 15 - Sat May 22 1971 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 15]
-  Northern Ireland - England  0-1   @ Belfast, Northern Ireland
-  Wales - Scotland  0-0   @ Cardiff, Wales
-[Tue May 18]
-  Scotland - Northern Ireland  0-1   @ Glasgow, Scotland
-[Wed May 19]
-  England - Wales  0-0   @ London, England
-[Sat May 22]
-  England - Scotland  3-1   @ London, England
-  Northern Ireland - Wales  1-0   @ Belfast, Northern Ireland
+Sat May 15
+  Northern Ireland     v England               0-1   @ Belfast, Northern Ireland
+  Wales                v Scotland              0-0   @ Cardiff, Wales
+Tue May 18
+  Scotland             v Northern Ireland      0-1   @ Glasgow, Scotland
+Wed May 19
+  England              v Wales                 0-0   @ London, England
+Sat May 22
+  England              v Scotland              3-1   @ London, England
+  Northern Ireland     v Wales                 1-0   @ Belfast, Northern Ireland
 

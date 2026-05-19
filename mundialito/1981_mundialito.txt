@@ -1,19 +1,19 @@
 = Mundialito 1981
 
-# Date       Thu Jan/1 - Sat Jan/10 1981 (9d)
+# Date       Thu Jan 1 - Sat Jan 10 1981 (9d)
 # Teams      6
 # Matches    6
 
-[Thu Jan 1]
-  Argentina - Germany  2-1   @ Montevideo, Uruguay
-[Sat Jan 3]
-  Uruguay - Italy  2-0   @ Montevideo, Uruguay
-[Sun Jan 4]
-  Argentina - Brazil  1-1   @ Montevideo, Uruguay
-[Tue Jan 6]
-  Netherlands - Italy  1-1   @ Montevideo, Uruguay
-[Wed Jan 7]
-  Brazil - Germany  4-1   @ Montevideo, Uruguay
-[Sat Jan 10]
-  Uruguay - Brazil  2-1   @ Montevideo, Uruguay
+Thu Jan 1
+  Argentina            v Germany               2-1   @ Montevideo, Uruguay
+Sat Jan 3
+  Uruguay              v Italy                 2-0   @ Montevideo, Uruguay
+Sun Jan 4
+  Argentina            v Brazil                1-1   @ Montevideo, Uruguay
+Tue Jan 6
+  Netherlands          v Italy                 1-1   @ Montevideo, Uruguay
+Wed Jan 7
+  Brazil               v Germany               4-1   @ Montevideo, Uruguay
+Sat Jan 10
+  Uruguay              v Brazil                2-1   @ Montevideo, Uruguay
 

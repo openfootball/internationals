@@ -1,18 +1,18 @@
 = British Home Championship 1923
 
-# Date       Sat Mar/3 - Sat Oct/20 1923 (231d)
+# Date       Sat Mar 3 - Sat Oct 20 1923 (231d)
 # Teams      4
 # Matches    6
 
-[Sat Mar 3]
-  Northern Ireland - Scotland  0-1   @ Belfast, Northern Ireland
-[Mon Mar 5]
-  Wales - England  2-2   @ Cardiff, Wales
-[Sat Mar 17]
-  Scotland - Wales  2-0   @ Paisley, Scotland
-[Sat Apr 14]
-  Scotland - England  2-2   @ Glasgow, Scotland
-  Wales - Northern Ireland  0-3   @ Wrexham, Wales
-[Sat Oct 20]
-  Northern Ireland - England  2-1   @ Belfast, Northern Ireland
+Sat Mar 3
+  Northern Ireland     v Scotland              0-1   @ Belfast, Northern Ireland
+Mon Mar 5
+  Wales                v England               2-2   @ Cardiff, Wales
+Sat Mar 17
+  Scotland             v Wales                 2-0   @ Paisley, Scotland
+Sat Apr 14
+  Scotland             v England               2-2   @ Glasgow, Scotland
+  Wales                v Northern Ireland      0-3   @ Wrexham, Wales
+Sat Oct 20
+  Northern Ireland     v England               2-1   @ Belfast, Northern Ireland
 

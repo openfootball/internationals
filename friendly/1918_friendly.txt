@@ -1,27 +1,27 @@
 = Friendly 1918
 
-# Date       Sun Apr/14 - Sun Oct/20 1918 (189d)
+# Date       Sun Apr 14 - Sun Oct 20 1918 (189d)
 # Teams      6
 # Matches    11
 
-[Sun Apr 14]
-  Hungary - Austria  2-0   @ Budapest, Hungary
-[Thu May 9]
-  Austria - Switzerland  5-1   @ Vienna, Austria
-[Sun May 12]
-  Hungary - Switzerland  2-1   @ Budapest, Hungary
-[Sun May 26]
-  Sweden - Norway  2-0   @ Stockholm, Sweden
-[Sun Jun 2]
-  Austria - Hungary  0-2   @ Vienna, Austria
-  Denmark - Sweden  3-0   @ Copenhagen, Denmark
-[Sun Jun 16]
-  Norway - Denmark  3-1   @ Kristiania, Norway
-[Sun Sep 15]
-  Norway - Sweden  2-1   @ Kristiania, Norway
-[Sun Oct 6]
-  Austria - Hungary  0-3   @ Vienna, Austria
-  Denmark - Norway  4-0   @ Copenhagen, Denmark
-[Sun Oct 20]
-  Sweden - Denmark  1-2   @ Gothenburg, Sweden
+Sun Apr 14
+  Hungary              v Austria               2-0   @ Budapest, Hungary
+Thu May 9
+  Austria              v Switzerland           5-1   @ Vienna, Austria
+Sun May 12
+  Hungary              v Switzerland           2-1   @ Budapest, Hungary
+Sun May 26
+  Sweden               v Norway                2-0   @ Stockholm, Sweden
+Sun Jun 2
+  Austria              v Hungary               0-2   @ Vienna, Austria
+  Denmark              v Sweden                3-0   @ Copenhagen, Denmark
+Sun Jun 16
+  Norway               v Denmark               3-1   @ Kristiania, Norway
+Sun Sep 15
+  Norway               v Sweden                2-1   @ Kristiania, Norway
+Sun Oct 6
+  Austria              v Hungary               0-3   @ Vienna, Austria
+  Denmark              v Norway                4-0   @ Copenhagen, Denmark
+Sun Oct 20
+  Sweden               v Denmark               1-2   @ Gothenburg, Sweden
 

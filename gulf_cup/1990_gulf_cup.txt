@@ -1,27 +1,27 @@
 = Gulf Cup 1990
 
-# Date       Wed Feb/21 - Fri Mar/9 1990 (16d)
+# Date       Wed Feb 21 - Fri Mar 9 1990 (16d)
 # Teams      5
 # Matches    10
 
-[Wed Feb 21]
-  Kuwait - Bahrain  1-0   @ Kuwait City, Kuwait
-[Thu Feb 22]
-  Oman - United Arab Emirates  1-1   @ Kuwait City, Kuwait
-[Fri Feb 23]
-  Qatar - Bahrain  0-0   @ Kuwait City, Kuwait
-[Sat Feb 24]
-  Kuwait - Oman  1-1   @ Kuwait City, Kuwait
-[Tue Feb 27]
-  Qatar - United Arab Emirates  0-0   @ Kuwait City, Kuwait
-[Thu Mar 1]
-  Bahrain - Oman  0-0   @ Kuwait City, Kuwait
-[Sun Mar 4]
-  Oman - Qatar  2-4   @ Kuwait City, Kuwait
-[Mon Mar 5]
-  Bahrain - United Arab Emirates  1-0   @ Kuwait City, Kuwait
-[Wed Mar 7]
-  Kuwait - Qatar  2-0   @ Kuwait City, Kuwait
-[Fri Mar 9]
-  Kuwait - United Arab Emirates  6-1   @ Kuwait City, Kuwait
+Wed Feb 21
+  Kuwait               v Bahrain               1-0   @ Kuwait City, Kuwait
+Thu Feb 22
+  Oman                 v United Arab Emirates  1-1   @ Kuwait City, Kuwait
+Fri Feb 23
+  Qatar                v Bahrain               0-0   @ Kuwait City, Kuwait
+Sat Feb 24
+  Kuwait               v Oman                  1-1   @ Kuwait City, Kuwait
+Tue Feb 27
+  Qatar                v United Arab Emirates  0-0   @ Kuwait City, Kuwait
+Thu Mar 1
+  Bahrain              v Oman                  0-0   @ Kuwait City, Kuwait
+Sun Mar 4
+  Oman                 v Qatar                 2-4   @ Kuwait City, Kuwait
+Mon Mar 5
+  Bahrain              v United Arab Emirates  1-0   @ Kuwait City, Kuwait
+Wed Mar 7
+  Kuwait               v Qatar                 2-0   @ Kuwait City, Kuwait
+Fri Mar 9
+  Kuwait               v United Arab Emirates  6-1   @ Kuwait City, Kuwait
 

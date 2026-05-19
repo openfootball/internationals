@@ -1,19 +1,19 @@
 = Tournoi de France 1997
 
-# Date       Tue Jun/3 - Wed Jun/11 1997 (8d)
+# Date       Tue Jun 3 - Wed Jun 11 1997 (8d)
 # Teams      4
 # Matches    6
 
-[Tue Jun 3]
-  France - Brazil  1-1   @ Lyon, France
-[Wed Jun 4]
-  England - Italy  2-0   @ Nantes, France
-[Sat Jun 7]
-  France - England  0-1   @ Montpellier, France
-[Sun Jun 8]
-  Italy - Brazil  3-3   @ Lyon, France
-[Tue Jun 10]
-  England - Brazil  0-1   @ Paris, France
-[Wed Jun 11]
-  France - Italy  2-2   @ Paris, France
+Tue Jun 3
+  France               v Brazil                1-1   @ Lyon, France
+Wed Jun 4
+  England              v Italy                 2-0   @ Nantes, France
+Sat Jun 7
+  France               v England               0-1   @ Montpellier, France
+Sun Jun 8
+  Italy                v Brazil                3-3   @ Lyon, France
+Tue Jun 10
+  England              v Brazil                0-1   @ Paris, France
+Wed Jun 11
+  France               v Italy                 2-2   @ Paris, France
 

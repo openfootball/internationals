@@ -1,17 +1,17 @@
 = Nordic Championship 1970
 
-# Date       Wed Jun/3 - Wed Sep/23 1970 (112d)
+# Date       Wed Jun 3 - Wed Sep 23 1970 (112d)
 # Teams      4
 # Matches    5
 
-[Wed Jun 3]
-  Finland - Denmark  1-1   @ Helsinki, Finland
-[Wed Jun 17]
-  Norway - Finland  2-0   @ Bergen, Norway
-[Thu Jun 25]
-  Sweden - Denmark  1-1   @ Gothenburg, Sweden
-[Wed Aug 26]
-  Finland - Sweden  1-2   @ Helsinki, Finland
-[Wed Sep 23]
-  Denmark - Norway  0-1   @ Copenhagen, Denmark
+Wed Jun 3
+  Finland              v Denmark               1-1   @ Helsinki, Finland
+Wed Jun 17
+  Norway               v Finland               2-0   @ Bergen, Norway
+Thu Jun 25
+  Sweden               v Denmark               1-1   @ Gothenburg, Sweden
+Wed Aug 26
+  Finland              v Sweden                1-2   @ Helsinki, Finland
+Wed Sep 23
+  Denmark              v Norway                0-1   @ Copenhagen, Denmark
 

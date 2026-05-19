@@ -1,93 +1,93 @@
 = UEFA Euro qualification 1963
 
-# Date       Wed Jan/23 - Wed Dec/18 1963 (329d)
+# Date       Wed Jan 23 - Wed Dec 18 1963 (329d)
 # Teams      23
 # Matches    26
 
-[Wed Jan 23]
-  Bulgaria - Portugal  1-0   @ Rome, Italy
-     Georgi Asparuhov 87'
-[Wed Feb 27]
-  France - England  5-2   @ Paris, France
-     Maryan Wisniewski 3' Yvon Douis 32' Lucien Cossou 43' Maryan Wisniewski 75' Lucien Cossou 82';
-     Bobby Smith 57' Bobby Tambling 74'
-[Wed Mar 20]
-  Wales - Hungary  1-1   @ Cardiff, Wales
-     Cliff Jones 23' (pen.);
-     Lajos Tichy 77' (pen.)
-[Wed Mar 27]
-  Turkey - Italy  0-1   @ Istanbul, Turkey
-     -; Angelo Sormani 86'
-[Sun Mar 31]
-  Belgium - Yugoslavia  0-1   @ Brussels, Belgium
-     -; Milan Galić 21'
-  Czechoslovakia - German DR  1-1   @ Prague, Czechoslovakia
-     Václav Mašek 66';
-     Peter Ducke 85'
-  Switzerland - Netherlands  1-1   @ Bern, Switzerland
-     Anton Allemann 37';
-     Piet Kruiver 6'
-[Thu May 30]
-  Spain - Northern Ireland  1-1   @ Bilbao, Spain
-     Amancio Amaro 60';
-     Willie Irvine 76'
-[Wed Jun 19]
-  Yugoslavia - Sweden  0-0   @ Belgrade, Yugoslavia
-[Sat Jun 29]
-  Denmark - Albania  4-0   @ Copenhagen, Denmark
-     Jens Petersen 18' (pen.) Ole Madsen 25' Eyvind Clausen 36' Henning Enoksen 49'
-[Wed Sep 11]
-  Netherlands - Luxembourg  1-1   @ Amsterdam, Netherlands
-     Klaas Nuninga 5';
-     Paul May 33'
-[Wed Sep 18]
-  Sweden - Yugoslavia  3-2   @ Malmö, Sweden
-     Örjan Persson 30' Örjan Persson 60' Harry Bild 72';
-     Slaven Zambata 21' Milan Galić 64'
-[Wed Sep 25]
-  Austria - Republic of Ireland  0-0   @ Vienna, Austria
-[Sun Sep 29]
-  Bulgaria - France  1-0   @ Sofia, Bulgaria
-     Todor Diev 24'
-[Sun Oct 13]
-  Republic of Ireland - Austria  3-2   @ Dublin, Republic of Ireland
-     Noel Cantwell 45' Amby Fogarty 66' Noel Cantwell 89' (pen.);
-     Walter Koleznik 38' Rudi Flögel 85'
-  Russia - Italy  2-0   @ Moscow, Soviet Union
-     Viktor Ponedelnik 22' Igor Chislenko 42'
-[Sat Oct 19]
-  German DR - Hungary  1-2   @ Berlin, German DR
-     Jürgen Nöldner 51';
-     Ferenc Bene 18' Gyula Rákosi 88'
-[Sat Oct 26]
-  France - Bulgaria  3-1   @ Paris, France
-     Yvon Goujon 44' Robert Herbin 78' Yvon Goujon 81';
-     Dimitar Yakimov 75'
-[Wed Oct 30]
-  Albania - Denmark  1-0   @ Tirana, Albania
-     Panajot Pano 3'
-  Netherlands - Luxembourg  1-2   @ Rotterdam, Netherlands
-     Piet Kruiver 35';
-     Camille Dimmer 20' Camille Dimmer 67'
-  Northern Ireland - Spain  0-1   @ Belfast, Northern Ireland
-     -; Francisco Gento 66'
-[Sun Nov 3]
-  Hungary - German DR  3-3   @ Budapest, Hungary
-     Ferenc Bene 7' Károly Sándor 17' Ernő Solymosi 51' (pen.);
-     Werner Heine 12' Roland Ducke 26' Dieter Erler 81'
-[Sun Nov 10]
-  Italy - Russia  1-1   @ Rome, Italy
-     Gianni Rivera 89';
-     Gennadi Gusarov 33'
-[Wed Dec 4]
-  Luxembourg - Denmark  3-3   @ Luxembourg, Luxembourg
-     Louis Pilot 1' Henri Klein 23' Henri Klein 51';
-     Ole Madsen 9' Ole Madsen 31' Ole Madsen 46'
-[Tue Dec 10]
-  Denmark - Luxembourg  2-2   @ Copenhagen, Denmark
-     Ole Madsen 16' Ole Madsen 70';
-     Johny Léonard 13' Ady Schmit 84'
-[Wed Dec 18]
-  Denmark - Luxembourg  1-0   @ Amsterdam, Netherlands
-     Ole Madsen 41'
+Wed Jan 23
+  Bulgaria             v Portugal              1-0   @ Rome, Italy
+     (Georgi Asparuhov 87')
+Wed Feb 27
+  France               v England               5-2   @ Paris, France
+     (Maryan Wisniewski 3' Yvon Douis 32' Lucien Cossou 43' Maryan Wisniewski 75' Lucien Cossou 82';
+      Bobby Smith 57' Bobby Tambling 74')
+Wed Mar 20
+  Wales                v Hungary               1-1   @ Cardiff, Wales
+     (Cliff Jones 23'(p);
+      Lajos Tichy 77'(p))
+Wed Mar 27
+  Turkey               v Italy                 0-1   @ Istanbul, Turkey
+     (Angelo Sormani 86')
+Sun Mar 31
+  Belgium              v Yugoslavia            0-1   @ Brussels, Belgium
+     (Milan Galić 21')
+  Czechoslovakia       v German DR             1-1   @ Prague, Czechoslovakia
+     (Václav Mašek 66';
+      Peter Ducke 85')
+  Switzerland          v Netherlands           1-1   @ Bern, Switzerland
+     (Anton Allemann 37';
+      Piet Kruiver 6')
+Thu May 30
+  Spain                v Northern Ireland      1-1   @ Bilbao, Spain
+     (Amancio Amaro 60';
+      Willie Irvine 76')
+Wed Jun 19
+  Yugoslavia           v Sweden                0-0   @ Belgrade, Yugoslavia
+Sat Jun 29
+  Denmark              v Albania               4-0   @ Copenhagen, Denmark
+     (Jens Petersen 18'(p) Ole Madsen 25' Eyvind Clausen 36' Henning Enoksen 49')
+Wed Sep 11
+  Netherlands          v Luxembourg            1-1   @ Amsterdam, Netherlands
+     (Klaas Nuninga 5';
+      Paul May 33')
+Wed Sep 18
+  Sweden               v Yugoslavia            3-2   @ Malmö, Sweden
+     (Örjan Persson 30' Örjan Persson 60' Harry Bild 72';
+      Slaven Zambata 21' Milan Galić 64')
+Wed Sep 25
+  Austria              v Republic of Ireland   0-0   @ Vienna, Austria
+Sun Sep 29
+  Bulgaria             v France                1-0   @ Sofia, Bulgaria
+     (Todor Diev 24')
+Sun Oct 13
+  Republic of Ireland  v Austria               3-2   @ Dublin, Republic of Ireland
+     (Noel Cantwell 45' Amby Fogarty 66' Noel Cantwell 89'(p);
+      Walter Koleznik 38' Rudi Flögel 85')
+  Russia               v Italy                 2-0   @ Moscow, Soviet Union
+     (Viktor Ponedelnik 22' Igor Chislenko 42')
+Sat Oct 19
+  German DR            v Hungary               1-2   @ Berlin, German DR
+     (Jürgen Nöldner 51';
+      Ferenc Bene 18' Gyula Rákosi 88')
+Sat Oct 26
+  France               v Bulgaria              3-1   @ Paris, France
+     (Yvon Goujon 44' Robert Herbin 78' Yvon Goujon 81';
+      Dimitar Yakimov 75')
+Wed Oct 30
+  Albania              v Denmark               1-0   @ Tirana, Albania
+     (Panajot Pano 3')
+  Netherlands          v Luxembourg            1-2   @ Rotterdam, Netherlands
+     (Piet Kruiver 35';
+      Camille Dimmer 20' Camille Dimmer 67')
+  Northern Ireland     v Spain                 0-1   @ Belfast, Northern Ireland
+     (Francisco Gento 66')
+Sun Nov 3
+  Hungary              v German DR             3-3   @ Budapest, Hungary
+     (Ferenc Bene 7' Károly Sándor 17' Ernő Solymosi 51'(p);
+      Werner Heine 12' Roland Ducke 26' Dieter Erler 81')
+Sun Nov 10
+  Italy                v Russia                1-1   @ Rome, Italy
+     (Gianni Rivera 89';
+      Gennadi Gusarov 33')
+Wed Dec 4
+  Luxembourg           v Denmark               3-3   @ Luxembourg, Luxembourg
+     (Louis Pilot 1' Henri Klein 23' Henri Klein 51';
+      Ole Madsen 9' Ole Madsen 31' Ole Madsen 46')
+Tue Dec 10
+  Denmark              v Luxembourg            2-2   @ Copenhagen, Denmark
+     (Ole Madsen 16' Ole Madsen 70';
+      Johny Léonard 13' Ady Schmit 84')
+Wed Dec 18
+  Denmark              v Luxembourg            1-0   @ Amsterdam, Netherlands
+     (Ole Madsen 41')
 

@@ -1,19 +1,19 @@
 = South Asian Games 1985
 
-# Date       Sat Dec/21 - Wed Dec/25 1985 (4d)
+# Date       Sat Dec 21 - Wed Dec 25 1985 (4d)
 # Teams      6
 # Matches    8
 
-[Sat Dec 21]
-  Bangladesh - Pakistan  2-1   @ Dhaka, Bangladesh
-  India - Nepal  2-0   @ Dhaka, Bangladesh
-[Sun Dec 22]
-  Pakistan - Maldives  3-1   @ Dhaka, Bangladesh
-  Nepal - Bhutan  1-0   @ Dhaka, Bangladesh
-[Mon Dec 23]
-  Bangladesh - Maldives  8-0   @ Dhaka, Bangladesh
-  India - Bhutan  3-0   @ Dhaka, Bangladesh
-[Wed Dec 25]
-  Pakistan - Nepal  2-2   @ Dhaka, Bangladesh   [Nepal wins on penalties]
-  Bangladesh - India  1-1   @ Dhaka, Bangladesh   [India wins on penalties]
+Sat Dec 21
+  Bangladesh           v Pakistan              2-1   @ Dhaka, Bangladesh
+  India                v Nepal                 2-0   @ Dhaka, Bangladesh
+Sun Dec 22
+  Pakistan             v Maldives              3-1   @ Dhaka, Bangladesh
+  Nepal                v Bhutan                1-0   @ Dhaka, Bangladesh
+Mon Dec 23
+  Bangladesh           v Maldives              8-0   @ Dhaka, Bangladesh
+  India                v Bhutan                3-0   @ Dhaka, Bangladesh
+Wed Dec 25
+  Pakistan             v Nepal                 2-2   @ Dhaka, Bangladesh   [Nepal wins on penalties]
+  Bangladesh           v India                 1-1   @ Dhaka, Bangladesh   [India wins on penalties]
 

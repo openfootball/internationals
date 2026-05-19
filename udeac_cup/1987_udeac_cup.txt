@@ -1,24 +1,24 @@
 = UDEAC Cup 1987
 
-# Date       Mon Dec/7 - Fri Dec/18 1987 (11d)
+# Date       Mon Dec 7 - Fri Dec 18 1987 (11d)
 # Teams      5
 # Matches    9
 
-[Mon Dec 7]
-  Chad - Central African Republic  2-1   @ N'Djamena, Chad
-[Tue Dec 8]
-  Cameroon - Equatorial Guinea  1-0   @ N'Djamena, Chad
-[Wed Dec 9]
-  Central African Republic - Gabon  1-1   @ N'Djamena, Chad
-[Thu Dec 10]
-  Cameroon - Equatorial Guinea  0-0   @ N'Djamena, Chad
-[Fri Dec 11]
-  Chad - Gabon  1-1   @ N'Djamena, Chad
-[Tue Dec 15]
-  Chad - Equatorial Guinea  4-0   @ N'Djamena, Chad
-[Wed Dec 16]
-  Cameroon - Gabon  1-0   @ N'Djamena, Chad
-[Fri Dec 18]
-  Chad - Cameroon  0-1   @ N'Djamena, Chad
-  Equatorial Guinea - Gabon  0-0   @ N'Djamena, Chad   [Gabon wins on penalties]
+Mon Dec 7
+  Chad                 v Central African Republic  2-1   @ N'Djamena, Chad
+Tue Dec 8
+  Cameroon             v Equatorial Guinea     1-0   @ N'Djamena, Chad
+Wed Dec 9
+  Central African Republic v Gabon                 1-1   @ N'Djamena, Chad
+Thu Dec 10
+  Cameroon             v Equatorial Guinea     0-0   @ N'Djamena, Chad
+Fri Dec 11
+  Chad                 v Gabon                 1-1   @ N'Djamena, Chad
+Tue Dec 15
+  Chad                 v Equatorial Guinea     4-0   @ N'Djamena, Chad
+Wed Dec 16
+  Cameroon             v Gabon                 1-0   @ N'Djamena, Chad
+Fri Dec 18
+  Chad                 v Cameroon              0-1   @ N'Djamena, Chad
+  Equatorial Guinea    v Gabon                 0-0   @ N'Djamena, Chad   [Gabon wins on penalties]
 

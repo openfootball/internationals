@@ -1,29 +1,29 @@
 = AFC Asian Cup qualification 1959
 
-# Date       Sun Mar/29 - Thu Dec/17 1959 (263d)
+# Date       Sun Mar 29 - Thu Dec 17 1959 (263d)
 # Teams      10
 # Matches    11
 
-[Sun Mar 29]
-  Philippines - Hong Kong  0-7   @ Manila, Philippines
-[Tue Mar 31]
-  Philippines - Taiwan  4-7   @ Manila, Philippines
-[Sat May 9]
-  Singapore - Vietnam Republic  1-4   @ Kallang, Singapore
-[Mon May 11]
-  Singapore - Malaysia  2-5   @ Kallang, Singapore
-[Wed May 13]
-  Malaysia - Vietnam Republic  0-1   @ Kallang, Singapore
-[Sat Dec 5]
-  Iran - Israel  3-0   @ Ernakulam, India
-[Sun Dec 6]
-  India - Pakistan  1-0   @ Ernakulam, India
-[Tue Dec 8]
-  India - Israel  1-3   @ Ernakulam, India
-[Thu Dec 10]
-  Israel - Pakistan  2-0   @ Ernakulam, India
-[Sat Dec 12]
-  Israel - Iran  1-1   @ Ernakulam, India
-[Thu Dec 17]
-  Pakistan - Israel  2-2   @ Ernakulam, India
+Sun Mar 29
+  Philippines          v Hong Kong             0-7   @ Manila, Philippines
+Tue Mar 31
+  Philippines          v Taiwan                4-7   @ Manila, Philippines
+Sat May 9
+  Singapore            v Vietnam Republic      1-4   @ Kallang, Singapore
+Mon May 11
+  Singapore            v Malaysia              2-5   @ Kallang, Singapore
+Wed May 13
+  Malaysia             v Vietnam Republic      0-1   @ Kallang, Singapore
+Sat Dec 5
+  Iran                 v Israel                3-0   @ Ernakulam, India
+Sun Dec 6
+  India                v Pakistan              1-0   @ Ernakulam, India
+Tue Dec 8
+  India                v Israel                1-3   @ Ernakulam, India
+Thu Dec 10
+  Israel               v Pakistan              2-0   @ Ernakulam, India
+Sat Dec 12
+  Israel               v Iran                  1-1   @ Ernakulam, India
+Thu Dec 17
+  Pakistan             v Israel                2-2   @ Ernakulam, India
 

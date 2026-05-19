@@ -1,49 +1,49 @@
 = African Cup of Nations qualification 1992
 
-# Date       Sun Jun/14 - Sun Nov/8 1992 (147d)
+# Date       Sun Jun 14 - Sun Nov 8 1992 (147d)
 # Teams      29
 # Matches    32
 
-[Sun Jun 14]
-  Guinea-Bissau - Cape Verde  3-1   @ Bissau, Guinea-Bissau
-  Lesotho - Botswana  0-0   @ Maseru, Lesotho
-[Sun Jun 28]
-  Botswana - Lesotho  0-4   @ Gaborone, Botswana
-  Cape Verde - Guinea-Bissau  1-0   @ Praia, Cape Verde
-[Sun Jul 5]
-  Guinea-Bissau - Cape Verde  1-0   @ Bissau, Guinea-Bissau
-[Fri Aug 14]
-  Algeria - Guinea-Bissau  3-1   @ Oran, Algeria
-[Sat Aug 15]
-  Uganda - Ethiopia  3-1   @ Kampala, Uganda
-  Malawi - Egypt  1-0   @ Lilongwe, Malawi
-  Zambia - Mauritius  3-1   @ Lusaka, Zambia
-[Sun Aug 16]
-  Benin - Niger  1-2   @ Cotonou, Benin
-  Sudan - Nigeria  0-0   @ Khartoum, Sudan
-  Burundi - Congo  1-0   @ Bujumbura, Burundi
-  DR Congo - Mozambique  2-0   @ Kinshasa, Zaïre
-  Gabon - Cameroon  0-0   @ Libreville, Gabon
-  Lesotho - Kenya  2-2   @ Maseru, Lesotho
-  Zimbabwe - South Africa  4-1   @ Harare, Zimbabwe
-[Sat Aug 29]
-  Kenya - DR Congo  1-3   @ Nairobi, Kenya
-  Malawi - Mali  1-1   @ Lilongwe, Malawi
-  Nigeria - Uganda  2-0   @ Lagos, Nigeria
-  Sierra Leone - Algeria  1-0   @ Freetown, Sierra Leone
-[Sun Aug 30]
-  Cameroon - Benin  2-0   @ Yaoundé, Cameroon
-  Ethiopia - Sudan  3-0   @ Addis Ababa, Ethiopia
-  Guinea - Burundi  2-2   @ Conakry, Guinea
-  Mauritius - Zimbabwe  0-1   @ Curepipe, Mauritius
-  Mozambique - Lesotho  3-0   @ Maputo, Mozambique
-  Niger - Gabon  1-3   @ Niamey, Niger
-  Senegal - Guinea-Bissau  3-0   @ Dakar, Senegal
-  South Africa - Zambia  0-1   @ Johannesburg, South Africa
-[Sun Oct 4]
-  Guinea-Bissau - Sierra Leone  0-3   @ Bissau, Guinea-Bissau
-  Mali - Morocco  2-1   @ Bamako, Mali
-[Sun Nov 8]
-  Morocco - Egypt  0-0   @ Casablanca, Morocco
-  Sierra Leone - Senegal  2-0   @ Freetown, Sierra Leone
+Sun Jun 14
+  Guinea-Bissau        v Cape Verde            3-1   @ Bissau, Guinea-Bissau
+  Lesotho              v Botswana              0-0   @ Maseru, Lesotho
+Sun Jun 28
+  Botswana             v Lesotho               0-4   @ Gaborone, Botswana
+  Cape Verde           v Guinea-Bissau         1-0   @ Praia, Cape Verde
+Sun Jul 5
+  Guinea-Bissau        v Cape Verde            1-0   @ Bissau, Guinea-Bissau
+Fri Aug 14
+  Algeria              v Guinea-Bissau         3-1   @ Oran, Algeria
+Sat Aug 15
+  Uganda               v Ethiopia              3-1   @ Kampala, Uganda
+  Malawi               v Egypt                 1-0   @ Lilongwe, Malawi
+  Zambia               v Mauritius             3-1   @ Lusaka, Zambia
+Sun Aug 16
+  Benin                v Niger                 1-2   @ Cotonou, Benin
+  Sudan                v Nigeria               0-0   @ Khartoum, Sudan
+  Burundi              v Congo                 1-0   @ Bujumbura, Burundi
+  DR Congo             v Mozambique            2-0   @ Kinshasa, Zaïre
+  Gabon                v Cameroon              0-0   @ Libreville, Gabon
+  Lesotho              v Kenya                 2-2   @ Maseru, Lesotho
+  Zimbabwe             v South Africa          4-1   @ Harare, Zimbabwe
+Sat Aug 29
+  Kenya                v DR Congo              1-3   @ Nairobi, Kenya
+  Malawi               v Mali                  1-1   @ Lilongwe, Malawi
+  Nigeria              v Uganda                2-0   @ Lagos, Nigeria
+  Sierra Leone         v Algeria               1-0   @ Freetown, Sierra Leone
+Sun Aug 30
+  Cameroon             v Benin                 2-0   @ Yaoundé, Cameroon
+  Ethiopia             v Sudan                 3-0   @ Addis Ababa, Ethiopia
+  Guinea               v Burundi               2-2   @ Conakry, Guinea
+  Mauritius            v Zimbabwe              0-1   @ Curepipe, Mauritius
+  Mozambique           v Lesotho               3-0   @ Maputo, Mozambique
+  Niger                v Gabon                 1-3   @ Niamey, Niger
+  Senegal              v Guinea-Bissau         3-0   @ Dakar, Senegal
+  South Africa         v Zambia                0-1   @ Johannesburg, South Africa
+Sun Oct 4
+  Guinea-Bissau        v Sierra Leone          0-3   @ Bissau, Guinea-Bissau
+  Mali                 v Morocco               2-1   @ Bamako, Mali
+Sun Nov 8
+  Morocco              v Egypt                 0-0   @ Casablanca, Morocco
+  Sierra Leone         v Senegal               2-0   @ Freetown, Sierra Leone
 

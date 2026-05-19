@@ -1,255 +1,255 @@
 = FIFA World Cup qualification 1980
 
-# Date       Wed Mar/26 - Wed Dec/31 1980 (280d)
+# Date       Wed Mar 26 - Wed Dec 31 1980 (280d)
 # Teams      62
 # Matches    89
 
-[Wed Mar 26]
-  Cyprus - Republic of Ireland  2-3   @ Nicosia, Cyprus
-     Nikos Pantziaras 29' Sotiris Kaiafas 74' (pen.);
-     Paul McGee 8' Mark Lawrenson 23' Paul McGee 38'
-  Israel - Northern Ireland  0-0   @ Ramat Gan, Israel
-[Thu May 8]
-  Libya - Gambia  2-1   @ Tripoli, Libya
-     Abubaker Bani ??' Rashid Mohammed Rashid ??';
-     Assan Sarr ??'
-[Sun May 18]
-  Ethiopia - Zambia  0-0   @ Addis Ababa, Ethiopia
-[Sat May 31]
-  Sierra Leone - Algeria  2-2   @ Freetown, Sierra Leone
-     Akie Noah 58' Ismael Dyfan 60';
-     Tedj Bensaoula 72' Lakhdar Belloumi 85'
-[Sun Jun 1]
-  Zambia - Ethiopia  4-0   @ Ndola, Zambia
-     Alex Chola 4' Godfrey Chitalu 16' Pele Kaimana 69' Godfrey Chitalu 89'
-[Mon Jun 2]
-  Iceland - Wales  0-4   @ Reykjavík, Iceland
-     -; Ian Walsh 45' David Giles 53' Brian Flynn 61' (pen.) Ian Walsh 75'
-[Wed Jun 4]
-  Finland - Bulgaria  0-2   @ Helsinki, Finland
-     -; Plamen Markov 28' Kostadin Kostadinov 81'
-[Fri Jun 13]
-  Algeria - Sierra Leone  3-1   @ Oran, Algeria
-     Ali Fergani 42' Tedj Bensaoula 47' Rabah Madjer 78';
-     Sentu Johnson 79'
-[Wed Jun 18]
-  Sweden - Israel  1-1   @ Solna, Sweden
-     Sten-Ove Ramberg 35';
-     Gidi Damti 80'
-[Sun Jun 22]
-  Guinea - Lesotho  3-1   @ Conakry, Guinea
-     Mory Koné 39' Naby Laye Camara 52' (pen.) Amara Touré 82';
-     Sele Leboela 44'
-  Senegal - Morocco  0-1   @ Dakar, Senegal
-     -; Mohamed Timoumi 21'
-[Sun Jun 29]
-  Cameroon - Malawi  3-0   @ Yaoundé, Cameroon
-     Roger Milla 35' Emmanuel Kundé 54' Théophile Abega 59'
-  Tunisia - Nigeria  2-0   @ Tunis, Tunisia
-     Néjib Liman 31' Témime Lahzami 52'
-[Sat Jul 5]
-  Kenya - Tanzania  3-1   @ Nairobi, Kenya
-     Elly Adero 30' Sammy Owino 57' Sammy Owino 80' (pen.);
-     Thuwein Ali ??'
-[Sun Jul 6]
-  Gambia - Libya  0-0   @ Banjul, Gambia
-  Lesotho - Guinea  1-1   @ Maseru, Lesotho
-     Teboho Masia 65';
-     Amara Touré 33'
-  Morocco - Senegal  0-0   @ Casablanca, Morocco
-[Sat Jul 12]
-  Nigeria - Tunisia  2-0   @ Lagos, Nigeria   [Nigeria wins on penalties]
-     Leotis Boateng 11' Emmanuel Osigwe 74'
-[Sun Jul 13]
-  DR Congo - Mozambique  5-2   @ Kinshasa, Zaïre
-     Kiyika Tokodi 30' (pen.) Muteba N'Daye 67' Kiyika Tokodi 82' (pen.) Masengo Ilunga 85' Muteba N'Daye 87';
-     Gil Guiambe 23' Gil Guiambe 50'
-[Wed Jul 16]
-  Niger - Somalia  0-0   @ Niamey, Niger
-[Sat Jul 19]
-  Tanzania - Kenya  5-0   @ Dar es Salaam, Tanzania
-     Peter Tino 44' Peter Tino 70' Mohammed Adolf Rishard 70' Thuwein Ali 72' Thuwein Ali 80'
-[Sun Jul 20]
-  Malawi - Cameroon  1-1   @ Blantyre, Malawi
-     Stock Dandize 71';
-     Jean Manga Onguéné 70'
-[Sun Jul 27]
-  Mozambique - DR Congo  1-2   @ Maputo, Mozambique
-     Francisco Rui Marcos 55' (pen.);
-     Muteba N'Daye 15' Ayel Mayélé 17'
-  Somalia - Niger  1-1   @ Mogadishu, Somalia
-     Ismail Mohammed Sharif 90';
-     Moussa Kanfideni 30'
-[Wed Sep 3]
-  Albania - Finland  2-0   @ Tirana, Albania
-     Sefedin Braho 2' Millan Baçi 18'
-  Iceland - Russia  1-2   @ Reykjavík, Iceland
-     Árni Sveinsson 75';
-     Yuri Gavrilov 35' Sergey Andreyev 80'
-[Wed Sep 10]
-  England - Norway  4-0   @ London, England
-     Terry McDermott 37' Tony Woodcock 69' Terry McDermott 78' Paul Mariner 85'
-  Republic of Ireland - Netherlands  2-1   @ Dublin, Republic of Ireland
-     Gerry Daly 78' Mark Lawrenson 85';
-     Simon Tahamata 57'
-  Luxembourg - Yugoslavia  0-5   @ Luxembourg, Luxembourg
-     -; Safet Sušić 50' Zlatko Vujović 64' Vladimir Petrović 70' Zlatko Vujović 81' Ivan Buljan 90'
-  Sweden - Scotland  0-1   @ Solna, Sweden
-     -; Gordon Strachan 72'
-[Wed Sep 24]
-  Finland - Austria  0-2   @ Helsinki, Finland
-     -; Kurt Jara 13' Kurt Welzl 77'
-  Norway - Romania  1-1   @ Oslo, Norway
-     Åge Hareide 23';
-     Anghel Iordănescu 10'
-  Turkey - Iceland  1-3   @ İzmir, Turkey
-     Fatih Terim 72' (pen.);
-     Janus Guðlaugsson 12' Albert Guðmundsson 62' Teitur Þórðarson 80'
-[Sat Sep 27]
-  Yugoslavia - Denmark  2-1   @ Ljubljana, Yugoslavia
-     Dragan Pantelić 18' (pen.) Zoran Vujović 37';
-     Frank Arnesen 5' (pen.)
-[Sat Oct 11]
-  Cyprus - France  0-7   @ Limassol, Cyprus
-     -; Bernard Lacombe 4' Michel Platini 14' Michel Platini 23' Jean-François Larios 40' (pen.) Jean-François Larios 76' (pen.) Didier Six 82' Jacques Zimako 87'
-  Luxembourg - Italy  0-2   @ Luxembourg, Luxembourg
-     -; Fulvio Collovati 33' Roberto Bettega 77'
-[Sun Oct 12]
-  Cameroon - Zimbabwe  2-0   @ Douala, Cameroon
-     Jean Manga Onguéné 80' Grégoire M'Bida 85'
-[Wed Oct 15]
-  Denmark - Greece  0-1   @ Copenhagen, Denmark
-     -; Dinos Kouis 50'
-  Republic of Ireland - Belgium  1-1   @ Dublin, Republic of Ireland
-     Tony Grealish 42';
-     Albert Cluytens 13'
-  Northern Ireland - Sweden  3-0   @ Belfast, Northern Ireland
-     Noel Brotherston 24' Sammy McIlroy 28' Jimmy Nicholl 37'
-  Romania - England  2-1   @ Bucharest, Romania
-     Marcel Răducanu 35' Anghel Iordănescu 75' (pen.);
-     Tony Woodcock 64'
-  Russia - Iceland  5-0   @ Moscow, Soviet Union
-     Sergey Andreyev 9' Khoren Oganesian 39' Khoren Oganesian 58' Sergey Andreyev 78' Volodymyr Bezsonov 84'
-  Scotland - Portugal  0-0   @ Glasgow, Scotland
-  Wales - Turkey  4-0   @ Cardiff, Wales
-     Brian Flynn 19' Leighton James 37' (pen.) Ian Walsh 79' Leighton James 85'
-[Sun Oct 19]
-  Bulgaria - Albania  2-1   @ Sofia, Bulgaria
-     Andrey Zhelyazkov 14' Georgi Slavkov 51';
-     Ilir Përnaska 69'
-[Tue Oct 28]
-  France - Republic of Ireland  2-0   @ Paris, France
-     Michel Platini 11' Jacques Zimako 77'
-[Wed Oct 29]
-  Switzerland - Norway  1-2   @ Bern, Switzerland
-     Umberto Barberis 49';
-     Åge Hareide 5' Svein Mathisen 79'
-[Sat Nov 1]
-  Italy - Denmark  2-0   @ Rome, Italy
-     Francesco Graziani 7' Francesco Graziani 51'
-[Wed Nov 12]
-  Israel - Sweden  0-0   @ Ramat Gan, Israel
-[Sat Nov 15]
-  Austria - Albania  5-0   @ Vienna, Austria
-     Bruno Pezzey 20' Walter Schachner 26' Walter Schachner 35' Kurt Welzl 57' Hans Krankl 85'
-  Italy - Yugoslavia  2-0   @ Turin, Italy
-     Antonio Cabrini 40' (pen.) Bruno Conti 75'
-[Sun Nov 16]
-  Madagascar - DR Congo  1-1   @ Antananarivo, Madagascar
-     Michel Kira 26';
-     Imowa Malgbanga 74'
-  Morocco - Zambia  2-0   @ Fez, Morocco
-     Mohamed Boussati 30' Ahmed Limane 34'
-  Zimbabwe - Cameroon  1-0   @ Harare, Zimbabwe
-     David Muchineripi 29'
-[Wed Nov 19]
-  Belgium - Netherlands  1-0   @ Brussels, Belgium
-     Erwin Vandenbergh 48' (pen.)
-  Denmark - Luxembourg  4-0   @ Copenhagen, Denmark
-     Frank Arnesen 13' Frank Arnesen 41' (pen.) Preben Elkjær 57' Allan Simonsen 71'
-  England - Switzerland  2-1   @ London, England
-     Markus Tanner 23' (o.g.) Paul Mariner 31';
-     Hans-Jörg Pfister 76'
-  Republic of Ireland - Cyprus  6-0   @ Dublin, Republic of Ireland
-     Gerry Daly 10' (pen.) Gerry Daly 23' Tony Grealish 24' Michael Robinson 28' Frank Stapleton 46' Chris Hughton 65'
-  Portugal - Northern Ireland  1-0   @ Lisbon, Portugal
-     Rui Jordão 60'
-  Wales - Czechoslovakia  1-0   @ Cardiff, Wales
-     David Giles 10'
-[Sun Nov 30]
-  Zambia - Morocco  2-0   @ Lusaka, Zambia   [Morocco wins on penalties]
-     Emmanuel Musonda 60' Bizwell Phiri 78'
-[Wed Dec 3]
-  Bulgaria - Germany  1-3   @ Sofia, Bulgaria
-     Tsvetan Yonchev 66';
-     Manfred Kaltz 14' Manfred Kaltz 36' (pen.) Karl-Heinz Rummenigge 54'
-  Czechoslovakia - Turkey  2-0   @ Prague, Czechoslovakia
-     Zdeněk Nehoda 13' Zdeněk Nehoda 15'
-[Sat Dec 6]
-  Albania - Austria  0-1   @ Tirana, Albania
-     -; Kurt Welzl 38'
-  Greece - Italy  0-2   @ Athens, Greece
-     -; Giancarlo Antognoni 10' Gaetano Scirea 81'
-  Nigeria - Tanzania  1-1   @ Lagos, Nigeria
-     Mudashiru Lawal 29';
-     Mohammed Salim 85'
-[Sun Dec 7]
-  Liberia - Guinea  0-0   @ Monrovia, Liberia
-  Malta - Poland  0-2   @ Gżira, Malta
-     -; Włodzimierz Smolarek 55' Leszek Lipka 75'
-[Fri Dec 12]
-  Algeria - Sudan  2-0   @ Constantine, Algeria
-     Tedj Bensaoula 9' Ali Fergani 45'
-[Sun Dec 14]
-  Niger - Togo  0-1   @ Niamey, Niger
-     -; Djogou Akoulassi 53'
-[Wed Dec 17]
-  Portugal - Israel  3-0   @ Lisbon, Portugal
-     Humberto Coelho 33' Rui Jordão 36' Humberto Coelho 72'
-[Sat Dec 20]
-  Tanzania - Nigeria  0-2   @ Dar es Salaam, Tanzania
-     -; John Chiedozie 5' Christian M'Wokozhi 79'
-[Sun Dec 21]
-  DR Congo - Madagascar  3-2   @ Kinshasa, Zaïre
-     M'Peti Suzeti 1' Ayel Mayélé 26' Imowa Malgbanga 75';
-     Kuliwa Tshikalu 19' (o.g.) Abdou Bin Amidou 39'
-  Cyprus - Belgium  0-2   @ Nicosia, Cyprus
-     -; Erwin Vandenbergh 30' Jan Ceulemans 68'
-  Guinea - Liberia  1-0   @ Conakry, Guinea
-     Seydouba Bangoura 55'
-  Hong Kong - China PR  0-1   @ So Kon Po, Hong Kong
-     -; Chen Jingang 89'
-[Mon Dec 22]
-  North Korea - Macau  3-0   @ So Kon Po, Hong Kong
-     Li Yong-Sob 34' Li Chang-Ha 41' Kim Yong-Nam 87'
-  Singapore - Japan  0-1   @ So Kon Po, Hong Kong
-     -; Kazushi Kimura 20'
-[Wed Dec 24]
-  China PR - Macau  3-0   @ So Kon Po, Hong Kong
-     Gu Guangming 17' Zuo Shusheng 20' Rong Zhixing 59'
-  Hong Kong - Singapore  1-1   @ So Kon Po, Hong Kong
-     Choi York Yee 55';
-     Thasmbiayah Pathmanathan 87'
-[Fri Dec 26]
-  China PR - Japan  1-0   @ So Kon Po, Hong Kong
-     Rong Zhixing 7'
-  Singapore - North Korea  0-1   @ So Kon Po, Hong Kong
-     -; Li Yong-Sob 7'
-[Sun Dec 28]
-  Hong Kong - North Korea  2-2   @ So Kon Po, Hong Kong
-     Wan Chi Keung 40' Wu Kwok Hung 62';
-     Li Yong-Man 3' Li Yong-Sob 25'
-  Japan - Macau  3-0   @ So Kon Po, Hong Kong
-     Kazushi Kimura 68' Hideki Maeda 80' (pen.) Haruhisa Hasegawa 88'
-  Sudan - Algeria  1-1   @ Khartoum, Sudan
-     Abu Obeida Adam 82';
-     Rabah Gamouh 67'
-  Togo - Niger  1-2   @ Lomé, Togo
-     Saibi Eklou Dodji 79';
-     Bernard Akue Adovi 57' Mamane Ali 82'
-[Tue Dec 30]
-  North Korea - Japan  1-0   @ So Kon Po, Hong Kong
-     Kim Yong-Nam 114'
-[Wed Dec 31]
-  Hong Kong - China PR  0-0   @ So Kon Po, Hong Kong   [China PR wins on penalties]
+Wed Mar 26
+  Cyprus               v Republic of Ireland   2-3   @ Nicosia, Cyprus
+     (Nikos Pantziaras 29' Sotiris Kaiafas 74'(p);
+      Paul McGee 8' Mark Lawrenson 23' Paul McGee 38')
+  Israel               v Northern Ireland      0-0   @ Ramat Gan, Israel
+Thu May 8
+  Libya                v Gambia                2-1   @ Tripoli, Libya
+     (Abubaker Bani ??' Rashid Mohammed Rashid ??';
+      Assan Sarr ??')
+Sun May 18
+  Ethiopia             v Zambia                0-0   @ Addis Ababa, Ethiopia
+Sat May 31
+  Sierra Leone         v Algeria               2-2   @ Freetown, Sierra Leone
+     (Akie Noah 58' Ismael Dyfan 60';
+      Tedj Bensaoula 72' Lakhdar Belloumi 85')
+Sun Jun 1
+  Zambia               v Ethiopia              4-0   @ Ndola, Zambia
+     (Alex Chola 4' Godfrey Chitalu 16' Pele Kaimana 69' Godfrey Chitalu 89')
+Mon Jun 2
+  Iceland              v Wales                 0-4   @ Reykjavík, Iceland
+     (Ian Walsh 45' David Giles 53' Brian Flynn 61'(p) Ian Walsh 75')
+Wed Jun 4
+  Finland              v Bulgaria              0-2   @ Helsinki, Finland
+     (Plamen Markov 28' Kostadin Kostadinov 81')
+Fri Jun 13
+  Algeria              v Sierra Leone          3-1   @ Oran, Algeria
+     (Ali Fergani 42' Tedj Bensaoula 47' Rabah Madjer 78';
+      Sentu Johnson 79')
+Wed Jun 18
+  Sweden               v Israel                1-1   @ Solna, Sweden
+     (Sten-Ove Ramberg 35';
+      Gidi Damti 80')
+Sun Jun 22
+  Guinea               v Lesotho               3-1   @ Conakry, Guinea
+     (Mory Koné 39' Naby Laye Camara 52'(p) Amara Touré 82';
+      Sele Leboela 44')
+  Senegal              v Morocco               0-1   @ Dakar, Senegal
+     (Mohamed Timoumi 21')
+Sun Jun 29
+  Cameroon             v Malawi                3-0   @ Yaoundé, Cameroon
+     (Roger Milla 35' Emmanuel Kundé 54' Théophile Abega 59')
+  Tunisia              v Nigeria               2-0   @ Tunis, Tunisia
+     (Néjib Liman 31' Témime Lahzami 52')
+Sat Jul 5
+  Kenya                v Tanzania              3-1   @ Nairobi, Kenya
+     (Elly Adero 30' Sammy Owino 57' Sammy Owino 80'(p);
+      Thuwein Ali ??')
+Sun Jul 6
+  Gambia               v Libya                 0-0   @ Banjul, Gambia
+  Lesotho              v Guinea                1-1   @ Maseru, Lesotho
+     (Teboho Masia 65';
+      Amara Touré 33')
+  Morocco              v Senegal               0-0   @ Casablanca, Morocco
+Sat Jul 12
+  Nigeria              v Tunisia               2-0   @ Lagos, Nigeria   [Nigeria wins on penalties]
+     (Leotis Boateng 11' Emmanuel Osigwe 74')
+Sun Jul 13
+  DR Congo             v Mozambique            5-2   @ Kinshasa, Zaïre
+     (Kiyika Tokodi 30'(p) Muteba N'Daye 67' Kiyika Tokodi 82'(p) Masengo Ilunga 85' Muteba N'Daye 87';
+      Gil Guiambe 23' Gil Guiambe 50')
+Wed Jul 16
+  Niger                v Somalia               0-0   @ Niamey, Niger
+Sat Jul 19
+  Tanzania             v Kenya                 5-0   @ Dar es Salaam, Tanzania
+     (Peter Tino 44' Peter Tino 70' Mohammed Adolf Rishard 70' Thuwein Ali 72' Thuwein Ali 80')
+Sun Jul 20
+  Malawi               v Cameroon              1-1   @ Blantyre, Malawi
+     (Stock Dandize 71';
+      Jean Manga Onguéné 70')
+Sun Jul 27
+  Mozambique           v DR Congo              1-2   @ Maputo, Mozambique
+     (Francisco Rui Marcos 55'(p);
+      Muteba N'Daye 15' Ayel Mayélé 17')
+  Somalia              v Niger                 1-1   @ Mogadishu, Somalia
+     (Ismail Mohammed Sharif 90';
+      Moussa Kanfideni 30')
+Wed Sep 3
+  Albania              v Finland               2-0   @ Tirana, Albania
+     (Sefedin Braho 2' Millan Baçi 18')
+  Iceland              v Russia                1-2   @ Reykjavík, Iceland
+     (Árni Sveinsson 75';
+      Yuri Gavrilov 35' Sergey Andreyev 80')
+Wed Sep 10
+  England              v Norway                4-0   @ London, England
+     (Terry McDermott 37' Tony Woodcock 69' Terry McDermott 78' Paul Mariner 85')
+  Republic of Ireland  v Netherlands           2-1   @ Dublin, Republic of Ireland
+     (Gerry Daly 78' Mark Lawrenson 85';
+      Simon Tahamata 57')
+  Luxembourg           v Yugoslavia            0-5   @ Luxembourg, Luxembourg
+     (Safet Sušić 50' Zlatko Vujović 64' Vladimir Petrović 70' Zlatko Vujović 81' Ivan Buljan 90')
+  Sweden               v Scotland              0-1   @ Solna, Sweden
+     (Gordon Strachan 72')
+Wed Sep 24
+  Finland              v Austria               0-2   @ Helsinki, Finland
+     (Kurt Jara 13' Kurt Welzl 77')
+  Norway               v Romania               1-1   @ Oslo, Norway
+     (Åge Hareide 23';
+      Anghel Iordănescu 10')
+  Turkey               v Iceland               1-3   @ İzmir, Turkey
+     (Fatih Terim 72'(p);
+      Janus Guðlaugsson 12' Albert Guðmundsson 62' Teitur Þórðarson 80')
+Sat Sep 27
+  Yugoslavia           v Denmark               2-1   @ Ljubljana, Yugoslavia
+     (Dragan Pantelić 18'(p) Zoran Vujović 37';
+      Frank Arnesen 5'(p))
+Sat Oct 11
+  Cyprus               v France                0-7   @ Limassol, Cyprus
+     (Bernard Lacombe 4' Michel Platini 14' Michel Platini 23' Jean-François Larios 40'(p) Jean-François Larios 76'(p) Didier Six 82' Jacques Zimako 87')
+  Luxembourg           v Italy                 0-2   @ Luxembourg, Luxembourg
+     (Fulvio Collovati 33' Roberto Bettega 77')
+Sun Oct 12
+  Cameroon             v Zimbabwe              2-0   @ Douala, Cameroon
+     (Jean Manga Onguéné 80' Grégoire M'Bida 85')
+Wed Oct 15
+  Denmark              v Greece                0-1   @ Copenhagen, Denmark
+     (Dinos Kouis 50')
+  Republic of Ireland  v Belgium               1-1   @ Dublin, Republic of Ireland
+     (Tony Grealish 42';
+      Albert Cluytens 13')
+  Northern Ireland     v Sweden                3-0   @ Belfast, Northern Ireland
+     (Noel Brotherston 24' Sammy McIlroy 28' Jimmy Nicholl 37')
+  Romania              v England               2-1   @ Bucharest, Romania
+     (Marcel Răducanu 35' Anghel Iordănescu 75'(p);
+      Tony Woodcock 64')
+  Russia               v Iceland               5-0   @ Moscow, Soviet Union
+     (Sergey Andreyev 9' Khoren Oganesian 39' Khoren Oganesian 58' Sergey Andreyev 78' Volodymyr Bezsonov 84')
+  Scotland             v Portugal              0-0   @ Glasgow, Scotland
+  Wales                v Turkey                4-0   @ Cardiff, Wales
+     (Brian Flynn 19' Leighton James 37'(p) Ian Walsh 79' Leighton James 85')
+Sun Oct 19
+  Bulgaria             v Albania               2-1   @ Sofia, Bulgaria
+     (Andrey Zhelyazkov 14' Georgi Slavkov 51';
+      Ilir Përnaska 69')
+Tue Oct 28
+  France               v Republic of Ireland   2-0   @ Paris, France
+     (Michel Platini 11' Jacques Zimako 77')
+Wed Oct 29
+  Switzerland          v Norway                1-2   @ Bern, Switzerland
+     (Umberto Barberis 49';
+      Åge Hareide 5' Svein Mathisen 79')
+Sat Nov 1
+  Italy                v Denmark               2-0   @ Rome, Italy
+     (Francesco Graziani 7' Francesco Graziani 51')
+Wed Nov 12
+  Israel               v Sweden                0-0   @ Ramat Gan, Israel
+Sat Nov 15
+  Austria              v Albania               5-0   @ Vienna, Austria
+     (Bruno Pezzey 20' Walter Schachner 26' Walter Schachner 35' Kurt Welzl 57' Hans Krankl 85')
+  Italy                v Yugoslavia            2-0   @ Turin, Italy
+     (Antonio Cabrini 40'(p) Bruno Conti 75')
+Sun Nov 16
+  Madagascar           v DR Congo              1-1   @ Antananarivo, Madagascar
+     (Michel Kira 26';
+      Imowa Malgbanga 74')
+  Morocco              v Zambia                2-0   @ Fez, Morocco
+     (Mohamed Boussati 30' Ahmed Limane 34')
+  Zimbabwe             v Cameroon              1-0   @ Harare, Zimbabwe
+     (David Muchineripi 29')
+Wed Nov 19
+  Belgium              v Netherlands           1-0   @ Brussels, Belgium
+     (Erwin Vandenbergh 48'(p))
+  Denmark              v Luxembourg            4-0   @ Copenhagen, Denmark
+     (Frank Arnesen 13' Frank Arnesen 41'(p) Preben Elkjær 57' Allan Simonsen 71')
+  England              v Switzerland           2-1   @ London, England
+     (Markus Tanner 23'(og) Paul Mariner 31';
+      Hans-Jörg Pfister 76')
+  Republic of Ireland  v Cyprus                6-0   @ Dublin, Republic of Ireland
+     (Gerry Daly 10'(p) Gerry Daly 23' Tony Grealish 24' Michael Robinson 28' Frank Stapleton 46' Chris Hughton 65')
+  Portugal             v Northern Ireland      1-0   @ Lisbon, Portugal
+     (Rui Jordão 60')
+  Wales                v Czechoslovakia        1-0   @ Cardiff, Wales
+     (David Giles 10')
+Sun Nov 30
+  Zambia               v Morocco               2-0   @ Lusaka, Zambia   [Morocco wins on penalties]
+     (Emmanuel Musonda 60' Bizwell Phiri 78')
+Wed Dec 3
+  Bulgaria             v Germany               1-3   @ Sofia, Bulgaria
+     (Tsvetan Yonchev 66';
+      Manfred Kaltz 14' Manfred Kaltz 36'(p) Karl-Heinz Rummenigge 54')
+  Czechoslovakia       v Turkey                2-0   @ Prague, Czechoslovakia
+     (Zdeněk Nehoda 13' Zdeněk Nehoda 15')
+Sat Dec 6
+  Albania              v Austria               0-1   @ Tirana, Albania
+     (Kurt Welzl 38')
+  Greece               v Italy                 0-2   @ Athens, Greece
+     (Giancarlo Antognoni 10' Gaetano Scirea 81')
+  Nigeria              v Tanzania              1-1   @ Lagos, Nigeria
+     (Mudashiru Lawal 29';
+      Mohammed Salim 85')
+Sun Dec 7
+  Liberia              v Guinea                0-0   @ Monrovia, Liberia
+  Malta                v Poland                0-2   @ Gżira, Malta
+     (Włodzimierz Smolarek 55' Leszek Lipka 75')
+Fri Dec 12
+  Algeria              v Sudan                 2-0   @ Constantine, Algeria
+     (Tedj Bensaoula 9' Ali Fergani 45')
+Sun Dec 14
+  Niger                v Togo                  0-1   @ Niamey, Niger
+     (Djogou Akoulassi 53')
+Wed Dec 17
+  Portugal             v Israel                3-0   @ Lisbon, Portugal
+     (Humberto Coelho 33' Rui Jordão 36' Humberto Coelho 72')
+Sat Dec 20
+  Tanzania             v Nigeria               0-2   @ Dar es Salaam, Tanzania
+     (John Chiedozie 5' Christian M'Wokozhi 79')
+Sun Dec 21
+  DR Congo             v Madagascar            3-2   @ Kinshasa, Zaïre
+     (M'Peti Suzeti 1' Ayel Mayélé 26' Imowa Malgbanga 75';
+      Kuliwa Tshikalu 19'(og) Abdou Bin Amidou 39')
+  Cyprus               v Belgium               0-2   @ Nicosia, Cyprus
+     (Erwin Vandenbergh 30' Jan Ceulemans 68')
+  Guinea               v Liberia               1-0   @ Conakry, Guinea
+     (Seydouba Bangoura 55')
+  Hong Kong            v China PR              0-1   @ So Kon Po, Hong Kong
+     (Chen Jingang 89')
+Mon Dec 22
+  North Korea          v Macau                 3-0   @ So Kon Po, Hong Kong
+     (Li Yong-Sob 34' Li Chang-Ha 41' Kim Yong-Nam 87')
+  Singapore            v Japan                 0-1   @ So Kon Po, Hong Kong
+     (Kazushi Kimura 20')
+Wed Dec 24
+  China PR             v Macau                 3-0   @ So Kon Po, Hong Kong
+     (Gu Guangming 17' Zuo Shusheng 20' Rong Zhixing 59')
+  Hong Kong            v Singapore             1-1   @ So Kon Po, Hong Kong
+     (Choi York Yee 55';
+      Thasmbiayah Pathmanathan 87')
+Fri Dec 26
+  China PR             v Japan                 1-0   @ So Kon Po, Hong Kong
+     (Rong Zhixing 7')
+  Singapore            v North Korea           0-1   @ So Kon Po, Hong Kong
+     (Li Yong-Sob 7')
+Sun Dec 28
+  Hong Kong            v North Korea           2-2   @ So Kon Po, Hong Kong
+     (Wan Chi Keung 40' Wu Kwok Hung 62';
+      Li Yong-Man 3' Li Yong-Sob 25')
+  Japan                v Macau                 3-0   @ So Kon Po, Hong Kong
+     (Kazushi Kimura 68' Hideki Maeda 80'(p) Haruhisa Hasegawa 88')
+  Sudan                v Algeria               1-1   @ Khartoum, Sudan
+     (Abu Obeida Adam 82';
+      Rabah Gamouh 67')
+  Togo                 v Niger                 1-2   @ Lomé, Togo
+     (Saibi Eklou Dodji 79';
+      Bernard Akue Adovi 57' Mamane Ali 82')
+Tue Dec 30
+  North Korea          v Japan                 1-0   @ So Kon Po, Hong Kong
+     (Kim Yong-Nam 114')
+Wed Dec 31
+  Hong Kong            v China PR              0-0   @ So Kon Po, Hong Kong   [China PR wins on penalties]
 

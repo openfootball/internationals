@@ -1,86 +1,86 @@
 = Copa América 1979
 
-# Date       Wed Jul/18 - Tue Dec/11 1979 (146d)
+# Date       Wed Jul 18 - Tue Dec 11 1979 (146d)
 # Teams      10
 # Matches    25
 
-[Wed Jul 18]
-  Bolivia - Argentina  2-1   @ La Paz, Bolivia
-     Jesús Reynaldo 29' Jesús Reynaldo 66';
-     Carlos Ángel López 5'
-[Thu Jul 26]
-  Bolivia - Brazil  2-1   @ La Paz, Bolivia
-     Carlos Aragonés 36' (pen.) Carlos Aragonés 73';
-     Roberto Dinamite 30' (pen.)
-[Wed Aug 1]
-  Venezuela - Colombia  0-0   @ San Cristóbal, Venezuela
-[Thu Aug 2]
-  Brazil - Argentina  2-1   @ Rio de Janeiro, Brazil
-     Zico 2' Tita 54';
-     Hugo Coscia 29'
-[Wed Aug 8]
-  Argentina - Bolivia  3-0   @ Buenos Aires, Argentina
-     Daniel Passarella 1' Jorge Gáspari 15' Diego Maradona 65'
-  Venezuela - Chile  1-1   @ San Cristóbal, Venezuela
-     Rodolfo Carvajal 70';
-     Jorge Peredo 81'
-[Wed Aug 15]
-  Colombia - Chile  1-0   @ Bogotá, Colombia
-     Ernesto Díaz 21'
-[Thu Aug 16]
-  Brazil - Bolivia  2-0   @ São Paulo, Brazil
-     Tita 46' Zico 90'
-[Wed Aug 22]
-  Colombia - Venezuela  4-0   @ Bogotá, Colombia
-     Arnoldo Iguarán 17' Alex Valverde 53' José Gabriel Chaparro 59' Jaime Morón 86'
-[Thu Aug 23]
-  Argentina - Brazil  2-2   @ Buenos Aires, Argentina
-     Daniel Passarella 38' Roberto Osvaldo Díaz 71';
-     Sócrates 17' Sócrates 65' (pen.)
-[Wed Aug 29]
-  Chile - Venezuela  7-0   @ Santiago, Chile
-     Jorge Peredo 3' Leonardo Véliz 31' Carlos Rivas 38' Carlos Rivas 54' (pen.) Jorge Peredo 59' Mario Soto 80' Patricio Yáñez 84'
-  Ecuador - Paraguay  1-2   @ Quito, Ecuador
-     Carlos Torres Garcés 64' (pen.);
-     Hugo Talavera 22' Alicio Solalinde 77'
-[Wed Sep 5]
-  Chile - Colombia  2-0   @ Santiago, Chile
-     Carlos Caszely 14' Jorge Peredo 58'
-  Ecuador - Uruguay  2-1   @ Quito, Ecuador
-     Mario Tenorio 6' Jorge Luis Alarcón 9';
-     Waldemar Victorino 79' (pen.)
-[Thu Sep 13]
-  Paraguay - Ecuador  2-0   @ Asunción, Paraguay
-     Eugenio Morel 27' Juvencio Osorio 48'
-[Sun Sep 16]
-  Uruguay - Ecuador  2-1   @ Montevideo, Uruguay
-     Alberto Bica 4' Waldemar Victorino 57';
-     Fausto Klinger 77'
-[Thu Sep 20]
-  Paraguay - Uruguay  0-0   @ Asunción, Paraguay
-[Wed Sep 26]
-  Uruguay - Paraguay  2-2   @ Montevideo, Uruguay
-     Denís Milar 54' (pen.) Rubén Paz 83';
-     Eugenio Morel 34' Eugenio Morel 88'
-[Wed Oct 17]
-  Peru - Chile  1-2   @ Lima, Peru
-     Roberto Mosquera 71';
-     Carlos Caszely 36' Carlos Caszely 76'
-[Wed Oct 24]
-  Chile - Peru  0-0   @ Santiago, Chile
-  Paraguay - Brazil  2-1   @ Asunción, Paraguay
-     Eugenio Morel 16' Hugo Talavera 35';
-     Palhinha 79'
-[Wed Oct 31]
-  Brazil - Paraguay  2-2   @ Rio de Janeiro, Brazil
-     Paulo Roberto Falcão 29' Sócrates 61' (pen.);
-     Milciades Morel 31' Julio César Romero 68'
-[Wed Nov 28]
-  Paraguay - Chile  3-0   @ Asunción, Paraguay
-     Julio César Romero 12' Milciades Morel 36' Julio César Romero 85'
-[Wed Dec 5]
-  Chile - Paraguay  1-0   @ Santiago, Chile
-     Carlos Rivas 10'
-[Tue Dec 11]
-  Chile - Paraguay  0-0   @ Buenos Aires, Argentina
+Wed Jul 18
+  Bolivia              v Argentina             2-1   @ La Paz, Bolivia
+     (Jesús Reynaldo 29' Jesús Reynaldo 66';
+      Carlos Ángel López 5')
+Thu Jul 26
+  Bolivia              v Brazil                2-1   @ La Paz, Bolivia
+     (Carlos Aragonés 36'(p) Carlos Aragonés 73';
+      Roberto Dinamite 30'(p))
+Wed Aug 1
+  Venezuela            v Colombia              0-0   @ San Cristóbal, Venezuela
+Thu Aug 2
+  Brazil               v Argentina             2-1   @ Rio de Janeiro, Brazil
+     (Zico 2' Tita 54';
+      Hugo Coscia 29')
+Wed Aug 8
+  Argentina            v Bolivia               3-0   @ Buenos Aires, Argentina
+     (Daniel Passarella 1' Jorge Gáspari 15' Diego Maradona 65')
+  Venezuela            v Chile                 1-1   @ San Cristóbal, Venezuela
+     (Rodolfo Carvajal 70';
+      Jorge Peredo 81')
+Wed Aug 15
+  Colombia             v Chile                 1-0   @ Bogotá, Colombia
+     (Ernesto Díaz 21')
+Thu Aug 16
+  Brazil               v Bolivia               2-0   @ São Paulo, Brazil
+     (Tita 46' Zico 90')
+Wed Aug 22
+  Colombia             v Venezuela             4-0   @ Bogotá, Colombia
+     (Arnoldo Iguarán 17' Alex Valverde 53' José Gabriel Chaparro 59' Jaime Morón 86')
+Thu Aug 23
+  Argentina            v Brazil                2-2   @ Buenos Aires, Argentina
+     (Daniel Passarella 38' Roberto Osvaldo Díaz 71';
+      Sócrates 17' Sócrates 65'(p))
+Wed Aug 29
+  Chile                v Venezuela             7-0   @ Santiago, Chile
+     (Jorge Peredo 3' Leonardo Véliz 31' Carlos Rivas 38' Carlos Rivas 54'(p) Jorge Peredo 59' Mario Soto 80' Patricio Yáñez 84')
+  Ecuador              v Paraguay              1-2   @ Quito, Ecuador
+     (Carlos Torres Garcés 64'(p);
+      Hugo Talavera 22' Alicio Solalinde 77')
+Wed Sep 5
+  Chile                v Colombia              2-0   @ Santiago, Chile
+     (Carlos Caszely 14' Jorge Peredo 58')
+  Ecuador              v Uruguay               2-1   @ Quito, Ecuador
+     (Mario Tenorio 6' Jorge Luis Alarcón 9';
+      Waldemar Victorino 79'(p))
+Thu Sep 13
+  Paraguay             v Ecuador               2-0   @ Asunción, Paraguay
+     (Eugenio Morel 27' Juvencio Osorio 48')
+Sun Sep 16
+  Uruguay              v Ecuador               2-1   @ Montevideo, Uruguay
+     (Alberto Bica 4' Waldemar Victorino 57';
+      Fausto Klinger 77')
+Thu Sep 20
+  Paraguay             v Uruguay               0-0   @ Asunción, Paraguay
+Wed Sep 26
+  Uruguay              v Paraguay              2-2   @ Montevideo, Uruguay
+     (Denís Milar 54'(p) Rubén Paz 83';
+      Eugenio Morel 34' Eugenio Morel 88')
+Wed Oct 17
+  Peru                 v Chile                 1-2   @ Lima, Peru
+     (Roberto Mosquera 71';
+      Carlos Caszely 36' Carlos Caszely 76')
+Wed Oct 24
+  Chile                v Peru                  0-0   @ Santiago, Chile
+  Paraguay             v Brazil                2-1   @ Asunción, Paraguay
+     (Eugenio Morel 16' Hugo Talavera 35';
+      Palhinha 79')
+Wed Oct 31
+  Brazil               v Paraguay              2-2   @ Rio de Janeiro, Brazil
+     (Paulo Roberto Falcão 29' Sócrates 61'(p);
+      Milciades Morel 31' Julio César Romero 68')
+Wed Nov 28
+  Paraguay             v Chile                 3-0   @ Asunción, Paraguay
+     (Julio César Romero 12' Milciades Morel 36' Julio César Romero 85')
+Wed Dec 5
+  Chile                v Paraguay              1-0   @ Santiago, Chile
+     (Carlos Rivas 10')
+Tue Dec 11
+  Chile                v Paraguay              0-0   @ Buenos Aires, Argentina
 

@@ -1,36 +1,36 @@
 = FIFA Series 2024
 
-# Date       Thu Mar/21 - Tue Mar/26 2024 (5d)
+# Date       Thu Mar 21 - Tue Mar 26 2024 (5d)
 # Teams      24
 # Matches    24
 
-[Thu Mar 21]
-  South Africa - Andorra  1-1   @ Annaba, Algeria
-  Cape Verde - Guyana  1-0   @ Jeddah, Saudi Arabia
-  Guinea - Vanuatu  6-0   @ Jeddah, Saudi Arabia
-[Fri Mar 22]
-  Algeria - Bolivia  3-2   @ Algiers, Algeria
-  Azerbaijan - Mongolia  1-0   @ Baku, Azerbaijan
-  Bulgaria - Tanzania  1-0   @ Baku, Azerbaijan
-  Egypt - New Zealand  1-0   @ Cairo, Egypt
-  Equatorial Guinea - Cambodia  2-0   @ Jeddah, Saudi Arabia
-  Brunei - Bermuda  0-2   @ Jeddah, Saudi Arabia
-  Central African Republic - Bhutan  6-0   @ Colombo, Sri Lanka
-  Sri Lanka - Papua New Guinea  0-0   @ Colombo, Sri Lanka
-[Sat Mar 23]
-  Tunisia - Croatia  0-0   @ Cairo, Egypt   [Croatia wins on penalties]
-[Mon Mar 25]
-  Bolivia - Andorra  1-0   @ Annaba, Algeria
-  Azerbaijan - Bulgaria  1-1   @ Baku, Azerbaijan
-  Tanzania - Mongolia  3-0   @ Baku, Azerbaijan
-  Cape Verde - Equatorial Guinea  1-0   @ Jeddah, Saudi Arabia
-  Bermuda - Guinea  1-5   @ Jeddah, Saudi Arabia
-  Central African Republic - Papua New Guinea  4-0   @ Colombo, Sri Lanka
-  Sri Lanka - Bhutan  2-0   @ Colombo, Sri Lanka
-[Tue Mar 26]
-  Algeria - South Africa  3-3   @ Algiers, Algeria
-  Egypt - Croatia  2-4   @ Cairo, Egypt
-  New Zealand - Tunisia  0-0   @ Cairo, Egypt   [Tunisia wins on penalties]
-  Cambodia - Guyana  1-4   @ Jeddah, Saudi Arabia
-  Brunei - Vanuatu  3-2   @ Jeddah, Saudi Arabia
+Thu Mar 21
+  South Africa         v Andorra               1-1   @ Annaba, Algeria
+  Cape Verde           v Guyana                1-0   @ Jeddah, Saudi Arabia
+  Guinea               v Vanuatu               6-0   @ Jeddah, Saudi Arabia
+Fri Mar 22
+  Algeria              v Bolivia               3-2   @ Algiers, Algeria
+  Azerbaijan           v Mongolia              1-0   @ Baku, Azerbaijan
+  Bulgaria             v Tanzania              1-0   @ Baku, Azerbaijan
+  Egypt                v New Zealand           1-0   @ Cairo, Egypt
+  Equatorial Guinea    v Cambodia              2-0   @ Jeddah, Saudi Arabia
+  Brunei               v Bermuda               0-2   @ Jeddah, Saudi Arabia
+  Central African Republic v Bhutan                6-0   @ Colombo, Sri Lanka
+  Sri Lanka            v Papua New Guinea      0-0   @ Colombo, Sri Lanka
+Sat Mar 23
+  Tunisia              v Croatia               0-0   @ Cairo, Egypt   [Croatia wins on penalties]
+Mon Mar 25
+  Bolivia              v Andorra               1-0   @ Annaba, Algeria
+  Azerbaijan           v Bulgaria              1-1   @ Baku, Azerbaijan
+  Tanzania             v Mongolia              3-0   @ Baku, Azerbaijan
+  Cape Verde           v Equatorial Guinea     1-0   @ Jeddah, Saudi Arabia
+  Bermuda              v Guinea                1-5   @ Jeddah, Saudi Arabia
+  Central African Republic v Papua New Guinea      4-0   @ Colombo, Sri Lanka
+  Sri Lanka            v Bhutan                2-0   @ Colombo, Sri Lanka
+Tue Mar 26
+  Algeria              v South Africa          3-3   @ Algiers, Algeria
+  Egypt                v Croatia               2-4   @ Cairo, Egypt
+  New Zealand          v Tunisia               0-0   @ Cairo, Egypt   [Tunisia wins on penalties]
+  Cambodia             v Guyana                1-4   @ Jeddah, Saudi Arabia
+  Brunei               v Vanuatu               3-2   @ Jeddah, Saudi Arabia
 

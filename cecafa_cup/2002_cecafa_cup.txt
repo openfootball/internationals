@@ -1,44 +1,44 @@
 = CECAFA Cup 2002
 
-# Date       Sat Nov/30 - Sat Dec/14 2002 (14d)
+# Date       Sat Nov 30 - Sat Dec 14 2002 (14d)
 # Teams      10
 # Matches    24
 
-[Sat Nov 30]
-  Rwanda - Zanzibar  1-0   @ Arusha, Tanzania
-  Tanzania - Kenya  1-0   @ Mwanza, Tanzania
-[Sun Dec 1]
-  Burundi - Eritrea  1-1   @ Mwanza, Tanzania
-  Somalia - Uganda  0-2   @ Arusha, Tanzania
-[Mon Dec 2]
-  Ethiopia - Zanzibar  0-0   @ Arusha, Tanzania
-  Tanzania - Sudan  1-1   @ Mwanza, Tanzania
-[Tue Dec 3]
-  Kenya - Burundi  1-1   @ Mwanza, Tanzania
-  Somalia - Rwanda  0-1   @ Arusha, Tanzania
-[Wed Dec 4]
-  Eritrea - Sudan  2-1   @ Mwanza, Tanzania
-  Uganda - Ethiopia  3-0   @ Arusha, Tanzania
-[Thu Dec 5]
-  Tanzania - Burundi  2-0   @ Mwanza, Tanzania
-  Zanzibar - Somalia  1-0   @ Arusha, Tanzania
-[Fri Dec 6]
-  Kenya - Eritrea  4-1   @ Mwanza, Tanzania
-  Uganda - Rwanda  2-1   @ Arusha, Tanzania
-[Sat Dec 7]
-  Ethiopia - Somalia  0-1   @ Arusha, Tanzania
-  Sudan - Burundi  2-1   @ Mwanza, Tanzania
-[Sun Dec 8]
-  Tanzania - Eritrea  1-1   @ Mwanza, Tanzania
-  Zanzibar - Uganda  0-2   @ Arusha, Tanzania
-[Mon Dec 9]
-  Rwanda - Ethiopia  1-0   @ Arusha, Tanzania
-  Sudan - Kenya  0-1   @ Mwanza, Tanzania
-[Wed Dec 11]
-  Tanzania - Rwanda  3-0   @ Mwanza, Tanzania
-[Thu Dec 12]
-  Uganda - Kenya  1-3   @ Arusha, Tanzania
-[Sat Dec 14]
-  Rwanda - Uganda  2-1   @ Arusha, Tanzania
-  Tanzania - Kenya  2-3   @ Mwanza, Tanzania
+Sat Nov 30
+  Rwanda               v Zanzibar              1-0   @ Arusha, Tanzania
+  Tanzania             v Kenya                 1-0   @ Mwanza, Tanzania
+Sun Dec 1
+  Burundi              v Eritrea               1-1   @ Mwanza, Tanzania
+  Somalia              v Uganda                0-2   @ Arusha, Tanzania
+Mon Dec 2
+  Ethiopia             v Zanzibar              0-0   @ Arusha, Tanzania
+  Tanzania             v Sudan                 1-1   @ Mwanza, Tanzania
+Tue Dec 3
+  Kenya                v Burundi               1-1   @ Mwanza, Tanzania
+  Somalia              v Rwanda                0-1   @ Arusha, Tanzania
+Wed Dec 4
+  Eritrea              v Sudan                 2-1   @ Mwanza, Tanzania
+  Uganda               v Ethiopia              3-0   @ Arusha, Tanzania
+Thu Dec 5
+  Tanzania             v Burundi               2-0   @ Mwanza, Tanzania
+  Zanzibar             v Somalia               1-0   @ Arusha, Tanzania
+Fri Dec 6
+  Kenya                v Eritrea               4-1   @ Mwanza, Tanzania
+  Uganda               v Rwanda                2-1   @ Arusha, Tanzania
+Sat Dec 7
+  Ethiopia             v Somalia               0-1   @ Arusha, Tanzania
+  Sudan                v Burundi               2-1   @ Mwanza, Tanzania
+Sun Dec 8
+  Tanzania             v Eritrea               1-1   @ Mwanza, Tanzania
+  Zanzibar             v Uganda                0-2   @ Arusha, Tanzania
+Mon Dec 9
+  Rwanda               v Ethiopia              1-0   @ Arusha, Tanzania
+  Sudan                v Kenya                 0-1   @ Mwanza, Tanzania
+Wed Dec 11
+  Tanzania             v Rwanda                3-0   @ Mwanza, Tanzania
+Thu Dec 12
+  Uganda               v Kenya                 1-3   @ Arusha, Tanzania
+Sat Dec 14
+  Rwanda               v Uganda                2-1   @ Arusha, Tanzania
+  Tanzania             v Kenya                 2-3   @ Mwanza, Tanzania
 

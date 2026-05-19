@@ -1,51 +1,51 @@
 = CONCACAF Championship 1981
 
-# Date       Sun Nov/1 - Sun Nov/22 1981 (21d)
+# Date       Sun Nov 1 - Sun Nov 22 1981 (21d)
 # Teams      6
 # Matches    15
 
-[Sun Nov 1]
-  Mexico - Cuba  4-0   @ Tegucigalpa, Honduras
-     Ricardo Castro 18' Hugo Sánchez 43' Hugo Sánchez 50' Manuel Manzo 53'
-[Mon Nov 2]
-  Canada - El Salvador  1-0   @ Tegucigalpa, Honduras
-     Mike Stojanović 90'
-[Tue Nov 3]
-  Honduras - Haiti  4-0   @ Tegucigalpa, Honduras
-     David Buezo 35' Jorge Elvir Urquia 40' Eduardo Laing 64' José Roberto Figueroa 75'
-[Fri Nov 6]
-  Canada - Haiti  1-1   @ Tegucigalpa, Honduras
-     Mike Stojanović 50';
-     Gerald Romulas 34'
-  Mexico - El Salvador  0-1   @ Tegucigalpa, Honduras
-     -; Ever Hernández 81'
-[Sun Nov 8]
-  Honduras - Cuba  2-0   @ Tegucigalpa, Honduras
-     David Buezo 36' Anthony Costly 69'
-[Wed Nov 11]
-  Cuba - El Salvador  0-0   @ Tegucigalpa, Honduras
-  Haiti - Mexico  1-1   @ Tegucigalpa, Honduras
-     Daniel Cadet 47';
-     Hugo Sánchez 87'
-[Thu Nov 12]
-  Honduras - Canada  2-1   @ Tegucigalpa, Honduras
-     Carlos Orlando Caballero 12' José Roberto Figueroa 40';
-     Ian Bridge 19'
-[Sun Nov 15]
-  Haiti - Cuba  0-2   @ Tegucigalpa, Honduras
-     -; Frantz Mathieu 55' (o.g.) Ramón Núñez 90'
-  Mexico - Canada  1-1   @ Tegucigalpa, Honduras
-     Ricardo Castro 29';
-     Ian Bridge 57'
-[Mon Nov 16]
-  Honduras - El Salvador  0-0   @ Tegucigalpa, Honduras
-[Thu Nov 19]
-  El Salvador - Haiti  1-0   @ Tegucigalpa, Honduras
-     Norberto Huezo 18' (pen.)
-[Sat Nov 21]
-  Cuba - Canada  2-2   @ Tegucigalpa, Honduras
-     Ramón Núñez 2' Jorge Luis Rodríguez 74';
-     Wes McLeod 48' Bob Iarusci 84'
-[Sun Nov 22]
-  Honduras - Mexico  0-0   @ Tegucigalpa, Honduras
+Sun Nov 1
+  Mexico               v Cuba                  4-0   @ Tegucigalpa, Honduras
+     (Ricardo Castro 18' Hugo Sánchez 43' Hugo Sánchez 50' Manuel Manzo 53')
+Mon Nov 2
+  Canada               v El Salvador           1-0   @ Tegucigalpa, Honduras
+     (Mike Stojanović 90')
+Tue Nov 3
+  Honduras             v Haiti                 4-0   @ Tegucigalpa, Honduras
+     (David Buezo 35' Jorge Elvir Urquia 40' Eduardo Laing 64' José Roberto Figueroa 75')
+Fri Nov 6
+  Canada               v Haiti                 1-1   @ Tegucigalpa, Honduras
+     (Mike Stojanović 50';
+      Gerald Romulas 34')
+  Mexico               v El Salvador           0-1   @ Tegucigalpa, Honduras
+     (Ever Hernández 81')
+Sun Nov 8
+  Honduras             v Cuba                  2-0   @ Tegucigalpa, Honduras
+     (David Buezo 36' Anthony Costly 69')
+Wed Nov 11
+  Cuba                 v El Salvador           0-0   @ Tegucigalpa, Honduras
+  Haiti                v Mexico                1-1   @ Tegucigalpa, Honduras
+     (Daniel Cadet 47';
+      Hugo Sánchez 87')
+Thu Nov 12
+  Honduras             v Canada                2-1   @ Tegucigalpa, Honduras
+     (Carlos Orlando Caballero 12' José Roberto Figueroa 40';
+      Ian Bridge 19')
+Sun Nov 15
+  Haiti                v Cuba                  0-2   @ Tegucigalpa, Honduras
+     (Frantz Mathieu 55'(og) Ramón Núñez 90')
+  Mexico               v Canada                1-1   @ Tegucigalpa, Honduras
+     (Ricardo Castro 29';
+      Ian Bridge 57')
+Mon Nov 16
+  Honduras             v El Salvador           0-0   @ Tegucigalpa, Honduras
+Thu Nov 19
+  El Salvador          v Haiti                 1-0   @ Tegucigalpa, Honduras
+     (Norberto Huezo 18'(p))
+Sat Nov 21
+  Cuba                 v Canada                2-2   @ Tegucigalpa, Honduras
+     (Ramón Núñez 2' Jorge Luis Rodríguez 74';
+      Wes McLeod 48' Bob Iarusci 84')
+Sun Nov 22
+  Honduras             v Mexico                0-0   @ Tegucigalpa, Honduras
 

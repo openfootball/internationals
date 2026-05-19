@@ -1,31 +1,31 @@
 = Gulf Cup 2013
 
-# Date       Sat Jan/5 - Fri Jan/18 2013 (13d)
+# Date       Sat Jan 5 - Fri Jan 18 2013 (13d)
 # Teams      8
 # Matches    16
 
-[Sat Jan 5]
-  Bahrain - Oman  0-0   @ Riffa, Bahrain
-  Qatar - United Arab Emirates  1-3   @ Riffa, Bahrain
-[Sun Jan 6]
-  Kuwait - Yemen  2-0   @ Isa Town, Bahrain
-  Saudi Arabia - Iraq  0-2   @ Isa Town, Bahrain
-[Tue Jan 8]
-  Bahrain - United Arab Emirates  1-2   @ Riffa, Bahrain
-  Qatar - Oman  2-1   @ Riffa, Bahrain
-[Wed Jan 9]
-  Iraq - Kuwait  1-0   @ Isa Town, Bahrain
-  Yemen - Saudi Arabia  0-2   @ Isa Town, Bahrain
-[Fri Jan 11]
-  Bahrain - Qatar  1-0   @ Riffa, Bahrain
-  United Arab Emirates - Oman  2-0   @ Isa Town, Bahrain
-[Sat Jan 12]
-  Iraq - Yemen  2-0   @ Isa Town, Bahrain
-  Kuwait - Saudi Arabia  1-0   @ Riffa, Bahrain
-[Tue Jan 15]
-  Bahrain - Iraq  1-1   @ Riffa, Bahrain
-  United Arab Emirates - Kuwait  1-0   @ Riffa, Bahrain
-[Fri Jan 18]
-  Bahrain - Kuwait  1-6   @ Isa Town, Bahrain
-  United Arab Emirates - Iraq  2-1   @ Riffa, Bahrain
+Sat Jan 5
+  Bahrain              v Oman                  0-0   @ Riffa, Bahrain
+  Qatar                v United Arab Emirates  1-3   @ Riffa, Bahrain
+Sun Jan 6
+  Kuwait               v Yemen                 2-0   @ Isa Town, Bahrain
+  Saudi Arabia         v Iraq                  0-2   @ Isa Town, Bahrain
+Tue Jan 8
+  Bahrain              v United Arab Emirates  1-2   @ Riffa, Bahrain
+  Qatar                v Oman                  2-1   @ Riffa, Bahrain
+Wed Jan 9
+  Iraq                 v Kuwait                1-0   @ Isa Town, Bahrain
+  Yemen                v Saudi Arabia          0-2   @ Isa Town, Bahrain
+Fri Jan 11
+  Bahrain              v Qatar                 1-0   @ Riffa, Bahrain
+  United Arab Emirates v Oman                  2-0   @ Isa Town, Bahrain
+Sat Jan 12
+  Iraq                 v Yemen                 2-0   @ Isa Town, Bahrain
+  Kuwait               v Saudi Arabia          1-0   @ Riffa, Bahrain
+Tue Jan 15
+  Bahrain              v Iraq                  1-1   @ Riffa, Bahrain
+  United Arab Emirates v Kuwait                1-0   @ Riffa, Bahrain
+Fri Jan 18
+  Bahrain              v Kuwait                1-6   @ Isa Town, Bahrain
+  United Arab Emirates v Iraq                  2-1   @ Riffa, Bahrain
 

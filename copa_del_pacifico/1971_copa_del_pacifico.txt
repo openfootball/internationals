@@ -1,11 +1,11 @@
 = Copa del Pacífico 1971
 
-# Date       Wed Aug/11 - Wed Aug/18 1971 (7d)
+# Date       Wed Aug 11 - Wed Aug 18 1971 (7d)
 # Teams      2
 # Matches    2
 
-[Wed Aug 11]
-  Peru - Chile  1-0   @ Lima, Peru
-[Wed Aug 18]
-  Chile - Peru  1-0   @ Santiago, Chile
+Wed Aug 11
+  Peru                 v Chile                 1-0   @ Lima, Peru
+Wed Aug 18
+  Chile                v Peru                  1-0   @ Santiago, Chile
 

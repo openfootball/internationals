@@ -1,15 +1,15 @@
 = King's Cup 1998
 
-# Date       Sun Jan/25 - Sat Jan/31 1998 (6d)
+# Date       Sun Jan 25 - Sat Jan 31 1998 (6d)
 # Teams      3
 # Matches    4
 
-[Sun Jan 25]
-  Thailand - Egypt  1-1   @ Bangkok, Thailand
-[Tue Jan 27]
-  Egypt - South Korea  0-2   @ Bangkok, Thailand
-[Thu Jan 29]
-  Thailand - South Korea  0-2   @ Bangkok, Thailand
-[Sat Jan 31]
-  Egypt - South Korea  1-1   @ Bangkok, Thailand   [South Korea wins on penalties]
+Sun Jan 25
+  Thailand             v Egypt                 1-1   @ Bangkok, Thailand
+Tue Jan 27
+  Egypt                v South Korea           0-2   @ Bangkok, Thailand
+Thu Jan 29
+  Thailand             v South Korea           0-2   @ Bangkok, Thailand
+Sat Jan 31
+  Egypt                v South Korea           1-1   @ Bangkok, Thailand   [South Korea wins on penalties]
 

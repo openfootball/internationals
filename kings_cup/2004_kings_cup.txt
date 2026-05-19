@@ -1,13 +1,13 @@
 = King's Cup 2004
 
-# Date       Tue Nov/30 - Thu Dec/2 2004 (2d)
+# Date       Tue Nov 30 - Thu Dec 2 2004 (2d)
 # Teams      4
 # Matches    4
 
-[Tue Nov 30]
-  Hungary - Slovakia  0-1   @ Bangkok, Thailand
-  Thailand - Estonia  0-0   @ Bangkok, Thailand   [Thailand wins on penalties]
-[Thu Dec 2]
-  Hungary - Estonia  5-0   @ Bangkok, Thailand
-  Thailand - Slovakia  1-1   @ Bangkok, Thailand   [Slovakia wins on penalties]
+Tue Nov 30
+  Hungary              v Slovakia              0-1   @ Bangkok, Thailand
+  Thailand             v Estonia               0-0   @ Bangkok, Thailand   [Thailand wins on penalties]
+Thu Dec 2
+  Hungary              v Estonia               5-0   @ Bangkok, Thailand
+  Thailand             v Slovakia              1-1   @ Bangkok, Thailand   [Slovakia wins on penalties]
 

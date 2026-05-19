@@ -1,85 +1,85 @@
 = Copa América 2015
 
-# Date       Thu Jun/11 - Sat Jul/4 2015 (23d)
+# Date       Thu Jun 11 - Sat Jul 4 2015 (23d)
 # Teams      12
 # Matches    26
 
-[Thu Jun 11]
-  Chile - Ecuador  2-0   @ Santiago, Chile
-     Arturo Vidal 66' (pen.) Eduardo Vargas 83'
-[Fri Jun 12]
-  Mexico - Bolivia  0-0   @ Viña del Mar, Chile
-[Sat Jun 13]
-  Argentina - Paraguay  2-2   @ La Serena, Chile
-     Sergio Agüero 28' Lionel Messi 35' (pen.);
-     Nelson Valdez 59' Lucas Barrios 89'
-  Uruguay - Jamaica  1-0   @ Antofagasta, Chile
-     Cristian Rodríguez 51'
-[Sun Jun 14]
-  Brazil - Peru  2-1   @ Temuco, Chile
-     Neymar 4' Douglas Costa 90';
-     Christian Cueva 2'
-  Colombia - Venezuela  0-1   @ Rancagua, Chile
-     -; Salomón Rondón 59'
-[Mon Jun 15]
-  Chile - Mexico  3-3   @ Santiago, Chile
-     Arturo Vidal 21' Eduardo Vargas 41' Arturo Vidal 54' (pen.);
-     Vicente Matías Vuoso 20' Raúl Jiménez 28' Vicente Matías Vuoso 65'
-  Ecuador - Bolivia  2-3   @ Valparaíso, Chile
-     Enner Valencia 47' Miller Bolaños 80';
-     Ronald Raldes 4' Martin Smedberg-Dalence 17' Marcelo Martins Moreno 42' (pen.)
-[Tue Jun 16]
-  Argentina - Uruguay  1-0   @ La Serena, Chile
-     Sergio Agüero 55'
-  Paraguay - Jamaica  1-0   @ Antofagasta, Chile
-     Édgar Benítez 35'
-[Wed Jun 17]
-  Brazil - Colombia  0-1   @ Santiago, Chile
-     -; Jeison Murillo 36'
-[Thu Jun 18]
-  Peru - Venezuela  1-0   @ Valparaíso, Chile
-     Claudio Pizarro 71'
-[Fri Jun 19]
-  Chile - Bolivia  5-0   @ Santiago, Chile
-     Charles Aránguiz 2' Alexis Sánchez 36' Charles Aránguiz 65' Gary Medel 78' Ronald Raldes 85' (o.g.)
-  Mexico - Ecuador  1-2   @ Rancagua, Chile
-     Raúl Jiménez 63' (pen.);
-     Miller Bolaños 25' Enner Valencia 57'
-[Sat Jun 20]
-  Argentina - Jamaica  1-0   @ Viña del Mar, Chile
-     Gonzalo Higuaín 10'
-  Uruguay - Paraguay  1-1   @ La Serena, Chile
-     José María Giménez 28';
-     Lucas Barrios 44'
-[Sun Jun 21]
-  Brazil - Venezuela  2-1   @ Santiago, Chile
-     Thiago Silva 8' Roberto Firmino 51';
-     Miku 84'
-  Colombia - Peru  0-0   @ Temuco, Chile
-[Wed Jun 24]
-  Chile - Uruguay  1-0   @ Santiago, Chile
-     Mauricio Isla 80'
-[Thu Jun 25]
-  Bolivia - Peru  1-3   @ Temuco, Chile
-     Marcelo Martins Moreno 83' (pen.);
-     Paolo Guerrero 19' Paolo Guerrero 22' Paolo Guerrero 73'
-[Fri Jun 26]
-  Argentina - Colombia  0-0   @ Viña del Mar, Chile   [Argentina wins on penalties]
-[Sat Jun 27]
-  Brazil - Paraguay  1-1   @ Concepción, Chile   [Paraguay wins on penalties]
-     Robinho 14';
-     Derlis González 71' (pen.)
-[Mon Jun 29]
-  Chile - Peru  2-1   @ Santiago, Chile
-     Eduardo Vargas 41' Eduardo Vargas 63';
-     Gary Medel 60' (o.g.)
-[Tue Jun 30]
-  Argentina - Paraguay  6-1   @ Concepción, Chile
-     Marcos Rojo 14' Javier Pastore 26' Ángel Di María 46' Ángel Di María 52' Sergio Agüero 79' Gonzalo Higuaín 82';
-     Lucas Barrios 42'
-[Fri Jul 3]
-  Peru - Paraguay  2-0   @ Concepción, Chile
-     André Carrillo 48' Paolo Guerrero 89'
-[Sat Jul 4]
-  Chile - Argentina  0-0   @ Santiago, Chile   [Chile wins on penalties]
+Thu Jun 11
+  Chile                v Ecuador               2-0   @ Santiago, Chile
+     (Arturo Vidal 66'(p) Eduardo Vargas 83')
+Fri Jun 12
+  Mexico               v Bolivia               0-0   @ Viña del Mar, Chile
+Sat Jun 13
+  Argentina            v Paraguay              2-2   @ La Serena, Chile
+     (Sergio Agüero 28' Lionel Messi 35'(p);
+      Nelson Valdez 59' Lucas Barrios 89')
+  Uruguay              v Jamaica               1-0   @ Antofagasta, Chile
+     (Cristian Rodríguez 51')
+Sun Jun 14
+  Brazil               v Peru                  2-1   @ Temuco, Chile
+     (Neymar 4' Douglas Costa 90';
+      Christian Cueva 2')
+  Colombia             v Venezuela             0-1   @ Rancagua, Chile
+     (Salomón Rondón 59')
+Mon Jun 15
+  Chile                v Mexico                3-3   @ Santiago, Chile
+     (Arturo Vidal 21' Eduardo Vargas 41' Arturo Vidal 54'(p);
+      Vicente Matías Vuoso 20' Raúl Jiménez 28' Vicente Matías Vuoso 65')
+  Ecuador              v Bolivia               2-3   @ Valparaíso, Chile
+     (Enner Valencia 47' Miller Bolaños 80';
+      Ronald Raldes 4' Martin Smedberg-Dalence 17' Marcelo Martins Moreno 42'(p))
+Tue Jun 16
+  Argentina            v Uruguay               1-0   @ La Serena, Chile
+     (Sergio Agüero 55')
+  Paraguay             v Jamaica               1-0   @ Antofagasta, Chile
+     (Édgar Benítez 35')
+Wed Jun 17
+  Brazil               v Colombia              0-1   @ Santiago, Chile
+     (Jeison Murillo 36')
+Thu Jun 18
+  Peru                 v Venezuela             1-0   @ Valparaíso, Chile
+     (Claudio Pizarro 71')
+Fri Jun 19
+  Chile                v Bolivia               5-0   @ Santiago, Chile
+     (Charles Aránguiz 2' Alexis Sánchez 36' Charles Aránguiz 65' Gary Medel 78' Ronald Raldes 85'(og))
+  Mexico               v Ecuador               1-2   @ Rancagua, Chile
+     (Raúl Jiménez 63'(p);
+      Miller Bolaños 25' Enner Valencia 57')
+Sat Jun 20
+  Argentina            v Jamaica               1-0   @ Viña del Mar, Chile
+     (Gonzalo Higuaín 10')
+  Uruguay              v Paraguay              1-1   @ La Serena, Chile
+     (José María Giménez 28';
+      Lucas Barrios 44')
+Sun Jun 21
+  Brazil               v Venezuela             2-1   @ Santiago, Chile
+     (Thiago Silva 8' Roberto Firmino 51';
+      Miku 84')
+  Colombia             v Peru                  0-0   @ Temuco, Chile
+Wed Jun 24
+  Chile                v Uruguay               1-0   @ Santiago, Chile
+     (Mauricio Isla 80')
+Thu Jun 25
+  Bolivia              v Peru                  1-3   @ Temuco, Chile
+     (Marcelo Martins Moreno 83'(p);
+      Paolo Guerrero 19' Paolo Guerrero 22' Paolo Guerrero 73')
+Fri Jun 26
+  Argentina            v Colombia              0-0   @ Viña del Mar, Chile   [Argentina wins on penalties]
+Sat Jun 27
+  Brazil               v Paraguay              1-1   @ Concepción, Chile   [Paraguay wins on penalties]
+     (Robinho 14';
+      Derlis González 71'(p))
+Mon Jun 29
+  Chile                v Peru                  2-1   @ Santiago, Chile
+     (Eduardo Vargas 41' Eduardo Vargas 63';
+      Gary Medel 60'(og))
+Tue Jun 30
+  Argentina            v Paraguay              6-1   @ Concepción, Chile
+     (Marcos Rojo 14' Javier Pastore 26' Ángel Di María 46' Ángel Di María 52' Sergio Agüero 79' Gonzalo Higuaín 82';
+      Lucas Barrios 42')
+Fri Jul 3
+  Peru                 v Paraguay              2-0   @ Concepción, Chile
+     (André Carrillo 48' Paolo Guerrero 89')
+Sat Jul 4
+  Chile                v Argentina             0-0   @ Santiago, Chile   [Chile wins on penalties]
 

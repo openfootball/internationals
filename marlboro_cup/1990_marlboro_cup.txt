@@ -1,15 +1,15 @@
 = Marlboro Cup 1990
 
-# Date       Tue Feb/20 - Sun May/6 1990 (75d)
+# Date       Tue Feb 20 - Sun May 6 1990 (75d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 20]
-  Colombia - Russia  0-0   @ Los Angeles, United States   [Colombia wins on penalties]
-[Thu Feb 22]
-  Costa Rica - Russia  1-2   @ Los Angeles, United States
-[Fri May 4]
-  Colombia - Poland  2-1   @ Chicago, United States
-[Sun May 6]
-  Costa Rica - Poland  0-2   @ Chicago, United States
+Tue Feb 20
+  Colombia             v Russia                0-0   @ Los Angeles, United States   [Colombia wins on penalties]
+Thu Feb 22
+  Costa Rica           v Russia                1-2   @ Los Angeles, United States
+Fri May 4
+  Colombia             v Poland                2-1   @ Chicago, United States
+Sun May 6
+  Costa Rica           v Poland                0-2   @ Chicago, United States
 

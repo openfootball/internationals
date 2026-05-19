@@ -1,11 +1,11 @@
 = British Home Championship 1949
 
-# Date       Wed Mar/9 - Sat Apr/9 1949 (31d)
+# Date       Wed Mar 9 - Sat Apr 9 1949 (31d)
 # Teams      4
 # Matches    2
 
-[Wed Mar 9]
-  Northern Ireland - Wales  0-2   @ Belfast, Northern Ireland
-[Sat Apr 9]
-  England - Scotland  1-3   @ London, England
+Wed Mar 9
+  Northern Ireland     v Wales                 0-2   @ Belfast, Northern Ireland
+Sat Apr 9
+  England              v Scotland              1-3   @ London, England
 

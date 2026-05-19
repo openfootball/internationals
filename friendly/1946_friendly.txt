@@ -1,104 +1,104 @@
 = Friendly 1946
 
-# Date       Sat Jan/19 - Sun Dec/1 1946 (316d)
+# Date       Sat Jan 19 - Sun Dec 1 1946 (316d)
 # Teams      33
 # Matches    52
 
-[Sat Jan 19]
-  England - Belgium  2-0   @ London, England
-[Wed Jan 23]
-  Scotland - Belgium  2-2   @ Glasgow, Scotland
-[Sat Feb 23]
-  Belgium - Luxembourg  7-0   @ Charleroi, Belgium
-[Sun Mar 10]
-  Luxembourg - Netherlands  2-6   @ Luxembourg, Luxembourg
-[Sun Apr 7]
-  France - Czechoslovakia  3-0   @ Colombes, France
-[Sat Apr 13]
-  Scotland - England  1-0   @ Glasgow, Scotland
-[Sun Apr 14]
-  Austria - Hungary  3-2   @ Vienna, Austria
-  Portugal - France  2-1   @ Oeiras, Portugal
-[Wed Apr 24]
-  England - Scotland  2-2   @ Manchester, England
-[Sun May 5]
-  France - Austria  3-1   @ Colombes, France
-[Thu May 9]
-  Czechoslovakia - Yugoslavia  0-2   @ Prague, Czechoslovakia
-[Sat May 11]
-  England - Switzerland  4-1   @ London, England
-[Sun May 12]
-  Netherlands - Belgium  6-3   @ Amsterdam, Netherlands
-[Wed May 15]
-  Scotland - Switzerland  3-1   @ Glasgow, Scotland
-[Sun May 19]
-  France - England  2-1   @ Colombes, France
-[Sun May 26]
-  Curaçao - Aruba  2-1   @ Willemstad, Curaçao
-[Thu May 30]
-  Belgium - Netherlands  2-2   @ Antwerp, Belgium
-[Thu Jun 6]
-  Aruba - Suriname  8-1   @ Willemstad, Curaçao
-[Mon Jun 10]
-  Curaçao - Suriname  6-0   @ Willemstad, Curaçao
-[Sun Jun 16]
-  Norway - Denmark  2-1   @ Oslo, Norway
-  Portugal - Republic of Ireland  3-1   @ Oeiras, Portugal
-  Zimbabwe - Zambia  0-4   @ Salisbury, Southern Rhodesia
-[Sun Jun 23]
-  Denmark - Sweden  3-1   @ Copenhagen, Denmark
-  Spain - Republic of Ireland  0-1   @ Madrid, Spain
-[Fri Jun 28]
-  Norway - Finland  12-0   @ Bergen, Norway
-[Sun Jul 7]
-  Sweden - Switzerland  7-2   @ Solna, Sweden
-[Mon Jul 8]
-  Denmark - Norway  2-0   @ Copenhagen, Denmark
-[Wed Jul 17]
-  Iceland - Denmark  0-3   @ Reykjavík, Iceland
-[Sun Jul 28]
-  Luxembourg - Norway  3-2   @ Luxembourg, Luxembourg
-[Thu Aug 22]
-  Albania - Montenegro  5-0   @ Shkodër, Albania
-[Sun Sep 1]
-  Finland - Denmark  2-5   @ Helsinki, Finland
-[Sat Sep 14]
-  Czechoslovakia - Switzerland  3-2   @ Prague, Czechoslovakia
-[Sun Sep 15]
-  Finland - Sweden  0-7   @ Helsinki, Finland
-  Norway - Sweden  0-3   @ Oslo, Norway
-[Wed Sep 18]
-  Kenya - Tanzania  3-0   @ Nairobi, Kenya
-[Sat Sep 21]
-  Kenya - Uganda  2-1   @ Nairobi, Kenya
-[Mon Sep 30]
-  Republic of Ireland - England  0-1   @ Dublin, Éire
-[Sun Oct 6]
-  Hungary - Austria  2-0   @ Budapest, Hungary
-  Sweden - Denmark  3-3   @ Gothenburg, Sweden
-[Sun Oct 20]
-  Denmark - Norway  7-1   @ Copenhagen, Denmark
-[Mon Oct 21]
-  Guyana - Suriname  0-3   @ Georgetown, British Guiana
-[Thu Oct 24]
-  Guyana - Suriname  0-1   @ Georgetown, British Guiana
-[Sun Oct 27]
-  Austria - Czechoslovakia  3-4   @ Vienna, Austria
-[Tue Oct 29]
-  Guyana - Suriname  3-1   @ Georgetown, British Guiana
-[Wed Oct 30]
-  Luxembourg - Hungary  2-7   @ Esch-sur-Alzette, Luxembourg
-[Tue Nov 5]
-  El Salvador - Panama  2-3   @ San Salvador, El Salvador
-[Sun Nov 10]
-  El Salvador - Panama  3-3   @ San Salvador, El Salvador
-  Switzerland - Austria  1-0   @ Bern, Switzerland
-[Sat Nov 23]
-  Aruba - Curaçao  0-4   @ Oranjestad, Aruba
-[Sun Nov 24]
-  Aruba - Curaçao  3-1   @ Oranjestad, Aruba
-[Wed Nov 27]
-  England - Netherlands  8-2   @ Huddersfield, England
-[Sun Dec 1]
-  Italy - Austria  3-2   @ Milan, Italy
+Sat Jan 19
+  England              v Belgium               2-0   @ London, England
+Wed Jan 23
+  Scotland             v Belgium               2-2   @ Glasgow, Scotland
+Sat Feb 23
+  Belgium              v Luxembourg            7-0   @ Charleroi, Belgium
+Sun Mar 10
+  Luxembourg           v Netherlands           2-6   @ Luxembourg, Luxembourg
+Sun Apr 7
+  France               v Czechoslovakia        3-0   @ Colombes, France
+Sat Apr 13
+  Scotland             v England               1-0   @ Glasgow, Scotland
+Sun Apr 14
+  Austria              v Hungary               3-2   @ Vienna, Austria
+  Portugal             v France                2-1   @ Oeiras, Portugal
+Wed Apr 24
+  England              v Scotland              2-2   @ Manchester, England
+Sun May 5
+  France               v Austria               3-1   @ Colombes, France
+Thu May 9
+  Czechoslovakia       v Yugoslavia            0-2   @ Prague, Czechoslovakia
+Sat May 11
+  England              v Switzerland           4-1   @ London, England
+Sun May 12
+  Netherlands          v Belgium               6-3   @ Amsterdam, Netherlands
+Wed May 15
+  Scotland             v Switzerland           3-1   @ Glasgow, Scotland
+Sun May 19
+  France               v England               2-1   @ Colombes, France
+Sun May 26
+  Curaçao              v Aruba                 2-1   @ Willemstad, Curaçao
+Thu May 30
+  Belgium              v Netherlands           2-2   @ Antwerp, Belgium
+Thu Jun 6
+  Aruba                v Suriname              8-1   @ Willemstad, Curaçao
+Mon Jun 10
+  Curaçao              v Suriname              6-0   @ Willemstad, Curaçao
+Sun Jun 16
+  Norway               v Denmark               2-1   @ Oslo, Norway
+  Portugal             v Republic of Ireland   3-1   @ Oeiras, Portugal
+  Zimbabwe             v Zambia                0-4   @ Salisbury, Southern Rhodesia
+Sun Jun 23
+  Denmark              v Sweden                3-1   @ Copenhagen, Denmark
+  Spain                v Republic of Ireland   0-1   @ Madrid, Spain
+Fri Jun 28
+  Norway               v Finland               12-0   @ Bergen, Norway
+Sun Jul 7
+  Sweden               v Switzerland           7-2   @ Solna, Sweden
+Mon Jul 8
+  Denmark              v Norway                2-0   @ Copenhagen, Denmark
+Wed Jul 17
+  Iceland              v Denmark               0-3   @ Reykjavík, Iceland
+Sun Jul 28
+  Luxembourg           v Norway                3-2   @ Luxembourg, Luxembourg
+Thu Aug 22
+  Albania              v Montenegro            5-0   @ Shkodër, Albania
+Sun Sep 1
+  Finland              v Denmark               2-5   @ Helsinki, Finland
+Sat Sep 14
+  Czechoslovakia       v Switzerland           3-2   @ Prague, Czechoslovakia
+Sun Sep 15
+  Finland              v Sweden                0-7   @ Helsinki, Finland
+  Norway               v Sweden                0-3   @ Oslo, Norway
+Wed Sep 18
+  Kenya                v Tanzania              3-0   @ Nairobi, Kenya
+Sat Sep 21
+  Kenya                v Uganda                2-1   @ Nairobi, Kenya
+Mon Sep 30
+  Republic of Ireland  v England               0-1   @ Dublin, Éire
+Sun Oct 6
+  Hungary              v Austria               2-0   @ Budapest, Hungary
+  Sweden               v Denmark               3-3   @ Gothenburg, Sweden
+Sun Oct 20
+  Denmark              v Norway                7-1   @ Copenhagen, Denmark
+Mon Oct 21
+  Guyana               v Suriname              0-3   @ Georgetown, British Guiana
+Thu Oct 24
+  Guyana               v Suriname              0-1   @ Georgetown, British Guiana
+Sun Oct 27
+  Austria              v Czechoslovakia        3-4   @ Vienna, Austria
+Tue Oct 29
+  Guyana               v Suriname              3-1   @ Georgetown, British Guiana
+Wed Oct 30
+  Luxembourg           v Hungary               2-7   @ Esch-sur-Alzette, Luxembourg
+Tue Nov 5
+  El Salvador          v Panama                2-3   @ San Salvador, El Salvador
+Sun Nov 10
+  El Salvador          v Panama                3-3   @ San Salvador, El Salvador
+  Switzerland          v Austria               1-0   @ Bern, Switzerland
+Sat Nov 23
+  Aruba                v Curaçao               0-4   @ Oranjestad, Aruba
+Sun Nov 24
+  Aruba                v Curaçao               3-1   @ Oranjestad, Aruba
+Wed Nov 27
+  England              v Netherlands           8-2   @ Huddersfield, England
+Sun Dec 1
+  Italy                v Austria               3-2   @ Milan, Italy
 

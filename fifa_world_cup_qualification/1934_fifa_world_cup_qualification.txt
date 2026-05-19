@@ -1,81 +1,81 @@
 = FIFA World Cup qualification 1934
 
-# Date       Sun Jan/28 - Thu May/24 1934 (116d)
+# Date       Sun Jan 28 - Thu May 24 1934 (116d)
 # Teams      21
 # Matches    21
 
-[Sun Jan 28]
-  Haiti - Cuba  1-3   @ Port-au-Prince, Haiti
-     Robert St. Fort 85' (pen.);
-     Mario López 20' (pen.) Héctor Socorro 61' Ángel Martínez 64'
-[Thu Feb 1]
-  Haiti - Cuba  1-1   @ Port-au-Prince, Haiti
-     Robert St. Fort 25' (pen.);
-     Mario López 85'
-[Sun Feb 4]
-  Haiti - Cuba  0-6   @ Port-au-Prince, Haiti
-     -; Héctor Socorro 5' Mario López 18' Francisco Socorro 37' Enrique Ferrer 62' Salvador Soto 78' Mario López 86'
-[Sun Feb 25]
-  Republic of Ireland - Belgium  4-4   @ Dublin, Irish Free State
-     Paddy Moore 27' Paddy Moore 48' Paddy Moore 56' Paddy Moore 75';
-     Jean Capelle 15' Stan Vanden Eynde 30' François Vanden Eynde 47' François Vanden Eynde 60'
-[Sun Mar 4]
-  Mexico - Cuba  3-2   @ Mexico City, Mexico
-     Dionisio Mejía 12' Dionisio Mejía 14' Dionisio Mejía 16';
-     Mario López 40' Mario López 63'
-[Sun Mar 11]
-  Luxembourg - Germany  1-9   @ Luxembourg, Luxembourg
-     Ernest Mengel 27';
-     Josef Rasselnberg 2' Willi Wigold 12' Ernst Albrecht 24' Karl Hohmann 30' Josef Rasselnberg 35' Karl Hohmann 52' Karl Hohmann 53' Josef Rasselnberg 57' Josef Rasselnberg 89'
-  Mexico - Cuba  5-0   @ Mexico City, Mexico
-     Jorge Sota 24' Dionisio Mejía 31' Dionisio Mejía 40' Felipe Rosas 72' Dionisio Mejía 79'
-  Spain - Portugal  9-0   @ Madrid, Spain
-     Eduardo González Valiño 3' Isidro Lángara 13' Isidro Lángara 14' (pen.) Isidro Lángara 46' Luis Regueiro 65' Martí Ventolrà 68' Luis Regueiro 70' Isidro Lángara 71' Isidro Lángara 85'
-[Fri Mar 16]
-  Egypt - Israel  7-1   @ Cairo, Egypt
-     Mahmoud Mokhtar El-Tetsh 11' Mostafa Taha 21' Mahmoud Mokhtar El-Tetsh 35' Mohamed Latif 43' Mahmoud Mokhtar El-Tetsh 51' Mostafa Taha 79' Mohamed Latif 87';
-     Avraham Nudelmann 61'
-[Sun Mar 18]
-  Mexico - Cuba  4-1   @ Mexico City, Mexico
-     Manuel Alonso 32' José Ruvalcaba 41' Fernando Marcos 55' Manuel Alonso 75';
-     Mario López 15'
-  Portugal - Spain  1-2   @ Lisbon, Portugal
-     Vítor Silva 10';
-     Isidro Lángara 12' Isidro Lángara 25'
-[Sun Mar 25]
-  Bulgaria - Hungary  1-4   @ Sofia, Bulgaria
-     Dimitar Baikushev 27';
-     György Sárosi 29' Gábor P. Szabó 61' (pen.) Géza Toldi 88' Imre Markos 89'
-  Italy - Greece  4-0   @ Milan, Italy
-     Anfilogino Guarisi 40' Giuseppe Meazza 44' Giovanni Ferrari 69' Giuseppe Meazza 71'
-[Fri Apr 6]
-  Israel - Egypt  1-4   @ Tel Aviv, Mandatory Palestine
-     Yohanan Sukenik 54';
-     Mohamed Latif 2' Mahmoud Mokhtar El-Tetsh 7' Mahmoud Mokhtar El-Tetsh 22' Abdulrahman Fawzi 35'
-[Sun Apr 8]
-  Netherlands - Republic of Ireland  5-2   @ Amsterdam, Netherlands
-     Kick Smit 41' Bep Bakhuys 67' Bep Bakhuys 78' Leen Vente 83' Kick Smit 85';
-     Johnny Squires 44' Paddy Moore 57'
-[Sun Apr 15]
-  Luxembourg - France  1-6   @ Luxembourg, Luxembourg
-     Théophile Speicher 47';
-     Alfred Aston 3' Jean Nicolas 26' Jean Nicolas 67' Ernest Liberati 80' Jean Nicolas 85' Jean Nicolas 89' (pen.)
-[Wed Apr 25]
-  Austria - Bulgaria  6-1   @ Vienna, Austria
-     Johann Horvath 19' Johann Horvath 22' Johann Horvath 33' Karl Zischek 59' Rudolf Viertl 62' Matthias Sindelar 67';
-     Mihail Lozanov 66'
-[Sun Apr 29]
-  Hungary - Bulgaria  4-1   @ Budapest, Hungary
-     Gábor P. Szabó 9' Gábor P. Szabó 58' József Solti 60' József Solti 73';
-     Vladimir Todorov 61'
-  Belgium - Netherlands  2-4   @ Antwerp, Belgium
-     Laurent Grimmonprez 51' Bernard Voorhoof 71';
-     Kick Smit 60' Bep Bakhuys 62' Leen Vente 64' Bep Bakhuys 84'
-  Romania - Yugoslavia  2-1   @ Bucharest, Romania
-     Sándor Schwartz 38' Ștefan Dobay 74';
-     Vladimir Kragić 71'
-[Thu May 24]
-  Mexico - United States  2-4   @ Rome, Italy
-     Manuel Alonso 25' Dionisio Mejía 75';
-     Aldo Donelli 28' Aldo Donelli 32' Aldo Donelli 74' Aldo Donelli 87'
+Sun Jan 28
+  Haiti                v Cuba                  1-3   @ Port-au-Prince, Haiti
+     (Robert St. Fort 85'(p);
+      Mario López 20'(p) Héctor Socorro 61' Ángel Martínez 64')
+Thu Feb 1
+  Haiti                v Cuba                  1-1   @ Port-au-Prince, Haiti
+     (Robert St. Fort 25'(p);
+      Mario López 85')
+Sun Feb 4
+  Haiti                v Cuba                  0-6   @ Port-au-Prince, Haiti
+     (Héctor Socorro 5' Mario López 18' Francisco Socorro 37' Enrique Ferrer 62' Salvador Soto 78' Mario López 86')
+Sun Feb 25
+  Republic of Ireland  v Belgium               4-4   @ Dublin, Irish Free State
+     (Paddy Moore 27' Paddy Moore 48' Paddy Moore 56' Paddy Moore 75';
+      Jean Capelle 15' Stan Vanden Eynde 30' François Vanden Eynde 47' François Vanden Eynde 60')
+Sun Mar 4
+  Mexico               v Cuba                  3-2   @ Mexico City, Mexico
+     (Dionisio Mejía 12' Dionisio Mejía 14' Dionisio Mejía 16';
+      Mario López 40' Mario López 63')
+Sun Mar 11
+  Luxembourg           v Germany               1-9   @ Luxembourg, Luxembourg
+     (Ernest Mengel 27';
+      Josef Rasselnberg 2' Willi Wigold 12' Ernst Albrecht 24' Karl Hohmann 30' Josef Rasselnberg 35' Karl Hohmann 52' Karl Hohmann 53' Josef Rasselnberg 57' Josef Rasselnberg 89')
+  Mexico               v Cuba                  5-0   @ Mexico City, Mexico
+     (Jorge Sota 24' Dionisio Mejía 31' Dionisio Mejía 40' Felipe Rosas 72' Dionisio Mejía 79')
+  Spain                v Portugal              9-0   @ Madrid, Spain
+     (Eduardo González Valiño 3' Isidro Lángara 13' Isidro Lángara 14'(p) Isidro Lángara 46' Luis Regueiro 65' Martí Ventolrà 68' Luis Regueiro 70' Isidro Lángara 71' Isidro Lángara 85')
+Fri Mar 16
+  Egypt                v Israel                7-1   @ Cairo, Egypt
+     (Mahmoud Mokhtar El-Tetsh 11' Mostafa Taha 21' Mahmoud Mokhtar El-Tetsh 35' Mohamed Latif 43' Mahmoud Mokhtar El-Tetsh 51' Mostafa Taha 79' Mohamed Latif 87';
+      Avraham Nudelmann 61')
+Sun Mar 18
+  Mexico               v Cuba                  4-1   @ Mexico City, Mexico
+     (Manuel Alonso 32' José Ruvalcaba 41' Fernando Marcos 55' Manuel Alonso 75';
+      Mario López 15')
+  Portugal             v Spain                 1-2   @ Lisbon, Portugal
+     (Vítor Silva 10';
+      Isidro Lángara 12' Isidro Lángara 25')
+Sun Mar 25
+  Bulgaria             v Hungary               1-4   @ Sofia, Bulgaria
+     (Dimitar Baikushev 27';
+      György Sárosi 29' Gábor P. Szabó 61'(p) Géza Toldi 88' Imre Markos 89')
+  Italy                v Greece                4-0   @ Milan, Italy
+     (Anfilogino Guarisi 40' Giuseppe Meazza 44' Giovanni Ferrari 69' Giuseppe Meazza 71')
+Fri Apr 6
+  Israel               v Egypt                 1-4   @ Tel Aviv, Mandatory Palestine
+     (Yohanan Sukenik 54';
+      Mohamed Latif 2' Mahmoud Mokhtar El-Tetsh 7' Mahmoud Mokhtar El-Tetsh 22' Abdulrahman Fawzi 35')
+Sun Apr 8
+  Netherlands          v Republic of Ireland   5-2   @ Amsterdam, Netherlands
+     (Kick Smit 41' Bep Bakhuys 67' Bep Bakhuys 78' Leen Vente 83' Kick Smit 85';
+      Johnny Squires 44' Paddy Moore 57')
+Sun Apr 15
+  Luxembourg           v France                1-6   @ Luxembourg, Luxembourg
+     (Théophile Speicher 47';
+      Alfred Aston 3' Jean Nicolas 26' Jean Nicolas 67' Ernest Liberati 80' Jean Nicolas 85' Jean Nicolas 89'(p))
+Wed Apr 25
+  Austria              v Bulgaria              6-1   @ Vienna, Austria
+     (Johann Horvath 19' Johann Horvath 22' Johann Horvath 33' Karl Zischek 59' Rudolf Viertl 62' Matthias Sindelar 67';
+      Mihail Lozanov 66')
+Sun Apr 29
+  Hungary              v Bulgaria              4-1   @ Budapest, Hungary
+     (Gábor P. Szabó 9' Gábor P. Szabó 58' József Solti 60' József Solti 73';
+      Vladimir Todorov 61')
+  Belgium              v Netherlands           2-4   @ Antwerp, Belgium
+     (Laurent Grimmonprez 51' Bernard Voorhoof 71';
+      Kick Smit 60' Bep Bakhuys 62' Leen Vente 64' Bep Bakhuys 84')
+  Romania              v Yugoslavia            2-1   @ Bucharest, Romania
+     (Sándor Schwartz 38' Ștefan Dobay 74';
+      Vladimir Kragić 71')
+Thu May 24
+  Mexico               v United States         2-4   @ Rome, Italy
+     (Manuel Alonso 25' Dionisio Mejía 75';
+      Aldo Donelli 28' Aldo Donelli 32' Aldo Donelli 74' Aldo Donelli 87')
 

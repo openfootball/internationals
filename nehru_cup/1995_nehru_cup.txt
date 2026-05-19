@@ -1,18 +1,18 @@
 = Nehru Cup 1995
 
-# Date       Wed Mar/8 - Thu Mar/16 1995 (8d)
+# Date       Wed Mar 8 - Thu Mar 16 1995 (8d)
 # Teams      4
 # Matches    6
 
-[Wed Mar 8]
-  Iraq - Uzbekistan  3-1   @ Calcutta, India
-[Fri Mar 10]
-  India - Thailand  0-5   @ Calcutta, India
-[Sun Mar 12]
-  India - Iraq  1-1   @ Calcutta, India
-[Tue Mar 14]
-  India - Uzbekistan  1-0   @ Calcutta, India
-  Iraq - Thailand  3-1   @ Calcutta, India
-[Thu Mar 16]
-  Thailand - Uzbekistan  0-1   @ Calcutta, India
+Wed Mar 8
+  Iraq                 v Uzbekistan            3-1   @ Calcutta, India
+Fri Mar 10
+  India                v Thailand              0-5   @ Calcutta, India
+Sun Mar 12
+  India                v Iraq                  1-1   @ Calcutta, India
+Tue Mar 14
+  India                v Uzbekistan            1-0   @ Calcutta, India
+  Iraq                 v Thailand              3-1   @ Calcutta, India
+Thu Mar 16
+  Thailand             v Uzbekistan            0-1   @ Calcutta, India
 

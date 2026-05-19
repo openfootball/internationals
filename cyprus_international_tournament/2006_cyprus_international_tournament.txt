@@ -1,17 +1,17 @@
 = Cyprus International Tournament 2006
 
-# Date       Tue Feb/28 - Wed Mar/1 2006 (1d)
+# Date       Tue Feb 28 - Wed Mar 1 2006 (1d)
 # Teams      8
 # Matches    8
 
-[Tue Feb 28]
-  Cyprus - Slovenia  0-1   @ Larnaca, Cyprus
-  Finland - Kazakhstan  0-0   @ Larnaca, Cyprus   [Kazakhstan wins on penalties]
-  Greece - Belarus  1-0   @ Limassol, Cyprus
-  Romania - Armenia  2-0   @ Nicosia, Cyprus
-[Wed Mar 1]
-  Cyprus - Armenia  2-0   @ Limassol, Cyprus
-  Finland - Belarus  2-2   @ Paphos, Cyprus   [Finland wins on penalties]
-  Kazakhstan - Greece  0-2   @ Nicosia, Cyprus
-  Slovenia - Romania  0-2   @ Larnaca, Cyprus
+Tue Feb 28
+  Cyprus               v Slovenia              0-1   @ Larnaca, Cyprus
+  Finland              v Kazakhstan            0-0   @ Larnaca, Cyprus   [Kazakhstan wins on penalties]
+  Greece               v Belarus               1-0   @ Limassol, Cyprus
+  Romania              v Armenia               2-0   @ Nicosia, Cyprus
+Wed Mar 1
+  Cyprus               v Armenia               2-0   @ Limassol, Cyprus
+  Finland              v Belarus               2-2   @ Paphos, Cyprus   [Finland wins on penalties]
+  Kazakhstan           v Greece                0-2   @ Nicosia, Cyprus
+  Slovenia             v Romania               0-2   @ Larnaca, Cyprus
 

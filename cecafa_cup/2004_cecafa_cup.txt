@@ -1,37 +1,37 @@
 = CECAFA Cup 2004
 
-# Date       Sat Dec/11 - Sat Dec/25 2004 (14d)
+# Date       Sat Dec 11 - Sat Dec 25 2004 (14d)
 # Teams      9
 # Matches    20
 
-[Sat Dec 11]
-  Ethiopia - Burundi  2-1   @ Addis Ababa, Ethiopia
-  Rwanda - Zanzibar  4-2   @ Addis Ababa, Ethiopia
-[Sun Dec 12]
-  Kenya - Sudan  2-2   @ Addis Ababa, Ethiopia
-  Uganda - Somalia  2-0   @ Addis Ababa, Ethiopia
-[Mon Dec 13]
-  Burundi - Rwanda  3-1   @ Addis Ababa, Ethiopia
-  Zanzibar - Tanzania  4-2   @ Addis Ababa, Ethiopia
-[Tue Dec 14]
-  Somalia - Kenya  0-1   @ Addis Ababa, Ethiopia
-  Sudan - Uganda  2-1   @ Addis Ababa, Ethiopia
-[Wed Dec 15]
-  Ethiopia - Rwanda  0-0   @ Addis Ababa, Ethiopia
-  Tanzania - Burundi  0-2   @ Addis Ababa, Ethiopia
-[Fri Dec 17]
-  Burundi - Zanzibar  2-1   @ Addis Ababa, Ethiopia
-  Ethiopia - Tanzania  2-0   @ Addis Ababa, Ethiopia
-[Sat Dec 18]
-  Kenya - Uganda  1-1   @ Addis Ababa, Ethiopia
-  Sudan - Somalia  4-0   @ Addis Ababa, Ethiopia
-[Sun Dec 19]
-  Ethiopia - Zanzibar  3-0   @ Addis Ababa, Ethiopia
-  Tanzania - Rwanda  1-5   @ Addis Ababa, Ethiopia
-[Wed Dec 22]
-  Ethiopia - Kenya  2-2   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
-  Sudan - Burundi  1-2   @ Addis Ababa, Ethiopia
-[Sat Dec 25]
-  Ethiopia - Burundi  3-0   @ Addis Ababa, Ethiopia
-  Kenya - Sudan  1-2   @ Addis Ababa, Ethiopia
+Sat Dec 11
+  Ethiopia             v Burundi               2-1   @ Addis Ababa, Ethiopia
+  Rwanda               v Zanzibar              4-2   @ Addis Ababa, Ethiopia
+Sun Dec 12
+  Kenya                v Sudan                 2-2   @ Addis Ababa, Ethiopia
+  Uganda               v Somalia               2-0   @ Addis Ababa, Ethiopia
+Mon Dec 13
+  Burundi              v Rwanda                3-1   @ Addis Ababa, Ethiopia
+  Zanzibar             v Tanzania              4-2   @ Addis Ababa, Ethiopia
+Tue Dec 14
+  Somalia              v Kenya                 0-1   @ Addis Ababa, Ethiopia
+  Sudan                v Uganda                2-1   @ Addis Ababa, Ethiopia
+Wed Dec 15
+  Ethiopia             v Rwanda                0-0   @ Addis Ababa, Ethiopia
+  Tanzania             v Burundi               0-2   @ Addis Ababa, Ethiopia
+Fri Dec 17
+  Burundi              v Zanzibar              2-1   @ Addis Ababa, Ethiopia
+  Ethiopia             v Tanzania              2-0   @ Addis Ababa, Ethiopia
+Sat Dec 18
+  Kenya                v Uganda                1-1   @ Addis Ababa, Ethiopia
+  Sudan                v Somalia               4-0   @ Addis Ababa, Ethiopia
+Sun Dec 19
+  Ethiopia             v Zanzibar              3-0   @ Addis Ababa, Ethiopia
+  Tanzania             v Rwanda                1-5   @ Addis Ababa, Ethiopia
+Wed Dec 22
+  Ethiopia             v Kenya                 2-2   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
+  Sudan                v Burundi               1-2   @ Addis Ababa, Ethiopia
+Sat Dec 25
+  Ethiopia             v Burundi               3-0   @ Addis Ababa, Ethiopia
+  Kenya                v Sudan                 1-2   @ Addis Ababa, Ethiopia
 

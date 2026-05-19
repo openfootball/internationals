@@ -1,19 +1,19 @@
 = British Home Championship 1924
 
-# Date       Sat Feb/16 - Wed Oct/22 1924 (249d)
+# Date       Sat Feb 16 - Wed Oct 22 1924 (249d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 16]
-  Wales - Scotland  2-0   @ Cardiff, Wales
-[Sat Mar 1]
-  Scotland - Northern Ireland  2-0   @ Glasgow, Scotland
-[Mon Mar 3]
-  England - Wales  1-2   @ Blackburn, England
-[Sat Mar 15]
-  Northern Ireland - Wales  0-1   @ Belfast, Northern Ireland
-[Sat Apr 12]
-  England - Scotland  1-1   @ London, England
-[Wed Oct 22]
-  England - Northern Ireland  3-1   @ Liverpool, England
+Sat Feb 16
+  Wales                v Scotland              2-0   @ Cardiff, Wales
+Sat Mar 1
+  Scotland             v Northern Ireland      2-0   @ Glasgow, Scotland
+Mon Mar 3
+  England              v Wales                 1-2   @ Blackburn, England
+Sat Mar 15
+  Northern Ireland     v Wales                 0-1   @ Belfast, Northern Ireland
+Sat Apr 12
+  England              v Scotland              1-1   @ London, England
+Wed Oct 22
+  England              v Northern Ireland      3-1   @ Liverpool, England
 

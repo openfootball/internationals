@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1974
 
-# Date       Wed Nov/6 - Wed Nov/20 1974 (14d)
+# Date       Wed Nov 6 - Wed Nov 20 1974 (14d)
 # Teams      2
 # Matches    2
 
-[Wed Nov 6]
-  Chile - Argentina  0-2   @ Santiago, Chile
-[Wed Nov 20]
-  Argentina - Chile  1-1   @ Buenos Aires, Argentina
+Wed Nov 6
+  Chile                v Argentina             0-2   @ Santiago, Chile
+Wed Nov 20
+  Argentina            v Chile                 1-1   @ Buenos Aires, Argentina
 

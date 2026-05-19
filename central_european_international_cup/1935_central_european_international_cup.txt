@@ -1,22 +1,22 @@
 = Central European International Cup 1935
 
-# Date       Sun Mar/17 - Sun Nov/24 1935 (252d)
+# Date       Sun Mar 17 - Sun Nov 24 1935 (252d)
 # Teams      5
 # Matches    8
 
-[Sun Mar 17]
-  Czechoslovakia - Switzerland  3-1   @ Prague, Czechoslovakia
-[Sun Mar 24]
-  Austria - Italy  0-2   @ Vienna, Austria
-[Sun Apr 14]
-  Czechoslovakia - Austria  0-0   @ Prague, Czechoslovakia
-  Switzerland - Hungary  6-2   @ Zürich, Switzerland
-[Sun Sep 22]
-  Hungary - Czechoslovakia  1-0   @ Budapest, Hungary
-[Sun Oct 6]
-  Austria - Hungary  4-4   @ Vienna, Austria
-[Sun Oct 27]
-  Czechoslovakia - Italy  2-1   @ Prague, Czechoslovakia
-[Sun Nov 24]
-  Italy - Hungary  2-2   @ Milan, Italy
+Sun Mar 17
+  Czechoslovakia       v Switzerland           3-1   @ Prague, Czechoslovakia
+Sun Mar 24
+  Austria              v Italy                 0-2   @ Vienna, Austria
+Sun Apr 14
+  Czechoslovakia       v Austria               0-0   @ Prague, Czechoslovakia
+  Switzerland          v Hungary               6-2   @ Zürich, Switzerland
+Sun Sep 22
+  Hungary              v Czechoslovakia        1-0   @ Budapest, Hungary
+Sun Oct 6
+  Austria              v Hungary               4-4   @ Vienna, Austria
+Sun Oct 27
+  Czechoslovakia       v Italy                 2-1   @ Prague, Czechoslovakia
+Sun Nov 24
+  Italy                v Hungary               2-2   @ Milan, Italy
 

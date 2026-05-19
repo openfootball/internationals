@@ -1,11 +1,11 @@
 = Copa Premio Honor Argentino 1910
 
-# Date       Sun Nov/13 - Sun Nov/27 1910 (14d)
+# Date       Sun Nov 13 - Sun Nov 27 1910 (14d)
 # Teams      2
 # Matches    2
 
-[Sun Nov 13]
-  Argentina - Uruguay  1-1   @ Buenos Aires, Argentina
-[Sun Nov 27]
-  Argentina - Uruguay  2-6   @ Buenos Aires, Argentina
+Sun Nov 13
+  Argentina            v Uruguay               1-1   @ Buenos Aires, Argentina
+Sun Nov 27
+  Argentina            v Uruguay               2-6   @ Buenos Aires, Argentina
 

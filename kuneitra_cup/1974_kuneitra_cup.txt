@@ -1,34 +1,34 @@
 = Kuneitra Cup 1974
 
-# Date       Thu Sep/26 - Wed Oct/9 1974 (13d)
+# Date       Thu Sep 26 - Wed Oct 9 1974 (13d)
 # Teams      10
 # Matches    15
 
-[Thu Sep 26]
-  Syria - Palestine  2-0   @ Damascus, Syria
-[Fri Sep 27]
-  Algeria - Lebanon  4-1   @ Damascus, Syria
-[Sat Sep 28]
-  Yemen - Sudan  0-6   @ Damascus, Syria
-[Sun Sep 29]
-  Algeria - Jordan  6-0   @ Damascus, Syria
-[Mon Sep 30]
-  Libya - Yemen  9-1   @ Damascus, Syria
-  Palestine - Sudan  1-3   @ Damascus, Syria
-[Tue Oct 1]
-  Morocco - Tunisia  3-1   @ Damascus, Syria
-[Wed Oct 2]
-  Libya - Palestine  0-0   @ Damascus, Syria
-[Thu Oct 3]
-  Algeria - Tunisia  0-1   @ Damascus, Syria
-[Fri Oct 4]
-  Libya - Sudan  1-3   @ Damascus, Syria
-  Syria - Yemen  6-0   @ Damascus, Syria
-[Sun Oct 6]
-  Palestine - Yemen  7-1   @ Damascus, Syria
-[Mon Oct 7]
-  Morocco - Sudan  2-0   @ Damascus, Syria
-[Wed Oct 9]
-  Sudan - Tunisia  1-3   @ Damascus, Syria
-  Syria - Morocco  1-1   @ Damascus, Syria   [Morocco wins on penalties]
+Thu Sep 26
+  Syria                v Palestine             2-0   @ Damascus, Syria
+Fri Sep 27
+  Algeria              v Lebanon               4-1   @ Damascus, Syria
+Sat Sep 28
+  Yemen                v Sudan                 0-6   @ Damascus, Syria
+Sun Sep 29
+  Algeria              v Jordan                6-0   @ Damascus, Syria
+Mon Sep 30
+  Libya                v Yemen                 9-1   @ Damascus, Syria
+  Palestine            v Sudan                 1-3   @ Damascus, Syria
+Tue Oct 1
+  Morocco              v Tunisia               3-1   @ Damascus, Syria
+Wed Oct 2
+  Libya                v Palestine             0-0   @ Damascus, Syria
+Thu Oct 3
+  Algeria              v Tunisia               0-1   @ Damascus, Syria
+Fri Oct 4
+  Libya                v Sudan                 1-3   @ Damascus, Syria
+  Syria                v Yemen                 6-0   @ Damascus, Syria
+Sun Oct 6
+  Palestine            v Yemen                 7-1   @ Damascus, Syria
+Mon Oct 7
+  Morocco              v Sudan                 2-0   @ Damascus, Syria
+Wed Oct 9
+  Sudan                v Tunisia               1-3   @ Damascus, Syria
+  Syria                v Morocco               1-1   @ Damascus, Syria   [Morocco wins on penalties]
 

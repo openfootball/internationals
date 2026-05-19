@@ -1,11 +1,11 @@
 = Copa Rio Branco 1976
 
-# Date       Wed Feb/25 - Wed Apr/28 1976 (63d)
+# Date       Wed Feb 25 - Wed Apr 28 1976 (63d)
 # Teams      2
 # Matches    2
 
-[Wed Feb 25]
-  Uruguay - Brazil  1-2   @ Montevideo, Uruguay
-[Wed Apr 28]
-  Brazil - Uruguay  2-1   @ Rio de Janeiro, Brazil
+Wed Feb 25
+  Uruguay              v Brazil                1-2   @ Montevideo, Uruguay
+Wed Apr 28
+  Brazil               v Uruguay               2-1   @ Rio de Janeiro, Brazil
 

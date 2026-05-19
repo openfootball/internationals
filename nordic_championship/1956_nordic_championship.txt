@@ -1,18 +1,18 @@
 = Nordic Championship 1956
 
-# Date       Sun Jun/10 - Sun Oct/21 1956 (133d)
+# Date       Sun Jun 10 - Sun Oct 21 1956 (133d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 10]
-  Finland - Sweden  1-3   @ Helsinki, Finland
-[Sun Jun 24]
-  Denmark - Norway  2-3   @ Copenhagen, Denmark
-[Sun Aug 26]
-  Norway - Finland  1-1   @ Oslo, Norway
-[Sun Sep 16]
-  Finland - Denmark  0-4   @ Helsinki, Finland
-  Norway - Sweden  3-1   @ Oslo, Norway
-[Sun Oct 21]
-  Sweden - Denmark  1-1   @ Solna, Sweden
+Sun Jun 10
+  Finland              v Sweden                1-3   @ Helsinki, Finland
+Sun Jun 24
+  Denmark              v Norway                2-3   @ Copenhagen, Denmark
+Sun Aug 26
+  Norway               v Finland               1-1   @ Oslo, Norway
+Sun Sep 16
+  Finland              v Denmark               0-4   @ Helsinki, Finland
+  Norway               v Sweden                3-1   @ Oslo, Norway
+Sun Oct 21
+  Sweden               v Denmark               1-1   @ Solna, Sweden
 

@@ -1,18 +1,18 @@
 = Baltic Cup 1997
 
-# Date       Wed Jul/9 - Fri Jul/11 1997 (2d)
+# Date       Wed Jul 9 - Fri Jul 11 1997 (2d)
 # Teams      3
 # Matches    3
 
-[Wed Jul 9]
-  Lithuania - Estonia  2-1   @ Vilnius, Lithuania
-     Igoris Morinas 35' Dainius Suliauskas 69' (pen.);
-     Martin Reim 77'
-[Thu Jul 10]
-  Estonia - Latvia  1-2   @ Vilnius, Lithuania
-     Marko Kristal 15';
-     Vladimirs Babičevs 30' Marians Pahars 50'
-[Fri Jul 11]
-  Lithuania - Latvia  1-0   @ Vilnius, Lithuania
-     Tomas Ramelis 66'
+Wed Jul 9
+  Lithuania            v Estonia               2-1   @ Vilnius, Lithuania
+     (Igoris Morinas 35' Dainius Suliauskas 69'(p);
+      Martin Reim 77')
+Thu Jul 10
+  Estonia              v Latvia                1-2   @ Vilnius, Lithuania
+     (Marko Kristal 15';
+      Vladimirs Babičevs 30' Marians Pahars 50')
+Fri Jul 11
+  Lithuania            v Latvia                1-0   @ Vilnius, Lithuania
+     (Tomas Ramelis 66')
 

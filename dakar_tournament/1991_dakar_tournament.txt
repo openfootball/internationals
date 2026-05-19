@@ -1,14 +1,14 @@
 = Dakar Tournament 1991
 
-# Date       Mon Jan/21 - Wed Jan/23 1991 (2d)
+# Date       Mon Jan 21 - Wed Jan 23 1991 (2d)
 # Teams      4
 # Matches    4
 
-[Mon Jan 21]
-  Cameroon - Algeria  0-0   @ Dakar, Senegal   [Cameroon wins on penalties]
-  Senegal - Ivory Coast  0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
-[Tue Jan 22]
-  Senegal - Algeria  2-2   @ Dakar, Senegal   [Senegal wins on penalties]
-[Wed Jan 23]
-  Ivory Coast - Cameroon  1-1   @ Dakar, Senegal   [Ivory Coast wins on penalties]
+Mon Jan 21
+  Cameroon             v Algeria               0-0   @ Dakar, Senegal   [Cameroon wins on penalties]
+  Senegal              v Ivory Coast           0-0   @ Dakar, Senegal   [Ivory Coast wins on penalties]
+Tue Jan 22
+  Senegal              v Algeria               2-2   @ Dakar, Senegal   [Senegal wins on penalties]
+Wed Jan 23
+  Ivory Coast          v Cameroon              1-1   @ Dakar, Senegal   [Ivory Coast wins on penalties]
 

@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1939
 
-# Date       Mon Aug/14 - Wed Aug/16 1939 (2d)
+# Date       Mon Aug 14 - Wed Aug 16 1939 (2d)
 # Teams      2
 # Matches    2
 
-[Mon Aug 14]
-  Paraguay - Argentina  0-1   @ Asunción, Paraguay
-[Wed Aug 16]
-  Paraguay - Argentina  2-2   @ Asunción, Paraguay
+Mon Aug 14
+  Paraguay             v Argentina             0-1   @ Asunción, Paraguay
+Wed Aug 16
+  Paraguay             v Argentina             2-2   @ Asunción, Paraguay
 

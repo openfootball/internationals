@@ -1,15 +1,15 @@
 = Merdeka Tournament 1988
 
-# Date       Thu Dec/8 - Mon Dec/12 1988 (4d)
+# Date       Thu Dec 8 - Mon Dec 12 1988 (4d)
 # Teams      5
 # Matches    4
 
-[Thu Dec 8]
-  Malaysia - Indonesia  0-0   @ Kuala Lumpur, Malaysia
-[Fri Dec 9]
-  Oman - Singapore  1-3   @ Kuala Lumpur, Malaysia
-[Sat Dec 10]
-  Malaysia - Thailand  0-0   @ Kuala Lumpur, Malaysia
-[Mon Dec 12]
-  Indonesia - Thailand  0-0   @ Kuala Lumpur, Malaysia
+Thu Dec 8
+  Malaysia             v Indonesia             0-0   @ Kuala Lumpur, Malaysia
+Fri Dec 9
+  Oman                 v Singapore             1-3   @ Kuala Lumpur, Malaysia
+Sat Dec 10
+  Malaysia             v Thailand              0-0   @ Kuala Lumpur, Malaysia
+Mon Dec 12
+  Indonesia            v Thailand              0-0   @ Kuala Lumpur, Malaysia
 

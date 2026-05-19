@@ -1,19 +1,19 @@
 = USA Cup 1995
 
-# Date       Sun Jun/11 - Sun Jun/25 1995 (14d)
+# Date       Sun Jun 11 - Sun Jun 25 1995 (14d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 11]
-  United States - Nigeria  3-2   @ Foxborough, United States
-[Sat Jun 17]
-  Colombia - Nigeria  1-0   @ Piscataway, United States
-[Sun Jun 18]
-  United States - Mexico  4-0   @ Washington, D.C., United States
-[Wed Jun 21]
-  Mexico - Colombia  0-0   @ Washington, D.C., United States
-[Sat Jun 24]
-  Mexico - Nigeria  2-1   @ Dallas, United States
-[Sun Jun 25]
-  United States - Colombia  0-0   @ Piscataway, United States
+Sun Jun 11
+  United States        v Nigeria               3-2   @ Foxborough, United States
+Sat Jun 17
+  Colombia             v Nigeria               1-0   @ Piscataway, United States
+Sun Jun 18
+  United States        v Mexico                4-0   @ Washington, D.C., United States
+Wed Jun 21
+  Mexico               v Colombia              0-0   @ Washington, D.C., United States
+Sat Jun 24
+  Mexico               v Nigeria               2-1   @ Dallas, United States
+Sun Jun 25
+  United States        v Colombia              0-0   @ Piscataway, United States
 

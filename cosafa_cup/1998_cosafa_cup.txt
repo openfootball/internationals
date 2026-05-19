@@ -1,27 +1,27 @@
 = COSAFA Cup 1998
 
-# Date       Sun Apr/19 - Sun Sep/27 1998 (161d)
+# Date       Sun Apr 19 - Sun Sep 27 1998 (161d)
 # Teams      5
 # Matches    10
 
-[Sun Apr 19]
-  Zimbabwe - Namibia  5-2   @ Harare, Zimbabwe
-[Sun May 3]
-  Angola - Zambia  1-1   @ Luanda, Angola
-[Sat May 16]
-  Zambia - Mozambique  1-0   @ Lusaka, Zambia
-[Sun May 24]
-  Mozambique - Zimbabwe  0-2   @ Maputo, Mozambique
-[Sat May 30]
-  Namibia - Angola  1-1   @ Windhoek, Namibia
-[Sun Jul 19]
-  Mozambique - Angola  1-1   @ Maputo, Mozambique
-[Sat Aug 8]
-  Zambia - Namibia  1-1   @ Lusaka, Zambia
-[Sun Aug 30]
-  Angola - Zimbabwe  2-1   @ Luanda, Angola
-[Sat Sep 12]
-  Namibia - Mozambique  2-1   @ Windhoek, Namibia
-[Sun Sep 27]
-  Zimbabwe - Zambia  0-1   @ Harare, Zimbabwe
+Sun Apr 19
+  Zimbabwe             v Namibia               5-2   @ Harare, Zimbabwe
+Sun May 3
+  Angola               v Zambia                1-1   @ Luanda, Angola
+Sat May 16
+  Zambia               v Mozambique            1-0   @ Lusaka, Zambia
+Sun May 24
+  Mozambique           v Zimbabwe              0-2   @ Maputo, Mozambique
+Sat May 30
+  Namibia              v Angola                1-1   @ Windhoek, Namibia
+Sun Jul 19
+  Mozambique           v Angola                1-1   @ Maputo, Mozambique
+Sat Aug 8
+  Zambia               v Namibia               1-1   @ Lusaka, Zambia
+Sun Aug 30
+  Angola               v Zimbabwe              2-1   @ Luanda, Angola
+Sat Sep 12
+  Namibia              v Mozambique            2-1   @ Windhoek, Namibia
+Sun Sep 27
+  Zimbabwe             v Zambia                0-1   @ Harare, Zimbabwe
 

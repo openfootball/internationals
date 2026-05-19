@@ -1,13 +1,13 @@
 = Muratti Vase 1996
 
-# Date       Sat Mar/16 - Sun May/19 1996 (64d)
+# Date       Sat Mar 16 - Sun May 19 1996 (64d)
 # Teams      3
 # Matches    3
 
-[Sat Mar 16]
-  Alderney - Guernsey  0-2   @ Alderney, Alderney
-[Mon May 6]
-  Jersey - Guernsey  0-0   @ St Helier, Jersey
-[Sun May 19]
-  Guernsey - Jersey  0-1   @ Saint Sampson, Guernsey
+Sat Mar 16
+  Alderney             v Guernsey              0-2   @ Alderney, Alderney
+Mon May 6
+  Jersey               v Guernsey              0-0   @ St Helier, Jersey
+Sun May 19
+  Guernsey             v Jersey                0-1   @ Saint Sampson, Guernsey
 

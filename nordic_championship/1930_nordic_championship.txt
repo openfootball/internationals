@@ -1,19 +1,19 @@
 = Nordic Championship 1930
 
-# Date       Sun Jun/1 - Sun Sep/28 1930 (119d)
+# Date       Sun Jun 1 - Sun Sep 28 1930 (119d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 1]
-  Norway - Finland  6-2   @ Oslo, Norway
-[Mon Jun 16]
-  Finland - Denmark  1-6   @ Helsinki, Finland
-[Sun Jun 22]
-  Denmark - Sweden  6-1   @ Copenhagen, Denmark
-[Sun Jul 6]
-  Sweden - Norway  6-3   @ Stockholm, Sweden
-[Sun Sep 21]
-  Norway - Denmark  1-0   @ Oslo, Norway
-[Sun Sep 28]
-  Finland - Sweden  4-4   @ Helsinki, Finland
+Sun Jun 1
+  Norway               v Finland               6-2   @ Oslo, Norway
+Mon Jun 16
+  Finland              v Denmark               1-6   @ Helsinki, Finland
+Sun Jun 22
+  Denmark              v Sweden                6-1   @ Copenhagen, Denmark
+Sun Jul 6
+  Sweden               v Norway                6-3   @ Stockholm, Sweden
+Sun Sep 21
+  Norway               v Denmark               1-0   @ Oslo, Norway
+Sun Sep 28
+  Finland              v Sweden                4-4   @ Helsinki, Finland
 

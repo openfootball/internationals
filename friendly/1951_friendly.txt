@@ -1,148 +1,148 @@
 = Friendly 1951
 
-# Date       Tue Feb/6 - Sat Dec/29 1951 (326d)
+# Date       Tue Feb 6 - Sat Dec 29 1951 (326d)
 # Teams      55
 # Matches    78
 
-[Tue Feb 6]
-  France - Yugoslavia  2-1   @ Paris, France
-[Sun Feb 18]
-  Spain - Switzerland  6-3   @ Madrid, Spain
-[Sat Feb 24]
-  Zimbabwe - Zambia  2-1   @ Salisbury, Southern Rhodesia
-[Mon Mar 19]
-  Barbados - Grenada  1-3   @ Bridgetown, Barbados
-  Martinique - Guadeloupe  3-0   @ Fort-de-France, Martinique
-[Wed Mar 21]
-  Barbados - Grenada  3-2   @ Bridgetown, Barbados
-[Sun Apr 8]
-  Portugal - Italy  1-4   @ Oeiras, Portugal
-[Sun Apr 15]
-  Netherlands - Belgium  5-4   @ Amsterdam, Netherlands
-  Switzerland - Germany  2-3   @ Zürich, Switzerland
-[Sun May 6]
-  Italy - Yugoslavia  0-0   @ Milan, Italy
-[Wed May 9]
-  England - Argentina  2-1   @ London, England
-[Sat May 12]
-  Northern Ireland - France  2-2   @ Belfast, Northern Ireland
-  Scotland - Denmark  3-1   @ Glasgow, Scotland
-  Wales - Portugal  2-1   @ Cardiff, Wales
-[Sun May 13]
-  Republic of Ireland - Argentina  0-1   @ Dublin, Éire
-[Wed May 16]
-  Scotland - France  1-0   @ Glasgow, Scotland
-  Wales - Switzerland  3-2   @ Wrexham, Wales
-[Thu May 17]
-  Guadeloupe - Martinique  1-1   @ Pointe-à-Pitre, Guadeloupe
-[Sat May 19]
-  England - Portugal  5-2   @ Liverpool, England
-[Sun May 20]
-  Belgium - Scotland  0-5   @ Brussels, Belgium
-  Czechoslovakia - Romania  2-2   @ Prague, Czechoslovakia
-[Fri May 25]
-  Barbados - Jamaica  3-0   @ Bridgetown, Barbados
-[Sat May 26]
-  Barbados - Jamaica  0-1   @ Bridgetown, Barbados
-[Sun May 27]
-  Austria - Scotland  4-0   @ Vienna, Austria
-  Hungary - Poland  6-0   @ Budapest, Hungary
-[Mon May 28]
-  Barbados - Jamaica  5-2   @ Bridgetown, Barbados
-[Wed May 30]
-  Norway - Republic of Ireland  2-3   @ Oslo, Norway
-[Sun Jun 3]
-  Italy - France  4-1   @ Genoa, Italy
-[Wed Jun 6]
-  Netherlands - Norway  2-3   @ Rotterdam, Netherlands
-[Sun Jun 10]
-  Belgium - Spain  3-3   @ Brussels, Belgium
-  Sweden - Turkey  3-1   @ Solna, Sweden
-[Sun Jun 17]
-  Denmark - Austria  3-3   @ Copenhagen, Denmark
-  Germany - Turkey  1-2   @ Berlin, Germany
-  Portugal - Belgium  1-1   @ Oeiras, Portugal
-  Sweden - Spain  0-0   @ Solna, Sweden
-[Sun Jun 24]
-  Yugoslavia - Switzerland  7-3   @ Belgrade, Yugoslavia
-[Fri Jun 29]
-  Iceland - Sweden  4-3   @ Reykjavík, Iceland
-[Sat Jul 14]
-  Madagascar - Réunion  3-1   @ Curepipe, Mauritius
-[Thu Jul 19]
-  Mauritius - Madagascar  7-1   @ Curepipe, Mauritius
-[Sat Jul 21]
-  Mauritius - Réunion  10-2   @ Curepipe, Mauritius
-[Thu Jul 26]
-  Norway - Iceland  3-1   @ Trondheim, Norway
-[Thu Aug 23]
-  Norway - Yugoslavia  2-4   @ Oslo, Norway
-[Fri Aug 31]
-  Suriname - Guyana  6-1   @ Paramaribo, Dutch Guyana
-[Sun Sep 2]
-  Suriname - Guyana  5-0   @ Paramaribo, Dutch Guyana
-  Yugoslavia - Sweden  2-1   @ Belgrade, Yugoslavia
-[Sun Sep 9]
-  Suriname - Guyana  4-0   @ Paramaribo, Dutch Guyana
-[Wed Sep 19]
-  New Caledonia - New Zealand  2-0   @ Nouméa, New Caledonia
-[Sat Sep 22]
-  New Caledonia - New Zealand  4-6   @ Nouméa, New Caledonia
-[Sun Sep 23]
-  Austria - Germany  0-2   @ Vienna, Austria
-[Mon Sep 24]
-  New Caledonia - New Zealand  2-0   @ Nouméa, New Caledonia
-[Tue Sep 25]
-  Kenya - Uganda  2-1   @ Dar es Salaam, Tanganyika
-[Wed Sep 26]
-  Tanzania - Zanzibar  1-0   @ Dar es Salaam, Tanganyika
-[Sat Sep 29]
-  Tanzania - Kenya  3-2   @ Dar es Salaam, Tanganyika
-[Sun Sep 30]
-  New Caledonia - New Zealand  1-3   @ Nouméa, New Caledonia
-[Wed Oct 3]
-  England - France  2-2   @ London, England
-[Thu Oct 4]
-  New Zealand - Vanuatu  9-0   @ Nouméa, New Caledonia
-[Sun Oct 7]
-  Fiji - New Zealand  4-6   @ Suva, Fiji
-[Sun Oct 14]
-  Belgium - Austria  1-8   @ Brussels, Belgium
-  Czechoslovakia - Hungary  1-2   @ Ostrava, Czechoslovakia
-  Switzerland - France  1-2   @ Geneva, Switzerland
-[Wed Oct 17]
-  Republic of Ireland - Germany  3-2   @ Dublin, Éire
-[Sat Oct 20]
-  Nigeria - Ghana  5-0   @ Lagos, Nigeria
-[Sat Oct 27]
-  Netherlands - Finland  4-4   @ Rotterdam, Netherlands
-[Thu Nov 1]
-  France - Austria  2-2   @ Colombes, France
-[Sun Nov 4]
-  Luxembourg - Finland  3-0   @ Luxembourg, Luxembourg
-[Sun Nov 11]
-  Italy - Sweden  1-1   @ Florence, Italy
-[Wed Nov 14]
-  Turkey - Sweden  1-0   @ Istanbul, Turkey
-[Sun Nov 18]
-  Hungary - Finland  8-0   @ Budapest, Hungary
-[Wed Nov 21]
-  Turkey - Germany  0-2   @ Istanbul, Turkey
-[Sun Nov 25]
-  Greece - Egypt  1-0   @ Athens, Greece
-  Netherlands - Belgium  6-7   @ Rotterdam, Netherlands
-[Wed Nov 28]
-  England - Austria  2-2   @ London, England
-[Sat Dec 8]
-  Venezuela - Panama  4-1   @ Caracas, Venezuela
-[Thu Dec 13]
-  Guadeloupe - Trinidad and Tobago  0-2   @ Basse-Terre, Guadeloupe
-[Sun Dec 23]
-  Germany - Luxembourg  4-1   @ Essen, Germany
-[Wed Dec 26]
-  Jamaica - Haiti  2-2   @ Kingston, Jamaica
-[Thu Dec 27]
-  Jamaica - Haiti  0-1   @ Kingston, Jamaica
-[Sat Dec 29]
-  Jamaica - Haiti  2-1   @ Kingston, Jamaica
+Tue Feb 6
+  France               v Yugoslavia            2-1   @ Paris, France
+Sun Feb 18
+  Spain                v Switzerland           6-3   @ Madrid, Spain
+Sat Feb 24
+  Zimbabwe             v Zambia                2-1   @ Salisbury, Southern Rhodesia
+Mon Mar 19
+  Barbados             v Grenada               1-3   @ Bridgetown, Barbados
+  Martinique           v Guadeloupe            3-0   @ Fort-de-France, Martinique
+Wed Mar 21
+  Barbados             v Grenada               3-2   @ Bridgetown, Barbados
+Sun Apr 8
+  Portugal             v Italy                 1-4   @ Oeiras, Portugal
+Sun Apr 15
+  Netherlands          v Belgium               5-4   @ Amsterdam, Netherlands
+  Switzerland          v Germany               2-3   @ Zürich, Switzerland
+Sun May 6
+  Italy                v Yugoslavia            0-0   @ Milan, Italy
+Wed May 9
+  England              v Argentina             2-1   @ London, England
+Sat May 12
+  Northern Ireland     v France                2-2   @ Belfast, Northern Ireland
+  Scotland             v Denmark               3-1   @ Glasgow, Scotland
+  Wales                v Portugal              2-1   @ Cardiff, Wales
+Sun May 13
+  Republic of Ireland  v Argentina             0-1   @ Dublin, Éire
+Wed May 16
+  Scotland             v France                1-0   @ Glasgow, Scotland
+  Wales                v Switzerland           3-2   @ Wrexham, Wales
+Thu May 17
+  Guadeloupe           v Martinique            1-1   @ Pointe-à-Pitre, Guadeloupe
+Sat May 19
+  England              v Portugal              5-2   @ Liverpool, England
+Sun May 20
+  Belgium              v Scotland              0-5   @ Brussels, Belgium
+  Czechoslovakia       v Romania               2-2   @ Prague, Czechoslovakia
+Fri May 25
+  Barbados             v Jamaica               3-0   @ Bridgetown, Barbados
+Sat May 26
+  Barbados             v Jamaica               0-1   @ Bridgetown, Barbados
+Sun May 27
+  Austria              v Scotland              4-0   @ Vienna, Austria
+  Hungary              v Poland                6-0   @ Budapest, Hungary
+Mon May 28
+  Barbados             v Jamaica               5-2   @ Bridgetown, Barbados
+Wed May 30
+  Norway               v Republic of Ireland   2-3   @ Oslo, Norway
+Sun Jun 3
+  Italy                v France                4-1   @ Genoa, Italy
+Wed Jun 6
+  Netherlands          v Norway                2-3   @ Rotterdam, Netherlands
+Sun Jun 10
+  Belgium              v Spain                 3-3   @ Brussels, Belgium
+  Sweden               v Turkey                3-1   @ Solna, Sweden
+Sun Jun 17
+  Denmark              v Austria               3-3   @ Copenhagen, Denmark
+  Germany              v Turkey                1-2   @ Berlin, Germany
+  Portugal             v Belgium               1-1   @ Oeiras, Portugal
+  Sweden               v Spain                 0-0   @ Solna, Sweden
+Sun Jun 24
+  Yugoslavia           v Switzerland           7-3   @ Belgrade, Yugoslavia
+Fri Jun 29
+  Iceland              v Sweden                4-3   @ Reykjavík, Iceland
+Sat Jul 14
+  Madagascar           v Réunion               3-1   @ Curepipe, Mauritius
+Thu Jul 19
+  Mauritius            v Madagascar            7-1   @ Curepipe, Mauritius
+Sat Jul 21
+  Mauritius            v Réunion               10-2   @ Curepipe, Mauritius
+Thu Jul 26
+  Norway               v Iceland               3-1   @ Trondheim, Norway
+Thu Aug 23
+  Norway               v Yugoslavia            2-4   @ Oslo, Norway
+Fri Aug 31
+  Suriname             v Guyana                6-1   @ Paramaribo, Dutch Guyana
+Sun Sep 2
+  Suriname             v Guyana                5-0   @ Paramaribo, Dutch Guyana
+  Yugoslavia           v Sweden                2-1   @ Belgrade, Yugoslavia
+Sun Sep 9
+  Suriname             v Guyana                4-0   @ Paramaribo, Dutch Guyana
+Wed Sep 19
+  New Caledonia        v New Zealand           2-0   @ Nouméa, New Caledonia
+Sat Sep 22
+  New Caledonia        v New Zealand           4-6   @ Nouméa, New Caledonia
+Sun Sep 23
+  Austria              v Germany               0-2   @ Vienna, Austria
+Mon Sep 24
+  New Caledonia        v New Zealand           2-0   @ Nouméa, New Caledonia
+Tue Sep 25
+  Kenya                v Uganda                2-1   @ Dar es Salaam, Tanganyika
+Wed Sep 26
+  Tanzania             v Zanzibar              1-0   @ Dar es Salaam, Tanganyika
+Sat Sep 29
+  Tanzania             v Kenya                 3-2   @ Dar es Salaam, Tanganyika
+Sun Sep 30
+  New Caledonia        v New Zealand           1-3   @ Nouméa, New Caledonia
+Wed Oct 3
+  England              v France                2-2   @ London, England
+Thu Oct 4
+  New Zealand          v Vanuatu               9-0   @ Nouméa, New Caledonia
+Sun Oct 7
+  Fiji                 v New Zealand           4-6   @ Suva, Fiji
+Sun Oct 14
+  Belgium              v Austria               1-8   @ Brussels, Belgium
+  Czechoslovakia       v Hungary               1-2   @ Ostrava, Czechoslovakia
+  Switzerland          v France                1-2   @ Geneva, Switzerland
+Wed Oct 17
+  Republic of Ireland  v Germany               3-2   @ Dublin, Éire
+Sat Oct 20
+  Nigeria              v Ghana                 5-0   @ Lagos, Nigeria
+Sat Oct 27
+  Netherlands          v Finland               4-4   @ Rotterdam, Netherlands
+Thu Nov 1
+  France               v Austria               2-2   @ Colombes, France
+Sun Nov 4
+  Luxembourg           v Finland               3-0   @ Luxembourg, Luxembourg
+Sun Nov 11
+  Italy                v Sweden                1-1   @ Florence, Italy
+Wed Nov 14
+  Turkey               v Sweden                1-0   @ Istanbul, Turkey
+Sun Nov 18
+  Hungary              v Finland               8-0   @ Budapest, Hungary
+Wed Nov 21
+  Turkey               v Germany               0-2   @ Istanbul, Turkey
+Sun Nov 25
+  Greece               v Egypt                 1-0   @ Athens, Greece
+  Netherlands          v Belgium               6-7   @ Rotterdam, Netherlands
+Wed Nov 28
+  England              v Austria               2-2   @ London, England
+Sat Dec 8
+  Venezuela            v Panama                4-1   @ Caracas, Venezuela
+Thu Dec 13
+  Guadeloupe           v Trinidad and Tobago   0-2   @ Basse-Terre, Guadeloupe
+Sun Dec 23
+  Germany              v Luxembourg            4-1   @ Essen, Germany
+Wed Dec 26
+  Jamaica              v Haiti                 2-2   @ Kingston, Jamaica
+Thu Dec 27
+  Jamaica              v Haiti                 0-1   @ Kingston, Jamaica
+Sat Dec 29
+  Jamaica              v Haiti                 2-1   @ Kingston, Jamaica
 

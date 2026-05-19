@@ -1,91 +1,91 @@
 = Friendly 1934
 
-# Date       Sun Jan/14 - Sun Dec/16 1934 (336d)
+# Date       Sun Jan 14 - Sun Dec 16 1934 (336d)
 # Teams      32
 # Matches    44
 
-[Sun Jan 14]
-  Germany - Hungary  3-1   @ Frankfurt am Main, Germany
-[Sun Jan 21]
-  Belgium - France  2-3   @ Brussels, Belgium
-[Fri Feb 2]
-  Catalonia - Spain  0-2   @ Barcelona, Spain
-[Sun Mar 11]
-  France - Switzerland  0-1   @ Paris, France
-  Netherlands - Belgium  9-3   @ Amsterdam, Netherlands
-[Tue Mar 13]
-  Guadeloupe - Martinique  0-6   @ Basse-Terre, Guadeloupe
-[Sun Mar 18]
-  Bulgaria - Yugoslavia  1-2   @ Sofia, Bulgaria
-[Sun Mar 25]
-  France - Czechoslovakia  1-2   @ Colombes, France
-[Sun Apr 1]
-  Yugoslavia - Bulgaria  2-3   @ Belgrade, Yugoslavia
-[Sun Apr 15]
-  Austria - Hungary  5-2   @ Vienna, Austria
-[Thu May 10]
-  Hungary - England  2-1   @ Budapest, Hungary
-  Netherlands - France  4-5   @ Amsterdam, Netherlands
-[Wed May 16]
-  Czechoslovakia - England  2-1   @ Prague, Czechoslovakia
-[Mon May 21]
-  Denmark - Poland  4-2   @ Copenhagen, Denmark
-[Wed May 23]
-  Sweden - Poland  4-2   @ Stockholm, Sweden
-[Sun Jun 3]
-  Yugoslavia - Brazil  8-4   @ Belgrade, Yugoslavia
-[Sun Jun 10]
-  Lithuania - Latvia  2-0   @ Kaunas, Lithuania
-[Sun Jun 17]
-  Catalonia - Brazil  2-1   @ Barcelona, Spain
-[Sun Jun 24]
-  Catalonia - Brazil  2-2   @ Girona, Spain
-[Fri Jun 29]
-  Lithuania - Estonia  1-1   @ Kaunas, Lithuania
-[Wed Jul 18]
-  Uruguay - Argentina  2-2   @ Montevideo, Uruguay
-[Sun Jul 22]
-  Curaçao - Suriname  3-1   @ Willemstad, Curaçao
-[Wed Jul 25]
-  Curaçao - Suriname  3-2   @ Willemstad, Curaçao
-[Sun Jul 29]
-  Curaçao - Suriname  2-2   @ Willemstad, Curaçao
-[Tue Jul 31]
-  Aruba - Suriname  1-1   @ Oranjestad, Aruba
-[Mon Aug 6]
-  Suriname - Trinidad and Tobago  3-3   @ Paramaribo, Dutch Guyana
-[Wed Aug 8]
-  Estonia - Finland  1-1   @ Tallinn, Estonia
-[Fri Aug 10]
-  Estonia - Hungary  2-2   @ Tallinn, Estonia
-[Tue Aug 14]
-  Latvia - Finland  1-1   @ Riga, Latvia
-[Wed Aug 15]
-  Argentina - Uruguay  1-0   @ Avellaneda, Argentina
-[Thu Aug 16]
-  Lithuania - Finland  1-0   @ Kaunas, Lithuania
-[Sun Aug 26]
-  Yugoslavia - Poland  4-1   @ Belgrade, Yugoslavia
-[Sun Sep 2]
-  Czechoslovakia - Yugoslavia  3-1   @ Prague, Czechoslovakia
-[Sun Sep 9]
-  Latvia - Lithuania  1-3   @ Riga, Latvia
-  Poland - Germany  2-5   @ Warsaw, Poland
-[Sun Sep 23]
-  Sweden - Latvia  3-1   @ Stockholm, Sweden
-[Sun Oct 7]
-  Denmark - Germany  2-5   @ Copenhagen, Denmark
-[Sun Oct 14]
-  Latvia - Poland  2-6   @ Riga, Latvia
-  Poland - Romania  3-3   @ Lwów, Poland
-[Sun Nov 4]
-  Switzerland - Netherlands  2-4   @ Bern, Switzerland
-[Wed Nov 14]
-  England - Italy  3-2   @ London, England
-[Sun Dec 9]
-  Italy - Hungary  4-2   @ Milan, Italy
-[Sat Dec 15]
-  Republic of Ireland - Hungary  2-4   @ Dublin, Irish Free State
-[Sun Dec 16]
-  France - Yugoslavia  3-2   @ Paris, France
+Sun Jan 14
+  Germany              v Hungary               3-1   @ Frankfurt am Main, Germany
+Sun Jan 21
+  Belgium              v France                2-3   @ Brussels, Belgium
+Fri Feb 2
+  Catalonia            v Spain                 0-2   @ Barcelona, Spain
+Sun Mar 11
+  France               v Switzerland           0-1   @ Paris, France
+  Netherlands          v Belgium               9-3   @ Amsterdam, Netherlands
+Tue Mar 13
+  Guadeloupe           v Martinique            0-6   @ Basse-Terre, Guadeloupe
+Sun Mar 18
+  Bulgaria             v Yugoslavia            1-2   @ Sofia, Bulgaria
+Sun Mar 25
+  France               v Czechoslovakia        1-2   @ Colombes, France
+Sun Apr 1
+  Yugoslavia           v Bulgaria              2-3   @ Belgrade, Yugoslavia
+Sun Apr 15
+  Austria              v Hungary               5-2   @ Vienna, Austria
+Thu May 10
+  Hungary              v England               2-1   @ Budapest, Hungary
+  Netherlands          v France                4-5   @ Amsterdam, Netherlands
+Wed May 16
+  Czechoslovakia       v England               2-1   @ Prague, Czechoslovakia
+Mon May 21
+  Denmark              v Poland                4-2   @ Copenhagen, Denmark
+Wed May 23
+  Sweden               v Poland                4-2   @ Stockholm, Sweden
+Sun Jun 3
+  Yugoslavia           v Brazil                8-4   @ Belgrade, Yugoslavia
+Sun Jun 10
+  Lithuania            v Latvia                2-0   @ Kaunas, Lithuania
+Sun Jun 17
+  Catalonia            v Brazil                2-1   @ Barcelona, Spain
+Sun Jun 24
+  Catalonia            v Brazil                2-2   @ Girona, Spain
+Fri Jun 29
+  Lithuania            v Estonia               1-1   @ Kaunas, Lithuania
+Wed Jul 18
+  Uruguay              v Argentina             2-2   @ Montevideo, Uruguay
+Sun Jul 22
+  Curaçao              v Suriname              3-1   @ Willemstad, Curaçao
+Wed Jul 25
+  Curaçao              v Suriname              3-2   @ Willemstad, Curaçao
+Sun Jul 29
+  Curaçao              v Suriname              2-2   @ Willemstad, Curaçao
+Tue Jul 31
+  Aruba                v Suriname              1-1   @ Oranjestad, Aruba
+Mon Aug 6
+  Suriname             v Trinidad and Tobago   3-3   @ Paramaribo, Dutch Guyana
+Wed Aug 8
+  Estonia              v Finland               1-1   @ Tallinn, Estonia
+Fri Aug 10
+  Estonia              v Hungary               2-2   @ Tallinn, Estonia
+Tue Aug 14
+  Latvia               v Finland               1-1   @ Riga, Latvia
+Wed Aug 15
+  Argentina            v Uruguay               1-0   @ Avellaneda, Argentina
+Thu Aug 16
+  Lithuania            v Finland               1-0   @ Kaunas, Lithuania
+Sun Aug 26
+  Yugoslavia           v Poland                4-1   @ Belgrade, Yugoslavia
+Sun Sep 2
+  Czechoslovakia       v Yugoslavia            3-1   @ Prague, Czechoslovakia
+Sun Sep 9
+  Latvia               v Lithuania             1-3   @ Riga, Latvia
+  Poland               v Germany               2-5   @ Warsaw, Poland
+Sun Sep 23
+  Sweden               v Latvia                3-1   @ Stockholm, Sweden
+Sun Oct 7
+  Denmark              v Germany               2-5   @ Copenhagen, Denmark
+Sun Oct 14
+  Latvia               v Poland                2-6   @ Riga, Latvia
+  Poland               v Romania               3-3   @ Lwów, Poland
+Sun Nov 4
+  Switzerland          v Netherlands           2-4   @ Bern, Switzerland
+Wed Nov 14
+  England              v Italy                 3-2   @ London, England
+Sun Dec 9
+  Italy                v Hungary               4-2   @ Milan, Italy
+Sat Dec 15
+  Republic of Ireland  v Hungary               2-4   @ Dublin, Irish Free State
+Sun Dec 16
+  France               v Yugoslavia            3-2   @ Paris, France
 

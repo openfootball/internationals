@@ -1,38 +1,38 @@
 = Southeast Asian Games 1997
 
-# Date       Sun Oct/5 - Sat Oct/18 1997 (13d)
+# Date       Sun Oct 5 - Sat Oct 18 1997 (13d)
 # Teams      10
 # Matches    24
 
-[Sun Oct 5]
-  Vietnam - Malaysia  0-1   @ Jakarta, Indonesia
-  Indonesia - Laos  5-2   @ Jakarta, Indonesia
-  Thailand - Myanmar  2-1   @ Jakarta, Indonesia
-  Brunei - Cambodia  0-4   @ Jakarta, Indonesia
-[Tue Oct 7]
-  Malaysia - Philippines  4-0   @ Jakarta, Indonesia
-  Indonesia - Vietnam  2-2   @ Jakarta, Indonesia
-  Brunei - Thailand  0-6   @ Jakarta, Indonesia
-  Singapore - Myanmar  2-2   @ Jakarta, Indonesia
-[Thu Oct 9]
-  Laos - Philippines  4-1   @ Jakarta, Indonesia
-  Indonesia - Malaysia  4-0   @ Jakarta, Indonesia
-  Singapore - Cambodia  2-1   @ Jakarta, Indonesia
-  Brunei - Myanmar  1-6   @ Jakarta, Indonesia
-[Sun Oct 12]
-  Indonesia - Philippines  2-0   @ Jakarta, Indonesia
-  Vietnam - Laos  2-1   @ Jakarta, Indonesia
-  Thailand - Cambodia  4-0   @ Jakarta, Indonesia
-  Singapore - Brunei  1-0   @ Jakarta, Indonesia
-[Tue Oct 14]
-  Vietnam - Philippines  3-0   @ Jakarta, Indonesia
-  Laos - Malaysia  1-0   @ Jakarta, Indonesia
-  Myanmar - Cambodia  1-3   @ Jakarta, Indonesia
-  Singapore - Thailand  0-0   @ Jakarta, Indonesia
-[Thu Oct 16]
-  Thailand - Vietnam  2-1   @ Jakarta, Indonesia
-  Indonesia - Singapore  2-1   @ Jakarta, Indonesia
-[Sat Oct 18]
-  Vietnam - Singapore  1-0   @ Jakarta, Indonesia
-  Indonesia - Thailand  1-1   @ Jakarta, Indonesia   [Thailand wins on penalties]
+Sun Oct 5
+  Vietnam              v Malaysia              0-1   @ Jakarta, Indonesia
+  Indonesia            v Laos                  5-2   @ Jakarta, Indonesia
+  Thailand             v Myanmar               2-1   @ Jakarta, Indonesia
+  Brunei               v Cambodia              0-4   @ Jakarta, Indonesia
+Tue Oct 7
+  Malaysia             v Philippines           4-0   @ Jakarta, Indonesia
+  Indonesia            v Vietnam               2-2   @ Jakarta, Indonesia
+  Brunei               v Thailand              0-6   @ Jakarta, Indonesia
+  Singapore            v Myanmar               2-2   @ Jakarta, Indonesia
+Thu Oct 9
+  Laos                 v Philippines           4-1   @ Jakarta, Indonesia
+  Indonesia            v Malaysia              4-0   @ Jakarta, Indonesia
+  Singapore            v Cambodia              2-1   @ Jakarta, Indonesia
+  Brunei               v Myanmar               1-6   @ Jakarta, Indonesia
+Sun Oct 12
+  Indonesia            v Philippines           2-0   @ Jakarta, Indonesia
+  Vietnam              v Laos                  2-1   @ Jakarta, Indonesia
+  Thailand             v Cambodia              4-0   @ Jakarta, Indonesia
+  Singapore            v Brunei                1-0   @ Jakarta, Indonesia
+Tue Oct 14
+  Vietnam              v Philippines           3-0   @ Jakarta, Indonesia
+  Laos                 v Malaysia              1-0   @ Jakarta, Indonesia
+  Myanmar              v Cambodia              1-3   @ Jakarta, Indonesia
+  Singapore            v Thailand              0-0   @ Jakarta, Indonesia
+Thu Oct 16
+  Thailand             v Vietnam               2-1   @ Jakarta, Indonesia
+  Indonesia            v Singapore             2-1   @ Jakarta, Indonesia
+Sat Oct 18
+  Vietnam              v Singapore             1-0   @ Jakarta, Indonesia
+  Indonesia            v Thailand              1-1   @ Jakarta, Indonesia   [Thailand wins on penalties]
 

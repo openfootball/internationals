@@ -1,11 +1,11 @@
 = Soccer Ashes 2025
 
-# Date       Fri Sep/5 - Tue Sep/9 2025 (4d)
+# Date       Fri Sep 5 - Tue Sep 9 2025 (4d)
 # Teams      2
 # Matches    2
 
-[Fri Sep 5]
-  Australia - New Zealand  1-0   @ Canberra, Australia
-[Tue Sep 9]
-  New Zealand - Australia  1-3   @ Auckland, New Zealand
+Fri Sep 5
+  Australia            v New Zealand           1-0   @ Canberra, Australia
+Tue Sep 9
+  New Zealand          v Australia             1-3   @ Auckland, New Zealand
 

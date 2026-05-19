@@ -1,13 +1,13 @@
 = King Hassan II Tournament 2000
 
-# Date       Sun Jun/4 - Tue Jun/6 2000 (2d)
+# Date       Sun Jun 4 - Tue Jun 6 2000 (2d)
 # Teams      4
 # Matches    4
 
-[Sun Jun 4]
-  France - Japan  2-2   @ Casablanca, Morocco   [France wins on penalties]
-  Morocco - Jamaica  1-0   @ Casablanca, Morocco
-[Tue Jun 6]
-  Jamaica - Japan  0-4   @ Casablanca, Morocco
-  Morocco - France  1-5   @ Casablanca, Morocco
+Sun Jun 4
+  France               v Japan                 2-2   @ Casablanca, Morocco   [France wins on penalties]
+  Morocco              v Jamaica               1-0   @ Casablanca, Morocco
+Tue Jun 6
+  Jamaica              v Japan                 0-4   @ Casablanca, Morocco
+  Morocco              v France                1-5   @ Casablanca, Morocco
 

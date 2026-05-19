@@ -1,16 +1,16 @@
 = Korea Cup 1995
 
-# Date       Sun Jun/4 - Mon Jun/12 1995 (8d)
+# Date       Sun Jun 4 - Mon Jun 12 1995 (8d)
 # Teams      4
 # Matches    5
 
-[Sun Jun 4]
-  Ecuador - Zambia  4-1   @ Changwon, South Korea
-[Mon Jun 5]
-  South Korea - Costa Rica  1-0   @ Suwon, South Korea
-[Sat Jun 10]
-  Costa Rica - Ecuador  1-2   @ Seoul, South Korea
-  South Korea - Zambia  2-3   @ Seoul, South Korea
-[Mon Jun 12]
-  Ecuador - Zambia  1-0   @ Seoul, South Korea
+Sun Jun 4
+  Ecuador              v Zambia                4-1   @ Changwon, South Korea
+Mon Jun 5
+  South Korea          v Costa Rica            1-0   @ Suwon, South Korea
+Sat Jun 10
+  Costa Rica           v Ecuador               1-2   @ Seoul, South Korea
+  South Korea          v Zambia                2-3   @ Seoul, South Korea
+Mon Jun 12
+  Ecuador              v Zambia                1-0   @ Seoul, South Korea
 

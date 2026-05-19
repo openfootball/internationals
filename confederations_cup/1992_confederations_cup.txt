@@ -1,21 +1,21 @@
 = Confederations Cup 1992
 
-# Date       Thu Oct/15 - Tue Oct/20 1992 (5d)
+# Date       Thu Oct 15 - Tue Oct 20 1992 (5d)
 # Teams      4
 # Matches    4
 
-[Thu Oct 15]
-  Saudi Arabia - United States  3-0   @ Riyadh, Saudi Arabia
-     Fahad Al-Bishi 48' (pen.) Yousuf Al-Thunayan 74' Khaled Massad 84'
-[Fri Oct 16]
-  Argentina - Ivory Coast  4-0   @ Riyadh, Saudi Arabia
-     Gabriel Batistuta 2' Gabriel Batistuta 10' Ricardo Altamirano 67' Alberto Acosta 81'
-[Mon Oct 19]
-  United States - Ivory Coast  5-2   @ Riyadh, Saudi Arabia
-     Marcelo Balboa 12' Cobi Jones 31' Eric Wynalda 56' Bruce Murray 67' Bruce Murray 83';
-     Abdoulaye Traoré 16' Donald-Olivier Sié 76'
-[Tue Oct 20]
-  Saudi Arabia - Argentina  1-3   @ Riyadh, Saudi Arabia
-     Saeed Al-Owairan 65';
-     Leonardo Rodríguez 18' Claudio Caniggia 24' Diego Simeone 64'
+Thu Oct 15
+  Saudi Arabia         v United States         3-0   @ Riyadh, Saudi Arabia
+     (Fahad Al-Bishi 48'(p) Yousuf Al-Thunayan 74' Khaled Massad 84')
+Fri Oct 16
+  Argentina            v Ivory Coast           4-0   @ Riyadh, Saudi Arabia
+     (Gabriel Batistuta 2' Gabriel Batistuta 10' Ricardo Altamirano 67' Alberto Acosta 81')
+Mon Oct 19
+  United States        v Ivory Coast           5-2   @ Riyadh, Saudi Arabia
+     (Marcelo Balboa 12' Cobi Jones 31' Eric Wynalda 56' Bruce Murray 67' Bruce Murray 83';
+      Abdoulaye Traoré 16' Donald-Olivier Sié 76')
+Tue Oct 20
+  Saudi Arabia         v Argentina             1-3   @ Riyadh, Saudi Arabia
+     (Saeed Al-Owairan 65';
+      Leonardo Rodríguez 18' Claudio Caniggia 24' Diego Simeone 64')
 

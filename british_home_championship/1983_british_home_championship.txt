@@ -1,20 +1,20 @@
 = British Home Championship 1983
 
-# Date       Wed Feb/23 - Tue Dec/13 1983 (293d)
+# Date       Wed Feb 23 - Tue Dec 13 1983 (293d)
 # Teams      4
 # Matches    7
 
-[Wed Feb 23]
-  England - Wales  2-1   @ London, England
-[Tue May 24]
-  Scotland - Northern Ireland  0-0   @ Glasgow, Scotland
-[Sat May 28]
-  Northern Ireland - England  0-0   @ Belfast, Northern Ireland
-  Wales - Scotland  0-2   @ Cardiff, Wales
-[Tue May 31]
-  Northern Ireland - Wales  0-1   @ Belfast, Northern Ireland
-[Wed Jun 1]
-  England - Scotland  2-0   @ London, England
-[Tue Dec 13]
-  Northern Ireland - Scotland  2-0   @ Belfast, Northern Ireland
+Wed Feb 23
+  England              v Wales                 2-1   @ London, England
+Tue May 24
+  Scotland             v Northern Ireland      0-0   @ Glasgow, Scotland
+Sat May 28
+  Northern Ireland     v England               0-0   @ Belfast, Northern Ireland
+  Wales                v Scotland              0-2   @ Cardiff, Wales
+Tue May 31
+  Northern Ireland     v Wales                 0-1   @ Belfast, Northern Ireland
+Wed Jun 1
+  England              v Scotland              2-0   @ London, England
+Tue Dec 13
+  Northern Ireland     v Scotland              2-0   @ Belfast, Northern Ireland
 

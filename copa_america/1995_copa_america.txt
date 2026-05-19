@@ -1,89 +1,89 @@
 = Copa América 1995
 
-# Date       Wed Jul/5 - Sun Jul/23 1995 (18d)
+# Date       Wed Jul 5 - Sun Jul 23 1995 (18d)
 # Teams      12
 # Matches    26
 
-[Wed Jul 5]
-  Uruguay - Venezuela  4-1   @ Montevideo, Uruguay
-     Daniel Fonseca 14' Marcelo Otero 25' Enzo Francescoli 75' (pen.) Gustavo Poyet 84';
-     José Luis Dolgetta 53'
-[Thu Jul 6]
-  Mexico - Paraguay  1-2   @ Maldonado, Uruguay
-     Luis García Postigo 44';
-     José Cardozo 63' Adriano Samaniego 73'
-[Fri Jul 7]
-  Brazil - Ecuador  1-0   @ Rivera, Uruguay
-     Ronaldo Rodrigues de Jesus 73'
-  Colombia - Peru  1-1   @ Rivera, Uruguay
-     Faustino Asprilla 68';
-     Roberto Palacios 80'
-[Sat Jul 8]
-  Argentina - Bolivia  2-1   @ Paysandú, Uruguay
-     Gabriel Batistuta 70' Abel Balbo 81';
-     Demetrio Angola 75'
-  United States - Chile  2-1   @ Paysandú, Uruguay
-     Eric Wynalda 14' Eric Wynalda 20';
-     Sebastián Rozental 63'
-[Sun Jul 9]
-  Mexico - Venezuela  3-1   @ Maldonado, Uruguay
-     Luis García Postigo 41' (pen.) Luis García Postigo 57' (pen.) Eduardo Espinoza 76';
-     Jorge Campos 65' (o.g.)
-  Uruguay - Paraguay  1-0   @ Montevideo, Uruguay
-     Enzo Francescoli 13'
-[Mon Jul 10]
-  Brazil - Peru  2-0   @ Rivera, Uruguay
-     Zinho 77' (pen.) Edmundo 82'
-  Colombia - Ecuador  1-0   @ Rivera, Uruguay
-     Freddy Rincón 44'
-[Tue Jul 11]
-  Argentina - Chile  4-0   @ Paysandú, Uruguay
-     Gabriel Batistuta 1' Diego Simeone 6' Gabriel Batistuta 51' Abel Balbo 54'
-  United States - Bolivia  0-1   @ Paysandú, Uruguay
-     -; Marco Etcheverry 23'
-[Wed Jul 12]
-  Paraguay - Venezuela  3-2   @ Maldonado, Uruguay
-     José Cardozo 35' Juan Carlos Villamayor 64' Carlos Gamarra 83';
-     Gabriel Miranda 13' José Luis Dolgetta 68'
-[Thu Jul 13]
-  Brazil - Colombia  3-0   @ Rivera, Uruguay
-     Leonardo Araújo 30' Túlio Costa 76' René Higuita 85' (o.g.)
-  Peru - Ecuador  1-2   @ Rivera, Uruguay
-     Iván Hurtado 82' (o.g.);
-     Energio Díaz 61' José Mora 75'
-  Uruguay - Mexico  1-1   @ Montevideo, Uruguay
-     Marcelo Saralegui 79';
-     Luis García Postigo 67'
-[Fri Jul 14]
-  Argentina - United States  0-3   @ Paysandú, Uruguay
-     -; Frank Klopas 20' Alexi Lalas 31' Eric Wynalda 58'
-  Chile - Bolivia  2-2   @ Paysandú, Uruguay
-     Ivo Basay 55' Ivo Basay 61';
-     Miguel Mercado 78' Mauricio Ramos 87'
-[Sun Jul 16]
-  Paraguay - Colombia  1-1   @ Montevideo, Uruguay   [Colombia wins on penalties]
-     Juan Carlos Villamayor 26';
-     Freddy Rincón 53'
-  Uruguay - Bolivia  2-1   @ Montevideo, Uruguay
-     Marcelo Otero 1' Daniel Fonseca 30';
-     Óscar Carmelo Sánchez 71'
-[Mon Jul 17]
-  Brazil - Argentina  2-2   @ Rivera, Uruguay   [Brazil wins on penalties]
-     Edmundo 9' Túlio Maravilha 81';
-     Abel Balbo 2' Gabriel Batistuta 29'
-  United States - Mexico  0-0   @ Paysandú, Uruguay   [United States wins on penalties]
-[Wed Jul 19]
-  Uruguay - Colombia  2-0   @ Montevideo, Uruguay
-     Edgardo Adinolfi 51' Marcelo Otero 70'
-[Thu Jul 20]
-  United States - Brazil  0-1   @ Maldonado, Uruguay
-     -; Aldair 13'
-[Sat Jul 22]
-  Colombia - United States  4-1   @ Maldonado, Uruguay
-     Luis Quiñónez 30' Carlos Valderrama 38' Faustino Asprilla 50' Freddy Rincón 76';
-     Joe-Max Moore 52' (pen.)
-[Sun Jul 23]
-  Uruguay - Brazil  1-1   @ Montevideo, Uruguay   [Uruguay wins on penalties]
-     Pablo Bengoechea 51';
-     Túlio Maravilha 30'
+Wed Jul 5
+  Uruguay              v Venezuela             4-1   @ Montevideo, Uruguay
+     (Daniel Fonseca 14' Marcelo Otero 25' Enzo Francescoli 75'(p) Gustavo Poyet 84';
+      José Luis Dolgetta 53')
+Thu Jul 6
+  Mexico               v Paraguay              1-2   @ Maldonado, Uruguay
+     (Luis García Postigo 44';
+      José Cardozo 63' Adriano Samaniego 73')
+Fri Jul 7
+  Brazil               v Ecuador               1-0   @ Rivera, Uruguay
+     (Ronaldo Rodrigues de Jesus 73')
+  Colombia             v Peru                  1-1   @ Rivera, Uruguay
+     (Faustino Asprilla 68';
+      Roberto Palacios 80')
+Sat Jul 8
+  Argentina            v Bolivia               2-1   @ Paysandú, Uruguay
+     (Gabriel Batistuta 70' Abel Balbo 81';
+      Demetrio Angola 75')
+  United States        v Chile                 2-1   @ Paysandú, Uruguay
+     (Eric Wynalda 14' Eric Wynalda 20';
+      Sebastián Rozental 63')
+Sun Jul 9
+  Mexico               v Venezuela             3-1   @ Maldonado, Uruguay
+     (Luis García Postigo 41'(p) Luis García Postigo 57'(p) Eduardo Espinoza 76';
+      Jorge Campos 65'(og))
+  Uruguay              v Paraguay              1-0   @ Montevideo, Uruguay
+     (Enzo Francescoli 13')
+Mon Jul 10
+  Brazil               v Peru                  2-0   @ Rivera, Uruguay
+     (Zinho 77'(p) Edmundo 82')
+  Colombia             v Ecuador               1-0   @ Rivera, Uruguay
+     (Freddy Rincón 44')
+Tue Jul 11
+  Argentina            v Chile                 4-0   @ Paysandú, Uruguay
+     (Gabriel Batistuta 1' Diego Simeone 6' Gabriel Batistuta 51' Abel Balbo 54')
+  United States        v Bolivia               0-1   @ Paysandú, Uruguay
+     (Marco Etcheverry 23')
+Wed Jul 12
+  Paraguay             v Venezuela             3-2   @ Maldonado, Uruguay
+     (José Cardozo 35' Juan Carlos Villamayor 64' Carlos Gamarra 83';
+      Gabriel Miranda 13' José Luis Dolgetta 68')
+Thu Jul 13
+  Brazil               v Colombia              3-0   @ Rivera, Uruguay
+     (Leonardo Araújo 30' Túlio Costa 76' René Higuita 85'(og))
+  Peru                 v Ecuador               1-2   @ Rivera, Uruguay
+     (Iván Hurtado 82'(og);
+      Energio Díaz 61' José Mora 75')
+  Uruguay              v Mexico                1-1   @ Montevideo, Uruguay
+     (Marcelo Saralegui 79';
+      Luis García Postigo 67')
+Fri Jul 14
+  Argentina            v United States         0-3   @ Paysandú, Uruguay
+     (Frank Klopas 20' Alexi Lalas 31' Eric Wynalda 58')
+  Chile                v Bolivia               2-2   @ Paysandú, Uruguay
+     (Ivo Basay 55' Ivo Basay 61';
+      Miguel Mercado 78' Mauricio Ramos 87')
+Sun Jul 16
+  Paraguay             v Colombia              1-1   @ Montevideo, Uruguay   [Colombia wins on penalties]
+     (Juan Carlos Villamayor 26';
+      Freddy Rincón 53')
+  Uruguay              v Bolivia               2-1   @ Montevideo, Uruguay
+     (Marcelo Otero 1' Daniel Fonseca 30';
+      Óscar Carmelo Sánchez 71')
+Mon Jul 17
+  Brazil               v Argentina             2-2   @ Rivera, Uruguay   [Brazil wins on penalties]
+     (Edmundo 9' Túlio Maravilha 81';
+      Abel Balbo 2' Gabriel Batistuta 29')
+  United States        v Mexico                0-0   @ Paysandú, Uruguay   [United States wins on penalties]
+Wed Jul 19
+  Uruguay              v Colombia              2-0   @ Montevideo, Uruguay
+     (Edgardo Adinolfi 51' Marcelo Otero 70')
+Thu Jul 20
+  United States        v Brazil                0-1   @ Maldonado, Uruguay
+     (Aldair 13')
+Sat Jul 22
+  Colombia             v United States         4-1   @ Maldonado, Uruguay
+     (Luis Quiñónez 30' Carlos Valderrama 38' Faustino Asprilla 50' Freddy Rincón 76';
+      Joe-Max Moore 52'(p))
+Sun Jul 23
+  Uruguay              v Brazil                1-1   @ Montevideo, Uruguay   [Uruguay wins on penalties]
+     (Pablo Bengoechea 51';
+      Túlio Maravilha 30')
 

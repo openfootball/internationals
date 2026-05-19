@@ -1,32 +1,32 @@
 = Merdeka Tournament 1964
 
-# Date       Sat Aug/22 - Sun Sep/6 1964 (15d)
+# Date       Sat Aug 22 - Sun Sep 6 1964 (15d)
 # Teams      7
 # Matches    14
 
-[Sat Aug 22]
-  Malaysia - Thailand  3-0   @ Kuala Lumpur, Malaysia
-[Sun Aug 23]
-  Cambodia - Taiwan  0-4   @ Kuala Lumpur, Malaysia
-[Mon Aug 24]
-  Malaysia - India  1-1   @ Kuala Lumpur, Malaysia
-[Thu Aug 27]
-  Cambodia - India  0-4   @ Kuala Lumpur, Malaysia
-[Fri Aug 28]
-  Taiwan - Vietnam Republic  0-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Myanmar  0-3   @ Kuala Lumpur, Malaysia
-[Sat Aug 29]
-  India - Thailand  2-1   @ Ipoh, Malaysia
-[Sun Aug 30]
-  Myanmar - Taiwan  2-4   @ Kuala Lumpur, Malaysia
-  Malaysia - Vietnam Republic  1-2   @ Kuala Lumpur, Malaysia
-[Tue Sep 1]
-  Cambodia - Thailand  0-1   @ Kuala Lumpur, Malaysia
-[Wed Sep 2]
-  Myanmar - Vietnam Republic  1-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Taiwan  5-2   @ Kuala Lumpur, Malaysia
-[Sat Sep 5]
-  Malaysia - Thailand  1-1   @ Ipoh, Malaysia
-[Sun Sep 6]
-  Myanmar - India  1-0   @ Kuala Lumpur, Malaysia
+Sat Aug 22
+  Malaysia             v Thailand              3-0   @ Kuala Lumpur, Malaysia
+Sun Aug 23
+  Cambodia             v Taiwan                0-4   @ Kuala Lumpur, Malaysia
+Mon Aug 24
+  Malaysia             v India                 1-1   @ Kuala Lumpur, Malaysia
+Thu Aug 27
+  Cambodia             v India                 0-4   @ Kuala Lumpur, Malaysia
+Fri Aug 28
+  Taiwan               v Vietnam Republic      0-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Myanmar               0-3   @ Kuala Lumpur, Malaysia
+Sat Aug 29
+  India                v Thailand              2-1   @ Ipoh, Malaysia
+Sun Aug 30
+  Myanmar              v Taiwan                2-4   @ Kuala Lumpur, Malaysia
+  Malaysia             v Vietnam Republic      1-2   @ Kuala Lumpur, Malaysia
+Tue Sep 1
+  Cambodia             v Thailand              0-1   @ Kuala Lumpur, Malaysia
+Wed Sep 2
+  Myanmar              v Vietnam Republic      1-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Taiwan                5-2   @ Kuala Lumpur, Malaysia
+Sat Sep 5
+  Malaysia             v Thailand              1-1   @ Ipoh, Malaysia
+Sun Sep 6
+  Myanmar              v India                 1-0   @ Kuala Lumpur, Malaysia
 

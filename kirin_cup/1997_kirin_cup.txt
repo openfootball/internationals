@@ -1,13 +1,13 @@
 = Kirin Cup 1997
 
-# Date       Sun Jun/8 - Sun Jun/15 1997 (7d)
+# Date       Sun Jun 8 - Sun Jun 15 1997 (7d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 8]
-  Japan - Croatia  4-3   @ Tokyo, Japan
-[Thu Jun 12]
-  Croatia - Turkey  1-1   @ Sendai, Japan
-[Sun Jun 15]
-  Japan - Turkey  1-0   @ Osaka, Japan
+Sun Jun 8
+  Japan                v Croatia               4-3   @ Tokyo, Japan
+Thu Jun 12
+  Croatia              v Turkey                1-1   @ Sendai, Japan
+Sun Jun 15
+  Japan                v Turkey                1-0   @ Osaka, Japan
 

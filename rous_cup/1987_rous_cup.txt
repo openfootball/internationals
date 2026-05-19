@@ -1,13 +1,13 @@
 = Rous Cup 1987
 
-# Date       Tue May/19 - Tue May/26 1987 (7d)
+# Date       Tue May 19 - Tue May 26 1987 (7d)
 # Teams      3
 # Matches    3
 
-[Tue May 19]
-  England - Brazil  1-1   @ London, England
-[Sat May 23]
-  Scotland - England  0-0   @ Glasgow, Scotland
-[Tue May 26]
-  Scotland - Brazil  0-2   @ Glasgow, Scotland
+Tue May 19
+  England              v Brazil                1-1   @ London, England
+Sat May 23
+  Scotland             v England               0-0   @ Glasgow, Scotland
+Tue May 26
+  Scotland             v Brazil                0-2   @ Glasgow, Scotland
 

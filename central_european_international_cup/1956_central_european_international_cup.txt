@@ -1,23 +1,23 @@
 = Central European International Cup 1956
 
-# Date       Sun Apr/29 - Sun Dec/9 1956 (224d)
+# Date       Sun Apr 29 - Sun Dec 9 1956 (224d)
 # Teams      6
 # Matches    8
 
-[Sun Apr 29]
-  Hungary - Yugoslavia  2-2   @ Budapest, Hungary
-[Thu May 10]
-  Switzerland - Czechoslovakia  1-6   @ Geneva, Switzerland
-[Sun May 20]
-  Hungary - Czechoslovakia  2-4   @ Budapest, Hungary
-[Sun Jun 17]
-  Yugoslavia - Austria  1-1   @ Zagreb, Yugoslavia
-[Sun Sep 16]
-  Yugoslavia - Hungary  1-3   @ Belgrade, Yugoslavia
-[Sun Sep 30]
-  Yugoslavia - Czechoslovakia  1-2   @ Belgrade, Yugoslavia
-[Sun Nov 11]
-  Switzerland - Italy  1-1   @ Bern, Switzerland
-[Sun Dec 9]
-  Italy - Austria  2-1   @ Genoa, Italy
+Sun Apr 29
+  Hungary              v Yugoslavia            2-2   @ Budapest, Hungary
+Thu May 10
+  Switzerland          v Czechoslovakia        1-6   @ Geneva, Switzerland
+Sun May 20
+  Hungary              v Czechoslovakia        2-4   @ Budapest, Hungary
+Sun Jun 17
+  Yugoslavia           v Austria               1-1   @ Zagreb, Yugoslavia
+Sun Sep 16
+  Yugoslavia           v Hungary               1-3   @ Belgrade, Yugoslavia
+Sun Sep 30
+  Yugoslavia           v Czechoslovakia        1-2   @ Belgrade, Yugoslavia
+Sun Nov 11
+  Switzerland          v Italy                 1-1   @ Bern, Switzerland
+Sun Dec 9
+  Italy                v Austria               2-1   @ Genoa, Italy
 

@@ -1,19 +1,19 @@
 = Cyprus International Tournament 2000
 
-# Date       Wed Feb/2 - Sun Feb/6 2000 (4d)
+# Date       Wed Feb 2 - Sun Feb 6 2000 (4d)
 # Teams      7
 # Matches    9
 
-[Wed Feb 2]
-  Armenia - Moldova  2-1   @ Larnaca, Cyprus
-  Cyprus - Lithuania  2-1   @ Limassol, Cyprus
-  Romania - Latvia  2-0   @ Paphos, Cyprus
-[Fri Feb 4]
-  Cyprus - Armenia  3-2   @ Nicosia, Cyprus
-  Moldova - Lithuania  2-1   @ Larnaca, Cyprus
-  Romania - Georgia  1-1   @ Larnaca, Cyprus   [Romania wins on penalties]
-[Sun Feb 6]
-  Cyprus - Romania  3-2   @ Nicosia, Cyprus
-  Georgia - Armenia  2-1   @ Limassol, Cyprus
-  Latvia - Lithuania  1-2   @ Larnaca, Cyprus
+Wed Feb 2
+  Armenia              v Moldova               2-1   @ Larnaca, Cyprus
+  Cyprus               v Lithuania             2-1   @ Limassol, Cyprus
+  Romania              v Latvia                2-0   @ Paphos, Cyprus
+Fri Feb 4
+  Cyprus               v Armenia               3-2   @ Nicosia, Cyprus
+  Moldova              v Lithuania             2-1   @ Larnaca, Cyprus
+  Romania              v Georgia               1-1   @ Larnaca, Cyprus   [Romania wins on penalties]
+Sun Feb 6
+  Cyprus               v Romania               3-2   @ Nicosia, Cyprus
+  Georgia              v Armenia               2-1   @ Limassol, Cyprus
+  Latvia               v Lithuania             1-2   @ Larnaca, Cyprus
 

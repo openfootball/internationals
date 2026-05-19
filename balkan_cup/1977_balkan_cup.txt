@@ -1,15 +1,15 @@
 = Balkan Cup 1977
 
-# Date       Wed Feb/16 - Wed Nov/16 1977 (273d)
+# Date       Wed Feb 16 - Wed Nov 16 1977 (273d)
 # Teams      5
 # Matches    4
 
-[Wed Feb 16]
-  Turkey - Bulgaria  2-0   @ Istanbul, Turkey
-[Wed Mar 23]
-  Romania - Turkey  4-0   @ Bucharest, Romania
-[Wed Sep 21]
-  Bulgaria - Turkey  3-1   @ Sofia, Bulgaria
-[Wed Nov 16]
-  Greece - Yugoslavia  0-0   @ Salonica, Greece
+Wed Feb 16
+  Turkey               v Bulgaria              2-0   @ Istanbul, Turkey
+Wed Mar 23
+  Romania              v Turkey                4-0   @ Bucharest, Romania
+Wed Sep 21
+  Bulgaria             v Turkey                3-1   @ Sofia, Bulgaria
+Wed Nov 16
+  Greece               v Yugoslavia            0-0   @ Salonica, Greece
 

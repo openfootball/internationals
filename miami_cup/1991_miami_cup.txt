@@ -1,11 +1,11 @@
 = Miami Cup 1991
 
-# Date       Fri Feb/1 - Sun Feb/3 1991 (2d)
+# Date       Fri Feb 1 - Sun Feb 3 1991 (2d)
 # Teams      3
 # Matches    2
 
-[Fri Feb 1]
-  United States - Switzerland  0-1   @ Miami, United States
-[Sun Feb 3]
-  Colombia - Switzerland  2-3   @ Miami, United States
+Fri Feb 1
+  United States        v Switzerland           0-1   @ Miami, United States
+Sun Feb 3
+  Colombia             v Switzerland           2-3   @ Miami, United States
 

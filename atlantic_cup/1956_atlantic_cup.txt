@@ -1,13 +1,13 @@
 = Atlantic Cup 1956
 
-# Date       Sun Jun/24 - Sun Jul/8 1956 (14d)
+# Date       Sun Jun 24 - Sun Jul 8 1956 (14d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 24]
-  Brazil - Uruguay  2-0   @ Rio de Janeiro, Brazil
-[Sun Jul 1]
-  Uruguay - Argentina  1-2   @ Montevideo, Uruguay
-[Sun Jul 8]
-  Argentina - Brazil  0-0   @ Avellaneda, Argentina
+Sun Jun 24
+  Brazil               v Uruguay               2-0   @ Rio de Janeiro, Brazil
+Sun Jul 1
+  Uruguay              v Argentina             1-2   @ Montevideo, Uruguay
+Sun Jul 8
+  Argentina            v Brazil                0-0   @ Avellaneda, Argentina
 

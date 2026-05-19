@@ -1,155 +1,155 @@
 = FIFA World Cup 1990
 
-# Date       Fri Jun/8 - Sun Jul/8 1990 (30d)
+# Date       Fri Jun 8 - Sun Jul 8 1990 (30d)
 # Teams      24
 # Matches    52
 
-[Fri Jun 8]
-  Argentina - Cameroon  0-1   @ Milan, Italy
-     -; François Omam-Biyik 67'
-[Sat Jun 9]
-  Italy - Austria  1-0   @ Rome, Italy
-     Salvatore Schillaci 78'
-  Russia - Romania  0-2   @ Bari, Italy
-     -; Marius Lăcătuș 41' Marius Lăcătuș 55' (pen.)
-  United Arab Emirates - Colombia  0-2   @ Bologna, Italy
-     -; Bernardo Redín 50' Carlos Valderrama 85'
-[Sun Jun 10]
-  Brazil - Sweden  2-1   @ Turin, Italy
-     Careca 40' Careca 63';
-     Tomas Brolin 79'
-  Germany - Yugoslavia  4-1   @ Milan, Italy
-     Lothar Matthäus 28' Jürgen Klinsmann 39' Lothar Matthäus 64' Rudi Völler 70';
-     Davor Jozić 55'
-  United States - Czechoslovakia  1-5   @ Florence, Italy
-     Paul Caligiuri 60';
-     Tomáš Skuhravý 26' Michal Bílek 40' (pen.) Ivan Hašek 50' Tomáš Skuhravý 78' Milan Luhový 90'
-[Mon Jun 11]
-  Costa Rica - Scotland  1-0   @ Genoa, Italy
-     Juan Cayasso 49'
-  England - Republic of Ireland  1-1   @ Cagliari, Italy
-     Gary Lineker 9';
-     Kevin Sheedy 73'
-[Tue Jun 12]
-  Belgium - South Korea  2-0   @ Verona, Italy
-     Marc Degryse 53' Michel De Wolf 64'
-  Netherlands - Egypt  1-1   @ Palermo, Italy
-     Wim Kieft 58';
-     Magdi Abdelghani 83' (pen.)
-[Wed Jun 13]
-  Argentina - Russia  2-0   @ Naples, Italy
-     Pedro Troglio 27' Jorge Burruchaga 79'
-  Uruguay - Spain  0-0   @ Udine, Italy
-[Thu Jun 14]
-  Cameroon - Romania  2-1   @ Bari, Italy
-     Roger Milla 76' Roger Milla 86';
-     Gavril Balint 88'
-  Italy - United States  1-0   @ Rome, Italy
-     Giuseppe Giannini 11'
-  Yugoslavia - Colombia  1-0   @ Bologna, Italy
-     Davor Jozić 75'
-[Fri Jun 15]
-  Austria - Czechoslovakia  0-1   @ Florence, Italy
-     -; Michal Bílek 31' (pen.)
-  Germany - United Arab Emirates  5-1   @ Milan, Italy
-     Rudi Völler 35' Jürgen Klinsmann 37' Lothar Matthäus 47' Uwe Bein 58' Rudi Völler 75';
-     Khalid Ismaïl 46'
-[Sat Jun 16]
-  Brazil - Costa Rica  1-0   @ Turin, Italy
-     Müller 33'
-  England - Netherlands  0-0   @ Cagliari, Italy
-  Sweden - Scotland  1-2   @ Genoa, Italy
-     Glenn Strömberg 86';
-     Stuart McCall 11' Mo Johnston 81' (pen.)
-[Sun Jun 17]
-  Belgium - Uruguay  3-1   @ Verona, Italy
-     Lei Clijsters 15' Enzo Scifo 24' Jan Ceulemans 47';
-     Pablo Bengoechea 73'
-  Republic of Ireland - Egypt  0-0   @ Palermo, Italy
-  South Korea - Spain  1-3   @ Udine, Italy
-     Hwangbo Kwan 43';
-     Míchel 23' Míchel 61' Míchel 81'
-[Mon Jun 18]
-  Argentina - Romania  1-1   @ Naples, Italy
-     Pedro Monzón 62';
-     Gavril Balint 68'
-  Cameroon - Russia  0-4   @ Bari, Italy
-     -; Oleh Protasov 20' Andrei Zygmantovich 29' Oleksandr Zavarov 52' Igor Dobrovolski 63'
-[Tue Jun 19]
-  Austria - United States  2-1   @ Florence, Italy
-     Andreas Ogris 49' Gerhard Rodax 63';
-     Bruce Murray 83'
-  Germany - Colombia  1-1   @ Milan, Italy
-     Pierre Littbarski 88';
-     Freddy Rincón 90'
-  Italy - Czechoslovakia  2-0   @ Rome, Italy
-     Salvatore Schillaci 9' Roberto Baggio 78'
-  Yugoslavia - United Arab Emirates  4-1   @ Bologna, Italy
-     Safet Sušić 5' Darko Pančev 9' Darko Pančev 46' Robert Prosinečki 90';
-     Ali Thani Jumaa 22'
-[Wed Jun 20]
-  Brazil - Scotland  1-0   @ Turin, Italy
-     Müller 81'
-  Sweden - Costa Rica  1-2   @ Genoa, Italy
-     Johnny Ekström 32';
-     Róger Flores 75' Hernán Medford 87'
-[Thu Jun 21]
-  Belgium - Spain  1-2   @ Verona, Italy
-     Patrick Vervoort 29';
-     Míchel 26' (pen.) Alberto Górriz 38'
-  England - Egypt  1-0   @ Cagliari, Italy
-     Mark Wright 58'
-  Republic of Ireland - Netherlands  1-1   @ Palermo, Italy
-     Niall Quinn 71';
-     Ruud Gullit 11'
-  South Korea - Uruguay  0-1   @ Udine, Italy
-     -; Daniel Fonseca 90'
-[Sat Jun 23]
-  Cameroon - Colombia  2-1   @ Naples, Italy
-     Roger Milla 106' Roger Milla 108';
-     Bernardo Redín 115'
-  Czechoslovakia - Costa Rica  4-1   @ Bari, Italy
-     Tomáš Skuhravý 12' Tomáš Skuhravý 63' Luboš Kubík 76' Tomáš Skuhravý 82';
-     Rónald González Brenes 55'
-[Sun Jun 24]
-  Brazil - Argentina  0-1   @ Turin, Italy
-     -; Claudio Caniggia 81'
-  Germany - Netherlands  2-1   @ Milan, Italy
-     Jürgen Klinsmann 51' Andreas Brehme 85';
-     Ronald Koeman 89' (pen.)
-[Mon Jun 25]
-  Republic of Ireland - Romania  0-0   @ Genoa, Italy   [Republic of Ireland wins on penalties]
-  Italy - Uruguay  2-0   @ Rome, Italy
-     Salvatore Schillaci 65' Aldo Serena 83'
-[Tue Jun 26]
-  England - Belgium  1-0   @ Bologna, Italy
-     David Platt 119'
-  Spain - Yugoslavia  1-2   @ Verona, Italy
-     Julio Salinas 84';
-     Dragan Stojković 78' Dragan Stojković 93'
-[Sat Jun 30]
-  Italy - Republic of Ireland  1-0   @ Rome, Italy
-     Salvatore Schillaci 38'
-  Yugoslavia - Argentina  0-0   @ Florence, Italy   [Argentina wins on penalties]
-[Sun Jul 1]
-  Cameroon - England  2-3   @ Naples, Italy
-     Emmanuel Kundé 61' (pen.) Eugène Ekéké 65';
-     David Platt 25' Gary Lineker 83' (pen.) Gary Lineker 105' (pen.)
-  Germany - Czechoslovakia  1-0   @ Milan, Italy
-     Lothar Matthäus 25' (pen.)
-[Tue Jul 3]
-  Italy - Argentina  1-1   @ Naples, Italy   [Argentina wins on penalties]
-     Salvatore Schillaci 17';
-     Claudio Caniggia 67'
-[Wed Jul 4]
-  Germany - England  1-1   @ Turin, Italy   [Germany wins on penalties]
-     Andreas Brehme 60';
-     Gary Lineker 80'
-[Sat Jul 7]
-  Italy - England  2-1   @ Bari, Italy
-     Roberto Baggio 71' Salvatore Schillaci 86' (pen.);
-     David Platt 81'
-[Sun Jul 8]
-  Germany - Argentina  1-0   @ Rome, Italy
-     Andreas Brehme 85' (pen.)
+Fri Jun 8
+  Argentina            v Cameroon              0-1   @ Milan, Italy
+     (François Omam-Biyik 67')
+Sat Jun 9
+  Italy                v Austria               1-0   @ Rome, Italy
+     (Salvatore Schillaci 78')
+  Russia               v Romania               0-2   @ Bari, Italy
+     (Marius Lăcătuș 41' Marius Lăcătuș 55'(p))
+  United Arab Emirates v Colombia              0-2   @ Bologna, Italy
+     (Bernardo Redín 50' Carlos Valderrama 85')
+Sun Jun 10
+  Brazil               v Sweden                2-1   @ Turin, Italy
+     (Careca 40' Careca 63';
+      Tomas Brolin 79')
+  Germany              v Yugoslavia            4-1   @ Milan, Italy
+     (Lothar Matthäus 28' Jürgen Klinsmann 39' Lothar Matthäus 64' Rudi Völler 70';
+      Davor Jozić 55')
+  United States        v Czechoslovakia        1-5   @ Florence, Italy
+     (Paul Caligiuri 60';
+      Tomáš Skuhravý 26' Michal Bílek 40'(p) Ivan Hašek 50' Tomáš Skuhravý 78' Milan Luhový 90')
+Mon Jun 11
+  Costa Rica           v Scotland              1-0   @ Genoa, Italy
+     (Juan Cayasso 49')
+  England              v Republic of Ireland   1-1   @ Cagliari, Italy
+     (Gary Lineker 9';
+      Kevin Sheedy 73')
+Tue Jun 12
+  Belgium              v South Korea           2-0   @ Verona, Italy
+     (Marc Degryse 53' Michel De Wolf 64')
+  Netherlands          v Egypt                 1-1   @ Palermo, Italy
+     (Wim Kieft 58';
+      Magdi Abdelghani 83'(p))
+Wed Jun 13
+  Argentina            v Russia                2-0   @ Naples, Italy
+     (Pedro Troglio 27' Jorge Burruchaga 79')
+  Uruguay              v Spain                 0-0   @ Udine, Italy
+Thu Jun 14
+  Cameroon             v Romania               2-1   @ Bari, Italy
+     (Roger Milla 76' Roger Milla 86';
+      Gavril Balint 88')
+  Italy                v United States         1-0   @ Rome, Italy
+     (Giuseppe Giannini 11')
+  Yugoslavia           v Colombia              1-0   @ Bologna, Italy
+     (Davor Jozić 75')
+Fri Jun 15
+  Austria              v Czechoslovakia        0-1   @ Florence, Italy
+     (Michal Bílek 31'(p))
+  Germany              v United Arab Emirates  5-1   @ Milan, Italy
+     (Rudi Völler 35' Jürgen Klinsmann 37' Lothar Matthäus 47' Uwe Bein 58' Rudi Völler 75';
+      Khalid Ismaïl 46')
+Sat Jun 16
+  Brazil               v Costa Rica            1-0   @ Turin, Italy
+     (Müller 33')
+  England              v Netherlands           0-0   @ Cagliari, Italy
+  Sweden               v Scotland              1-2   @ Genoa, Italy
+     (Glenn Strömberg 86';
+      Stuart McCall 11' Mo Johnston 81'(p))
+Sun Jun 17
+  Belgium              v Uruguay               3-1   @ Verona, Italy
+     (Lei Clijsters 15' Enzo Scifo 24' Jan Ceulemans 47';
+      Pablo Bengoechea 73')
+  Republic of Ireland  v Egypt                 0-0   @ Palermo, Italy
+  South Korea          v Spain                 1-3   @ Udine, Italy
+     (Hwangbo Kwan 43';
+      Míchel 23' Míchel 61' Míchel 81')
+Mon Jun 18
+  Argentina            v Romania               1-1   @ Naples, Italy
+     (Pedro Monzón 62';
+      Gavril Balint 68')
+  Cameroon             v Russia                0-4   @ Bari, Italy
+     (Oleh Protasov 20' Andrei Zygmantovich 29' Oleksandr Zavarov 52' Igor Dobrovolski 63')
+Tue Jun 19
+  Austria              v United States         2-1   @ Florence, Italy
+     (Andreas Ogris 49' Gerhard Rodax 63';
+      Bruce Murray 83')
+  Germany              v Colombia              1-1   @ Milan, Italy
+     (Pierre Littbarski 88';
+      Freddy Rincón 90')
+  Italy                v Czechoslovakia        2-0   @ Rome, Italy
+     (Salvatore Schillaci 9' Roberto Baggio 78')
+  Yugoslavia           v United Arab Emirates  4-1   @ Bologna, Italy
+     (Safet Sušić 5' Darko Pančev 9' Darko Pančev 46' Robert Prosinečki 90';
+      Ali Thani Jumaa 22')
+Wed Jun 20
+  Brazil               v Scotland              1-0   @ Turin, Italy
+     (Müller 81')
+  Sweden               v Costa Rica            1-2   @ Genoa, Italy
+     (Johnny Ekström 32';
+      Róger Flores 75' Hernán Medford 87')
+Thu Jun 21
+  Belgium              v Spain                 1-2   @ Verona, Italy
+     (Patrick Vervoort 29';
+      Míchel 26'(p) Alberto Górriz 38')
+  England              v Egypt                 1-0   @ Cagliari, Italy
+     (Mark Wright 58')
+  Republic of Ireland  v Netherlands           1-1   @ Palermo, Italy
+     (Niall Quinn 71';
+      Ruud Gullit 11')
+  South Korea          v Uruguay               0-1   @ Udine, Italy
+     (Daniel Fonseca 90')
+Sat Jun 23
+  Cameroon             v Colombia              2-1   @ Naples, Italy
+     (Roger Milla 106' Roger Milla 108';
+      Bernardo Redín 115')
+  Czechoslovakia       v Costa Rica            4-1   @ Bari, Italy
+     (Tomáš Skuhravý 12' Tomáš Skuhravý 63' Luboš Kubík 76' Tomáš Skuhravý 82';
+      Rónald González Brenes 55')
+Sun Jun 24
+  Brazil               v Argentina             0-1   @ Turin, Italy
+     (Claudio Caniggia 81')
+  Germany              v Netherlands           2-1   @ Milan, Italy
+     (Jürgen Klinsmann 51' Andreas Brehme 85';
+      Ronald Koeman 89'(p))
+Mon Jun 25
+  Republic of Ireland  v Romania               0-0   @ Genoa, Italy   [Republic of Ireland wins on penalties]
+  Italy                v Uruguay               2-0   @ Rome, Italy
+     (Salvatore Schillaci 65' Aldo Serena 83')
+Tue Jun 26
+  England              v Belgium               1-0   @ Bologna, Italy
+     (David Platt 119')
+  Spain                v Yugoslavia            1-2   @ Verona, Italy
+     (Julio Salinas 84';
+      Dragan Stojković 78' Dragan Stojković 93')
+Sat Jun 30
+  Italy                v Republic of Ireland   1-0   @ Rome, Italy
+     (Salvatore Schillaci 38')
+  Yugoslavia           v Argentina             0-0   @ Florence, Italy   [Argentina wins on penalties]
+Sun Jul 1
+  Cameroon             v England               2-3   @ Naples, Italy
+     (Emmanuel Kundé 61'(p) Eugène Ekéké 65';
+      David Platt 25' Gary Lineker 83'(p) Gary Lineker 105'(p))
+  Germany              v Czechoslovakia        1-0   @ Milan, Italy
+     (Lothar Matthäus 25'(p))
+Tue Jul 3
+  Italy                v Argentina             1-1   @ Naples, Italy   [Argentina wins on penalties]
+     (Salvatore Schillaci 17';
+      Claudio Caniggia 67')
+Wed Jul 4
+  Germany              v England               1-1   @ Turin, Italy   [Germany wins on penalties]
+     (Andreas Brehme 60';
+      Gary Lineker 80')
+Sat Jul 7
+  Italy                v England               2-1   @ Bari, Italy
+     (Roberto Baggio 71' Salvatore Schillaci 86'(p);
+      David Platt 81')
+Sun Jul 8
+  Germany              v Argentina             1-0   @ Rome, Italy
+     (Andreas Brehme 85'(p))
 

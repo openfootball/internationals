@@ -1,13 +1,13 @@
 = Muratti Vase 2005
 
-# Date       Sat Mar/12 - Sun May/15 2005 (64d)
+# Date       Sat Mar 12 - Sun May 15 2005 (64d)
 # Teams      3
 # Matches    3
 
-[Sat Mar 12]
-  Alderney - Guernsey  1-2   @ Alderney, Alderney
-[Mon May 2]
-  Guernsey - Jersey  0-0   @ Saint Sampson, Guernsey
-[Sun May 15]
-  Jersey - Guernsey  3-3   @ St Helier, Jersey   [Guernsey wins on penalties]
+Sat Mar 12
+  Alderney             v Guernsey              1-2   @ Alderney, Alderney
+Mon May 2
+  Guernsey             v Jersey                0-0   @ Saint Sampson, Guernsey
+Sun May 15
+  Jersey               v Guernsey              3-3   @ St Helier, Jersey   [Guernsey wins on penalties]
 

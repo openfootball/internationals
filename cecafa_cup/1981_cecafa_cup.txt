@@ -1,31 +1,31 @@
 = CECAFA Cup 1981
 
-# Date       Sat Nov/14 - Sat Nov/28 1981 (14d)
+# Date       Sat Nov 14 - Sat Nov 28 1981 (14d)
 # Teams      8
 # Matches    15
 
-[Sat Nov 14]
-  Kenya - Malawi  1-0   @ Dar es Salaam, Tanzania
-[Sun Nov 15]
-  Sudan - Uganda  2-2   @ Dodoma, Tanzania
-  Tanzania - Zanzibar  3-1   @ Dodoma, Tanzania
-[Tue Nov 17]
-  Kenya - Zanzibar  2-1   @ Dar es Salaam, Tanzania
-  Sudan - Zimbabwe  0-0   @ Dodoma, Tanzania
-  Tanzania - Malawi  2-2   @ Dar es Salaam, Tanzania
-  Uganda - Zambia  3-1   @ Dodoma, Tanzania
-[Thu Nov 19]
-  Zambia - Zimbabwe  1-1   @ Dar es Salaam, Tanzania
-[Fri Nov 20]
-  Malawi - Zanzibar  4-1   @ Dodoma, Tanzania
-  Tanzania - Kenya  1-0   @ Dodoma, Tanzania
-[Sat Nov 21]
-  Sudan - Zambia  0-2   @ Dar es Salaam, Tanzania
-[Tue Nov 24]
-  Kenya - Uganda  3-1   @ Dar es Salaam, Tanzania
-  Tanzania - Zambia  2-1   @ Dodoma, Tanzania
-[Fri Nov 27]
-  Uganda - Zambia  0-1   @ Dodoma, Tanzania
-[Sat Nov 28]
-  Tanzania - Kenya  0-1   @ Dar es Salaam, Tanzania
+Sat Nov 14
+  Kenya                v Malawi                1-0   @ Dar es Salaam, Tanzania
+Sun Nov 15
+  Sudan                v Uganda                2-2   @ Dodoma, Tanzania
+  Tanzania             v Zanzibar              3-1   @ Dodoma, Tanzania
+Tue Nov 17
+  Kenya                v Zanzibar              2-1   @ Dar es Salaam, Tanzania
+  Sudan                v Zimbabwe              0-0   @ Dodoma, Tanzania
+  Tanzania             v Malawi                2-2   @ Dar es Salaam, Tanzania
+  Uganda               v Zambia                3-1   @ Dodoma, Tanzania
+Thu Nov 19
+  Zambia               v Zimbabwe              1-1   @ Dar es Salaam, Tanzania
+Fri Nov 20
+  Malawi               v Zanzibar              4-1   @ Dodoma, Tanzania
+  Tanzania             v Kenya                 1-0   @ Dodoma, Tanzania
+Sat Nov 21
+  Sudan                v Zambia                0-2   @ Dar es Salaam, Tanzania
+Tue Nov 24
+  Kenya                v Uganda                3-1   @ Dar es Salaam, Tanzania
+  Tanzania             v Zambia                2-1   @ Dodoma, Tanzania
+Fri Nov 27
+  Uganda               v Zambia                0-1   @ Dodoma, Tanzania
+Sat Nov 28
+  Tanzania             v Kenya                 0-1   @ Dar es Salaam, Tanzania
 

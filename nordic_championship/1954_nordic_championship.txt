@@ -1,19 +1,19 @@
 = Nordic Championship 1954
 
-# Date       Sun Jun/13 - Sun Oct/31 1954 (140d)
+# Date       Sun Jun 13 - Sun Oct 31 1954 (140d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 13]
-  Finland - Denmark  2-2   @ Helsinki, Finland
-[Sun Aug 15]
-  Finland - Sweden  1-10   @ Helsinki, Finland
-[Sun Aug 29]
-  Norway - Finland  3-1   @ Oslo, Norway
-[Sun Sep 19]
-  Norway - Sweden  1-1   @ Oslo, Norway
-[Sun Oct 10]
-  Sweden - Denmark  5-2   @ Solna, Sweden
-[Sun Oct 31]
-  Denmark - Norway  0-1   @ Copenhagen, Denmark
+Sun Jun 13
+  Finland              v Denmark               2-2   @ Helsinki, Finland
+Sun Aug 15
+  Finland              v Sweden                1-10   @ Helsinki, Finland
+Sun Aug 29
+  Norway               v Finland               3-1   @ Oslo, Norway
+Sun Sep 19
+  Norway               v Sweden                1-1   @ Oslo, Norway
+Sun Oct 10
+  Sweden               v Denmark               5-2   @ Solna, Sweden
+Sun Oct 31
+  Denmark              v Norway                0-1   @ Copenhagen, Denmark
 

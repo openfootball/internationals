@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1924
 
-# Date       Thu May/15 - Sun May/18 1924 (3d)
+# Date       Thu May 15 - Sun May 18 1924 (3d)
 # Teams      2
 # Matches    2
 
-[Thu May 15]
-  Paraguay - Argentina  1-3   @ Asunción, Paraguay
-[Sun May 18]
-  Paraguay - Argentina  2-1   @ Asunción, Paraguay
+Thu May 15
+  Paraguay             v Argentina             1-3   @ Asunción, Paraguay
+Sun May 18
+  Paraguay             v Argentina             2-1   @ Asunción, Paraguay
 

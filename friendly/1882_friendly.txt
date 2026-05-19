@@ -1,17 +1,17 @@
 = Friendly 1882
 
-# Date       Sat Feb/18 - Sat Mar/25 1882 (35d)
+# Date       Sat Feb 18 - Sat Mar 25 1882 (35d)
 # Teams      4
 # Matches    5
 
-[Sat Feb 18]
-  Northern Ireland - England  0-13   @ Belfast, Ireland
-[Sat Feb 25]
-  Wales - Northern Ireland  7-1   @ Wrexham, Wales
-[Sat Mar 11]
-  Scotland - England  5-1   @ Glasgow, Scotland
-[Mon Mar 13]
-  Wales - England  5-3   @ Wrexham, Wales
-[Sat Mar 25]
-  Scotland - Wales  5-0   @ Glasgow, Scotland
+Sat Feb 18
+  Northern Ireland     v England               0-13   @ Belfast, Ireland
+Sat Feb 25
+  Wales                v Northern Ireland      7-1   @ Wrexham, Wales
+Sat Mar 11
+  Scotland             v England               5-1   @ Glasgow, Scotland
+Mon Mar 13
+  Wales                v England               5-3   @ Wrexham, Wales
+Sat Mar 25
+  Scotland             v Wales                 5-0   @ Glasgow, Scotland
 

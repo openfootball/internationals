@@ -1,24 +1,24 @@
 = Korea Cup 1987
 
-# Date       Mon Jun/8 - Sun Jun/21 1987 (13d)
+# Date       Mon Jun 8 - Sun Jun 21 1987 (13d)
 # Teams      6
 # Matches    9
 
-[Mon Jun 8]
-  Egypt - United States  3-1   @ Seoul, South Korea
-[Tue Jun 9]
-  Australia - Morocco  1-0   @ Gangneung, South Korea
-[Wed Jun 10]
-  South Korea - Egypt  0-0   @ Masan, South Korea
-[Fri Jun 12]
-  Egypt - Thailand  1-1   @ Busan, South Korea
-  South Korea - United States  1-0   @ Busan, South Korea
-[Sun Jun 14]
-  South Korea - Thailand  4-2   @ Daejeon, South Korea
-[Tue Jun 16]
-  Thailand - United States  0-1   @ Cheongju, South Korea
-[Fri Jun 19]
-  Australia - Egypt  0-0   @ Seoul, South Korea   [Australia wins on penalties]
-[Sun Jun 21]
-  South Korea - Australia  1-1   @ Seoul, South Korea   [South Korea wins on penalties]
+Mon Jun 8
+  Egypt                v United States         3-1   @ Seoul, South Korea
+Tue Jun 9
+  Australia            v Morocco               1-0   @ Gangneung, South Korea
+Wed Jun 10
+  South Korea          v Egypt                 0-0   @ Masan, South Korea
+Fri Jun 12
+  Egypt                v Thailand              1-1   @ Busan, South Korea
+  South Korea          v United States         1-0   @ Busan, South Korea
+Sun Jun 14
+  South Korea          v Thailand              4-2   @ Daejeon, South Korea
+Tue Jun 16
+  Thailand             v United States         0-1   @ Cheongju, South Korea
+Fri Jun 19
+  Australia            v Egypt                 0-0   @ Seoul, South Korea   [Australia wins on penalties]
+Sun Jun 21
+  South Korea          v Australia             1-1   @ Seoul, South Korea   [South Korea wins on penalties]
 

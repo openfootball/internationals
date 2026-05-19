@@ -1,28 +1,28 @@
 = Copa América 1916
 
-# Date       Sun Jul/2 - Mon Jul/17 1916 (15d)
+# Date       Sun Jul 2 - Mon Jul 17 1916 (15d)
 # Teams      4
 # Matches    6
 
-[Sun Jul 2]
-  Chile - Uruguay  0-4   @ Buenos Aires, Argentina
-     -; José Piendibene 44' Isabelino Gradín 55' Isabelino Gradín 70' José Piendibene 75'
-[Thu Jul 6]
-  Argentina - Chile  6-1   @ Buenos Aires, Argentina
-     Alberto Ohaco 2' Juan Domingo Brown 60' (pen.) Juan Domingo Brown 62' (pen.) Alberto Marcovecchio 67' Alberto Ohaco 75' Alberto Marcovecchio 81';
-     Telésforo Báez 44'
-[Sat Jul 8]
-  Brazil - Chile  1-1   @ Buenos Aires, Argentina
-     Demóstenes Correia de Syllos 29';
-     Hernando Salazar 85'
-[Mon Jul 10]
-  Argentina - Brazil  1-1   @ Buenos Aires, Argentina
-     José Durand Laguna 10';
-     Manoel Alencar Monte 23'
-[Wed Jul 12]
-  Brazil - Uruguay  1-2   @ Buenos Aires, Argentina
-     Arthur Friedenreich 8';
-     Isabelino Gradín 58' Jose Tognola 77'
-[Mon Jul 17]
-  Argentina - Uruguay  0-0   @ Avellaneda, Argentina
+Sun Jul 2
+  Chile                v Uruguay               0-4   @ Buenos Aires, Argentina
+     (José Piendibene 44' Isabelino Gradín 55' Isabelino Gradín 70' José Piendibene 75')
+Thu Jul 6
+  Argentina            v Chile                 6-1   @ Buenos Aires, Argentina
+     (Alberto Ohaco 2' Juan Domingo Brown 60'(p) Juan Domingo Brown 62'(p) Alberto Marcovecchio 67' Alberto Ohaco 75' Alberto Marcovecchio 81';
+      Telésforo Báez 44')
+Sat Jul 8
+  Brazil               v Chile                 1-1   @ Buenos Aires, Argentina
+     (Demóstenes Correia de Syllos 29';
+      Hernando Salazar 85')
+Mon Jul 10
+  Argentina            v Brazil                1-1   @ Buenos Aires, Argentina
+     (José Durand Laguna 10';
+      Manoel Alencar Monte 23')
+Wed Jul 12
+  Brazil               v Uruguay               1-2   @ Buenos Aires, Argentina
+     (Arthur Friedenreich 8';
+      Isabelino Gradín 58' Jose Tognola 77')
+Mon Jul 17
+  Argentina            v Uruguay               0-0   @ Avellaneda, Argentina
 

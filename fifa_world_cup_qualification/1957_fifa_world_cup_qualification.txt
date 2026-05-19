@@ -1,270 +1,270 @@
 = FIFA World Cup qualification 1957
 
-# Date       Wed Jan/16 - Sun Dec/22 1957 (340d)
+# Date       Wed Jan 16 - Sun Dec 22 1957 (340d)
 # Teams      45
 # Matches    82
 
-[Wed Jan 16]
-  Portugal - Northern Ireland  1-1   @ Lisbon, Portugal
-     Manuel Vasques 24';
-     Billy Bingham 6'
-[Sun Feb 10]
-  Guatemala - Costa Rica  2-6   @ Guatemala City, Guatemala
-     Jorge Vickers 19' Augusto Espinoza 87';
-     Jorge Monge 11' Rubén Jiménez Rodríguez 17' Jorge Monge 28' Jorge Monge 38' Danilo Montero Campos 48' Álvaro Murillo 78'
-[Sun Feb 17]
-  Costa Rica - Guatemala  3-1   @ San José, Costa Rica
-     Rubén Jiménez Rodríguez 12' Mario Cordero 28' Rodolfo Herrera González 65';
-     Francisco López Contreras 61'
-[Sun Mar 3]
-  Costa Rica - Curaçao  4-0   @ San José, Costa Rica
-     Rodolfo Herrera González 16' Álvaro Murillo 35' Rodolfo Herrera González 63' Álvaro Murillo 67'
-[Fri Mar 8]
-  Sudan - Syria  1-0   @ Khartoum, Sudan
-     Siddiq Manzul 78' (pen.)
-[Sun Mar 10]
-  Spain - Switzerland  2-2   @ Madrid, Spain
-     Luis Suárez Miramontes 30' Miguel González 48';
-     Josef Hügi 6' Josef Hügi 67'
-[Thu Mar 14]
-  Guatemala - Curaçao  1-3   @ Guatemala City, Guatemala
-     Francisco López Contreras 51';
-     Wilfred de Lanoy 23' Wilfred de Lanoy 31' Edgard Meulens 65'
-[Wed Mar 20]
-  Netherlands - Luxembourg  4-1   @ Rotterdam, Netherlands
-     Cor van der Gijp 27' Cor van der Gijp 30' Coen Dillen 72' Toon Brusselers 80';
-     Johnny Halsdorf 34'
-[Sun Apr 7]
-  Mexico - United States  6-0   @ Mexico City, Mexico
-     Crescencio Gutiérrez 14' Crescencio Gutiérrez 26' Salvador Reyes Monteón 33' Héctor Hernández 63' Salvador Reyes Monteón 69' Salvador Reyes Monteón 76'
-[Sat Apr 13]
-  Peru - Brazil  1-1   @ Lima, Peru
-     Alberto Terry 38';
-     Aluísio Francisco da Luz 47'
-[Sun Apr 21]
-  Brazil - Peru  1-0   @ Rio de Janeiro, Brazil
-     Valdir Pereira 11'
-[Thu Apr 25]
-  Italy - Northern Ireland  1-0   @ Rome, Italy
-     Sergio Cervato 3'
-[Sun Apr 28]
-  United States - Mexico  2-7   @ Long Beach, United States
-     Ed Murphy 5' Ed Murphy 45';
-     Alfredo Hernández 22' Alfredo Hernández 36' Crescencio Gutiérrez 38' Héctor Hernández 65' Enrique Sesma 79' Alfredo Hernández 82' Héctor Hernández 87'
-[Wed May 1]
-  Northern Ireland - Portugal  3-0   @ Belfast, Northern Ireland
-     Tommy Casey 22' Billy Simpson 60' Jimmy McIlroy 70' (pen.)
-  Wales - Czechoslovakia  1-0   @ Cardiff, Wales
-     Roy Vernon 75'
-[Sun May 5]
-  Greece - Yugoslavia  0-0   @ Athens, Greece
-[Wed May 8]
-  England - Republic of Ireland  5-1   @ London, England
-     Tommy Taylor 10' Tommy Taylor 19' John Atyeo 38' Tommy Taylor 40' John Atyeo 90';
-     Dermot Curtis 56'
-  Scotland - Spain  4-2   @ Glasgow, Scotland
-     Jackie Mudie 22' John Hewie 41' (pen.) Jackie Mudie 70' Jackie Mudie 79';
-     Luis Suárez Miramontes 19' Ladislao Kubala 28'
-[Sun May 12]
-  Indonesia - China PR  2-0   @ Jakarta, Indonesia
-     Rusli Ramang 47' Rusli Ramang 80'
-[Wed May 15]
-  Denmark - England  1-4   @ Copenhagen, Denmark
-     John Jensen 27';
-     Johnny Haynes 28' Tommy Taylor 71' John Atyeo 75' Tommy Taylor 86'
-[Sun May 19]
-  German DR - Wales  2-1   @ Leipzig, German DR
-     Günther Wirth 21' Willy Tröger 61';
-     Mel Charles 6'
-  Republic of Ireland - England  1-1   @ Dublin, Republic of Ireland
-     Alf Ringstead 3';
-     John Atyeo 90'
-  Switzerland - Scotland  1-2   @ Basel, Switzerland
-     Roger Vonlanthen 13';
-     Jackie Mudie 33' Tommy Ring 71'
-[Wed May 22]
-  Norway - Bulgaria  1-2   @ Oslo, Norway
-     Harald Hennum 47';
-     Georgi Dimitrov 38' Georgi Dimitrov 75'
-[Fri May 24]
-  Syria - Sudan  1-1   @ Damascus, Syria
-     Jabra Al-Zarqa 70';
-     Suleiman Faris 38'
-[Sun May 26]
-  Austria - Netherlands  3-2   @ Vienna, Austria
-     Karl Koller 47' Hans Buzek 80' Karl Stotz 89' (pen.);
-     Noud van Melis 30' Noud van Melis 32'
-  Czechoslovakia - Wales  2-0   @ Prague, Czechoslovakia
-     Ray Daniel 21' (o.g.) Tadeusz Kraus 65'
-  Portugal - Italy  3-0   @ Oeiras, Portugal
-     Manuel Vasques 41' António Dias Teixeira 81' Matateu 87'
-  Spain - Scotland  4-1   @ Madrid, Spain
-     Enrique Mateos 11' Ladislao Kubala 33' Estanislau Basora 60' Estanislau Basora 87';
-     Gordon Smith 79'
-[Sun Jun 2]
-  China PR - Indonesia  4-3   @ Beijing, China PR
-     Zhang Honggen 1' Nian Weisi 9' Sun Fucheng 47' Wang Lu 75';
-     Rusli Ramang 25' Rusli Ramang 55' Endang Witarsa 70'
-  France - Iceland  8-0   @ Nantes, France
-     Célestin Oliver 6' Célestin Oliver 11' Jean Vincent 29' René Dereuddre 36' Roger Piantoni 45' Said Brahimi 49' Roger Piantoni 81' Jean Vincent 83'
-[Wed Jun 5]
-  Belgium - Iceland  8-3   @ Brussels, Belgium
-     Richard Orlans 4' André Piters 11' Paul Vandenberg 12' Victor Mees 22' Victor Mees 26' Henri Coppens 42' Henri Coppens 44' (pen.) Richard Orlans 57';
-     Þórður Þórðarson 33' Þórður Þórðarson 77' Ríkharður Jónsson 81'
-[Wed Jun 12]
-  Norway - Hungary  2-1   @ Oslo, Norway
-     Harald Hennum 10' Kjell Kristiansen 78';
-     Lajos Tichy 43'
-[Sun Jun 16]
-  Colombia - Uruguay  1-1   @ Bogotá, Colombia
-     Carlos Arango 15';
-     Javier Ambrois 46'
-  Czechoslovakia - German DR  3-1   @ Brno, Czechoslovakia
-     Tadeusz Kraus 60' Vlastimil Bubník 81' Pavol Molnár 89';
-     Günther Wirth 18'
-  Greece - Romania  1-2   @ Athens, Greece
-     Vaggelis Panakis 29';
-     Alexandru Ene 15' Titus Ozon 78'
-[Thu Jun 20]
-  Colombia - Paraguay  2-3   @ Bogotá, Colombia
-     Jaime Gutiérrez 10' Ricardo Díaz 89';
-     Ángel Jara Saguier 34' Juan Bautista Agüero 68' Óscar Aguilera 88'
-[Sat Jun 22]
-  Canada - United States  5-1   @ Toronto, Canada
-     Norm McLeod 32' Brian Philley 35' Art Hughes 55' Gogie Stewart 57' Art Hughes 80';
-     Harry Keough 35' (pen.)
-[Sun Jun 23]
-  China PR - Indonesia  0-0   @ Yangon, Burma
-  Hungary - Bulgaria  4-1   @ Budapest, Hungary
-     Ferenc Machos 5' Ferenc Machos 14' Ferenc Machos 30' József Bozsik 52';
-     Ivan Kolev 69'
-  Russia - Poland  3-0   @ Moscow, Soviet Union
-     Boris Tatushin 9' Nikita Simonyan 55' Anatoli Ilyin 77'
-[Sun Jun 30]
-  Mexico - Canada  3-0   @ Mexico City, Mexico
-     Carlos González 5' Crescencio Gutiérrez 46' Carlos González 72'
-  Uruguay - Colombia  1-0   @ Montevideo, Uruguay
-     Óscar Míguez 89' (pen.)
-[Wed Jul 3]
-  Mexico - Canada  2-0   @ Mexico City, Mexico
-     Crescencio Gutiérrez 8' Enrique Sesma 28'
-[Fri Jul 5]
-  Finland - Poland  1-3   @ Helsinki, Finland
-     Mauri Vanhanen 72';
-     Edward Jankowski 19' Edward Jankowski 56' Edward Jankowski 65'
-[Sat Jul 6]
-  United States - Canada  2-3   @ St. Louis, United States
-     Ruben Mendoza 42' James Murphy 80';
-     Brian Philley 9' Ostap Steckiw 14' Gogie Stewart 25'
-[Sun Jul 7]
-  Paraguay - Colombia  3-0   @ Asunción, Paraguay
-     Enrique Jara Saguier 11' Juan Bautista Agüero 27' Enrique Jara Saguier 77'
-[Sun Jul 14]
-  Paraguay - Uruguay  5-0   @ Asunción, Paraguay
-     Florencio Amarilla 5' Florencio Amarilla 48' Florencio Amarilla 57' Ángel Jara Saguier 88' Juan Bautista Agüero 90'
-[Sat Jul 27]
-  Russia - Finland  2-1   @ Moscow, Soviet Union
-     Yuriy Voynov 23' Igor Netto 62';
-     Olavi Lahtinen 42'
-[Sun Jul 28]
-  Uruguay - Paraguay  2-0   @ Montevideo, Uruguay
-     Eladio Benítez 8' William Martínez 88'
-[Sun Aug 4]
-  Curaçao - Costa Rica  1-2   @ Willemstad, Curaçao
-     Hubert Sambo 21';
-     Mario Cordero 53' Danilo Montero Campos 60'
-[Thu Aug 15]
-  Finland - Russia  0-10   @ Helsinki, Finland
-     -; Igor Netto 6' Nikita Simonyan 9' Anatoli Isayev 12' Nikita Simonyan 13' Anatoli Isayev 20' Eduard Streltsov 29' Nikita Simonyan 31' Eduard Streltsov 49' Anatoli Ilyin 60' Anatoli Ilyin 87'
-[Sun Sep 1]
-  Iceland - France  1-5   @ Reykjavík, Iceland
-     Þórður Jónsson 64';
-     Thadée Cisowski 29' Thadée Cisowski 32' Joseph Ujlaki 48' Maryan Wisniewski 53' Joseph Ujlaki 66'
-[Wed Sep 4]
-  Iceland - Belgium  2-5   @ Reykjavík, Iceland
-     Ríkharður Jónsson 1' Þórður Jónsson 65';
-     André van Herpe 9' Maurice Willems 40' Paul Vandenberg 64' Paul Vandenberg 81' Paul Vandenberg 89'
-[Wed Sep 11]
-  Netherlands - Luxembourg  5-2   @ Rotterdam, Netherlands
-     Abe Lenstra 15' Servaas Wilkes 26' Abe Lenstra 28' Noud van Melis 35' Kees Rijvers 54';
-     Jean-Pierre Fiedler 5' Léon Letsch 58'
-[Sun Sep 15]
-  Bulgaria - Hungary  1-2   @ Sofia, Bulgaria
-     Todor Diev 43';
-     Nándor Hidegkuti 2' Nándor Hidegkuti 34'
-[Sun Sep 22]
-  Chile - Bolivia  2-1   @ Santiago, Chile
-     Guillermo Díaz 62' Jaime Ramírez 68';
-     Ricardo Alcón 36'
-[Wed Sep 25]
-  Netherlands - Austria  1-1   @ Amsterdam, Netherlands
-     Abe Lenstra 63';
-     Gerhard Hanappi 29'
-  Wales - German DR  4-1   @ Cardiff, Wales
-     Des Palmer 38' Cliff Jones 42' Des Palmer 44' Des Palmer 73';
-     Manfred Kaiser 57'
-[Sun Sep 29]
-  Bolivia - Chile  3-0   @ La Paz, Bolivia
-     Ausberto García 30' Máximo Alcócer 70' Máximo Alcócer 86'
-  Luxembourg - Austria  0-3   @ Luxembourg, Luxembourg
-     -; Robert Dienst 19' Hans Buzek 47' Helmut Senekowitsch 66'
-  Romania - Yugoslavia  1-1   @ Bucharest, Romania
-     Alexandru Ene 78';
-     Muhamed Mujić 79'
-[Wed Oct 2]
-  Denmark - Republic of Ireland  0-2   @ Copenhagen, Denmark
-     -; George Cummins 53' Dermot Curtis 61'
-[Sun Oct 6]
-  Bolivia - Argentina  2-0   @ La Paz, Bolivia
-     Máximo Alcócer 13' Ausberto García 75'
-[Sun Oct 13]
-  Chile - Argentina  0-2   @ Santiago, Chile
-     -; Norberto Menéndez 40' Norberto Conde 61'
-[Sun Oct 20]
-  Argentina - Chile  4-0   @ Buenos Aires, Argentina
-     Oreste Corbatta 1' Norberto Menéndez 13' Oreste Corbatta 41' Roberto Zárate 45'
-  Mexico - Costa Rica  2-0   @ Mexico City, Mexico
-     Jaime Belmonte 77' Ligorio López 86'
-  Poland - Russia  2-1   @ Chorzów, Poland
-     Gerard Cieślik 43' Gerard Cieślik 50';
-     Valentin Kozmich Ivanov 80'
-[Sun Oct 27]
-  Argentina - Bolivia  4-0   @ Avellaneda, Argentina
-     Roberto Zárate 8' Oreste Corbatta 62' Eliseo Prado 63' Norberto Menéndez 64'
-  Belgium - France  0-0   @ Brussels, Belgium
-  Costa Rica - Mexico  1-1   @ San José, Costa Rica
-     Juan Soto Quiros 32';
-     Ligorio López 27'
-  German DR - Czechoslovakia  1-4   @ Leipzig, German DR
-     Helmut Müller 35';
-     Tadeusz Kraus 4' Anton Moravčík 23' Ladislav Novák 43' Tadeusz Kraus 88'
-[Sun Nov 3]
-  Bulgaria - Norway  7-0   @ Sofia, Bulgaria
-     Hristo Iliev 6' Panayot Panayotov 29' Panayot Panayotov 32' Krum Yanev 59' Hristo Iliev 60' Hristo Iliev 74' Spiro Debarski 77'
-  Poland - Finland  4-0   @ Warsaw, Poland
-     Ginter Gawlik 2' Lucjan Brychczy 4' Lucjan Brychczy 48' Edward Jankowski 60'
-  Romania - Greece  3-0   @ Bucharest, Romania
-     Iosif Petschovsky 51' (pen.) Nicolae Tătaru 64' Cornel Cacoveanu 67'
-[Wed Nov 6]
-  Scotland - Switzerland  3-2   @ Glasgow, Scotland
-     Archie Robertson 29' Jackie Mudie 52' Alex Scott 70';
-     Ferdinando Riva 35' Roger Vonlanthen 79'
-[Sun Nov 10]
-  Hungary - Norway  5-0   @ Budapest, Hungary
-     Károly Sándor 12' Lajos Csordás 20' Ferenc Machos 69' Lajos Csordás 71' Edgar Falch 74' (o.g.)
-  Yugoslavia - Greece  4-1   @ Belgrade, Yugoslavia
-     Muhamed Mujić 6' Dobrosav Krstić 9' Muhamed Mujić 61' Aleksandar Petaković 67';
-     Kostas Nestoridis 28'
-[Sun Nov 17]
-  Yugoslavia - Romania  2-0   @ Belgrade, Yugoslavia
-     Miloš Milutinović 52' Miloš Milutinović 58'
-[Sun Nov 24]
-  Poland - Russia  0-2   @ Leipzig, German DR
-     -; Eduard Streltsov 31' Genrich Fedosov 75'
-  Switzerland - Spain  1-4   @ Lausanne, Switzerland
-     Robert Ballaman 61';
-     Ladislao Kubala 19' Alfredo Di Stéfano 24' Alfredo Di Stéfano 55' Ladislao Kubala 72'
-[Sun Dec 22]
-  Italy - Portugal  3-0   @ Milan, Italy
-     Guido Gratton 36' Guido Gratton 72' Gino Pivatelli 84'
+Wed Jan 16
+  Portugal             v Northern Ireland      1-1   @ Lisbon, Portugal
+     (Manuel Vasques 24';
+      Billy Bingham 6')
+Sun Feb 10
+  Guatemala            v Costa Rica            2-6   @ Guatemala City, Guatemala
+     (Jorge Vickers 19' Augusto Espinoza 87';
+      Jorge Monge 11' Rubén Jiménez Rodríguez 17' Jorge Monge 28' Jorge Monge 38' Danilo Montero Campos 48' Álvaro Murillo 78')
+Sun Feb 17
+  Costa Rica           v Guatemala             3-1   @ San José, Costa Rica
+     (Rubén Jiménez Rodríguez 12' Mario Cordero 28' Rodolfo Herrera González 65';
+      Francisco López Contreras 61')
+Sun Mar 3
+  Costa Rica           v Curaçao               4-0   @ San José, Costa Rica
+     (Rodolfo Herrera González 16' Álvaro Murillo 35' Rodolfo Herrera González 63' Álvaro Murillo 67')
+Fri Mar 8
+  Sudan                v Syria                 1-0   @ Khartoum, Sudan
+     (Siddiq Manzul 78'(p))
+Sun Mar 10
+  Spain                v Switzerland           2-2   @ Madrid, Spain
+     (Luis Suárez Miramontes 30' Miguel González 48';
+      Josef Hügi 6' Josef Hügi 67')
+Thu Mar 14
+  Guatemala            v Curaçao               1-3   @ Guatemala City, Guatemala
+     (Francisco López Contreras 51';
+      Wilfred de Lanoy 23' Wilfred de Lanoy 31' Edgard Meulens 65')
+Wed Mar 20
+  Netherlands          v Luxembourg            4-1   @ Rotterdam, Netherlands
+     (Cor van der Gijp 27' Cor van der Gijp 30' Coen Dillen 72' Toon Brusselers 80';
+      Johnny Halsdorf 34')
+Sun Apr 7
+  Mexico               v United States         6-0   @ Mexico City, Mexico
+     (Crescencio Gutiérrez 14' Crescencio Gutiérrez 26' Salvador Reyes Monteón 33' Héctor Hernández 63' Salvador Reyes Monteón 69' Salvador Reyes Monteón 76')
+Sat Apr 13
+  Peru                 v Brazil                1-1   @ Lima, Peru
+     (Alberto Terry 38';
+      Aluísio Francisco da Luz 47')
+Sun Apr 21
+  Brazil               v Peru                  1-0   @ Rio de Janeiro, Brazil
+     (Valdir Pereira 11')
+Thu Apr 25
+  Italy                v Northern Ireland      1-0   @ Rome, Italy
+     (Sergio Cervato 3')
+Sun Apr 28
+  United States        v Mexico                2-7   @ Long Beach, United States
+     (Ed Murphy 5' Ed Murphy 45';
+      Alfredo Hernández 22' Alfredo Hernández 36' Crescencio Gutiérrez 38' Héctor Hernández 65' Enrique Sesma 79' Alfredo Hernández 82' Héctor Hernández 87')
+Wed May 1
+  Northern Ireland     v Portugal              3-0   @ Belfast, Northern Ireland
+     (Tommy Casey 22' Billy Simpson 60' Jimmy McIlroy 70'(p))
+  Wales                v Czechoslovakia        1-0   @ Cardiff, Wales
+     (Roy Vernon 75')
+Sun May 5
+  Greece               v Yugoslavia            0-0   @ Athens, Greece
+Wed May 8
+  England              v Republic of Ireland   5-1   @ London, England
+     (Tommy Taylor 10' Tommy Taylor 19' John Atyeo 38' Tommy Taylor 40' John Atyeo 90';
+      Dermot Curtis 56')
+  Scotland             v Spain                 4-2   @ Glasgow, Scotland
+     (Jackie Mudie 22' John Hewie 41'(p) Jackie Mudie 70' Jackie Mudie 79';
+      Luis Suárez Miramontes 19' Ladislao Kubala 28')
+Sun May 12
+  Indonesia            v China PR              2-0   @ Jakarta, Indonesia
+     (Rusli Ramang 47' Rusli Ramang 80')
+Wed May 15
+  Denmark              v England               1-4   @ Copenhagen, Denmark
+     (John Jensen 27';
+      Johnny Haynes 28' Tommy Taylor 71' John Atyeo 75' Tommy Taylor 86')
+Sun May 19
+  German DR            v Wales                 2-1   @ Leipzig, German DR
+     (Günther Wirth 21' Willy Tröger 61';
+      Mel Charles 6')
+  Republic of Ireland  v England               1-1   @ Dublin, Republic of Ireland
+     (Alf Ringstead 3';
+      John Atyeo 90')
+  Switzerland          v Scotland              1-2   @ Basel, Switzerland
+     (Roger Vonlanthen 13';
+      Jackie Mudie 33' Tommy Ring 71')
+Wed May 22
+  Norway               v Bulgaria              1-2   @ Oslo, Norway
+     (Harald Hennum 47';
+      Georgi Dimitrov 38' Georgi Dimitrov 75')
+Fri May 24
+  Syria                v Sudan                 1-1   @ Damascus, Syria
+     (Jabra Al-Zarqa 70';
+      Suleiman Faris 38')
+Sun May 26
+  Austria              v Netherlands           3-2   @ Vienna, Austria
+     (Karl Koller 47' Hans Buzek 80' Karl Stotz 89'(p);
+      Noud van Melis 30' Noud van Melis 32')
+  Czechoslovakia       v Wales                 2-0   @ Prague, Czechoslovakia
+     (Ray Daniel 21'(og) Tadeusz Kraus 65')
+  Portugal             v Italy                 3-0   @ Oeiras, Portugal
+     (Manuel Vasques 41' António Dias Teixeira 81' Matateu 87')
+  Spain                v Scotland              4-1   @ Madrid, Spain
+     (Enrique Mateos 11' Ladislao Kubala 33' Estanislau Basora 60' Estanislau Basora 87';
+      Gordon Smith 79')
+Sun Jun 2
+  China PR             v Indonesia             4-3   @ Beijing, China PR
+     (Zhang Honggen 1' Nian Weisi 9' Sun Fucheng 47' Wang Lu 75';
+      Rusli Ramang 25' Rusli Ramang 55' Endang Witarsa 70')
+  France               v Iceland               8-0   @ Nantes, France
+     (Célestin Oliver 6' Célestin Oliver 11' Jean Vincent 29' René Dereuddre 36' Roger Piantoni 45' Said Brahimi 49' Roger Piantoni 81' Jean Vincent 83')
+Wed Jun 5
+  Belgium              v Iceland               8-3   @ Brussels, Belgium
+     (Richard Orlans 4' André Piters 11' Paul Vandenberg 12' Victor Mees 22' Victor Mees 26' Henri Coppens 42' Henri Coppens 44'(p) Richard Orlans 57';
+      Þórður Þórðarson 33' Þórður Þórðarson 77' Ríkharður Jónsson 81')
+Wed Jun 12
+  Norway               v Hungary               2-1   @ Oslo, Norway
+     (Harald Hennum 10' Kjell Kristiansen 78';
+      Lajos Tichy 43')
+Sun Jun 16
+  Colombia             v Uruguay               1-1   @ Bogotá, Colombia
+     (Carlos Arango 15';
+      Javier Ambrois 46')
+  Czechoslovakia       v German DR             3-1   @ Brno, Czechoslovakia
+     (Tadeusz Kraus 60' Vlastimil Bubník 81' Pavol Molnár 89';
+      Günther Wirth 18')
+  Greece               v Romania               1-2   @ Athens, Greece
+     (Vaggelis Panakis 29';
+      Alexandru Ene 15' Titus Ozon 78')
+Thu Jun 20
+  Colombia             v Paraguay              2-3   @ Bogotá, Colombia
+     (Jaime Gutiérrez 10' Ricardo Díaz 89';
+      Ángel Jara Saguier 34' Juan Bautista Agüero 68' Óscar Aguilera 88')
+Sat Jun 22
+  Canada               v United States         5-1   @ Toronto, Canada
+     (Norm McLeod 32' Brian Philley 35' Art Hughes 55' Gogie Stewart 57' Art Hughes 80';
+      Harry Keough 35'(p))
+Sun Jun 23
+  China PR             v Indonesia             0-0   @ Yangon, Burma
+  Hungary              v Bulgaria              4-1   @ Budapest, Hungary
+     (Ferenc Machos 5' Ferenc Machos 14' Ferenc Machos 30' József Bozsik 52';
+      Ivan Kolev 69')
+  Russia               v Poland                3-0   @ Moscow, Soviet Union
+     (Boris Tatushin 9' Nikita Simonyan 55' Anatoli Ilyin 77')
+Sun Jun 30
+  Mexico               v Canada                3-0   @ Mexico City, Mexico
+     (Carlos González 5' Crescencio Gutiérrez 46' Carlos González 72')
+  Uruguay              v Colombia              1-0   @ Montevideo, Uruguay
+     (Óscar Míguez 89'(p))
+Wed Jul 3
+  Mexico               v Canada                2-0   @ Mexico City, Mexico
+     (Crescencio Gutiérrez 8' Enrique Sesma 28')
+Fri Jul 5
+  Finland              v Poland                1-3   @ Helsinki, Finland
+     (Mauri Vanhanen 72';
+      Edward Jankowski 19' Edward Jankowski 56' Edward Jankowski 65')
+Sat Jul 6
+  United States        v Canada                2-3   @ St. Louis, United States
+     (Ruben Mendoza 42' James Murphy 80';
+      Brian Philley 9' Ostap Steckiw 14' Gogie Stewart 25')
+Sun Jul 7
+  Paraguay             v Colombia              3-0   @ Asunción, Paraguay
+     (Enrique Jara Saguier 11' Juan Bautista Agüero 27' Enrique Jara Saguier 77')
+Sun Jul 14
+  Paraguay             v Uruguay               5-0   @ Asunción, Paraguay
+     (Florencio Amarilla 5' Florencio Amarilla 48' Florencio Amarilla 57' Ángel Jara Saguier 88' Juan Bautista Agüero 90')
+Sat Jul 27
+  Russia               v Finland               2-1   @ Moscow, Soviet Union
+     (Yuriy Voynov 23' Igor Netto 62';
+      Olavi Lahtinen 42')
+Sun Jul 28
+  Uruguay              v Paraguay              2-0   @ Montevideo, Uruguay
+     (Eladio Benítez 8' William Martínez 88')
+Sun Aug 4
+  Curaçao              v Costa Rica            1-2   @ Willemstad, Curaçao
+     (Hubert Sambo 21';
+      Mario Cordero 53' Danilo Montero Campos 60')
+Thu Aug 15
+  Finland              v Russia                0-10   @ Helsinki, Finland
+     (Igor Netto 6' Nikita Simonyan 9' Anatoli Isayev 12' Nikita Simonyan 13' Anatoli Isayev 20' Eduard Streltsov 29' Nikita Simonyan 31' Eduard Streltsov 49' Anatoli Ilyin 60' Anatoli Ilyin 87')
+Sun Sep 1
+  Iceland              v France                1-5   @ Reykjavík, Iceland
+     (Þórður Jónsson 64';
+      Thadée Cisowski 29' Thadée Cisowski 32' Joseph Ujlaki 48' Maryan Wisniewski 53' Joseph Ujlaki 66')
+Wed Sep 4
+  Iceland              v Belgium               2-5   @ Reykjavík, Iceland
+     (Ríkharður Jónsson 1' Þórður Jónsson 65';
+      André van Herpe 9' Maurice Willems 40' Paul Vandenberg 64' Paul Vandenberg 81' Paul Vandenberg 89')
+Wed Sep 11
+  Netherlands          v Luxembourg            5-2   @ Rotterdam, Netherlands
+     (Abe Lenstra 15' Servaas Wilkes 26' Abe Lenstra 28' Noud van Melis 35' Kees Rijvers 54';
+      Jean-Pierre Fiedler 5' Léon Letsch 58')
+Sun Sep 15
+  Bulgaria             v Hungary               1-2   @ Sofia, Bulgaria
+     (Todor Diev 43';
+      Nándor Hidegkuti 2' Nándor Hidegkuti 34')
+Sun Sep 22
+  Chile                v Bolivia               2-1   @ Santiago, Chile
+     (Guillermo Díaz 62' Jaime Ramírez 68';
+      Ricardo Alcón 36')
+Wed Sep 25
+  Netherlands          v Austria               1-1   @ Amsterdam, Netherlands
+     (Abe Lenstra 63';
+      Gerhard Hanappi 29')
+  Wales                v German DR             4-1   @ Cardiff, Wales
+     (Des Palmer 38' Cliff Jones 42' Des Palmer 44' Des Palmer 73';
+      Manfred Kaiser 57')
+Sun Sep 29
+  Bolivia              v Chile                 3-0   @ La Paz, Bolivia
+     (Ausberto García 30' Máximo Alcócer 70' Máximo Alcócer 86')
+  Luxembourg           v Austria               0-3   @ Luxembourg, Luxembourg
+     (Robert Dienst 19' Hans Buzek 47' Helmut Senekowitsch 66')
+  Romania              v Yugoslavia            1-1   @ Bucharest, Romania
+     (Alexandru Ene 78';
+      Muhamed Mujić 79')
+Wed Oct 2
+  Denmark              v Republic of Ireland   0-2   @ Copenhagen, Denmark
+     (George Cummins 53' Dermot Curtis 61')
+Sun Oct 6
+  Bolivia              v Argentina             2-0   @ La Paz, Bolivia
+     (Máximo Alcócer 13' Ausberto García 75')
+Sun Oct 13
+  Chile                v Argentina             0-2   @ Santiago, Chile
+     (Norberto Menéndez 40' Norberto Conde 61')
+Sun Oct 20
+  Argentina            v Chile                 4-0   @ Buenos Aires, Argentina
+     (Oreste Corbatta 1' Norberto Menéndez 13' Oreste Corbatta 41' Roberto Zárate 45')
+  Mexico               v Costa Rica            2-0   @ Mexico City, Mexico
+     (Jaime Belmonte 77' Ligorio López 86')
+  Poland               v Russia                2-1   @ Chorzów, Poland
+     (Gerard Cieślik 43' Gerard Cieślik 50';
+      Valentin Kozmich Ivanov 80')
+Sun Oct 27
+  Argentina            v Bolivia               4-0   @ Avellaneda, Argentina
+     (Roberto Zárate 8' Oreste Corbatta 62' Eliseo Prado 63' Norberto Menéndez 64')
+  Belgium              v France                0-0   @ Brussels, Belgium
+  Costa Rica           v Mexico                1-1   @ San José, Costa Rica
+     (Juan Soto Quiros 32';
+      Ligorio López 27')
+  German DR            v Czechoslovakia        1-4   @ Leipzig, German DR
+     (Helmut Müller 35';
+      Tadeusz Kraus 4' Anton Moravčík 23' Ladislav Novák 43' Tadeusz Kraus 88')
+Sun Nov 3
+  Bulgaria             v Norway                7-0   @ Sofia, Bulgaria
+     (Hristo Iliev 6' Panayot Panayotov 29' Panayot Panayotov 32' Krum Yanev 59' Hristo Iliev 60' Hristo Iliev 74' Spiro Debarski 77')
+  Poland               v Finland               4-0   @ Warsaw, Poland
+     (Ginter Gawlik 2' Lucjan Brychczy 4' Lucjan Brychczy 48' Edward Jankowski 60')
+  Romania              v Greece                3-0   @ Bucharest, Romania
+     (Iosif Petschovsky 51'(p) Nicolae Tătaru 64' Cornel Cacoveanu 67')
+Wed Nov 6
+  Scotland             v Switzerland           3-2   @ Glasgow, Scotland
+     (Archie Robertson 29' Jackie Mudie 52' Alex Scott 70';
+      Ferdinando Riva 35' Roger Vonlanthen 79')
+Sun Nov 10
+  Hungary              v Norway                5-0   @ Budapest, Hungary
+     (Károly Sándor 12' Lajos Csordás 20' Ferenc Machos 69' Lajos Csordás 71' Edgar Falch 74'(og))
+  Yugoslavia           v Greece                4-1   @ Belgrade, Yugoslavia
+     (Muhamed Mujić 6' Dobrosav Krstić 9' Muhamed Mujić 61' Aleksandar Petaković 67';
+      Kostas Nestoridis 28')
+Sun Nov 17
+  Yugoslavia           v Romania               2-0   @ Belgrade, Yugoslavia
+     (Miloš Milutinović 52' Miloš Milutinović 58')
+Sun Nov 24
+  Poland               v Russia                0-2   @ Leipzig, German DR
+     (Eduard Streltsov 31' Genrich Fedosov 75')
+  Switzerland          v Spain                 1-4   @ Lausanne, Switzerland
+     (Robert Ballaman 61';
+      Ladislao Kubala 19' Alfredo Di Stéfano 24' Alfredo Di Stéfano 55' Ladislao Kubala 72')
+Sun Dec 22
+  Italy                v Portugal              3-0   @ Milan, Italy
+     (Guido Gratton 36' Guido Gratton 72' Gino Pivatelli 84')
 

@@ -1,39 +1,39 @@
 = COSAFA Cup 2013
 
-# Date       Sat Jul/6 - Sat Jul/20 2013 (14d)
+# Date       Sat Jul 6 - Sat Jul 20 2013 (14d)
 # Teams      13
 # Matches    20
 
-[Sat Jul 6]
-  Namibia - Mauritius  2-1   @ Lusaka, Zambia
-[Sun Jul 7]
-  Botswana - Eswatini  0-0   @ Kitwe, Zambia
-[Mon Jul 8]
-  Kenya - Lesotho  2-2   @ Kitwe, Zambia
-  Namibia - Seychelles  4-2   @ Lusaka, Zambia
-[Tue Jul 9]
-  Kenya - Eswatini  2-0   @ Kitwe, Zambia
-  Lesotho - Botswana  3-3   @ Kitwe, Zambia
-[Wed Jul 10]
-  Mauritius - Seychelles  4-0   @ Kitwe, Zambia
-[Thu Jul 11]
-  Kenya - Botswana  1-2   @ Kitwe, Zambia
-  Lesotho - Eswatini  2-0   @ Lusaka, Zambia
-[Sat Jul 13]
-  South Africa - Namibia  2-1   @ Lusaka, Zambia
-  Zimbabwe - Malawi  1-1   @ Lusaka, Zambia   [Zimbabwe wins on penalties]
-[Sun Jul 14]
-  Zambia - Mozambique  3-1   @ Kitwe, Zambia
-  Angola - Lesotho  1-1   @ Kitwe, Zambia   [Lesotho wins on penalties]
-[Tue Jul 16]
-  Namibia - Mozambique  0-1   @ Kitwe, Zambia
-  Malawi - Angola  2-3   @ Kitwe, Zambia
-[Wed Jul 17]
-  Zambia - South Africa  0-0   @ Ndola, Zambia   [Zambia wins on penalties]
-  Zimbabwe - Lesotho  2-1   @ Ndola, Zambia
-[Thu Jul 18]
-  Angola - Mozambique  0-1   @ Kitwe, Zambia
-[Sat Jul 20]
-  Lesotho - South Africa  1-2   @ Ndola, Zambia
-  Zambia - Zimbabwe  2-0   @ Ndola, Zambia
+Sat Jul 6
+  Namibia              v Mauritius             2-1   @ Lusaka, Zambia
+Sun Jul 7
+  Botswana             v Eswatini              0-0   @ Kitwe, Zambia
+Mon Jul 8
+  Kenya                v Lesotho               2-2   @ Kitwe, Zambia
+  Namibia              v Seychelles            4-2   @ Lusaka, Zambia
+Tue Jul 9
+  Kenya                v Eswatini              2-0   @ Kitwe, Zambia
+  Lesotho              v Botswana              3-3   @ Kitwe, Zambia
+Wed Jul 10
+  Mauritius            v Seychelles            4-0   @ Kitwe, Zambia
+Thu Jul 11
+  Kenya                v Botswana              1-2   @ Kitwe, Zambia
+  Lesotho              v Eswatini              2-0   @ Lusaka, Zambia
+Sat Jul 13
+  South Africa         v Namibia               2-1   @ Lusaka, Zambia
+  Zimbabwe             v Malawi                1-1   @ Lusaka, Zambia   [Zimbabwe wins on penalties]
+Sun Jul 14
+  Zambia               v Mozambique            3-1   @ Kitwe, Zambia
+  Angola               v Lesotho               1-1   @ Kitwe, Zambia   [Lesotho wins on penalties]
+Tue Jul 16
+  Namibia              v Mozambique            0-1   @ Kitwe, Zambia
+  Malawi               v Angola                2-3   @ Kitwe, Zambia
+Wed Jul 17
+  Zambia               v South Africa          0-0   @ Ndola, Zambia   [Zambia wins on penalties]
+  Zimbabwe             v Lesotho               2-1   @ Ndola, Zambia
+Thu Jul 18
+  Angola               v Mozambique            0-1   @ Kitwe, Zambia
+Sat Jul 20
+  Lesotho              v South Africa          1-2   @ Ndola, Zambia
+  Zambia               v Zimbabwe              2-0   @ Ndola, Zambia
 

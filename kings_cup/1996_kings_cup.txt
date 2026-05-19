@@ -1,11 +1,11 @@
 = King's Cup 1996
 
-# Date       Fri Feb/9 - Fri Feb/16 1996 (7d)
+# Date       Fri Feb 9 - Fri Feb 16 1996 (7d)
 # Teams      2
 # Matches    2
 
-[Fri Feb 9]
-  Thailand - Finland  1-0   @ Bangkok, Thailand
-[Fri Feb 16]
-  Thailand - Finland  5-2   @ Bangkok, Thailand
+Fri Feb 9
+  Thailand             v Finland               1-0   @ Bangkok, Thailand
+Fri Feb 16
+  Thailand             v Finland               5-2   @ Bangkok, Thailand
 

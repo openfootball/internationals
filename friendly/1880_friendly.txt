@@ -1,13 +1,13 @@
 = Friendly 1880
 
-# Date       Sat Mar/13 - Sat Mar/27 1880 (14d)
+# Date       Sat Mar 13 - Sat Mar 27 1880 (14d)
 # Teams      3
 # Matches    3
 
-[Sat Mar 13]
-  Scotland - England  5-4   @ Glasgow, Scotland
-[Mon Mar 15]
-  Wales - England  2-3   @ Wrexham, Wales
-[Sat Mar 27]
-  Scotland - Wales  5-1   @ Glasgow, Scotland
+Sat Mar 13
+  Scotland             v England               5-4   @ Glasgow, Scotland
+Mon Mar 15
+  Wales                v England               2-3   @ Wrexham, Wales
+Sat Mar 27
+  Scotland             v Wales                 5-1   @ Glasgow, Scotland
 

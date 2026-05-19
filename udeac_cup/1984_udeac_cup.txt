@@ -1,26 +1,26 @@
 = UDEAC Cup 1984
 
-# Date       Sun Dec/9 - Thu Dec/20 1984 (11d)
+# Date       Sun Dec 9 - Thu Dec 20 1984 (11d)
 # Teams      6
 # Matches    11
 
-[Sun Dec 9]
-  Congo - Equatorial Guinea  5-0   @ Brazzaville, Congo
-[Mon Dec 10]
-  Chad - Cameroon  0-2   @ Brazzaville, Congo
-[Wed Dec 12]
-  Chad - Gabon  3-3   @ Brazzaville, Congo
-  Congo - Central African Republic  2-1   @ Brazzaville, Congo
-[Fri Dec 14]
-  Cameroon - Gabon  0-0   @ Brazzaville, Congo
-  Central African Republic - Equatorial Guinea  1-1   @ Brazzaville, Congo
-[Sun Dec 16]
-  Chad - Equatorial Guinea  1-1   @ Brazzaville, Congo   [Chad wins on penalties]
-[Mon Dec 17]
-  Central African Republic - Cameroon  1-7   @ Brazzaville, Congo
-  Congo - Gabon  3-0   @ Brazzaville, Congo
-[Wed Dec 19]
-  Central African Republic - Gabon  2-2   @ Brazzaville, Congo   [Gabon wins on penalties]
-[Thu Dec 20]
-  Congo - Cameroon  2-2   @ Brazzaville, Congo   [Cameroon wins on penalties]
+Sun Dec 9
+  Congo                v Equatorial Guinea     5-0   @ Brazzaville, Congo
+Mon Dec 10
+  Chad                 v Cameroon              0-2   @ Brazzaville, Congo
+Wed Dec 12
+  Chad                 v Gabon                 3-3   @ Brazzaville, Congo
+  Congo                v Central African Republic  2-1   @ Brazzaville, Congo
+Fri Dec 14
+  Cameroon             v Gabon                 0-0   @ Brazzaville, Congo
+  Central African Republic v Equatorial Guinea     1-1   @ Brazzaville, Congo
+Sun Dec 16
+  Chad                 v Equatorial Guinea     1-1   @ Brazzaville, Congo   [Chad wins on penalties]
+Mon Dec 17
+  Central African Republic v Cameroon              1-7   @ Brazzaville, Congo
+  Congo                v Gabon                 3-0   @ Brazzaville, Congo
+Wed Dec 19
+  Central African Republic v Gabon                 2-2   @ Brazzaville, Congo   [Gabon wins on penalties]
+Thu Dec 20
+  Congo                v Cameroon              2-2   @ Brazzaville, Congo   [Cameroon wins on penalties]
 

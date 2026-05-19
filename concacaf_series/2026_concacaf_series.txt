@@ -1,27 +1,27 @@
 = CONCACAF Series 2026
 
-# Date       Thu Mar/26 - Mon Mar/30 2026 (4d)
+# Date       Thu Mar 26 - Mon Mar 30 2026 (4d)
 # Teams      16
 # Matches    16
 
-[Thu Mar 26]
-  Martinique - Cuba  2-2   @ Santiago de los Caballeros, Dominican Republic
-  Dominican Republic - El Salvador  2-2   @ Santiago de los Caballeros, Dominican Republic
-  Saint Martin - Barbados  3-1   @ Rincon, Bonaire
-  Bonaire - Saint Vincent and the Grenadines  3-1   @ Rincon, Bonaire
-  Bahamas - Anguilla  1-3   @ George Town, Cayman Islands
-  Cayman Islands - British Virgin Islands  1-1   @ George Town, Cayman Islands
-[Fri Mar 27]
-  Guyana - Dominica  2-0   @ Santiago de los Caballeros, Dominican Republic
-  Belize - Sint Maarten  2-3   @ Santiago de los Caballeros, Dominican Republic
-[Sun Mar 29]
-  Martinique - El Salvador  0-1   @ Santiago de los Caballeros, Dominican Republic
-  Dominican Republic - Cuba  1-1   @ Santiago de los Caballeros, Dominican Republic
-  Barbados - Saint Vincent and the Grenadines  2-3   @ Rincon, Bonaire
-  Bonaire - Saint Martin  0-3   @ Rincon, Bonaire
-  British Virgin Islands - Anguilla  4-0   @ George Town, Cayman Islands
-  Cayman Islands - Bahamas  1-0   @ George Town, Cayman Islands
-[Mon Mar 30]
-  Guyana - Belize  3-1   @ Santiago de los Caballeros, Dominican Republic
-  Dominica - Sint Maarten  0-0   @ Santiago de los Caballeros, Dominican Republic
+Thu Mar 26
+  Martinique           v Cuba                  2-2   @ Santiago de los Caballeros, Dominican Republic
+  Dominican Republic   v El Salvador           2-2   @ Santiago de los Caballeros, Dominican Republic
+  Saint Martin         v Barbados              3-1   @ Rincon, Bonaire
+  Bonaire              v Saint Vincent and the Grenadines  3-1   @ Rincon, Bonaire
+  Bahamas              v Anguilla              1-3   @ George Town, Cayman Islands
+  Cayman Islands       v British Virgin Islands  1-1   @ George Town, Cayman Islands
+Fri Mar 27
+  Guyana               v Dominica              2-0   @ Santiago de los Caballeros, Dominican Republic
+  Belize               v Sint Maarten          2-3   @ Santiago de los Caballeros, Dominican Republic
+Sun Mar 29
+  Martinique           v El Salvador           0-1   @ Santiago de los Caballeros, Dominican Republic
+  Dominican Republic   v Cuba                  1-1   @ Santiago de los Caballeros, Dominican Republic
+  Barbados             v Saint Vincent and the Grenadines  2-3   @ Rincon, Bonaire
+  Bonaire              v Saint Martin          0-3   @ Rincon, Bonaire
+  British Virgin Islands v Anguilla              4-0   @ George Town, Cayman Islands
+  Cayman Islands       v Bahamas               1-0   @ George Town, Cayman Islands
+Mon Mar 30
+  Guyana               v Belize                3-1   @ Santiago de los Caballeros, Dominican Republic
+  Dominica             v Sint Maarten          0-0   @ Santiago de los Caballeros, Dominican Republic
 

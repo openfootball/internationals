@@ -1,19 +1,19 @@
 = Friendly 1905
 
-# Date       Sun Feb/12 - Fri Jul/21 1905 (159d)
+# Date       Sun Feb 12 - Fri Jul 21 1905 (159d)
 # Teams      8
 # Matches    6
 
-[Sun Feb 12]
-  France - Switzerland  1-0   @ Paris, France
-[Sun Apr 9]
-  Hungary - Austria  0-0   @ Budapest, Hungary
-[Sun Apr 30]
-  Belgium - Netherlands  1-4   @ Antwerp, Belgium
-[Sun May 7]
-  Belgium - France  7-0   @ Brussels, Belgium
-[Sun May 14]
-  Netherlands - Belgium  4-0   @ Rotterdam, Netherlands
-[Fri Jul 21]
-  Guyana - Trinidad and Tobago  1-4   @ Georgetown, British Guiana
+Sun Feb 12
+  France               v Switzerland           1-0   @ Paris, France
+Sun Apr 9
+  Hungary              v Austria               0-0   @ Budapest, Hungary
+Sun Apr 30
+  Belgium              v Netherlands           1-4   @ Antwerp, Belgium
+Sun May 7
+  Belgium              v France                7-0   @ Brussels, Belgium
+Sun May 14
+  Netherlands          v Belgium               4-0   @ Rotterdam, Netherlands
+Fri Jul 21
+  Guyana               v Trinidad and Tobago   1-4   @ Georgetown, British Guiana
 

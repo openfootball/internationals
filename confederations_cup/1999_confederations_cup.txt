@@ -1,54 +1,54 @@
 = Confederations Cup 1999
 
-# Date       Sat Jul/24 - Wed Aug/4 1999 (11d)
+# Date       Sat Jul 24 - Wed Aug 4 1999 (11d)
 # Teams      8
 # Matches    16
 
-[Sat Jul 24]
-  Brazil - Germany  4-0   @ Guadalajara, Mexico
-     Zé Roberto 62' Ronaldinho 72' Alexsandro de Souza 86' Alexsandro de Souza 87'
-  New Zealand - United States  1-2   @ Guadalajara, Mexico
-     Chris Zoricich 90';
-     Brian McBride 25' Jovan Kirovski 58'
-[Sun Jul 25]
-  Bolivia - Egypt  2-2   @ Mexico City, Mexico
-     Limberg Gutiérrez 21' Renny Ribera 40';
-     Abdel Sattar Sabry 8' Yasser Radwan 63'
-  Mexico - Saudi Arabia  5-1   @ Mexico City, Mexico
-     Cuauhtémoc Blanco 12' Cuauhtémoc Blanco 19' José Manuel Abundis 21' Cuauhtémoc Blanco 68' Cuauhtémoc Blanco 77';
-     Nawaf Al-Temyat 62' (pen.)
-[Tue Jul 27]
-  Mexico - Egypt  2-2   @ Mexico City, Mexico
-     Pável Pardo 15' José Manuel Abundis 26';
-     Ahmed Hassan 79' Samir Kamouna 85'
-  Saudi Arabia - Bolivia  0-0   @ Mexico City, Mexico
-[Wed Jul 28]
-  Brazil - United States  1-0   @ Guadalajara, Mexico
-     Ronaldinho 13'
-  Germany - New Zealand  2-0   @ Guadalajara, Mexico
-     Michael Preetz 6' Lothar Matthäus 33'
-[Thu Jul 29]
-  Egypt - Saudi Arabia  1-5   @ Mexico City, Mexico
-     Samir Kamouna 70' (pen.);
-     Marzouk Al-Otaibi 8' Marzouk Al-Otaibi 34' Ibrahim Al-Shahrani 64' Marzouk Al-Otaibi 78' Marzouk Al-Otaibi 85'
-  Mexico - Bolivia  1-0   @ Mexico City, Mexico
-     Francisco Palencia 52'
-[Fri Jul 30]
-  New Zealand - Brazil  0-2   @ Guadalajara, Mexico
-     -; Marcos Paulo 45' Ronaldinho 88'
-  United States - Germany  2-0   @ Guadalajara, Mexico
-     Ben Olsen 23' Joe-Max Moore 50'
-[Sun Aug 1]
-  Brazil - Saudi Arabia  8-2   @ Guadalajara, Mexico
-     João Carlos dos Santos 8' Ronaldinho 11' Zé Roberto 33' Alexsandro de Souza 36' Rôni 62' Ronaldinho 65' Alexsandro de Souza 86' Ronaldinho 90';
-     Marzouk Al-Otaibi 22' Marzouk Al-Otaibi 31'
-  Mexico - United States  1-0   @ Mexico City, Mexico
-     Cuauhtémoc Blanco 97'
-[Tue Aug 3]
-  United States - Saudi Arabia  2-0   @ Guadalajara, Mexico
-     Paul Bravo 27' Brian McBride 78'
-[Wed Aug 4]
-  Mexico - Brazil  4-3   @ Mexico City, Mexico
-     Miguel Zepeda 13' José Manuel Abundis 28' Miguel Zepeda 51' Cuauhtémoc Blanco 62';
-     Serginho 43' (pen.) Rôni 47' Zé Roberto 63'
+Sat Jul 24
+  Brazil               v Germany               4-0   @ Guadalajara, Mexico
+     (Zé Roberto 62' Ronaldinho 72' Alexsandro de Souza 86' Alexsandro de Souza 87')
+  New Zealand          v United States         1-2   @ Guadalajara, Mexico
+     (Chris Zoricich 90';
+      Brian McBride 25' Jovan Kirovski 58')
+Sun Jul 25
+  Bolivia              v Egypt                 2-2   @ Mexico City, Mexico
+     (Limberg Gutiérrez 21' Renny Ribera 40';
+      Abdel Sattar Sabry 8' Yasser Radwan 63')
+  Mexico               v Saudi Arabia          5-1   @ Mexico City, Mexico
+     (Cuauhtémoc Blanco 12' Cuauhtémoc Blanco 19' José Manuel Abundis 21' Cuauhtémoc Blanco 68' Cuauhtémoc Blanco 77';
+      Nawaf Al-Temyat 62'(p))
+Tue Jul 27
+  Mexico               v Egypt                 2-2   @ Mexico City, Mexico
+     (Pável Pardo 15' José Manuel Abundis 26';
+      Ahmed Hassan 79' Samir Kamouna 85')
+  Saudi Arabia         v Bolivia               0-0   @ Mexico City, Mexico
+Wed Jul 28
+  Brazil               v United States         1-0   @ Guadalajara, Mexico
+     (Ronaldinho 13')
+  Germany              v New Zealand           2-0   @ Guadalajara, Mexico
+     (Michael Preetz 6' Lothar Matthäus 33')
+Thu Jul 29
+  Egypt                v Saudi Arabia          1-5   @ Mexico City, Mexico
+     (Samir Kamouna 70'(p);
+      Marzouk Al-Otaibi 8' Marzouk Al-Otaibi 34' Ibrahim Al-Shahrani 64' Marzouk Al-Otaibi 78' Marzouk Al-Otaibi 85')
+  Mexico               v Bolivia               1-0   @ Mexico City, Mexico
+     (Francisco Palencia 52')
+Fri Jul 30
+  New Zealand          v Brazil                0-2   @ Guadalajara, Mexico
+     (Marcos Paulo 45' Ronaldinho 88')
+  United States        v Germany               2-0   @ Guadalajara, Mexico
+     (Ben Olsen 23' Joe-Max Moore 50')
+Sun Aug 1
+  Brazil               v Saudi Arabia          8-2   @ Guadalajara, Mexico
+     (João Carlos dos Santos 8' Ronaldinho 11' Zé Roberto 33' Alexsandro de Souza 36' Rôni 62' Ronaldinho 65' Alexsandro de Souza 86' Ronaldinho 90';
+      Marzouk Al-Otaibi 22' Marzouk Al-Otaibi 31')
+  Mexico               v United States         1-0   @ Mexico City, Mexico
+     (Cuauhtémoc Blanco 97')
+Tue Aug 3
+  United States        v Saudi Arabia          2-0   @ Guadalajara, Mexico
+     (Paul Bravo 27' Brian McBride 78')
+Wed Aug 4
+  Mexico               v Brazil                4-3   @ Mexico City, Mexico
+     (Miguel Zepeda 13' José Manuel Abundis 28' Miguel Zepeda 51' Cuauhtémoc Blanco 62';
+      Serginho 43'(p) Rôni 47' Zé Roberto 63')
 

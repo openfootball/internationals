@@ -1,33 +1,33 @@
 = Friendly 1915
 
-# Date       Sun Jan/3 - Sun Nov/7 1915 (308d)
+# Date       Sun Jan 3 - Sun Nov 7 1915 (308d)
 # Teams      9
 # Matches    13
 
-[Sun Jan 3]
-  Basque Country - Catalonia  6-1   @ Bilbao, Spain
-[Sun Jan 31]
-  Italy - Switzerland  3-1   @ Turin, Italy
-[Sun Feb 7]
-  Catalonia - Basque Country  2-2   @ Barcelona, Spain
-[Sun May 2]
-  Hungary - Austria  2-5   @ Budapest, Hungary
-[Thu May 13]
-  Basque Country - Catalonia  1-0   @ Madrid, Spain
-[Sun May 30]
-  Austria - Hungary  1-2   @ Vienna, Austria
-[Sun Jun 6]
-  Denmark - Sweden  2-0   @ Copenhagen, Denmark
-[Sun Jun 27]
-  Norway - Sweden  1-1   @ Kristiania, Norway
-[Sun Sep 19]
-  Denmark - Norway  8-1   @ Copenhagen, Denmark
-[Sun Oct 3]
-  Austria - Hungary  4-2   @ Vienna, Austria
-[Sun Oct 24]
-  Sweden - Norway  5-2   @ Stockholm, Sweden
-[Sun Oct 31]
-  Sweden - Denmark  0-2   @ Stockholm, Sweden
-[Sun Nov 7]
-  Hungary - Austria  6-2   @ Budapest, Hungary
+Sun Jan 3
+  Basque Country       v Catalonia             6-1   @ Bilbao, Spain
+Sun Jan 31
+  Italy                v Switzerland           3-1   @ Turin, Italy
+Sun Feb 7
+  Catalonia            v Basque Country        2-2   @ Barcelona, Spain
+Sun May 2
+  Hungary              v Austria               2-5   @ Budapest, Hungary
+Thu May 13
+  Basque Country       v Catalonia             1-0   @ Madrid, Spain
+Sun May 30
+  Austria              v Hungary               1-2   @ Vienna, Austria
+Sun Jun 6
+  Denmark              v Sweden                2-0   @ Copenhagen, Denmark
+Sun Jun 27
+  Norway               v Sweden                1-1   @ Kristiania, Norway
+Sun Sep 19
+  Denmark              v Norway                8-1   @ Copenhagen, Denmark
+Sun Oct 3
+  Austria              v Hungary               4-2   @ Vienna, Austria
+Sun Oct 24
+  Sweden               v Norway                5-2   @ Stockholm, Sweden
+Sun Oct 31
+  Sweden               v Denmark               0-2   @ Stockholm, Sweden
+Sun Nov 7
+  Hungary              v Austria               6-2   @ Budapest, Hungary
 

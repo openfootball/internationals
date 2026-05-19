@@ -1,19 +1,19 @@
 = British Home Championship 1932
 
-# Date       Sat Apr/9 - Wed Dec/7 1932 (242d)
+# Date       Sat Apr 9 - Wed Dec 7 1932 (242d)
 # Teams      4
 # Matches    6
 
-[Sat Apr 9]
-  England - Scotland  3-0   @ London, England
-[Sat Sep 17]
-  Northern Ireland - Scotland  0-4   @ Belfast, Northern Ireland
-[Mon Oct 17]
-  England - Northern Ireland  1-0   @ Blackpool, England
-[Wed Oct 26]
-  Scotland - Wales  2-5   @ Edinburgh, Scotland
-[Wed Nov 16]
-  Wales - England  0-0   @ Wrexham, Wales
-[Wed Dec 7]
-  Wales - Northern Ireland  4-1   @ Wrexham, Wales
+Sat Apr 9
+  England              v Scotland              3-0   @ London, England
+Sat Sep 17
+  Northern Ireland     v Scotland              0-4   @ Belfast, Northern Ireland
+Mon Oct 17
+  England              v Northern Ireland      1-0   @ Blackpool, England
+Wed Oct 26
+  Scotland             v Wales                 2-5   @ Edinburgh, Scotland
+Wed Nov 16
+  Wales                v England               0-0   @ Wrexham, Wales
+Wed Dec 7
+  Wales                v Northern Ireland      4-1   @ Wrexham, Wales
 

@@ -1,49 +1,49 @@
 = Friendly 1914
 
-# Date       Sun Jan/11 - Sun Nov/8 1914 (301d)
+# Date       Sun Jan 11 - Sun Nov 8 1914 (301d)
 # Teams      16
 # Matches    22
 
-[Sun Jan 11]
-  Italy - Austria  0-0   @ Milan, Italy
-[Sun Jan 25]
-  France - Belgium  4-3   @ Lille, France
-[Sun Feb 8]
-  Luxembourg - France  5-4   @ Luxembourg, Luxembourg
-[Sun Mar 8]
-  France - Switzerland  2-2   @ Saint-Ouen, France
-[Sun Mar 15]
-  Belgium - Netherlands  2-4   @ Antwerp, Belgium
-[Sun Mar 29]
-  Italy - France  2-0   @ Turin, Italy
-[Sun Apr 5]
-  Italy - Switzerland  1-1   @ Genoa, Italy
-  Netherlands - Germany  4-4   @ Amsterdam, Netherlands
-[Sun Apr 26]
-  Netherlands - Belgium  4-2   @ Amsterdam, Netherlands
-[Sun May 3]
-  Austria - Hungary  2-0   @ Vienna, Austria
-[Sun May 17]
-  Denmark - Netherlands  4-3   @ Copenhagen, Denmark
-  Switzerland - Italy  0-1   @ Bern, Switzerland
-[Sun May 24]
-  Sweden - Finland  4-3   @ Solna, Sweden
-[Sun May 31]
-  Hungary - France  5-1   @ Budapest, Hungary
-[Sun Jun 21]
-  Sweden - Hungary  1-1   @ Solna, Sweden
-[Sun Jun 28]
-  Norway - Sweden  0-1   @ Kristiania, Norway
-[Sun Jul 5]
-  Sweden - Russia  2-2   @ Solna, Sweden
-[Sun Jul 12]
-  Norway - Russia  1-1   @ Kristiania, Norway
-[Sun Sep 20]
-  Argentina - Brazil  3-0   @ Buenos Aires, Argentina
-[Sun Oct 4]
-  Hungary - Austria  2-2   @ Budapest, Hungary
-[Sun Oct 25]
-  Sweden - Norway  7-0   @ Solna, Sweden
-[Sun Nov 8]
-  Austria - Hungary  1-2   @ Vienna, Austria
+Sun Jan 11
+  Italy                v Austria               0-0   @ Milan, Italy
+Sun Jan 25
+  France               v Belgium               4-3   @ Lille, France
+Sun Feb 8
+  Luxembourg           v France                5-4   @ Luxembourg, Luxembourg
+Sun Mar 8
+  France               v Switzerland           2-2   @ Saint-Ouen, France
+Sun Mar 15
+  Belgium              v Netherlands           2-4   @ Antwerp, Belgium
+Sun Mar 29
+  Italy                v France                2-0   @ Turin, Italy
+Sun Apr 5
+  Italy                v Switzerland           1-1   @ Genoa, Italy
+  Netherlands          v Germany               4-4   @ Amsterdam, Netherlands
+Sun Apr 26
+  Netherlands          v Belgium               4-2   @ Amsterdam, Netherlands
+Sun May 3
+  Austria              v Hungary               2-0   @ Vienna, Austria
+Sun May 17
+  Denmark              v Netherlands           4-3   @ Copenhagen, Denmark
+  Switzerland          v Italy                 0-1   @ Bern, Switzerland
+Sun May 24
+  Sweden               v Finland               4-3   @ Solna, Sweden
+Sun May 31
+  Hungary              v France                5-1   @ Budapest, Hungary
+Sun Jun 21
+  Sweden               v Hungary               1-1   @ Solna, Sweden
+Sun Jun 28
+  Norway               v Sweden                0-1   @ Kristiania, Norway
+Sun Jul 5
+  Sweden               v Russia                2-2   @ Solna, Sweden
+Sun Jul 12
+  Norway               v Russia                1-1   @ Kristiania, Norway
+Sun Sep 20
+  Argentina            v Brazil                3-0   @ Buenos Aires, Argentina
+Sun Oct 4
+  Hungary              v Austria               2-2   @ Budapest, Hungary
+Sun Oct 25
+  Sweden               v Norway                7-0   @ Solna, Sweden
+Sun Nov 8
+  Austria              v Hungary               1-2   @ Vienna, Austria
 

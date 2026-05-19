@@ -1,15 +1,15 @@
 = CONCACAF Championship qualification 1969
 
-# Date       Tue Oct/21 - Wed Nov/5 1969 (15d)
+# Date       Tue Oct 21 - Wed Nov 5 1969 (15d)
 # Teams      4
 # Matches    4
 
-[Tue Oct 21]
-  Mexico - Bermuda  3-0   @ Mexico City, Mexico
-[Sun Nov 2]
-  Bermuda - Mexico  2-1   @ Hamilton, Bermuda
-[Mon Nov 3]
-  Jamaica - Panama  1-1   @ Kingston, Jamaica
-[Wed Nov 5]
-  Jamaica - Panama  2-1   @ Kingston, Jamaica
+Tue Oct 21
+  Mexico               v Bermuda               3-0   @ Mexico City, Mexico
+Sun Nov 2
+  Bermuda              v Mexico                2-1   @ Hamilton, Bermuda
+Mon Nov 3
+  Jamaica              v Panama                1-1   @ Kingston, Jamaica
+Wed Nov 5
+  Jamaica              v Panama                2-1   @ Kingston, Jamaica
 

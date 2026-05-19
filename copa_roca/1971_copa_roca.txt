@@ -1,11 +1,11 @@
 = Copa Roca 1971
 
-# Date       Wed Jul/28 - Sat Jul/31 1971 (3d)
+# Date       Wed Jul 28 - Sat Jul 31 1971 (3d)
 # Teams      2
 # Matches    2
 
-[Wed Jul 28]
-  Argentina - Brazil  1-1   @ Buenos Aires, Argentina
-[Sat Jul 31]
-  Argentina - Brazil  2-2   @ Buenos Aires, Argentina
+Wed Jul 28
+  Argentina            v Brazil                1-1   @ Buenos Aires, Argentina
+Sat Jul 31
+  Argentina            v Brazil                2-2   @ Buenos Aires, Argentina
 

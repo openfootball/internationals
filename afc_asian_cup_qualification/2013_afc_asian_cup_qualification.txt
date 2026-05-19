@@ -1,65 +1,65 @@
 = AFC Asian Cup qualification 2013
 
-# Date       Wed Feb/6 - Tue Nov/19 2013 (286d)
+# Date       Wed Feb 6 - Tue Nov 19 2013 (286d)
 # Teams      20
 # Matches    48
 
-[Wed Feb 6]
-  Iran - Lebanon  5-0   @ Tehran, Iran
-  Iraq - Indonesia  1-0   @ Dubai, United Arab Emirates
-  Jordan - Singapore  4-0   @ Amman, Jordan
-  Oman - Syria  1-0   @ Muscat, Oman
-  Qatar - Malaysia  2-0   @ Doha, Qatar
-  Saudi Arabia - China PR  2-1   @ Dammam, Saudi Arabia
-  Thailand - Kuwait  1-3   @ Bangkok, Thailand
-  Uzbekistan - Hong Kong  0-0   @ Tashkent, Uzbekistan
-  Vietnam - United Arab Emirates  1-2   @ Hanoi, Vietnam
-  Yemen - Bahrain  0-2   @ Sharjah, United Arab Emirates
-[Fri Mar 22]
-  Bahrain - Qatar  1-0   @ Riffa, Bahrain
-  China PR - Iraq  1-0   @ Changsha, China PR
-  Hong Kong - Vietnam  1-0   @ Kowloon, Hong Kong
-  Lebanon - Thailand  5-2   @ Beirut, Lebanon
-  Malaysia - Yemen  2-1   @ Shah Alam, Malaysia
-  United Arab Emirates - Uzbekistan  2-1   @ Abu Dhabi, United Arab Emirates
-[Sat Mar 23]
-  Indonesia - Saudi Arabia  1-2   @ Jakarta, Indonesia
-[Tue Mar 26]
-  Kuwait - Iran  1-1   @ Kuwait City, Kuwait
-[Wed Aug 14]
-  Singapore - Oman  0-2   @ Jalan Besar, Singapore
-[Thu Aug 15]
-  Syria - Jordan  1-1   @ Tehran, Iran
-[Sun Oct 13]
-  Qatar - Yemen  6-0   @ Doha, Qatar
-[Tue Oct 15]
-  Hong Kong - United Arab Emirates  0-4   @ So Kon Po, Hong Kong
-  Indonesia - China PR  1-1   @ Jakarta, Indonesia
-  Iran - Thailand  2-1   @ Tehran, Iran
-  Iraq - Saudi Arabia  0-2   @ Amman, Jordan
-  Jordan - Oman  0-0   @ Amman, Jordan
-  Lebanon - Kuwait  1-1   @ Beirut, Lebanon
-  Malaysia - Bahrain  1-1   @ Shah Alam, Malaysia
-  Singapore - Syria  2-1   @ Singapore, Singapore
-  Uzbekistan - Vietnam  3-1   @ Tashkent, Uzbekistan
-[Fri Nov 15]
-  Bahrain - Malaysia  1-0   @ Riffa, Bahrain
-  China PR - Indonesia  1-0   @ Xi'an, China PR
-  Kuwait - Lebanon  0-0   @ Kuwait City, Kuwait
-  Saudi Arabia - Iraq  2-1   @ Dammam, Saudi Arabia
-  Syria - Singapore  4-0   @ Tehran, Iran
-  Thailand - Iran  0-3   @ Bangkok, Thailand
-  United Arab Emirates - Hong Kong  4-0   @ Abu Dhabi, United Arab Emirates
-  Vietnam - Uzbekistan  0-3   @ Hanoi, Vietnam
-  Yemen - Qatar  1-4   @ Al Ain, United Arab Emirates
-[Tue Nov 19]
-  Bahrain - Yemen  2-0   @ Riffa, Bahrain
-  China PR - Saudi Arabia  0-0   @ Xi'an, China PR
-  Hong Kong - Uzbekistan  0-2   @ So Kon Po, Hong Kong
-  Indonesia - Iraq  0-2   @ Jakarta, Indonesia
-  Kuwait - Thailand  3-1   @ Kuwait City, Kuwait
-  Lebanon - Iran  1-4   @ Beirut, Lebanon
-  Malaysia - Qatar  0-1   @ Shah Alam, Malaysia
-  Syria - Oman  0-1   @ Tehran, Iran
-  United Arab Emirates - Vietnam  5-0   @ Abu Dhabi, United Arab Emirates
+Wed Feb 6
+  Iran                 v Lebanon               5-0   @ Tehran, Iran
+  Iraq                 v Indonesia             1-0   @ Dubai, United Arab Emirates
+  Jordan               v Singapore             4-0   @ Amman, Jordan
+  Oman                 v Syria                 1-0   @ Muscat, Oman
+  Qatar                v Malaysia              2-0   @ Doha, Qatar
+  Saudi Arabia         v China PR              2-1   @ Dammam, Saudi Arabia
+  Thailand             v Kuwait                1-3   @ Bangkok, Thailand
+  Uzbekistan           v Hong Kong             0-0   @ Tashkent, Uzbekistan
+  Vietnam              v United Arab Emirates  1-2   @ Hanoi, Vietnam
+  Yemen                v Bahrain               0-2   @ Sharjah, United Arab Emirates
+Fri Mar 22
+  Bahrain              v Qatar                 1-0   @ Riffa, Bahrain
+  China PR             v Iraq                  1-0   @ Changsha, China PR
+  Hong Kong            v Vietnam               1-0   @ Kowloon, Hong Kong
+  Lebanon              v Thailand              5-2   @ Beirut, Lebanon
+  Malaysia             v Yemen                 2-1   @ Shah Alam, Malaysia
+  United Arab Emirates v Uzbekistan            2-1   @ Abu Dhabi, United Arab Emirates
+Sat Mar 23
+  Indonesia            v Saudi Arabia          1-2   @ Jakarta, Indonesia
+Tue Mar 26
+  Kuwait               v Iran                  1-1   @ Kuwait City, Kuwait
+Wed Aug 14
+  Singapore            v Oman                  0-2   @ Jalan Besar, Singapore
+Thu Aug 15
+  Syria                v Jordan                1-1   @ Tehran, Iran
+Sun Oct 13
+  Qatar                v Yemen                 6-0   @ Doha, Qatar
+Tue Oct 15
+  Hong Kong            v United Arab Emirates  0-4   @ So Kon Po, Hong Kong
+  Indonesia            v China PR              1-1   @ Jakarta, Indonesia
+  Iran                 v Thailand              2-1   @ Tehran, Iran
+  Iraq                 v Saudi Arabia          0-2   @ Amman, Jordan
+  Jordan               v Oman                  0-0   @ Amman, Jordan
+  Lebanon              v Kuwait                1-1   @ Beirut, Lebanon
+  Malaysia             v Bahrain               1-1   @ Shah Alam, Malaysia
+  Singapore            v Syria                 2-1   @ Singapore, Singapore
+  Uzbekistan           v Vietnam               3-1   @ Tashkent, Uzbekistan
+Fri Nov 15
+  Bahrain              v Malaysia              1-0   @ Riffa, Bahrain
+  China PR             v Indonesia             1-0   @ Xi'an, China PR
+  Kuwait               v Lebanon               0-0   @ Kuwait City, Kuwait
+  Saudi Arabia         v Iraq                  2-1   @ Dammam, Saudi Arabia
+  Syria                v Singapore             4-0   @ Tehran, Iran
+  Thailand             v Iran                  0-3   @ Bangkok, Thailand
+  United Arab Emirates v Hong Kong             4-0   @ Abu Dhabi, United Arab Emirates
+  Vietnam              v Uzbekistan            0-3   @ Hanoi, Vietnam
+  Yemen                v Qatar                 1-4   @ Al Ain, United Arab Emirates
+Tue Nov 19
+  Bahrain              v Yemen                 2-0   @ Riffa, Bahrain
+  China PR             v Saudi Arabia          0-0   @ Xi'an, China PR
+  Hong Kong            v Uzbekistan            0-2   @ So Kon Po, Hong Kong
+  Indonesia            v Iraq                  0-2   @ Jakarta, Indonesia
+  Kuwait               v Thailand              3-1   @ Kuwait City, Kuwait
+  Lebanon              v Iran                  1-4   @ Beirut, Lebanon
+  Malaysia             v Qatar                 0-1   @ Shah Alam, Malaysia
+  Syria                v Oman                  0-1   @ Tehran, Iran
+  United Arab Emirates v Vietnam               5-0   @ Abu Dhabi, United Arab Emirates
 

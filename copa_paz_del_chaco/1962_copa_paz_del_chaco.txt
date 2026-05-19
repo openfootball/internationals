@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 1962
 
-# Date       Fri Aug/10 - Sun Aug/12 1962 (2d)
+# Date       Fri Aug 10 - Sun Aug 12 1962 (2d)
 # Teams      2
 # Matches    2
 
-[Fri Aug 10]
-  Bolivia - Paraguay  3-1   @ Cochabamba, Bolivia
-[Sun Aug 12]
-  Bolivia - Paraguay  3-2   @ La Paz, Bolivia
+Fri Aug 10
+  Bolivia              v Paraguay              3-1   @ Cochabamba, Bolivia
+Sun Aug 12
+  Bolivia              v Paraguay              3-2   @ La Paz, Bolivia
 

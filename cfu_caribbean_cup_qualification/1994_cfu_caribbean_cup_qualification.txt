@@ -1,37 +1,37 @@
 = CFU Caribbean Cup qualification 1994
 
-# Date       Wed Jan/19 - Thu Mar/10 1994 (50d)
+# Date       Wed Jan 19 - Thu Mar 10 1994 (50d)
 # Teams      19
 # Matches    19
 
-[Wed Jan 19]
-  Suriname - French Guiana  1-0   @ Paramaribo, Suriname
-[Fri Jan 21]
-  Guyana - French Guiana  1-1   @ Paramaribo, Suriname
-[Sun Jan 23]
-  Barbados - Puerto Rico  0-1   @ Bridgetown, Barbados
-  Suriname - Guyana  2-0   @ Paramaribo, Suriname
-[Tue Jan 25]
-  Grenada - Puerto Rico  1-0   @ Bridgetown, Barbados
-[Thu Jan 27]
-  Barbados - Grenada  3-2   @ Bridgetown, Barbados
-[Wed Feb 23]
-  Dominica - Antigua and Barbuda  3-2   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - Montserrat  9-1   @ Basseterre, Saint Kitts and Nevis
-[Fri Feb 25]
-  Antigua and Barbuda - Montserrat  8-0   @ Basseterre, Saint Kitts and Nevis
-  Saint Kitts and Nevis - Dominica  2-3   @ Basseterre, Saint Kitts and Nevis
-[Wed Mar 2]
-  Cayman Islands - British Virgin Islands  5-0   @ George Town, Cayman Islands
-  Jamaica - Sint Maarten  3-2   @ George Town, Cayman Islands
-[Fri Mar 4]
-  Cayman Islands - Sint Maarten  5-0   @ George Town, Cayman Islands
-  Guadeloupe - Anguilla  9-0   @ Kingstown, Saint Vincent and the Grenadines
-  Jamaica - British Virgin Islands  12-0   @ George Town, Cayman Islands
-[Sun Mar 6]
-  Cayman Islands - Jamaica  3-2   @ West Bay, Cayman Islands
-  Sint Maarten - British Virgin Islands  3-0   @ George Town, Cayman Islands
-  Saint Vincent and the Grenadines - Anguilla  2-0   @ Kingstown, Saint Vincent and the Grenadines
-[Thu Mar 10]
-  Dominican Republic - Haiti  0-1   @ Santo Domingo, Dominican Republic
+Wed Jan 19
+  Suriname             v French Guiana         1-0   @ Paramaribo, Suriname
+Fri Jan 21
+  Guyana               v French Guiana         1-1   @ Paramaribo, Suriname
+Sun Jan 23
+  Barbados             v Puerto Rico           0-1   @ Bridgetown, Barbados
+  Suriname             v Guyana                2-0   @ Paramaribo, Suriname
+Tue Jan 25
+  Grenada              v Puerto Rico           1-0   @ Bridgetown, Barbados
+Thu Jan 27
+  Barbados             v Grenada               3-2   @ Bridgetown, Barbados
+Wed Feb 23
+  Dominica             v Antigua and Barbuda   3-2   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v Montserrat            9-1   @ Basseterre, Saint Kitts and Nevis
+Fri Feb 25
+  Antigua and Barbuda  v Montserrat            8-0   @ Basseterre, Saint Kitts and Nevis
+  Saint Kitts and Nevis v Dominica              2-3   @ Basseterre, Saint Kitts and Nevis
+Wed Mar 2
+  Cayman Islands       v British Virgin Islands  5-0   @ George Town, Cayman Islands
+  Jamaica              v Sint Maarten          3-2   @ George Town, Cayman Islands
+Fri Mar 4
+  Cayman Islands       v Sint Maarten          5-0   @ George Town, Cayman Islands
+  Guadeloupe           v Anguilla              9-0   @ Kingstown, Saint Vincent and the Grenadines
+  Jamaica              v British Virgin Islands  12-0   @ George Town, Cayman Islands
+Sun Mar 6
+  Cayman Islands       v Jamaica               3-2   @ West Bay, Cayman Islands
+  Sint Maarten         v British Virgin Islands  3-0   @ George Town, Cayman Islands
+  Saint Vincent and the Grenadines v Anguilla              2-0   @ Kingstown, Saint Vincent and the Grenadines
+Thu Mar 10
+  Dominican Republic   v Haiti                 0-1   @ Santo Domingo, Dominican Republic
 

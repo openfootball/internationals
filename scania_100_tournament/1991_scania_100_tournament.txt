@@ -1,15 +1,15 @@
 = Scania 100 Tournament 1991
 
-# Date       Wed Jun/12 - Sun Jun/16 1991 (4d)
+# Date       Wed Jun 12 - Sun Jun 16 1991 (4d)
 # Teams      4
 # Matches    4
 
-[Wed Jun 12]
-  Denmark - Italy  0-2   @ Malmö, Sweden
-[Thu Jun 13]
-  Sweden - Russia  2-3   @ Gothenburg, Sweden
-[Sat Jun 15]
-  Sweden - Denmark  4-0   @ Norrköping, Sweden
-[Sun Jun 16]
-  Italy - Russia  1-1   @ Solna, Sweden   [Italy wins on penalties]
+Wed Jun 12
+  Denmark              v Italy                 0-2   @ Malmö, Sweden
+Thu Jun 13
+  Sweden               v Russia                2-3   @ Gothenburg, Sweden
+Sat Jun 15
+  Sweden               v Denmark               4-0   @ Norrköping, Sweden
+Sun Jun 16
+  Italy                v Russia                1-1   @ Solna, Sweden   [Italy wins on penalties]
 

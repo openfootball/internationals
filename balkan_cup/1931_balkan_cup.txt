@@ -1,25 +1,25 @@
 = Balkan Cup 1931
 
-# Date       Sun Mar/15 - Sun Nov/29 1931 (259d)
+# Date       Sun Mar 15 - Sun Nov 29 1931 (259d)
 # Teams      5
 # Matches    9
 
-[Sun Mar 15]
-  Yugoslavia - Greece  4-1   @ Belgrade, Yugoslavia
-[Sun Apr 19]
-  Yugoslavia - Bulgaria  1-0   @ Belgrade, Yugoslavia
-[Sun May 10]
-  Romania - Bulgaria  5-2   @ Bucharest, Romania
-[Sun Jun 28]
-  Yugoslavia - Romania  2-4   @ Zagreb, Yugoslavia
-[Sun Sep 27]
-  Bulgaria - Turkey  5-1   @ Sofia, Bulgaria
-[Fri Oct 2]
-  Turkey - Yugoslavia  2-0   @ Sofia, Bulgaria
-[Sun Oct 4]
-  Bulgaria - Yugoslavia  3-2   @ Sofia, Bulgaria
-[Sun Oct 25]
-  Bulgaria - Greece  2-1   @ Sofia, Bulgaria
-[Sun Nov 29]
-  Greece - Romania  2-4   @ Athens, Greece
+Sun Mar 15
+  Yugoslavia           v Greece                4-1   @ Belgrade, Yugoslavia
+Sun Apr 19
+  Yugoslavia           v Bulgaria              1-0   @ Belgrade, Yugoslavia
+Sun May 10
+  Romania              v Bulgaria              5-2   @ Bucharest, Romania
+Sun Jun 28
+  Yugoslavia           v Romania               2-4   @ Zagreb, Yugoslavia
+Sun Sep 27
+  Bulgaria             v Turkey                5-1   @ Sofia, Bulgaria
+Fri Oct 2
+  Turkey               v Yugoslavia            2-0   @ Sofia, Bulgaria
+Sun Oct 4
+  Bulgaria             v Yugoslavia            3-2   @ Sofia, Bulgaria
+Sun Oct 25
+  Bulgaria             v Greece                2-1   @ Sofia, Bulgaria
+Sun Nov 29
+  Greece               v Romania               2-4   @ Athens, Greece
 

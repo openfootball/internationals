@@ -1,11 +1,11 @@
 = Central European International Cup 1952
 
-# Date       Sat Sep/20 - Sun Dec/28 1952 (99d)
+# Date       Sat Sep 20 - Sun Dec 28 1952 (99d)
 # Teams      3
 # Matches    2
 
-[Sat Sep 20]
-  Switzerland - Hungary  2-4   @ Bern, Switzerland
-[Sun Dec 28]
-  Italy - Switzerland  2-0   @ Palermo, Italy
+Sat Sep 20
+  Switzerland          v Hungary               2-4   @ Bern, Switzerland
+Sun Dec 28
+  Italy                v Switzerland           2-0   @ Palermo, Italy
 

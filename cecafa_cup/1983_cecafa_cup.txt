@@ -1,40 +1,40 @@
 = CECAFA Cup 1983
 
-# Date       Sat Nov/12 - Sat Nov/26 1983 (14d)
+# Date       Sat Nov 12 - Sat Nov 26 1983 (14d)
 # Teams      9
 # Matches    20
 
-[Sat Nov 12]
-  Kenya - Uganda  2-1   @ Nairobi, Kenya
-[Sun Nov 13]
-  Ethiopia - Tanzania  1-1   @ Nairobi, Kenya
-  Malawi - Zimbabwe  0-1   @ Mombasa, Kenya
-[Mon Nov 14]
-  Somalia - Zanzibar  1-1   @ Nairobi, Kenya
-  Sudan - Uganda  1-2   @ Nairobi, Kenya
-[Tue Nov 15]
-  Kenya - Ethiopia  2-0   @ Nairobi, Kenya
-[Wed Nov 16]
-  Sudan - Tanzania  1-0   @ Nairobi, Kenya
-  Zanzibar - Zimbabwe  1-2   @ Mombasa, Kenya
-[Thu Nov 17]
-  Ethiopia - Uganda  1-2   @ Nairobi, Kenya
-  Malawi - Somalia  2-1   @ Mombasa, Kenya
-[Fri Nov 18]
-  Kenya - Tanzania  0-0   @ Nairobi, Kenya
-[Sat Nov 19]
-  Ethiopia - Sudan  0-2   @ Nairobi, Kenya
-  Somalia - Zimbabwe  1-2   @ Mombasa, Kenya
-[Sun Nov 20]
-  Malawi - Zanzibar  3-1   @ Mombasa, Kenya
-  Tanzania - Uganda  1-1   @ Nairobi, Kenya
-[Mon Nov 21]
-  Kenya - Sudan  1-0   @ Nairobi, Kenya
-[Wed Nov 23]
-  Kenya - Malawi  2-0   @ Nairobi, Kenya
-  Uganda - Zimbabwe  0-1   @ Mombasa, Kenya
-[Fri Nov 25]
-  Malawi - Uganda  1-2   @ Nairobi, Kenya
-[Sat Nov 26]
-  Kenya - Zimbabwe  1-0   @ Nairobi, Kenya
+Sat Nov 12
+  Kenya                v Uganda                2-1   @ Nairobi, Kenya
+Sun Nov 13
+  Ethiopia             v Tanzania              1-1   @ Nairobi, Kenya
+  Malawi               v Zimbabwe              0-1   @ Mombasa, Kenya
+Mon Nov 14
+  Somalia              v Zanzibar              1-1   @ Nairobi, Kenya
+  Sudan                v Uganda                1-2   @ Nairobi, Kenya
+Tue Nov 15
+  Kenya                v Ethiopia              2-0   @ Nairobi, Kenya
+Wed Nov 16
+  Sudan                v Tanzania              1-0   @ Nairobi, Kenya
+  Zanzibar             v Zimbabwe              1-2   @ Mombasa, Kenya
+Thu Nov 17
+  Ethiopia             v Uganda                1-2   @ Nairobi, Kenya
+  Malawi               v Somalia               2-1   @ Mombasa, Kenya
+Fri Nov 18
+  Kenya                v Tanzania              0-0   @ Nairobi, Kenya
+Sat Nov 19
+  Ethiopia             v Sudan                 0-2   @ Nairobi, Kenya
+  Somalia              v Zimbabwe              1-2   @ Mombasa, Kenya
+Sun Nov 20
+  Malawi               v Zanzibar              3-1   @ Mombasa, Kenya
+  Tanzania             v Uganda                1-1   @ Nairobi, Kenya
+Mon Nov 21
+  Kenya                v Sudan                 1-0   @ Nairobi, Kenya
+Wed Nov 23
+  Kenya                v Malawi                2-0   @ Nairobi, Kenya
+  Uganda               v Zimbabwe              0-1   @ Mombasa, Kenya
+Fri Nov 25
+  Malawi               v Uganda                1-2   @ Nairobi, Kenya
+Sat Nov 26
+  Kenya                v Zimbabwe              1-0   @ Nairobi, Kenya
 

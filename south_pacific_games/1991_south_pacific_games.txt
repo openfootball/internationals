@@ -1,34 +1,34 @@
 = South Pacific Games 1991
 
-# Date       Mon Sep/9 - Fri Sep/20 1991 (11d)
+# Date       Mon Sep 9 - Fri Sep 20 1991 (11d)
 # Teams      8
 # Matches    18
 
-[Mon Sep 9]
-  Guam - Tahiti  0-15   @ Lae, Papua New Guinea
-  Papua New Guinea - Solomon Islands  0-0   @ Lae, Papua New Guinea
-[Tue Sep 10]
-  Fiji - New Caledonia  3-1   @ Lae, Papua New Guinea
-  Vanuatu - Wallis Islands and Futuna  4-0   @ Lae, Papua New Guinea
-[Wed Sep 11]
-  New Caledonia - Tahiti  2-2   @ Lae, Papua New Guinea
-  Solomon Islands - Wallis Islands and Futuna  5-0   @ Lae, Papua New Guinea
-[Thu Sep 12]
-  Fiji - Guam  14-1   @ Lae, Papua New Guinea
-  Papua New Guinea - Vanuatu  0-1   @ Lae, Papua New Guinea
-[Sat Sep 14]
-  Fiji - Tahiti  3-0   @ Lae, Papua New Guinea
-  Solomon Islands - Vanuatu  3-0   @ Lae, Papua New Guinea
-[Sun Sep 15]
-  Guam - New Caledonia  0-18   @ Lae, Papua New Guinea
-  Papua New Guinea - Wallis Islands and Futuna  5-0   @ Lae, Papua New Guinea
-[Tue Sep 17]
-  Fiji - Vanuatu  3-1   @ Lae, Papua New Guinea
-  New Caledonia - Solomon Islands  1-4   @ Lae, Papua New Guinea
-  Wallis Islands and Futuna - Tahiti  0-5   @ Lae, Papua New Guinea
-[Wed Sep 18]
-  Wallis Islands and Futuna - Guam  5-0   @ Lae, Papua New Guinea
-[Fri Sep 20]
-  Fiji - Solomon Islands  1-1   @ Lae, Papua New Guinea   [Fiji wins on penalties]
-  New Caledonia - Vanuatu  3-1   @ Lae, Papua New Guinea
+Mon Sep 9
+  Guam                 v Tahiti                0-15   @ Lae, Papua New Guinea
+  Papua New Guinea     v Solomon Islands       0-0   @ Lae, Papua New Guinea
+Tue Sep 10
+  Fiji                 v New Caledonia         3-1   @ Lae, Papua New Guinea
+  Vanuatu              v Wallis Islands and Futuna  4-0   @ Lae, Papua New Guinea
+Wed Sep 11
+  New Caledonia        v Tahiti                2-2   @ Lae, Papua New Guinea
+  Solomon Islands      v Wallis Islands and Futuna  5-0   @ Lae, Papua New Guinea
+Thu Sep 12
+  Fiji                 v Guam                  14-1   @ Lae, Papua New Guinea
+  Papua New Guinea     v Vanuatu               0-1   @ Lae, Papua New Guinea
+Sat Sep 14
+  Fiji                 v Tahiti                3-0   @ Lae, Papua New Guinea
+  Solomon Islands      v Vanuatu               3-0   @ Lae, Papua New Guinea
+Sun Sep 15
+  Guam                 v New Caledonia         0-18   @ Lae, Papua New Guinea
+  Papua New Guinea     v Wallis Islands and Futuna  5-0   @ Lae, Papua New Guinea
+Tue Sep 17
+  Fiji                 v Vanuatu               3-1   @ Lae, Papua New Guinea
+  New Caledonia        v Solomon Islands       1-4   @ Lae, Papua New Guinea
+  Wallis Islands and Futuna v Tahiti                0-5   @ Lae, Papua New Guinea
+Wed Sep 18
+  Wallis Islands and Futuna v Guam                  5-0   @ Lae, Papua New Guinea
+Fri Sep 20
+  Fiji                 v Solomon Islands       1-1   @ Lae, Papua New Guinea   [Fiji wins on penalties]
+  New Caledonia        v Vanuatu               3-1   @ Lae, Papua New Guinea
 

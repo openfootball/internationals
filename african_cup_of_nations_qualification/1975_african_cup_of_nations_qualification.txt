@@ -1,54 +1,54 @@
 = African Cup of Nations qualification 1975
 
-# Date       Sat Mar/22 - Fri Aug/15 1975 (146d)
+# Date       Sat Mar 22 - Fri Aug 15 1975 (146d)
 # Teams      21
 # Matches    30
 
-[Sat Mar 22]
-  Morocco - Senegal  4-0   @ Fez, Morocco
-  Senegal - Morocco  2-1   @ Kaolack, Senegal
-[Sun Mar 23]
-  Tunisia - Algeria  1-1   @ Tunis, Tunisia
-  Sudan - Kenya  1-0   @ Khartoum, Sudan
-  Niger - Guinea  2-4   @ Niamey, Niger
-  Uganda - Mauritius  4-0   @ Kampala, Uganda
-  Kenya - Sudan  0-2   @ Nairobi, Kenya
-[Mon Mar 24]
-  Burundi - Egypt  0-3   @ Bujumbura, Burundi
-[Sun Mar 30]
-  Congo - Ivory Coast  1-0   @ Brazzaville, Congo
-  Ghana - Mali  4-0   @ Accra, Ghana
-  Malawi - Zambia  1-6   @ Blantyre, Malawi
-[Sun Apr 6]
-  Mauritius - Uganda  1-1   @ Port Louis, Mauritius
-  Guinea - Niger  3-0   @ Conakry, Guinea
-  Algeria - Tunisia  1-2   @ Oran, Algeria
-[Sun Apr 13]
-  Ivory Coast - Congo  2-1   @ Abidjan, Ivory Coast
-  Mali - Ghana  3-1   @ Bamako, Mali
-  Cameroon - Togo  3-0   @ Douala, Cameroon
-[Mon Apr 14]
-  Zambia - Malawi  3-3   @ Lusaka, Zambia
-[Sat Apr 19]
-  Egypt - Burundi  2-0   @ Cairo, Egypt
-[Sun Apr 20]
-  Togo - Cameroon  4-0   @ Lomé, Togo
-[Sun Jun 29]
-  Ghana - Morocco  2-0   @ Accra, Ghana
-[Thu Jul 3]
-  Togo - Guinea  2-2   @ Lomé, Togo
-[Sun Jul 6]
-  Tunisia - Sudan  3-2   @ Tunis, Tunisia
-[Sat Jul 12]
-  Zambia - Uganda  2-1   @ Lusaka, Zambia
-[Sun Jul 13]
-  Congo - Nigeria  0-1   @ Brazzaville, Congo
-  Morocco - Ghana  2-0   @ Casablanca, Morocco   [Morocco wins on penalties]
-[Thu Jul 17]
-  Guinea - Togo  2-0   @ Conakry, Guinea
-[Sun Jul 27]
-  Nigeria - Congo  2-1   @ Lagos, Nigeria
-[Fri Aug 15]
-  Sudan - Tunisia  2-1   @ Khartoum, Sudan
-  Uganda - Zambia  3-0   @ Kampala, Uganda
+Sat Mar 22
+  Morocco              v Senegal               4-0   @ Fez, Morocco
+  Senegal              v Morocco               2-1   @ Kaolack, Senegal
+Sun Mar 23
+  Tunisia              v Algeria               1-1   @ Tunis, Tunisia
+  Sudan                v Kenya                 1-0   @ Khartoum, Sudan
+  Niger                v Guinea                2-4   @ Niamey, Niger
+  Uganda               v Mauritius             4-0   @ Kampala, Uganda
+  Kenya                v Sudan                 0-2   @ Nairobi, Kenya
+Mon Mar 24
+  Burundi              v Egypt                 0-3   @ Bujumbura, Burundi
+Sun Mar 30
+  Congo                v Ivory Coast           1-0   @ Brazzaville, Congo
+  Ghana                v Mali                  4-0   @ Accra, Ghana
+  Malawi               v Zambia                1-6   @ Blantyre, Malawi
+Sun Apr 6
+  Mauritius            v Uganda                1-1   @ Port Louis, Mauritius
+  Guinea               v Niger                 3-0   @ Conakry, Guinea
+  Algeria              v Tunisia               1-2   @ Oran, Algeria
+Sun Apr 13
+  Ivory Coast          v Congo                 2-1   @ Abidjan, Ivory Coast
+  Mali                 v Ghana                 3-1   @ Bamako, Mali
+  Cameroon             v Togo                  3-0   @ Douala, Cameroon
+Mon Apr 14
+  Zambia               v Malawi                3-3   @ Lusaka, Zambia
+Sat Apr 19
+  Egypt                v Burundi               2-0   @ Cairo, Egypt
+Sun Apr 20
+  Togo                 v Cameroon              4-0   @ Lomé, Togo
+Sun Jun 29
+  Ghana                v Morocco               2-0   @ Accra, Ghana
+Thu Jul 3
+  Togo                 v Guinea                2-2   @ Lomé, Togo
+Sun Jul 6
+  Tunisia              v Sudan                 3-2   @ Tunis, Tunisia
+Sat Jul 12
+  Zambia               v Uganda                2-1   @ Lusaka, Zambia
+Sun Jul 13
+  Congo                v Nigeria               0-1   @ Brazzaville, Congo
+  Morocco              v Ghana                 2-0   @ Casablanca, Morocco   [Morocco wins on penalties]
+Thu Jul 17
+  Guinea               v Togo                  2-0   @ Conakry, Guinea
+Sun Jul 27
+  Nigeria              v Congo                 2-1   @ Lagos, Nigeria
+Fri Aug 15
+  Sudan                v Tunisia               2-1   @ Khartoum, Sudan
+  Uganda               v Zambia                3-0   @ Kampala, Uganda
 

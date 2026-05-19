@@ -1,13 +1,13 @@
 = Muratti Vase 1937
 
-# Date       Thu Apr/15 - Mon May/17 1937 (32d)
+# Date       Thu Apr 15 - Mon May 17 1937 (32d)
 # Teams      3
 # Matches    3
 
-[Thu Apr 15]
-  Guernsey - Alderney  4-1   @ Guernsey, Guernsey
-[Thu Apr 29]
-  Jersey - Guernsey  2-2   @ Jersey, Jersey
-[Mon May 17]
-  Guernsey - Jersey  3-3   @ Guernsey, Guernsey
+Thu Apr 15
+  Guernsey             v Alderney              4-1   @ Guernsey, Guernsey
+Thu Apr 29
+  Jersey               v Guernsey              2-2   @ Jersey, Jersey
+Mon May 17
+  Guernsey             v Jersey                3-3   @ Guernsey, Guernsey
 

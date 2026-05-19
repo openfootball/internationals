@@ -1,73 +1,73 @@
 = Copa América 1953
 
-# Date       Sun Feb/22 - Wed Apr/1 1953 (38d)
+# Date       Sun Feb 22 - Wed Apr 1 1953 (38d)
 # Teams      7
 # Matches    22
 
-[Sun Feb 22]
-  Peru - Bolivia  0-1   @ Lima, Peru
-     -; Víctor Ugarte 53'
-[Wed Feb 25]
-  Bolivia - Uruguay  0-2   @ Lima, Peru
-     -; Washington Puente 11' Carlos Romero 88'
-  Chile - Paraguay  0-3   @ Lima, Peru
-     -; Rubén Fernández 54' Rubén Fernández 75' Ángel Berni 78'
-[Sat Feb 28]
-  Peru - Ecuador  1-0   @ Lima, Peru
-     Óscar Gómez Sánchez 78'
-[Sun Mar 1]
-  Bolivia - Brazil  1-8   @ Lima, Peru
-     Víctor Ugarte 73' (pen.);
-     Júlio Botelho 18' Júlio Botelho 20' Francisco Rodrigues 25' Pinga 39' Júlio Botelho 42' Francisco Rodrigues 44' Júlio Botelho 52' Pinga 60'
-  Chile - Uruguay  3-2   @ Lima, Peru
-     Francisco Molina 5' Francisco Molina 55' Francisco Molina 67';
-     Walter Morel 70' Osvaldo Balseiro 81'
-[Wed Mar 4]
-  Ecuador - Paraguay  0-0   @ Lima, Peru
-  Peru - Chile  0-0   @ Lima, Peru
-[Sun Mar 8]
-  Bolivia - Ecuador  1-1   @ Lima, Peru
-     Ricardo Alcón 25';
-     Eduardo Guzmán 6'
-  Peru - Paraguay  2-2   @ Lima, Peru
-     Óscar Gómez Sánchez 47' Alberto Terry 53';
-     Rubén Fernández 36' Ángel Berni 77'
-[Thu Mar 12]
-  Brazil - Ecuador  2-0   @ Lima, Peru
-     Ademir de Menezes 18' Cláudio Christovam de Pinho 55'
-  Paraguay - Uruguay  2-2   @ Lima, Peru
-     Atilio López 5' Ángel Berni 52';
-     Osvaldo Balseiro 36' Osvaldo Balseiro 55'
-[Sun Mar 15]
-  Brazil - Uruguay  1-0   @ Lima, Peru
-     Ipojucan Lins de Araújo 87'
-[Mon Mar 16]
-  Bolivia - Paraguay  1-2   @ Lima, Peru
-     Ramón Santos 76';
-     Juan Angel Romero 17' Ángel Berni 22'
-[Thu Mar 19]
-  Chile - Ecuador  3-0   @ Lima, Peru
-     Francisco Molina 33' Francisco Molina 47' Atilio Cremaschi 70'
-  Peru - Brazil  1-0   @ Lima, Peru
-     Luis Navarrete 51'
-[Mon Mar 23]
-  Brazil - Chile  3-2   @ Lima, Peru
-     Júlio Botelho 1' Zizinho 53' Baltazar 70';
-     Francisco Molina 62' Francisco Molina 76'
-  Ecuador - Uruguay  0-6   @ Lima, Peru
-     -; Omar Méndez 12' Washington Puente 51' Donald Peláez 58' Walter Morel 60' Carlos Romero 86' Osvaldo Balseiro 88'
-[Fri Mar 27]
-  Brazil - Paraguay  1-2   @ Lima, Peru
-     Nílton Santos 12';
-     Atilio López 49' Pablo León 89'
-[Sat Mar 28]
-  Bolivia - Chile  2-2   @ Lima, Peru
-     Ramón Santos 15' Ricardo Alcón 49';
-     René Meléndez 28' Guillermo Díaz Carmona 52'
-  Peru - Uruguay  0-3   @ Lima, Peru
-     -; Donald Peláez 23' Donald Peláez 67' Carlos Romero 71'
-[Wed Apr 1]
-  Brazil - Paraguay  2-3   @ Lima, Peru
-     Baltazar 56' Baltazar 65';
-     Atilio López 14' Manuel Gavilán 17' Rubén Fernández 41'
+Sun Feb 22
+  Peru                 v Bolivia               0-1   @ Lima, Peru
+     (Víctor Ugarte 53')
+Wed Feb 25
+  Bolivia              v Uruguay               0-2   @ Lima, Peru
+     (Washington Puente 11' Carlos Romero 88')
+  Chile                v Paraguay              0-3   @ Lima, Peru
+     (Rubén Fernández 54' Rubén Fernández 75' Ángel Berni 78')
+Sat Feb 28
+  Peru                 v Ecuador               1-0   @ Lima, Peru
+     (Óscar Gómez Sánchez 78')
+Sun Mar 1
+  Bolivia              v Brazil                1-8   @ Lima, Peru
+     (Víctor Ugarte 73'(p);
+      Júlio Botelho 18' Júlio Botelho 20' Francisco Rodrigues 25' Pinga 39' Júlio Botelho 42' Francisco Rodrigues 44' Júlio Botelho 52' Pinga 60')
+  Chile                v Uruguay               3-2   @ Lima, Peru
+     (Francisco Molina 5' Francisco Molina 55' Francisco Molina 67';
+      Walter Morel 70' Osvaldo Balseiro 81')
+Wed Mar 4
+  Ecuador              v Paraguay              0-0   @ Lima, Peru
+  Peru                 v Chile                 0-0   @ Lima, Peru
+Sun Mar 8
+  Bolivia              v Ecuador               1-1   @ Lima, Peru
+     (Ricardo Alcón 25';
+      Eduardo Guzmán 6')
+  Peru                 v Paraguay              2-2   @ Lima, Peru
+     (Óscar Gómez Sánchez 47' Alberto Terry 53';
+      Rubén Fernández 36' Ángel Berni 77')
+Thu Mar 12
+  Brazil               v Ecuador               2-0   @ Lima, Peru
+     (Ademir de Menezes 18' Cláudio Christovam de Pinho 55')
+  Paraguay             v Uruguay               2-2   @ Lima, Peru
+     (Atilio López 5' Ángel Berni 52';
+      Osvaldo Balseiro 36' Osvaldo Balseiro 55')
+Sun Mar 15
+  Brazil               v Uruguay               1-0   @ Lima, Peru
+     (Ipojucan Lins de Araújo 87')
+Mon Mar 16
+  Bolivia              v Paraguay              1-2   @ Lima, Peru
+     (Ramón Santos 76';
+      Juan Angel Romero 17' Ángel Berni 22')
+Thu Mar 19
+  Chile                v Ecuador               3-0   @ Lima, Peru
+     (Francisco Molina 33' Francisco Molina 47' Atilio Cremaschi 70')
+  Peru                 v Brazil                1-0   @ Lima, Peru
+     (Luis Navarrete 51')
+Mon Mar 23
+  Brazil               v Chile                 3-2   @ Lima, Peru
+     (Júlio Botelho 1' Zizinho 53' Baltazar 70';
+      Francisco Molina 62' Francisco Molina 76')
+  Ecuador              v Uruguay               0-6   @ Lima, Peru
+     (Omar Méndez 12' Washington Puente 51' Donald Peláez 58' Walter Morel 60' Carlos Romero 86' Osvaldo Balseiro 88')
+Fri Mar 27
+  Brazil               v Paraguay              1-2   @ Lima, Peru
+     (Nílton Santos 12';
+      Atilio López 49' Pablo León 89')
+Sat Mar 28
+  Bolivia              v Chile                 2-2   @ Lima, Peru
+     (Ramón Santos 15' Ricardo Alcón 49';
+      René Meléndez 28' Guillermo Díaz Carmona 52')
+  Peru                 v Uruguay               0-3   @ Lima, Peru
+     (Donald Peláez 23' Donald Peláez 67' Carlos Romero 71')
+Wed Apr 1
+  Brazil               v Paraguay              2-3   @ Lima, Peru
+     (Baltazar 56' Baltazar 65';
+      Atilio López 14' Manuel Gavilán 17' Rubén Fernández 41')
 

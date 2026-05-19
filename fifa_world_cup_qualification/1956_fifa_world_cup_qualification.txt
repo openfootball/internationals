@@ -1,22 +1,22 @@
 = FIFA World Cup qualification 1956
 
-# Date       Sun Sep/30 - Wed Dec/5 1956 (66d)
+# Date       Sun Sep 30 - Wed Dec 5 1956 (66d)
 # Teams      7
 # Matches    4
 
-[Sun Sep 30]
-  Austria - Luxembourg  7-0   @ Vienna, Austria
-     Gerhard Hanappi 18' Gerhard Hanappi 25' Otto Walzhofer 51' Theodor Wagner 62' Ernst Kozlicek 71' Theodor Wagner 77' Walter Haummer 79'
-[Wed Oct 3]
-  Republic of Ireland - Denmark  2-1   @ Dublin, Republic of Ireland
-     Dermot Curtis 27' Johnny Gavin 45' (pen.);
-     Aage Rou Jensen 85'
-[Sun Nov 11]
-  France - Belgium  6-3   @ Colombes, France
-     Thadée Cisowski 13' Thadée Cisowski 15' Jean Vincent 18' Thadée Cisowski 44' Thadée Cisowski 72' Thadée Cisowski 88';
-     Denis Houf 16' Maurice Willems 61' Maurice Willems 67'
-[Wed Dec 5]
-  England - Denmark  5-2   @ Wolverhampton, England
-     Tommy Taylor 2' Tommy Taylor 22' Tommy Taylor 53' Duncan Edwards 66' Duncan Edwards 77';
-     Ove Bech Nielsen 27' Ove Bech Nielsen 64'
+Sun Sep 30
+  Austria              v Luxembourg            7-0   @ Vienna, Austria
+     (Gerhard Hanappi 18' Gerhard Hanappi 25' Otto Walzhofer 51' Theodor Wagner 62' Ernst Kozlicek 71' Theodor Wagner 77' Walter Haummer 79')
+Wed Oct 3
+  Republic of Ireland  v Denmark               2-1   @ Dublin, Republic of Ireland
+     (Dermot Curtis 27' Johnny Gavin 45'(p);
+      Aage Rou Jensen 85')
+Sun Nov 11
+  France               v Belgium               6-3   @ Colombes, France
+     (Thadée Cisowski 13' Thadée Cisowski 15' Jean Vincent 18' Thadée Cisowski 44' Thadée Cisowski 72' Thadée Cisowski 88';
+      Denis Houf 16' Maurice Willems 61' Maurice Willems 67')
+Wed Dec 5
+  England              v Denmark               5-2   @ Wolverhampton, England
+     (Tommy Taylor 2' Tommy Taylor 22' Tommy Taylor 53' Duncan Edwards 66' Duncan Edwards 77';
+      Ove Bech Nielsen 27' Ove Bech Nielsen 64')
 

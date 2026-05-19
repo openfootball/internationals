@@ -1,87 +1,87 @@
 = Copa América 1975
 
-# Date       Thu Jul/17 - Tue Oct/28 1975 (103d)
+# Date       Thu Jul 17 - Tue Oct 28 1975 (103d)
 # Teams      10
 # Matches    25
 
-[Thu Jul 17]
-  Chile - Peru  1-1   @ Santiago, Chile
-     Julio Crisosto 10';
-     Percy Rojas 72'
-[Sun Jul 20]
-  Bolivia - Chile  2-1   @ Oruro, Bolivia
-     Ovidio Mezza 60' Ovidio Mezza 75';
-     Miguel Ángel Gamboa 41'
-  Colombia - Paraguay  1-0   @ Bogotá, Colombia
-     Ernesto Díaz 83'
-[Thu Jul 24]
-  Ecuador - Paraguay  2-2   @ Guayaquil, Ecuador
-     Félix Lasso 38' Gonzalo Castañeda 47';
-     Hugo Kiesse 16' Hugo Kiesse 87'
-[Sun Jul 27]
-  Bolivia - Peru  0-1   @ Oruro, Bolivia
-     -; Oswaldo Ramírez 17'
-  Ecuador - Colombia  1-3   @ Quito, Ecuador
-     Polo Carrera 40';
-     Willington Ortiz 15' Eduardo Retat 75' Ponciano Castro 83'
-[Wed Jul 30]
-  Paraguay - Colombia  0-1   @ Asunción, Paraguay
-     -; Ernesto Díaz 40'
-[Thu Jul 31]
-  Venezuela - Brazil  0-4   @ Caracas, Venezuela
-     -; Romeu Evangelista 2' Danival 50' Palhinha 82' Palhinha 88'
-[Sun Aug 3]
-  Venezuela - Argentina  1-5   @ Caracas, Venezuela
-     Ramón Iriarte 14';
-     Leopoldo Luque 12' Mario Kempes 30' Leopoldo Luque 34' Leopoldo Luque 66' Osvaldo Ardiles 86'
-[Wed Aug 6]
-  Brazil - Argentina  2-1   @ Belo Horizonte, Brazil
-     Nelinho 31' Nelinho 55' (pen.);
-     Julio Asad 11'
-[Thu Aug 7]
-  Colombia - Ecuador  2-0   @ Bogotá, Colombia
-     Ernesto Díaz 15' Oswaldo Calero 42'
-  Peru - Bolivia  3-1   @ Lima, Peru
-     Oswaldo Ramírez 7' (pen.) César Cueto 26' Juan Carlos Oblitas 52';
-     Ovidio Mezza 58' (pen.)
-[Sun Aug 10]
-  Argentina - Venezuela  11-0   @ Rosario, Argentina
-     Daniel Killer 8' Américo Gallego 14' Osvaldo Ardiles 39' Daniel Killer 41' Mario Kempes 53' Mario Zanabria 56' Daniel Killer 62' Mario Zanabria 64' Ramón Bóveda 80' Mario Kempes 81' Leopoldo Luque 85'
-  Paraguay - Ecuador  3-1   @ Asunción, Paraguay
-     Carlos Báez 21' Clemente Rolón 39' Clemente Rolón 58';
-     Gonzalo Castañeda 31'
-[Wed Aug 13]
-  Brazil - Venezuela  6-0   @ Belo Horizonte, Brazil
-     Roberto Batata 6' Nelinho 9' Danival 37' Cosme da Silva Campos 53' Palhinha 65' Roberto Batata 79'
-  Chile - Bolivia  4-0   @ Santiago, Chile
-     Luis Araneda 40' Sergio Ahumada 61' Miguel Ángel Gamboa 71' Luis Araneda 87'
-[Sat Aug 16]
-  Argentina - Brazil  0-1   @ Rosario, Argentina
-     -; Danival 45'
-[Wed Aug 20]
-  Peru - Chile  3-1   @ Lima, Peru
-     Percy Rojas 3' Juan Carlos Oblitas 32' Teófilo Cubillas 39';
-     Carlos Reinoso 76'
-[Sun Sep 21]
-  Colombia - Uruguay  3-0   @ Bogotá, Colombia
-     Edgar Angulo 53' Willington Ortiz 70' Ernesto Díaz 90'
-[Tue Sep 30]
-  Brazil - Peru  1-3   @ Belo Horizonte, Brazil
-     Roberto Batata 54';
-     Enrique Casaretto 19' Teófilo Cubillas 82' Enrique Casaretto 88'
-[Wed Oct 1]
-  Uruguay - Colombia  1-0   @ Montevideo, Uruguay
-     Fernando Morena 17' (pen.)
-[Sat Oct 4]
-  Peru - Brazil  0-2   @ Lima, Peru
-     -; Julio Meléndez 10' (o.g.) Cosme da Silva Campos 61'
-[Thu Oct 16]
-  Colombia - Peru  1-0   @ Bogotá, Colombia
-     Ponciano Castro 38'
-[Wed Oct 22]
-  Peru - Colombia  2-0   @ Lima, Peru
-     Juan Carlos Oblitas 18' Oswaldo Ramírez 44'
-[Tue Oct 28]
-  Colombia - Peru  0-1   @ Caracas, Venezuela
-     -; Hugo Sotil 25'
+Thu Jul 17
+  Chile                v Peru                  1-1   @ Santiago, Chile
+     (Julio Crisosto 10';
+      Percy Rojas 72')
+Sun Jul 20
+  Bolivia              v Chile                 2-1   @ Oruro, Bolivia
+     (Ovidio Mezza 60' Ovidio Mezza 75';
+      Miguel Ángel Gamboa 41')
+  Colombia             v Paraguay              1-0   @ Bogotá, Colombia
+     (Ernesto Díaz 83')
+Thu Jul 24
+  Ecuador              v Paraguay              2-2   @ Guayaquil, Ecuador
+     (Félix Lasso 38' Gonzalo Castañeda 47';
+      Hugo Kiesse 16' Hugo Kiesse 87')
+Sun Jul 27
+  Bolivia              v Peru                  0-1   @ Oruro, Bolivia
+     (Oswaldo Ramírez 17')
+  Ecuador              v Colombia              1-3   @ Quito, Ecuador
+     (Polo Carrera 40';
+      Willington Ortiz 15' Eduardo Retat 75' Ponciano Castro 83')
+Wed Jul 30
+  Paraguay             v Colombia              0-1   @ Asunción, Paraguay
+     (Ernesto Díaz 40')
+Thu Jul 31
+  Venezuela            v Brazil                0-4   @ Caracas, Venezuela
+     (Romeu Evangelista 2' Danival 50' Palhinha 82' Palhinha 88')
+Sun Aug 3
+  Venezuela            v Argentina             1-5   @ Caracas, Venezuela
+     (Ramón Iriarte 14';
+      Leopoldo Luque 12' Mario Kempes 30' Leopoldo Luque 34' Leopoldo Luque 66' Osvaldo Ardiles 86')
+Wed Aug 6
+  Brazil               v Argentina             2-1   @ Belo Horizonte, Brazil
+     (Nelinho 31' Nelinho 55'(p);
+      Julio Asad 11')
+Thu Aug 7
+  Colombia             v Ecuador               2-0   @ Bogotá, Colombia
+     (Ernesto Díaz 15' Oswaldo Calero 42')
+  Peru                 v Bolivia               3-1   @ Lima, Peru
+     (Oswaldo Ramírez 7'(p) César Cueto 26' Juan Carlos Oblitas 52';
+      Ovidio Mezza 58'(p))
+Sun Aug 10
+  Argentina            v Venezuela             11-0   @ Rosario, Argentina
+     (Daniel Killer 8' Américo Gallego 14' Osvaldo Ardiles 39' Daniel Killer 41' Mario Kempes 53' Mario Zanabria 56' Daniel Killer 62' Mario Zanabria 64' Ramón Bóveda 80' Mario Kempes 81' Leopoldo Luque 85')
+  Paraguay             v Ecuador               3-1   @ Asunción, Paraguay
+     (Carlos Báez 21' Clemente Rolón 39' Clemente Rolón 58';
+      Gonzalo Castañeda 31')
+Wed Aug 13
+  Brazil               v Venezuela             6-0   @ Belo Horizonte, Brazil
+     (Roberto Batata 6' Nelinho 9' Danival 37' Cosme da Silva Campos 53' Palhinha 65' Roberto Batata 79')
+  Chile                v Bolivia               4-0   @ Santiago, Chile
+     (Luis Araneda 40' Sergio Ahumada 61' Miguel Ángel Gamboa 71' Luis Araneda 87')
+Sat Aug 16
+  Argentina            v Brazil                0-1   @ Rosario, Argentina
+     (Danival 45')
+Wed Aug 20
+  Peru                 v Chile                 3-1   @ Lima, Peru
+     (Percy Rojas 3' Juan Carlos Oblitas 32' Teófilo Cubillas 39';
+      Carlos Reinoso 76')
+Sun Sep 21
+  Colombia             v Uruguay               3-0   @ Bogotá, Colombia
+     (Edgar Angulo 53' Willington Ortiz 70' Ernesto Díaz 90')
+Tue Sep 30
+  Brazil               v Peru                  1-3   @ Belo Horizonte, Brazil
+     (Roberto Batata 54';
+      Enrique Casaretto 19' Teófilo Cubillas 82' Enrique Casaretto 88')
+Wed Oct 1
+  Uruguay              v Colombia              1-0   @ Montevideo, Uruguay
+     (Fernando Morena 17'(p))
+Sat Oct 4
+  Peru                 v Brazil                0-2   @ Lima, Peru
+     (Julio Meléndez 10'(og) Cosme da Silva Campos 61')
+Thu Oct 16
+  Colombia             v Peru                  1-0   @ Bogotá, Colombia
+     (Ponciano Castro 38')
+Wed Oct 22
+  Peru                 v Colombia              2-0   @ Lima, Peru
+     (Juan Carlos Oblitas 18' Oswaldo Ramírez 44')
+Tue Oct 28
+  Colombia             v Peru                  0-1   @ Caracas, Venezuela
+     (Hugo Sotil 25')
 

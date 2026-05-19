@@ -1,11 +1,11 @@
 = Copa Artigas 1966
 
-# Date       Sun May/15 - Wed May/18 1966 (3d)
+# Date       Sun May 15 - Wed May 18 1966 (3d)
 # Teams      2
 # Matches    2
 
-[Sun May 15]
-  Paraguay - Uruguay  2-2   @ Asunción, Paraguay
-[Wed May 18]
-  Uruguay - Paraguay  3-1   @ Montevideo, Uruguay
+Sun May 15
+  Paraguay             v Uruguay               2-2   @ Asunción, Paraguay
+Wed May 18
+  Uruguay              v Paraguay              3-1   @ Montevideo, Uruguay
 

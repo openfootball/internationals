@@ -1,806 +1,806 @@
 = FIFA World Cup qualification 2009
 
-# Date       Wed Feb/11 - Wed Nov/18 2009 (280d)
+# Date       Wed Feb 11 - Wed Nov 18 2009 (280d)
 # Teams      100
 # Matches    332
 
-[Wed Feb 11]
-  Costa Rica - Honduras  2-0   @ San José, Costa Rica
-     Andy Furtado 48' Andy Furtado 59'
-  El Salvador - Trinidad and Tobago  2-2   @ San Salvador, El Salvador
-     Osael Romero 82' Osael Romero 90';
-     Carlos Edwards 7' Dwight Yorke 26' (pen.)
-  Iran - South Korea  1-1   @ Tehran, Iran
-     Javad Nekounam 58';
-     Park Ji-sung 81'
-  Republic of Ireland - Georgia  2-1   @ Dublin, Republic of Ireland
-     Robbie Keane 73' (pen.) Robbie Keane 78';
-     Aleksandr Iashvili 1'
-  Japan - Australia  0-0   @ Yokohama, Japan
-  North Korea - Saudi Arabia  1-0   @ Pyongyang, North Korea
-     Mun In-Guk 28'
-  Malta - Albania  0-0   @ Attard, Malta
-  San Marino - Northern Ireland  0-3   @ Serravalle, San Marino
-     -; Gareth McAuley 7' Grant McCann 33' Chris Brunt 63'
-  United States - Mexico  2-0   @ Columbus, United States
-     Michael Bradley 43' Michael Bradley 90'
-  Uzbekistan - Bahrain  0-1   @ Tashkent, Uzbekistan
-     -; Mahmood Abdulrahman 90'
-[Sat Mar 28]
-  Albania - Hungary  0-1   @ Tirana, Albania
-     -; Sándor Torghelle 38'
-  Argentina - Venezuela  4-0   @ Buenos Aires, Argentina
-     Lionel Messi 26' Carlos Tevez 47' Maxi Rodríguez 51' Sergio Agüero 73'
-  Armenia - Estonia  2-2   @ Yerevan, Armenia
-     Henrikh Mkhitaryan 33' Gevorg Ghazaryan 87';
-     Konstantin Vassiljev 38' Sergei Zenjov 67'
-  Belgium - Bosnia and Herzegovina  2-4   @ Genk, Belgium
-     Mousa Dembélé 66' Wesley Sonck 85' (pen.);
-     Edin Džeko 7' Sanel Jahić 75' Zlatan Bajramović 77' Zvjezdan Misimović 81'
-  Burkina Faso - Guinea  4-2   @ Ouagadougou, Burkina Faso
-     Mahamoudou Kéré 23' Alain Traoré 30' Moumouni Dagano 55' (pen.) Moumouni Dagano 71';
-     Pascal Feindouno 65' (pen.) Kamil Zayatte 86'
-  Colombia - Bolivia  2-0   @ Bogotá, Colombia
-     Macnelly Torres 26' Wason Rentería 88'
-  Cyprus - Georgia  2-1   @ Larnaca, Cyprus
-     Michalis Konstantinou 33' Demetris Christofi 56';
-     Levan Kobiashvili 71' (pen.)
-  El Salvador - United States  2-2   @ San Salvador, El Salvador
-     Eliseo Quintanilla 15' Cristian Castillo 72';
-     Jozy Altidore 77' Frankie Hejduk 88'
-  Germany - Liechtenstein  4-0   @ Leipzig, Germany
-     Michael Ballack 4' Marcell Jansen 9' Bastian Schweinsteiger 48' Lukas Podolski 50'
-  Iran - Saudi Arabia  1-2   @ Tehran, Iran
-     Masoud Shojaei 57';
-     Naif Hazazi 79' Osama Al-Muwallad 87'
-  Republic of Ireland - Bulgaria  1-1   @ Dublin, Republic of Ireland
-     Richard Dunne 1';
-     Kevin Kilbane 74' (o.g.)
-  Israel - Greece  1-1   @ Ramat Gan, Israel
-     Omer Golan 55';
-     Theofanis Gekas 42'
-  Japan - Bahrain  1-0   @ Saitama, Japan
-     Shunsuke Nakamura 47'
-  Kenya - Tunisia  1-2   @ Nairobi, Kenya
-     Dennis Oliech 70';
-     Ammar Jemal 6' Issam Jemâa 79'
-  North Korea - United Arab Emirates  2-0   @ Pyongyang, North Korea
-     Pak Nam-Chol 51' Mun In-Guk 90'
-  Lithuania - France  0-1   @ Kaunas, Lithuania
-     -; Franck Ribéry 67'
-  Luxembourg - Latvia  0-4   @ Luxembourg, Luxembourg
-     -; Ģirts Karlsons 25' Aleksandrs Cauņa 48' Aleksejs Višņakovs 71' Andrejs Perepļotkins 86'
-  Malta - Denmark  0-3   @ Attard, Malta
-     -; Søren Larsen 12' Søren Larsen 23' Morten Nordstrand 89'
-  Mexico - Costa Rica  2-0   @ Mexico City, Mexico
-     Omar Bravo 20' Pável Pardo 52' (pen.)
-  Moldova - Switzerland  0-2   @ Chișinău, Moldova
-     -; Alexander Frei 32' Gelson Fernandes 90'
-  Montenegro - Italy  0-2   @ Podgorica, Montenegro
-     -; Andrea Pirlo 11' (pen.) Giampaolo Pazzini 73'
-  Morocco - Gabon  1-2   @ Casablanca, Morocco
-     Mounir El Hamdaoui 83';
-     Pierre-Emerick Aubameyang 34' Roguy Méyé 45'
-  Netherlands - Scotland  3-0   @ Amsterdam, Netherlands
-     Klaas-Jan Huntelaar 30' Robin van Persie 45' Dirk Kuyt 77' (pen.)
-  Northern Ireland - Poland  3-2   @ Belfast, Northern Ireland
-     Warren Feeney 10' Jonny Evans 47' Michał Żewłakow 61' (o.g.);
-     Ireneusz Jeleń 27' Marek Saganowski 90'
-  Portugal - Sweden  0-0   @ Porto, Portugal
-  Romania - Serbia  2-3   @ Constanţa, Romania
-     Ciprian Marica 50' Dorel Stoica 74';
-     Milan Jovanović 18' Dorel Stoica 44' (o.g.) Branislav Ivanović 59'
-  Russia - Azerbaijan  2-0   @ Moscow, Russia
-     Roman Pavlyuchenko 32' Konstantin Zyryanov 71'
-  Rwanda - Algeria  0-0   @ Kigali, Rwanda
-  Slovenia - Czech Republic  0-0   @ Maribor, Slovenia
-  Spain - Turkey  1-0   @ Madrid, Spain
-     Gerard Piqué 60'
-  Sudan - Mali  1-1   @ Omdurman, Sudan
-     Mudather El Tahir 23';
-     Frédéric Kanouté 19'
-  Togo - Cameroon  1-0   @ Accra, Ghana
-     Emmanuel Adebayor 11'
-  Trinidad and Tobago - Honduras  1-1   @ Port of Spain, Trinidad and Tobago
-     Khaleem Hyland 90';
-     Carlos Pavón 51'
-  Uruguay - Paraguay  2-0   @ Montevideo, Uruguay
-     Diego Forlán 28' Diego Lugano 57'
-  Uzbekistan - Qatar  4-0   @ Tashkent, Uzbekistan
-     Farhod Tadjiyev 34' Farhod Tadjiyev 45' Farhod Tadjiyev 53' Anvarjon Soliev 62'
-  Wales - Finland  0-2   @ Cardiff, Wales
-     -; Jonatan Johansson 42' Shefki Kuqi 90'
-[Sun Mar 29]
-  Mozambique - Nigeria  0-0   @ Maputo, Mozambique
-  Ivory Coast - Malawi  5-0   @ Abidjan, Ivory Coast
-     Romaric 1' Didier Drogba 6' (pen.) Didier Drogba 27' Salomon Kalou 59' Bakari Koné 70'
-  Ecuador - Brazil  1-1   @ Quito, Ecuador
-     Christian Noboa 89';
-     Júlio Baptista 72'
-  Peru - Chile  1-3   @ Lima, Peru
-     Johan Fano 34';
-     Alexis Sánchez 2' Humberto Suazo 32' (pen.) Matías Fernández 70'
-  Egypt - Zambia  1-1   @ Cairo, Egypt
-     Amr Zaki 27';
-     Francis Kasonde 56'
-  Ghana - Benin  1-0   @ Kumasi, Ghana
-     Prince Tagoe 1'
-[Tue Mar 31]
-  Venezuela - Colombia  2-0   @ Puerto Ordaz, Venezuela
-     Miku 78' Juan Arango 82'
-[Wed Apr 1]
-  Andorra - Croatia  0-2   @ Sant Julià de Lòria, Andorra
-     -; Ivan Klasnić 15' Eduardo da Silva 35'
-  Australia - Uzbekistan  2-0   @ Sydney, Australia
-     Joshua Kennedy 66' Harry Kewell 73' (pen.)
-  Austria - Romania  2-1   @ Klagenfurt, Austria
-     Erwin Hoffer 26' Erwin Hoffer 44';
-     Cristian Tănase 24'
-  Bahrain - Qatar  1-0   @ Riffa, Bahrain
-     Faouzi Mubarak Aaish 52'
-  Bosnia and Herzegovina - Belgium  2-1   @ Zenica, Bosnia and Herzegovina
-     Edin Džeko 12' Edin Džeko 14';
-     Gill Swerts 88'
-  Bulgaria - Cyprus  2-0   @ Sofia, Bulgaria
-     Ivelin Popov 8' Dimitar Makriev 90'
-  Costa Rica - El Salvador  1-0   @ San José, Costa Rica
-     Walter Centeno 69'
-  Czech Republic - Slovakia  1-2   @ Prague, Czech Republic
-     Marek Jankulovski 30';
-     Stanislav Šesták 22' Erik Jendrišek 82'
-  Denmark - Albania  3-0   @ Copenhagen, Denmark
-     Leon Andreasen 31' Søren Larsen 37' Christian Poulsen 80'
-  England - Ukraine  2-1   @ London, England
-     Peter Crouch 29' John Terry 85';
-     Andriy Shevchenko 74'
-  Estonia - Armenia  1-0   @ Tallinn, Estonia
-     Sander Puri 83'
-  France - Lithuania  1-0   @ Saint-Denis, France
-     Franck Ribéry 75'
-  Georgia - Montenegro  0-0   @ Tbilisi, Georgia
-  Greece - Israel  2-1   @ Heraklion, Greece
-     Dimitris Salpingidis 32' Georgios Samaras 67' (pen.);
-     Elyaniv Barda 60'
-  Honduras - Mexico  3-1   @ San Pedro Sula, Honduras
-     Carlo Costly 17' Carlos Pavón 43' Carlo Costly 79';
-     Nery Castillo 82' (pen.)
-  Hungary - Malta  3-0   @ Budapest, Hungary
-     Tamás Hajnal 7' Zoltán Gera 81' Roland Juhász 90'
-  Italy - Republic of Ireland  1-1   @ Bari, Italy
-     Vincenzo Iaquinta 10';
-     Robbie Keane 87'
-  Kazakhstan - Belarus  1-5   @ Almaty, Kazakhstan
-     Rinat Abdulin 10';
-     Alexander Hleb 48' Timofei Kalachev 54' Ihar Stasevich 57' Timofei Kalachev 64' Vitali Rodionov 88'
-  South Korea - North Korea  1-0   @ Seoul, South Korea
-     Kim Chi-Woo 86'
-  Latvia - Luxembourg  2-0   @ Riga, Latvia
-     Jurijs Žigajevs 44' Māris Verpakovskis 76'
-  Liechtenstein - Russia  0-1   @ Vaduz, Liechtenstein
-     -; Konstantin Zyryanov 38'
-  Netherlands - North Macedonia  4-0   @ Amsterdam, Netherlands
-     Dirk Kuyt 16' Klaas-Jan Huntelaar 25' Dirk Kuyt 41' Rafael van der Vaart 88'
-  Northern Ireland - Slovenia  1-0   @ Belfast, Northern Ireland
-     Warren Feeney 73'
-  Poland - San Marino  10-0   @ Kielce, Poland
-     Rafał Boguski 1' Ebi Smolarek 18' Rafał Boguski 27' Robert Lewandowski 43' Ireneusz Jeleń 51' Ebi Smolarek 60' Mariusz Lewandowski 63' Ebi Smolarek 72' Ebi Smolarek 81' Marek Saganowski 88'
-  Saudi Arabia - United Arab Emirates  3-2   @ Riyadh, Saudi Arabia
-     Abdoh Otaif 4' (pen.) Fares Juma 70' (o.g.) Naif Hazazi 85';
-     Mohamed Al-Shehhi 38' Ismail Matar 45'
-  Scotland - Iceland  2-1   @ Glasgow, Scotland
-     Ross McCormack 39' Steven Fletcher 65';
-     Indriði Sigurðsson 54'
-  Switzerland - Moldova  2-0   @ Geneva, Switzerland
-     Blaise Nkufo 20' Alexander Frei 52'
-  Turkey - Spain  1-2   @ Istanbul, Turkey
-     Semih Şentürk 26';
-     Xabi Alonso 63' (pen.) Albert Riera 90'
-  United States - Trinidad and Tobago  3-0   @ Nashville, United States
-     Jozy Altidore 13' Jozy Altidore 71' Jozy Altidore 89'
-  Wales - Germany  0-2   @ Cardiff, Wales
-     -; Michael Ballack 11' Ashley Williams 48' (o.g.)
-  Bolivia - Argentina  6-1   @ La Paz, Bolivia
-     Marcelo Martins Moreno 12' Joaquín Botero 34' (pen.) Álex da Rosa 45' Joaquín Botero 55' Joaquín Botero 66' Didi Torrico 87';
-     Lucho González 25'
-  Ecuador - Paraguay  1-1   @ Quito, Ecuador
-     Christian Noboa 63';
-     Édgar Benítez 90'
-  Chile - Uruguay  0-0   @ Santiago, Chile
-  Brazil - Peru  3-0   @ Porto Alegre, Brazil
-     Luís Fabiano 18' (pen.) Luís Fabiano 27' Felipe Melo 64'
-[Wed Jun 3]
-  Costa Rica - United States  3-1   @ San José, Costa Rica
-     Álvaro Saborío 2' Celso Borges 13' Pablo Herrera Barrantes 69';
-     Landon Donovan 90' (pen.)
-[Sat Jun 6]
-  Albania - Portugal  1-2   @ Tirana, Albania
-     Erjon Bogdani 29';
-     Hugo Almeida 27' Bruno Alves 90'
-  Argentina - Colombia  1-0   @ Buenos Aires, Argentina
-     Daniel Díaz 56'
-  Azerbaijan - Wales  0-1   @ Baku, Azerbaijan
-     -; David Edwards 42'
-  Belarus - Andorra  5-1   @ Hrodna, Belarus
-     Gennadi Bliznyuk 2' Timofei Kalachev 44' Sergei Kornilenko 50' Sergei Kornilenko 65' Gennadi Bliznyuk 76';
-     Ildefons Lima 90' (pen.)
-  Bolivia - Venezuela  0-1   @ La Paz, Bolivia
-     -; Ronald Rivero 33' (o.g.)
-  Bulgaria - Republic of Ireland  1-1   @ Sofia, Bulgaria
-     Dimitar Telkiyski 29';
-     Richard Dunne 24'
-  Croatia - Ukraine  2-2   @ Zagreb, Croatia
-     Mladen Petrić 2' Luka Modrić 68';
-     Andriy Shevchenko 13' Oleksiy Gai 54'
-  Cyprus - Montenegro  2-2   @ Larnaca, Cyprus
-     Michalis Konstantinou 13' Chrysis Michael 45' (pen.);
-     Dejan Damjanović 65' Dejan Damjanović 77'
-  El Salvador - Mexico  2-1   @ San Salvador, El Salvador
-     Julio Enrique Martínez 11' Eliseo Quintanilla 86' (pen.);
-     Cuauhtémoc Blanco 71' (pen.)
-  Finland - Liechtenstein  2-1   @ Helsinki, Finland
-     Mikael Forssell 33' Jonatan Johansson 71';
-     Mario Frick 13'
-  Gabon - Togo  3-0   @ Libreville, Gabon
-     Bruno Ecuele Manga 11' Roguy Méyé 67' Moise Brou 81'
-  Iceland - Netherlands  1-2   @ Reykjavík, Iceland
-     Kristján Örn Sigurðsson 87';
-     Nigel de Jong 8' Mark van Bommel 15'
-  Kazakhstan - England  0-4   @ Almaty, Kazakhstan
-     -; Gareth Barry 40' Emile Heskey 45' Wayne Rooney 72' Frank Lampard 77' (pen.)
-  North Korea - Iran  0-0   @ Pyongyang, North Korea
-  Lithuania - Romania  0-1   @ Marijampolė, Lithuania
-     -; Ciprian Marica 38'
-  North Macedonia - Norway  0-0   @ Skopje, North Macedonia
-  Malawi - Burkina Faso  0-1   @ Blantyre, Malawi
-     -; Moumouni Dagano 68'
-  Paraguay - Chile  0-2   @ Asunción, Paraguay
-     -; Matías Fernández 13' Humberto Suazo 50'
-  Qatar - Australia  0-0   @ Doha, Qatar
-  Serbia - Austria  1-0   @ Belgrade, Serbia
-     Nenad Milijaš 7' (pen.)
-  Slovakia - San Marino  7-0   @ Bratislava, Slovakia
-     Marek Čech 3' Peter Pekarík 12' Marek Čech 32' Miroslav Stoch 35' Ján Kozák 42' Martin Jakubko 63' Ľuboš Hanzel 68'
-  Sweden - Denmark  0-1   @ Solna, Sweden
-     -; Thomas Kahlenberg 22'
-  Trinidad and Tobago - Costa Rica  2-3   @ Scarborough, Trinidad and Tobago
-     Carlos Edwards 29' Collin Samuel 63';
-     Álvaro Saborío 40' Celso Borges 52' Celso Borges 68'
-  Tunisia - Mozambique  2-0   @ Radès, Tunisia
-     Wissem Ben Yahia 21' (pen.) Oussama Darragi 90'
-  United Arab Emirates - South Korea  0-2   @ Dubai, United Arab Emirates
-     -; Park Chu-young 9' Ki Sung-yueng 37'
-  Uruguay - Brazil  0-4   @ Montevideo, Uruguay
-     -; Dani Alves 12' Juan 36' Luís Fabiano 52' Kaká 75' (pen.)
-  United States - Honduras  2-1   @ Chicago, United States
-     Landon Donovan 43' (pen.) Carlos Bocanegra 68';
-     Carlo Costly 5'
-  Uzbekistan - Japan  0-1   @ Tashkent, Uzbekistan
-     -; Shinji Okazaki 9'
-  Zambia - Rwanda  1-0   @ Chililabombwe, Zambia
-     Rainford Kalaba 78'
-[Sun Jun 7]
-  Cameroon - Morocco  0-0   @ Yaoundé, Cameroon
-  Guinea - Ivory Coast  1-2   @ Conakry, Guinea
-     Sambégou Bangoura 65';
-     Bakari Koné 44' Romaric 72'
-  Peru - Ecuador  1-2   @ Lima, Peru
-     Juan Manuel Vargas 52';
-     Jefferson Montero 38' Carlos Tenorio 59'
-  Algeria - Egypt  3-1   @ Blida, Algeria
-     Karim Matmour 60' Abdelkader Ghezzal 64' Rafik Djebbour 77';
-     Mohamed Aboutrika 86'
-  Benin - Sudan  1-0   @ Cotonou, Benin
-     Razak Omotoyossi 22'
-  Mali - Ghana  0-2   @ Bamako, Mali
-     -; Kwadwo Asamoah 67' Matthew Amoah 79'
-  Nigeria - Kenya  3-0   @ Abuja, Nigeria
-     Ikechukwu Uche 2' Victor Obinna 72' (pen.) Victor Obinna 77'
-[Wed Jun 10]
-  Australia - Bahrain  2-0   @ Sydney, Australia
-     Mile Sterjovski 55' David Carney 88'
-  Brazil - Paraguay  2-1   @ Recife, Brazil
-     Robinho 40' Nilmar 49';
-     Salvador Cabañas 25'
-  Chile - Bolivia  4-0   @ Santiago, Chile
-     Jean Beausejour 43' Marco Estrada 74' Alexis Sánchez 78' Alexis Sánchez 88'
-  Colombia - Peru  1-0   @ Medellín, Colombia
-     Radamel Falcao 25'
-  Ecuador - Argentina  2-0   @ Quito, Ecuador
-     Walter Ayoví 72' Pablo Palacios 83'
-  England - Andorra  6-0   @ London, England
-     Wayne Rooney 4' Frank Lampard 29' Wayne Rooney 39' Jermain Defoe 73' Jermain Defoe 76' Peter Crouch 81'
-  Faroe Islands - Serbia  0-2   @ Tórshavn, Faroe Islands
-     -; Milan Jovanović 44' Neven Subotić 69'
-  Finland - Russia  0-3   @ Helsinki, Finland
-     -; Aleksandr Kerzhakov 26' Aleksandr Kerzhakov 53' Konstantin Zyryanov 71'
-  Honduras - El Salvador  1-0   @ San Pedro Sula, Honduras
-     Carlos Pavón 13'
-  Iran - United Arab Emirates  1-0   @ Tehran, Iran
-     Ali Karimi 53'
-  Japan - Qatar  1-1   @ Yokohama, Japan
-     Ahmed Faris Al-Binali 3' (o.g.);
-     Ali Afif 53' (pen.)
-  South Korea - Saudi Arabia  0-0   @ Seoul, South Korea
-  North Macedonia - Iceland  2-0   @ Skopje, North Macedonia
-     Aco Stojkov 10' Filip Ivanovski 86'
-  Mexico - Trinidad and Tobago  2-1   @ Mexico City, Mexico
-     Guillermo Franco 2' Óscar Rojas 48';
-     Hayden Tinto 45'
-  Netherlands - Norway  2-0   @ Rotterdam, Netherlands
-     André Ooijer 32' Arjen Robben 50'
-  Sweden - Malta  4-0   @ Gothenburg, Sweden
-     Kim Källström 22' Daniel Majstorović 52' Zlatan Ibrahimović 56' Marcus Berg 58'
-  Ukraine - Kazakhstan  2-1   @ Kyiv, Ukraine
-     Serhiy Nazarenko 33' Serhiy Nazarenko 47';
-     Tanat Nusserbayev 19'
-  Venezuela - Uruguay  2-2   @ Puerto Ordaz, Venezuela
-     Giancarlo Maldonado 9' José Manuel Rey 74';
-     Luis Suárez 60' Diego Forlán 72'
-[Wed Jun 17]
-  Australia - Japan  2-1   @ Melbourne, Australia
-     Tim Cahill 59' Tim Cahill 77';
-     Marcus Tulio Tanaka 39'
-  Bahrain - Uzbekistan  1-0   @ Riffa, Bahrain
-     Mahmood Abdulrahman 73'
-  South Korea - Iran  1-1   @ Seoul, South Korea
-     Park Ji-sung 82';
-     Masoud Shojaei 52'
-  Saudi Arabia - North Korea  0-0   @ Riyadh, Saudi Arabia
-[Sat Jun 20]
-  Burkina Faso - Ivory Coast  2-3   @ Ouagadougou, Burkina Faso
-     Jonathan Pitroipa 27' Aristide Bancé 78';
-     Yaya Touré 14' Mamadou Tall 54' (o.g.) Didier Drogba 70'
-  Kenya - Mozambique  2-1   @ Nairobi, Kenya
-     Julius Owino 8' McDonald Mariga 72' (pen.);
-     Domingues 49'
-  Morocco - Togo  0-0   @ Rabat, Morocco
-  Sudan - Ghana  0-2   @ Omdurman, Sudan
-     -; Matthew Amoah 6' Matthew Amoah 52'
-  Tunisia - Nigeria  0-0   @ Radès, Tunisia
-  Zambia - Algeria  0-2   @ Chililabombwe, Zambia
-     -; Madjid Bougherra 21' Rafik Saïfi 66'
-[Sun Jun 21]
-  Guinea - Malawi  2-1   @ Conakry, Guinea
-     Pascal Feindouno 25' Pascal Feindouno 43';
-     Chiukepo Msowoya 88'
-  Mali - Benin  3-1   @ Bamako, Mali
-     Modibo Maïga 29' Mamadou Diallo 76' Frédéric Kanouté 84';
-     Séïdath Tchomogo 15'
-[Sun Jul 5]
-  Egypt - Rwanda  3-0   @ Cairo, Egypt
-     Mohamed Aboutrika 64' Hosny Abd Rabo 74' (pen.) Mohamed Aboutrika 90'
-[Wed Aug 12]
-  Azerbaijan - Germany  0-2   @ Baku, Azerbaijan
-     -; Bastian Schweinsteiger 11' Miroslav Klose 53'
-  Belarus - Croatia  1-3   @ Minsk, Belarus
-     Dmitry Verkhovtsov 81';
-     Ivica Olić 22' Eduardo da Silva 69' Ivica Olić 85'
-  Faroe Islands - France  0-1   @ Tórshavn, Faroe Islands
-     -; André-Pierre Gignac 41'
-  Honduras - Costa Rica  4-0   @ San Pedro Sula, Honduras
-     Carlo Costly 30' Carlos Pavón 51' Melvin Valladares 89' Carlo Costly 90'
-  Mexico - United States  2-1   @ Mexico City, Mexico
-     Israel Castro 19' Miguel Sabah 82';
-     Charlie Davies 9'
-  Norway - Scotland  4-0   @ Oslo, Norway
-     John Arne Riise 35' Morten Gamst Pedersen 45' Erik Huseklepp 60' Morten Gamst Pedersen 90'
-  Slovenia - San Marino  5-0   @ Maribor, Slovenia
-     Robert Koren 19' Aleksandar Radosavljević 39' Andraž Kirm 54' Robert Koren 74' Zlatan Ljubijankić 90'
-  Trinidad and Tobago - El Salvador  1-0   @ Port of Spain, Trinidad and Tobago
-     Cornell Glen 7'
-[Sat Sep 5]
-  Argentina - Brazil  1-3   @ Rosario, Argentina
-     Jesús Dátolo 65';
-     Luisão 23' Luís Fabiano 30' Luís Fabiano 68'
-  Armenia - Bosnia and Herzegovina  0-2   @ Yerevan, Armenia
-     -; Senijad Ibričić 6' Zlatan Muslimović 74'
-  Austria - Faroe Islands  3-1   @ Graz, Austria
-     Stefan Maierhofer 1' Marc Janko 15' Marc Janko 58' (pen.);
-     Andreas Lava Olsen 82'
-  Azerbaijan - Finland  1-2   @ Lənkəran, Azerbaijan
-     Elvin Mammadov 49';
-     Hannu Tihinen 74' Jonatan Johansson 85'
-  Bahrain - Saudi Arabia  0-0   @ Riffa, Bahrain
-  Bulgaria - Montenegro  4-1   @ Sofia, Bulgaria
-     Radostin Kishishev 45' Dimitar Telkiyski 49' Dimitar Berbatov 83' (pen.) Valeri Domovchiyski 90';
-     Stevan Jovetić 9'
-  Chile - Venezuela  2-2   @ Santiago, Chile
-     Arturo Vidal 11' Rodrigo Millar 53';
-     Giancarlo Maldonado 34' José Manuel Rey 45'
-  Colombia - Ecuador  2-0   @ Medellín, Colombia
-     Jackson Martínez 82' Teófilo Gutiérrez 90'
-  Costa Rica - Mexico  0-3   @ San José, Costa Rica
-     -; Giovani dos Santos 45' Guillermo Franco 62' Andrés Guardado 71'
-  Croatia - Belarus  1-0   @ Zagreb, Croatia
-     Ivan Rakitić 24'
-  Cyprus - Republic of Ireland  1-2   @ Nicosia, Cyprus
-     Marios Elia 30';
-     Kevin Doyle 5' Robbie Keane 83'
-  Denmark - Portugal  1-1   @ Copenhagen, Denmark
-     Nicklas Bendtner 43';
-     Liédson 86'
-  France - Romania  1-1   @ Saint-Denis, France
-     Thierry Henry 48';
-     Julien Escudé 55' (o.g.)
-  Gabon - Cameroon  0-2   @ Libreville, Gabon
-     -; Achille Emaná 65' Samuel Eto'o 67'
-  Georgia - Italy  0-2   @ Tbilisi, Georgia
-     -; Kakha Kaladze 56' (o.g.) Kakha Kaladze 66' (o.g.)
-  Honduras - Trinidad and Tobago  4-1   @ San Pedro Sula, Honduras
-     Carlos Pavón 20' Carlos Pavón 28' Amado Guevara 62' David Suazo 83';
-     Kerry Baptiste 86'
-  Hungary - Sweden  1-2   @ Budapest, Hungary
-     Szabolcs Huszti 79' (pen.);
-     Olof Mellberg 9' Zlatan Ibrahimović 90'
-  Iceland - Norway  1-1   @ Reykjavík, Iceland
-     Eiður Guðjohnsen 29';
-     John Arne Riise 11'
-  Israel - Latvia  0-1   @ Ramat Gan, Israel
-     -; Kaspars Gorkšs 59'
-  Ivory Coast - Burkina Faso  5-0   @ Abidjan, Ivory Coast
-     Saïdou Panandétiguiri 12' (o.g.) Didier Drogba 48' Yaya Touré 55' Didier Drogba 65' Abdul Kader Keïta 68'
-  Malawi - Guinea  2-1   @ Blantyre, Malawi
-     Chiukepo Msowoya 46' Chiukepo Msowoya 59';
-     Oumar Kalabane 38'
-  Moldova - Luxembourg  0-0   @ Chișinău, Moldova
-  Paraguay - Bolivia  1-0   @ Asunción, Paraguay
-     Salvador Cabañas 45' (pen.)
-  Peru - Uruguay  1-0   @ Lima, Peru
-     Hernán Rengifo 86'
-  Poland - Northern Ireland  1-1   @ Chorzów, Poland
-     Mariusz Lewandowski 80';
-     Kyle Lafferty 38'
-  Russia - Liechtenstein  3-0   @ Saint Petersburg, Russia
-     Vasili Berezutski 17' Roman Pavlyuchenko 40' (pen.) Roman Pavlyuchenko 45' (pen.)
-  Rwanda - Egypt  0-1   @ Kigali, Rwanda
-     -; Ahmed Hassan 67'
-  Scotland - North Macedonia  2-0   @ Glasgow, Scotland
-     Scott Brown 56' James McFadden 80'
-  Slovakia - Czech Republic  2-2   @ Bratislava, Slovakia
-     Stanislav Šesták 59' Marek Hamšík 73' (pen.);
-     Daniel Pudil 68' Milan Baroš 83'
-  Spain - Belgium  5-0   @ La Coruña, Spain
-     David Silva 41' David Villa 49' Gerard Piqué 50' David Silva 67' David Villa 85'
-  Switzerland - Greece  2-0   @ Basel, Switzerland
-     Stéphane Grichting 84' Marco Padalino 87'
-  Turkey - Estonia  4-2   @ Kayseri, Turkey
-     Tuncay 29' Sercan Yıldırım 37' Arda Turan 62' Tuncay 72';
-     Vladimir Voskoboinikov 7' Konstantin Vassiljev 52'
-  Ukraine - Andorra  5-0   @ Kyiv, Ukraine
-     Andriy Yarmolenko 18' Artem Milevskyi 45' Andriy Shevchenko 72' (pen.) Artem Milevskyi 90' (pen.) Yevhen Seleznyov 90' (pen.)
-  United States - El Salvador  2-1   @ Sandy City, United States
-     Clint Dempsey 41' Jozy Altidore 45';
-     Cristian Castillo 32'
-[Sun Sep 6]
-  Algeria - Zambia  1-0   @ Blida, Algeria
-     Rafik Saïfi 59'
-  Benin - Mali  1-1   @ Cotonou, Benin
-     Mohamed Aoudou 87';
-     Mamadou Samassa 72'
-  Ghana - Sudan  2-0   @ Accra, Ghana
-     Sulley Muntari 14' Michael Essien 53'
-  Mozambique - Kenya  1-0   @ Maputo, Mozambique
-     Tico-Tico 66'
-  Nigeria - Tunisia  2-2   @ Abuja, Nigeria
-     Peter Odemwingie 23' Michael Eneramo 80';
-     Nabil Taïder 24' Oussama Darragi 89'
-  Togo - Morocco  1-1   @ Lomé, Togo
-     Moustapha Salifou 3';
-     Adel Taarabt 90'
-[Wed Sep 9]
-  Albania - Denmark  1-1   @ Tirana, Albania
-     Erjon Bogdani 51';
-     Nicklas Bendtner 40'
-  Andorra - Kazakhstan  1-3   @ Sant Julià de Lòria, Andorra
-     Óscar Sonejee 70';
-     Sergei Khizhnichenko 14' Ruslan Baltiyev 29' Sergei Khizhnichenko 35'
-  Armenia - Belgium  2-1   @ Yerevan, Armenia
-     Hovhannes Goharyan 23' Sargis Hovsepyan 50';
-     Daniel Van Buyten 90'
-  Belarus - Ukraine  0-0   @ Minsk, Belarus
-  Bolivia - Ecuador  1-3   @ La Paz, Bolivia
-     Gerardo Yecerotte 85';
-     Édison Méndez 4' Antonio Valencia 46' Christian Benítez 66'
-  Bosnia and Herzegovina - Turkey  1-1   @ Zenica, Bosnia and Herzegovina
-     Sejad Salihović 25';
-     Emre Belözoğlu 4'
-  Cameroon - Gabon  2-1   @ Yaoundé, Cameroon
-     Jean Makoun 25' Samuel Eto'o 64';
-     Daniel Cousin 90'
-  Czech Republic - San Marino  7-0   @ Uherské Hradiště, Czech Republic
-     Milan Baroš 28' Milan Baroš 44' Milan Baroš 45' (pen.) Václav Svěrkoš 47' Milan Baroš 66' Tomáš Necid 86' Václav Svěrkoš 90'
-  El Salvador - Costa Rica  1-0   @ San Salvador, El Salvador
-     Rudis Corrales 90'
-  England - Croatia  5-1   @ London, England
-     Frank Lampard 7' (pen.) Steven Gerrard 18' Frank Lampard 59' Steven Gerrard 67' Wayne Rooney 77';
-     Eduardo da Silva 71'
-  Faroe Islands - Lithuania  2-1   @ Toftir, Faroe Islands
-     Súni Olsen 13' Arnbjørn Hansen 34';
-     Tomas Danilevičius 22' (pen.)
-  Germany - Azerbaijan  4-0   @ Hanover, Germany
-     Michael Ballack 14' (pen.) Miroslav Klose 55' Miroslav Klose 65' Lukas Podolski 71'
-  Hungary - Portugal  0-1   @ Budapest, Hungary
-     -; Pepe 10'
-  Israel - Luxembourg  7-0   @ Ramat Gan, Israel
-     Elyaniv Barda 9' Aviram Baruchyan 15' Elyaniv Barda 21' Elyaniv Barda 43' Omer Golan 58' Ben Sahar 62' Ben Sahar 84'
-  Italy - Bulgaria  2-0   @ Turin, Italy
-     Fabio Grosso 11' Vincenzo Iaquinta 40'
-  Latvia - Switzerland  2-2   @ Riga, Latvia
-     Aleksandrs Cauņa 62' Vitālijs Astafjevs 75';
-     Alexander Frei 43' Eren Derdiyok 80'
-  Liechtenstein - Finland  1-1   @ Vaduz, Liechtenstein
-     Michele Polverino 75';
-     Jari Litmanen 74' (pen.)
-  Malta - Sweden  0-1   @ Attard, Malta
-     -; Ian Azzopardi 82' (o.g.)
-  Mexico - Honduras  1-0   @ Mexico City, Mexico
-     Cuauhtémoc Blanco 76' (pen.)
-  Moldova - Greece  1-1   @ Chișinău, Moldova
-     Valeriu Andronic 90';
-     Theofanis Gekas 33'
-  Montenegro - Cyprus  1-1   @ Podgorica, Montenegro
-     Mirko Vučinić 56' (pen.);
-     Ioannis Okkas 63'
-  Northern Ireland - Slovakia  0-2   @ Belfast, Northern Ireland
-     -; Stanislav Šesták 15' Filip Hološko 67'
-  Norway - North Macedonia  2-1   @ Oslo, Norway
-     Thorstein Helstad 2' John Arne Riise 25';
-     Boban Grnčarov 79'
-  Romania - Austria  1-1   @ Bucharest, Romania
-     Gheorghe Bucur 54';
-     Franz Schiemer 83'
-  Saudi Arabia - Bahrain  2-2   @ Riyadh, Saudi Arabia
-     Nasser Al-Shamrani 13' Hamad Al-Montashari 90';
-     Jaycee John Okwunwanne 42' Ismail Abdullatif 90'
-  Scotland - Netherlands  0-1   @ Glasgow, Scotland
-     -; Eljero Elia 82'
-  Serbia - France  1-1   @ Belgrade, Serbia
-     Nenad Milijaš 12' (pen.);
-     Thierry Henry 36'
-  Slovenia - Poland  3-0   @ Maribor, Slovenia
-     Zlatko Dedić 13' Milivoje Novaković 44' Valter Birsa 62'
-  Spain - Estonia  3-0   @ Mérida, Spain
-     Cesc Fàbregas 33' Santi Cazorla 82' Juan Mata 90'
-  Trinidad and Tobago - United States  0-1   @ Port of Spain, Trinidad and Tobago
-     -; Ricardo Clark 62'
-  Wales - Russia  1-3   @ Cardiff, Wales
-     James Collins 53';
-     Igor Semshov 36' Sergei Ignashevich 71' Roman Pavlyuchenko 90'
-  Uruguay - Colombia  3-1   @ Montevideo, Uruguay
-     Luis Suárez 7' Andrés Scotti 77' Sebastián Eguren 87';
-     Jackson Martínez 63'
-  Paraguay - Argentina  1-0   @ Asunción, Paraguay
-     Nelson Valdez 27'
-  Brazil - Chile  4-2   @ Salvador, Brazil
-     Nilmar 31' Júlio Baptista 40' Nilmar 74' Nilmar 76';
-     Humberto Suazo 45' (pen.) Humberto Suazo 52'
-  Venezuela - Peru  3-1   @ Puerto la Cruz, Venezuela
-     Miku 33' Miku 52' Ronald Vargas 65';
-     Juan Fuenmayor 41' (o.g.)
-[Sat Oct 10]
-  Argentina - Peru  2-1   @ Buenos Aires, Argentina
-     Gonzalo Higuaín 48' Martín Palermo 90';
-     Hernán Rengifo 89'
-  Armenia - Spain  1-2   @ Yerevan, Armenia
-     Robert Arzumanyan 58';
-     Cesc Fàbregas 33' Juan Mata 64' (pen.)
-  Austria - Lithuania  2-1   @ Innsbruck, Austria
-     Marc Janko 16' Roman Wallner 80' (pen.);
-     Marius Stankevičius 66'
-  Bahrain - New Zealand  0-0   @ Riffa, Bahrain
-  Belarus - Kazakhstan  4-0   @ Brest, Belarus
-     Maksim Bordachyov 23' Timofei Kalachev 69' Leonid Kovel 86' Timofei Kalachev 90'
-  Belgium - Turkey  2-0   @ Brussels, Belgium
-     Émile Mpenza 8' Émile Mpenza 84'
-  Cameroon - Togo  3-0   @ Yaoundé, Cameroon
-     Geremi Njitap 29' Jean Makoun 46' Achille Emaná 54'
-  Colombia - Chile  2-4   @ Medellín, Colombia
-     Jackson Martínez 14' Giovanni Moreno 63';
-     Waldo Ponce 34' Humberto Suazo 35' Jorge Valdivia 71' Fabián Orellana 78'
-  Costa Rica - Trinidad and Tobago  4-0   @ San José, Costa Rica
-     Julius James 26' (o.g.) Walter Centeno 51' Álvaro Saborío 61' Álvaro Saborío 64'
-  Cyprus - Bulgaria  4-1   @ Larnaca, Cyprus
-     Constantinos Charalambides 11' Constantinos Charalambides 20' Michalis Konstantinou 58' Efstathios Aloneftis 78';
-     Dimitar Berbatov 44'
-  Czech Republic - Poland  2-0   @ Prague, Czech Republic
-     Tomáš Necid 51' Jaroslav Plašil 72'
-  Denmark - Sweden  1-0   @ Copenhagen, Denmark
-     Jakob Poulsen 78'
-  Ecuador - Uruguay  1-2   @ Quito, Ecuador
-     Antonio Valencia 68';
-     Luis Suárez 69' Diego Forlán 90' (pen.)
-  Estonia - Bosnia and Herzegovina  0-2   @ Tallinn, Estonia
-     -; Edin Džeko 30' Vedad Ibišević 64'
-  Finland - Wales  2-1   @ Helsinki, Finland
-     Roni Porokara 5' Niklas Moisander 77';
-     Craig Bellamy 17'
-  France - Faroe Islands  5-0   @ Guingamp, France
-     André-Pierre Gignac 34' André-Pierre Gignac 38' William Gallas 52' Nicolas Anelka 86' Karim Benzema 88'
-  Gabon - Morocco  3-1   @ Libreville, Gabon
-     Hicham Mahdoufi 43' (o.g.) Éric Mouloungui 65' Daniel Cousin 70';
-     Adel Taarabt 88'
-  Greece - Latvia  5-2   @ Athens, Greece
-     Theofanis Gekas 4' Theofanis Gekas 47' (pen.) Theofanis Gekas 57' Georgios Samaras 73' Theofanis Gekas 90';
-     Māris Verpakovskis 12' Māris Verpakovskis 40'
-  Honduras - United States  2-3   @ San Pedro Sula, Honduras
-     Julio César de León 47' Julio César de León 78';
-     Conor Casey 55' Conor Casey 66' Landon Donovan 71'
-  Republic of Ireland - Italy  2-2   @ Dublin, Republic of Ireland
-     Glenn Whelan 8' Sean St Ledger 87';
-     Mauro Camoranesi 26' Alberto Gilardino 90'
-  Israel - Moldova  3-1   @ Ramat Gan, Israel
-     Elyaniv Barda 22' David Ben Dayan 65' Elyaniv Barda 70';
-     Denis Calincov 90'
-  Liechtenstein - Azerbaijan  0-2   @ Vaduz, Liechtenstein
-     -; Vagif Javadov 55' Elvin Mammadov 82'
-  Luxembourg - Switzerland  0-3   @ Luxembourg, Luxembourg
-     -; Philippe Senderos 6' Philippe Senderos 8' Benjamin Huggel 22'
-  Malawi - Ivory Coast  1-1   @ Blantyre, Malawi
-     Jacob Ngwira 64';
-     Didier Drogba 67'
-  Mexico - El Salvador  4-1   @ Mexico City, Mexico
-     Marvin González 25' (o.g.) Cuauhtémoc Blanco 71' Francisco Palencia 85' Carlos Vela 90';
-     Julio Enrique Martínez 89'
-  Montenegro - Georgia  2-1   @ Podgorica, Montenegro
-     Radoslav Batak 13' Andrija Delibašić 78';
-     Vladimir Dvalishvili 45'
-  Portugal - Hungary  3-0   @ Lisbon, Portugal
-     Simão Sabrosa 18' Liédson 74' Simão Sabrosa 79'
-  Russia - Germany  0-1   @ Moscow, Russia
-     -; Miroslav Klose 35'
-  Serbia - Romania  5-0   @ Belgrade, Serbia
-     Nikola Žigić 37' Marko Pantelić 50' Zdravko Kuzmanović 78' Milan Jovanović 87' Milan Jovanović 90'
-  Slovakia - Slovenia  0-2   @ Bratislava, Slovakia
-     -; Valter Birsa 56' Nejc Pečnik 90'
-  Ukraine - England  1-0   @ Dnipropetrovs'k, Ukraine
-     Serhiy Nazarenko 29'
-  Venezuela - Paraguay  1-2   @ Puerto Ordaz, Venezuela
-     Alexander Rondón 85';
-     Salvador Cabañas 56' Óscar Cardozo 80'
-  Zambia - Egypt  0-1   @ Chililabombwe, Zambia
-     -; Hosny Abd Rabo 69'
-[Sun Oct 11]
-  Algeria - Rwanda  3-1   @ Blida, Algeria
-     Abdelkader Ghezzal 22' Nadir Belhadj 45' Karim Ziani 90' (pen.);
-     Patrick Mutesa Mafisango 19'
-  Benin - Ghana  1-0   @ Cotonou, Benin
-     Mohamed Aoudou 89'
-  Guinea - Burkina Faso  1-2   @ Accra, Ghana
-     Mamadou Bah 82';
-     Moumouni Dagano 37' (pen.) Habib Bamogo 59'
-  Mali - Sudan  1-0   @ Bamako, Mali
-     Frédéric Kanouté 89'
-  Nigeria - Mozambique  1-0   @ Abuja, Nigeria
-     Victor Obinna 90'
-  Bolivia - Brazil  2-1   @ La Paz, Bolivia
-     Edgar Olivares 10' Marcelo Martins Moreno 32';
-     Nilmar 70'
-  Tunisia - Kenya  1-0   @ Tunis, Tunisia
-     Issam Jemâa 1'
-[Wed Oct 14]
-  Andorra - Ukraine  0-6   @ Sant Julià de Lòria, Andorra
-     -; Andriy Shevchenko 22' Oleh Husyev 61' Ildefons Lima 69' (o.g.) Yaroslav Rakytskiy 80' Yevhen Seleznyov 81' Andriy Yarmolenko 83'
-  Azerbaijan - Russia  1-1   @ Baku, Azerbaijan
-     Vagif Javadov 54';
-     Andrey Arshavin 13'
-  Bosnia and Herzegovina - Spain  2-5   @ Zenica, Bosnia and Herzegovina
-     Edin Džeko 90' Zvjezdan Misimović 90';
-     Gerard Piqué 13' David Silva 14' Álvaro Negredo 50' Álvaro Negredo 55' Juan Mata 81'
-  Brazil - Venezuela  0-0   @ Campo Grande, Brazil
-  Bulgaria - Georgia  6-2   @ Sofia, Bulgaria
-     Dimitar Berbatov 6' Martin Petrov 14' Dimitar Berbatov 23' Stanislav Angelov 31' Dimitar Berbatov 35' Martin Petrov 44';
-     Vladimir Dvalishvili 34' Levan Kobiashvili 51' (pen.)
-  Chile - Ecuador  1-0   @ Santiago, Chile
-     Humberto Suazo 53'
-  Czech Republic - Northern Ireland  0-0   @ Prague, Czech Republic
-  Denmark - Hungary  0-1   @ Copenhagen, Denmark
-     -; Ákos Buzsáky 35'
-  El Salvador - Honduras  0-1   @ San Salvador, El Salvador
-     -; Carlos Pavón 64'
-  England - Belarus  3-0   @ London, England
-     Peter Crouch 4' Shaun Wright-Phillips 60' Peter Crouch 76'
-  Estonia - Belgium  2-0   @ Tallinn, Estonia
-     Raio Piiroja 30' Konstantin Vassiljev 67'
-  France - Austria  3-1   @ Saint-Denis, France
-     Karim Benzema 18' Thierry Henry 26' (pen.) André-Pierre Gignac 66';
-     Marc Janko 49'
-  Germany - Finland  1-1   @ Hamburg, Germany
-     Lukas Podolski 90';
-     Jonatan Johansson 11'
-  Greece - Luxembourg  2-1   @ Athens, Greece
-     Vasilis Torosidis 30' Theofanis Gekas 33';
-     Avraam Papadopoulos 90' (o.g.)
-  Republic of Ireland - Montenegro  0-0   @ Dublin, Republic of Ireland
-  Italy - Cyprus  3-2   @ Parma, Italy
-     Alberto Gilardino 78' Alberto Gilardino 81' Alberto Gilardino 90';
-     Constantinos Makrides 12' Chrysis Michael 48'
-  Kazakhstan - Croatia  1-2   @ Astana, Kazakhstan
-     Sergei Khizhnichenko 26';
-     Ognjen Vukojević 10' Niko Kranjčar 90'
-  Latvia - Moldova  3-2   @ Riga, Latvia
-     Andrejs Rubins 32' Andrejs Rubins 44' Kristaps Grebis 76';
-     Gheorghe Ovseannicov 25' Veaceslav Sofroni 90'
-  Liechtenstein - Wales  0-2   @ Vaduz, Liechtenstein
-     -; David Vaughan 16' Aaron Ramsey 80'
-  Lithuania - Serbia  2-1   @ Marijampolė, Lithuania
-     Mindaugas Kalonas 20' (pen.) Marius Stankevičius 68' (pen.);
-     Zoran Tošić 60'
-  Paraguay - Colombia  0-2   @ Asunción, Paraguay
-     -; Adrián Ramos 61' Hugo Rodallega 80'
-  Peru - Bolivia  1-0   @ Lima, Peru
-     Johan Fano 54'
-  Poland - Slovakia  0-1   @ Chorzów, Poland
-     -; Seweryn Gancarczyk 3' (o.g.)
-  Portugal - Malta  4-0   @ Guimarães, Portugal
-     Nani 14' Simão Sabrosa 45' Miguel Veloso 52' Edinho 90'
-  Romania - Faroe Islands  3-1   @ Piatra Neamţ, Romania
-     Iulian Apostol 16' Gheorghe Bucur 65' Ionuţ Mazilu 87';
-     Egil á Bø 83'
-  San Marino - Slovenia  0-3   @ Serravalle, San Marino
-     -; Milivoje Novaković 24' Dalibor Stevanović 68' Marko Šuler 81'
-  Sweden - Albania  4-1   @ Solna, Sweden
-     Olof Mellberg 6' Marcus Berg 40' Olof Mellberg 42' Anders Svensson 86';
-     Hamdi Salihi 56'
-  Switzerland - Israel  0-0   @ Basel, Switzerland
-  Trinidad and Tobago - Mexico  2-2   @ Port of Spain, Trinidad and Tobago
-     Kerry Baptiste 23' (pen.) Kerry Baptiste 61';
-     Enrique Esqueda 57' Carlos Salcido 65'
-  Turkey - Armenia  2-0   @ Bursa, Turkey
-     Halil Altıntop 16' Servet Çetin 28'
-  Uruguay - Argentina  0-1   @ Montevideo, Uruguay
-     -; Mario Bolatti 84'
-  United States - Costa Rica  2-2   @ Washington, D.C., United States
-     Michael Bradley 72' Jonathan Bornstein 90';
-     Bryan Ruiz 21' Bryan Ruiz 24'
-[Sat Nov 14]
-  Burkina Faso - Malawi  1-0   @ Ouagadougou, Burkina Faso
-     Moumouni Dagano 47'
-  Costa Rica - Uruguay  0-1   @ San José, Costa Rica
-     -; Diego Lugano 21'
-  Egypt - Algeria  2-0   @ Cairo, Egypt
-     Amr Zaki 3' Emad Moteab 90'
-  Greece - Ukraine  0-0   @ Athens, Greece
-  Republic of Ireland - France  0-1   @ Dublin, Republic of Ireland
-     -; Nicolas Anelka 72'
-  Ivory Coast - Guinea  3-0   @ Abidjan, Ivory Coast
-     Gervinho 16' Gervinho 31' Siaka Tiéné 67'
-  Kenya - Nigeria  2-3   @ Nairobi, Kenya
-     Dennis Oliech 15' Allan Wanga 77';
-     Obafemi Martins 60' Yakubu 64' Obafemi Martins 81'
-  Morocco - Cameroon  0-2   @ Fez, Morocco
-     -; Pierre Webó 19' Samuel Eto'o 52'
-  Mozambique - Tunisia  1-0   @ Maputo, Mozambique
-     Dário Monteiro 83'
-  New Zealand - Bahrain  1-0   @ Wellington, New Zealand
-     Rory Fallon 45'
-  Portugal - Bosnia and Herzegovina  1-0   @ Lisbon, Portugal
-     Bruno Alves 31'
-  Russia - Slovenia  2-1   @ Moscow, Russia
-     Diniyar Bilyaletdinov 40' Diniyar Bilyaletdinov 52';
-     Nejc Pečnik 88'
-  Rwanda - Zambia  0-0   @ Kigali, Rwanda
-  Sudan - Benin  1-2   @ Omdurman, Sudan
-     Hassan Korongo 45' (pen.);
-     Razak Omotoyossi 34' (pen.) Djiman Koukou 62'
-  Togo - Gabon  1-0   @ Lomé, Togo
-     Floyd Ayité 71'
-[Sun Nov 15]
-  Ghana - Mali  2-2   @ Kumasi, Ghana
-     Matthew Amoah 65' Anthony Annan 83';
-     Lassana Fané 23' Tenema Ndiaye 68'
-[Wed Nov 18]
-  Algeria - Egypt  1-0   @ Omdurman, Sudan
-     Antar Yahia 40'
-  Bosnia and Herzegovina - Portugal  0-1   @ Zenica, Bosnia and Herzegovina
-     -; Raul Meireles 56'
-  France - Republic of Ireland  1-1   @ Saint-Denis, France
-     William Gallas 103';
-     Robbie Keane 32'
-  Slovenia - Russia  1-0   @ Maribor, Slovenia
-     Zlatko Dedić 44'
-  Ukraine - Greece  0-1   @ Donetsk, Ukraine
-     -; Dimitris Salpingidis 31'
-  Uruguay - Costa Rica  1-1   @ Montevideo, Uruguay
-     Sebastián Abreu 70';
-     Walter Centeno 74'
+Wed Feb 11
+  Costa Rica           v Honduras              2-0   @ San José, Costa Rica
+     (Andy Furtado 48' Andy Furtado 59')
+  El Salvador          v Trinidad and Tobago   2-2   @ San Salvador, El Salvador
+     (Osael Romero 82' Osael Romero 90';
+      Carlos Edwards 7' Dwight Yorke 26'(p))
+  Iran                 v South Korea           1-1   @ Tehran, Iran
+     (Javad Nekounam 58';
+      Park Ji-sung 81')
+  Republic of Ireland  v Georgia               2-1   @ Dublin, Republic of Ireland
+     (Robbie Keane 73'(p) Robbie Keane 78';
+      Aleksandr Iashvili 1')
+  Japan                v Australia             0-0   @ Yokohama, Japan
+  North Korea          v Saudi Arabia          1-0   @ Pyongyang, North Korea
+     (Mun In-Guk 28')
+  Malta                v Albania               0-0   @ Attard, Malta
+  San Marino           v Northern Ireland      0-3   @ Serravalle, San Marino
+     (Gareth McAuley 7' Grant McCann 33' Chris Brunt 63')
+  United States        v Mexico                2-0   @ Columbus, United States
+     (Michael Bradley 43' Michael Bradley 90')
+  Uzbekistan           v Bahrain               0-1   @ Tashkent, Uzbekistan
+     (Mahmood Abdulrahman 90')
+Sat Mar 28
+  Albania              v Hungary               0-1   @ Tirana, Albania
+     (Sándor Torghelle 38')
+  Argentina            v Venezuela             4-0   @ Buenos Aires, Argentina
+     (Lionel Messi 26' Carlos Tevez 47' Maxi Rodríguez 51' Sergio Agüero 73')
+  Armenia              v Estonia               2-2   @ Yerevan, Armenia
+     (Henrikh Mkhitaryan 33' Gevorg Ghazaryan 87';
+      Konstantin Vassiljev 38' Sergei Zenjov 67')
+  Belgium              v Bosnia and Herzegovina  2-4   @ Genk, Belgium
+     (Mousa Dembélé 66' Wesley Sonck 85'(p);
+      Edin Džeko 7' Sanel Jahić 75' Zlatan Bajramović 77' Zvjezdan Misimović 81')
+  Burkina Faso         v Guinea                4-2   @ Ouagadougou, Burkina Faso
+     (Mahamoudou Kéré 23' Alain Traoré 30' Moumouni Dagano 55'(p) Moumouni Dagano 71';
+      Pascal Feindouno 65'(p) Kamil Zayatte 86')
+  Colombia             v Bolivia               2-0   @ Bogotá, Colombia
+     (Macnelly Torres 26' Wason Rentería 88')
+  Cyprus               v Georgia               2-1   @ Larnaca, Cyprus
+     (Michalis Konstantinou 33' Demetris Christofi 56';
+      Levan Kobiashvili 71'(p))
+  El Salvador          v United States         2-2   @ San Salvador, El Salvador
+     (Eliseo Quintanilla 15' Cristian Castillo 72';
+      Jozy Altidore 77' Frankie Hejduk 88')
+  Germany              v Liechtenstein         4-0   @ Leipzig, Germany
+     (Michael Ballack 4' Marcell Jansen 9' Bastian Schweinsteiger 48' Lukas Podolski 50')
+  Iran                 v Saudi Arabia          1-2   @ Tehran, Iran
+     (Masoud Shojaei 57';
+      Naif Hazazi 79' Osama Al-Muwallad 87')
+  Republic of Ireland  v Bulgaria              1-1   @ Dublin, Republic of Ireland
+     (Richard Dunne 1';
+      Kevin Kilbane 74'(og))
+  Israel               v Greece                1-1   @ Ramat Gan, Israel
+     (Omer Golan 55';
+      Theofanis Gekas 42')
+  Japan                v Bahrain               1-0   @ Saitama, Japan
+     (Shunsuke Nakamura 47')
+  Kenya                v Tunisia               1-2   @ Nairobi, Kenya
+     (Dennis Oliech 70';
+      Ammar Jemal 6' Issam Jemâa 79')
+  North Korea          v United Arab Emirates  2-0   @ Pyongyang, North Korea
+     (Pak Nam-Chol 51' Mun In-Guk 90')
+  Lithuania            v France                0-1   @ Kaunas, Lithuania
+     (Franck Ribéry 67')
+  Luxembourg           v Latvia                0-4   @ Luxembourg, Luxembourg
+     (Ģirts Karlsons 25' Aleksandrs Cauņa 48' Aleksejs Višņakovs 71' Andrejs Perepļotkins 86')
+  Malta                v Denmark               0-3   @ Attard, Malta
+     (Søren Larsen 12' Søren Larsen 23' Morten Nordstrand 89')
+  Mexico               v Costa Rica            2-0   @ Mexico City, Mexico
+     (Omar Bravo 20' Pável Pardo 52'(p))
+  Moldova              v Switzerland           0-2   @ Chișinău, Moldova
+     (Alexander Frei 32' Gelson Fernandes 90')
+  Montenegro           v Italy                 0-2   @ Podgorica, Montenegro
+     (Andrea Pirlo 11'(p) Giampaolo Pazzini 73')
+  Morocco              v Gabon                 1-2   @ Casablanca, Morocco
+     (Mounir El Hamdaoui 83';
+      Pierre-Emerick Aubameyang 34' Roguy Méyé 45')
+  Netherlands          v Scotland              3-0   @ Amsterdam, Netherlands
+     (Klaas-Jan Huntelaar 30' Robin van Persie 45' Dirk Kuyt 77'(p))
+  Northern Ireland     v Poland                3-2   @ Belfast, Northern Ireland
+     (Warren Feeney 10' Jonny Evans 47' Michał Żewłakow 61'(og);
+      Ireneusz Jeleń 27' Marek Saganowski 90')
+  Portugal             v Sweden                0-0   @ Porto, Portugal
+  Romania              v Serbia                2-3   @ Constanţa, Romania
+     (Ciprian Marica 50' Dorel Stoica 74';
+      Milan Jovanović 18' Dorel Stoica 44'(og) Branislav Ivanović 59')
+  Russia               v Azerbaijan            2-0   @ Moscow, Russia
+     (Roman Pavlyuchenko 32' Konstantin Zyryanov 71')
+  Rwanda               v Algeria               0-0   @ Kigali, Rwanda
+  Slovenia             v Czech Republic        0-0   @ Maribor, Slovenia
+  Spain                v Turkey                1-0   @ Madrid, Spain
+     (Gerard Piqué 60')
+  Sudan                v Mali                  1-1   @ Omdurman, Sudan
+     (Mudather El Tahir 23';
+      Frédéric Kanouté 19')
+  Togo                 v Cameroon              1-0   @ Accra, Ghana
+     (Emmanuel Adebayor 11')
+  Trinidad and Tobago  v Honduras              1-1   @ Port of Spain, Trinidad and Tobago
+     (Khaleem Hyland 90';
+      Carlos Pavón 51')
+  Uruguay              v Paraguay              2-0   @ Montevideo, Uruguay
+     (Diego Forlán 28' Diego Lugano 57')
+  Uzbekistan           v Qatar                 4-0   @ Tashkent, Uzbekistan
+     (Farhod Tadjiyev 34' Farhod Tadjiyev 45' Farhod Tadjiyev 53' Anvarjon Soliev 62')
+  Wales                v Finland               0-2   @ Cardiff, Wales
+     (Jonatan Johansson 42' Shefki Kuqi 90')
+Sun Mar 29
+  Mozambique           v Nigeria               0-0   @ Maputo, Mozambique
+  Ivory Coast          v Malawi                5-0   @ Abidjan, Ivory Coast
+     (Romaric 1' Didier Drogba 6'(p) Didier Drogba 27' Salomon Kalou 59' Bakari Koné 70')
+  Ecuador              v Brazil                1-1   @ Quito, Ecuador
+     (Christian Noboa 89';
+      Júlio Baptista 72')
+  Peru                 v Chile                 1-3   @ Lima, Peru
+     (Johan Fano 34';
+      Alexis Sánchez 2' Humberto Suazo 32'(p) Matías Fernández 70')
+  Egypt                v Zambia                1-1   @ Cairo, Egypt
+     (Amr Zaki 27';
+      Francis Kasonde 56')
+  Ghana                v Benin                 1-0   @ Kumasi, Ghana
+     (Prince Tagoe 1')
+Tue Mar 31
+  Venezuela            v Colombia              2-0   @ Puerto Ordaz, Venezuela
+     (Miku 78' Juan Arango 82')
+Wed Apr 1
+  Andorra              v Croatia               0-2   @ Sant Julià de Lòria, Andorra
+     (Ivan Klasnić 15' Eduardo da Silva 35')
+  Australia            v Uzbekistan            2-0   @ Sydney, Australia
+     (Joshua Kennedy 66' Harry Kewell 73'(p))
+  Austria              v Romania               2-1   @ Klagenfurt, Austria
+     (Erwin Hoffer 26' Erwin Hoffer 44';
+      Cristian Tănase 24')
+  Bahrain              v Qatar                 1-0   @ Riffa, Bahrain
+     (Faouzi Mubarak Aaish 52')
+  Bosnia and Herzegovina v Belgium               2-1   @ Zenica, Bosnia and Herzegovina
+     (Edin Džeko 12' Edin Džeko 14';
+      Gill Swerts 88')
+  Bulgaria             v Cyprus                2-0   @ Sofia, Bulgaria
+     (Ivelin Popov 8' Dimitar Makriev 90')
+  Costa Rica           v El Salvador           1-0   @ San José, Costa Rica
+     (Walter Centeno 69')
+  Czech Republic       v Slovakia              1-2   @ Prague, Czech Republic
+     (Marek Jankulovski 30';
+      Stanislav Šesták 22' Erik Jendrišek 82')
+  Denmark              v Albania               3-0   @ Copenhagen, Denmark
+     (Leon Andreasen 31' Søren Larsen 37' Christian Poulsen 80')
+  England              v Ukraine               2-1   @ London, England
+     (Peter Crouch 29' John Terry 85';
+      Andriy Shevchenko 74')
+  Estonia              v Armenia               1-0   @ Tallinn, Estonia
+     (Sander Puri 83')
+  France               v Lithuania             1-0   @ Saint-Denis, France
+     (Franck Ribéry 75')
+  Georgia              v Montenegro            0-0   @ Tbilisi, Georgia
+  Greece               v Israel                2-1   @ Heraklion, Greece
+     (Dimitris Salpingidis 32' Georgios Samaras 67'(p);
+      Elyaniv Barda 60')
+  Honduras             v Mexico                3-1   @ San Pedro Sula, Honduras
+     (Carlo Costly 17' Carlos Pavón 43' Carlo Costly 79';
+      Nery Castillo 82'(p))
+  Hungary              v Malta                 3-0   @ Budapest, Hungary
+     (Tamás Hajnal 7' Zoltán Gera 81' Roland Juhász 90')
+  Italy                v Republic of Ireland   1-1   @ Bari, Italy
+     (Vincenzo Iaquinta 10';
+      Robbie Keane 87')
+  Kazakhstan           v Belarus               1-5   @ Almaty, Kazakhstan
+     (Rinat Abdulin 10';
+      Alexander Hleb 48' Timofei Kalachev 54' Ihar Stasevich 57' Timofei Kalachev 64' Vitali Rodionov 88')
+  South Korea          v North Korea           1-0   @ Seoul, South Korea
+     (Kim Chi-Woo 86')
+  Latvia               v Luxembourg            2-0   @ Riga, Latvia
+     (Jurijs Žigajevs 44' Māris Verpakovskis 76')
+  Liechtenstein        v Russia                0-1   @ Vaduz, Liechtenstein
+     (Konstantin Zyryanov 38')
+  Netherlands          v North Macedonia       4-0   @ Amsterdam, Netherlands
+     (Dirk Kuyt 16' Klaas-Jan Huntelaar 25' Dirk Kuyt 41' Rafael van der Vaart 88')
+  Northern Ireland     v Slovenia              1-0   @ Belfast, Northern Ireland
+     (Warren Feeney 73')
+  Poland               v San Marino            10-0   @ Kielce, Poland
+     (Rafał Boguski 1' Ebi Smolarek 18' Rafał Boguski 27' Robert Lewandowski 43' Ireneusz Jeleń 51' Ebi Smolarek 60' Mariusz Lewandowski 63' Ebi Smolarek 72' Ebi Smolarek 81' Marek Saganowski 88')
+  Saudi Arabia         v United Arab Emirates  3-2   @ Riyadh, Saudi Arabia
+     (Abdoh Otaif 4'(p) Fares Juma 70'(og) Naif Hazazi 85';
+      Mohamed Al-Shehhi 38' Ismail Matar 45')
+  Scotland             v Iceland               2-1   @ Glasgow, Scotland
+     (Ross McCormack 39' Steven Fletcher 65';
+      Indriði Sigurðsson 54')
+  Switzerland          v Moldova               2-0   @ Geneva, Switzerland
+     (Blaise Nkufo 20' Alexander Frei 52')
+  Turkey               v Spain                 1-2   @ Istanbul, Turkey
+     (Semih Şentürk 26';
+      Xabi Alonso 63'(p) Albert Riera 90')
+  United States        v Trinidad and Tobago   3-0   @ Nashville, United States
+     (Jozy Altidore 13' Jozy Altidore 71' Jozy Altidore 89')
+  Wales                v Germany               0-2   @ Cardiff, Wales
+     (Michael Ballack 11' Ashley Williams 48'(og))
+  Bolivia              v Argentina             6-1   @ La Paz, Bolivia
+     (Marcelo Martins Moreno 12' Joaquín Botero 34'(p) Álex da Rosa 45' Joaquín Botero 55' Joaquín Botero 66' Didi Torrico 87';
+      Lucho González 25')
+  Ecuador              v Paraguay              1-1   @ Quito, Ecuador
+     (Christian Noboa 63';
+      Édgar Benítez 90')
+  Chile                v Uruguay               0-0   @ Santiago, Chile
+  Brazil               v Peru                  3-0   @ Porto Alegre, Brazil
+     (Luís Fabiano 18'(p) Luís Fabiano 27' Felipe Melo 64')
+Wed Jun 3
+  Costa Rica           v United States         3-1   @ San José, Costa Rica
+     (Álvaro Saborío 2' Celso Borges 13' Pablo Herrera Barrantes 69';
+      Landon Donovan 90'(p))
+Sat Jun 6
+  Albania              v Portugal              1-2   @ Tirana, Albania
+     (Erjon Bogdani 29';
+      Hugo Almeida 27' Bruno Alves 90')
+  Argentina            v Colombia              1-0   @ Buenos Aires, Argentina
+     (Daniel Díaz 56')
+  Azerbaijan           v Wales                 0-1   @ Baku, Azerbaijan
+     (David Edwards 42')
+  Belarus              v Andorra               5-1   @ Hrodna, Belarus
+     (Gennadi Bliznyuk 2' Timofei Kalachev 44' Sergei Kornilenko 50' Sergei Kornilenko 65' Gennadi Bliznyuk 76';
+      Ildefons Lima 90'(p))
+  Bolivia              v Venezuela             0-1   @ La Paz, Bolivia
+     (Ronald Rivero 33'(og))
+  Bulgaria             v Republic of Ireland   1-1   @ Sofia, Bulgaria
+     (Dimitar Telkiyski 29';
+      Richard Dunne 24')
+  Croatia              v Ukraine               2-2   @ Zagreb, Croatia
+     (Mladen Petrić 2' Luka Modrić 68';
+      Andriy Shevchenko 13' Oleksiy Gai 54')
+  Cyprus               v Montenegro            2-2   @ Larnaca, Cyprus
+     (Michalis Konstantinou 13' Chrysis Michael 45'(p);
+      Dejan Damjanović 65' Dejan Damjanović 77')
+  El Salvador          v Mexico                2-1   @ San Salvador, El Salvador
+     (Julio Enrique Martínez 11' Eliseo Quintanilla 86'(p);
+      Cuauhtémoc Blanco 71'(p))
+  Finland              v Liechtenstein         2-1   @ Helsinki, Finland
+     (Mikael Forssell 33' Jonatan Johansson 71';
+      Mario Frick 13')
+  Gabon                v Togo                  3-0   @ Libreville, Gabon
+     (Bruno Ecuele Manga 11' Roguy Méyé 67' Moise Brou 81')
+  Iceland              v Netherlands           1-2   @ Reykjavík, Iceland
+     (Kristján Örn Sigurðsson 87';
+      Nigel de Jong 8' Mark van Bommel 15')
+  Kazakhstan           v England               0-4   @ Almaty, Kazakhstan
+     (Gareth Barry 40' Emile Heskey 45' Wayne Rooney 72' Frank Lampard 77'(p))
+  North Korea          v Iran                  0-0   @ Pyongyang, North Korea
+  Lithuania            v Romania               0-1   @ Marijampolė, Lithuania
+     (Ciprian Marica 38')
+  North Macedonia      v Norway                0-0   @ Skopje, North Macedonia
+  Malawi               v Burkina Faso          0-1   @ Blantyre, Malawi
+     (Moumouni Dagano 68')
+  Paraguay             v Chile                 0-2   @ Asunción, Paraguay
+     (Matías Fernández 13' Humberto Suazo 50')
+  Qatar                v Australia             0-0   @ Doha, Qatar
+  Serbia               v Austria               1-0   @ Belgrade, Serbia
+     (Nenad Milijaš 7'(p))
+  Slovakia             v San Marino            7-0   @ Bratislava, Slovakia
+     (Marek Čech 3' Peter Pekarík 12' Marek Čech 32' Miroslav Stoch 35' Ján Kozák 42' Martin Jakubko 63' Ľuboš Hanzel 68')
+  Sweden               v Denmark               0-1   @ Solna, Sweden
+     (Thomas Kahlenberg 22')
+  Trinidad and Tobago  v Costa Rica            2-3   @ Scarborough, Trinidad and Tobago
+     (Carlos Edwards 29' Collin Samuel 63';
+      Álvaro Saborío 40' Celso Borges 52' Celso Borges 68')
+  Tunisia              v Mozambique            2-0   @ Radès, Tunisia
+     (Wissem Ben Yahia 21'(p) Oussama Darragi 90')
+  United Arab Emirates v South Korea           0-2   @ Dubai, United Arab Emirates
+     (Park Chu-young 9' Ki Sung-yueng 37')
+  Uruguay              v Brazil                0-4   @ Montevideo, Uruguay
+     (Dani Alves 12' Juan 36' Luís Fabiano 52' Kaká 75'(p))
+  United States        v Honduras              2-1   @ Chicago, United States
+     (Landon Donovan 43'(p) Carlos Bocanegra 68';
+      Carlo Costly 5')
+  Uzbekistan           v Japan                 0-1   @ Tashkent, Uzbekistan
+     (Shinji Okazaki 9')
+  Zambia               v Rwanda                1-0   @ Chililabombwe, Zambia
+     (Rainford Kalaba 78')
+Sun Jun 7
+  Cameroon             v Morocco               0-0   @ Yaoundé, Cameroon
+  Guinea               v Ivory Coast           1-2   @ Conakry, Guinea
+     (Sambégou Bangoura 65';
+      Bakari Koné 44' Romaric 72')
+  Peru                 v Ecuador               1-2   @ Lima, Peru
+     (Juan Manuel Vargas 52';
+      Jefferson Montero 38' Carlos Tenorio 59')
+  Algeria              v Egypt                 3-1   @ Blida, Algeria
+     (Karim Matmour 60' Abdelkader Ghezzal 64' Rafik Djebbour 77';
+      Mohamed Aboutrika 86')
+  Benin                v Sudan                 1-0   @ Cotonou, Benin
+     (Razak Omotoyossi 22')
+  Mali                 v Ghana                 0-2   @ Bamako, Mali
+     (Kwadwo Asamoah 67' Matthew Amoah 79')
+  Nigeria              v Kenya                 3-0   @ Abuja, Nigeria
+     (Ikechukwu Uche 2' Victor Obinna 72'(p) Victor Obinna 77')
+Wed Jun 10
+  Australia            v Bahrain               2-0   @ Sydney, Australia
+     (Mile Sterjovski 55' David Carney 88')
+  Brazil               v Paraguay              2-1   @ Recife, Brazil
+     (Robinho 40' Nilmar 49';
+      Salvador Cabañas 25')
+  Chile                v Bolivia               4-0   @ Santiago, Chile
+     (Jean Beausejour 43' Marco Estrada 74' Alexis Sánchez 78' Alexis Sánchez 88')
+  Colombia             v Peru                  1-0   @ Medellín, Colombia
+     (Radamel Falcao 25')
+  Ecuador              v Argentina             2-0   @ Quito, Ecuador
+     (Walter Ayoví 72' Pablo Palacios 83')
+  England              v Andorra               6-0   @ London, England
+     (Wayne Rooney 4' Frank Lampard 29' Wayne Rooney 39' Jermain Defoe 73' Jermain Defoe 76' Peter Crouch 81')
+  Faroe Islands        v Serbia                0-2   @ Tórshavn, Faroe Islands
+     (Milan Jovanović 44' Neven Subotić 69')
+  Finland              v Russia                0-3   @ Helsinki, Finland
+     (Aleksandr Kerzhakov 26' Aleksandr Kerzhakov 53' Konstantin Zyryanov 71')
+  Honduras             v El Salvador           1-0   @ San Pedro Sula, Honduras
+     (Carlos Pavón 13')
+  Iran                 v United Arab Emirates  1-0   @ Tehran, Iran
+     (Ali Karimi 53')
+  Japan                v Qatar                 1-1   @ Yokohama, Japan
+     (Ahmed Faris Al-Binali 3'(og);
+      Ali Afif 53'(p))
+  South Korea          v Saudi Arabia          0-0   @ Seoul, South Korea
+  North Macedonia      v Iceland               2-0   @ Skopje, North Macedonia
+     (Aco Stojkov 10' Filip Ivanovski 86')
+  Mexico               v Trinidad and Tobago   2-1   @ Mexico City, Mexico
+     (Guillermo Franco 2' Óscar Rojas 48';
+      Hayden Tinto 45')
+  Netherlands          v Norway                2-0   @ Rotterdam, Netherlands
+     (André Ooijer 32' Arjen Robben 50')
+  Sweden               v Malta                 4-0   @ Gothenburg, Sweden
+     (Kim Källström 22' Daniel Majstorović 52' Zlatan Ibrahimović 56' Marcus Berg 58')
+  Ukraine              v Kazakhstan            2-1   @ Kyiv, Ukraine
+     (Serhiy Nazarenko 33' Serhiy Nazarenko 47';
+      Tanat Nusserbayev 19')
+  Venezuela            v Uruguay               2-2   @ Puerto Ordaz, Venezuela
+     (Giancarlo Maldonado 9' José Manuel Rey 74';
+      Luis Suárez 60' Diego Forlán 72')
+Wed Jun 17
+  Australia            v Japan                 2-1   @ Melbourne, Australia
+     (Tim Cahill 59' Tim Cahill 77';
+      Marcus Tulio Tanaka 39')
+  Bahrain              v Uzbekistan            1-0   @ Riffa, Bahrain
+     (Mahmood Abdulrahman 73')
+  South Korea          v Iran                  1-1   @ Seoul, South Korea
+     (Park Ji-sung 82';
+      Masoud Shojaei 52')
+  Saudi Arabia         v North Korea           0-0   @ Riyadh, Saudi Arabia
+Sat Jun 20
+  Burkina Faso         v Ivory Coast           2-3   @ Ouagadougou, Burkina Faso
+     (Jonathan Pitroipa 27' Aristide Bancé 78';
+      Yaya Touré 14' Mamadou Tall 54'(og) Didier Drogba 70')
+  Kenya                v Mozambique            2-1   @ Nairobi, Kenya
+     (Julius Owino 8' McDonald Mariga 72'(p);
+      Domingues 49')
+  Morocco              v Togo                  0-0   @ Rabat, Morocco
+  Sudan                v Ghana                 0-2   @ Omdurman, Sudan
+     (Matthew Amoah 6' Matthew Amoah 52')
+  Tunisia              v Nigeria               0-0   @ Radès, Tunisia
+  Zambia               v Algeria               0-2   @ Chililabombwe, Zambia
+     (Madjid Bougherra 21' Rafik Saïfi 66')
+Sun Jun 21
+  Guinea               v Malawi                2-1   @ Conakry, Guinea
+     (Pascal Feindouno 25' Pascal Feindouno 43';
+      Chiukepo Msowoya 88')
+  Mali                 v Benin                 3-1   @ Bamako, Mali
+     (Modibo Maïga 29' Mamadou Diallo 76' Frédéric Kanouté 84';
+      Séïdath Tchomogo 15')
+Sun Jul 5
+  Egypt                v Rwanda                3-0   @ Cairo, Egypt
+     (Mohamed Aboutrika 64' Hosny Abd Rabo 74'(p) Mohamed Aboutrika 90')
+Wed Aug 12
+  Azerbaijan           v Germany               0-2   @ Baku, Azerbaijan
+     (Bastian Schweinsteiger 11' Miroslav Klose 53')
+  Belarus              v Croatia               1-3   @ Minsk, Belarus
+     (Dmitry Verkhovtsov 81';
+      Ivica Olić 22' Eduardo da Silva 69' Ivica Olić 85')
+  Faroe Islands        v France                0-1   @ Tórshavn, Faroe Islands
+     (André-Pierre Gignac 41')
+  Honduras             v Costa Rica            4-0   @ San Pedro Sula, Honduras
+     (Carlo Costly 30' Carlos Pavón 51' Melvin Valladares 89' Carlo Costly 90')
+  Mexico               v United States         2-1   @ Mexico City, Mexico
+     (Israel Castro 19' Miguel Sabah 82';
+      Charlie Davies 9')
+  Norway               v Scotland              4-0   @ Oslo, Norway
+     (John Arne Riise 35' Morten Gamst Pedersen 45' Erik Huseklepp 60' Morten Gamst Pedersen 90')
+  Slovenia             v San Marino            5-0   @ Maribor, Slovenia
+     (Robert Koren 19' Aleksandar Radosavljević 39' Andraž Kirm 54' Robert Koren 74' Zlatan Ljubijankić 90')
+  Trinidad and Tobago  v El Salvador           1-0   @ Port of Spain, Trinidad and Tobago
+     (Cornell Glen 7')
+Sat Sep 5
+  Argentina            v Brazil                1-3   @ Rosario, Argentina
+     (Jesús Dátolo 65';
+      Luisão 23' Luís Fabiano 30' Luís Fabiano 68')
+  Armenia              v Bosnia and Herzegovina  0-2   @ Yerevan, Armenia
+     (Senijad Ibričić 6' Zlatan Muslimović 74')
+  Austria              v Faroe Islands         3-1   @ Graz, Austria
+     (Stefan Maierhofer 1' Marc Janko 15' Marc Janko 58'(p);
+      Andreas Lava Olsen 82')
+  Azerbaijan           v Finland               1-2   @ Lənkəran, Azerbaijan
+     (Elvin Mammadov 49';
+      Hannu Tihinen 74' Jonatan Johansson 85')
+  Bahrain              v Saudi Arabia          0-0   @ Riffa, Bahrain
+  Bulgaria             v Montenegro            4-1   @ Sofia, Bulgaria
+     (Radostin Kishishev 45' Dimitar Telkiyski 49' Dimitar Berbatov 83'(p) Valeri Domovchiyski 90';
+      Stevan Jovetić 9')
+  Chile                v Venezuela             2-2   @ Santiago, Chile
+     (Arturo Vidal 11' Rodrigo Millar 53';
+      Giancarlo Maldonado 34' José Manuel Rey 45')
+  Colombia             v Ecuador               2-0   @ Medellín, Colombia
+     (Jackson Martínez 82' Teófilo Gutiérrez 90')
+  Costa Rica           v Mexico                0-3   @ San José, Costa Rica
+     (Giovani dos Santos 45' Guillermo Franco 62' Andrés Guardado 71')
+  Croatia              v Belarus               1-0   @ Zagreb, Croatia
+     (Ivan Rakitić 24')
+  Cyprus               v Republic of Ireland   1-2   @ Nicosia, Cyprus
+     (Marios Elia 30';
+      Kevin Doyle 5' Robbie Keane 83')
+  Denmark              v Portugal              1-1   @ Copenhagen, Denmark
+     (Nicklas Bendtner 43';
+      Liédson 86')
+  France               v Romania               1-1   @ Saint-Denis, France
+     (Thierry Henry 48';
+      Julien Escudé 55'(og))
+  Gabon                v Cameroon              0-2   @ Libreville, Gabon
+     (Achille Emaná 65' Samuel Eto'o 67')
+  Georgia              v Italy                 0-2   @ Tbilisi, Georgia
+     (Kakha Kaladze 56'(og) Kakha Kaladze 66'(og))
+  Honduras             v Trinidad and Tobago   4-1   @ San Pedro Sula, Honduras
+     (Carlos Pavón 20' Carlos Pavón 28' Amado Guevara 62' David Suazo 83';
+      Kerry Baptiste 86')
+  Hungary              v Sweden                1-2   @ Budapest, Hungary
+     (Szabolcs Huszti 79'(p);
+      Olof Mellberg 9' Zlatan Ibrahimović 90')
+  Iceland              v Norway                1-1   @ Reykjavík, Iceland
+     (Eiður Guðjohnsen 29';
+      John Arne Riise 11')
+  Israel               v Latvia                0-1   @ Ramat Gan, Israel
+     (Kaspars Gorkšs 59')
+  Ivory Coast          v Burkina Faso          5-0   @ Abidjan, Ivory Coast
+     (Saïdou Panandétiguiri 12'(og) Didier Drogba 48' Yaya Touré 55' Didier Drogba 65' Abdul Kader Keïta 68')
+  Malawi               v Guinea                2-1   @ Blantyre, Malawi
+     (Chiukepo Msowoya 46' Chiukepo Msowoya 59';
+      Oumar Kalabane 38')
+  Moldova              v Luxembourg            0-0   @ Chișinău, Moldova
+  Paraguay             v Bolivia               1-0   @ Asunción, Paraguay
+     (Salvador Cabañas 45'(p))
+  Peru                 v Uruguay               1-0   @ Lima, Peru
+     (Hernán Rengifo 86')
+  Poland               v Northern Ireland      1-1   @ Chorzów, Poland
+     (Mariusz Lewandowski 80';
+      Kyle Lafferty 38')
+  Russia               v Liechtenstein         3-0   @ Saint Petersburg, Russia
+     (Vasili Berezutski 17' Roman Pavlyuchenko 40'(p) Roman Pavlyuchenko 45'(p))
+  Rwanda               v Egypt                 0-1   @ Kigali, Rwanda
+     (Ahmed Hassan 67')
+  Scotland             v North Macedonia       2-0   @ Glasgow, Scotland
+     (Scott Brown 56' James McFadden 80')
+  Slovakia             v Czech Republic        2-2   @ Bratislava, Slovakia
+     (Stanislav Šesták 59' Marek Hamšík 73'(p);
+      Daniel Pudil 68' Milan Baroš 83')
+  Spain                v Belgium               5-0   @ La Coruña, Spain
+     (David Silva 41' David Villa 49' Gerard Piqué 50' David Silva 67' David Villa 85')
+  Switzerland          v Greece                2-0   @ Basel, Switzerland
+     (Stéphane Grichting 84' Marco Padalino 87')
+  Turkey               v Estonia               4-2   @ Kayseri, Turkey
+     (Tuncay 29' Sercan Yıldırım 37' Arda Turan 62' Tuncay 72';
+      Vladimir Voskoboinikov 7' Konstantin Vassiljev 52')
+  Ukraine              v Andorra               5-0   @ Kyiv, Ukraine
+     (Andriy Yarmolenko 18' Artem Milevskyi 45' Andriy Shevchenko 72'(p) Artem Milevskyi 90'(p) Yevhen Seleznyov 90'(p))
+  United States        v El Salvador           2-1   @ Sandy City, United States
+     (Clint Dempsey 41' Jozy Altidore 45';
+      Cristian Castillo 32')
+Sun Sep 6
+  Algeria              v Zambia                1-0   @ Blida, Algeria
+     (Rafik Saïfi 59')
+  Benin                v Mali                  1-1   @ Cotonou, Benin
+     (Mohamed Aoudou 87';
+      Mamadou Samassa 72')
+  Ghana                v Sudan                 2-0   @ Accra, Ghana
+     (Sulley Muntari 14' Michael Essien 53')
+  Mozambique           v Kenya                 1-0   @ Maputo, Mozambique
+     (Tico-Tico 66')
+  Nigeria              v Tunisia               2-2   @ Abuja, Nigeria
+     (Peter Odemwingie 23' Michael Eneramo 80';
+      Nabil Taïder 24' Oussama Darragi 89')
+  Togo                 v Morocco               1-1   @ Lomé, Togo
+     (Moustapha Salifou 3';
+      Adel Taarabt 90')
+Wed Sep 9
+  Albania              v Denmark               1-1   @ Tirana, Albania
+     (Erjon Bogdani 51';
+      Nicklas Bendtner 40')
+  Andorra              v Kazakhstan            1-3   @ Sant Julià de Lòria, Andorra
+     (Óscar Sonejee 70';
+      Sergei Khizhnichenko 14' Ruslan Baltiyev 29' Sergei Khizhnichenko 35')
+  Armenia              v Belgium               2-1   @ Yerevan, Armenia
+     (Hovhannes Goharyan 23' Sargis Hovsepyan 50';
+      Daniel Van Buyten 90')
+  Belarus              v Ukraine               0-0   @ Minsk, Belarus
+  Bolivia              v Ecuador               1-3   @ La Paz, Bolivia
+     (Gerardo Yecerotte 85';
+      Édison Méndez 4' Antonio Valencia 46' Christian Benítez 66')
+  Bosnia and Herzegovina v Turkey                1-1   @ Zenica, Bosnia and Herzegovina
+     (Sejad Salihović 25';
+      Emre Belözoğlu 4')
+  Cameroon             v Gabon                 2-1   @ Yaoundé, Cameroon
+     (Jean Makoun 25' Samuel Eto'o 64';
+      Daniel Cousin 90')
+  Czech Republic       v San Marino            7-0   @ Uherské Hradiště, Czech Republic
+     (Milan Baroš 28' Milan Baroš 44' Milan Baroš 45'(p) Václav Svěrkoš 47' Milan Baroš 66' Tomáš Necid 86' Václav Svěrkoš 90')
+  El Salvador          v Costa Rica            1-0   @ San Salvador, El Salvador
+     (Rudis Corrales 90')
+  England              v Croatia               5-1   @ London, England
+     (Frank Lampard 7'(p) Steven Gerrard 18' Frank Lampard 59' Steven Gerrard 67' Wayne Rooney 77';
+      Eduardo da Silva 71')
+  Faroe Islands        v Lithuania             2-1   @ Toftir, Faroe Islands
+     (Súni Olsen 13' Arnbjørn Hansen 34';
+      Tomas Danilevičius 22'(p))
+  Germany              v Azerbaijan            4-0   @ Hanover, Germany
+     (Michael Ballack 14'(p) Miroslav Klose 55' Miroslav Klose 65' Lukas Podolski 71')
+  Hungary              v Portugal              0-1   @ Budapest, Hungary
+     (Pepe 10')
+  Israel               v Luxembourg            7-0   @ Ramat Gan, Israel
+     (Elyaniv Barda 9' Aviram Baruchyan 15' Elyaniv Barda 21' Elyaniv Barda 43' Omer Golan 58' Ben Sahar 62' Ben Sahar 84')
+  Italy                v Bulgaria              2-0   @ Turin, Italy
+     (Fabio Grosso 11' Vincenzo Iaquinta 40')
+  Latvia               v Switzerland           2-2   @ Riga, Latvia
+     (Aleksandrs Cauņa 62' Vitālijs Astafjevs 75';
+      Alexander Frei 43' Eren Derdiyok 80')
+  Liechtenstein        v Finland               1-1   @ Vaduz, Liechtenstein
+     (Michele Polverino 75';
+      Jari Litmanen 74'(p))
+  Malta                v Sweden                0-1   @ Attard, Malta
+     (Ian Azzopardi 82'(og))
+  Mexico               v Honduras              1-0   @ Mexico City, Mexico
+     (Cuauhtémoc Blanco 76'(p))
+  Moldova              v Greece                1-1   @ Chișinău, Moldova
+     (Valeriu Andronic 90';
+      Theofanis Gekas 33')
+  Montenegro           v Cyprus                1-1   @ Podgorica, Montenegro
+     (Mirko Vučinić 56'(p);
+      Ioannis Okkas 63')
+  Northern Ireland     v Slovakia              0-2   @ Belfast, Northern Ireland
+     (Stanislav Šesták 15' Filip Hološko 67')
+  Norway               v North Macedonia       2-1   @ Oslo, Norway
+     (Thorstein Helstad 2' John Arne Riise 25';
+      Boban Grnčarov 79')
+  Romania              v Austria               1-1   @ Bucharest, Romania
+     (Gheorghe Bucur 54';
+      Franz Schiemer 83')
+  Saudi Arabia         v Bahrain               2-2   @ Riyadh, Saudi Arabia
+     (Nasser Al-Shamrani 13' Hamad Al-Montashari 90';
+      Jaycee John Okwunwanne 42' Ismail Abdullatif 90')
+  Scotland             v Netherlands           0-1   @ Glasgow, Scotland
+     (Eljero Elia 82')
+  Serbia               v France                1-1   @ Belgrade, Serbia
+     (Nenad Milijaš 12'(p);
+      Thierry Henry 36')
+  Slovenia             v Poland                3-0   @ Maribor, Slovenia
+     (Zlatko Dedić 13' Milivoje Novaković 44' Valter Birsa 62')
+  Spain                v Estonia               3-0   @ Mérida, Spain
+     (Cesc Fàbregas 33' Santi Cazorla 82' Juan Mata 90')
+  Trinidad and Tobago  v United States         0-1   @ Port of Spain, Trinidad and Tobago
+     (Ricardo Clark 62')
+  Wales                v Russia                1-3   @ Cardiff, Wales
+     (James Collins 53';
+      Igor Semshov 36' Sergei Ignashevich 71' Roman Pavlyuchenko 90')
+  Uruguay              v Colombia              3-1   @ Montevideo, Uruguay
+     (Luis Suárez 7' Andrés Scotti 77' Sebastián Eguren 87';
+      Jackson Martínez 63')
+  Paraguay             v Argentina             1-0   @ Asunción, Paraguay
+     (Nelson Valdez 27')
+  Brazil               v Chile                 4-2   @ Salvador, Brazil
+     (Nilmar 31' Júlio Baptista 40' Nilmar 74' Nilmar 76';
+      Humberto Suazo 45'(p) Humberto Suazo 52')
+  Venezuela            v Peru                  3-1   @ Puerto la Cruz, Venezuela
+     (Miku 33' Miku 52' Ronald Vargas 65';
+      Juan Fuenmayor 41'(og))
+Sat Oct 10
+  Argentina            v Peru                  2-1   @ Buenos Aires, Argentina
+     (Gonzalo Higuaín 48' Martín Palermo 90';
+      Hernán Rengifo 89')
+  Armenia              v Spain                 1-2   @ Yerevan, Armenia
+     (Robert Arzumanyan 58';
+      Cesc Fàbregas 33' Juan Mata 64'(p))
+  Austria              v Lithuania             2-1   @ Innsbruck, Austria
+     (Marc Janko 16' Roman Wallner 80'(p);
+      Marius Stankevičius 66')
+  Bahrain              v New Zealand           0-0   @ Riffa, Bahrain
+  Belarus              v Kazakhstan            4-0   @ Brest, Belarus
+     (Maksim Bordachyov 23' Timofei Kalachev 69' Leonid Kovel 86' Timofei Kalachev 90')
+  Belgium              v Turkey                2-0   @ Brussels, Belgium
+     (Émile Mpenza 8' Émile Mpenza 84')
+  Cameroon             v Togo                  3-0   @ Yaoundé, Cameroon
+     (Geremi Njitap 29' Jean Makoun 46' Achille Emaná 54')
+  Colombia             v Chile                 2-4   @ Medellín, Colombia
+     (Jackson Martínez 14' Giovanni Moreno 63';
+      Waldo Ponce 34' Humberto Suazo 35' Jorge Valdivia 71' Fabián Orellana 78')
+  Costa Rica           v Trinidad and Tobago   4-0   @ San José, Costa Rica
+     (Julius James 26'(og) Walter Centeno 51' Álvaro Saborío 61' Álvaro Saborío 64')
+  Cyprus               v Bulgaria              4-1   @ Larnaca, Cyprus
+     (Constantinos Charalambides 11' Constantinos Charalambides 20' Michalis Konstantinou 58' Efstathios Aloneftis 78';
+      Dimitar Berbatov 44')
+  Czech Republic       v Poland                2-0   @ Prague, Czech Republic
+     (Tomáš Necid 51' Jaroslav Plašil 72')
+  Denmark              v Sweden                1-0   @ Copenhagen, Denmark
+     (Jakob Poulsen 78')
+  Ecuador              v Uruguay               1-2   @ Quito, Ecuador
+     (Antonio Valencia 68';
+      Luis Suárez 69' Diego Forlán 90'(p))
+  Estonia              v Bosnia and Herzegovina  0-2   @ Tallinn, Estonia
+     (Edin Džeko 30' Vedad Ibišević 64')
+  Finland              v Wales                 2-1   @ Helsinki, Finland
+     (Roni Porokara 5' Niklas Moisander 77';
+      Craig Bellamy 17')
+  France               v Faroe Islands         5-0   @ Guingamp, France
+     (André-Pierre Gignac 34' André-Pierre Gignac 38' William Gallas 52' Nicolas Anelka 86' Karim Benzema 88')
+  Gabon                v Morocco               3-1   @ Libreville, Gabon
+     (Hicham Mahdoufi 43'(og) Éric Mouloungui 65' Daniel Cousin 70';
+      Adel Taarabt 88')
+  Greece               v Latvia                5-2   @ Athens, Greece
+     (Theofanis Gekas 4' Theofanis Gekas 47'(p) Theofanis Gekas 57' Georgios Samaras 73' Theofanis Gekas 90';
+      Māris Verpakovskis 12' Māris Verpakovskis 40')
+  Honduras             v United States         2-3   @ San Pedro Sula, Honduras
+     (Julio César de León 47' Julio César de León 78';
+      Conor Casey 55' Conor Casey 66' Landon Donovan 71')
+  Republic of Ireland  v Italy                 2-2   @ Dublin, Republic of Ireland
+     (Glenn Whelan 8' Sean St Ledger 87';
+      Mauro Camoranesi 26' Alberto Gilardino 90')
+  Israel               v Moldova               3-1   @ Ramat Gan, Israel
+     (Elyaniv Barda 22' David Ben Dayan 65' Elyaniv Barda 70';
+      Denis Calincov 90')
+  Liechtenstein        v Azerbaijan            0-2   @ Vaduz, Liechtenstein
+     (Vagif Javadov 55' Elvin Mammadov 82')
+  Luxembourg           v Switzerland           0-3   @ Luxembourg, Luxembourg
+     (Philippe Senderos 6' Philippe Senderos 8' Benjamin Huggel 22')
+  Malawi               v Ivory Coast           1-1   @ Blantyre, Malawi
+     (Jacob Ngwira 64';
+      Didier Drogba 67')
+  Mexico               v El Salvador           4-1   @ Mexico City, Mexico
+     (Marvin González 25'(og) Cuauhtémoc Blanco 71' Francisco Palencia 85' Carlos Vela 90';
+      Julio Enrique Martínez 89')
+  Montenegro           v Georgia               2-1   @ Podgorica, Montenegro
+     (Radoslav Batak 13' Andrija Delibašić 78';
+      Vladimir Dvalishvili 45')
+  Portugal             v Hungary               3-0   @ Lisbon, Portugal
+     (Simão Sabrosa 18' Liédson 74' Simão Sabrosa 79')
+  Russia               v Germany               0-1   @ Moscow, Russia
+     (Miroslav Klose 35')
+  Serbia               v Romania               5-0   @ Belgrade, Serbia
+     (Nikola Žigić 37' Marko Pantelić 50' Zdravko Kuzmanović 78' Milan Jovanović 87' Milan Jovanović 90')
+  Slovakia             v Slovenia              0-2   @ Bratislava, Slovakia
+     (Valter Birsa 56' Nejc Pečnik 90')
+  Ukraine              v England               1-0   @ Dnipropetrovs'k, Ukraine
+     (Serhiy Nazarenko 29')
+  Venezuela            v Paraguay              1-2   @ Puerto Ordaz, Venezuela
+     (Alexander Rondón 85';
+      Salvador Cabañas 56' Óscar Cardozo 80')
+  Zambia               v Egypt                 0-1   @ Chililabombwe, Zambia
+     (Hosny Abd Rabo 69')
+Sun Oct 11
+  Algeria              v Rwanda                3-1   @ Blida, Algeria
+     (Abdelkader Ghezzal 22' Nadir Belhadj 45' Karim Ziani 90'(p);
+      Patrick Mutesa Mafisango 19')
+  Benin                v Ghana                 1-0   @ Cotonou, Benin
+     (Mohamed Aoudou 89')
+  Guinea               v Burkina Faso          1-2   @ Accra, Ghana
+     (Mamadou Bah 82';
+      Moumouni Dagano 37'(p) Habib Bamogo 59')
+  Mali                 v Sudan                 1-0   @ Bamako, Mali
+     (Frédéric Kanouté 89')
+  Nigeria              v Mozambique            1-0   @ Abuja, Nigeria
+     (Victor Obinna 90')
+  Bolivia              v Brazil                2-1   @ La Paz, Bolivia
+     (Edgar Olivares 10' Marcelo Martins Moreno 32';
+      Nilmar 70')
+  Tunisia              v Kenya                 1-0   @ Tunis, Tunisia
+     (Issam Jemâa 1')
+Wed Oct 14
+  Andorra              v Ukraine               0-6   @ Sant Julià de Lòria, Andorra
+     (Andriy Shevchenko 22' Oleh Husyev 61' Ildefons Lima 69'(og) Yaroslav Rakytskiy 80' Yevhen Seleznyov 81' Andriy Yarmolenko 83')
+  Azerbaijan           v Russia                1-1   @ Baku, Azerbaijan
+     (Vagif Javadov 54';
+      Andrey Arshavin 13')
+  Bosnia and Herzegovina v Spain                 2-5   @ Zenica, Bosnia and Herzegovina
+     (Edin Džeko 90' Zvjezdan Misimović 90';
+      Gerard Piqué 13' David Silva 14' Álvaro Negredo 50' Álvaro Negredo 55' Juan Mata 81')
+  Brazil               v Venezuela             0-0   @ Campo Grande, Brazil
+  Bulgaria             v Georgia               6-2   @ Sofia, Bulgaria
+     (Dimitar Berbatov 6' Martin Petrov 14' Dimitar Berbatov 23' Stanislav Angelov 31' Dimitar Berbatov 35' Martin Petrov 44';
+      Vladimir Dvalishvili 34' Levan Kobiashvili 51'(p))
+  Chile                v Ecuador               1-0   @ Santiago, Chile
+     (Humberto Suazo 53')
+  Czech Republic       v Northern Ireland      0-0   @ Prague, Czech Republic
+  Denmark              v Hungary               0-1   @ Copenhagen, Denmark
+     (Ákos Buzsáky 35')
+  El Salvador          v Honduras              0-1   @ San Salvador, El Salvador
+     (Carlos Pavón 64')
+  England              v Belarus               3-0   @ London, England
+     (Peter Crouch 4' Shaun Wright-Phillips 60' Peter Crouch 76')
+  Estonia              v Belgium               2-0   @ Tallinn, Estonia
+     (Raio Piiroja 30' Konstantin Vassiljev 67')
+  France               v Austria               3-1   @ Saint-Denis, France
+     (Karim Benzema 18' Thierry Henry 26'(p) André-Pierre Gignac 66';
+      Marc Janko 49')
+  Germany              v Finland               1-1   @ Hamburg, Germany
+     (Lukas Podolski 90';
+      Jonatan Johansson 11')
+  Greece               v Luxembourg            2-1   @ Athens, Greece
+     (Vasilis Torosidis 30' Theofanis Gekas 33';
+      Avraam Papadopoulos 90'(og))
+  Republic of Ireland  v Montenegro            0-0   @ Dublin, Republic of Ireland
+  Italy                v Cyprus                3-2   @ Parma, Italy
+     (Alberto Gilardino 78' Alberto Gilardino 81' Alberto Gilardino 90';
+      Constantinos Makrides 12' Chrysis Michael 48')
+  Kazakhstan           v Croatia               1-2   @ Astana, Kazakhstan
+     (Sergei Khizhnichenko 26';
+      Ognjen Vukojević 10' Niko Kranjčar 90')
+  Latvia               v Moldova               3-2   @ Riga, Latvia
+     (Andrejs Rubins 32' Andrejs Rubins 44' Kristaps Grebis 76';
+      Gheorghe Ovseannicov 25' Veaceslav Sofroni 90')
+  Liechtenstein        v Wales                 0-2   @ Vaduz, Liechtenstein
+     (David Vaughan 16' Aaron Ramsey 80')
+  Lithuania            v Serbia                2-1   @ Marijampolė, Lithuania
+     (Mindaugas Kalonas 20'(p) Marius Stankevičius 68'(p);
+      Zoran Tošić 60')
+  Paraguay             v Colombia              0-2   @ Asunción, Paraguay
+     (Adrián Ramos 61' Hugo Rodallega 80')
+  Peru                 v Bolivia               1-0   @ Lima, Peru
+     (Johan Fano 54')
+  Poland               v Slovakia              0-1   @ Chorzów, Poland
+     (Seweryn Gancarczyk 3'(og))
+  Portugal             v Malta                 4-0   @ Guimarães, Portugal
+     (Nani 14' Simão Sabrosa 45' Miguel Veloso 52' Edinho 90')
+  Romania              v Faroe Islands         3-1   @ Piatra Neamţ, Romania
+     (Iulian Apostol 16' Gheorghe Bucur 65' Ionuţ Mazilu 87';
+      Egil á Bø 83')
+  San Marino           v Slovenia              0-3   @ Serravalle, San Marino
+     (Milivoje Novaković 24' Dalibor Stevanović 68' Marko Šuler 81')
+  Sweden               v Albania               4-1   @ Solna, Sweden
+     (Olof Mellberg 6' Marcus Berg 40' Olof Mellberg 42' Anders Svensson 86';
+      Hamdi Salihi 56')
+  Switzerland          v Israel                0-0   @ Basel, Switzerland
+  Trinidad and Tobago  v Mexico                2-2   @ Port of Spain, Trinidad and Tobago
+     (Kerry Baptiste 23'(p) Kerry Baptiste 61';
+      Enrique Esqueda 57' Carlos Salcido 65')
+  Turkey               v Armenia               2-0   @ Bursa, Turkey
+     (Halil Altıntop 16' Servet Çetin 28')
+  Uruguay              v Argentina             0-1   @ Montevideo, Uruguay
+     (Mario Bolatti 84')
+  United States        v Costa Rica            2-2   @ Washington, D.C., United States
+     (Michael Bradley 72' Jonathan Bornstein 90';
+      Bryan Ruiz 21' Bryan Ruiz 24')
+Sat Nov 14
+  Burkina Faso         v Malawi                1-0   @ Ouagadougou, Burkina Faso
+     (Moumouni Dagano 47')
+  Costa Rica           v Uruguay               0-1   @ San José, Costa Rica
+     (Diego Lugano 21')
+  Egypt                v Algeria               2-0   @ Cairo, Egypt
+     (Amr Zaki 3' Emad Moteab 90')
+  Greece               v Ukraine               0-0   @ Athens, Greece
+  Republic of Ireland  v France                0-1   @ Dublin, Republic of Ireland
+     (Nicolas Anelka 72')
+  Ivory Coast          v Guinea                3-0   @ Abidjan, Ivory Coast
+     (Gervinho 16' Gervinho 31' Siaka Tiéné 67')
+  Kenya                v Nigeria               2-3   @ Nairobi, Kenya
+     (Dennis Oliech 15' Allan Wanga 77';
+      Obafemi Martins 60' Yakubu 64' Obafemi Martins 81')
+  Morocco              v Cameroon              0-2   @ Fez, Morocco
+     (Pierre Webó 19' Samuel Eto'o 52')
+  Mozambique           v Tunisia               1-0   @ Maputo, Mozambique
+     (Dário Monteiro 83')
+  New Zealand          v Bahrain               1-0   @ Wellington, New Zealand
+     (Rory Fallon 45')
+  Portugal             v Bosnia and Herzegovina  1-0   @ Lisbon, Portugal
+     (Bruno Alves 31')
+  Russia               v Slovenia              2-1   @ Moscow, Russia
+     (Diniyar Bilyaletdinov 40' Diniyar Bilyaletdinov 52';
+      Nejc Pečnik 88')
+  Rwanda               v Zambia                0-0   @ Kigali, Rwanda
+  Sudan                v Benin                 1-2   @ Omdurman, Sudan
+     (Hassan Korongo 45'(p);
+      Razak Omotoyossi 34'(p) Djiman Koukou 62')
+  Togo                 v Gabon                 1-0   @ Lomé, Togo
+     (Floyd Ayité 71')
+Sun Nov 15
+  Ghana                v Mali                  2-2   @ Kumasi, Ghana
+     (Matthew Amoah 65' Anthony Annan 83';
+      Lassana Fané 23' Tenema Ndiaye 68')
+Wed Nov 18
+  Algeria              v Egypt                 1-0   @ Omdurman, Sudan
+     (Antar Yahia 40')
+  Bosnia and Herzegovina v Portugal              0-1   @ Zenica, Bosnia and Herzegovina
+     (Raul Meireles 56')
+  France               v Republic of Ireland   1-1   @ Saint-Denis, France
+     (William Gallas 103';
+      Robbie Keane 32')
+  Slovenia             v Russia                1-0   @ Maribor, Slovenia
+     (Zlatko Dedić 44')
+  Ukraine              v Greece                0-1   @ Donetsk, Ukraine
+     (Dimitris Salpingidis 31')
+  Uruguay              v Costa Rica            1-1   @ Montevideo, Uruguay
+     (Sebastián Abreu 70';
+      Walter Centeno 74')
 

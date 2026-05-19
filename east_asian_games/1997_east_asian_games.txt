@@ -1,22 +1,22 @@
 = East Asian Games 1997
 
-# Date       Sun May/11 - Mon May/19 1997 (8d)
+# Date       Sun May 11 - Mon May 19 1997 (8d)
 # Teams      5
 # Matches    10
 
-[Sun May 11]
-  Mongolia - China PR  0-6   @ Busan, South Korea
-  Guam - Japan  0-12   @ Busan, South Korea
-[Tue May 13]
-  Kazakhstan - Guam  20-1   @ Busan, South Korea
-  Japan - Mongolia  5-0   @ Busan, South Korea
-[Thu May 15]
-  Guam - China PR  0-7   @ Busan, South Korea
-  Kazakhstan - Japan  2-2   @ Busan, South Korea
-[Sat May 17]
-  Mongolia - Kazakhstan  3-11   @ Busan, South Korea
-  China PR - Japan  2-0   @ Busan, South Korea
-[Mon May 19]
-  Guam - Mongolia  0-4   @ Busan, South Korea
-  China PR - Kazakhstan  0-0   @ Busan, South Korea
+Sun May 11
+  Mongolia             v China PR              0-6   @ Busan, South Korea
+  Guam                 v Japan                 0-12   @ Busan, South Korea
+Tue May 13
+  Kazakhstan           v Guam                  20-1   @ Busan, South Korea
+  Japan                v Mongolia              5-0   @ Busan, South Korea
+Thu May 15
+  Guam                 v China PR              0-7   @ Busan, South Korea
+  Kazakhstan           v Japan                 2-2   @ Busan, South Korea
+Sat May 17
+  Mongolia             v Kazakhstan            3-11   @ Busan, South Korea
+  China PR             v Japan                 2-0   @ Busan, South Korea
+Mon May 19
+  Guam                 v Mongolia              0-4   @ Busan, South Korea
+  China PR             v Kazakhstan            0-0   @ Busan, South Korea
 

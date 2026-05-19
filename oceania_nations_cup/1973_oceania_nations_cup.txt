@@ -1,45 +1,45 @@
 = Oceania Nations Cup 1973
 
-# Date       Sat Feb/17 - Sat Feb/24 1973 (7d)
+# Date       Sat Feb 17 - Sat Feb 24 1973 (7d)
 # Teams      5
 # Matches    12
 
-[Sat Feb 17]
-  New Caledonia - Tahiti  1-2   @ Auckland, New Zealand
-     Roger Mandin ??';
-     Erroll Bennett ??' Alexis Tumahai ??'
-  New Zealand - Fiji  5-1   @ Auckland, New Zealand
-     Brian Turner ??' Dave Taylor ??' Geoff Brand ??' Malcolm Bland ??' Alan Vest ??';
-     Terio Vakatawa ??'
-[Sun Feb 18]
-  New Caledonia - Vanuatu  4-1   @ Auckland, New Zealand
-     Jean Hmae ??' Jean Hmae ??' Segin Wayewol ??' Pierre Wacapo ??';
-     Michael Dupuy ??'
-  New Zealand - Tahiti  1-1   @ Auckland, New Zealand
-     Alan Vest ??';
-     Erroll Bennett ??'
-[Tue Feb 20]
-  Fiji - New Caledonia  0-2   @ Auckland, New Zealand
-     -; Segin Wayewol ??' Segin Wayewol ??'
-  Vanuatu - Tahiti  0-1   @ Auckland, New Zealand
-     -; Erroll Bennett ??'
-[Wed Feb 21]
-  Fiji - Vanuatu  1-2   @ Auckland, New Zealand
-     Josateki Kurivitu ??';
-     Alick Saurei ??' Jacky Valette ??'
-  New Zealand - New Caledonia  2-1   @ Auckland, New Zealand
-     Alan Marley ??' Colin Latimour ??';
-     Jean Xowie ??'
-[Fri Feb 23]
-  Fiji - Tahiti  0-4   @ Auckland, New Zealand
-     -; Claude Carrara ??' Harold Ng Fok ??' Gilles Malinowski ??' Roland de Marigny ??'
-  New Zealand - Vanuatu  3-1   @ Auckland, New Zealand
-     Malcolm Bland ??' Brian Hardman ??' Alan Marley ??';
-     Raymond Valette ??'
-[Sat Feb 24]
-  New Caledonia - Vanuatu  2-1   @ Auckland, New Zealand
-     Gerald Delmas ??' Jean Xowie ??';
-     Charles Galinie ??'
-  New Zealand - Tahiti  2-0   @ Auckland, New Zealand
-     Dave Taylor ??' Alan Marley ??'
+Sat Feb 17
+  New Caledonia        v Tahiti                1-2   @ Auckland, New Zealand
+     (Roger Mandin ??';
+      Erroll Bennett ??' Alexis Tumahai ??')
+  New Zealand          v Fiji                  5-1   @ Auckland, New Zealand
+     (Brian Turner ??' Dave Taylor ??' Geoff Brand ??' Malcolm Bland ??' Alan Vest ??';
+      Terio Vakatawa ??')
+Sun Feb 18
+  New Caledonia        v Vanuatu               4-1   @ Auckland, New Zealand
+     (Jean Hmae ??' Jean Hmae ??' Segin Wayewol ??' Pierre Wacapo ??';
+      Michael Dupuy ??')
+  New Zealand          v Tahiti                1-1   @ Auckland, New Zealand
+     (Alan Vest ??';
+      Erroll Bennett ??')
+Tue Feb 20
+  Fiji                 v New Caledonia         0-2   @ Auckland, New Zealand
+     (Segin Wayewol ??' Segin Wayewol ??')
+  Vanuatu              v Tahiti                0-1   @ Auckland, New Zealand
+     (Erroll Bennett ??')
+Wed Feb 21
+  Fiji                 v Vanuatu               1-2   @ Auckland, New Zealand
+     (Josateki Kurivitu ??';
+      Alick Saurei ??' Jacky Valette ??')
+  New Zealand          v New Caledonia         2-1   @ Auckland, New Zealand
+     (Alan Marley ??' Colin Latimour ??';
+      Jean Xowie ??')
+Fri Feb 23
+  Fiji                 v Tahiti                0-4   @ Auckland, New Zealand
+     (Claude Carrara ??' Harold Ng Fok ??' Gilles Malinowski ??' Roland de Marigny ??')
+  New Zealand          v Vanuatu               3-1   @ Auckland, New Zealand
+     (Malcolm Bland ??' Brian Hardman ??' Alan Marley ??';
+      Raymond Valette ??')
+Sat Feb 24
+  New Caledonia        v Vanuatu               2-1   @ Auckland, New Zealand
+     (Gerald Delmas ??' Jean Xowie ??';
+      Charles Galinie ??')
+  New Zealand          v Tahiti                2-0   @ Auckland, New Zealand
+     (Dave Taylor ??' Alan Marley ??')
 

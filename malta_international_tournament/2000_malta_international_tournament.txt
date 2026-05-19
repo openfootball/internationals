@@ -1,16 +1,16 @@
 = Malta International Tournament 2000
 
-# Date       Sun Feb/6 - Thu Feb/10 2000 (4d)
+# Date       Sun Feb 6 - Thu Feb 10 2000 (4d)
 # Teams      4
 # Matches    6
 
-[Sun Feb 6]
-  Albania - Andorra  3-0   @ Attard, Malta
-  Malta - Azerbaijan  3-0   @ Attard, Malta
-[Tue Feb 8]
-  Albania - Azerbaijan  1-0   @ Attard, Malta
-  Malta - Andorra  1-1   @ Attard, Malta
-[Thu Feb 10]
-  Andorra - Azerbaijan  0-0   @ Attard, Malta
-  Malta - Albania  0-1   @ Attard, Malta
+Sun Feb 6
+  Albania              v Andorra               3-0   @ Attard, Malta
+  Malta                v Azerbaijan            3-0   @ Attard, Malta
+Tue Feb 8
+  Albania              v Azerbaijan            1-0   @ Attard, Malta
+  Malta                v Andorra               1-1   @ Attard, Malta
+Thu Feb 10
+  Andorra              v Azerbaijan            0-0   @ Attard, Malta
+  Malta                v Albania               0-1   @ Attard, Malta
 

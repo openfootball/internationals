@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 1980
 
-# Date       Tue Aug/26 - Thu Sep/18 1980 (23d)
+# Date       Tue Aug 26 - Thu Sep 18 1980 (23d)
 # Teams      2
 # Matches    2
 
-[Tue Aug 26]
-  Bolivia - Paraguay  1-1   @ La Paz, Bolivia
-[Thu Sep 18]
-  Paraguay - Bolivia  2-1   @ Asunción, Paraguay
+Tue Aug 26
+  Bolivia              v Paraguay              1-1   @ La Paz, Bolivia
+Thu Sep 18
+  Paraguay             v Bolivia               2-1   @ Asunción, Paraguay
 

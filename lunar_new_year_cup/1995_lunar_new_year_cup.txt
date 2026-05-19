@@ -1,11 +1,11 @@
 = Lunar New Year Cup 1995
 
-# Date       Tue Jan/31 - Sat Feb/4 1995 (4d)
+# Date       Tue Jan 31 - Sat Feb 4 1995 (4d)
 # Teams      3
 # Matches    2
 
-[Tue Jan 31]
-  South Korea - Colombia  1-0   @ So Kon Po, Hong Kong
-[Sat Feb 4]
-  South Korea - Serbia  0-1   @ So Kon Po, Hong Kong
+Tue Jan 31
+  South Korea          v Colombia              1-0   @ So Kon Po, Hong Kong
+Sat Feb 4
+  South Korea          v Serbia                0-1   @ So Kon Po, Hong Kong
 

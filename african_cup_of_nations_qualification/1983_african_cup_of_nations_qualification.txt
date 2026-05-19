@@ -1,52 +1,52 @@
 = African Cup of Nations qualification 1983
 
-# Date       Sun Apr/3 - Sun Aug/28 1983 (147d)
+# Date       Sun Apr 3 - Sun Aug 28 1983 (147d)
 # Teams      23
 # Matches    34
 
-[Sun Apr 3]
-  Mozambique - Cameroon  3-0   @ Maputo, Mozambique
-[Fri Apr 8]
-  Algeria - Benin  6-2   @ Algiers, Algeria
-  Libya - Senegal  2-1   @ Tripoli, Libya
-[Sat Apr 9]
-  Nigeria - Angola  2-0   @ Lagos, Nigeria
-[Sun Apr 10]
-  Congo - Egypt  2-0   @ Brazzaville, Congo
-  Ethiopia - Mauritius  1-0   @ Addis Ababa, Ethiopia
-  Guinea - Togo  0-1   @ Conakry, Guinea
-  Madagascar - Uganda  1-0   @ Antananarivo, Madagascar
-  Morocco - Mali  4-0   @ Rabat, Morocco
-  Sudan - Zambia  2-1   @ Khartoum, Sudan
-  Tunisia - Rwanda  5-0   @ Tunis, Tunisia
-[Fri Apr 22]
-  Egypt - Congo  2-0   @ Cairo, Egypt   [Egypt wins on penalties]
-[Sun Apr 24]
-  Angola - Nigeria  1-0   @ Luanda, Angola
-  Cameroon - Mozambique  4-0   @ Yaoundé, Cameroon
-  Mali - Morocco  2-0   @ Bamako, Mali
-  Mauritius - Ethiopia  1-0   @ Curepipe, Mauritius   [Ethiopia wins on penalties]
-  Rwanda - Tunisia  0-1   @ Kigali, Rwanda
-  Senegal - Libya  1-0   @ Dakar, Senegal
-  Togo - Guinea  2-0   @ Lomé, Togo
-  Uganda - Madagascar  1-2   @ Kampala, Uganda
-  Zambia - Sudan  0-0   @ Lusaka, Zambia
-[Tue Apr 26]
-  Benin - Algeria  6-2   @ Cotonou, Benin
-[Sun Jul 3]
-  Ethiopia - Togo  2-1   @ Addis Ababa, Ethiopia
-[Sat Aug 13]
-  Senegal - Algeria  1-1   @ Dakar, Senegal
-[Sun Aug 14]
-  Cameroon - Sudan  5-0   @ Yaoundé, Cameroon
-  Egypt - Tunisia  1-0   @ Cairo, Egypt
-  Madagascar - Malawi  0-1   @ Antananarivo, Madagascar
-  Nigeria - Morocco  0-0   @ Benin City, Nigeria
-[Sun Aug 28]
-  Algeria - Senegal  2-0   @ Algiers, Algeria
-  Malawi - Madagascar  1-1   @ Blantyre, Malawi
-  Morocco - Nigeria  0-0   @ Rabat, Morocco   [Nigeria wins on penalties]
-  Sudan - Cameroon  2-0   @ Khartoum, Sudan
-  Togo - Ethiopia  3-0   @ Lomé, Togo
-  Tunisia - Egypt  0-0   @ Tunis, Tunisia
+Sun Apr 3
+  Mozambique           v Cameroon              3-0   @ Maputo, Mozambique
+Fri Apr 8
+  Algeria              v Benin                 6-2   @ Algiers, Algeria
+  Libya                v Senegal               2-1   @ Tripoli, Libya
+Sat Apr 9
+  Nigeria              v Angola                2-0   @ Lagos, Nigeria
+Sun Apr 10
+  Congo                v Egypt                 2-0   @ Brazzaville, Congo
+  Ethiopia             v Mauritius             1-0   @ Addis Ababa, Ethiopia
+  Guinea               v Togo                  0-1   @ Conakry, Guinea
+  Madagascar           v Uganda                1-0   @ Antananarivo, Madagascar
+  Morocco              v Mali                  4-0   @ Rabat, Morocco
+  Sudan                v Zambia                2-1   @ Khartoum, Sudan
+  Tunisia              v Rwanda                5-0   @ Tunis, Tunisia
+Fri Apr 22
+  Egypt                v Congo                 2-0   @ Cairo, Egypt   [Egypt wins on penalties]
+Sun Apr 24
+  Angola               v Nigeria               1-0   @ Luanda, Angola
+  Cameroon             v Mozambique            4-0   @ Yaoundé, Cameroon
+  Mali                 v Morocco               2-0   @ Bamako, Mali
+  Mauritius            v Ethiopia              1-0   @ Curepipe, Mauritius   [Ethiopia wins on penalties]
+  Rwanda               v Tunisia               0-1   @ Kigali, Rwanda
+  Senegal              v Libya                 1-0   @ Dakar, Senegal
+  Togo                 v Guinea                2-0   @ Lomé, Togo
+  Uganda               v Madagascar            1-2   @ Kampala, Uganda
+  Zambia               v Sudan                 0-0   @ Lusaka, Zambia
+Tue Apr 26
+  Benin                v Algeria               6-2   @ Cotonou, Benin
+Sun Jul 3
+  Ethiopia             v Togo                  2-1   @ Addis Ababa, Ethiopia
+Sat Aug 13
+  Senegal              v Algeria               1-1   @ Dakar, Senegal
+Sun Aug 14
+  Cameroon             v Sudan                 5-0   @ Yaoundé, Cameroon
+  Egypt                v Tunisia               1-0   @ Cairo, Egypt
+  Madagascar           v Malawi                0-1   @ Antananarivo, Madagascar
+  Nigeria              v Morocco               0-0   @ Benin City, Nigeria
+Sun Aug 28
+  Algeria              v Senegal               2-0   @ Algiers, Algeria
+  Malawi               v Madagascar            1-1   @ Blantyre, Malawi
+  Morocco              v Nigeria               0-0   @ Rabat, Morocco   [Nigeria wins on penalties]
+  Sudan                v Cameroon              2-0   @ Khartoum, Sudan
+  Togo                 v Ethiopia              3-0   @ Lomé, Togo
+  Tunisia              v Egypt                 0-0   @ Tunis, Tunisia
 

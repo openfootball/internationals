@@ -1,44 +1,44 @@
 = CECAFA Cup 2005
 
-# Date       Sat Nov/26 - Sat Dec/10 2005 (14d)
+# Date       Sat Nov 26 - Sat Dec 10 2005 (14d)
 # Teams      10
 # Matches    24
 
-[Sat Nov 26]
-  Rwanda - Zanzibar  0-1   @ Kigali, Rwanda
-[Sun Nov 27]
-  Djibouti - Somalia  1-2   @ Kigali, Rwanda
-  Ethiopia - Uganda  0-0   @ Kigali, Rwanda
-[Mon Nov 28]
-  Burundi - Tanzania  1-2   @ Kigali, Rwanda
-  Eritrea - Zanzibar  0-3   @ Kigali, Rwanda
-[Tue Nov 29]
-  Somalia - Sudan  1-4   @ Kigali, Rwanda
-[Wed Nov 30]
-  Burundi - Zanzibar  1-2   @ Kigali, Rwanda
-  Djibouti - Uganda  1-6   @ Kigali, Rwanda
-  Rwanda - Eritrea  3-2   @ Kigali, Rwanda
-[Thu Dec 1]
-  Ethiopia - Sudan  3-1   @ Kigali, Rwanda
-  Somalia - Uganda  0-7   @ Kigali, Rwanda
-[Fri Dec 2]
-  Burundi - Eritrea  0-0   @ Kigali, Rwanda
-  Tanzania - Zanzibar  1-1   @ Kigali, Rwanda
-[Sat Dec 3]
-  Djibouti - Ethiopia  0-6   @ Kigali, Rwanda
-  Sudan - Uganda  0-3   @ Kigali, Rwanda
-[Sun Dec 4]
-  Eritrea - Tanzania  0-1   @ Kigali, Rwanda
-  Rwanda - Burundi  2-0   @ Kigali, Rwanda
-[Mon Dec 5]
-  Djibouti - Sudan  0-4   @ Kigali, Rwanda
-  Ethiopia - Somalia  3-1   @ Kigali, Rwanda
-[Tue Dec 6]
-  Rwanda - Tanzania  3-1   @ Kigali, Rwanda
-[Thu Dec 8]
-  Rwanda - Uganda  1-0   @ Kigali, Rwanda
-  Zanzibar - Ethiopia  0-4   @ Kigali, Rwanda
-[Sat Dec 10]
-  Rwanda - Ethiopia  0-1   @ Kigali, Rwanda
-  Zanzibar - Uganda  0-0   @ Kigali, Rwanda   [Zanzibar wins on penalties]
+Sat Nov 26
+  Rwanda               v Zanzibar              0-1   @ Kigali, Rwanda
+Sun Nov 27
+  Djibouti             v Somalia               1-2   @ Kigali, Rwanda
+  Ethiopia             v Uganda                0-0   @ Kigali, Rwanda
+Mon Nov 28
+  Burundi              v Tanzania              1-2   @ Kigali, Rwanda
+  Eritrea              v Zanzibar              0-3   @ Kigali, Rwanda
+Tue Nov 29
+  Somalia              v Sudan                 1-4   @ Kigali, Rwanda
+Wed Nov 30
+  Burundi              v Zanzibar              1-2   @ Kigali, Rwanda
+  Djibouti             v Uganda                1-6   @ Kigali, Rwanda
+  Rwanda               v Eritrea               3-2   @ Kigali, Rwanda
+Thu Dec 1
+  Ethiopia             v Sudan                 3-1   @ Kigali, Rwanda
+  Somalia              v Uganda                0-7   @ Kigali, Rwanda
+Fri Dec 2
+  Burundi              v Eritrea               0-0   @ Kigali, Rwanda
+  Tanzania             v Zanzibar              1-1   @ Kigali, Rwanda
+Sat Dec 3
+  Djibouti             v Ethiopia              0-6   @ Kigali, Rwanda
+  Sudan                v Uganda                0-3   @ Kigali, Rwanda
+Sun Dec 4
+  Eritrea              v Tanzania              0-1   @ Kigali, Rwanda
+  Rwanda               v Burundi               2-0   @ Kigali, Rwanda
+Mon Dec 5
+  Djibouti             v Sudan                 0-4   @ Kigali, Rwanda
+  Ethiopia             v Somalia               3-1   @ Kigali, Rwanda
+Tue Dec 6
+  Rwanda               v Tanzania              3-1   @ Kigali, Rwanda
+Thu Dec 8
+  Rwanda               v Uganda                1-0   @ Kigali, Rwanda
+  Zanzibar             v Ethiopia              0-4   @ Kigali, Rwanda
+Sat Dec 10
+  Rwanda               v Ethiopia              0-1   @ Kigali, Rwanda
+  Zanzibar             v Uganda                0-0   @ Kigali, Rwanda   [Zanzibar wins on penalties]
 

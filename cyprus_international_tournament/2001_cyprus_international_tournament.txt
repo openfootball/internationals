@@ -1,13 +1,13 @@
 = Cyprus International Tournament 2001
 
-# Date       Mon Feb/26 - Wed Feb/28 2001 (2d)
+# Date       Mon Feb 26 - Wed Feb 28 2001 (2d)
 # Teams      4
 # Matches    4
 
-[Mon Feb 26]
-  Cyprus - Lithuania  1-2   @ Limassol, Cyprus
-  Romania - Ukraine  1-0   @ Nicosia, Cyprus
-[Wed Feb 28]
-  Cyprus - Ukraine  4-3   @ Larnaca, Cyprus
-  Lithuania - Romania  0-3   @ Nicosia, Cyprus
+Mon Feb 26
+  Cyprus               v Lithuania             1-2   @ Limassol, Cyprus
+  Romania              v Ukraine               1-0   @ Nicosia, Cyprus
+Wed Feb 28
+  Cyprus               v Ukraine               4-3   @ Larnaca, Cyprus
+  Lithuania            v Romania               0-3   @ Nicosia, Cyprus
 

@@ -1,17 +1,17 @@
 = Balkan Cup 1933
 
-# Date       Sat Jun/3 - Sun Jun/11 1933 (8d)
+# Date       Sat Jun 3 - Sun Jun 11 1933 (8d)
 # Teams      4
 # Matches    5
 
-[Sat Jun 3]
-  Greece - Yugoslavia  3-5   @ Bucharest, Romania
-[Sun Jun 4]
-  Romania - Bulgaria  7-0   @ Bucharest, Romania
-[Wed Jun 7]
-  Bulgaria - Yugoslavia  0-4   @ Bucharest, Romania
-[Sat Jun 10]
-  Bulgaria - Greece  2-0   @ Bucharest, Romania
-[Sun Jun 11]
-  Romania - Yugoslavia  5-0   @ Bucharest, Romania
+Sat Jun 3
+  Greece               v Yugoslavia            3-5   @ Bucharest, Romania
+Sun Jun 4
+  Romania              v Bulgaria              7-0   @ Bucharest, Romania
+Wed Jun 7
+  Bulgaria             v Yugoslavia            0-4   @ Bucharest, Romania
+Sat Jun 10
+  Bulgaria             v Greece                2-0   @ Bucharest, Romania
+Sun Jun 11
+  Romania              v Yugoslavia            5-0   @ Bucharest, Romania
 

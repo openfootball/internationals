@@ -1,11 +1,11 @@
 = Copa Roca 1957
 
-# Date       Sun Jul/7 - Wed Jul/10 1957 (3d)
+# Date       Sun Jul 7 - Wed Jul 10 1957 (3d)
 # Teams      2
 # Matches    2
 
-[Sun Jul 7]
-  Brazil - Argentina  1-2   @ Rio de Janeiro, Brazil
-[Wed Jul 10]
-  Brazil - Argentina  2-0   @ São Paulo, Brazil
+Sun Jul 7
+  Brazil               v Argentina             1-2   @ Rio de Janeiro, Brazil
+Wed Jul 10
+  Brazil               v Argentina             2-0   @ São Paulo, Brazil
 

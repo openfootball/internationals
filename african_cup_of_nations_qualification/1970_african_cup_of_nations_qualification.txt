@@ -1,37 +1,37 @@
 = African Cup of Nations qualification 1970
 
-# Date       Sat Oct/17 - Sun Dec/27 1970 (71d)
+# Date       Sat Oct 17 - Sun Dec 27 1970 (71d)
 # Teams      20
 # Matches    19
 
-[Sat Oct 17]
-  Tanzania - Zambia  1-1   @ Dar es Salaam, Tanzania
-[Sun Nov 1]
-  Zambia - Tanzania  5-1   @ Lusaka, Zambia
-[Sun Nov 8]
-  Gabon - Ivory Coast  1-2   @ Libreville, Gabon
-  Nigeria - Congo  0-0   @ Ibadan, Nigeria
-  Togo - Benin  2-1   @ Lomé, Togo
-  Uganda - DR Congo  1-4   @ Kampala, Uganda
-[Sun Nov 15]
-  Madagascar - Mauritius  2-1   @ Antananarivo, Madagascar
-[Sun Nov 22]
-  Kenya - Ethiopia  2-0   @ Nairobi, Kenya
-  Benin - Togo  0-0   @ Porto-Novo, Dahomey
-  Congo - Nigeria  2-1   @ Brazzaville, Congo
-  Ivory Coast - Gabon  1-0   @ Abidjan, Ivory Coast
-[Tue Nov 24]
-  DR Congo - Uganda  1-0   @ Kinshasa, Congo-Kinshasa
-[Sun Nov 29]
-  Mauritius - Madagascar  4-1   @ Port Louis, Mauritius
-[Thu Dec 10]
-  Algeria - Morocco  3-1   @ Algiers, Algeria
-[Sat Dec 12]
-  Niger - Mali  0-1   @ Niamey, Niger
-[Tue Dec 15]
-  Ethiopia - Kenya  0-1   @ Addis Ababa, Ethiopia
-[Sun Dec 27]
-  Libya - Egypt  0-1   @ Tripoli, Libya
-  Mali - Niger  3-1   @ Bamako, Mali
-  Morocco - Algeria  3-0   @ Casablanca, Morocco
+Sat Oct 17
+  Tanzania             v Zambia                1-1   @ Dar es Salaam, Tanzania
+Sun Nov 1
+  Zambia               v Tanzania              5-1   @ Lusaka, Zambia
+Sun Nov 8
+  Gabon                v Ivory Coast           1-2   @ Libreville, Gabon
+  Nigeria              v Congo                 0-0   @ Ibadan, Nigeria
+  Togo                 v Benin                 2-1   @ Lomé, Togo
+  Uganda               v DR Congo              1-4   @ Kampala, Uganda
+Sun Nov 15
+  Madagascar           v Mauritius             2-1   @ Antananarivo, Madagascar
+Sun Nov 22
+  Kenya                v Ethiopia              2-0   @ Nairobi, Kenya
+  Benin                v Togo                  0-0   @ Porto-Novo, Dahomey
+  Congo                v Nigeria               2-1   @ Brazzaville, Congo
+  Ivory Coast          v Gabon                 1-0   @ Abidjan, Ivory Coast
+Tue Nov 24
+  DR Congo             v Uganda                1-0   @ Kinshasa, Congo-Kinshasa
+Sun Nov 29
+  Mauritius            v Madagascar            4-1   @ Port Louis, Mauritius
+Thu Dec 10
+  Algeria              v Morocco               3-1   @ Algiers, Algeria
+Sat Dec 12
+  Niger                v Mali                  0-1   @ Niamey, Niger
+Tue Dec 15
+  Ethiopia             v Kenya                 0-1   @ Addis Ababa, Ethiopia
+Sun Dec 27
+  Libya                v Egypt                 0-1   @ Tripoli, Libya
+  Mali                 v Niger                 3-1   @ Bamako, Mali
+  Morocco              v Algeria               3-0   @ Casablanca, Morocco
 

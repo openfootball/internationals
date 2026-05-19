@@ -1,46 +1,46 @@
 = CECAFA Cup 2013
 
-# Date       Wed Nov/27 - Thu Dec/12 2013 (15d)
+# Date       Wed Nov 27 - Thu Dec 12 2013 (15d)
 # Teams      12
 # Matches    26
 
-[Wed Nov 27]
-  Kenya - Ethiopia  0-0   @ Nairobi, Kenya
-  Zanzibar - South Sudan  2-1   @ Nairobi, Kenya
-[Thu Nov 28]
-  Burundi - Somalia  2-0   @ Machakos, Kenya
-  Tanzania - Zambia  1-1   @ Machakos, Kenya
-[Fri Nov 29]
-  Sudan - Eritrea  3-0   @ Machakos, Kenya
-  Uganda - Rwanda  1-0   @ Nairobi, Kenya
-[Sat Nov 30]
-  Ethiopia - Zanzibar  3-1   @ Nairobi, Kenya
-  Kenya - South Sudan  3-1   @ Nairobi, Kenya
-[Sun Dec 1]
-  Somalia - Tanzania  0-1   @ Nairobi, Kenya
-  Zambia - Burundi  1-0   @ Nairobi, Kenya
-[Mon Dec 2]
-  Eritrea - Uganda  0-3   @ Machakos, Kenya
-  Sudan - Rwanda  1-0   @ Machakos, Kenya
-[Tue Dec 3]
-  Kenya - Zanzibar  2-0   @ Nakuru, Kenya
-  South Sudan - Ethiopia  0-2   @ Nakuru, Kenya
-[Wed Dec 4]
-  Somalia - Zambia  0-4   @ Nakuru, Kenya
-  Tanzania - Burundi  1-0   @ Nakuru, Kenya
-[Thu Dec 5]
-  Rwanda - Eritrea  1-0   @ Nakuru, Kenya
-  Uganda - Sudan  1-0   @ Nakuru, Kenya
-[Sat Dec 7]
-  Kenya - Rwanda  1-0   @ Mombasa, Kenya
-  Uganda - Tanzania  2-2   @ Mombasa, Kenya
-[Sun Dec 8]
-  Ethiopia - Sudan  0-2   @ Mombasa, Kenya
-  Zambia - Burundi  4-3   @ Mombasa, Kenya
-[Tue Dec 10]
-  Kenya - Tanzania  1-0   @ Nairobi, Kenya
-  Zambia - Sudan  1-2   @ Mombasa, Kenya
-[Thu Dec 12]
-  Kenya - Sudan  2-0   @ Nairobi, Kenya
-  Tanzania - Zambia  1-1   @ Nairobi, Kenya
+Wed Nov 27
+  Kenya                v Ethiopia              0-0   @ Nairobi, Kenya
+  Zanzibar             v South Sudan           2-1   @ Nairobi, Kenya
+Thu Nov 28
+  Burundi              v Somalia               2-0   @ Machakos, Kenya
+  Tanzania             v Zambia                1-1   @ Machakos, Kenya
+Fri Nov 29
+  Sudan                v Eritrea               3-0   @ Machakos, Kenya
+  Uganda               v Rwanda                1-0   @ Nairobi, Kenya
+Sat Nov 30
+  Ethiopia             v Zanzibar              3-1   @ Nairobi, Kenya
+  Kenya                v South Sudan           3-1   @ Nairobi, Kenya
+Sun Dec 1
+  Somalia              v Tanzania              0-1   @ Nairobi, Kenya
+  Zambia               v Burundi               1-0   @ Nairobi, Kenya
+Mon Dec 2
+  Eritrea              v Uganda                0-3   @ Machakos, Kenya
+  Sudan                v Rwanda                1-0   @ Machakos, Kenya
+Tue Dec 3
+  Kenya                v Zanzibar              2-0   @ Nakuru, Kenya
+  South Sudan          v Ethiopia              0-2   @ Nakuru, Kenya
+Wed Dec 4
+  Somalia              v Zambia                0-4   @ Nakuru, Kenya
+  Tanzania             v Burundi               1-0   @ Nakuru, Kenya
+Thu Dec 5
+  Rwanda               v Eritrea               1-0   @ Nakuru, Kenya
+  Uganda               v Sudan                 1-0   @ Nakuru, Kenya
+Sat Dec 7
+  Kenya                v Rwanda                1-0   @ Mombasa, Kenya
+  Uganda               v Tanzania              2-2   @ Mombasa, Kenya
+Sun Dec 8
+  Ethiopia             v Sudan                 0-2   @ Mombasa, Kenya
+  Zambia               v Burundi               4-3   @ Mombasa, Kenya
+Tue Dec 10
+  Kenya                v Tanzania              1-0   @ Nairobi, Kenya
+  Zambia               v Sudan                 1-2   @ Mombasa, Kenya
+Thu Dec 12
+  Kenya                v Sudan                 2-0   @ Nairobi, Kenya
+  Tanzania             v Zambia                1-1   @ Nairobi, Kenya
 

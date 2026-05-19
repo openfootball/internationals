@@ -1,19 +1,19 @@
 = British Home Championship 1952
 
-# Date       Wed Mar/19 - Wed Nov/12 1952 (238d)
+# Date       Wed Mar 19 - Wed Nov 12 1952 (238d)
 # Teams      4
 # Matches    6
 
-[Wed Mar 19]
-  Wales - Northern Ireland  3-0   @ Swansea, Wales
-[Sat Apr 5]
-  Scotland - England  1-2   @ Glasgow, Scotland
-[Sat Oct 4]
-  Northern Ireland - England  2-2   @ Belfast, Northern Ireland
-[Sat Oct 18]
-  Wales - Scotland  1-2   @ Cardiff, Wales
-[Wed Nov 5]
-  Scotland - Northern Ireland  1-1   @ Glasgow, Scotland
-[Wed Nov 12]
-  England - Wales  5-2   @ London, England
+Wed Mar 19
+  Wales                v Northern Ireland      3-0   @ Swansea, Wales
+Sat Apr 5
+  Scotland             v England               1-2   @ Glasgow, Scotland
+Sat Oct 4
+  Northern Ireland     v England               2-2   @ Belfast, Northern Ireland
+Sat Oct 18
+  Wales                v Scotland              1-2   @ Cardiff, Wales
+Wed Nov 5
+  Scotland             v Northern Ireland      1-1   @ Glasgow, Scotland
+Wed Nov 12
+  England              v Wales                 5-2   @ London, England
 

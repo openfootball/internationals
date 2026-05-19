@@ -1,49 +1,49 @@
 = AFF Championship 2018
 
-# Date       Thu Nov/8 - Sat Dec/15 2018 (37d)
+# Date       Thu Nov 8 - Sat Dec 15 2018 (37d)
 # Teams      10
 # Matches    26
 
-[Thu Nov 8]
-  Cambodia - Malaysia  0-1   @ Phnom Penh, Cambodia
-  Laos - Vietnam  0-3   @ Vientiane, Laos
-[Fri Nov 9]
-  Singapore - Indonesia  1-0   @ Kallang, Singapore
-  Thailand - Timor-Leste  7-0   @ Bangkok, Thailand
-[Mon Nov 12]
-  Myanmar - Cambodia  4-1   @ Mandalay, Myanmar
-  Malaysia - Laos  3-1   @ Kuala Lumpur, Malaysia
-[Tue Nov 13]
-  Indonesia - Timor-Leste  3-1   @ Jakarta, Indonesia
-  Philippines - Singapore  1-0   @ Bacolod, Philippines
-[Fri Nov 16]
-  Laos - Myanmar  1-3   @ Vientiane, Laos
-  Vietnam - Malaysia  2-0   @ Hanoi, Vietnam
-[Sat Nov 17]
-  Thailand - Indonesia  4-2   @ Bangkok, Thailand
-  Timor-Leste - Philippines  2-3   @ Kuala Lumpur, Malaysia
-[Tue Nov 20]
-  Myanmar - Vietnam  0-0   @ Yangon, Myanmar
-  Cambodia - Laos  3-1   @ Phnom Penh, Cambodia
-[Wed Nov 21]
-  Philippines - Thailand  1-1   @ Bacolod, Philippines
-  Singapore - Timor-Leste  6-1   @ Kallang, Singapore
-[Sat Nov 24]
-  Vietnam - Cambodia  3-0   @ Hanoi, Vietnam
-  Malaysia - Myanmar  3-0   @ Kuala Lumpur, Malaysia
-[Sun Nov 25]
-  Indonesia - Philippines  0-0   @ Jakarta, Indonesia
-  Thailand - Singapore  3-0   @ Bangkok, Thailand
-[Sat Dec 1]
-  Malaysia - Thailand  0-0   @ Kuala Lumpur, Malaysia
-[Sun Dec 2]
-  Philippines - Vietnam  1-2   @ Bacolod, Philippines
-[Wed Dec 5]
-  Thailand - Malaysia  2-2   @ Bangkok, Thailand
-[Thu Dec 6]
-  Vietnam - Philippines  2-1   @ Hanoi, Vietnam
-[Tue Dec 11]
-  Malaysia - Vietnam  2-2   @ Kuala Lumpur, Malaysia
-[Sat Dec 15]
-  Vietnam - Malaysia  1-0   @ Hanoi, Vietnam
+Thu Nov 8
+  Cambodia             v Malaysia              0-1   @ Phnom Penh, Cambodia
+  Laos                 v Vietnam               0-3   @ Vientiane, Laos
+Fri Nov 9
+  Singapore            v Indonesia             1-0   @ Kallang, Singapore
+  Thailand             v Timor-Leste           7-0   @ Bangkok, Thailand
+Mon Nov 12
+  Myanmar              v Cambodia              4-1   @ Mandalay, Myanmar
+  Malaysia             v Laos                  3-1   @ Kuala Lumpur, Malaysia
+Tue Nov 13
+  Indonesia            v Timor-Leste           3-1   @ Jakarta, Indonesia
+  Philippines          v Singapore             1-0   @ Bacolod, Philippines
+Fri Nov 16
+  Laos                 v Myanmar               1-3   @ Vientiane, Laos
+  Vietnam              v Malaysia              2-0   @ Hanoi, Vietnam
+Sat Nov 17
+  Thailand             v Indonesia             4-2   @ Bangkok, Thailand
+  Timor-Leste          v Philippines           2-3   @ Kuala Lumpur, Malaysia
+Tue Nov 20
+  Myanmar              v Vietnam               0-0   @ Yangon, Myanmar
+  Cambodia             v Laos                  3-1   @ Phnom Penh, Cambodia
+Wed Nov 21
+  Philippines          v Thailand              1-1   @ Bacolod, Philippines
+  Singapore            v Timor-Leste           6-1   @ Kallang, Singapore
+Sat Nov 24
+  Vietnam              v Cambodia              3-0   @ Hanoi, Vietnam
+  Malaysia             v Myanmar               3-0   @ Kuala Lumpur, Malaysia
+Sun Nov 25
+  Indonesia            v Philippines           0-0   @ Jakarta, Indonesia
+  Thailand             v Singapore             3-0   @ Bangkok, Thailand
+Sat Dec 1
+  Malaysia             v Thailand              0-0   @ Kuala Lumpur, Malaysia
+Sun Dec 2
+  Philippines          v Vietnam               1-2   @ Bacolod, Philippines
+Wed Dec 5
+  Thailand             v Malaysia              2-2   @ Bangkok, Thailand
+Thu Dec 6
+  Vietnam              v Philippines           2-1   @ Hanoi, Vietnam
+Tue Dec 11
+  Malaysia             v Vietnam               2-2   @ Kuala Lumpur, Malaysia
+Sat Dec 15
+  Vietnam              v Malaysia              1-0   @ Hanoi, Vietnam
 

@@ -1,55 +1,55 @@
 = Merdeka Tournament 1967
 
-# Date       Thu Aug/10 - Sat Aug/26 1967 (16d)
+# Date       Thu Aug 10 - Sat Aug 26 1967 (16d)
 # Teams      11
 # Matches    34
 
-[Thu Aug 10]
-  Hong Kong - Thailand  1-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Western Australia  3-2   @ Kuala Lumpur, Malaysia
-[Fri Aug 11]
-  Indonesia - South Korea  1-3   @ Kuala Lumpur, Malaysia
-  Singapore - Taiwan  3-3   @ Kuala Lumpur, Malaysia
-[Sat Aug 12]
-  Hong Kong - Vietnam Republic  0-5   @ Kuala Lumpur, Malaysia
-  India - Thailand  1-1   @ Kuala Lumpur, Malaysia
-[Sun Aug 13]
-  Myanmar - South Korea  0-1   @ Ipoh, Malaysia
-  India - Western Australia  3-1   @ Kuala Lumpur, Malaysia
-  Indonesia - Singapore  4-1   @ Ipoh, Malaysia
-  Malaysia - Hong Kong  3-0   @ Ipoh, Malaysia
-[Tue Aug 15]
-  Myanmar - Singapore  3-0   @ Ipoh, Malaysia
-  Indonesia - Taiwan  2-1   @ Ipoh, Malaysia
-  Malaysia - Vietnam Republic  1-1   @ Kuala Lumpur, Malaysia
-  Thailand - Western Australia  1-3   @ Kuala Lumpur, Malaysia
-[Wed Aug 16]
-  Hong Kong - India  0-4   @ Kuala Lumpur, Malaysia
-  Vietnam Republic - Western Australia  3-0   @ Kuala Lumpur, Malaysia
-[Fri Aug 18]
-  Hong Kong - Western Australia  3-2   @ Kuala Lumpur, Malaysia
-  South Korea - Taiwan  2-1   @ Kuala Lumpur, Malaysia
-[Sat Aug 19]
-  Myanmar - Indonesia  5-0   @ Kuala Lumpur, Malaysia
-  Malaysia - India  0-0   @ Kuala Lumpur, Malaysia
-  Thailand - Vietnam Republic  2-5   @ Ipoh, Malaysia
-[Sun Aug 20]
-  Myanmar - Taiwan  1-2   @ Kuala Lumpur, Malaysia
-  Malaysia - Thailand  1-0   @ Kuala Lumpur, Malaysia
-  India - Vietnam Republic  0-1   @ Ipoh, Malaysia
-  South Korea - Singapore  3-0   @ Kuala Lumpur, Malaysia
-[Tue Aug 22]
-  Myanmar - Vietnam Republic  3-0   @ Kuala Lumpur, Malaysia
-  India - Taiwan  1-1   @ Kuala Lumpur, Malaysia   [Taiwan wins on penalties]
-[Wed Aug 23]
-  Hong Kong - Indonesia  2-1   @ Kuala Lumpur, Malaysia
-  Malaysia - South Korea  1-3   @ Kuala Lumpur, Malaysia
-[Thu Aug 24]
-  Singapore - Western Australia  3-5   @ Kuala Lumpur, Malaysia
-[Fri Aug 25]
-  Hong Kong - Taiwan  2-4   @ Kuala Lumpur, Malaysia
-  Malaysia - Vietnam Republic  1-2   @ Kuala Lumpur, Malaysia
-[Sat Aug 26]
-  Myanmar - South Korea  0-0   @ Kuala Lumpur, Malaysia
-  India - Indonesia  0-3   @ Kuala Lumpur, Malaysia
+Thu Aug 10
+  Hong Kong            v Thailand              1-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Western Australia     3-2   @ Kuala Lumpur, Malaysia
+Fri Aug 11
+  Indonesia            v South Korea           1-3   @ Kuala Lumpur, Malaysia
+  Singapore            v Taiwan                3-3   @ Kuala Lumpur, Malaysia
+Sat Aug 12
+  Hong Kong            v Vietnam Republic      0-5   @ Kuala Lumpur, Malaysia
+  India                v Thailand              1-1   @ Kuala Lumpur, Malaysia
+Sun Aug 13
+  Myanmar              v South Korea           0-1   @ Ipoh, Malaysia
+  India                v Western Australia     3-1   @ Kuala Lumpur, Malaysia
+  Indonesia            v Singapore             4-1   @ Ipoh, Malaysia
+  Malaysia             v Hong Kong             3-0   @ Ipoh, Malaysia
+Tue Aug 15
+  Myanmar              v Singapore             3-0   @ Ipoh, Malaysia
+  Indonesia            v Taiwan                2-1   @ Ipoh, Malaysia
+  Malaysia             v Vietnam Republic      1-1   @ Kuala Lumpur, Malaysia
+  Thailand             v Western Australia     1-3   @ Kuala Lumpur, Malaysia
+Wed Aug 16
+  Hong Kong            v India                 0-4   @ Kuala Lumpur, Malaysia
+  Vietnam Republic     v Western Australia     3-0   @ Kuala Lumpur, Malaysia
+Fri Aug 18
+  Hong Kong            v Western Australia     3-2   @ Kuala Lumpur, Malaysia
+  South Korea          v Taiwan                2-1   @ Kuala Lumpur, Malaysia
+Sat Aug 19
+  Myanmar              v Indonesia             5-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v India                 0-0   @ Kuala Lumpur, Malaysia
+  Thailand             v Vietnam Republic      2-5   @ Ipoh, Malaysia
+Sun Aug 20
+  Myanmar              v Taiwan                1-2   @ Kuala Lumpur, Malaysia
+  Malaysia             v Thailand              1-0   @ Kuala Lumpur, Malaysia
+  India                v Vietnam Republic      0-1   @ Ipoh, Malaysia
+  South Korea          v Singapore             3-0   @ Kuala Lumpur, Malaysia
+Tue Aug 22
+  Myanmar              v Vietnam Republic      3-0   @ Kuala Lumpur, Malaysia
+  India                v Taiwan                1-1   @ Kuala Lumpur, Malaysia   [Taiwan wins on penalties]
+Wed Aug 23
+  Hong Kong            v Indonesia             2-1   @ Kuala Lumpur, Malaysia
+  Malaysia             v South Korea           1-3   @ Kuala Lumpur, Malaysia
+Thu Aug 24
+  Singapore            v Western Australia     3-5   @ Kuala Lumpur, Malaysia
+Fri Aug 25
+  Hong Kong            v Taiwan                2-4   @ Kuala Lumpur, Malaysia
+  Malaysia             v Vietnam Republic      1-2   @ Kuala Lumpur, Malaysia
+Sat Aug 26
+  Myanmar              v South Korea           0-0   @ Kuala Lumpur, Malaysia
+  India                v Indonesia             0-3   @ Kuala Lumpur, Malaysia
 

@@ -1,100 +1,100 @@
 = African Cup of Nations 2013
 
-# Date       Sat Jan/19 - Sun Feb/10 2013 (22d)
+# Date       Sat Jan 19 - Sun Feb 10 2013 (22d)
 # Teams      16
 # Matches    32
 
-[Sat Jan 19]
-  Angola - Morocco  0-0   @ Johannesburg, South Africa
-  South Africa - Cape Verde  0-0   @ Johannesburg, South Africa
-[Sun Jan 20]
-  Ghana - DR Congo  2-2   @ Port Elizabeth, South Africa
-     Emmanuel Agyemang-Badu 40' Kwadwo Asamoah 49';
-     Trésor Mputu 53' Dieumerci Mbokani 69' (pen.)
-  Mali - Niger  1-0   @ Port Elizabeth, South Africa
-     Seydou Keita 84'
-[Mon Jan 21]
-  Nigeria - Burkina Faso  1-1   @ Nelspruit, South Africa
-     Emmanuel Emenike 23';
-     Alain Traoré 90'
-  Zambia - Ethiopia  1-1   @ Nelspruit, South Africa
-     Collins Mbesuma 45';
-     Adane Girma 65'
-[Tue Jan 22]
-  Ivory Coast - Togo  2-1   @ Rustenburg, South Africa
-     Yaya Touré 8' Gervinho 88';
-     Jonathan Ayité 45'
-  Tunisia - Algeria  1-0   @ Rustenburg, South Africa
-     Youssef Msakni 90'
-[Wed Jan 23]
-  Morocco - Cape Verde  1-1   @ Durban, South Africa
-     Youssef El-Arabi 78';
-     Platini 35'
-  South Africa - Angola  2-0   @ Durban, South Africa
-     Siyabonga Sangweni 30' Lehlohonolo Majoro 62'
-[Thu Jan 24]
-  Ghana - Mali  1-0   @ Port Elizabeth, South Africa
-     Mubarak Wakaso 38' (pen.)
-  Niger - DR Congo  0-0   @ Port Elizabeth, South Africa
-[Fri Jan 25]
-  Burkina Faso - Ethiopia  4-0   @ Nelspruit, South Africa
-     Alain Traoré 34' Alain Traoré 74' Djakaridja Koné 79' Jonathan Pitroipa 90'
-  Zambia - Nigeria  1-1   @ Nelspruit, South Africa
-     Kennedy Mweene 85' (pen.);
-     Emmanuel Emenike 57'
-[Sat Jan 26]
-  Algeria - Togo  0-2   @ Rustenburg, South Africa
-     -; Emmanuel Adebayor 31' Dové Womé 90'
-  Ivory Coast - Tunisia  3-0   @ Rustenburg, South Africa
-     Gervinho 21' Yaya Touré 87' Didier Ya Konan 90'
-[Sun Jan 27]
-  Cape Verde - Angola  2-1   @ Port Elizabeth, South Africa
-     Fernando Varela 81' Héldon Ramos 90';
-     Nando Maria Neves 33' (o.g.)
-  South Africa - Morocco  2-2   @ Durban, South Africa
-     May Mahlangu 71' Siyabonga Sangweni 86';
-     Issam El Adoua 10' Abdelilah Hafidi 82'
-[Mon Jan 28]
-  DR Congo - Mali  1-1   @ Durban, South Africa
-     Dieumerci Mbokani 3' (pen.);
-     Mamadou Samassa 15'
-  Niger - Ghana  0-3   @ Port Elizabeth, South Africa
-     -; Asamoah Gyan 6' Christian Atsu Twasam 23' John Boye 49'
-[Tue Jan 29]
-  Burkina Faso - Zambia  0-0   @ Nelspruit, South Africa
-  Ethiopia - Nigeria  0-2   @ Rustenburg, South Africa
-     -; Victor Moses 80' (pen.) Victor Moses 90' (pen.)
-[Wed Jan 30]
-  Algeria - Ivory Coast  2-2   @ Rustenburg, South Africa
-     Sofiane Feghouli 64' (pen.) Hillal Soudani 70';
-     Didier Drogba 77' Wilfried Bony 81'
-  Togo - Tunisia  1-1   @ Nelspruit, South Africa
-     Serge Gakpé 13';
-     Khaled Mouelhi 30' (pen.)
-[Sat Feb 2]
-  Ghana - Cape Verde  2-0   @ Port Elizabeth, South Africa
-     Mubarak Wakaso 54' (pen.) Mubarak Wakaso 90'
-  South Africa - Mali  1-1   @ Durban, South Africa   [Mali wins on penalties]
-     Tokelo Rantie 31';
-     Seydou Keita 58'
-[Sun Feb 3]
-  Burkina Faso - Togo  1-0   @ Nelspruit, South Africa
-     Jonathan Pitroipa 105'
-  Ivory Coast - Nigeria  1-2   @ Rustenburg, South Africa
-     Cheick Tioté 50';
-     Emmanuel Emenike 43' Sunday Mba 78'
-[Wed Feb 6]
-  Burkina Faso - Ghana  1-1   @ Nelspruit, South Africa   [Burkina Faso wins on penalties]
-     Aristide Bancé 60';
-     Mubarak Wakaso 13' (pen.)
-  Mali - Nigeria  1-4   @ Durban, South Africa
-     Cheick Fantamady Diarra 75';
-     Uwa Elderson Echiéjilé 25' Brown Ideye 30' Emmanuel Emenike 44' Ahmed Musa 60'
-[Sat Feb 9]
-  Mali - Ghana  3-1   @ Port Elizabeth, South Africa
-     Mamadou Samassa 21' Seydou Keita 48' Sigamary Diarra 90';
-     Kwadwo Asamoah 82'
-[Sun Feb 10]
-  Nigeria - Burkina Faso  1-0   @ Johannesburg, South Africa
-     Sunday Mba 40'
+Sat Jan 19
+  Angola               v Morocco               0-0   @ Johannesburg, South Africa
+  South Africa         v Cape Verde            0-0   @ Johannesburg, South Africa
+Sun Jan 20
+  Ghana                v DR Congo              2-2   @ Port Elizabeth, South Africa
+     (Emmanuel Agyemang-Badu 40' Kwadwo Asamoah 49';
+      Trésor Mputu 53' Dieumerci Mbokani 69'(p))
+  Mali                 v Niger                 1-0   @ Port Elizabeth, South Africa
+     (Seydou Keita 84')
+Mon Jan 21
+  Nigeria              v Burkina Faso          1-1   @ Nelspruit, South Africa
+     (Emmanuel Emenike 23';
+      Alain Traoré 90')
+  Zambia               v Ethiopia              1-1   @ Nelspruit, South Africa
+     (Collins Mbesuma 45';
+      Adane Girma 65')
+Tue Jan 22
+  Ivory Coast          v Togo                  2-1   @ Rustenburg, South Africa
+     (Yaya Touré 8' Gervinho 88';
+      Jonathan Ayité 45')
+  Tunisia              v Algeria               1-0   @ Rustenburg, South Africa
+     (Youssef Msakni 90')
+Wed Jan 23
+  Morocco              v Cape Verde            1-1   @ Durban, South Africa
+     (Youssef El-Arabi 78';
+      Platini 35')
+  South Africa         v Angola                2-0   @ Durban, South Africa
+     (Siyabonga Sangweni 30' Lehlohonolo Majoro 62')
+Thu Jan 24
+  Ghana                v Mali                  1-0   @ Port Elizabeth, South Africa
+     (Mubarak Wakaso 38'(p))
+  Niger                v DR Congo              0-0   @ Port Elizabeth, South Africa
+Fri Jan 25
+  Burkina Faso         v Ethiopia              4-0   @ Nelspruit, South Africa
+     (Alain Traoré 34' Alain Traoré 74' Djakaridja Koné 79' Jonathan Pitroipa 90')
+  Zambia               v Nigeria               1-1   @ Nelspruit, South Africa
+     (Kennedy Mweene 85'(p);
+      Emmanuel Emenike 57')
+Sat Jan 26
+  Algeria              v Togo                  0-2   @ Rustenburg, South Africa
+     (Emmanuel Adebayor 31' Dové Womé 90')
+  Ivory Coast          v Tunisia               3-0   @ Rustenburg, South Africa
+     (Gervinho 21' Yaya Touré 87' Didier Ya Konan 90')
+Sun Jan 27
+  Cape Verde           v Angola                2-1   @ Port Elizabeth, South Africa
+     (Fernando Varela 81' Héldon Ramos 90';
+      Nando Maria Neves 33'(og))
+  South Africa         v Morocco               2-2   @ Durban, South Africa
+     (May Mahlangu 71' Siyabonga Sangweni 86';
+      Issam El Adoua 10' Abdelilah Hafidi 82')
+Mon Jan 28
+  DR Congo             v Mali                  1-1   @ Durban, South Africa
+     (Dieumerci Mbokani 3'(p);
+      Mamadou Samassa 15')
+  Niger                v Ghana                 0-3   @ Port Elizabeth, South Africa
+     (Asamoah Gyan 6' Christian Atsu Twasam 23' John Boye 49')
+Tue Jan 29
+  Burkina Faso         v Zambia                0-0   @ Nelspruit, South Africa
+  Ethiopia             v Nigeria               0-2   @ Rustenburg, South Africa
+     (Victor Moses 80'(p) Victor Moses 90'(p))
+Wed Jan 30
+  Algeria              v Ivory Coast           2-2   @ Rustenburg, South Africa
+     (Sofiane Feghouli 64'(p) Hillal Soudani 70';
+      Didier Drogba 77' Wilfried Bony 81')
+  Togo                 v Tunisia               1-1   @ Nelspruit, South Africa
+     (Serge Gakpé 13';
+      Khaled Mouelhi 30'(p))
+Sat Feb 2
+  Ghana                v Cape Verde            2-0   @ Port Elizabeth, South Africa
+     (Mubarak Wakaso 54'(p) Mubarak Wakaso 90')
+  South Africa         v Mali                  1-1   @ Durban, South Africa   [Mali wins on penalties]
+     (Tokelo Rantie 31';
+      Seydou Keita 58')
+Sun Feb 3
+  Burkina Faso         v Togo                  1-0   @ Nelspruit, South Africa
+     (Jonathan Pitroipa 105')
+  Ivory Coast          v Nigeria               1-2   @ Rustenburg, South Africa
+     (Cheick Tioté 50';
+      Emmanuel Emenike 43' Sunday Mba 78')
+Wed Feb 6
+  Burkina Faso         v Ghana                 1-1   @ Nelspruit, South Africa   [Burkina Faso wins on penalties]
+     (Aristide Bancé 60';
+      Mubarak Wakaso 13'(p))
+  Mali                 v Nigeria               1-4   @ Durban, South Africa
+     (Cheick Fantamady Diarra 75';
+      Uwa Elderson Echiéjilé 25' Brown Ideye 30' Emmanuel Emenike 44' Ahmed Musa 60')
+Sat Feb 9
+  Mali                 v Ghana                 3-1   @ Port Elizabeth, South Africa
+     (Mamadou Samassa 21' Seydou Keita 48' Sigamary Diarra 90';
+      Kwadwo Asamoah 82')
+Sun Feb 10
+  Nigeria              v Burkina Faso          1-0   @ Johannesburg, South Africa
+     (Sunday Mba 40')
 

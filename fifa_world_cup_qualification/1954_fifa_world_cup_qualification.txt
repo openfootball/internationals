@@ -1,74 +1,74 @@
 = FIFA World Cup qualification 1954
 
-# Date       Wed Jan/6 - Sun Apr/4 1954 (88d)
+# Date       Wed Jan 6 - Sun Apr 4 1954 (88d)
 # Teams      19
 # Matches    21
 
-[Wed Jan 6]
-  Spain - Turkey  4-1   @ Madrid, Spain
-     Venancio García 13' Agustín Gaínza 48' Miguel González 49' Rafael Alsua 65';
-     Recep Adanır 31'
-[Sun Jan 10]
-  Mexico - United States  4-0   @ Mexico City, Mexico
-     Tomás Balcázar 5' William Scheppel 16' (o.g.) José Luis Lamadrid 47' José Naranjo 63'
-[Thu Jan 14]
-  Mexico - United States  3-1   @ Mexico City, Mexico
-     Alfredo Torres 60' José Luis Lamadrid 82' Alfredo Torres 89';
-     Bill Looby 6'
-[Sun Jan 24]
-  Italy - Egypt  5-1   @ Milan, Italy
-     Egisto Pandolfini 1' Amleto Frignani 62' Giampiero Boniperti 65' Eduardo Ricagni 84' Giampiero Boniperti 86';
-     Alaa El-Hamouly 32'
-[Sun Feb 14]
-  Paraguay - Chile  4-0   @ Asunción, Paraguay
-     Manuel Lugo 30' José Parodi 52' Ireneo Hermosilla 70' Silvio Parodi 79'
-[Sun Feb 21]
-  Chile - Paraguay  1-3   @ Santiago, Chile
-     Ted Robledo 16';
-     Manuel Lugo 17' Manuel Lugo 63' José Parodi 84'
-[Sun Feb 28]
-  Chile - Brazil  0-2   @ Santiago, Chile
-     -; Baltazar 38' Baltazar 63'
-[Sun Mar 7]
-  Japan - South Korea  1-5   @ Tokyo, Japan
-     Ken Naganuma 16';
-     Chung Nam-sik 22' Choi Kwang-suk 34' Sung Nak-woon 65' Choi Chung-min 82' Choi Chung-min 85'
-  Luxembourg - Republic of Ireland  0-1   @ Luxembourg, Luxembourg
-     -; George Cummins 67'
-  Paraguay - Brazil  0-1   @ Asunción, Paraguay
-     -; Baltazar 52'
-[Mon Mar 8]
-  Israel - Greece  0-2   @ Ramat Gan, Israel
-     -; Dimitris Kokkinakis 61' Georgios Kamaras 83'
-[Sun Mar 14]
-  Brazil - Chile  1-0   @ Rio de Janeiro, Brazil
-     Baltazar 35'
-  Japan - South Korea  2-2   @ Tokyo, Japan
-     Toshio Iwatani 17' Toshio Iwatani 61';
-     Chung Nam-sik 20' Choi Kwang-suk 43'
-  Turkey - Spain  1-0   @ Istanbul, Turkey
-     Burhan Sargın 16'
-[Wed Mar 17]
-  Turkey - Spain  2-2   @ Rome, Italy
-     Burhan Sargın 25' Suat Mamat 64';
-     José Artetxe 11' Adrián Escudero 78'
-[Sun Mar 21]
-  Israel - Yugoslavia  0-1   @ Ramat Gan, Israel
-     -; Branko Zebec 80'
-  Brazil - Paraguay  4-1   @ Rio de Janeiro, Brazil
-     Júlio Botelho 60' Baltazar 62' Júlio Botelho 85' Maurinho 90';
-     Eulogio Martínez 75'
-[Sun Mar 28]
-  Greece - Yugoslavia  0-1   @ Athens, Greece
-     -; Todor Veselinović 50'
-  Saarland - Germany  1-3   @ Saarbrücken, Saarland
-     Herbert Martin 68' (pen.);
-     Max Morlock 36' Max Morlock 48' Hans Schäfer 84'
-[Sat Apr 3]
-  Haiti - United States  2-3   @ Port-au-Prince, Haiti
-     Gerard Ellie 60' (pen.) Gerard Ellie 89';
-     Cornelius Casey 20' Efrain Chacurian 42' Bill Looby 83'
-[Sun Apr 4]
-  Haiti - United States  0-3   @ Port-au-Prince, Haiti
-     -; Bill Looby 22' Ruben Mendoza 31' Bill Looby 65'
+Wed Jan 6
+  Spain                v Turkey                4-1   @ Madrid, Spain
+     (Venancio García 13' Agustín Gaínza 48' Miguel González 49' Rafael Alsua 65';
+      Recep Adanır 31')
+Sun Jan 10
+  Mexico               v United States         4-0   @ Mexico City, Mexico
+     (Tomás Balcázar 5' William Scheppel 16'(og) José Luis Lamadrid 47' José Naranjo 63')
+Thu Jan 14
+  Mexico               v United States         3-1   @ Mexico City, Mexico
+     (Alfredo Torres 60' José Luis Lamadrid 82' Alfredo Torres 89';
+      Bill Looby 6')
+Sun Jan 24
+  Italy                v Egypt                 5-1   @ Milan, Italy
+     (Egisto Pandolfini 1' Amleto Frignani 62' Giampiero Boniperti 65' Eduardo Ricagni 84' Giampiero Boniperti 86';
+      Alaa El-Hamouly 32')
+Sun Feb 14
+  Paraguay             v Chile                 4-0   @ Asunción, Paraguay
+     (Manuel Lugo 30' José Parodi 52' Ireneo Hermosilla 70' Silvio Parodi 79')
+Sun Feb 21
+  Chile                v Paraguay              1-3   @ Santiago, Chile
+     (Ted Robledo 16';
+      Manuel Lugo 17' Manuel Lugo 63' José Parodi 84')
+Sun Feb 28
+  Chile                v Brazil                0-2   @ Santiago, Chile
+     (Baltazar 38' Baltazar 63')
+Sun Mar 7
+  Japan                v South Korea           1-5   @ Tokyo, Japan
+     (Ken Naganuma 16';
+      Chung Nam-sik 22' Choi Kwang-suk 34' Sung Nak-woon 65' Choi Chung-min 82' Choi Chung-min 85')
+  Luxembourg           v Republic of Ireland   0-1   @ Luxembourg, Luxembourg
+     (George Cummins 67')
+  Paraguay             v Brazil                0-1   @ Asunción, Paraguay
+     (Baltazar 52')
+Mon Mar 8
+  Israel               v Greece                0-2   @ Ramat Gan, Israel
+     (Dimitris Kokkinakis 61' Georgios Kamaras 83')
+Sun Mar 14
+  Brazil               v Chile                 1-0   @ Rio de Janeiro, Brazil
+     (Baltazar 35')
+  Japan                v South Korea           2-2   @ Tokyo, Japan
+     (Toshio Iwatani 17' Toshio Iwatani 61';
+      Chung Nam-sik 20' Choi Kwang-suk 43')
+  Turkey               v Spain                 1-0   @ Istanbul, Turkey
+     (Burhan Sargın 16')
+Wed Mar 17
+  Turkey               v Spain                 2-2   @ Rome, Italy
+     (Burhan Sargın 25' Suat Mamat 64';
+      José Artetxe 11' Adrián Escudero 78')
+Sun Mar 21
+  Israel               v Yugoslavia            0-1   @ Ramat Gan, Israel
+     (Branko Zebec 80')
+  Brazil               v Paraguay              4-1   @ Rio de Janeiro, Brazil
+     (Júlio Botelho 60' Baltazar 62' Júlio Botelho 85' Maurinho 90';
+      Eulogio Martínez 75')
+Sun Mar 28
+  Greece               v Yugoslavia            0-1   @ Athens, Greece
+     (Todor Veselinović 50')
+  Saarland             v Germany               1-3   @ Saarbrücken, Saarland
+     (Herbert Martin 68'(p);
+      Max Morlock 36' Max Morlock 48' Hans Schäfer 84')
+Sat Apr 3
+  Haiti                v United States         2-3   @ Port-au-Prince, Haiti
+     (Gerard Ellie 60'(p) Gerard Ellie 89';
+      Cornelius Casey 20' Efrain Chacurian 42' Bill Looby 83')
+Sun Apr 4
+  Haiti                v United States         0-3   @ Port-au-Prince, Haiti
+     (Bill Looby 22' Ruben Mendoza 31' Bill Looby 65')
 

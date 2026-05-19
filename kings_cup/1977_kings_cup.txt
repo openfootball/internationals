@@ -1,19 +1,19 @@
 = King's Cup 1977
 
-# Date       Fri Oct/28 - Thu Nov/10 1977 (13d)
+# Date       Fri Oct 28 - Thu Nov 10 1977 (13d)
 # Teams      4
 # Matches    6
 
-[Fri Oct 28]
-  Thailand - Singapore  2-0   @ Bangkok, Thailand
-[Mon Oct 31]
-  Thailand - India  1-1   @ Bangkok, Thailand
-[Tue Nov 1]
-  Malaysia - Singapore  4-3   @ Bangkok, Thailand
-[Fri Nov 4]
-  India - Singapore  2-1   @ Bangkok, Thailand
-[Sun Nov 6]
-  Thailand - Malaysia  1-2   @ Bangkok, Thailand
-[Thu Nov 10]
-  India - Malaysia  0-3   @ Bangkok, Thailand
+Fri Oct 28
+  Thailand             v Singapore             2-0   @ Bangkok, Thailand
+Mon Oct 31
+  Thailand             v India                 1-1   @ Bangkok, Thailand
+Tue Nov 1
+  Malaysia             v Singapore             4-3   @ Bangkok, Thailand
+Fri Nov 4
+  India                v Singapore             2-1   @ Bangkok, Thailand
+Sun Nov 6
+  Thailand             v Malaysia              1-2   @ Bangkok, Thailand
+Thu Nov 10
+  India                v Malaysia              0-3   @ Bangkok, Thailand
 

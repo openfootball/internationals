@@ -1,43 +1,43 @@
 = Pacific Games 2011
 
-# Date       Sat Aug/27 - Fri Sep/9 2011 (13d)
+# Date       Sat Aug 27 - Fri Sep 9 2011 (13d)
 # Teams      11
 # Matches    29
 
-[Sat Aug 27]
-  Fiji - Tahiti  3-0   @ Boulari, New Caledonia
-  New Caledonia - Vanuatu  5-0   @ Nouméa, New Caledonia
-  Papua New Guinea - Cook Islands  4-0   @ Boulari, New Caledonia
-  Solomon Islands - Guam  7-0   @ Nouméa, New Caledonia
-  Tuvalu - American Samoa  4-0   @ Nouméa, New Caledonia
-[Tue Aug 30]
-  American Samoa - Solomon Islands  0-4   @ Nouméa, New Caledonia
-  Fiji - Kiribati  9-0   @ Boulari, New Caledonia
-  New Caledonia - Guam  9-0   @ Nouméa, New Caledonia
-  Tahiti - Cook Islands  7-0   @ Boulari, New Caledonia
-  Vanuatu - Tuvalu  5-1   @ Nouméa, New Caledonia
-[Thu Sep 1]
-  American Samoa - Guam  0-2   @ Nouméa, New Caledonia
-  Cook Islands - Kiribati  3-0   @ Boulari, New Caledonia
-  New Caledonia - Tuvalu  8-0   @ Nouméa, New Caledonia
-  Tahiti - Papua New Guinea  1-1   @ Boulari, New Caledonia
-  Vanuatu - Solomon Islands  1-0   @ Nouméa, New Caledonia
-[Sat Sep 3]
-  Cook Islands - Fiji  1-4   @ Boulari, New Caledonia
-  Guam - Vanuatu  1-4   @ Nouméa, New Caledonia
-  Kiribati - Papua New Guinea  1-17   @ Boulari, New Caledonia
-  New Caledonia - American Samoa  8-0   @ Nouméa, New Caledonia
-  Solomon Islands - Tuvalu  6-1   @ Nouméa, New Caledonia
-[Mon Sep 5]
-  American Samoa - Vanuatu  0-8   @ Nouméa, New Caledonia
-  Guam - Tuvalu  1-1   @ Nouméa, New Caledonia
-  Kiribati - Tahiti  1-17   @ Boulari, New Caledonia
-  New Caledonia - Solomon Islands  1-2   @ Nouméa, New Caledonia
-  Papua New Guinea - Fiji  0-2   @ Boulari, New Caledonia
-[Wed Sep 7]
-  New Caledonia - Tahiti  3-1   @ Koné, New Caledonia
-  Solomon Islands - Fiji  2-1   @ Lifou, New Caledonia
-[Fri Sep 9]
-  New Caledonia - Solomon Islands  2-0   @ Nouméa, New Caledonia
-  Tahiti - Fiji  2-1   @ Boulari, New Caledonia
+Sat Aug 27
+  Fiji                 v Tahiti                3-0   @ Boulari, New Caledonia
+  New Caledonia        v Vanuatu               5-0   @ Nouméa, New Caledonia
+  Papua New Guinea     v Cook Islands          4-0   @ Boulari, New Caledonia
+  Solomon Islands      v Guam                  7-0   @ Nouméa, New Caledonia
+  Tuvalu               v American Samoa        4-0   @ Nouméa, New Caledonia
+Tue Aug 30
+  American Samoa       v Solomon Islands       0-4   @ Nouméa, New Caledonia
+  Fiji                 v Kiribati              9-0   @ Boulari, New Caledonia
+  New Caledonia        v Guam                  9-0   @ Nouméa, New Caledonia
+  Tahiti               v Cook Islands          7-0   @ Boulari, New Caledonia
+  Vanuatu              v Tuvalu                5-1   @ Nouméa, New Caledonia
+Thu Sep 1
+  American Samoa       v Guam                  0-2   @ Nouméa, New Caledonia
+  Cook Islands         v Kiribati              3-0   @ Boulari, New Caledonia
+  New Caledonia        v Tuvalu                8-0   @ Nouméa, New Caledonia
+  Tahiti               v Papua New Guinea      1-1   @ Boulari, New Caledonia
+  Vanuatu              v Solomon Islands       1-0   @ Nouméa, New Caledonia
+Sat Sep 3
+  Cook Islands         v Fiji                  1-4   @ Boulari, New Caledonia
+  Guam                 v Vanuatu               1-4   @ Nouméa, New Caledonia
+  Kiribati             v Papua New Guinea      1-17   @ Boulari, New Caledonia
+  New Caledonia        v American Samoa        8-0   @ Nouméa, New Caledonia
+  Solomon Islands      v Tuvalu                6-1   @ Nouméa, New Caledonia
+Mon Sep 5
+  American Samoa       v Vanuatu               0-8   @ Nouméa, New Caledonia
+  Guam                 v Tuvalu                1-1   @ Nouméa, New Caledonia
+  Kiribati             v Tahiti                1-17   @ Boulari, New Caledonia
+  New Caledonia        v Solomon Islands       1-2   @ Nouméa, New Caledonia
+  Papua New Guinea     v Fiji                  0-2   @ Boulari, New Caledonia
+Wed Sep 7
+  New Caledonia        v Tahiti                3-1   @ Koné, New Caledonia
+  Solomon Islands      v Fiji                  2-1   @ Lifou, New Caledonia
+Fri Sep 9
+  New Caledonia        v Solomon Islands       2-0   @ Nouméa, New Caledonia
+  Tahiti               v Fiji                  2-1   @ Boulari, New Caledonia
 

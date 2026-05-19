@@ -1,25 +1,25 @@
 = King's Cup 1976
 
-# Date       Thu Jan/1 - Sat Dec/25 1976 (359d)
+# Date       Thu Jan 1 - Sat Dec 25 1976 (359d)
 # Teams      6
 # Matches    9
 
-[Thu Jan 1]
-  Thailand - Myanmar  0-0   @ Bangkok, Thailand
-[Fri Jan 2]
-  South Korea - Malaysia  4-0   @ Bangkok, Thailand
-[Sun Jan 4]
-  Myanmar - South Korea  0-1   @ Bangkok, Thailand
-[Wed Dec 15]
-  Thailand - South Korea  2-1   @ Bangkok, Thailand
-[Fri Dec 17]
-  South Korea - Singapore  4-0   @ Bangkok, Thailand
-[Sat Dec 18]
-  Bangladesh - Malaysia  0-6   @ Bangkok, Thailand
-[Sun Dec 19]
-  Thailand - Singapore  6-0   @ Bangkok, Thailand
-[Wed Dec 22]
-  South Korea - Malaysia  1-1   @ Bangkok, Thailand   [Malaysia wins on penalties]
-[Sat Dec 25]
-  Thailand - Malaysia  1-1   @ Bangkok, Thailand
+Thu Jan 1
+  Thailand             v Myanmar               0-0   @ Bangkok, Thailand
+Fri Jan 2
+  South Korea          v Malaysia              4-0   @ Bangkok, Thailand
+Sun Jan 4
+  Myanmar              v South Korea           0-1   @ Bangkok, Thailand
+Wed Dec 15
+  Thailand             v South Korea           2-1   @ Bangkok, Thailand
+Fri Dec 17
+  South Korea          v Singapore             4-0   @ Bangkok, Thailand
+Sat Dec 18
+  Bangladesh           v Malaysia              0-6   @ Bangkok, Thailand
+Sun Dec 19
+  Thailand             v Singapore             6-0   @ Bangkok, Thailand
+Wed Dec 22
+  South Korea          v Malaysia              1-1   @ Bangkok, Thailand   [Malaysia wins on penalties]
+Sat Dec 25
+  Thailand             v Malaysia              1-1   @ Bangkok, Thailand
 

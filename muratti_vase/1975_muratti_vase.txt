@@ -1,13 +1,13 @@
 = Muratti Vase 1975
 
-# Date       Tue Mar/18 - Mon May/26 1975 (69d)
+# Date       Tue Mar 18 - Mon May 26 1975 (69d)
 # Teams      3
 # Matches    3
 
-[Tue Mar 18]
-  Jersey - Alderney  3-1   @ Jersey, Jersey
-[Fri May 9]
-  Guernsey - Jersey  2-2   @ Guernsey, Guernsey
-[Mon May 26]
-  Jersey - Guernsey  2-3   @ Jersey, Jersey
+Tue Mar 18
+  Jersey               v Alderney              3-1   @ Jersey, Jersey
+Fri May 9
+  Guernsey             v Jersey                2-2   @ Guernsey, Guernsey
+Mon May 26
+  Jersey               v Guernsey              2-3   @ Jersey, Jersey
 

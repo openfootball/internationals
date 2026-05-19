@@ -1,19 +1,19 @@
 = British Home Championship 1902
 
-# Date       Sat Feb/22 - Sat May/3 1902 (70d)
+# Date       Sat Feb 22 - Sat May 3 1902 (70d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 22]
-  Wales - Northern Ireland  0-3   @ Cardiff, Wales
-[Sat Mar 1]
-  Northern Ireland - Scotland  1-5   @ Belfast, Ireland
-[Mon Mar 3]
-  Wales - England  0-0   @ Wrexham, Wales
-[Sat Mar 15]
-  Scotland - Wales  5-1   @ Greenock, Scotland
-[Sat Mar 22]
-  Northern Ireland - England  0-1   @ Belfast, Ireland
-[Sat May 3]
-  England - Scotland  2-2   @ Birmingham, England
+Sat Feb 22
+  Wales                v Northern Ireland      0-3   @ Cardiff, Wales
+Sat Mar 1
+  Northern Ireland     v Scotland              1-5   @ Belfast, Ireland
+Mon Mar 3
+  Wales                v England               0-0   @ Wrexham, Wales
+Sat Mar 15
+  Scotland             v Wales                 5-1   @ Greenock, Scotland
+Sat Mar 22
+  Northern Ireland     v England               0-1   @ Belfast, Ireland
+Sat May 3
+  England              v Scotland              2-2   @ Birmingham, England
 

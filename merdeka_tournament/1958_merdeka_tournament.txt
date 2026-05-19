@@ -1,17 +1,17 @@
 = Merdeka Tournament 1958
 
-# Date       Sat Aug/30 - Thu Sep/4 1958 (5d)
+# Date       Sat Aug 30 - Thu Sep 4 1958 (5d)
 # Teams      4
 # Matches    6
 
-[Sat Aug 30]
-  Singapore - Vietnam Republic  4-4   @ Kuala Lumpur, Malaya
-  Malaysia - Indonesia  3-2   @ Kuala Lumpur, Malaya
-[Sun Aug 31]
-  Indonesia - Singapore  2-0   @ Kuala Lumpur, Malaya
-[Tue Sep 2]
-  Indonesia - Vietnam Republic  4-1   @ Kuala Lumpur, Malaya
-  Malaysia - Singapore  0-0   @ Kuala Lumpur, Malaya
-[Thu Sep 4]
-  Malaysia - Vietnam Republic  2-0   @ Kuala Lumpur, Malaya
+Sat Aug 30
+  Singapore            v Vietnam Republic      4-4   @ Kuala Lumpur, Malaya
+  Malaysia             v Indonesia             3-2   @ Kuala Lumpur, Malaya
+Sun Aug 31
+  Indonesia            v Singapore             2-0   @ Kuala Lumpur, Malaya
+Tue Sep 2
+  Indonesia            v Vietnam Republic      4-1   @ Kuala Lumpur, Malaya
+  Malaysia             v Singapore             0-0   @ Kuala Lumpur, Malaya
+Thu Sep 4
+  Malaysia             v Vietnam Republic      2-0   @ Kuala Lumpur, Malaya
 

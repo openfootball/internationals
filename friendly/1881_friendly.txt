@@ -1,13 +1,13 @@
 = Friendly 1881
 
-# Date       Sat Feb/26 - Mon Mar/14 1881 (16d)
+# Date       Sat Feb 26 - Mon Mar 14 1881 (16d)
 # Teams      3
 # Matches    3
 
-[Sat Feb 26]
-  England - Wales  0-1   @ Blackburn, England
-[Sat Mar 12]
-  England - Scotland  1-6   @ London, England
-[Mon Mar 14]
-  Wales - Scotland  1-5   @ Wrexham, Wales
+Sat Feb 26
+  England              v Wales                 0-1   @ Blackburn, England
+Sat Mar 12
+  England              v Scotland              1-6   @ London, England
+Mon Mar 14
+  Wales                v Scotland              1-5   @ Wrexham, Wales
 

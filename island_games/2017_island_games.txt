@@ -1,46 +1,46 @@
 = Island Games 2017
 
-# Date       Sun Jun/25 - Fri Jun/30 2017 (5d)
+# Date       Sun Jun 25 - Fri Jun 30 2017 (5d)
 # Teams      16
 # Matches    34
 
-[Sun Jun 25]
-  Menorca - Orkney  1-0   @ Stenkyrka, Sweden
-  Alderney - Jersey  0-3   @ Väskinde, Sweden
-  Gotland - Frøya  7-1   @ Visby, Sweden
-  Western Isles - Greenland  0-3   @ Dalhem, Sweden
-  Guernsey - Åland Islands  1-1   @ Dalhem, Sweden
-  Saare County - Shetland  4-5   @ Hemse, Sweden
-  Isle of Man - Hitra  5-0   @ Fårösund, Sweden
-  Ynys Môn - Falkland Islands  3-0   @ Säve, Sweden
-[Mon Jun 26]
-  Jersey - Menorca  3-3   @ Visby, Sweden
-  Orkney - Alderney  3-0   @ Hemse, Sweden
-  Gotland - Western Isles  8-0   @ Dalhem, Sweden
-  Frøya - Greenland  2-2   @ Hemse, Sweden
-  Shetland - Guernsey  0-3   @ Stenkyrka, Sweden
-  Åland Islands - Saare County  0-0   @ Fardhem, Sweden
-  Falkland Islands - Isle of Man  2-5   @ Säve, Sweden
-  Hitra - Ynys Môn  1-5   @ Väskinde, Sweden
-[Tue Jun 27]
-  Menorca - Alderney  6-0   @ Fårösund, Sweden
-  Orkney - Jersey  0-3   @ Väskinde, Sweden
-  Gotland - Greenland  0-1   @ Visby, Sweden
-  Frøya - Western Isles  2-4   @ Säve, Sweden
-  Guernsey - Saare County  1-1   @ Dalhem, Sweden
-  Åland Islands - Shetland  2-1   @ Visby, Sweden
-  Isle of Man - Ynys Môn  4-0   @ Stenkyrka, Sweden
-  Hitra - Falkland Islands  2-1   @ Fardhem, Sweden
-[Thu Jun 29]
-  Falkland Islands - Alderney  0-3   @ Säve, Sweden
-  Saare County - Frøya  4-2   @ Fardhem, Sweden
-  Hitra - Western Isles  1-1   @ Stenkyrka, Sweden   [Western Isles wins on penalties]
-  Orkney - Shetland  3-1   @ Dalhem, Sweden
-  Ynys Môn - Åland Islands  0-2   @ Fårösund, Sweden
-  Gotland - Jersey  2-3   @ Visby, Sweden
-  Greenland - Menorca  1-1   @ Väskinde, Sweden   [Greenland wins on penalties]
-  Guernsey - Isle of Man  3-4   @ Fardhem, Sweden
-[Fri Jun 30]
-  Menorca - Guernsey  0-1   @ Väskinde, Sweden
-  Greenland - Isle of Man  0-6   @ Visby, Sweden
+Sun Jun 25
+  Menorca              v Orkney                1-0   @ Stenkyrka, Sweden
+  Alderney             v Jersey                0-3   @ Väskinde, Sweden
+  Gotland              v Frøya                 7-1   @ Visby, Sweden
+  Western Isles        v Greenland             0-3   @ Dalhem, Sweden
+  Guernsey             v Åland Islands         1-1   @ Dalhem, Sweden
+  Saare County         v Shetland              4-5   @ Hemse, Sweden
+  Isle of Man          v Hitra                 5-0   @ Fårösund, Sweden
+  Ynys Môn             v Falkland Islands      3-0   @ Säve, Sweden
+Mon Jun 26
+  Jersey               v Menorca               3-3   @ Visby, Sweden
+  Orkney               v Alderney              3-0   @ Hemse, Sweden
+  Gotland              v Western Isles         8-0   @ Dalhem, Sweden
+  Frøya                v Greenland             2-2   @ Hemse, Sweden
+  Shetland             v Guernsey              0-3   @ Stenkyrka, Sweden
+  Åland Islands        v Saare County          0-0   @ Fardhem, Sweden
+  Falkland Islands     v Isle of Man           2-5   @ Säve, Sweden
+  Hitra                v Ynys Môn              1-5   @ Väskinde, Sweden
+Tue Jun 27
+  Menorca              v Alderney              6-0   @ Fårösund, Sweden
+  Orkney               v Jersey                0-3   @ Väskinde, Sweden
+  Gotland              v Greenland             0-1   @ Visby, Sweden
+  Frøya                v Western Isles         2-4   @ Säve, Sweden
+  Guernsey             v Saare County          1-1   @ Dalhem, Sweden
+  Åland Islands        v Shetland              2-1   @ Visby, Sweden
+  Isle of Man          v Ynys Môn              4-0   @ Stenkyrka, Sweden
+  Hitra                v Falkland Islands      2-1   @ Fardhem, Sweden
+Thu Jun 29
+  Falkland Islands     v Alderney              0-3   @ Säve, Sweden
+  Saare County         v Frøya                 4-2   @ Fardhem, Sweden
+  Hitra                v Western Isles         1-1   @ Stenkyrka, Sweden   [Western Isles wins on penalties]
+  Orkney               v Shetland              3-1   @ Dalhem, Sweden
+  Ynys Môn             v Åland Islands         0-2   @ Fårösund, Sweden
+  Gotland              v Jersey                2-3   @ Visby, Sweden
+  Greenland            v Menorca               1-1   @ Väskinde, Sweden   [Greenland wins on penalties]
+  Guernsey             v Isle of Man           3-4   @ Fardhem, Sweden
+Fri Jun 30
+  Menorca              v Guernsey              0-1   @ Väskinde, Sweden
+  Greenland            v Isle of Man           0-6   @ Visby, Sweden
 

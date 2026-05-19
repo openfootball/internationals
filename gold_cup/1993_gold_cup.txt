@@ -1,57 +1,57 @@
 = Gold Cup 1993
 
-# Date       Sat Jul/10 - Sun Jul/25 1993 (15d)
+# Date       Sat Jul 10 - Sun Jul 25 1993 (15d)
 # Teams      8
 # Matches    16
 
-[Sat Jul 10]
-  Honduras - Panama  5-1   @ Dallas, United States
-     Giovanni Gayle 25' Eduardo Bennett 51' Alex Pineda Chacón 54' Eduardo Bennett 69' (pen.) Eduardo Bennett 83';
-     Jesús Julio 30'
-  United States - Jamaica  1-0   @ Dallas, United States
-     Eric Wynalda 67'
-[Sun Jul 11]
-  Canada - Costa Rica  1-1   @ Mexico City, Mexico
-     Nick Dasovic 43';
-     Roy Myers 82'
-  Mexico - Martinique  9-0   @ Mexico City, Mexico
-     Luís Roberto Alves 11' Luís Roberto Alves 21' Luís Roberto Alves 29' Ramón Ramírez 40' Luís Roberto Alves 54' Luís Roberto Alves 76' Luís Roberto Alves 84' Luís Roberto Alves 90' Juan Hernández 90'
-[Wed Jul 14]
-  Honduras - Jamaica  1-3   @ Dallas, United States
-     Eduardo Bennett 18' (pen.);
-     Devon Jarrett 28' Paul Davis 48' Walter Boyd 78'
-  United States - Panama  2-1   @ Dallas, United States
-     Eric Wynalda 69' Thomas Dooley 74';
-     Percival Piggott 33'
-[Thu Jul 15]
-  Canada - Martinique  2-2   @ Mexico City, Mexico
-     Geoff Aunger 25' Alex Bunbury 43';
-     Georges Gertrude 53' Thierry Fondelot 86'
-  Mexico - Costa Rica  1-1   @ Mexico City, Mexico
-     Javier Delgado 74' (o.g.);
-     Juan Cayasso 30'
-[Sat Jul 17]
-  Jamaica - Panama  1-1   @ Dallas, United States
-     Paul Davis 76';
-     Víctor René Mendieta Ocampo 50' (pen.)
-  United States - Honduras  1-0   @ Dallas, United States
-     Alexi Lalas 29'
-[Sun Jul 18]
-  Costa Rica - Martinique  3-1   @ Mexico City, Mexico
-     Roy Myers 28' Juan Cayasso 69' Juan Cayasso 87';
-     Thierry Tinmar 59' (pen.)
-  Mexico - Canada  8-0   @ Mexico City, Mexico
-     Jorge Rodríguez 4' Octavio Mora 24' Octavio Mora 30' Luís Roberto Alves 32' Luís Roberto Alves 34' Jorge Rodríguez 67' Luis Miguel Salvador 83' Luis Miguel Salvador 88'
-[Thu Jul 22]
-  United States - Costa Rica  1-0   @ Dallas, United States
-     Cle Kooiman 103'
-  Mexico - Jamaica  6-1   @ Mexico City, Mexico
-     Luis Miguel Salvador 9' Octavio Mora 14' Luis Miguel Salvador 18' Luis Miguel Salvador 34' Luís Roberto Alves 50' Ignacio Ambríz 55';
-     Hector Wright 17'
-[Sun Jul 25]
-  Jamaica - Costa Rica  1-1   @ Mexico City, Mexico
-     Devon Jarrett 89';
-     Floyd Guthrie 10'
-  Mexico - United States  4-0   @ Mexico City, Mexico
-     Ignacio Ambríz 11' Desmond Armstrong 31' (o.g.) Luís Roberto Alves 69' Guillermo Cantu 79'
+Sat Jul 10
+  Honduras             v Panama                5-1   @ Dallas, United States
+     (Giovanni Gayle 25' Eduardo Bennett 51' Alex Pineda Chacón 54' Eduardo Bennett 69'(p) Eduardo Bennett 83';
+      Jesús Julio 30')
+  United States        v Jamaica               1-0   @ Dallas, United States
+     (Eric Wynalda 67')
+Sun Jul 11
+  Canada               v Costa Rica            1-1   @ Mexico City, Mexico
+     (Nick Dasovic 43';
+      Roy Myers 82')
+  Mexico               v Martinique            9-0   @ Mexico City, Mexico
+     (Luís Roberto Alves 11' Luís Roberto Alves 21' Luís Roberto Alves 29' Ramón Ramírez 40' Luís Roberto Alves 54' Luís Roberto Alves 76' Luís Roberto Alves 84' Luís Roberto Alves 90' Juan Hernández 90')
+Wed Jul 14
+  Honduras             v Jamaica               1-3   @ Dallas, United States
+     (Eduardo Bennett 18'(p);
+      Devon Jarrett 28' Paul Davis 48' Walter Boyd 78')
+  United States        v Panama                2-1   @ Dallas, United States
+     (Eric Wynalda 69' Thomas Dooley 74';
+      Percival Piggott 33')
+Thu Jul 15
+  Canada               v Martinique            2-2   @ Mexico City, Mexico
+     (Geoff Aunger 25' Alex Bunbury 43';
+      Georges Gertrude 53' Thierry Fondelot 86')
+  Mexico               v Costa Rica            1-1   @ Mexico City, Mexico
+     (Javier Delgado 74'(og);
+      Juan Cayasso 30')
+Sat Jul 17
+  Jamaica              v Panama                1-1   @ Dallas, United States
+     (Paul Davis 76';
+      Víctor René Mendieta Ocampo 50'(p))
+  United States        v Honduras              1-0   @ Dallas, United States
+     (Alexi Lalas 29')
+Sun Jul 18
+  Costa Rica           v Martinique            3-1   @ Mexico City, Mexico
+     (Roy Myers 28' Juan Cayasso 69' Juan Cayasso 87';
+      Thierry Tinmar 59'(p))
+  Mexico               v Canada                8-0   @ Mexico City, Mexico
+     (Jorge Rodríguez 4' Octavio Mora 24' Octavio Mora 30' Luís Roberto Alves 32' Luís Roberto Alves 34' Jorge Rodríguez 67' Luis Miguel Salvador 83' Luis Miguel Salvador 88')
+Thu Jul 22
+  United States        v Costa Rica            1-0   @ Dallas, United States
+     (Cle Kooiman 103')
+  Mexico               v Jamaica               6-1   @ Mexico City, Mexico
+     (Luis Miguel Salvador 9' Octavio Mora 14' Luis Miguel Salvador 18' Luis Miguel Salvador 34' Luís Roberto Alves 50' Ignacio Ambríz 55';
+      Hector Wright 17')
+Sun Jul 25
+  Jamaica              v Costa Rica            1-1   @ Mexico City, Mexico
+     (Devon Jarrett 89';
+      Floyd Guthrie 10')
+  Mexico               v United States         4-0   @ Mexico City, Mexico
+     (Ignacio Ambríz 11' Desmond Armstrong 31'(og) Luís Roberto Alves 69' Guillermo Cantu 79')
 

@@ -1,19 +1,19 @@
 = Baltic Cup 1930
 
-# Date       Fri Aug/15 - Sun Aug/17 1930 (2d)
+# Date       Fri Aug 15 - Sun Aug 17 1930 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Aug 15]
-  Lithuania - Estonia  2-1   @ Kaunas, Lithuania
-     Jaroslavas Citavičius 65' Antanas Lingis 67';
-     Friedrich Karm 49'
-[Sat Aug 16]
-  Latvia - Estonia  3-2   @ Kaunas, Lithuania
-     Ēriks Pētersons 11' Voldemārs Žins 15' Fricis Dambrēvics 56';
-     Eugen Einman 18' Friedrich Karm 38'
-[Sun Aug 17]
-  Lithuania - Latvia  3-3   @ Kaunas, Lithuania
-     Jaroslavas Citavičius 32' Antanas Lingis 46' Stepas Chmelevskis 89';
-     Ēriks Pētersons 37' Ēriks Pētersons 61' Ēriks Pētersons 64'
+Fri Aug 15
+  Lithuania            v Estonia               2-1   @ Kaunas, Lithuania
+     (Jaroslavas Citavičius 65' Antanas Lingis 67';
+      Friedrich Karm 49')
+Sat Aug 16
+  Latvia               v Estonia               3-2   @ Kaunas, Lithuania
+     (Ēriks Pētersons 11' Voldemārs Žins 15' Fricis Dambrēvics 56';
+      Eugen Einman 18' Friedrich Karm 38')
+Sun Aug 17
+  Lithuania            v Latvia                3-3   @ Kaunas, Lithuania
+     (Jaroslavas Citavičius 32' Antanas Lingis 46' Stepas Chmelevskis 89';
+      Ēriks Pētersons 37' Ēriks Pētersons 61' Ēriks Pētersons 64')
 

@@ -1,11 +1,11 @@
 = Copa Premio Honor Argentino 1918
 
-# Date       Thu Aug/15 - Sun Aug/25 1918 (10d)
+# Date       Thu Aug 15 - Sun Aug 25 1918 (10d)
 # Teams      2
 # Matches    2
 
-[Thu Aug 15]
-  Argentina - Uruguay  0-0   @ Buenos Aires, Argentina
-[Sun Aug 25]
-  Argentina - Uruguay  2-1   @ Buenos Aires, Argentina
+Thu Aug 15
+  Argentina            v Uruguay               0-0   @ Buenos Aires, Argentina
+Sun Aug 25
+  Argentina            v Uruguay               2-1   @ Buenos Aires, Argentina
 

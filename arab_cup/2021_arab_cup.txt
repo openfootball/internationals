@@ -1,49 +1,49 @@
 = Arab Cup 2021
 
-# Date       Tue Nov/30 - Sat Dec/18 2021 (18d)
+# Date       Tue Nov 30 - Sat Dec 18 2021 (18d)
 # Teams      16
 # Matches    32
 
-[Tue Nov 30]
-  Iraq - Oman  1-1   @ Al Wakrah, Qatar
-  Qatar - Bahrain  1-0   @ Al Khor, Qatar
-  Tunisia - Mauritania  5-1   @ Al Rayyan, Qatar
-  United Arab Emirates - Syria  2-1   @ Doha, Qatar
-[Wed Dec 1]
-  Morocco - Palestine  4-0   @ Al Wakrah, Qatar
-  Saudi Arabia - Jordan  0-1   @ Al Rayyan, Qatar
-  Algeria - Sudan  4-0   @ Al Rayyan, Qatar
-  Egypt - Lebanon  1-0   @ Doha, Qatar
-[Fri Dec 3]
-  Bahrain - Iraq  0-0   @ Doha, Qatar
-  Qatar - Oman  2-1   @ Al Rayyan, Qatar
-  Mauritania - United Arab Emirates  0-1   @ Doha, Qatar
-  Syria - Tunisia  2-0   @ Al Khor, Qatar
-[Sat Dec 4]
-  Jordan - Morocco  0-4   @ Al Rayyan, Qatar
-  Palestine - Saudi Arabia  1-1   @ Al Rayyan, Qatar
-  Lebanon - Algeria  0-2   @ Al Wakrah, Qatar
-  Sudan - Egypt  0-5   @ Doha, Qatar
-[Mon Dec 6]
-  Oman - Bahrain  3-0   @ Al Rayyan, Qatar
-  Qatar - Iraq  3-0   @ Al Khor, Qatar
-  Syria - Mauritania  1-2   @ Al Wakrah, Qatar
-  Tunisia - United Arab Emirates  1-0   @ Doha, Qatar
-[Tue Dec 7]
-  Jordan - Palestine  5-1   @ Doha, Qatar
-  Morocco - Saudi Arabia  1-0   @ Doha, Qatar
-  Algeria - Egypt  1-1   @ Al Wakrah, Qatar
-  Lebanon - Sudan  1-0   @ Al Rayyan, Qatar
-[Fri Dec 10]
-  Tunisia - Oman  2-1   @ Al Rayyan, Qatar
-  Qatar - United Arab Emirates  5-0   @ Al Khor, Qatar
-[Sat Dec 11]
-  Egypt - Jordan  3-1   @ Al Wakrah, Qatar
-  Morocco - Algeria  2-2   @ Doha, Qatar   [Algeria wins on penalties]
-[Wed Dec 15]
-  Tunisia - Egypt  1-0   @ Doha, Qatar
-  Qatar - Algeria  1-2   @ Doha, Qatar
-[Sat Dec 18]
-  Qatar - Egypt  0-0   @ Doha, Qatar   [Qatar wins on penalties]
-  Tunisia - Algeria  0-2   @ Al Khor, Qatar
+Tue Nov 30
+  Iraq                 v Oman                  1-1   @ Al Wakrah, Qatar
+  Qatar                v Bahrain               1-0   @ Al Khor, Qatar
+  Tunisia              v Mauritania            5-1   @ Al Rayyan, Qatar
+  United Arab Emirates v Syria                 2-1   @ Doha, Qatar
+Wed Dec 1
+  Morocco              v Palestine             4-0   @ Al Wakrah, Qatar
+  Saudi Arabia         v Jordan                0-1   @ Al Rayyan, Qatar
+  Algeria              v Sudan                 4-0   @ Al Rayyan, Qatar
+  Egypt                v Lebanon               1-0   @ Doha, Qatar
+Fri Dec 3
+  Bahrain              v Iraq                  0-0   @ Doha, Qatar
+  Qatar                v Oman                  2-1   @ Al Rayyan, Qatar
+  Mauritania           v United Arab Emirates  0-1   @ Doha, Qatar
+  Syria                v Tunisia               2-0   @ Al Khor, Qatar
+Sat Dec 4
+  Jordan               v Morocco               0-4   @ Al Rayyan, Qatar
+  Palestine            v Saudi Arabia          1-1   @ Al Rayyan, Qatar
+  Lebanon              v Algeria               0-2   @ Al Wakrah, Qatar
+  Sudan                v Egypt                 0-5   @ Doha, Qatar
+Mon Dec 6
+  Oman                 v Bahrain               3-0   @ Al Rayyan, Qatar
+  Qatar                v Iraq                  3-0   @ Al Khor, Qatar
+  Syria                v Mauritania            1-2   @ Al Wakrah, Qatar
+  Tunisia              v United Arab Emirates  1-0   @ Doha, Qatar
+Tue Dec 7
+  Jordan               v Palestine             5-1   @ Doha, Qatar
+  Morocco              v Saudi Arabia          1-0   @ Doha, Qatar
+  Algeria              v Egypt                 1-1   @ Al Wakrah, Qatar
+  Lebanon              v Sudan                 1-0   @ Al Rayyan, Qatar
+Fri Dec 10
+  Tunisia              v Oman                  2-1   @ Al Rayyan, Qatar
+  Qatar                v United Arab Emirates  5-0   @ Al Khor, Qatar
+Sat Dec 11
+  Egypt                v Jordan                3-1   @ Al Wakrah, Qatar
+  Morocco              v Algeria               2-2   @ Doha, Qatar   [Algeria wins on penalties]
+Wed Dec 15
+  Tunisia              v Egypt                 1-0   @ Doha, Qatar
+  Qatar                v Algeria               1-2   @ Doha, Qatar
+Sat Dec 18
+  Qatar                v Egypt                 0-0   @ Doha, Qatar   [Qatar wins on penalties]
+  Tunisia              v Algeria               0-2   @ Al Khor, Qatar
 

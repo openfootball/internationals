@@ -1,11 +1,11 @@
 = Copa Roca 1960
 
-# Date       Thu May/26 - Sun May/29 1960 (3d)
+# Date       Thu May 26 - Sun May 29 1960 (3d)
 # Teams      2
 # Matches    2
 
-[Thu May 26]
-  Argentina - Brazil  4-2   @ Buenos Aires, Argentina
-[Sun May 29]
-  Argentina - Brazil  1-4   @ Buenos Aires, Argentina
+Thu May 26
+  Argentina            v Brazil                4-2   @ Buenos Aires, Argentina
+Sun May 29
+  Argentina            v Brazil                1-4   @ Buenos Aires, Argentina
 

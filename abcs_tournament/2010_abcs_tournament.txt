@@ -1,13 +1,13 @@
 = ABCS Tournament 2010
 
-# Date       Fri Oct/29 - Sun Oct/31 2010 (2d)
+# Date       Fri Oct 29 - Sun Oct 31 2010 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Oct 29]
-  Curaçao - Aruba  3-0   @ Willemstad, Curaçao
-  Suriname - Bonaire  4-2   @ Willemstad, Curaçao
-[Sun Oct 31]
-  Aruba - Bonaire  3-3   @ Willemstad, Curaçao
-  Curaçao - Suriname  2-2   @ Willemstad, Curaçao
+Fri Oct 29
+  Curaçao              v Aruba                 3-0   @ Willemstad, Curaçao
+  Suriname             v Bonaire               4-2   @ Willemstad, Curaçao
+Sun Oct 31
+  Aruba                v Bonaire               3-3   @ Willemstad, Curaçao
+  Curaçao              v Suriname              2-2   @ Willemstad, Curaçao
 

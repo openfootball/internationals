@@ -1,13 +1,13 @@
 = Miami Cup 1990
 
-# Date       Fri Feb/2 - Sun Feb/4 1990 (2d)
+# Date       Fri Feb 2 - Sun Feb 4 1990 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Feb 2]
-  Colombia - Uruguay  0-2   @ Miami, United States
-  United States - Costa Rica  0-2   @ Miami, United States
-[Sun Feb 4]
-  Costa Rica - Uruguay  0-2   @ Miami, United States
-  United States - Colombia  1-1   @ Miami, United States   [Colombia wins on penalties]
+Fri Feb 2
+  Colombia             v Uruguay               0-2   @ Miami, United States
+  United States        v Costa Rica            0-2   @ Miami, United States
+Sun Feb 4
+  Costa Rica           v Uruguay               0-2   @ Miami, United States
+  United States        v Colombia              1-1   @ Miami, United States   [Colombia wins on penalties]
 

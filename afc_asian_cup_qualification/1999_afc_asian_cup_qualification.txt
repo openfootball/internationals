@@ -1,43 +1,43 @@
 = AFC Asian Cup qualification 1999
 
-# Date       Tue Aug/3 - Mon Nov/29 1999 (118d)
+# Date       Tue Aug 3 - Mon Nov 29 1999 (118d)
 # Teams      12
 # Matches    22
 
-[Tue Aug 3]
-  Oman - Kyrgyzstan  3-0   @ Dushanbe, Tajikistan
-  Tajikistan - Iraq  1-2   @ Dushanbe, Tajikistan
-[Thu Aug 5]
-  Iraq - Oman  2-0   @ Dushanbe, Tajikistan
-  Tajikistan - Kyrgyzstan  3-2   @ Dushanbe, Tajikistan
-[Sat Aug 7]
-  Iraq - Kyrgyzstan  5-1   @ Dushanbe, Tajikistan
-  Tajikistan - Oman  2-1   @ Dushanbe, Tajikistan
-[Mon Oct 18]
-  Hong Kong - Cambodia  4-1   @ Victoria, Hong Kong
-[Sun Oct 24]
-  Hong Kong - Indonesia  1-1   @ Victoria, Hong Kong
-[Sat Oct 30]
-  Cambodia - Indonesia  1-5   @ Phnom Penh, Cambodia
-[Sun Nov 7]
-  Cambodia - Hong Kong  0-1   @ Phnom Penh, Cambodia
-[Sun Nov 14]
-  Indonesia - Hong Kong  3-1   @ Jakarta, Indonesia
-[Sat Nov 20]
-  Indonesia - Cambodia  9-2   @ Jakarta, Indonesia
-[Sun Nov 21]
-  Bangladesh - Uzbekistan  0-6   @ Abu Dhabi, United Arab Emirates
-  United Arab Emirates - India  3-1   @ Abu Dhabi, United Arab Emirates
-[Tue Nov 23]
-  Sri Lanka - Uzbekistan  0-6   @ Abu Dhabi, United Arab Emirates
-  United Arab Emirates - Bangladesh  3-0   @ Abu Dhabi, United Arab Emirates
-[Thu Nov 25]
-  India - Uzbekistan  2-3   @ Abu Dhabi, United Arab Emirates
-  Sri Lanka - Bangladesh  1-3   @ Abu Dhabi, United Arab Emirates
-[Sat Nov 27]
-  Sri Lanka - India  1-3   @ Abu Dhabi, United Arab Emirates
-  United Arab Emirates - Uzbekistan  0-1   @ Abu Dhabi, United Arab Emirates
-[Mon Nov 29]
-  India - Bangladesh  2-2   @ Abu Dhabi, United Arab Emirates
-  United Arab Emirates - Sri Lanka  6-0   @ Abu Dhabi, United Arab Emirates
+Tue Aug 3
+  Oman                 v Kyrgyzstan            3-0   @ Dushanbe, Tajikistan
+  Tajikistan           v Iraq                  1-2   @ Dushanbe, Tajikistan
+Thu Aug 5
+  Iraq                 v Oman                  2-0   @ Dushanbe, Tajikistan
+  Tajikistan           v Kyrgyzstan            3-2   @ Dushanbe, Tajikistan
+Sat Aug 7
+  Iraq                 v Kyrgyzstan            5-1   @ Dushanbe, Tajikistan
+  Tajikistan           v Oman                  2-1   @ Dushanbe, Tajikistan
+Mon Oct 18
+  Hong Kong            v Cambodia              4-1   @ Victoria, Hong Kong
+Sun Oct 24
+  Hong Kong            v Indonesia             1-1   @ Victoria, Hong Kong
+Sat Oct 30
+  Cambodia             v Indonesia             1-5   @ Phnom Penh, Cambodia
+Sun Nov 7
+  Cambodia             v Hong Kong             0-1   @ Phnom Penh, Cambodia
+Sun Nov 14
+  Indonesia            v Hong Kong             3-1   @ Jakarta, Indonesia
+Sat Nov 20
+  Indonesia            v Cambodia              9-2   @ Jakarta, Indonesia
+Sun Nov 21
+  Bangladesh           v Uzbekistan            0-6   @ Abu Dhabi, United Arab Emirates
+  United Arab Emirates v India                 3-1   @ Abu Dhabi, United Arab Emirates
+Tue Nov 23
+  Sri Lanka            v Uzbekistan            0-6   @ Abu Dhabi, United Arab Emirates
+  United Arab Emirates v Bangladesh            3-0   @ Abu Dhabi, United Arab Emirates
+Thu Nov 25
+  India                v Uzbekistan            2-3   @ Abu Dhabi, United Arab Emirates
+  Sri Lanka            v Bangladesh            1-3   @ Abu Dhabi, United Arab Emirates
+Sat Nov 27
+  Sri Lanka            v India                 1-3   @ Abu Dhabi, United Arab Emirates
+  United Arab Emirates v Uzbekistan            0-1   @ Abu Dhabi, United Arab Emirates
+Mon Nov 29
+  India                v Bangladesh            2-2   @ Abu Dhabi, United Arab Emirates
+  United Arab Emirates v Sri Lanka             6-0   @ Abu Dhabi, United Arab Emirates
 

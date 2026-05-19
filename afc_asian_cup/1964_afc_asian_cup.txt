@@ -1,27 +1,27 @@
 = AFC Asian Cup 1964
 
-# Date       Tue May/26 - Wed Jun/3 1964 (8d)
+# Date       Tue May 26 - Wed Jun 3 1964 (8d)
 # Teams      4
 # Matches    6
 
-[Tue May 26]
-  Israel - Hong Kong  1-0   @ Ramat Gan, Israel
-     Mordechai Spiegler 76'
-[Wed May 27]
-  India - South Korea  2-0   @ Haifa, Israel
-     K. Appalaraju 2' Inder Singh 57'
-[Fri May 29]
-  Israel - India  2-0   @ Jaffa, Israel
-     Mordechai Spiegler 29' (pen.) Yohai Aharoni 76'
-[Sat May 30]
-  Hong Kong - South Korea  0-1   @ Jerusalem, Israel
-     -; Park Seung-ok 74'
-[Tue Jun 2]
-  Hong Kong - India  1-3   @ Jaffa, Israel
-     Cheung Yiu Kwok 39';
-     Inder Singh 45' Sukumar Samajpati 60' Chuni Goswami 77'
-[Wed Jun 3]
-  Israel - South Korea  2-1   @ Ramat Gan, Israel
-     Moshe Leon 20' Gideon Tish 38';
-     Lee Soon-myung 79'
+Tue May 26
+  Israel               v Hong Kong             1-0   @ Ramat Gan, Israel
+     (Mordechai Spiegler 76')
+Wed May 27
+  India                v South Korea           2-0   @ Haifa, Israel
+     (K. Appalaraju 2' Inder Singh 57')
+Fri May 29
+  Israel               v India                 2-0   @ Jaffa, Israel
+     (Mordechai Spiegler 29'(p) Yohai Aharoni 76')
+Sat May 30
+  Hong Kong            v South Korea           0-1   @ Jerusalem, Israel
+     (Park Seung-ok 74')
+Tue Jun 2
+  Hong Kong            v India                 1-3   @ Jaffa, Israel
+     (Cheung Yiu Kwok 39';
+      Inder Singh 45' Sukumar Samajpati 60' Chuni Goswami 77')
+Wed Jun 3
+  Israel               v South Korea           2-1   @ Ramat Gan, Israel
+     (Moshe Leon 20' Gideon Tish 38';
+      Lee Soon-myung 79')
 

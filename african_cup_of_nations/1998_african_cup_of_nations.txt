@@ -1,103 +1,103 @@
 = African Cup of Nations 1998
 
-# Date       Sat Feb/7 - Sat Feb/28 1998 (21d)
+# Date       Sat Feb 7 - Sat Feb 28 1998 (21d)
 # Teams      16
 # Matches    32
 
-[Sat Feb 7]
-  Burkina Faso - Cameroon  0-1   @ Ouagadougou, Burkina Faso
-     -; Alphonse Tchami 20'
-[Sun Feb 8]
-  Algeria - Guinea  0-1   @ Ouagadougou, Burkina Faso
-     -; Souleymane Oularé 19'
-  Ivory Coast - Namibia  4-3   @ Bobo Dioulasso, Burkina Faso
-     Joël Tiéhi 2' Ibrahima Bakayoko 34' Joël Tiéhi 39' Lassina Diabaté 83';
-     Eliphas Shivute 46' Ricardo Mannetti 70' Eliphas Shivute 73'
-  South Africa - Angola  0-0   @ Bobo Dioulasso, Burkina Faso
-[Mon Feb 9]
-  DR Congo - Togo  2-1   @ Ouagadougou, Burkina Faso
-     Jerry Tondelua 57' (pen.) Jerry Tondelua 73' (pen.);
-     Massamasso Tchangai 90'
-  Ghana - Tunisia  2-0   @ Ouagadougou, Burkina Faso
-     Alex Nyarko 8' Mohammed Gargo 90'
-  Zambia - Morocco  1-1   @ Bobo Dioulasso, Burkina Faso
-     Tenant Chilumba 87';
-     Ahmed Bahja 37'
-[Tue Feb 10]
-  Egypt - Mozambique  2-0   @ Bobo Dioulasso, Burkina Faso
-     Hossam Hassan 14' Hossam Hassan 44'
-[Wed Feb 11]
-  Burkina Faso - Algeria  2-1   @ Ouagadougou, Burkina Faso
-     Kassoum Ouédraogo 65' (pen.) Seydou Traoré 77';
-     Moussa Saïb 82' (pen.)
-  Cameroon - Guinea  2-2   @ Ouagadougou, Burkina Faso
-     Alphonse Tchami 9' Pierre Womé 44';
-     Souleymane Oularé 46' Souleymane Oularé 77'
-  South Africa - Ivory Coast  1-1   @ Bobo Dioulasso, Burkina Faso
-     Helman Mkhalele 8' (pen.);
-     Ahmed Ouattara 88'
-[Thu Feb 12]
-  Angola - Namibia  3-3   @ Bobo Dioulasso, Burkina Faso
-     Lázaro Oliveira 46' Paulo Jorge Da Silva 67' (pen.) Miguel Pereira 86';
-     Gervatius Uri Khob 20' Robert Nauseb 33' Gervatius Uri Khob 51'
-  Ghana - Togo  1-2   @ Ouagadougou, Burkina Faso
-     Samuel Johnson 83' (pen.);
-     Franck Doté 26' Mohamed Kader 90'
-  Tunisia - DR Congo  2-1   @ Ouagadougou, Burkina Faso
-     Mehdi Ben Slimane 31' Ziad Tlemçani 76';
-     Papi Kimoto 36'
-[Fri Feb 13]
-  Morocco - Mozambique  3-0   @ Bobo Dioulasso, Burkina Faso
-     Saïd Chiba 39' Ali Elkhattabi 40' Youssef Fertout 82'
-  Zambia - Egypt  0-4   @ Bobo Dioulasso, Burkina Faso
-     -; Hossam Hassan 34' Hossam Hassan 57' Hossam Hassan 71' Yasser Radwan 80'
-[Sun Feb 15]
-  Burkina Faso - Guinea  1-0   @ Ouagadougou, Burkina Faso
-     Romeo Kambou 85'
-  Cameroon - Algeria  2-1   @ Ouagadougou, Burkina Faso
-     Joseph-Désiré Job 47' Alphonse Tchami 65';
-     Billel Dziri 40'
-[Mon Feb 16]
-  Ghana - DR Congo  0-1   @ Ouagadougou, Burkina Faso
-     -; Bijou Kisombe Mundaba 77'
-  Ivory Coast - Angola  5-2   @ Ouagadougou, Burkina Faso
-     Tchiressoua Guel 8' Tchiressoua Guel 23' Joël Tiéhi 43' Ibrahima Bakayoko 56' Joël Tiéhi 81' (pen.);
-     Paulo Jorge Da Silva 27' Quinzinho 52'
-  South Africa - Namibia  4-1   @ Bobo Dioulasso, Burkina Faso
-     Benni McCarthy 8' Benni McCarthy 11' Benni McCarthy 19' Benni McCarthy 21';
-     Simon Uutoni 68'
-  Tunisia - Togo  3-1   @ Ouagadougou, Burkina Faso
-     Ziad Tlemçani 9' Mehdi Ben Slimane 12' Hassen Gabsi 80';
-     Komlan Assignon 4' (pen.)
-[Tue Feb 17]
-  Egypt - Morocco  0-1   @ Ouagadougou, Burkina Faso
-     -; Mustapha Hadji 90'
-  Zambia - Mozambique  3-1   @ Bobo Dioulasso, Burkina Faso
-     Rotson Kilambe 16' Kalusha Bwalya 43' Masauso Tembo 73';
-     Avelino Salvador Maluana 57'
-[Fri Feb 20]
-  Cameroon - DR Congo  0-1   @ Bobo Dioulasso, Burkina Faso
-     -; Jerry Tondelua 30'
-[Sat Feb 21]
-  Burkina Faso - Tunisia  1-1   @ Ouagadougou, Burkina Faso   [Burkina Faso wins on penalties]
-     Kassoum Ouédraogo 45' (pen.);
-     Hassen Gabsi 89'
-  Ivory Coast - Egypt  0-0   @ Ouagadougou, Burkina Faso   [Egypt wins on penalties]
-[Sun Feb 22]
-  Morocco - South Africa  1-2   @ Ouagadougou, Burkina Faso
-     Saïd Chiba 36';
-     Benni McCarthy 22' David Nyathi 79'
-[Wed Feb 25]
-  Burkina Faso - Egypt  0-2   @ Bobo Dioulasso, Burkina Faso
-     -; Hossam Hassan 40' Hossam Hassan 71'
-  DR Congo - South Africa  1-2   @ Ouagadougou, Burkina Faso
-     Eddy Bembuana-Keve 48';
-     Benni McCarthy 60' Benni McCarthy 112'
-[Fri Feb 27]
-  Burkina Faso - DR Congo  4-4   @ Ouagadougou, Burkina Faso   [DR Congo wins on penalties]
-     Alassane Ouédraogo 6' Oumar Barro 52' Sidi Napon 56' Ibrahima Tallé 86';
-     Lokenge Mungongo 76' Jean-Kasongo Banza 88' Jerry Tondelua 89' Lokenge Mungongo 90'
-[Sat Feb 28]
-  South Africa - Egypt  0-2   @ Ouagadougou, Burkina Faso
-     -; Ahmed Hassan 5' Tarek Mostafa 13'
+Sat Feb 7
+  Burkina Faso         v Cameroon              0-1   @ Ouagadougou, Burkina Faso
+     (Alphonse Tchami 20')
+Sun Feb 8
+  Algeria              v Guinea                0-1   @ Ouagadougou, Burkina Faso
+     (Souleymane Oularé 19')
+  Ivory Coast          v Namibia               4-3   @ Bobo Dioulasso, Burkina Faso
+     (Joël Tiéhi 2' Ibrahima Bakayoko 34' Joël Tiéhi 39' Lassina Diabaté 83';
+      Eliphas Shivute 46' Ricardo Mannetti 70' Eliphas Shivute 73')
+  South Africa         v Angola                0-0   @ Bobo Dioulasso, Burkina Faso
+Mon Feb 9
+  DR Congo             v Togo                  2-1   @ Ouagadougou, Burkina Faso
+     (Jerry Tondelua 57'(p) Jerry Tondelua 73'(p);
+      Massamasso Tchangai 90')
+  Ghana                v Tunisia               2-0   @ Ouagadougou, Burkina Faso
+     (Alex Nyarko 8' Mohammed Gargo 90')
+  Zambia               v Morocco               1-1   @ Bobo Dioulasso, Burkina Faso
+     (Tenant Chilumba 87';
+      Ahmed Bahja 37')
+Tue Feb 10
+  Egypt                v Mozambique            2-0   @ Bobo Dioulasso, Burkina Faso
+     (Hossam Hassan 14' Hossam Hassan 44')
+Wed Feb 11
+  Burkina Faso         v Algeria               2-1   @ Ouagadougou, Burkina Faso
+     (Kassoum Ouédraogo 65'(p) Seydou Traoré 77';
+      Moussa Saïb 82'(p))
+  Cameroon             v Guinea                2-2   @ Ouagadougou, Burkina Faso
+     (Alphonse Tchami 9' Pierre Womé 44';
+      Souleymane Oularé 46' Souleymane Oularé 77')
+  South Africa         v Ivory Coast           1-1   @ Bobo Dioulasso, Burkina Faso
+     (Helman Mkhalele 8'(p);
+      Ahmed Ouattara 88')
+Thu Feb 12
+  Angola               v Namibia               3-3   @ Bobo Dioulasso, Burkina Faso
+     (Lázaro Oliveira 46' Paulo Jorge Da Silva 67'(p) Miguel Pereira 86';
+      Gervatius Uri Khob 20' Robert Nauseb 33' Gervatius Uri Khob 51')
+  Ghana                v Togo                  1-2   @ Ouagadougou, Burkina Faso
+     (Samuel Johnson 83'(p);
+      Franck Doté 26' Mohamed Kader 90')
+  Tunisia              v DR Congo              2-1   @ Ouagadougou, Burkina Faso
+     (Mehdi Ben Slimane 31' Ziad Tlemçani 76';
+      Papi Kimoto 36')
+Fri Feb 13
+  Morocco              v Mozambique            3-0   @ Bobo Dioulasso, Burkina Faso
+     (Saïd Chiba 39' Ali Elkhattabi 40' Youssef Fertout 82')
+  Zambia               v Egypt                 0-4   @ Bobo Dioulasso, Burkina Faso
+     (Hossam Hassan 34' Hossam Hassan 57' Hossam Hassan 71' Yasser Radwan 80')
+Sun Feb 15
+  Burkina Faso         v Guinea                1-0   @ Ouagadougou, Burkina Faso
+     (Romeo Kambou 85')
+  Cameroon             v Algeria               2-1   @ Ouagadougou, Burkina Faso
+     (Joseph-Désiré Job 47' Alphonse Tchami 65';
+      Billel Dziri 40')
+Mon Feb 16
+  Ghana                v DR Congo              0-1   @ Ouagadougou, Burkina Faso
+     (Bijou Kisombe Mundaba 77')
+  Ivory Coast          v Angola                5-2   @ Ouagadougou, Burkina Faso
+     (Tchiressoua Guel 8' Tchiressoua Guel 23' Joël Tiéhi 43' Ibrahima Bakayoko 56' Joël Tiéhi 81'(p);
+      Paulo Jorge Da Silva 27' Quinzinho 52')
+  South Africa         v Namibia               4-1   @ Bobo Dioulasso, Burkina Faso
+     (Benni McCarthy 8' Benni McCarthy 11' Benni McCarthy 19' Benni McCarthy 21';
+      Simon Uutoni 68')
+  Tunisia              v Togo                  3-1   @ Ouagadougou, Burkina Faso
+     (Ziad Tlemçani 9' Mehdi Ben Slimane 12' Hassen Gabsi 80';
+      Komlan Assignon 4'(p))
+Tue Feb 17
+  Egypt                v Morocco               0-1   @ Ouagadougou, Burkina Faso
+     (Mustapha Hadji 90')
+  Zambia               v Mozambique            3-1   @ Bobo Dioulasso, Burkina Faso
+     (Rotson Kilambe 16' Kalusha Bwalya 43' Masauso Tembo 73';
+      Avelino Salvador Maluana 57')
+Fri Feb 20
+  Cameroon             v DR Congo              0-1   @ Bobo Dioulasso, Burkina Faso
+     (Jerry Tondelua 30')
+Sat Feb 21
+  Burkina Faso         v Tunisia               1-1   @ Ouagadougou, Burkina Faso   [Burkina Faso wins on penalties]
+     (Kassoum Ouédraogo 45'(p);
+      Hassen Gabsi 89')
+  Ivory Coast          v Egypt                 0-0   @ Ouagadougou, Burkina Faso   [Egypt wins on penalties]
+Sun Feb 22
+  Morocco              v South Africa          1-2   @ Ouagadougou, Burkina Faso
+     (Saïd Chiba 36';
+      Benni McCarthy 22' David Nyathi 79')
+Wed Feb 25
+  Burkina Faso         v Egypt                 0-2   @ Bobo Dioulasso, Burkina Faso
+     (Hossam Hassan 40' Hossam Hassan 71')
+  DR Congo             v South Africa          1-2   @ Ouagadougou, Burkina Faso
+     (Eddy Bembuana-Keve 48';
+      Benni McCarthy 60' Benni McCarthy 112')
+Fri Feb 27
+  Burkina Faso         v DR Congo              4-4   @ Ouagadougou, Burkina Faso   [DR Congo wins on penalties]
+     (Alassane Ouédraogo 6' Oumar Barro 52' Sidi Napon 56' Ibrahima Tallé 86';
+      Lokenge Mungongo 76' Jean-Kasongo Banza 88' Jerry Tondelua 89' Lokenge Mungongo 90')
+Sat Feb 28
+  South Africa         v Egypt                 0-2   @ Ouagadougou, Burkina Faso
+     (Ahmed Hassan 5' Tarek Mostafa 13')
 

@@ -1,56 +1,56 @@
 = CFU Caribbean Cup qualification 2016
 
-# Date       Tue Mar/22 - Sun Nov/13 2016 (236d)
+# Date       Tue Mar 22 - Sun Nov 13 2016 (236d)
 # Teams      24
 # Matches    36
 
-[Tue Mar 22]
-  Cuba - Bermuda  2-1   @ Havana, Cuba
-[Wed Mar 23]
-  Antigua and Barbuda - Aruba  2-1   @ St. John's, Antigua and Barbuda
-  Barbados - Curaçao  1-0   @ Bridgetown, Barbados
-  Guadeloupe - Suriname  0-0   @ Les Abymes, Guadeloupe
-  Martinique - British Virgin Islands  3-0   @ Fort-de-France, Martinique
-[Sat Mar 26]
-  Anguilla - Puerto Rico  0-4   @ The Valley, Anguilla
-  Aruba - Saint Kitts and Nevis  0-2   @ Oranjestad, Aruba
-  Bermuda - French Guiana  2-1   @ Hamilton, Bermuda
-  British Virgin Islands - Dominica  0-7   @ Road Town, British Virgin Islands
-  Curaçao - Dominican Republic  2-1   @ Willemstad, Curaçao
-  Sint Maarten - United States Virgin Islands  1-2   @ Philipsburg, Sint Maarten
-[Tue Mar 29]
-  Dominica - Martinique  1-4   @ Roseau, Dominica
-  Dominican Republic - Barbados  2-0   @ Santo Domingo, Dominican Republic
-  French Guiana - Cuba  3-0   @ Cayenne, French Guiana
-  Saint Kitts and Nevis - Antigua and Barbuda  1-0   @ Basseterre, Saint Kitts and Nevis
-  Suriname - Guadeloupe  3-2   @ Paramaribo, Suriname
-  United States Virgin Islands - Grenada  1-2   @ Charlotte Amalie, United States Virgin Islands
-[Wed Jun 1]
-  Curaçao - Guyana  5-2   @ Willemstad, Curaçao
-  Grenada - Puerto Rico  3-3   @ St. George's, Grenada
-  Martinique - Guadeloupe  2-0   @ Fort-de-France, Martinique
-  Saint Kitts and Nevis - Suriname  1-0   @ Basseterre, Saint Kitts and Nevis
-[Sat Jun 4]
-  Guadeloupe - Dominica  2-1   @ Les Abymes, Guadeloupe
-  United States Virgin Islands - Guyana  0-7   @ Charlotte Amalie, United States Virgin Islands
-[Tue Jun 7]
-  Curaçao - United States Virgin Islands  7-0   @ Willemstad, Curaçao
-  Dominican Republic - French Guiana  2-1   @ Santo Domingo, Dominican Republic
-  Saint Vincent and the Grenadines - Saint Kitts and Nevis  0-1   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Jun 19]
-  French Guiana - Bermuda  3-0   @ Cayenne, French Guiana
-[Wed Oct 5]
-  Curaçao - Antigua and Barbuda  3-0   @ Willemstad, Curaçao
-  Trinidad and Tobago - Dominican Republic  4-0   @ Couva, Trinidad and Tobago
-[Sat Oct 8]
-  Dominican Republic - Martinique  1-2   @ San Cristóbal, Dominican Republic
-  French Guiana - Saint Kitts and Nevis  1-0   @ Cayenne, French Guiana
-  Suriname - Guyana  3-2   @ Paramaribo, Suriname
-[Tue Oct 11]
-  Puerto Rico - Curaçao  2-4   @ Bayamón, Puerto Rico
-[Wed Nov 9]
-  Haiti - French Guiana  2-5   @ Port-au-Prince, Haiti
-[Sun Nov 13]
-  Jamaica - Suriname  1-0   @ Kingston, Jamaica
-  Saint Kitts and Nevis - Haiti  0-2   @ Basseterre, Saint Kitts and Nevis
+Tue Mar 22
+  Cuba                 v Bermuda               2-1   @ Havana, Cuba
+Wed Mar 23
+  Antigua and Barbuda  v Aruba                 2-1   @ St. John's, Antigua and Barbuda
+  Barbados             v Curaçao               1-0   @ Bridgetown, Barbados
+  Guadeloupe           v Suriname              0-0   @ Les Abymes, Guadeloupe
+  Martinique           v British Virgin Islands  3-0   @ Fort-de-France, Martinique
+Sat Mar 26
+  Anguilla             v Puerto Rico           0-4   @ The Valley, Anguilla
+  Aruba                v Saint Kitts and Nevis  0-2   @ Oranjestad, Aruba
+  Bermuda              v French Guiana         2-1   @ Hamilton, Bermuda
+  British Virgin Islands v Dominica              0-7   @ Road Town, British Virgin Islands
+  Curaçao              v Dominican Republic    2-1   @ Willemstad, Curaçao
+  Sint Maarten         v United States Virgin Islands  1-2   @ Philipsburg, Sint Maarten
+Tue Mar 29
+  Dominica             v Martinique            1-4   @ Roseau, Dominica
+  Dominican Republic   v Barbados              2-0   @ Santo Domingo, Dominican Republic
+  French Guiana        v Cuba                  3-0   @ Cayenne, French Guiana
+  Saint Kitts and Nevis v Antigua and Barbuda   1-0   @ Basseterre, Saint Kitts and Nevis
+  Suriname             v Guadeloupe            3-2   @ Paramaribo, Suriname
+  United States Virgin Islands v Grenada               1-2   @ Charlotte Amalie, United States Virgin Islands
+Wed Jun 1
+  Curaçao              v Guyana                5-2   @ Willemstad, Curaçao
+  Grenada              v Puerto Rico           3-3   @ St. George's, Grenada
+  Martinique           v Guadeloupe            2-0   @ Fort-de-France, Martinique
+  Saint Kitts and Nevis v Suriname              1-0   @ Basseterre, Saint Kitts and Nevis
+Sat Jun 4
+  Guadeloupe           v Dominica              2-1   @ Les Abymes, Guadeloupe
+  United States Virgin Islands v Guyana                0-7   @ Charlotte Amalie, United States Virgin Islands
+Tue Jun 7
+  Curaçao              v United States Virgin Islands  7-0   @ Willemstad, Curaçao
+  Dominican Republic   v French Guiana         2-1   @ Santo Domingo, Dominican Republic
+  Saint Vincent and the Grenadines v Saint Kitts and Nevis  0-1   @ Kingstown, Saint Vincent and the Grenadines
+Sun Jun 19
+  French Guiana        v Bermuda               3-0   @ Cayenne, French Guiana
+Wed Oct 5
+  Curaçao              v Antigua and Barbuda   3-0   @ Willemstad, Curaçao
+  Trinidad and Tobago  v Dominican Republic    4-0   @ Couva, Trinidad and Tobago
+Sat Oct 8
+  Dominican Republic   v Martinique            1-2   @ San Cristóbal, Dominican Republic
+  French Guiana        v Saint Kitts and Nevis  1-0   @ Cayenne, French Guiana
+  Suriname             v Guyana                3-2   @ Paramaribo, Suriname
+Tue Oct 11
+  Puerto Rico          v Curaçao               2-4   @ Bayamón, Puerto Rico
+Wed Nov 9
+  Haiti                v French Guiana         2-5   @ Port-au-Prince, Haiti
+Sun Nov 13
+  Jamaica              v Suriname              1-0   @ Kingston, Jamaica
+  Saint Kitts and Nevis v Haiti                 0-2   @ Basseterre, Saint Kitts and Nevis
 

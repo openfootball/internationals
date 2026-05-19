@@ -1,19 +1,19 @@
 = British Home Championship 1920
 
-# Date       Sat Feb/14 - Sat Oct/23 1920 (252d)
+# Date       Sat Feb 14 - Sat Oct 23 1920 (252d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 14]
-  Northern Ireland - Wales  2-2   @ Belfast, Ireland
-[Thu Feb 26]
-  Wales - Scotland  1-1   @ Cardiff, Wales
-[Sat Mar 13]
-  Scotland - Northern Ireland  3-0   @ Glasgow, Scotland
-[Mon Mar 15]
-  England - Wales  1-2   @ London, England
-[Sat Apr 10]
-  England - Scotland  5-4   @ Sheffield, England
-[Sat Oct 23]
-  England - Northern Ireland  2-0   @ Sunderland, England
+Sat Feb 14
+  Northern Ireland     v Wales                 2-2   @ Belfast, Ireland
+Thu Feb 26
+  Wales                v Scotland              1-1   @ Cardiff, Wales
+Sat Mar 13
+  Scotland             v Northern Ireland      3-0   @ Glasgow, Scotland
+Mon Mar 15
+  England              v Wales                 1-2   @ London, England
+Sat Apr 10
+  England              v Scotland              5-4   @ Sheffield, England
+Sat Oct 23
+  England              v Northern Ireland      2-0   @ Sunderland, England
 

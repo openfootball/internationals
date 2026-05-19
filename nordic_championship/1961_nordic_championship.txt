@@ -1,19 +1,19 @@
 = Nordic Championship 1961
 
-# Date       Sun Jun/18 - Sun Oct/22 1961 (126d)
+# Date       Sun Jun 18 - Sun Oct 22 1961 (126d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 18]
-  Denmark - Sweden  1-2   @ Copenhagen, Denmark
-[Tue Jun 27]
-  Finland - Norway  4-1   @ Helsinki, Finland
-[Wed Aug 9]
-  Sweden - Finland  4-0   @ Norrköping, Sweden
-[Sun Sep 17]
-  Norway - Denmark  0-4   @ Oslo, Norway
-[Sun Oct 15]
-  Denmark - Finland  9-1   @ Copenhagen, Denmark
-[Sun Oct 22]
-  Sweden - Norway  2-0   @ Gothenburg, Sweden
+Sun Jun 18
+  Denmark              v Sweden                1-2   @ Copenhagen, Denmark
+Tue Jun 27
+  Finland              v Norway                4-1   @ Helsinki, Finland
+Wed Aug 9
+  Sweden               v Finland               4-0   @ Norrköping, Sweden
+Sun Sep 17
+  Norway               v Denmark               0-4   @ Oslo, Norway
+Sun Oct 15
+  Denmark              v Finland               9-1   @ Copenhagen, Denmark
+Sun Oct 22
+  Sweden               v Norway                2-0   @ Gothenburg, Sweden
 

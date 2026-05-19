@@ -1,26 +1,26 @@
 = UDEAC Cup 1990
 
-# Date       Sat Dec/8 - Tue Dec/18 1990 (10d)
+# Date       Sat Dec 8 - Tue Dec 18 1990 (10d)
 # Teams      6
 # Matches    11
 
-[Sat Dec 8]
-  Congo - Chad  3-0   @ Brazzaville, Congo
-[Sun Dec 9]
-  Cameroon - Gabon  2-1   @ Brazzaville, Congo
-[Tue Dec 11]
-  Central African Republic - Gabon  0-1   @ Brazzaville, Congo
-[Wed Dec 12]
-  Chad - Equatorial Guinea  1-0   @ Brazzaville, Congo
-[Thu Dec 13]
-  Central African Republic - Cameroon  0-3   @ Brazzaville, Congo
-  Congo - Equatorial Guinea  6-0   @ Brazzaville, Congo
-[Sat Dec 15]
-  Chad - Cameroon  0-1   @ Brazzaville, Congo
-  Congo - Gabon  1-0   @ Brazzaville, Congo
-[Mon Dec 17]
-  Central African Republic - Equatorial Guinea  3-3   @ Brazzaville, Congo   [Central African Republic wins on penalties]
-  Chad - Gabon  2-1   @ Brazzaville, Congo
-[Tue Dec 18]
-  Congo - Cameroon  2-1   @ Brazzaville, Congo
+Sat Dec 8
+  Congo                v Chad                  3-0   @ Brazzaville, Congo
+Sun Dec 9
+  Cameroon             v Gabon                 2-1   @ Brazzaville, Congo
+Tue Dec 11
+  Central African Republic v Gabon                 0-1   @ Brazzaville, Congo
+Wed Dec 12
+  Chad                 v Equatorial Guinea     1-0   @ Brazzaville, Congo
+Thu Dec 13
+  Central African Republic v Cameroon              0-3   @ Brazzaville, Congo
+  Congo                v Equatorial Guinea     6-0   @ Brazzaville, Congo
+Sat Dec 15
+  Chad                 v Cameroon              0-1   @ Brazzaville, Congo
+  Congo                v Gabon                 1-0   @ Brazzaville, Congo
+Mon Dec 17
+  Central African Republic v Equatorial Guinea     3-3   @ Brazzaville, Congo   [Central African Republic wins on penalties]
+  Chad                 v Gabon                 2-1   @ Brazzaville, Congo
+Tue Dec 18
+  Congo                v Cameroon              2-1   @ Brazzaville, Congo
 

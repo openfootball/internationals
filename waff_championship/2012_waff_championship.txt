@@ -1,37 +1,37 @@
 = WAFF Championship 2012
 
-# Date       Sat Dec/8 - Thu Dec/20 2012 (12d)
+# Date       Sat Dec 8 - Thu Dec 20 2012 (12d)
 # Teams      11
 # Matches    19
 
-[Sat Dec 8]
-  Kuwait - Palestine  2-1   @ Kuwait City, Kuwait
-  Oman - Lebanon  0-1   @ Al Farwaniyah, Kuwait
-[Sun Dec 9]
-  Bahrain - Yemen  1-0   @ Al Farwaniyah, Kuwait
-  Iran - Saudi Arabia  0-0   @ Kuwait City, Kuwait
-[Mon Dec 10]
-  Iraq - Jordan  1-0   @ Al Farwaniyah, Kuwait
-[Tue Dec 11]
-  Kuwait - Oman  0-2   @ Kuwait City, Kuwait
-  Lebanon - Palestine  0-1   @ Al Farwaniyah, Kuwait
-[Wed Dec 12]
-  Iran - Bahrain  0-0   @ Kuwait City, Kuwait
-  Yemen - Saudi Arabia  0-1   @ Al Farwaniyah, Kuwait
-[Thu Dec 13]
-  Iraq - Syria  1-1   @ Kuwait City, Kuwait
-[Fri Dec 14]
-  Kuwait - Lebanon  2-1   @ Kuwait City, Kuwait
-  Oman - Palestine  2-1   @ Al Farwaniyah, Kuwait
-[Sat Dec 15]
-  Bahrain - Saudi Arabia  1-0   @ Al Farwaniyah, Kuwait
-  Iran - Yemen  2-1   @ Kuwait City, Kuwait
-[Sun Dec 16]
-  Syria - Jordan  2-1   @ Kuwait City, Kuwait
-[Tue Dec 18]
-  Bahrain - Syria  1-1   @ Kuwait City, Kuwait
-  Oman - Iraq  0-2   @ Al Farwaniyah, Kuwait
-[Thu Dec 20]
-  Iraq - Syria  0-1   @ Kuwait City, Kuwait
-  Oman - Bahrain  1-0   @ Kuwait City, Kuwait
+Sat Dec 8
+  Kuwait               v Palestine             2-1   @ Kuwait City, Kuwait
+  Oman                 v Lebanon               0-1   @ Al Farwaniyah, Kuwait
+Sun Dec 9
+  Bahrain              v Yemen                 1-0   @ Al Farwaniyah, Kuwait
+  Iran                 v Saudi Arabia          0-0   @ Kuwait City, Kuwait
+Mon Dec 10
+  Iraq                 v Jordan                1-0   @ Al Farwaniyah, Kuwait
+Tue Dec 11
+  Kuwait               v Oman                  0-2   @ Kuwait City, Kuwait
+  Lebanon              v Palestine             0-1   @ Al Farwaniyah, Kuwait
+Wed Dec 12
+  Iran                 v Bahrain               0-0   @ Kuwait City, Kuwait
+  Yemen                v Saudi Arabia          0-1   @ Al Farwaniyah, Kuwait
+Thu Dec 13
+  Iraq                 v Syria                 1-1   @ Kuwait City, Kuwait
+Fri Dec 14
+  Kuwait               v Lebanon               2-1   @ Kuwait City, Kuwait
+  Oman                 v Palestine             2-1   @ Al Farwaniyah, Kuwait
+Sat Dec 15
+  Bahrain              v Saudi Arabia          1-0   @ Al Farwaniyah, Kuwait
+  Iran                 v Yemen                 2-1   @ Kuwait City, Kuwait
+Sun Dec 16
+  Syria                v Jordan                2-1   @ Kuwait City, Kuwait
+Tue Dec 18
+  Bahrain              v Syria                 1-1   @ Kuwait City, Kuwait
+  Oman                 v Iraq                  0-2   @ Al Farwaniyah, Kuwait
+Thu Dec 20
+  Iraq                 v Syria                 0-1   @ Kuwait City, Kuwait
+  Oman                 v Bahrain               1-0   @ Kuwait City, Kuwait
 

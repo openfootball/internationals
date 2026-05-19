@@ -1,77 +1,77 @@
 = Copa América 1957
 
-# Date       Thu Mar/7 - Sat Apr/6 1957 (30d)
+# Date       Thu Mar 7 - Sat Apr 6 1957 (30d)
 # Teams      7
 # Matches    21
 
-[Thu Mar 7]
-  Ecuador - Uruguay  2-5   @ Lima, Peru
-     Jorge Larraz 12' Jorge Larraz 40' (pen.);
-     Javier Ambrois 26' Javier Ambrois 29' (pen.) Javier Ambrois 57' Javier Ambrois 74' José Sasía 87'
-[Sun Mar 10]
-  Peru - Ecuador  2-1   @ Lima, Peru
-     Alberto Terry 29' Alberto Terry 37' (pen.);
-     Enrique Cantos 44'
-[Wed Mar 13]
-  Argentina - Colombia  8-2   @ Lima, Peru
-     Osvaldo Héctor Cruz 5' Antonio Valentín Angelillo 10' Humberto Maschio 16' (pen.) Humberto Maschio 23' Humberto Maschio 53' (pen.) Oreste Corbatta 59' Antonio Valentín Angelillo 73' Humberto Maschio 85';
-     Delio Gamboa 34' (pen.) Alberto Valencia 37'
-  Brazil - Chile  4-2   @ Lima, Peru
-     Didi 20' Didi 26' Didi 44' José Macia 46';
-     Jaime Ramírez 13' José Fernández 89'
-[Sat Mar 16]
-  Peru - Chile  1-0   @ Lima, Peru
-     Máximo Mosquera 57'
-[Sun Mar 17]
-  Argentina - Ecuador  3-0   @ Lima, Peru
-     Antonio Valentín Angelillo 5' Omar Sívori 14' Antonio Valentín Angelillo 39'
-  Colombia - Uruguay  1-0   @ Lima, Peru
-     Carlos Arango 28'
-[Wed Mar 20]
-  Argentina - Uruguay  4-0   @ Lima, Peru
-     Humberto Maschio 7' Antonio Valentín Angelillo 48' Humberto Maschio 73' José Sanfilippo 83'
-[Thu Mar 21]
-  Brazil - Ecuador  7-1   @ Lima, Peru
-     Evaristo de Macedo 22' José Macia 25' Zizinho 34' (pen.) Joel Antônio Martins 43' Joel Antônio Martins 68' Didi 78' Evaristo de Macedo 89';
-     Jorge Larraz 80' (pen.)
-  Chile - Colombia  3-2   @ Lima, Peru
-     Carlos Verdejo 35' Sergio Espinoza 62' Carlos Verdejo 70';
-     Carlos Arango 68' Alejandro Carrillo 83'
-[Sat Mar 23]
-  Peru - Uruguay  3-5   @ Lima, Peru
-     Alberto Terry 3' Juan Seminario 81' Máximo Mosquera 83';
-     Javier Ambrois 22' José María Carranza 26' Javier Ambrois 48' Javier Ambrois 60' Javier Ambrois 75'
-[Sun Mar 24]
-  Brazil - Colombia  9-0   @ Lima, Peru
-     José Macia 27' Evaristo de Macedo 41' Evaristo de Macedo 44' Evaristo de Macedo 45' Didi 50' Didi 60' Evaristo de Macedo 75' Zizinho 85' Evaristo de Macedo 86'
-  Chile - Ecuador  2-2   @ Lima, Peru
-     Jaime Ramírez 18' Jaime Ramírez 26' (pen.);
-     Jorge Larraz 25' (pen.) Enrique Cantos 59'
-[Wed Mar 27]
-  Peru - Colombia  4-1   @ Lima, Peru
-     Alberto Terry 34' Manuel Rivera 35' Manuel Rivera 37' Juan Bassa 83';
-     Carlos Arango 57' (pen.)
-[Thu Mar 28]
-  Argentina - Chile  6-2   @ Lima, Peru
-     Omar Sívori 7' Antonio Valentín Angelillo 21' Humberto Maschio 53' Antonio Valentín Angelillo 70' Humberto Maschio 74' Oreste Corbatta 83' (pen.);
-     José Fernández 14' José Fernández 28'
-  Brazil - Uruguay  2-3   @ Lima, Peru
-     Evaristo de Macedo 68' Didi 70';
-     Luis Norberto Campero 15' Javier Ambrois 17' Luis Norberto Campero 23'
-[Sun Mar 31]
-  Peru - Brazil  0-1   @ Lima, Peru
-     -; Didi 73' (pen.)
-[Mon Apr 1]
-  Chile - Uruguay  0-2   @ Lima, Peru
-     -; Luis Norberto Campero 28' José Walter Roque 40'
-  Colombia - Ecuador  4-1   @ Lima, Peru
-     Humberto Álvarez 19' (pen.) Jaime Gutiérrez 22' Delio Gamboa 30' Delio Gamboa 58';
-     Jorge Larraz 32' (pen.)
-[Wed Apr 3]
-  Argentina - Brazil  3-0   @ Lima, Peru
-     Antonio Valentín Angelillo 23' Humberto Maschio 87' Osvaldo Héctor Cruz 90'
-[Sat Apr 6]
-  Peru - Argentina  2-1   @ Lima, Peru
-     Máximo Mosquera 15' Alberto Terry 81';
-     Omar Sívori 50'
+Thu Mar 7
+  Ecuador              v Uruguay               2-5   @ Lima, Peru
+     (Jorge Larraz 12' Jorge Larraz 40'(p);
+      Javier Ambrois 26' Javier Ambrois 29'(p) Javier Ambrois 57' Javier Ambrois 74' José Sasía 87')
+Sun Mar 10
+  Peru                 v Ecuador               2-1   @ Lima, Peru
+     (Alberto Terry 29' Alberto Terry 37'(p);
+      Enrique Cantos 44')
+Wed Mar 13
+  Argentina            v Colombia              8-2   @ Lima, Peru
+     (Osvaldo Héctor Cruz 5' Antonio Valentín Angelillo 10' Humberto Maschio 16'(p) Humberto Maschio 23' Humberto Maschio 53'(p) Oreste Corbatta 59' Antonio Valentín Angelillo 73' Humberto Maschio 85';
+      Delio Gamboa 34'(p) Alberto Valencia 37')
+  Brazil               v Chile                 4-2   @ Lima, Peru
+     (Didi 20' Didi 26' Didi 44' José Macia 46';
+      Jaime Ramírez 13' José Fernández 89')
+Sat Mar 16
+  Peru                 v Chile                 1-0   @ Lima, Peru
+     (Máximo Mosquera 57')
+Sun Mar 17
+  Argentina            v Ecuador               3-0   @ Lima, Peru
+     (Antonio Valentín Angelillo 5' Omar Sívori 14' Antonio Valentín Angelillo 39')
+  Colombia             v Uruguay               1-0   @ Lima, Peru
+     (Carlos Arango 28')
+Wed Mar 20
+  Argentina            v Uruguay               4-0   @ Lima, Peru
+     (Humberto Maschio 7' Antonio Valentín Angelillo 48' Humberto Maschio 73' José Sanfilippo 83')
+Thu Mar 21
+  Brazil               v Ecuador               7-1   @ Lima, Peru
+     (Evaristo de Macedo 22' José Macia 25' Zizinho 34'(p) Joel Antônio Martins 43' Joel Antônio Martins 68' Didi 78' Evaristo de Macedo 89';
+      Jorge Larraz 80'(p))
+  Chile                v Colombia              3-2   @ Lima, Peru
+     (Carlos Verdejo 35' Sergio Espinoza 62' Carlos Verdejo 70';
+      Carlos Arango 68' Alejandro Carrillo 83')
+Sat Mar 23
+  Peru                 v Uruguay               3-5   @ Lima, Peru
+     (Alberto Terry 3' Juan Seminario 81' Máximo Mosquera 83';
+      Javier Ambrois 22' José María Carranza 26' Javier Ambrois 48' Javier Ambrois 60' Javier Ambrois 75')
+Sun Mar 24
+  Brazil               v Colombia              9-0   @ Lima, Peru
+     (José Macia 27' Evaristo de Macedo 41' Evaristo de Macedo 44' Evaristo de Macedo 45' Didi 50' Didi 60' Evaristo de Macedo 75' Zizinho 85' Evaristo de Macedo 86')
+  Chile                v Ecuador               2-2   @ Lima, Peru
+     (Jaime Ramírez 18' Jaime Ramírez 26'(p);
+      Jorge Larraz 25'(p) Enrique Cantos 59')
+Wed Mar 27
+  Peru                 v Colombia              4-1   @ Lima, Peru
+     (Alberto Terry 34' Manuel Rivera 35' Manuel Rivera 37' Juan Bassa 83';
+      Carlos Arango 57'(p))
+Thu Mar 28
+  Argentina            v Chile                 6-2   @ Lima, Peru
+     (Omar Sívori 7' Antonio Valentín Angelillo 21' Humberto Maschio 53' Antonio Valentín Angelillo 70' Humberto Maschio 74' Oreste Corbatta 83'(p);
+      José Fernández 14' José Fernández 28')
+  Brazil               v Uruguay               2-3   @ Lima, Peru
+     (Evaristo de Macedo 68' Didi 70';
+      Luis Norberto Campero 15' Javier Ambrois 17' Luis Norberto Campero 23')
+Sun Mar 31
+  Peru                 v Brazil                0-1   @ Lima, Peru
+     (Didi 73'(p))
+Mon Apr 1
+  Chile                v Uruguay               0-2   @ Lima, Peru
+     (Luis Norberto Campero 28' José Walter Roque 40')
+  Colombia             v Ecuador               4-1   @ Lima, Peru
+     (Humberto Álvarez 19'(p) Jaime Gutiérrez 22' Delio Gamboa 30' Delio Gamboa 58';
+      Jorge Larraz 32'(p))
+Wed Apr 3
+  Argentina            v Brazil                3-0   @ Lima, Peru
+     (Antonio Valentín Angelillo 23' Humberto Maschio 87' Osvaldo Héctor Cruz 90')
+Sat Apr 6
+  Peru                 v Argentina             2-1   @ Lima, Peru
+     (Máximo Mosquera 15' Alberto Terry 81';
+      Omar Sívori 50')
 

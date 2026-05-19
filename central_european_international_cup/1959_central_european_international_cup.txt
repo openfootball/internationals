@@ -1,15 +1,15 @@
 = Central European International Cup 1959
 
-# Date       Sun Apr/26 - Sun Nov/29 1959 (217d)
+# Date       Sun Apr 26 - Sun Nov 29 1959 (217d)
 # Teams      5
 # Matches    4
 
-[Sun Apr 26]
-  Switzerland - Yugoslavia  1-5   @ Basel, Switzerland
-[Sun Oct 25]
-  Hungary - Switzerland  8-0   @ Budapest, Hungary
-[Sun Nov 1]
-  Czechoslovakia - Italy  2-1   @ Prague, Czechoslovakia
-[Sun Nov 29]
-  Italy - Hungary  1-1   @ Florence, Italy
+Sun Apr 26
+  Switzerland          v Yugoslavia            1-5   @ Basel, Switzerland
+Sun Oct 25
+  Hungary              v Switzerland           8-0   @ Budapest, Hungary
+Sun Nov 1
+  Czechoslovakia       v Italy                 2-1   @ Prague, Czechoslovakia
+Sun Nov 29
+  Italy                v Hungary               1-1   @ Florence, Italy
 

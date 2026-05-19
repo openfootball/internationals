@@ -1,24 +1,24 @@
 = CECAFA Cup 1975
 
-# Date       Fri Oct/31 - Sun Nov/9 1975 (9d)
+# Date       Fri Oct 31 - Sun Nov 9 1975 (9d)
 # Teams      6
 # Matches    9
 
-[Fri Oct 31]
-  Zambia - Kenya  1-2   @ Lusaka, Zambia
-[Sat Nov 1]
-  Malawi - Tanzania  3-1   @ Ndola, Zambia
-[Sun Nov 2]
-  Zambia - Uganda  0-1   @ Lusaka, Zambia
-[Mon Nov 3]
-  Malawi - Zanzibar  4-2   @ Kitwe, Zambia
-[Tue Nov 4]
-  Kenya - Uganda  1-1   @ Ndola, Zambia
-[Wed Nov 5]
-  Tanzania - Zanzibar  4-0   @ Mufulira, Zambia
-[Fri Nov 7]
-  Kenya - Tanzania  3-2   @ Lusaka, Zambia
-  Malawi - Uganda  2-1   @ Chingola, Zambia
-[Sun Nov 9]
-  Kenya - Malawi  2-2   @ Lusaka, Zambia   [Kenya wins on penalties]
+Fri Oct 31
+  Zambia               v Kenya                 1-2   @ Lusaka, Zambia
+Sat Nov 1
+  Malawi               v Tanzania              3-1   @ Ndola, Zambia
+Sun Nov 2
+  Zambia               v Uganda                0-1   @ Lusaka, Zambia
+Mon Nov 3
+  Malawi               v Zanzibar              4-2   @ Kitwe, Zambia
+Tue Nov 4
+  Kenya                v Uganda                1-1   @ Ndola, Zambia
+Wed Nov 5
+  Tanzania             v Zanzibar              4-0   @ Mufulira, Zambia
+Fri Nov 7
+  Kenya                v Tanzania              3-2   @ Lusaka, Zambia
+  Malawi               v Uganda                2-1   @ Chingola, Zambia
+Sun Nov 9
+  Kenya                v Malawi                2-2   @ Lusaka, Zambia   [Kenya wins on penalties]
 

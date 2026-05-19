@@ -1,26 +1,26 @@
 = Balkan Cup 1947
 
-# Date       Sun May/25 - Sun Oct/12 1947 (140d)
+# Date       Sun May 25 - Sun Oct 12 1947 (140d)
 # Teams      5
 # Matches    10
 
-[Sun May 25]
-  Albania - Romania  0-4   @ Tirana, Albania
-[Sun Jun 15]
-  Bulgaria - Albania  2-0   @ Sofia, Bulgaria
-[Sun Jun 22]
-  Romania - Yugoslavia  1-3   @ Bucharest, Romania
-[Sun Jun 29]
-  Yugoslavia - Hungary  2-3   @ Belgrade, Yugoslavia
-[Sun Jul 6]
-  Bulgaria - Romania  2-3   @ Sofia, Bulgaria
-[Sun Aug 17]
-  Hungary - Bulgaria  9-0   @ Budapest, Hungary
-[Wed Aug 20]
-  Hungary - Albania  3-0   @ Budapest, Hungary
-[Sun Sep 14]
-  Albania - Yugoslavia  2-4   @ Tirana, Albania
-[Sun Oct 12]
-  Romania - Hungary  0-3   @ Bucharest, Romania
-  Yugoslavia - Bulgaria  2-1   @ Zagreb, Yugoslavia
+Sun May 25
+  Albania              v Romania               0-4   @ Tirana, Albania
+Sun Jun 15
+  Bulgaria             v Albania               2-0   @ Sofia, Bulgaria
+Sun Jun 22
+  Romania              v Yugoslavia            1-3   @ Bucharest, Romania
+Sun Jun 29
+  Yugoslavia           v Hungary               2-3   @ Belgrade, Yugoslavia
+Sun Jul 6
+  Bulgaria             v Romania               2-3   @ Sofia, Bulgaria
+Sun Aug 17
+  Hungary              v Bulgaria              9-0   @ Budapest, Hungary
+Wed Aug 20
+  Hungary              v Albania               3-0   @ Budapest, Hungary
+Sun Sep 14
+  Albania              v Yugoslavia            2-4   @ Tirana, Albania
+Sun Oct 12
+  Romania              v Hungary               0-3   @ Bucharest, Romania
+  Yugoslavia           v Bulgaria              2-1   @ Zagreb, Yugoslavia
 

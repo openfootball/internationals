@@ -1,24 +1,24 @@
 = Korea Cup 1981
 
-# Date       Sun Jun/14 - Mon Jun/22 1981 (8d)
+# Date       Sun Jun 14 - Mon Jun 22 1981 (8d)
 # Teams      7
 # Matches    9
 
-[Sun Jun 14]
-  Liechtenstein - Malta  1-1   @ Daejeon, South Korea
-[Tue Jun 16]
-  Liechtenstein - Thailand  0-2   @ Jeonju, South Korea
-[Wed Jun 17]
-  South Korea - Malaysia  2-0   @ Jeonju, South Korea
-[Thu Jun 18]
-  Indonesia - Malta  0-1   @ Daegu, South Korea
-[Fri Jun 19]
-  Japan - Malaysia  2-0   @ Daegu, South Korea
-[Sat Jun 20]
-  Indonesia - Thailand  1-3   @ Seoul, South Korea
-[Sun Jun 21]
-  South Korea - Japan  2-0   @ Busan, South Korea
-[Mon Jun 22]
-  Indonesia - Liechtenstein  2-3   @ Seoul, South Korea
-  Malta - Thailand  2-0   @ Seoul, South Korea
+Sun Jun 14
+  Liechtenstein        v Malta                 1-1   @ Daejeon, South Korea
+Tue Jun 16
+  Liechtenstein        v Thailand              0-2   @ Jeonju, South Korea
+Wed Jun 17
+  South Korea          v Malaysia              2-0   @ Jeonju, South Korea
+Thu Jun 18
+  Indonesia            v Malta                 0-1   @ Daegu, South Korea
+Fri Jun 19
+  Japan                v Malaysia              2-0   @ Daegu, South Korea
+Sat Jun 20
+  Indonesia            v Thailand              1-3   @ Seoul, South Korea
+Sun Jun 21
+  South Korea          v Japan                 2-0   @ Busan, South Korea
+Mon Jun 22
+  Indonesia            v Liechtenstein         2-3   @ Seoul, South Korea
+  Malta                v Thailand              2-0   @ Seoul, South Korea
 

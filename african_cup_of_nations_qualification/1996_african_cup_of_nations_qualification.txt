@@ -1,34 +1,34 @@
 = African Cup of Nations qualification 1996
 
-# Date       Thu Aug/8 - Sun Oct/6 1996 (59d)
+# Date       Thu Aug 8 - Sun Oct 6 1996 (59d)
 # Teams      26
 # Matches    20
 
-[Thu Aug 8]
-  Benin - Mauritania  4-1   @ Cotonou, Benin
-[Sun Aug 11]
-  Botswana - Namibia  0-0   @ Gaborone, Botswana
-  Congo - Togo  0-0   @ Pointe-Noire, Congo
-  Mauritius - Seychelles  1-0   @ Port Louis, Mauritius
-  Uganda - Ethiopia  1-1   @ Kampala, Uganda
-[Sat Aug 24]
-  Seychelles - Mauritius  1-1   @ Victoria, Seychelles
-[Sun Aug 25]
-  Ethiopia - Uganda  1-1   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
-  Namibia - Botswana  6-0   @ Windhoek, Namibia
-  Togo - Congo  1-0   @ Lomé, Togo
-[Fri Aug 30]
-  Mauritania - Benin  0-0   @ Nouakchott, Mauritania
-[Sat Oct 5]
-  Togo - Tanzania  2-1   @ Lomé, Togo
-[Sun Oct 6]
-  Algeria - Ivory Coast  4-1   @ Algiers, Algeria
-  Benin - Mali  1-2   @ Cotonou, Benin
-  DR Congo - Liberia  0-0   @ Kinshasa, Zaïre
-  Ethiopia - Senegal  1-2   @ Addis Ababa, Ethiopia
-  Gabon - Cameroon  0-0   @ Libreville, Gabon
-  Ghana - Angola  2-1   @ Kumasi, Ghana
-  Mauritius - Malawi  1-2   @ Curepipe, Mauritius
-  Tunisia - Sierra Leone  2-0   @ Tunis, Tunisia
-  Zambia - Mozambique  1-0   @ Lusaka, Zambia
+Thu Aug 8
+  Benin                v Mauritania            4-1   @ Cotonou, Benin
+Sun Aug 11
+  Botswana             v Namibia               0-0   @ Gaborone, Botswana
+  Congo                v Togo                  0-0   @ Pointe-Noire, Congo
+  Mauritius            v Seychelles            1-0   @ Port Louis, Mauritius
+  Uganda               v Ethiopia              1-1   @ Kampala, Uganda
+Sat Aug 24
+  Seychelles           v Mauritius             1-1   @ Victoria, Seychelles
+Sun Aug 25
+  Ethiopia             v Uganda                1-1   @ Addis Ababa, Ethiopia   [Ethiopia wins on penalties]
+  Namibia              v Botswana              6-0   @ Windhoek, Namibia
+  Togo                 v Congo                 1-0   @ Lomé, Togo
+Fri Aug 30
+  Mauritania           v Benin                 0-0   @ Nouakchott, Mauritania
+Sat Oct 5
+  Togo                 v Tanzania              2-1   @ Lomé, Togo
+Sun Oct 6
+  Algeria              v Ivory Coast           4-1   @ Algiers, Algeria
+  Benin                v Mali                  1-2   @ Cotonou, Benin
+  DR Congo             v Liberia               0-0   @ Kinshasa, Zaïre
+  Ethiopia             v Senegal               1-2   @ Addis Ababa, Ethiopia
+  Gabon                v Cameroon              0-0   @ Libreville, Gabon
+  Ghana                v Angola                2-1   @ Kumasi, Ghana
+  Mauritius            v Malawi                1-2   @ Curepipe, Mauritius
+  Tunisia              v Sierra Leone          2-0   @ Tunis, Tunisia
+  Zambia               v Mozambique            1-0   @ Lusaka, Zambia
 

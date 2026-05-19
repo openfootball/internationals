@@ -1,20 +1,20 @@
 = Korea Cup 1991
 
-# Date       Fri Jun/7 - Sun Jun/16 1991 (9d)
+# Date       Fri Jun 7 - Sun Jun 16 1991 (9d)
 # Teams      5
 # Matches    8
 
-[Fri Jun 7]
-  Indonesia - Malta  0-3   @ Seoul, South Korea
-  South Korea - Egypt  0-0   @ Seoul, South Korea
-[Sun Jun 9]
-  Egypt - Malta  5-2   @ Daejeon, South Korea
-  South Korea - Indonesia  3-0   @ Daejeon, South Korea
-[Tue Jun 11]
-  Egypt - Indonesia  6-0   @ Seoul, South Korea
-  South Korea - Malta  1-1   @ Gwangju, South Korea
-[Fri Jun 14]
-  South Korea - Australia  0-0   @ Seoul, South Korea   [South Korea wins on penalties]
-[Sun Jun 16]
-  South Korea - Egypt  2-0   @ Seoul, South Korea
+Fri Jun 7
+  Indonesia            v Malta                 0-3   @ Seoul, South Korea
+  South Korea          v Egypt                 0-0   @ Seoul, South Korea
+Sun Jun 9
+  Egypt                v Malta                 5-2   @ Daejeon, South Korea
+  South Korea          v Indonesia             3-0   @ Daejeon, South Korea
+Tue Jun 11
+  Egypt                v Indonesia             6-0   @ Seoul, South Korea
+  South Korea          v Malta                 1-1   @ Gwangju, South Korea
+Fri Jun 14
+  South Korea          v Australia             0-0   @ Seoul, South Korea   [South Korea wins on penalties]
+Sun Jun 16
+  South Korea          v Egypt                 2-0   @ Seoul, South Korea
 

@@ -1,23 +1,23 @@
 = CECAFA Cup 1985
 
-# Date       Fri Oct/4 - Sun Oct/13 1985 (9d)
+# Date       Fri Oct 4 - Sun Oct 13 1985 (9d)
 # Teams      6
 # Matches    10
 
-[Fri Oct 4]
-  Malawi - Uganda  1-0   @ Bulawayo, Zimbabwe
-  Zimbabwe - Tanzania  1-0   @ Harare, Zimbabwe
-[Sun Oct 6]
-  Malawi - Zambia  2-2   @ Bulawayo, Zimbabwe
-  Zimbabwe - Kenya  1-1   @ Harare, Zimbabwe
-[Tue Oct 8]
-  Kenya - Tanzania  3-2   @ Harare, Zimbabwe
-  Uganda - Zambia  3-0   @ Bulawayo, Zimbabwe
-[Fri Oct 11]
-  Kenya - Uganda  0-0   @ Harare, Zimbabwe   [Kenya wins on penalties]
-  Zimbabwe - Malawi  1-0   @ Bulawayo, Zimbabwe
-[Sat Oct 12]
-  Malawi - Uganda  3-1   @ Bulawayo, Zimbabwe
-[Sun Oct 13]
-  Zimbabwe - Kenya  2-0   @ Harare, Zimbabwe
+Fri Oct 4
+  Malawi               v Uganda                1-0   @ Bulawayo, Zimbabwe
+  Zimbabwe             v Tanzania              1-0   @ Harare, Zimbabwe
+Sun Oct 6
+  Malawi               v Zambia                2-2   @ Bulawayo, Zimbabwe
+  Zimbabwe             v Kenya                 1-1   @ Harare, Zimbabwe
+Tue Oct 8
+  Kenya                v Tanzania              3-2   @ Harare, Zimbabwe
+  Uganda               v Zambia                3-0   @ Bulawayo, Zimbabwe
+Fri Oct 11
+  Kenya                v Uganda                0-0   @ Harare, Zimbabwe   [Kenya wins on penalties]
+  Zimbabwe             v Malawi                1-0   @ Bulawayo, Zimbabwe
+Sat Oct 12
+  Malawi               v Uganda                3-1   @ Bulawayo, Zimbabwe
+Sun Oct 13
+  Zimbabwe             v Kenya                 2-0   @ Harare, Zimbabwe
 

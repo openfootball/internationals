@@ -1,76 +1,76 @@
 = African Cup of Nations qualification 1993
 
-# Date       Sun Jan/10 - Sun Oct/24 1993 (287d)
+# Date       Sun Jan 10 - Sun Oct 24 1993 (287d)
 # Teams      29
 # Matches    54
 
-[Sun Jan 10]
-  Senegal - Algeria  1-2   @ Dakar, Senegal
-[Sat Jan 23]
-  Guinea-Bissau - Algeria  1-4   @ Bissau, Guinea-Bissau
-[Fri Apr 9]
-  Algeria - Sierra Leone  0-0   @ Annaba, Algeria
-  Egypt - Mali  2-1   @ Cairo, Egypt
-[Sat Apr 10]
-  South Africa - Mauritius  0-0   @ Johannesburg, South Africa
-  Zambia - Zimbabwe  0-0   @ Lusaka, Zambia
-  Ghana - Liberia  0-0   @ Accra, Ghana
-[Sun Apr 11]
-  Ethiopia - Nigeria  1-0   @ Addis Ababa, Ethiopia
-  Gabon - Benin  2-0   @ Libreville, Gabon
-  Guinea - Congo  1-0   @ Conakry, Guinea
-  Guinea-Bissau - Senegal  0-3   @ Bissau, Guinea-Bissau
-  Lesotho - DR Congo  1-1   @ Maseru, Lesotho
-  Morocco - Malawi  0-1   @ Rabat, Morocco
-  Mozambique - Kenya  0-0   @ Maputo, Mozambique
-  Niger - Cameroon  0-0   @ Niamey, Niger
-  Sudan - Uganda  1-1   @ Khartoum, Sudan
-[Fri Apr 23]
-  Nigeria - Sudan  4-0   @ Lagos, Nigeria
-  Egypt - Malawi  2-0   @ Alexandria, Egypt
-[Sat Apr 24]
-  Kenya - Lesotho  3-0   @ Nairobi, Kenya
-  Sierra Leone - Guinea-Bissau  2-0   @ Freetown, Sierra Leone
-  South Africa - Zimbabwe  1-1   @ Johannesburg, South Africa
-[Sun Apr 25]
-  Cameroon - Gabon  0-0   @ Yaoundé, Cameroon
-  Congo - Burundi  0-0   @ Pointe-Noire, Congo
-  Ethiopia - Uganda  2-2   @ Addis Ababa, Ethiopia
-  Mauritius - Zambia  0-3   @ Port Louis, Mauritius
-  Morocco - Mali  1-0   @ Casablanca, Morocco
-  Mozambique - DR Congo  0-0   @ Maputo, Mozambique
-  Niger - Benin  4-1   @ Niamey, Niger
-[Fri Jul 9]
-  Sudan - Ethiopia  1-0   @ Khartoum, Sudan
-[Sun Jul 11]
-  Benin - Cameroon  0-3   @ Cotonou, Benin
-  Burundi - Guinea  2-2   @ Bujumbura, Burundi
-  DR Congo - Kenya  0-1   @ Kinshasa, Zaïre
-  Egypt - Morocco  1-1   @ Alexandria, Egypt
-  Gabon - Niger  3-0   @ Libreville, Gabon
-  Lesotho - Mozambique  1-1   @ Maseru, Lesotho
-  Mali - Malawi  2-1   @ Bamako, Mali
-  Senegal - Sierra Leone  1-1   @ Dakar, Senegal
-  Zambia - South Africa  3-0   @ Lusaka, Zambia
-  Zimbabwe - Mauritius  2-0   @ Harare, Zimbabwe
-[Sat Jul 17]
-  Uganda - Nigeria  0-0   @ Kampala, Uganda
-[Sat Jul 24]
-  Nigeria - Ethiopia  6-0   @ Lagos, Nigeria
-  Uganda - Sudan  1-0   @ Kampala, Uganda
-  Kenya - Mozambique  4-1   @ Nairobi, Kenya
-[Sun Jul 25]
-  Algeria - Senegal  4-0   @ Tlemcen, Algeria
-  Benin - Gabon  1-2   @ Cotonou, Benin
-  Cameroon - Niger  2-0   @ Yaoundé, Cameroon
-  DR Congo - Lesotho  7-0   @ Kinshasa, Zaïre
-  Liberia - Ghana  0-2   @ Monrovia, Liberia
-  Malawi - Morocco  0-2   @ Lilongwe, Malawi
-  Mali - Egypt  2-1   @ Bamako, Mali
-  Mauritius - South Africa  1-3   @ Mapou, Mauritius
-  Zimbabwe - Zambia  1-1   @ Harare, Zimbabwe
-[Sun Aug 15]
-  Congo - Guinea  0-0   @ Pointe-Noire, Congo
-[Sun Oct 24]
-  Burundi - Guinea  0-0   @ Libreville, Gabon   [Guinea wins on penalties]
+Sun Jan 10
+  Senegal              v Algeria               1-2   @ Dakar, Senegal
+Sat Jan 23
+  Guinea-Bissau        v Algeria               1-4   @ Bissau, Guinea-Bissau
+Fri Apr 9
+  Algeria              v Sierra Leone          0-0   @ Annaba, Algeria
+  Egypt                v Mali                  2-1   @ Cairo, Egypt
+Sat Apr 10
+  South Africa         v Mauritius             0-0   @ Johannesburg, South Africa
+  Zambia               v Zimbabwe              0-0   @ Lusaka, Zambia
+  Ghana                v Liberia               0-0   @ Accra, Ghana
+Sun Apr 11
+  Ethiopia             v Nigeria               1-0   @ Addis Ababa, Ethiopia
+  Gabon                v Benin                 2-0   @ Libreville, Gabon
+  Guinea               v Congo                 1-0   @ Conakry, Guinea
+  Guinea-Bissau        v Senegal               0-3   @ Bissau, Guinea-Bissau
+  Lesotho              v DR Congo              1-1   @ Maseru, Lesotho
+  Morocco              v Malawi                0-1   @ Rabat, Morocco
+  Mozambique           v Kenya                 0-0   @ Maputo, Mozambique
+  Niger                v Cameroon              0-0   @ Niamey, Niger
+  Sudan                v Uganda                1-1   @ Khartoum, Sudan
+Fri Apr 23
+  Nigeria              v Sudan                 4-0   @ Lagos, Nigeria
+  Egypt                v Malawi                2-0   @ Alexandria, Egypt
+Sat Apr 24
+  Kenya                v Lesotho               3-0   @ Nairobi, Kenya
+  Sierra Leone         v Guinea-Bissau         2-0   @ Freetown, Sierra Leone
+  South Africa         v Zimbabwe              1-1   @ Johannesburg, South Africa
+Sun Apr 25
+  Cameroon             v Gabon                 0-0   @ Yaoundé, Cameroon
+  Congo                v Burundi               0-0   @ Pointe-Noire, Congo
+  Ethiopia             v Uganda                2-2   @ Addis Ababa, Ethiopia
+  Mauritius            v Zambia                0-3   @ Port Louis, Mauritius
+  Morocco              v Mali                  1-0   @ Casablanca, Morocco
+  Mozambique           v DR Congo              0-0   @ Maputo, Mozambique
+  Niger                v Benin                 4-1   @ Niamey, Niger
+Fri Jul 9
+  Sudan                v Ethiopia              1-0   @ Khartoum, Sudan
+Sun Jul 11
+  Benin                v Cameroon              0-3   @ Cotonou, Benin
+  Burundi              v Guinea                2-2   @ Bujumbura, Burundi
+  DR Congo             v Kenya                 0-1   @ Kinshasa, Zaïre
+  Egypt                v Morocco               1-1   @ Alexandria, Egypt
+  Gabon                v Niger                 3-0   @ Libreville, Gabon
+  Lesotho              v Mozambique            1-1   @ Maseru, Lesotho
+  Mali                 v Malawi                2-1   @ Bamako, Mali
+  Senegal              v Sierra Leone          1-1   @ Dakar, Senegal
+  Zambia               v South Africa          3-0   @ Lusaka, Zambia
+  Zimbabwe             v Mauritius             2-0   @ Harare, Zimbabwe
+Sat Jul 17
+  Uganda               v Nigeria               0-0   @ Kampala, Uganda
+Sat Jul 24
+  Nigeria              v Ethiopia              6-0   @ Lagos, Nigeria
+  Uganda               v Sudan                 1-0   @ Kampala, Uganda
+  Kenya                v Mozambique            4-1   @ Nairobi, Kenya
+Sun Jul 25
+  Algeria              v Senegal               4-0   @ Tlemcen, Algeria
+  Benin                v Gabon                 1-2   @ Cotonou, Benin
+  Cameroon             v Niger                 2-0   @ Yaoundé, Cameroon
+  DR Congo             v Lesotho               7-0   @ Kinshasa, Zaïre
+  Liberia              v Ghana                 0-2   @ Monrovia, Liberia
+  Malawi               v Morocco               0-2   @ Lilongwe, Malawi
+  Mali                 v Egypt                 2-1   @ Bamako, Mali
+  Mauritius            v South Africa          1-3   @ Mapou, Mauritius
+  Zimbabwe             v Zambia                1-1   @ Harare, Zimbabwe
+Sun Aug 15
+  Congo                v Guinea                0-0   @ Pointe-Noire, Congo
+Sun Oct 24
+  Burundi              v Guinea                0-0   @ Libreville, Gabon   [Guinea wins on penalties]
 

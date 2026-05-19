@@ -1,100 +1,100 @@
 = UEFA Euro 2004
 
-# Date       Sat Jun/12 - Sun Jul/4 2004 (22d)
+# Date       Sat Jun 12 - Sun Jul 4 2004 (22d)
 # Teams      16
 # Matches    31
 
-[Sat Jun 12]
-  Portugal - Greece  1-2   @ Porto, Portugal
-     Cristiano Ronaldo 90';
-     Giorgos Karagounis 7' Angelos Basinas 51' (pen.)
-  Spain - Russia  1-0   @ Faro, Portugal
-     Juan Carlos Valerón 60'
-[Sun Jun 13]
-  France - England  2-1   @ Lisbon, Portugal
-     Zinedine Zidane 90' Zinedine Zidane 90' (pen.);
-     Frank Lampard 38'
-  Switzerland - Croatia  0-0   @ Leiria, Portugal
-[Mon Jun 14]
-  Denmark - Italy  0-0   @ Guimarães, Portugal
-  Sweden - Bulgaria  5-0   @ Lisbon, Portugal
-     Freddie Ljungberg 32' Henrik Larsson 57' Henrik Larsson 58' Zlatan Ibrahimović 78' (pen.) Marcus Allbäck 90'
-[Tue Jun 15]
-  Czech Republic - Latvia  2-1   @ Aveiro, Portugal
-     Milan Baroš 73' Marek Heinz 85';
-     Māris Verpakovskis 45'
-  Germany - Netherlands  1-1   @ Porto, Portugal
-     Torsten Frings 30';
-     Ruud van Nistelrooy 81'
-[Wed Jun 16]
-  Greece - Spain  1-1   @ Porto, Portugal
-     Angelos Charisteas 66';
-     Fernando Morientes 28'
-  Portugal - Russia  2-0   @ Lisbon, Portugal
-     Maniche 7' Rui Costa 89'
-[Thu Jun 17]
-  Croatia - France  2-2   @ Leiria, Portugal
-     Milan Rapaić 48' (pen.) Dado Pršo 52';
-     Igor Tudor 22' (o.g.) David Trezeguet 64'
-  England - Switzerland  3-0   @ Coimbra, Portugal
-     Wayne Rooney 23' Wayne Rooney 75' Steven Gerrard 82'
-[Fri Jun 18]
-  Bulgaria - Denmark  0-2   @ Braga, Portugal
-     -; Jon Dahl Tomasson 44' Jesper Grønkjær 90'
-  Italy - Sweden  1-1   @ Porto, Portugal
-     Antonio Cassano 37';
-     Zlatan Ibrahimović 85'
-[Sat Jun 19]
-  Latvia - Germany  0-0   @ Porto, Portugal
-  Netherlands - Czech Republic  2-3   @ Aveiro, Portugal
-     Wilfred Bouma 4' Ruud van Nistelrooy 19';
-     Jan Koller 23' Milan Baroš 71' Vladimír Šmicer 88'
-[Sun Jun 20]
-  Portugal - Spain  1-0   @ Lisbon, Portugal
-     Nuno Gomes 57'
-  Russia - Greece  2-1   @ Faro, Portugal
-     Dmitri Kirichenko 2' Dmitri Bulykin 17';
-     Zisis Vryzas 43'
-[Mon Jun 21]
-  Croatia - England  2-4   @ Lisbon, Portugal
-     Niko Kovač 5' Igor Tudor 73';
-     Paul Scholes 40' Wayne Rooney 45' Wayne Rooney 68' Frank Lampard 79'
-  Switzerland - France  1-3   @ Coimbra, Portugal
-     Johan Vonlanthen 26';
-     Zinedine Zidane 20' Thierry Henry 76' Thierry Henry 84'
-[Tue Jun 22]
-  Denmark - Sweden  2-2   @ Porto, Portugal
-     Jon Dahl Tomasson 28' Jon Dahl Tomasson 66';
-     Henrik Larsson 47' (pen.) Mattias Jonson 89'
-  Italy - Bulgaria  2-1   @ Guimarães, Portugal
-     Simone Perrotta 48' Antonio Cassano 90';
-     Martin Petrov 45' (pen.)
-[Wed Jun 23]
-  Germany - Czech Republic  1-2   @ Lisbon, Portugal
-     Michael Ballack 21';
-     Marek Heinz 30' Milan Baroš 77'
-  Netherlands - Latvia  3-0   @ Braga, Portugal
-     Ruud van Nistelrooy 27' (pen.) Ruud van Nistelrooy 35' Roy Makaay 84'
-[Thu Jun 24]
-  Portugal - England  2-2   @ Lisbon, Portugal   [Portugal wins on penalties]
-     Hélder Postiga 83' Rui Costa 110';
-     Michael Owen 3' Frank Lampard 115'
-[Fri Jun 25]
-  France - Greece  0-1   @ Lisbon, Portugal
-     -; Angelos Charisteas 65'
-[Sat Jun 26]
-  Sweden - Netherlands  0-0   @ Faro, Portugal   [Netherlands wins on penalties]
-[Sun Jun 27]
-  Czech Republic - Denmark  3-0   @ Porto, Portugal
-     Jan Koller 49' Milan Baroš 63' Milan Baroš 65'
-[Wed Jun 30]
-  Portugal - Netherlands  2-1   @ Lisbon, Portugal
-     Cristiano Ronaldo 26' Maniche 58';
-     Jorge Andrade 63' (o.g.)
-[Thu Jul 1]
-  Greece - Czech Republic  1-0   @ Porto, Portugal
-     Traianos Dellas 105'
-[Sun Jul 4]
-  Portugal - Greece  0-1   @ Lisbon, Portugal
-     -; Angelos Charisteas 57'
+Sat Jun 12
+  Portugal             v Greece                1-2   @ Porto, Portugal
+     (Cristiano Ronaldo 90';
+      Giorgos Karagounis 7' Angelos Basinas 51'(p))
+  Spain                v Russia                1-0   @ Faro, Portugal
+     (Juan Carlos Valerón 60')
+Sun Jun 13
+  France               v England               2-1   @ Lisbon, Portugal
+     (Zinedine Zidane 90' Zinedine Zidane 90'(p);
+      Frank Lampard 38')
+  Switzerland          v Croatia               0-0   @ Leiria, Portugal
+Mon Jun 14
+  Denmark              v Italy                 0-0   @ Guimarães, Portugal
+  Sweden               v Bulgaria              5-0   @ Lisbon, Portugal
+     (Freddie Ljungberg 32' Henrik Larsson 57' Henrik Larsson 58' Zlatan Ibrahimović 78'(p) Marcus Allbäck 90')
+Tue Jun 15
+  Czech Republic       v Latvia                2-1   @ Aveiro, Portugal
+     (Milan Baroš 73' Marek Heinz 85';
+      Māris Verpakovskis 45')
+  Germany              v Netherlands           1-1   @ Porto, Portugal
+     (Torsten Frings 30';
+      Ruud van Nistelrooy 81')
+Wed Jun 16
+  Greece               v Spain                 1-1   @ Porto, Portugal
+     (Angelos Charisteas 66';
+      Fernando Morientes 28')
+  Portugal             v Russia                2-0   @ Lisbon, Portugal
+     (Maniche 7' Rui Costa 89')
+Thu Jun 17
+  Croatia              v France                2-2   @ Leiria, Portugal
+     (Milan Rapaić 48'(p) Dado Pršo 52';
+      Igor Tudor 22'(og) David Trezeguet 64')
+  England              v Switzerland           3-0   @ Coimbra, Portugal
+     (Wayne Rooney 23' Wayne Rooney 75' Steven Gerrard 82')
+Fri Jun 18
+  Bulgaria             v Denmark               0-2   @ Braga, Portugal
+     (Jon Dahl Tomasson 44' Jesper Grønkjær 90')
+  Italy                v Sweden                1-1   @ Porto, Portugal
+     (Antonio Cassano 37';
+      Zlatan Ibrahimović 85')
+Sat Jun 19
+  Latvia               v Germany               0-0   @ Porto, Portugal
+  Netherlands          v Czech Republic        2-3   @ Aveiro, Portugal
+     (Wilfred Bouma 4' Ruud van Nistelrooy 19';
+      Jan Koller 23' Milan Baroš 71' Vladimír Šmicer 88')
+Sun Jun 20
+  Portugal             v Spain                 1-0   @ Lisbon, Portugal
+     (Nuno Gomes 57')
+  Russia               v Greece                2-1   @ Faro, Portugal
+     (Dmitri Kirichenko 2' Dmitri Bulykin 17';
+      Zisis Vryzas 43')
+Mon Jun 21
+  Croatia              v England               2-4   @ Lisbon, Portugal
+     (Niko Kovač 5' Igor Tudor 73';
+      Paul Scholes 40' Wayne Rooney 45' Wayne Rooney 68' Frank Lampard 79')
+  Switzerland          v France                1-3   @ Coimbra, Portugal
+     (Johan Vonlanthen 26';
+      Zinedine Zidane 20' Thierry Henry 76' Thierry Henry 84')
+Tue Jun 22
+  Denmark              v Sweden                2-2   @ Porto, Portugal
+     (Jon Dahl Tomasson 28' Jon Dahl Tomasson 66';
+      Henrik Larsson 47'(p) Mattias Jonson 89')
+  Italy                v Bulgaria              2-1   @ Guimarães, Portugal
+     (Simone Perrotta 48' Antonio Cassano 90';
+      Martin Petrov 45'(p))
+Wed Jun 23
+  Germany              v Czech Republic        1-2   @ Lisbon, Portugal
+     (Michael Ballack 21';
+      Marek Heinz 30' Milan Baroš 77')
+  Netherlands          v Latvia                3-0   @ Braga, Portugal
+     (Ruud van Nistelrooy 27'(p) Ruud van Nistelrooy 35' Roy Makaay 84')
+Thu Jun 24
+  Portugal             v England               2-2   @ Lisbon, Portugal   [Portugal wins on penalties]
+     (Hélder Postiga 83' Rui Costa 110';
+      Michael Owen 3' Frank Lampard 115')
+Fri Jun 25
+  France               v Greece                0-1   @ Lisbon, Portugal
+     (Angelos Charisteas 65')
+Sat Jun 26
+  Sweden               v Netherlands           0-0   @ Faro, Portugal   [Netherlands wins on penalties]
+Sun Jun 27
+  Czech Republic       v Denmark               3-0   @ Porto, Portugal
+     (Jan Koller 49' Milan Baroš 63' Milan Baroš 65')
+Wed Jun 30
+  Portugal             v Netherlands           2-1   @ Lisbon, Portugal
+     (Cristiano Ronaldo 26' Maniche 58';
+      Jorge Andrade 63'(og))
+Thu Jul 1
+  Greece               v Czech Republic        1-0   @ Porto, Portugal
+     (Traianos Dellas 105')
+Sun Jul 4
+  Portugal             v Greece                0-1   @ Lisbon, Portugal
+     (Angelos Charisteas 57')
 

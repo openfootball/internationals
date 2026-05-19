@@ -1,91 +1,91 @@
 = FIFA World Cup qualification 1960
 
-# Date       Sun Aug/21 - Sat Dec/17 1960 (118d)
+# Date       Sun Aug 21 - Sat Dec 17 1960 (118d)
 # Teams      28
 # Matches    25
 
-[Sun Aug 21]
-  Costa Rica - Guatemala  3-2   @ San José, Costa Rica
-     Rigoberto Rojas 28' Juan Ulloa 52' Juan Ulloa 58';
-     Augusto Espinoza 1' Fred Masella 35'
-[Sun Aug 28]
-  Ghana - Nigeria  4-1   @ Accra, Ghana
-     Edward Acquah 18' Edward Boateng 44' Edward Aggrey-Fynn 54' Mohamadu Salisu 55';
-     Dejo Fayemi 50'
-  Guatemala - Costa Rica  4-4   @ Guatemala City, Guatemala
-     Pinula Contreras 13' Pinula Contreras 49' Augusto Espinoza 63' Pinula Contreras 79';
-     Rubén Jiménez 18' Juan Ulloa 35' Rubén Jiménez 57' Juan Ulloa 81'
-[Sun Sep 4]
-  Honduras - Costa Rica  2-1   @ Tegucigalpa, Honduras
-     Carlos Humberto Suazo 10' Ronald Leaky 21';
-     Marvin Rodríguez 46'
-[Sat Sep 10]
-  Nigeria - Ghana  2-2   @ Lagos, Nigeria
-     Godwin Emenako 28' Dejo Fayemi 75' (pen.);
-     Edward Acquah 14' Edward Acquah 83'
-[Sun Sep 11]
-  Costa Rica - Honduras  5-0   @ San José, Costa Rica
-     Rubén Jiménez 31' Rubén Jiménez 34' Juan Ulloa 42' Marvin Rodríguez 69' Walter Pearson 85'
-[Sun Sep 25]
-  Finland - France  1-2   @ Helsinki, Finland
-     Kai Pahlman 36' (pen.);
-     Maryan Wisniewski 63' Joseph Ujlaki 83'
-  Honduras - Guatemala  1-1   @ Tegucigalpa, Honduras
-     Carlos Humberto Suazo 59';
-     Pinula Contreras 28'
-[Sun Oct 2]
-  Suriname - Curaçao  1-2   @ Paramaribo, Dutch Guyana
-     August Foe a Man 45';
-     Eduvigis Rudolfo Dirksz 21' Eduvigis Rudolfo Dirksz 45'
-[Wed Oct 19]
-  Luxembourg - England  0-9   @ Luxembourg, Luxembourg
-     -; Bobby Charlton 3' Bobby Charlton 7' Jimmy Greaves 16' Bobby Smith 23' Bobby Smith 52' Johnny Haynes 62' Bobby Charlton 65' Jimmy Greaves 82' Jimmy Greaves 87'
-  Sweden - Belgium  2-0   @ Solna, Sweden
-     Rune Börjesson 52' Yngve Brodd 73'
-[Wed Oct 26]
-  Northern Ireland - Germany  3-4   @ Belfast, Northern Ireland
-     Billy McAdams 27' Billy McAdams 51' Billy McAdams 90';
-     Albert Brülls 7' Uwe Seeler 53' Gert Dörfel 55' Gert Dörfel 79'
-[Sun Oct 30]
-  Morocco - Tunisia  2-1   @ Casablanca, Morocco
-     Mohamed Khalfi 33' Abdallah Azhar 60' (pen.);
-     Rached Meddeb 43'
-[Thu Nov 3]
-  United States - Mexico  3-3   @ Los Angeles, United States
-     Helmut Bicek 31' (pen.) Carl Fister 58' Al Zerhusen 84';
-     Sigfrido Mercado 8' Salvador Reyes Monteón 17' Salvador Reyes Monteón 21'
-[Sun Nov 6]
-  South Korea - Japan  2-1   @ Seoul, South Korea
-     Chung Soon-cheon 39' Chung Soon-cheon 41';
-     Koji Sasaki 26'
-  Mexico - United States  3-0   @ Mexico City, Mexico
-     Sigfrido Mercado 5' Salvador Reyes Monteón 35' Isidoro Díaz 38'
-[Sun Nov 13]
-  Cyprus - Israel  1-1   @ Nicosia, Cyprus
-     Michalis Yasemis 29';
-     Boaz Kofman 31'
-  Tunisia - Morocco  2-1   @ Tunis, Tunisia
-     Abdelmajid Chetali 47' Abdelmajid Tlemçani 60';
-     Lahcen Chicha 64'
-[Sun Nov 20]
-  Belgium - Switzerland  2-4   @ Brussels, Belgium
-     Marcel Paeschen 25' Paul Van Himst 82';
-     Charles Antenen 22' Heinz Schneiter 41' Charles Antenen 48' Charles Antenen 79'
-  Greece - Germany  0-3   @ Athens, Greece
-     -; Gert Dörfel 8' Albert Brülls 31' Helmut Haller 42'
-[Sun Nov 27]
-  Curaçao - Suriname  0-0   @ Willemstad, Curaçao
-  Israel - Cyprus  6-1   @ Ramat Gan, Israel
-     Shlomo Levi 14' Shlomo Levi 30' Shlomo Nahari 34' Nahum Stelmach 61' Shlomo Levi 66' Nahum Stelmach 88';
-     Michalis Yasemis 89' (pen.)
-[Sun Dec 4]
-  Ecuador - Argentina  3-6   @ Guayaquil, Ecuador
-     Alberto Spencer 81' Carlos Alberto Raffo 83' Carlos Alberto Raffo 85';
-     Oreste Corbatta 5' (pen.) Martín Pando 12' Rubén Héctor Sosa 14' Oreste Corbatta 40' José Sanfilippo 47' Ricardo José Maria Ramaciotti 75'
-[Sun Dec 11]
-  France - Bulgaria  3-0   @ Colombes, France
-     Maryan Wisniewski 48' Jean-Jacques Marcel 58' Lucien Cossou 80'
-[Sat Dec 17]
-  Argentina - Ecuador  5-0   @ Buenos Aires, Argentina
-     Romulo Gómez 6' (o.g.) José Sanfilippo 53' Oreste Corbatta 55' (pen.) Rubén Héctor Sosa 75' Martín Pando 89'
+Sun Aug 21
+  Costa Rica           v Guatemala             3-2   @ San José, Costa Rica
+     (Rigoberto Rojas 28' Juan Ulloa 52' Juan Ulloa 58';
+      Augusto Espinoza 1' Fred Masella 35')
+Sun Aug 28
+  Ghana                v Nigeria               4-1   @ Accra, Ghana
+     (Edward Acquah 18' Edward Boateng 44' Edward Aggrey-Fynn 54' Mohamadu Salisu 55';
+      Dejo Fayemi 50')
+  Guatemala            v Costa Rica            4-4   @ Guatemala City, Guatemala
+     (Pinula Contreras 13' Pinula Contreras 49' Augusto Espinoza 63' Pinula Contreras 79';
+      Rubén Jiménez 18' Juan Ulloa 35' Rubén Jiménez 57' Juan Ulloa 81')
+Sun Sep 4
+  Honduras             v Costa Rica            2-1   @ Tegucigalpa, Honduras
+     (Carlos Humberto Suazo 10' Ronald Leaky 21';
+      Marvin Rodríguez 46')
+Sat Sep 10
+  Nigeria              v Ghana                 2-2   @ Lagos, Nigeria
+     (Godwin Emenako 28' Dejo Fayemi 75'(p);
+      Edward Acquah 14' Edward Acquah 83')
+Sun Sep 11
+  Costa Rica           v Honduras              5-0   @ San José, Costa Rica
+     (Rubén Jiménez 31' Rubén Jiménez 34' Juan Ulloa 42' Marvin Rodríguez 69' Walter Pearson 85')
+Sun Sep 25
+  Finland              v France                1-2   @ Helsinki, Finland
+     (Kai Pahlman 36'(p);
+      Maryan Wisniewski 63' Joseph Ujlaki 83')
+  Honduras             v Guatemala             1-1   @ Tegucigalpa, Honduras
+     (Carlos Humberto Suazo 59';
+      Pinula Contreras 28')
+Sun Oct 2
+  Suriname             v Curaçao               1-2   @ Paramaribo, Dutch Guyana
+     (August Foe a Man 45';
+      Eduvigis Rudolfo Dirksz 21' Eduvigis Rudolfo Dirksz 45')
+Wed Oct 19
+  Luxembourg           v England               0-9   @ Luxembourg, Luxembourg
+     (Bobby Charlton 3' Bobby Charlton 7' Jimmy Greaves 16' Bobby Smith 23' Bobby Smith 52' Johnny Haynes 62' Bobby Charlton 65' Jimmy Greaves 82' Jimmy Greaves 87')
+  Sweden               v Belgium               2-0   @ Solna, Sweden
+     (Rune Börjesson 52' Yngve Brodd 73')
+Wed Oct 26
+  Northern Ireland     v Germany               3-4   @ Belfast, Northern Ireland
+     (Billy McAdams 27' Billy McAdams 51' Billy McAdams 90';
+      Albert Brülls 7' Uwe Seeler 53' Gert Dörfel 55' Gert Dörfel 79')
+Sun Oct 30
+  Morocco              v Tunisia               2-1   @ Casablanca, Morocco
+     (Mohamed Khalfi 33' Abdallah Azhar 60'(p);
+      Rached Meddeb 43')
+Thu Nov 3
+  United States        v Mexico                3-3   @ Los Angeles, United States
+     (Helmut Bicek 31'(p) Carl Fister 58' Al Zerhusen 84';
+      Sigfrido Mercado 8' Salvador Reyes Monteón 17' Salvador Reyes Monteón 21')
+Sun Nov 6
+  South Korea          v Japan                 2-1   @ Seoul, South Korea
+     (Chung Soon-cheon 39' Chung Soon-cheon 41';
+      Koji Sasaki 26')
+  Mexico               v United States         3-0   @ Mexico City, Mexico
+     (Sigfrido Mercado 5' Salvador Reyes Monteón 35' Isidoro Díaz 38')
+Sun Nov 13
+  Cyprus               v Israel                1-1   @ Nicosia, Cyprus
+     (Michalis Yasemis 29';
+      Boaz Kofman 31')
+  Tunisia              v Morocco               2-1   @ Tunis, Tunisia
+     (Abdelmajid Chetali 47' Abdelmajid Tlemçani 60';
+      Lahcen Chicha 64')
+Sun Nov 20
+  Belgium              v Switzerland           2-4   @ Brussels, Belgium
+     (Marcel Paeschen 25' Paul Van Himst 82';
+      Charles Antenen 22' Heinz Schneiter 41' Charles Antenen 48' Charles Antenen 79')
+  Greece               v Germany               0-3   @ Athens, Greece
+     (Gert Dörfel 8' Albert Brülls 31' Helmut Haller 42')
+Sun Nov 27
+  Curaçao              v Suriname              0-0   @ Willemstad, Curaçao
+  Israel               v Cyprus                6-1   @ Ramat Gan, Israel
+     (Shlomo Levi 14' Shlomo Levi 30' Shlomo Nahari 34' Nahum Stelmach 61' Shlomo Levi 66' Nahum Stelmach 88';
+      Michalis Yasemis 89'(p))
+Sun Dec 4
+  Ecuador              v Argentina             3-6   @ Guayaquil, Ecuador
+     (Alberto Spencer 81' Carlos Alberto Raffo 83' Carlos Alberto Raffo 85';
+      Oreste Corbatta 5'(p) Martín Pando 12' Rubén Héctor Sosa 14' Oreste Corbatta 40' José Sanfilippo 47' Ricardo José Maria Ramaciotti 75')
+Sun Dec 11
+  France               v Bulgaria              3-0   @ Colombes, France
+     (Maryan Wisniewski 48' Jean-Jacques Marcel 58' Lucien Cossou 80')
+Sat Dec 17
+  Argentina            v Ecuador               5-0   @ Buenos Aires, Argentina
+     (Romulo Gómez 6'(og) José Sanfilippo 53' Oreste Corbatta 55'(p) Rubén Héctor Sosa 75' Martín Pando 89')
 

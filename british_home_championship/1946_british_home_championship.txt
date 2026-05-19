@@ -1,15 +1,15 @@
 = British Home Championship 1946
 
-# Date       Sat Sep/28 - Wed Nov/27 1946 (60d)
+# Date       Sat Sep 28 - Wed Nov 27 1946 (60d)
 # Teams      4
 # Matches    4
 
-[Sat Sep 28]
-  Northern Ireland - England  2-7   @ Belfast, Northern Ireland
-[Sat Oct 19]
-  Wales - Scotland  3-1   @ Wrexham, Wales
-[Wed Nov 13]
-  England - Wales  3-0   @ Manchester, England
-[Wed Nov 27]
-  Scotland - Northern Ireland  0-0   @ Glasgow, Scotland
+Sat Sep 28
+  Northern Ireland     v England               2-7   @ Belfast, Northern Ireland
+Sat Oct 19
+  Wales                v Scotland              3-1   @ Wrexham, Wales
+Wed Nov 13
+  England              v Wales                 3-0   @ Manchester, England
+Wed Nov 27
+  Scotland             v Northern Ireland      0-0   @ Glasgow, Scotland
 

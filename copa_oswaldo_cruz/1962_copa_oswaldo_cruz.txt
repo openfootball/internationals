@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1962
 
-# Date       Sat Apr/21 - Tue Apr/24 1962 (3d)
+# Date       Sat Apr 21 - Tue Apr 24 1962 (3d)
 # Teams      2
 # Matches    2
 
-[Sat Apr 21]
-  Brazil - Paraguay  6-0   @ Rio de Janeiro, Brazil
-[Tue Apr 24]
-  Brazil - Paraguay  4-0   @ São Paulo, Brazil
+Sat Apr 21
+  Brazil               v Paraguay              6-0   @ Rio de Janeiro, Brazil
+Tue Apr 24
+  Brazil               v Paraguay              4-0   @ São Paulo, Brazil
 

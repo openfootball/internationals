@@ -1,25 +1,25 @@
 = Inter-Allied Games 1919
 
-# Date       Tue Jun/24 - Sun Jun/29 1919 (5d)
+# Date       Tue Jun 24 - Sun Jun 29 1919 (5d)
 # Teams      8
 # Matches    13
 
-[Tue Jun 24]
-  France - Romania  4-0   @ Paris, France
-  Czechoslovakia - Belgium  4-1   @ Paris, France
-[Wed Jun 25]
-  Italy - Greece  9-0   @ Paris, France
-  United States - Canada  5-4   @ Paris, France
-[Thu Jun 26]
-  Italy - Romania  7-1   @ Paris, France
-  France - Greece  11-0   @ Paris, France
-  Czechoslovakia - United States  8-2   @ Paris, France
-  Belgium - Canada  5-2   @ Paris, France
-[Sat Jun 28]
-  Greece - Romania  3-2   @ Paris, France
-  France - Italy  2-0   @ Paris, France
-  Czechoslovakia - Canada  3-2   @ Paris, France
-  Belgium - United States  7-0   @ Paris, France
-[Sun Jun 29]
-  France - Czechoslovakia  2-3   @ Paris, France
+Tue Jun 24
+  France               v Romania               4-0   @ Paris, France
+  Czechoslovakia       v Belgium               4-1   @ Paris, France
+Wed Jun 25
+  Italy                v Greece                9-0   @ Paris, France
+  United States        v Canada                5-4   @ Paris, France
+Thu Jun 26
+  Italy                v Romania               7-1   @ Paris, France
+  France               v Greece                11-0   @ Paris, France
+  Czechoslovakia       v United States         8-2   @ Paris, France
+  Belgium              v Canada                5-2   @ Paris, France
+Sat Jun 28
+  Greece               v Romania               3-2   @ Paris, France
+  France               v Italy                 2-0   @ Paris, France
+  Czechoslovakia       v Canada                3-2   @ Paris, France
+  Belgium              v United States         7-0   @ Paris, France
+Sun Jun 29
+  France               v Czechoslovakia        2-3   @ Paris, France
 

@@ -1,33 +1,33 @@
 = CONCACAF Championship qualification 1967
 
-# Date       Wed Jan/11 - Tue Feb/14 1967 (34d)
+# Date       Wed Jan 11 - Tue Feb 14 1967 (34d)
 # Teams      8
 # Matches    13
 
-[Wed Jan 11]
-  Jamaica - Curaçao  1-1   @ Kingston, Jamaica
-[Thu Jan 12]
-  Cuba - Haiti  1-1   @ Kingston, Jamaica
-[Fri Jan 13]
-  Curaçao - Trinidad and Tobago  1-2   @ Kingston, Jamaica
-[Sat Jan 14]
-  Jamaica - Cuba  2-1   @ Kingston, Jamaica
-[Mon Jan 16]
-  Haiti - Trinidad and Tobago  4-2   @ Kingston, Jamaica
-[Tue Jan 17]
-  Curaçao - Cuba  2-2   @ Kingston, Jamaica
-[Wed Jan 18]
-  Jamaica - Trinidad and Tobago  1-1   @ Kingston, Jamaica
-[Thu Jan 19]
-  Curaçao - Haiti  0-1   @ Kingston, Jamaica
-[Fri Jan 20]
-  Cuba - Trinidad and Tobago  1-2   @ Kingston, Jamaica
-[Sat Jan 21]
-  Jamaica - Haiti  0-1   @ Kingston, Jamaica
-[Thu Feb 9]
-  Nicaragua - Panama  3-1   @ Guatemala City, Guatemala
-[Sun Feb 12]
-  Guatemala - Panama  3-1   @ Guatemala City, Guatemala
-[Tue Feb 14]
-  Guatemala - Nicaragua  3-1   @ Guatemala City, Guatemala
+Wed Jan 11
+  Jamaica              v Curaçao               1-1   @ Kingston, Jamaica
+Thu Jan 12
+  Cuba                 v Haiti                 1-1   @ Kingston, Jamaica
+Fri Jan 13
+  Curaçao              v Trinidad and Tobago   1-2   @ Kingston, Jamaica
+Sat Jan 14
+  Jamaica              v Cuba                  2-1   @ Kingston, Jamaica
+Mon Jan 16
+  Haiti                v Trinidad and Tobago   4-2   @ Kingston, Jamaica
+Tue Jan 17
+  Curaçao              v Cuba                  2-2   @ Kingston, Jamaica
+Wed Jan 18
+  Jamaica              v Trinidad and Tobago   1-1   @ Kingston, Jamaica
+Thu Jan 19
+  Curaçao              v Haiti                 0-1   @ Kingston, Jamaica
+Fri Jan 20
+  Cuba                 v Trinidad and Tobago   1-2   @ Kingston, Jamaica
+Sat Jan 21
+  Jamaica              v Haiti                 0-1   @ Kingston, Jamaica
+Thu Feb 9
+  Nicaragua            v Panama                3-1   @ Guatemala City, Guatemala
+Sun Feb 12
+  Guatemala            v Panama                3-1   @ Guatemala City, Guatemala
+Tue Feb 14
+  Guatemala            v Nicaragua             3-1   @ Guatemala City, Guatemala
 

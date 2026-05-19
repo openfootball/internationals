@@ -1,13 +1,13 @@
 = King's Cup 1979
 
-# Date       Thu Nov/22 - Mon Nov/26 1979 (4d)
+# Date       Thu Nov 22 - Mon Nov 26 1979 (4d)
 # Teams      3
 # Matches    3
 
-[Thu Nov 22]
-  Thailand - Sri Lanka  5-1   @ Bangkok, Thailand
-[Sat Nov 24]
-  Thailand - Indonesia  3-0   @ Bangkok, Thailand
-[Mon Nov 26]
-  Indonesia - Sri Lanka  0-0   @ Bangkok, Thailand
+Thu Nov 22
+  Thailand             v Sri Lanka             5-1   @ Bangkok, Thailand
+Sat Nov 24
+  Thailand             v Indonesia             3-0   @ Bangkok, Thailand
+Mon Nov 26
+  Indonesia            v Sri Lanka             0-0   @ Bangkok, Thailand
 

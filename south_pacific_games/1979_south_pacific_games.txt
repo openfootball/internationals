@@ -1,42 +1,42 @@
 = South Pacific Games 1979
 
-# Date       Wed Aug/29 - Fri Sep/7 1979 (9d)
+# Date       Wed Aug 29 - Fri Sep 7 1979 (9d)
 # Teams      12
 # Matches    26
 
-[Wed Aug 29]
-  Guam - Vanuatu  0-4   @ Suva, Fiji
-  Solomon Islands - Wallis Islands and Futuna  6-0   @ Suva, Fiji
-  Tahiti - Tonga  8-0   @ Suva, Fiji
-  Fiji - Papua New Guinea  0-0   @ Suva, Fiji
-[Thu Aug 30]
-  Fiji - Kiribati  24-0   @ Nausori, Fiji
-  Guam - New Caledonia  1-10   @ Suva, Fiji
-  Tahiti - Tuvalu  18-0   @ Suva, Fiji
-[Fri Aug 31]
-  Kiribati - Papua New Guinea  0-13   @ Suva, Fiji
-  Solomon Islands - Samoa  12-0   @ Suva, Fiji
-  New Caledonia - Vanuatu  3-0   @ Suva, Fiji
-[Sat Sep 1]
-  Tonga - Tuvalu  3-5   @ Nausori, Fiji
-  Wallis Islands and Futuna - Samoa  3-1   @ Nausori, Fiji
-[Mon Sep 3]
-  Fiji - Wallis Islands and Futuna  5-0   @ Nausori, Fiji
-  New Caledonia - Tuvalu  11-0   @ Suva, Fiji
-  Papua New Guinea - Solomon Islands  2-3   @ Nausori, Fiji
-  Tahiti - Vanuatu  1-0   @ Suva, Fiji
-[Tue Sep 4]
-  New Caledonia - Tahiti  2-3   @ Suva, Fiji
-  Fiji - Solomon Islands  2-0   @ Suva, Fiji
-[Wed Sep 5]
-  Guam - Samoa  4-2   @ Nausori, Fiji
-  Kiribati - Tuvalu  3-3   @ Nausori, Fiji
-  Tonga - Wallis Islands and Futuna  1-0   @ Nausori, Fiji
-  Vanuatu - Papua New Guinea  2-0   @ Nausori, Fiji
-[Thu Sep 6]
-  Guam - Tuvalu  7-2   @ Nausori, Fiji
-  Vanuatu - Tonga  7-1   @ Nausori, Fiji
-[Fri Sep 7]
-  New Caledonia - Solomon Islands  1-3   @ Suva, Fiji
-  Fiji - Tahiti  0-3   @ Suva, Fiji
+Wed Aug 29
+  Guam                 v Vanuatu               0-4   @ Suva, Fiji
+  Solomon Islands      v Wallis Islands and Futuna  6-0   @ Suva, Fiji
+  Tahiti               v Tonga                 8-0   @ Suva, Fiji
+  Fiji                 v Papua New Guinea      0-0   @ Suva, Fiji
+Thu Aug 30
+  Fiji                 v Kiribati              24-0   @ Nausori, Fiji
+  Guam                 v New Caledonia         1-10   @ Suva, Fiji
+  Tahiti               v Tuvalu                18-0   @ Suva, Fiji
+Fri Aug 31
+  Kiribati             v Papua New Guinea      0-13   @ Suva, Fiji
+  Solomon Islands      v Samoa                 12-0   @ Suva, Fiji
+  New Caledonia        v Vanuatu               3-0   @ Suva, Fiji
+Sat Sep 1
+  Tonga                v Tuvalu                3-5   @ Nausori, Fiji
+  Wallis Islands and Futuna v Samoa                 3-1   @ Nausori, Fiji
+Mon Sep 3
+  Fiji                 v Wallis Islands and Futuna  5-0   @ Nausori, Fiji
+  New Caledonia        v Tuvalu                11-0   @ Suva, Fiji
+  Papua New Guinea     v Solomon Islands       2-3   @ Nausori, Fiji
+  Tahiti               v Vanuatu               1-0   @ Suva, Fiji
+Tue Sep 4
+  New Caledonia        v Tahiti                2-3   @ Suva, Fiji
+  Fiji                 v Solomon Islands       2-0   @ Suva, Fiji
+Wed Sep 5
+  Guam                 v Samoa                 4-2   @ Nausori, Fiji
+  Kiribati             v Tuvalu                3-3   @ Nausori, Fiji
+  Tonga                v Wallis Islands and Futuna  1-0   @ Nausori, Fiji
+  Vanuatu              v Papua New Guinea      2-0   @ Nausori, Fiji
+Thu Sep 6
+  Guam                 v Tuvalu                7-2   @ Nausori, Fiji
+  Vanuatu              v Tonga                 7-1   @ Nausori, Fiji
+Fri Sep 7
+  New Caledonia        v Solomon Islands       1-3   @ Suva, Fiji
+  Fiji                 v Tahiti                0-3   @ Suva, Fiji
 

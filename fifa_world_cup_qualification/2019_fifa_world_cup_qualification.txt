@@ -1,323 +1,323 @@
 = FIFA World Cup qualification 2019
 
-# Date       Thu Jun/6 - Tue Nov/19 2019 (166d)
+# Date       Thu Jun 6 - Tue Nov 19 2019 (166d)
 # Teams      74
 # Matches    136
 
-[Thu Jun 6]
-  Bhutan - Guam  1-0   @ Thimphu, Bhutan
-     Tshering Dorji 35'
-  Cambodia - Pakistan  2-0   @ Phnom Penh, Cambodia
-     Sieng Chanthea 81' Kouch Sokumpheak 84'
-  Laos - Bangladesh  0-1   @ Vientiane, Laos
-     -; Robiul Hasan 72'
-  Macau - Sri Lanka  1-0   @ Zhuhai, Macau
-     Filipe Duarte 52'
-  Mongolia - Brunei  2-0   @ Ulaanbaatar, Mongolia
-     Norjmoogiin Tsedenbal 9' Nyam-Osor Naranbold 69'
-[Fri Jun 7]
-  Malaysia - Timor-Leste  7-1   @ Kuala Lumpur, Malaysia
-     La'Vere Corbin-Ong 12' Shahrel Fikri 23' Norshahrul Idlan 43' Safawi Rasid 45' Safawi Rasid 59' Faiz Nasir 78' Akhyar Rashid 89';
-     João Pedro 52'
-[Tue Jun 11]
-  Bangladesh - Laos  0-0   @ Dhaka, Bangladesh
-  Brunei - Mongolia  2-1   @ Bandar Seri Begawan, Brunei
-     Razimie Ramlli 5' Razimie Ramlli 34';
-     Norjmoogiin Tsedenbal 47' (pen.)
-  Guam - Bhutan  5-0   @ Dededo, Guam
-     Isiah Lagutang 23' Jason Cunliffe 27' Shane Malcolm 51' Jason Cunliffe 82' Jason Cunliffe 90'
-  Pakistan - Cambodia  1-2   @ Doha, Qatar
-     Hassan Bashir 17' (pen.);
-     Sath Rosib 64' Reung Bunheing 89'
-  Sri Lanka - Macau  3-0   @ Colombo, Sri Lanka
-  Malaysia - Timor-Leste  5-1   @ Kuala Lumpur, Malaysia
-     Shahrel Fikri 11' Shahrel Fikri 17' Mohamadou Sumareh 37' Akhyar Rashid 55' Shahrel Fikri 64';
-     Rufino Gama 72'
-[Wed Sep 4]
-  Burundi - Tanzania  1-1   @ Bujumbura, Burundi
-     Cédric Amissi 81';
-     Simon Msuva 85'
-  Djibouti - Eswatini  2-1   @ Djibouti, Djibouti
-     Mahdi Houssein Mahabeh 45' (pen.) Abdi Idleh Hamza 74';
-     Siboniso Mamba 56'
-  Eritrea - Namibia  1-2   @ Asmara, Eritrea
-     Ali Sulieman 65';
-     Peter Shalulile 50' Esey Tesfay 58' (o.g.)
-  Ethiopia - Lesotho  0-0   @ Bahir Dar, Ethiopia
-  Liberia - Sierra Leone  3-1   @ Monrovia, Liberia
-     Terrence Tisdell 18' (pen.) Mohammed Sangare 82' (pen.) Sam Johnson 88';
-     Kwame Quee 56'
-  Mauritius - Mozambique  0-1   @ Belle Vue Maurel, Mauritius
-     -; Telinho 10'
-  São Tomé and Príncipe - Guinea-Bissau  0-1   @ São Tomé, São Tomé and Príncipe
-     -; Joseph Mendes 85' (pen.)
-  South Sudan - Equatorial Guinea  1-1   @ Omdurman, Sudan
-     Niko Kata 75' (o.g.);
-     Luis Meseguer 34'
-[Thu Sep 5]
-  Guam - Maldives  0-1   @ Dededo, Guam
-     -; Ibrahim Mahudhee 27'
-  Philippines - Syria  2-5   @ Bacolod, Philippines
-     Javier Patiño 6' Mike Ott 83';
-     Omar Al Somah 14' Khaled Mobayed 30' Firas Al-Khatib 48' (pen.) Omar Al Somah 55' Mahmoud Al-Mawas 85'
-  Taiwan - Jordan  1-2   @ Taipei, Taiwan
-     Wen Chih-hao 81';
-     Baha' Faisal 19' Ahmed Samir 37'
-  Kuwait - Nepal  7-0   @ Kuwait City, Kuwait
-     Yousef Nasser 6' Fahad Al Hajeri 13' Yousef Nasser 50' Abdullah Mawei 59' Bader Al-Mutawa 67' Redha Abujabarah 90' Hussain Al-Musawi 90'
-  Cambodia - Hong Kong  1-1   @ Phnom Penh, Cambodia
-     Keo Sokpheng 33';
-     Tan Chun Lok 16'
-  Bahrain - Iraq  1-1   @ Riffa, Bahrain
-     Kamil Al Aswad 9';
-     Mohanad Ali 85'
-  Palestine - Uzbekistan  2-0   @ Al-Ram, Palestine
-     Oday Dabbagh 60' Islam Batran 85'
-  Singapore - Yemen  2-2   @ Kallang, Singapore
-     Ikhsan Fandi 27' Faris Ramli 52';
-     Abdulwasea Al-Matari 34' Mohsen Qarawi 45'
-  India - Oman  1-2   @ Guwahati, India
-     Sunil Chhetri 24';
-     Rabia Al-Alawi 82' Rabia Al-Alawi 90'
-  Qatar - Afghanistan  6-0   @ Doha, Qatar
-     Almoez Ali 4' Almoez Ali 10' Hassan Al-Haydos 13' Abdelkarim Hassan 34' Almoez Ali 51' Boualem Khoukhi 67'
-  Mongolia - Myanmar  1-0   @ Ulaanbaatar, Mongolia
-     Dölgöön Amaraa 17'
-  Tajikistan - Kyrgyzstan  1-0   @ Dushanbe, Tajikistan
-     Alisher Dzhalilov 41'
-  Thailand - Vietnam  0-0   @ Pathum Thani, Thailand
-  Indonesia - Malaysia  2-3   @ Jakarta, Indonesia
-     Beto Gonçalves 11' Beto Gonçalves 38';
-     Mohamadou Sumareh 36' Syafiq Ahmad 65' Mohamadou Sumareh 90'
-  North Korea - Lebanon  2-0   @ Pyongyang, North Korea
-     Jong Il-gwan 7' Jong Il-gwan 56'
-  Sri Lanka - Turkmenistan  0-2   @ Colombo, Sri Lanka
-     -; Wahyt Orazsähedow 8' Arslanmyrat Amanow 53'
-  Chad - Sudan  1-3   @ N'Djamena, Chad
-     Ezechiel N'Douassel 85' (pen.);
-     Ramadan Agab 13' Ramadan Agab 67' Ramadan Agab 74'
-  Seychelles - Rwanda  0-3   @ Victoria, Seychelles
-     -; Muhadjiri Hakizimana 32' Yannick Mukunzi 36' Meddie Kagere 80'
-  Somalia - Zimbabwe  1-0   @ Djibouti, Djibouti
-     Anwar Shakunda 86'
-[Fri Sep 6]
-  Comoros - Togo  1-1   @ Moroni, Comoros
-     Ibroihim Djoudja 49';
-     Kodjo Fo-Doh Laba 34'
-  Gambia - Angola  0-1   @ Bakau, Gambia
-     -; Wilson Gaspar 31'
-[Sat Sep 7]
-  Botswana - Malawi  0-0   @ Francistown, Botswana
-[Sun Sep 8]
-  Equatorial Guinea - South Sudan  1-0   @ Malabo, Equatorial Guinea
-     Emilio Nsue 72'
-  Lesotho - Ethiopia  1-1   @ Maseru, Lesotho
-     Tsepo Seturumane 56';
-     Nkau Lerotholi 50' (o.g.)
-  Sierra Leone - Liberia  1-0   @ Freetown, Sierra Leone
-     Kei Kamara 55'
-  Tanzania - Burundi  1-1   @ Dar es Salaam, Tanzania   [Tanzania wins on penalties]
-     Mbwana Samatta 29';
-     Fiston Abdul Razak 45'
-[Tue Sep 10]
-  Guam - Philippines  1-4   @ Dededo, Guam
-     Marcus Lopez 67' (pen.);
-     Ángel Guirado 7' Patrick Reichelt 12' Stephan Schröck 71' John-Patrick Strauß 81'
-  Maldives - China PR  0-5   @ Malé, Maldives
-     -; Wu Xi 34' Wu Lei 45' Yang Xu 64' (pen.) Elkeson 83' (pen.) Elkeson 90'
-  Kuwait - Australia  0-3   @ Kuwait City, Kuwait
-     -; Mathew Leckie 7' Mathew Leckie 30' Aaron Mooy 38'
-  Taiwan - Nepal  0-2   @ Taipei, Taiwan
-     -; Anjan Bista 4' Anjan Bista 62'
-  Cambodia - Bahrain  0-1   @ Phnom Penh, Cambodia
-     -; Kamil Al Aswad 78'
-  Hong Kong - Iran  0-2   @ Hong Kong, Hong Kong
-     -; Sardar Azmoun 23' Karim Ansarifard 54'
-  Yemen - Saudi Arabia  2-2   @ Riffa, Bahrain
-     Mohsen Qarawi 8' Omar Al-Dahi 37';
-     Hattan Bahebri 23' Salem Al-Dawsari 48'
-  Singapore - Palestine  2-1   @ Singapore, Singapore
-     Shakir Hamzah 3' Safuwan Baharudin 38';
-     Yaser Hamed 13'
-  Afghanistan - Bangladesh  1-0   @ Dushanbe, Tajikistan
-     Farshad Noor 27'
-  Qatar - India  0-0   @ Doha, Qatar
-  Mongolia - Tajikistan  0-1   @ Ulaanbaatar, Mongolia
-     -; Davron Ergashev 81'
-  Myanmar - Japan  0-2   @ Yangon, Myanmar
-     -; Shoya Nakajima 16' Takumi Minamino 26'
-  Indonesia - Thailand  0-3   @ Jakarta, Indonesia
-     -; Supachok Sarachat 55' Theerathon Bunmathan 65' (pen.) Supachok Sarachat 71'
-  Malaysia - United Arab Emirates  1-2   @ Kuala Lumpur, Malaysia
-     Syafiq Ahmad 1';
-     Ali Mabkhout 43' Ali Mabkhout 75'
-  Turkmenistan - South Korea  0-2   @ Ashgabat, Turkmenistan
-     -; Na Sang-ho 13' Jung Woo-young 82'
-  Sri Lanka - North Korea  0-1   @ Colombo, Sri Lanka
-     -; Jang Kuk-chol 67'
-  Angola - Gambia  2-1   @ Luanda, Angola
-     Geraldo 41' Fábio Abreu 68';
-     Assan Ceesay 65'
-  Guinea-Bissau - São Tomé and Príncipe  2-1   @ Bissau, Guinea-Bissau
-     Joseph Mendes 66' Joseph Mendes 77';
-     Iniesta 12'
-  Malawi - Botswana  1-0   @ Blantyre, Malawi
-     Gerald Phiri Jr. 81' (pen.)
-  Mozambique - Mauritius  2-0   @ Maputo, Mozambique
-     Clésio 6' Geny Catamo 77' (pen.)
-  Namibia - Eritrea  2-0   @ Windhoek, Namibia
-     Absalom Iimbondi 25' Peter Shalulile 90'
-  Rwanda - Seychelles  7-0   @ Kigali, Rwanda
-     Djihad Bizimana 16' Meddie Kagere 27' Jacques Tuyisenge 29' Jacques Tuyisenge 34' Meddie Kagere 51' Yannick Mukunzi 57' Muhadjiri Hakizimana 79'
-  Sudan - Chad  0-0   @ Omdurman, Sudan
-  Eswatini - Djibouti  0-0   @ Manzini, Eswatini
-  Togo - Comoros  2-0   @ Lomé, Togo
-     Kassim M'Dahoma 10' (o.g.) Gilles Sunu 71'
-  Zimbabwe - Somalia  3-1   @ Harare, Zimbabwe
-     Marshall Munetsi 77' Admiral Muskwe 86' Khama Billiat 90';
-     Omar Mohamed 85'
-[Thu Oct 10]
-  Syria - Maldives  2-1   @ Dubai, United Arab Emirates
-     Omar Al Somah 26' Omar Al Somah 60';
-     Ali Ashfaq 70'
-  China PR - Guam  7-0   @ Guangzhou, China PR
-     Yang Xu 6' Wu Lei 17' Yang Xu 19' Yang Xu 24' Yang Xu 31' Wu Xi 45' Elkeson 75'
-  Jordan - Kuwait  0-0   @ Amman, Jordan
-  Australia - Nepal  5-0   @ Canberra, Australia
-     Jamie Maclaren 6' Jamie Maclaren 19' Harry Souttar 23' Harry Souttar 59' Jamie Maclaren 90'
-  Iran - Cambodia  14-0   @ Tehran, Iran
-     Ahmad Nourollahi 5' Sardar Azmoun 11' Hossein Kanaanizadegan 18' Soeuy Visal 22' (o.g.) Sardar Azmoun 35' Karim Ansarifard 40' Sardar Azmoun 44' Karim Ansarifard 48' Mehdi Taremi 54' Karim Ansarifard 60' Mohammad Mohebi 65' Mohammad Mohebi 67' Mehrdad Mohammadi 85' Karim Ansarifard 88'
-  Iraq - Hong Kong  2-0   @ Basra, Iraq
-     Mohanad Ali 37' Ali Adnan Kadhim 79' (pen.)
-  Uzbekistan - Yemen  5-0   @ Tashkent, Uzbekistan
-     Sanjar Kodirkulov 3' Eldor Shomurodov 33' Jamshid Iskanderov 53' Islom Tukhtakhujaev 72' Igor Sergeev 90'
-  Saudi Arabia - Singapore  3-0   @ Buraidah, Saudi Arabia
-     Abdulfattah Asiri 28' Abdullah Al-Hamdan 61' Abdulfattah Asiri 67'
-  Bangladesh - Qatar  0-2   @ Dhaka, Bangladesh
-     -; Yusuf Abdurisag 28' Karim Boudiaf 90'
-  Oman - Afghanistan  3-0   @ Seeb, Oman
-     Abdul Aziz Al-Muqbali 27' Abdul Aziz Al-Muqbali 38' Muhsen Al-Ghassani 61' (pen.)
-  Japan - Mongolia  6-0   @ Saitama, Japan
-     Takumi Minamino 22' Maya Yoshida 29' Yuto Nagatomo 33' Kensuke Nagai 40' Wataru Endō 57' Daichi Kamada 82'
-  Kyrgyzstan - Myanmar  7-0   @ Bishkek, Kyrgyzstan
-     Edgar Bernhardt 5' Edgar Bernhardt 10' Alimardon Shukurov 20' Gulzhigit Alykulov 26' Valery Kichin 45' Alimardon Shukurov 71' Edgar Bernhardt 87' (pen.)
-  United Arab Emirates - Indonesia  5-0   @ Dubai, United Arab Emirates
-     Khalil Ibrahim 40' Ali Mabkhout 51' Ali Mabkhout 63' (pen.) Ali Mabkhout 72' Tareq Ahmed 90'
-  Vietnam - Malaysia  1-0   @ Hanoi, Vietnam
-     Nguyễn Quang Hải 40'
-  Lebanon - Turkmenistan  2-1   @ Beirut, Lebanon
-     Hilal El-Helwe 5' Nader Matar 64';
-     Altymyrat Annadurdyýew 62'
-  South Korea - Sri Lanka  8-0   @ Hwaseong, South Korea
-     Son Heung-min 10' Kim Shin-wook 17' Hwang Hee-chan 20' Kim Shin-wook 30' Son Heung-min 45' (pen.) Kim Shin-wook 54' Kim Shin-wook 64' Kwon Chang-hoon 76'
-[Tue Oct 15]
-  Syria - Guam  4-0   @ Dubai, United Arab Emirates
-     Omar Al Somah 3' Omar Al Somah 44' Omar Al Somah 83' Mahmoud Al-Mawas 90'
-  Philippines - China PR  0-0   @ Bacolod, Philippines
-  Jordan - Nepal  3-0   @ Amman, Jordan
-     Feras Shelbaieh 56' (pen.) Ahmad Ersan 78' Baha' Faisal 88'
-  Taiwan - Australia  1-7   @ Kaohsiung, Taiwan
-     Chen Yi-wei 21';
-     Adam Taggart 12' Adam Taggart 19' Jackson Irvine 34' Jackson Irvine 37' Harry Souttar 73' Jamie Maclaren 84' Harry Souttar 89'
-  Cambodia - Iraq  0-4   @ Phnom Penh, Cambodia
-     -; Ibrahim Bayesh 22' Mohanad Ali 41' Amjad Attwan 57' Ahmad Ibrahim Khalaf 62'
-  Bahrain - Iran  1-0   @ Riffa, Bahrain
-     Mohammed Al-Hardan 65' (pen.)
-  Palestine - Saudi Arabia  0-0   @ Al-Ram, Palestine
-  Singapore - Uzbekistan  1-3   @ Kallang, Singapore
-     Ikhsan Fandi 45';
-     Odil Ahmedov 15' Eldor Shomurodov 51' Eldor Shomurodov 90'
-  India - Bangladesh  1-1   @ Kolkota, India
-     Adil Khan 88';
-     Saad Uddin 42'
-  Qatar - Oman  2-1   @ Al Wakrah, Qatar
-     Akram Afif 2' Almoez Ali 71';
-     Rabia Al-Alawi 63'
-  Mongolia - Kyrgyzstan  1-2   @ Ulaanbaatar, Mongolia
-     Norjmoogiin Tsedenbal 57' (pen.);
-     Gulzhigit Alykulov 13' Mirlan Murzaev 42'
-  Tajikistan - Japan  0-3   @ Dushanbe, Tajikistan
-     -; Takumi Minamino 53' Takumi Minamino 55' Takuma Asano 82'
-  Thailand - United Arab Emirates  2-1   @ Pathum Thani, Thailand
-     Teerasil Dangda 26' Ekanit Panya 51';
-     Ali Mabkhout 45'
-  Indonesia - Vietnam  1-3   @ Gianyar, Indonesia
-     Irfan Bachdim 84';
-     Đỗ Duy Mạnh 26' Quế Ngọc Hải 55' (pen.) Nguyễn Tiến Linh 61'
-  North Korea - South Korea  0-0   @ Pyongyang, North Korea
-  Sri Lanka - Lebanon  0-3   @ Colombo, Sri Lanka
-     -; Hassan Maatouk 15' (pen.) Hilal El-Helwe 38' (pen.) Hilal El-Helwe 81'
-[Thu Nov 14]
-  Maldives - Philippines  1-2   @ Malé, Maldives
-     Naiz Hassan 90';
-     Iain Ramsay 52' John-Patrick Strauß 68'
-  Syria - China PR  2-1   @ Dubai, United Arab Emirates
-     Osama Omari 19' Zhang Linpeng 76' (o.g.);
-     Wu Lei 30'
-  Jordan - Australia  0-1   @ Amman, Jordan
-     -; Adam Taggart 13'
-  Kuwait - Taiwan  9-0   @ Kuwait City, Kuwait
-     Yousef Nasser 22' Fahad Al Ansari 42' Mobarak Al-Faneeni 49' Bader Al-Mutawa 55' Yousef Nasser 59' Faisal Zayid 62' Shabib Al-Khaldi 73' Chen Wei-chuan 77' (o.g.) Faisal Ajab Al-Azemi 81'
-  Iraq - Iran  2-1   @ Amman, Jordan
-     Mohanad Ali 11' Alaa Abbas 90';
-     Ahmad Nourollahi 25'
-  Hong Kong - Bahrain  0-0   @ Hong Kong, Hong Kong
-  Uzbekistan - Saudi Arabia  2-3   @ Tashkent, Uzbekistan
-     Eldor Shomurodov 16' Otabek Shukurov 56' (pen.);
-     Salman Al-Faraj 23' (pen.) Salman Al-Faraj 85' Salem Al-Dawsari 89'
-  Yemen - Palestine  1-0   @ Muharraq, Bahrain
-     Omar Al-Dahi 54'
-  Afghanistan - India  1-1   @ Dushanbe, Tajikistan
-     Zelfy Nazary 45';
-     Seiminlen Doungel 90'
-  Oman - Bangladesh  4-1   @ Muscat, Oman
-     Mohsin Al-Khaldi 48' Rabia Al-Alawi 68' Arshad Al-Alawi 78' Amran Al-Hidi 90';
-     Biplu Ahmed 81'
-  Myanmar - Tajikistan  4-3   @ Mandalay, Myanmar
-     Suan Lam Mang 10' Suan Lam Mang 41' Aung Thu 48' Maung Maung Lwin 63';
-     Manuchekhr Dzhalilov 36' (pen.) Farkhod Vosiyev 57' Manuchekhr Dzhalilov 76'
-  Kyrgyzstan - Japan  0-2   @ Bishkek, Kyrgyzstan
-     -; Takumi Minamino 41' (pen.) Genki Haraguchi 54'
-  Vietnam - United Arab Emirates  1-0   @ Hanoi, Vietnam
-     Nguyễn Tiến Linh 44'
-  Malaysia - Thailand  2-1   @ Kuala Lumpur, Malaysia
-     Brendan Gan 26' Mohamadou Sumareh 57';
-     Chanathip Songkrasin 7'
-  Lebanon - South Korea  0-0   @ Beirut, Lebanon
-  Turkmenistan - North Korea  3-1   @ Ashgabat, Turkmenistan
-     Mihail Titow 23' Arslanmyrat Amanow 73' Wahyt Orazsähedow 88';
-     Han Kwang-song 90'
-[Tue Nov 19]
-  Maldives - Guam  3-1   @ Malé, Maldives
-     Ali Samooh 23' Travis Nicklaw 38' (o.g.) Ali Ashfaq 90';
-     John Matkin 49'
-  Syria - Philippines  1-0   @ Dubai, United Arab Emirates
-     Ward Al Salama 23'
-  Nepal - Kuwait  0-1   @ Thimphu, Bhutan
-     -; Bader Al-Mutawa 28'
-  Jordan - Taiwan  5-0   @ Amman, Jordan
-     Baha' Faisal 4' Ahmad Ersan 25' Salem Al-Ajalin 43' Hamza Al-Dardour 62' Baha' Faisal 75'
-  Iraq - Bahrain  0-0   @ Amman, Jordan
-  Hong Kong - Cambodia  2-0   @ Hong Kong, Hong Kong
-     James Ha 20' Roberto Orlando Affonso Júnior 83'
-  Uzbekistan - Palestine  2-0   @ Tashkent, Uzbekistan
-     Eldor Shomurodov 18' Eldor Shomurodov 58'
-  Yemen - Singapore  1-2   @ Muharraq, Bahrain
-     Nasser Al-Gahwashi 85';
-     Ikhsan Fandi 19' Hafiz Nor 52'
-  Afghanistan - Qatar  0-1   @ Dushanbe, Tajikistan
-     -; Akram Afif 76' (pen.)
-  Oman - India  1-0   @ Muscat, Oman
-     Muhsen Al-Ghassani 33'
-  Myanmar - Mongolia  1-0   @ Mandalay, Myanmar
-     Hlaing Bo Bo 17'
-  Kyrgyzstan - Tajikistan  1-1   @ Bishkek, Kyrgyzstan
-     Tamirlan Kozubaev 83';
-     Jahongir Ergashev 17'
-  Vietnam - Thailand  0-0   @ Hanoi, Vietnam
-  Malaysia - Indonesia  2-0   @ Kuala Lumpur, Malaysia
-     Safawi Rasid 30' Safawi Rasid 73'
-  Turkmenistan - Sri Lanka  2-0   @ Ashgabat, Turkmenistan
-     Abdy Bäşimow 44' Altymyrat Annadurdyýew 59'
-  Lebanon - North Korea  0-0   @ Beirut, Lebanon
+Thu Jun 6
+  Bhutan               v Guam                  1-0   @ Thimphu, Bhutan
+     (Tshering Dorji 35')
+  Cambodia             v Pakistan              2-0   @ Phnom Penh, Cambodia
+     (Sieng Chanthea 81' Kouch Sokumpheak 84')
+  Laos                 v Bangladesh            0-1   @ Vientiane, Laos
+     (Robiul Hasan 72')
+  Macau                v Sri Lanka             1-0   @ Zhuhai, Macau
+     (Filipe Duarte 52')
+  Mongolia             v Brunei                2-0   @ Ulaanbaatar, Mongolia
+     (Norjmoogiin Tsedenbal 9' Nyam-Osor Naranbold 69')
+Fri Jun 7
+  Malaysia             v Timor-Leste           7-1   @ Kuala Lumpur, Malaysia
+     (La'Vere Corbin-Ong 12' Shahrel Fikri 23' Norshahrul Idlan 43' Safawi Rasid 45' Safawi Rasid 59' Faiz Nasir 78' Akhyar Rashid 89';
+      João Pedro 52')
+Tue Jun 11
+  Bangladesh           v Laos                  0-0   @ Dhaka, Bangladesh
+  Brunei               v Mongolia              2-1   @ Bandar Seri Begawan, Brunei
+     (Razimie Ramlli 5' Razimie Ramlli 34';
+      Norjmoogiin Tsedenbal 47'(p))
+  Guam                 v Bhutan                5-0   @ Dededo, Guam
+     (Isiah Lagutang 23' Jason Cunliffe 27' Shane Malcolm 51' Jason Cunliffe 82' Jason Cunliffe 90')
+  Pakistan             v Cambodia              1-2   @ Doha, Qatar
+     (Hassan Bashir 17'(p);
+      Sath Rosib 64' Reung Bunheing 89')
+  Sri Lanka            v Macau                 3-0   @ Colombo, Sri Lanka
+  Malaysia             v Timor-Leste           5-1   @ Kuala Lumpur, Malaysia
+     (Shahrel Fikri 11' Shahrel Fikri 17' Mohamadou Sumareh 37' Akhyar Rashid 55' Shahrel Fikri 64';
+      Rufino Gama 72')
+Wed Sep 4
+  Burundi              v Tanzania              1-1   @ Bujumbura, Burundi
+     (Cédric Amissi 81';
+      Simon Msuva 85')
+  Djibouti             v Eswatini              2-1   @ Djibouti, Djibouti
+     (Mahdi Houssein Mahabeh 45'(p) Abdi Idleh Hamza 74';
+      Siboniso Mamba 56')
+  Eritrea              v Namibia               1-2   @ Asmara, Eritrea
+     (Ali Sulieman 65';
+      Peter Shalulile 50' Esey Tesfay 58'(og))
+  Ethiopia             v Lesotho               0-0   @ Bahir Dar, Ethiopia
+  Liberia              v Sierra Leone          3-1   @ Monrovia, Liberia
+     (Terrence Tisdell 18'(p) Mohammed Sangare 82'(p) Sam Johnson 88';
+      Kwame Quee 56')
+  Mauritius            v Mozambique            0-1   @ Belle Vue Maurel, Mauritius
+     (Telinho 10')
+  São Tomé and Príncipe v Guinea-Bissau         0-1   @ São Tomé, São Tomé and Príncipe
+     (Joseph Mendes 85'(p))
+  South Sudan          v Equatorial Guinea     1-1   @ Omdurman, Sudan
+     (Niko Kata 75'(og);
+      Luis Meseguer 34')
+Thu Sep 5
+  Guam                 v Maldives              0-1   @ Dededo, Guam
+     (Ibrahim Mahudhee 27')
+  Philippines          v Syria                 2-5   @ Bacolod, Philippines
+     (Javier Patiño 6' Mike Ott 83';
+      Omar Al Somah 14' Khaled Mobayed 30' Firas Al-Khatib 48'(p) Omar Al Somah 55' Mahmoud Al-Mawas 85')
+  Taiwan               v Jordan                1-2   @ Taipei, Taiwan
+     (Wen Chih-hao 81';
+      Baha' Faisal 19' Ahmed Samir 37')
+  Kuwait               v Nepal                 7-0   @ Kuwait City, Kuwait
+     (Yousef Nasser 6' Fahad Al Hajeri 13' Yousef Nasser 50' Abdullah Mawei 59' Bader Al-Mutawa 67' Redha Abujabarah 90' Hussain Al-Musawi 90')
+  Cambodia             v Hong Kong             1-1   @ Phnom Penh, Cambodia
+     (Keo Sokpheng 33';
+      Tan Chun Lok 16')
+  Bahrain              v Iraq                  1-1   @ Riffa, Bahrain
+     (Kamil Al Aswad 9';
+      Mohanad Ali 85')
+  Palestine            v Uzbekistan            2-0   @ Al-Ram, Palestine
+     (Oday Dabbagh 60' Islam Batran 85')
+  Singapore            v Yemen                 2-2   @ Kallang, Singapore
+     (Ikhsan Fandi 27' Faris Ramli 52';
+      Abdulwasea Al-Matari 34' Mohsen Qarawi 45')
+  India                v Oman                  1-2   @ Guwahati, India
+     (Sunil Chhetri 24';
+      Rabia Al-Alawi 82' Rabia Al-Alawi 90')
+  Qatar                v Afghanistan           6-0   @ Doha, Qatar
+     (Almoez Ali 4' Almoez Ali 10' Hassan Al-Haydos 13' Abdelkarim Hassan 34' Almoez Ali 51' Boualem Khoukhi 67')
+  Mongolia             v Myanmar               1-0   @ Ulaanbaatar, Mongolia
+     (Dölgöön Amaraa 17')
+  Tajikistan           v Kyrgyzstan            1-0   @ Dushanbe, Tajikistan
+     (Alisher Dzhalilov 41')
+  Thailand             v Vietnam               0-0   @ Pathum Thani, Thailand
+  Indonesia            v Malaysia              2-3   @ Jakarta, Indonesia
+     (Beto Gonçalves 11' Beto Gonçalves 38';
+      Mohamadou Sumareh 36' Syafiq Ahmad 65' Mohamadou Sumareh 90')
+  North Korea          v Lebanon               2-0   @ Pyongyang, North Korea
+     (Jong Il-gwan 7' Jong Il-gwan 56')
+  Sri Lanka            v Turkmenistan          0-2   @ Colombo, Sri Lanka
+     (Wahyt Orazsähedow 8' Arslanmyrat Amanow 53')
+  Chad                 v Sudan                 1-3   @ N'Djamena, Chad
+     (Ezechiel N'Douassel 85'(p);
+      Ramadan Agab 13' Ramadan Agab 67' Ramadan Agab 74')
+  Seychelles           v Rwanda                0-3   @ Victoria, Seychelles
+     (Muhadjiri Hakizimana 32' Yannick Mukunzi 36' Meddie Kagere 80')
+  Somalia              v Zimbabwe              1-0   @ Djibouti, Djibouti
+     (Anwar Shakunda 86')
+Fri Sep 6
+  Comoros              v Togo                  1-1   @ Moroni, Comoros
+     (Ibroihim Djoudja 49';
+      Kodjo Fo-Doh Laba 34')
+  Gambia               v Angola                0-1   @ Bakau, Gambia
+     (Wilson Gaspar 31')
+Sat Sep 7
+  Botswana             v Malawi                0-0   @ Francistown, Botswana
+Sun Sep 8
+  Equatorial Guinea    v South Sudan           1-0   @ Malabo, Equatorial Guinea
+     (Emilio Nsue 72')
+  Lesotho              v Ethiopia              1-1   @ Maseru, Lesotho
+     (Tsepo Seturumane 56';
+      Nkau Lerotholi 50'(og))
+  Sierra Leone         v Liberia               1-0   @ Freetown, Sierra Leone
+     (Kei Kamara 55')
+  Tanzania             v Burundi               1-1   @ Dar es Salaam, Tanzania   [Tanzania wins on penalties]
+     (Mbwana Samatta 29';
+      Fiston Abdul Razak 45')
+Tue Sep 10
+  Guam                 v Philippines           1-4   @ Dededo, Guam
+     (Marcus Lopez 67'(p);
+      Ángel Guirado 7' Patrick Reichelt 12' Stephan Schröck 71' John-Patrick Strauß 81')
+  Maldives             v China PR              0-5   @ Malé, Maldives
+     (Wu Xi 34' Wu Lei 45' Yang Xu 64'(p) Elkeson 83'(p) Elkeson 90')
+  Kuwait               v Australia             0-3   @ Kuwait City, Kuwait
+     (Mathew Leckie 7' Mathew Leckie 30' Aaron Mooy 38')
+  Taiwan               v Nepal                 0-2   @ Taipei, Taiwan
+     (Anjan Bista 4' Anjan Bista 62')
+  Cambodia             v Bahrain               0-1   @ Phnom Penh, Cambodia
+     (Kamil Al Aswad 78')
+  Hong Kong            v Iran                  0-2   @ Hong Kong, Hong Kong
+     (Sardar Azmoun 23' Karim Ansarifard 54')
+  Yemen                v Saudi Arabia          2-2   @ Riffa, Bahrain
+     (Mohsen Qarawi 8' Omar Al-Dahi 37';
+      Hattan Bahebri 23' Salem Al-Dawsari 48')
+  Singapore            v Palestine             2-1   @ Singapore, Singapore
+     (Shakir Hamzah 3' Safuwan Baharudin 38';
+      Yaser Hamed 13')
+  Afghanistan          v Bangladesh            1-0   @ Dushanbe, Tajikistan
+     (Farshad Noor 27')
+  Qatar                v India                 0-0   @ Doha, Qatar
+  Mongolia             v Tajikistan            0-1   @ Ulaanbaatar, Mongolia
+     (Davron Ergashev 81')
+  Myanmar              v Japan                 0-2   @ Yangon, Myanmar
+     (Shoya Nakajima 16' Takumi Minamino 26')
+  Indonesia            v Thailand              0-3   @ Jakarta, Indonesia
+     (Supachok Sarachat 55' Theerathon Bunmathan 65'(p) Supachok Sarachat 71')
+  Malaysia             v United Arab Emirates  1-2   @ Kuala Lumpur, Malaysia
+     (Syafiq Ahmad 1';
+      Ali Mabkhout 43' Ali Mabkhout 75')
+  Turkmenistan         v South Korea           0-2   @ Ashgabat, Turkmenistan
+     (Na Sang-ho 13' Jung Woo-young 82')
+  Sri Lanka            v North Korea           0-1   @ Colombo, Sri Lanka
+     (Jang Kuk-chol 67')
+  Angola               v Gambia                2-1   @ Luanda, Angola
+     (Geraldo 41' Fábio Abreu 68';
+      Assan Ceesay 65')
+  Guinea-Bissau        v São Tomé and Príncipe  2-1   @ Bissau, Guinea-Bissau
+     (Joseph Mendes 66' Joseph Mendes 77';
+      Iniesta 12')
+  Malawi               v Botswana              1-0   @ Blantyre, Malawi
+     (Gerald Phiri Jr. 81'(p))
+  Mozambique           v Mauritius             2-0   @ Maputo, Mozambique
+     (Clésio 6' Geny Catamo 77'(p))
+  Namibia              v Eritrea               2-0   @ Windhoek, Namibia
+     (Absalom Iimbondi 25' Peter Shalulile 90')
+  Rwanda               v Seychelles            7-0   @ Kigali, Rwanda
+     (Djihad Bizimana 16' Meddie Kagere 27' Jacques Tuyisenge 29' Jacques Tuyisenge 34' Meddie Kagere 51' Yannick Mukunzi 57' Muhadjiri Hakizimana 79')
+  Sudan                v Chad                  0-0   @ Omdurman, Sudan
+  Eswatini             v Djibouti              0-0   @ Manzini, Eswatini
+  Togo                 v Comoros               2-0   @ Lomé, Togo
+     (Kassim M'Dahoma 10'(og) Gilles Sunu 71')
+  Zimbabwe             v Somalia               3-1   @ Harare, Zimbabwe
+     (Marshall Munetsi 77' Admiral Muskwe 86' Khama Billiat 90';
+      Omar Mohamed 85')
+Thu Oct 10
+  Syria                v Maldives              2-1   @ Dubai, United Arab Emirates
+     (Omar Al Somah 26' Omar Al Somah 60';
+      Ali Ashfaq 70')
+  China PR             v Guam                  7-0   @ Guangzhou, China PR
+     (Yang Xu 6' Wu Lei 17' Yang Xu 19' Yang Xu 24' Yang Xu 31' Wu Xi 45' Elkeson 75')
+  Jordan               v Kuwait                0-0   @ Amman, Jordan
+  Australia            v Nepal                 5-0   @ Canberra, Australia
+     (Jamie Maclaren 6' Jamie Maclaren 19' Harry Souttar 23' Harry Souttar 59' Jamie Maclaren 90')
+  Iran                 v Cambodia              14-0   @ Tehran, Iran
+     (Ahmad Nourollahi 5' Sardar Azmoun 11' Hossein Kanaanizadegan 18' Soeuy Visal 22'(og) Sardar Azmoun 35' Karim Ansarifard 40' Sardar Azmoun 44' Karim Ansarifard 48' Mehdi Taremi 54' Karim Ansarifard 60' Mohammad Mohebi 65' Mohammad Mohebi 67' Mehrdad Mohammadi 85' Karim Ansarifard 88')
+  Iraq                 v Hong Kong             2-0   @ Basra, Iraq
+     (Mohanad Ali 37' Ali Adnan Kadhim 79'(p))
+  Uzbekistan           v Yemen                 5-0   @ Tashkent, Uzbekistan
+     (Sanjar Kodirkulov 3' Eldor Shomurodov 33' Jamshid Iskanderov 53' Islom Tukhtakhujaev 72' Igor Sergeev 90')
+  Saudi Arabia         v Singapore             3-0   @ Buraidah, Saudi Arabia
+     (Abdulfattah Asiri 28' Abdullah Al-Hamdan 61' Abdulfattah Asiri 67')
+  Bangladesh           v Qatar                 0-2   @ Dhaka, Bangladesh
+     (Yusuf Abdurisag 28' Karim Boudiaf 90')
+  Oman                 v Afghanistan           3-0   @ Seeb, Oman
+     (Abdul Aziz Al-Muqbali 27' Abdul Aziz Al-Muqbali 38' Muhsen Al-Ghassani 61'(p))
+  Japan                v Mongolia              6-0   @ Saitama, Japan
+     (Takumi Minamino 22' Maya Yoshida 29' Yuto Nagatomo 33' Kensuke Nagai 40' Wataru Endō 57' Daichi Kamada 82')
+  Kyrgyzstan           v Myanmar               7-0   @ Bishkek, Kyrgyzstan
+     (Edgar Bernhardt 5' Edgar Bernhardt 10' Alimardon Shukurov 20' Gulzhigit Alykulov 26' Valery Kichin 45' Alimardon Shukurov 71' Edgar Bernhardt 87'(p))
+  United Arab Emirates v Indonesia             5-0   @ Dubai, United Arab Emirates
+     (Khalil Ibrahim 40' Ali Mabkhout 51' Ali Mabkhout 63'(p) Ali Mabkhout 72' Tareq Ahmed 90')
+  Vietnam              v Malaysia              1-0   @ Hanoi, Vietnam
+     (Nguyễn Quang Hải 40')
+  Lebanon              v Turkmenistan          2-1   @ Beirut, Lebanon
+     (Hilal El-Helwe 5' Nader Matar 64';
+      Altymyrat Annadurdyýew 62')
+  South Korea          v Sri Lanka             8-0   @ Hwaseong, South Korea
+     (Son Heung-min 10' Kim Shin-wook 17' Hwang Hee-chan 20' Kim Shin-wook 30' Son Heung-min 45'(p) Kim Shin-wook 54' Kim Shin-wook 64' Kwon Chang-hoon 76')
+Tue Oct 15
+  Syria                v Guam                  4-0   @ Dubai, United Arab Emirates
+     (Omar Al Somah 3' Omar Al Somah 44' Omar Al Somah 83' Mahmoud Al-Mawas 90')
+  Philippines          v China PR              0-0   @ Bacolod, Philippines
+  Jordan               v Nepal                 3-0   @ Amman, Jordan
+     (Feras Shelbaieh 56'(p) Ahmad Ersan 78' Baha' Faisal 88')
+  Taiwan               v Australia             1-7   @ Kaohsiung, Taiwan
+     (Chen Yi-wei 21';
+      Adam Taggart 12' Adam Taggart 19' Jackson Irvine 34' Jackson Irvine 37' Harry Souttar 73' Jamie Maclaren 84' Harry Souttar 89')
+  Cambodia             v Iraq                  0-4   @ Phnom Penh, Cambodia
+     (Ibrahim Bayesh 22' Mohanad Ali 41' Amjad Attwan 57' Ahmad Ibrahim Khalaf 62')
+  Bahrain              v Iran                  1-0   @ Riffa, Bahrain
+     (Mohammed Al-Hardan 65'(p))
+  Palestine            v Saudi Arabia          0-0   @ Al-Ram, Palestine
+  Singapore            v Uzbekistan            1-3   @ Kallang, Singapore
+     (Ikhsan Fandi 45';
+      Odil Ahmedov 15' Eldor Shomurodov 51' Eldor Shomurodov 90')
+  India                v Bangladesh            1-1   @ Kolkota, India
+     (Adil Khan 88';
+      Saad Uddin 42')
+  Qatar                v Oman                  2-1   @ Al Wakrah, Qatar
+     (Akram Afif 2' Almoez Ali 71';
+      Rabia Al-Alawi 63')
+  Mongolia             v Kyrgyzstan            1-2   @ Ulaanbaatar, Mongolia
+     (Norjmoogiin Tsedenbal 57'(p);
+      Gulzhigit Alykulov 13' Mirlan Murzaev 42')
+  Tajikistan           v Japan                 0-3   @ Dushanbe, Tajikistan
+     (Takumi Minamino 53' Takumi Minamino 55' Takuma Asano 82')
+  Thailand             v United Arab Emirates  2-1   @ Pathum Thani, Thailand
+     (Teerasil Dangda 26' Ekanit Panya 51';
+      Ali Mabkhout 45')
+  Indonesia            v Vietnam               1-3   @ Gianyar, Indonesia
+     (Irfan Bachdim 84';
+      Đỗ Duy Mạnh 26' Quế Ngọc Hải 55'(p) Nguyễn Tiến Linh 61')
+  North Korea          v South Korea           0-0   @ Pyongyang, North Korea
+  Sri Lanka            v Lebanon               0-3   @ Colombo, Sri Lanka
+     (Hassan Maatouk 15'(p) Hilal El-Helwe 38'(p) Hilal El-Helwe 81')
+Thu Nov 14
+  Maldives             v Philippines           1-2   @ Malé, Maldives
+     (Naiz Hassan 90';
+      Iain Ramsay 52' John-Patrick Strauß 68')
+  Syria                v China PR              2-1   @ Dubai, United Arab Emirates
+     (Osama Omari 19' Zhang Linpeng 76'(og);
+      Wu Lei 30')
+  Jordan               v Australia             0-1   @ Amman, Jordan
+     (Adam Taggart 13')
+  Kuwait               v Taiwan                9-0   @ Kuwait City, Kuwait
+     (Yousef Nasser 22' Fahad Al Ansari 42' Mobarak Al-Faneeni 49' Bader Al-Mutawa 55' Yousef Nasser 59' Faisal Zayid 62' Shabib Al-Khaldi 73' Chen Wei-chuan 77'(og) Faisal Ajab Al-Azemi 81')
+  Iraq                 v Iran                  2-1   @ Amman, Jordan
+     (Mohanad Ali 11' Alaa Abbas 90';
+      Ahmad Nourollahi 25')
+  Hong Kong            v Bahrain               0-0   @ Hong Kong, Hong Kong
+  Uzbekistan           v Saudi Arabia          2-3   @ Tashkent, Uzbekistan
+     (Eldor Shomurodov 16' Otabek Shukurov 56'(p);
+      Salman Al-Faraj 23'(p) Salman Al-Faraj 85' Salem Al-Dawsari 89')
+  Yemen                v Palestine             1-0   @ Muharraq, Bahrain
+     (Omar Al-Dahi 54')
+  Afghanistan          v India                 1-1   @ Dushanbe, Tajikistan
+     (Zelfy Nazary 45';
+      Seiminlen Doungel 90')
+  Oman                 v Bangladesh            4-1   @ Muscat, Oman
+     (Mohsin Al-Khaldi 48' Rabia Al-Alawi 68' Arshad Al-Alawi 78' Amran Al-Hidi 90';
+      Biplu Ahmed 81')
+  Myanmar              v Tajikistan            4-3   @ Mandalay, Myanmar
+     (Suan Lam Mang 10' Suan Lam Mang 41' Aung Thu 48' Maung Maung Lwin 63';
+      Manuchekhr Dzhalilov 36'(p) Farkhod Vosiyev 57' Manuchekhr Dzhalilov 76')
+  Kyrgyzstan           v Japan                 0-2   @ Bishkek, Kyrgyzstan
+     (Takumi Minamino 41'(p) Genki Haraguchi 54')
+  Vietnam              v United Arab Emirates  1-0   @ Hanoi, Vietnam
+     (Nguyễn Tiến Linh 44')
+  Malaysia             v Thailand              2-1   @ Kuala Lumpur, Malaysia
+     (Brendan Gan 26' Mohamadou Sumareh 57';
+      Chanathip Songkrasin 7')
+  Lebanon              v South Korea           0-0   @ Beirut, Lebanon
+  Turkmenistan         v North Korea           3-1   @ Ashgabat, Turkmenistan
+     (Mihail Titow 23' Arslanmyrat Amanow 73' Wahyt Orazsähedow 88';
+      Han Kwang-song 90')
+Tue Nov 19
+  Maldives             v Guam                  3-1   @ Malé, Maldives
+     (Ali Samooh 23' Travis Nicklaw 38'(og) Ali Ashfaq 90';
+      John Matkin 49')
+  Syria                v Philippines           1-0   @ Dubai, United Arab Emirates
+     (Ward Al Salama 23')
+  Nepal                v Kuwait                0-1   @ Thimphu, Bhutan
+     (Bader Al-Mutawa 28')
+  Jordan               v Taiwan                5-0   @ Amman, Jordan
+     (Baha' Faisal 4' Ahmad Ersan 25' Salem Al-Ajalin 43' Hamza Al-Dardour 62' Baha' Faisal 75')
+  Iraq                 v Bahrain               0-0   @ Amman, Jordan
+  Hong Kong            v Cambodia              2-0   @ Hong Kong, Hong Kong
+     (James Ha 20' Roberto Orlando Affonso Júnior 83')
+  Uzbekistan           v Palestine             2-0   @ Tashkent, Uzbekistan
+     (Eldor Shomurodov 18' Eldor Shomurodov 58')
+  Yemen                v Singapore             1-2   @ Muharraq, Bahrain
+     (Nasser Al-Gahwashi 85';
+      Ikhsan Fandi 19' Hafiz Nor 52')
+  Afghanistan          v Qatar                 0-1   @ Dushanbe, Tajikistan
+     (Akram Afif 76'(p))
+  Oman                 v India                 1-0   @ Muscat, Oman
+     (Muhsen Al-Ghassani 33')
+  Myanmar              v Mongolia              1-0   @ Mandalay, Myanmar
+     (Hlaing Bo Bo 17')
+  Kyrgyzstan           v Tajikistan            1-1   @ Bishkek, Kyrgyzstan
+     (Tamirlan Kozubaev 83';
+      Jahongir Ergashev 17')
+  Vietnam              v Thailand              0-0   @ Hanoi, Vietnam
+  Malaysia             v Indonesia             2-0   @ Kuala Lumpur, Malaysia
+     (Safawi Rasid 30' Safawi Rasid 73')
+  Turkmenistan         v Sri Lanka             2-0   @ Ashgabat, Turkmenistan
+     (Abdy Bäşimow 44' Altymyrat Annadurdyýew 59')
+  Lebanon              v North Korea           0-0   @ Beirut, Lebanon
 

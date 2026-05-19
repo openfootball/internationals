@@ -1,23 +1,23 @@
 = Arab Cup 1998
 
-# Date       Tue Sep/22 - Thu Oct/1 1998 (9d)
+# Date       Tue Sep 22 - Thu Oct 1 1998 (9d)
 # Teams      9
 # Matches    10
 
-[Tue Sep 22]
-  Qatar - Libya  2-1   @ Doha, Qatar
-[Thu Sep 24]
-  Libya - Jordan  1-2   @ Doha, Qatar
-[Sat Sep 26]
-  Kuwait - Syria  4-0   @ Doha, Qatar
-  Qatar - Jordan  2-0   @ Doha, Qatar
-[Sun Sep 27]
-  Saudi Arabia - Lebanon  4-1   @ Doha, Qatar
-  United Arab Emirates - Sudan  4-1   @ Doha, Qatar
-[Tue Sep 29]
-  Qatar - United Arab Emirates  2-1   @ Doha, Qatar
-  Saudi Arabia - Kuwait  2-1   @ Doha, Qatar
-[Thu Oct 1]
-  Kuwait - United Arab Emirates  4-1   @ Doha, Qatar
-  Qatar - Saudi Arabia  1-3   @ Doha, Qatar
+Tue Sep 22
+  Qatar                v Libya                 2-1   @ Doha, Qatar
+Thu Sep 24
+  Libya                v Jordan                1-2   @ Doha, Qatar
+Sat Sep 26
+  Kuwait               v Syria                 4-0   @ Doha, Qatar
+  Qatar                v Jordan                2-0   @ Doha, Qatar
+Sun Sep 27
+  Saudi Arabia         v Lebanon               4-1   @ Doha, Qatar
+  United Arab Emirates v Sudan                 4-1   @ Doha, Qatar
+Tue Sep 29
+  Qatar                v United Arab Emirates  2-1   @ Doha, Qatar
+  Saudi Arabia         v Kuwait                2-1   @ Doha, Qatar
+Thu Oct 1
+  Kuwait               v United Arab Emirates  4-1   @ Doha, Qatar
+  Qatar                v Saudi Arabia          1-3   @ Doha, Qatar
 

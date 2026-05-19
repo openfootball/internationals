@@ -1,63 +1,63 @@
 = CFU Caribbean Cup qualification 1999
 
-# Date       Wed Feb/3 - Sun May/9 1999 (95d)
+# Date       Wed Feb 3 - Sun May 9 1999 (95d)
 # Teams      24
 # Matches    34
 
-[Wed Feb 3]
-  Martinique - French Guiana  3-1   @ Fort-de-France, Martinique
-[Fri Feb 5]
-  British Virgin Islands - Montserrat  3-1   @ Road Town, British Virgin Islands
-[Sun Feb 7]
-  British Virgin Islands - Montserrat  3-0   @ Road Town, British Virgin Islands
-[Wed Feb 24]
-  Bahamas - Turks and Caicos Islands  3-0   @ Nassau, Bahamas
-[Fri Feb 26]
-  United States Virgin Islands - Turks and Caicos Islands  2-2   @ Nassau, Bahamas
-[Sun Feb 28]
-  Bahamas - United States Virgin Islands  0-0   @ Nassau, Bahamas
-  Guyana - Barbados  2-2   @ Georgetown, Guyana
-[Sat Mar 6]
-  Barbados - Guyana  2-0   @ Bridgetown, Barbados
-[Wed Mar 10]
-  Barbados - Antigua and Barbuda  2-0   @ Pointe-à-Pitre, Guadeloupe
-  Guadeloupe - Dominica  1-0   @ Pointe-à-Pitre, Guadeloupe
-[Fri Mar 12]
-  Barbados - Dominica  3-1   @ Pointe-à-Pitre, Guadeloupe
-  Guadeloupe - Antigua and Barbuda  2-1   @ Pointe-à-Pitre, Guadeloupe
-[Sun Mar 14]
-  Antigua and Barbuda - Dominica  1-1   @ Pointe-à-Pitre, Guadeloupe
-  Guadeloupe - Barbados  1-0   @ Pointe-à-Pitre, Guadeloupe
-[Wed Mar 17]
-  British Virgin Islands - Dominican Republic  0-0   @ Port-au-Prince, Haiti
-  Haiti - Puerto Rico  2-0   @ Port-au-Prince, Haiti
-[Fri Mar 19]
-  British Virgin Islands - Puerto Rico  5-0   @ Port-au-Prince, Haiti
-  Haiti - Dominican Republic  4-0   @ Port-au-Prince, Haiti
-[Sun Mar 21]
-  Dominican Republic - Puerto Rico  2-0   @ Port-au-Prince, Haiti
-  Haiti - British Virgin Islands  6-0   @ Port-au-Prince, Haiti
-[Sat Apr 17]
-  Saint Lucia - Martinique  3-1   @ Kingstown, Saint Vincent and the Grenadines
-  Saint Vincent and the Grenadines - Saint Kitts and Nevis  3-4   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Apr 18]
-  Martinique - Saint Kitts and Nevis  2-1   @ Kingstown, Saint Vincent and the Grenadines
-  Saint Vincent and the Grenadines - Saint Lucia  2-2   @ Kingstown, Saint Vincent and the Grenadines
-[Tue Apr 20]
-  Saint Kitts and Nevis - Saint Lucia  4-3   @ Kingstown, Saint Vincent and the Grenadines
-[Tue May 4]
-  Curaçao - Grenada  1-3   @ Willemstad, Curaçao
-[Wed May 5]
-  Bermuda - Bahamas  6-0   @ Hamilton, Bermuda
-  Cuba - Cayman Islands  4-1   @ Hamilton, Bermuda
-[Thu May 6]
-  Grenada - Suriname  0-0   @ Willemstad, Curaçao
-[Fri May 7]
-  Bermuda - Cayman Islands  4-1   @ Hamilton, Bermuda
-  Cuba - Bahamas  7-0   @ Hamilton, Bermuda
-[Sat May 8]
-  Curaçao - Suriname  1-1   @ Willemstad, Curaçao
-[Sun May 9]
-  Bermuda - Cuba  1-2   @ Hamilton, Bermuda
-  Cayman Islands - Bahamas  4-1   @ Hamilton, Bermuda
+Wed Feb 3
+  Martinique           v French Guiana         3-1   @ Fort-de-France, Martinique
+Fri Feb 5
+  British Virgin Islands v Montserrat            3-1   @ Road Town, British Virgin Islands
+Sun Feb 7
+  British Virgin Islands v Montserrat            3-0   @ Road Town, British Virgin Islands
+Wed Feb 24
+  Bahamas              v Turks and Caicos Islands  3-0   @ Nassau, Bahamas
+Fri Feb 26
+  United States Virgin Islands v Turks and Caicos Islands  2-2   @ Nassau, Bahamas
+Sun Feb 28
+  Bahamas              v United States Virgin Islands  0-0   @ Nassau, Bahamas
+  Guyana               v Barbados              2-2   @ Georgetown, Guyana
+Sat Mar 6
+  Barbados             v Guyana                2-0   @ Bridgetown, Barbados
+Wed Mar 10
+  Barbados             v Antigua and Barbuda   2-0   @ Pointe-à-Pitre, Guadeloupe
+  Guadeloupe           v Dominica              1-0   @ Pointe-à-Pitre, Guadeloupe
+Fri Mar 12
+  Barbados             v Dominica              3-1   @ Pointe-à-Pitre, Guadeloupe
+  Guadeloupe           v Antigua and Barbuda   2-1   @ Pointe-à-Pitre, Guadeloupe
+Sun Mar 14
+  Antigua and Barbuda  v Dominica              1-1   @ Pointe-à-Pitre, Guadeloupe
+  Guadeloupe           v Barbados              1-0   @ Pointe-à-Pitre, Guadeloupe
+Wed Mar 17
+  British Virgin Islands v Dominican Republic    0-0   @ Port-au-Prince, Haiti
+  Haiti                v Puerto Rico           2-0   @ Port-au-Prince, Haiti
+Fri Mar 19
+  British Virgin Islands v Puerto Rico           5-0   @ Port-au-Prince, Haiti
+  Haiti                v Dominican Republic    4-0   @ Port-au-Prince, Haiti
+Sun Mar 21
+  Dominican Republic   v Puerto Rico           2-0   @ Port-au-Prince, Haiti
+  Haiti                v British Virgin Islands  6-0   @ Port-au-Prince, Haiti
+Sat Apr 17
+  Saint Lucia          v Martinique            3-1   @ Kingstown, Saint Vincent and the Grenadines
+  Saint Vincent and the Grenadines v Saint Kitts and Nevis  3-4   @ Kingstown, Saint Vincent and the Grenadines
+Sun Apr 18
+  Martinique           v Saint Kitts and Nevis  2-1   @ Kingstown, Saint Vincent and the Grenadines
+  Saint Vincent and the Grenadines v Saint Lucia           2-2   @ Kingstown, Saint Vincent and the Grenadines
+Tue Apr 20
+  Saint Kitts and Nevis v Saint Lucia           4-3   @ Kingstown, Saint Vincent and the Grenadines
+Tue May 4
+  Curaçao              v Grenada               1-3   @ Willemstad, Curaçao
+Wed May 5
+  Bermuda              v Bahamas               6-0   @ Hamilton, Bermuda
+  Cuba                 v Cayman Islands        4-1   @ Hamilton, Bermuda
+Thu May 6
+  Grenada              v Suriname              0-0   @ Willemstad, Curaçao
+Fri May 7
+  Bermuda              v Cayman Islands        4-1   @ Hamilton, Bermuda
+  Cuba                 v Bahamas               7-0   @ Hamilton, Bermuda
+Sat May 8
+  Curaçao              v Suriname              1-1   @ Willemstad, Curaçao
+Sun May 9
+  Bermuda              v Cuba                  1-2   @ Hamilton, Bermuda
+  Cayman Islands       v Bahamas               4-1   @ Hamilton, Bermuda
 

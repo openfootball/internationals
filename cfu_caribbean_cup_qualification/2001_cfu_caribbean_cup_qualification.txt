@@ -1,50 +1,50 @@
 = CFU Caribbean Cup qualification 2001
 
-# Date       Sat Feb/3 - Sat Apr/14 2001 (70d)
+# Date       Sat Feb 3 - Sat Apr 14 2001 (70d)
 # Teams      21
 # Matches    29
 
-[Sat Feb 3]
-  Puerto Rico - British Virgin Islands  1-2   @ San Juan, Puerto Rico
-[Tue Feb 6]
-  Saint Martin - Montserrat  3-1   @ Philipsburg, Sint Maarten
-[Thu Feb 8]
-  Anguilla - Montserrat  4-1   @ Marigot, Saint Martin
-[Sat Feb 10]
-  Saint Martin - Anguilla  3-1   @ Marigot, Saint Martin
-[Sun Feb 11]
-  British Virgin Islands - Puerto Rico  0-0   @ Road Town, British Virgin Islands
-[Thu Mar 1]
-  Saint Kitts and Nevis - Dominican Republic  2-1   @ St. John's, Antigua and Barbuda
-[Sat Mar 3]
-  Antigua and Barbuda - Dominican Republic  2-3   @ St. John's, Antigua and Barbuda
-[Sun Mar 4]
-  Antigua and Barbuda - Saint Kitts and Nevis  2-2   @ St. John's, Antigua and Barbuda
-[Wed Apr 4]
-  Barbados - Grenada  2-1   @ Paramaribo, Suriname
-  Cayman Islands - British Virgin Islands  2-2   @ Fort-de-France, Martinique
-  Cuba - Dominica  3-1   @ Uitvlugt, Guyana
-  Guyana - Saint Martin  2-0   @ Georgetown, Guyana
-  Suriname - Aruba  5-0   @ Paramaribo, Suriname
-[Fri Apr 6]
-  Cuba - Saint Martin  1-0   @ Uitvlugt, Guyana
-  Grenada - Aruba  4-2   @ Paramaribo, Suriname
-  Guyana - Dominica  2-0   @ Georgetown, Guyana
-  Martinique - British Virgin Islands  6-0   @ Fort-de-France, Martinique
-  Suriname - Barbados  2-2   @ Paramaribo, Suriname
-[Sun Apr 8]
-  Barbados - Aruba  5-2   @ Paramaribo, Suriname
-  Dominica - Saint Martin  2-3   @ Georgetown, Guyana
-  Guyana - Cuba  0-3   @ Georgetown, Guyana
-  Martinique - Cayman Islands  1-1   @ Fort-de-France, Martinique
-  Suriname - Grenada  3-1   @ Paramaribo, Suriname
-[Tue Apr 10]
-  Guadeloupe - Saint Lucia  2-3   @ Port-au-Prince, Haiti
-  Haiti - United States Virgin Islands  12-1   @ Port-au-Prince, Haiti
-[Thu Apr 12]
-  Guadeloupe - United States Virgin Islands  11-0   @ Port-au-Prince, Haiti
-  Haiti - Saint Lucia  3-2   @ Port-au-Prince, Haiti
-[Sat Apr 14]
-  Haiti - Guadeloupe  2-0   @ Port-au-Prince, Haiti
-  Saint Lucia - United States Virgin Islands  14-1   @ Port-au-Prince, Haiti
+Sat Feb 3
+  Puerto Rico          v British Virgin Islands  1-2   @ San Juan, Puerto Rico
+Tue Feb 6
+  Saint Martin         v Montserrat            3-1   @ Philipsburg, Sint Maarten
+Thu Feb 8
+  Anguilla             v Montserrat            4-1   @ Marigot, Saint Martin
+Sat Feb 10
+  Saint Martin         v Anguilla              3-1   @ Marigot, Saint Martin
+Sun Feb 11
+  British Virgin Islands v Puerto Rico           0-0   @ Road Town, British Virgin Islands
+Thu Mar 1
+  Saint Kitts and Nevis v Dominican Republic    2-1   @ St. John's, Antigua and Barbuda
+Sat Mar 3
+  Antigua and Barbuda  v Dominican Republic    2-3   @ St. John's, Antigua and Barbuda
+Sun Mar 4
+  Antigua and Barbuda  v Saint Kitts and Nevis  2-2   @ St. John's, Antigua and Barbuda
+Wed Apr 4
+  Barbados             v Grenada               2-1   @ Paramaribo, Suriname
+  Cayman Islands       v British Virgin Islands  2-2   @ Fort-de-France, Martinique
+  Cuba                 v Dominica              3-1   @ Uitvlugt, Guyana
+  Guyana               v Saint Martin          2-0   @ Georgetown, Guyana
+  Suriname             v Aruba                 5-0   @ Paramaribo, Suriname
+Fri Apr 6
+  Cuba                 v Saint Martin          1-0   @ Uitvlugt, Guyana
+  Grenada              v Aruba                 4-2   @ Paramaribo, Suriname
+  Guyana               v Dominica              2-0   @ Georgetown, Guyana
+  Martinique           v British Virgin Islands  6-0   @ Fort-de-France, Martinique
+  Suriname             v Barbados              2-2   @ Paramaribo, Suriname
+Sun Apr 8
+  Barbados             v Aruba                 5-2   @ Paramaribo, Suriname
+  Dominica             v Saint Martin          2-3   @ Georgetown, Guyana
+  Guyana               v Cuba                  0-3   @ Georgetown, Guyana
+  Martinique           v Cayman Islands        1-1   @ Fort-de-France, Martinique
+  Suriname             v Grenada               3-1   @ Paramaribo, Suriname
+Tue Apr 10
+  Guadeloupe           v Saint Lucia           2-3   @ Port-au-Prince, Haiti
+  Haiti                v United States Virgin Islands  12-1   @ Port-au-Prince, Haiti
+Thu Apr 12
+  Guadeloupe           v United States Virgin Islands  11-0   @ Port-au-Prince, Haiti
+  Haiti                v Saint Lucia           3-2   @ Port-au-Prince, Haiti
+Sat Apr 14
+  Haiti                v Guadeloupe            2-0   @ Port-au-Prince, Haiti
+  Saint Lucia          v United States Virgin Islands  14-1   @ Port-au-Prince, Haiti
 

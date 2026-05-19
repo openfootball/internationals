@@ -1,83 +1,83 @@
 = Gold Cup 2015
 
-# Date       Tue Jul/7 - Sun Jul/26 2015 (19d)
+# Date       Tue Jul 7 - Sun Jul 26 2015 (19d)
 # Teams      12
 # Matches    26
 
-[Tue Jul 7]
-  Panama - Haiti  1-1   @ Frisco, United States
-     Alberto Quintero 56';
-     Duckens Nazon 86'
-  United States - Honduras  2-1   @ Frisco, United States
-     Clint Dempsey 25' Clint Dempsey 64';
-     Carlos Discua 69'
-[Wed Jul 8]
-  Costa Rica - Jamaica  2-2   @ Carson, United States
-     Roy Miller 33' David Ramírez 37';
-     Garath McCleary 13' Jobi McAnuff 48'
-  El Salvador - Canada  0-0   @ Carson, United States
-[Thu Jul 9]
-  Mexico - Cuba  6-0   @ Chicago, United States
-     Oribe Peralta 17' Carlos Vela 23' Oribe Peralta 37' Andrés Guardado 44' Oribe Peralta 62' Giovani dos Santos 75'
-  Trinidad and Tobago - Guatemala  3-1   @ Chicago, United States
-     Sheldon Bateau 11' Cordell Cato 14' Joevin Jones 25';
-     Carlos Ruiz 62'
-[Fri Jul 10]
-  Honduras - Panama  1-1   @ Foxborough, United States
-     Andy Najar 82';
-     Luis Tejada 21'
-  United States - Haiti  1-0   @ Foxborough, United States
-     Clint Dempsey 47'
-[Sat Jul 11]
-  Costa Rica - El Salvador  1-1   @ Houston, United States
-     Bryan Ruiz 61';
-     Dustin Corea 90'
-  Jamaica - Canada  1-0   @ Houston, United States
-     Rodolph Austin 90'
-[Sun Jul 12]
-  Guatemala - Mexico  0-0   @ Glendale, United States
-  Trinidad and Tobago - Cuba  2-0   @ Glendale, United States
-     Sheldon Bateau 17' Andre Boucaud 42'
-[Mon Jul 13]
-  Honduras - Haiti  0-1   @ Kansas City, United States
-     -; Duckens Nazon 14'
-  United States - Panama  1-1   @ Kansas City, United States
-     Michael Bradley 55';
-     Blas Pérez 34'
-[Tue Jul 14]
-  Canada - Costa Rica  0-0   @ Toronto, Canada
-  Jamaica - El Salvador  1-0   @ Toronto, Canada
-     Garath McCleary 72'
-[Wed Jul 15]
-  Guatemala - Cuba  0-1   @ Charlotte, United States
-     -; Maikel Reyes 73'
-  Trinidad and Tobago - Mexico  4-4   @ Charlotte, United States
-     Keron Cummings 55' Kenwyne Jones 58' Keron Cummings 67' Yohance Marshall 90';
-     Paul Aguilar 32' Carlos Vela 51' Andrés Guardado 88' Kenwyne Jones 90' (o.g.)
-[Sat Jul 18]
-  Haiti - Jamaica  0-1   @ Baltimore, United States
-     -; Giles Barnes 6'
-  United States - Cuba  6-0   @ Baltimore, United States
-     Clint Dempsey 4' Gyasi Zardes 15' Aron Jóhannsson 32' Omar Gonzalez 45' Clint Dempsey 64' (pen.) Clint Dempsey 78'
-[Sun Jul 19]
-  Mexico - Costa Rica  1-0   @ East Rutherford, United States
-     Andrés Guardado 120' (pen.)
-  Trinidad and Tobago - Panama  1-1   @ East Rutherford, United States   [Panama wins on penalties]
-     Kenwyne Jones 53';
-     Luis Tejada 36'
-[Wed Jul 22]
-  Panama - Mexico  1-2   @ Atlanta, United States
-     Román Torres 57';
-     Andrés Guardado 90' (pen.) Andrés Guardado 105' (pen.)
-  United States - Jamaica  1-2   @ Atlanta, United States
-     Michael Bradley 47';
-     Darren Mattocks 30' Giles Barnes 35'
-[Sat Jul 25]
-  United States - Panama  1-1   @ Chester, United States   [Panama wins on penalties]
-     Clint Dempsey 70';
-     Roberto Nurse 55'
-[Sun Jul 26]
-  Jamaica - Mexico  1-3   @ Philadelphia, United States
-     Darren Mattocks 78';
-     Andrés Guardado 31' Jesús Manuel Corona 46' Oribe Peralta 60'
+Tue Jul 7
+  Panama               v Haiti                 1-1   @ Frisco, United States
+     (Alberto Quintero 56';
+      Duckens Nazon 86')
+  United States        v Honduras              2-1   @ Frisco, United States
+     (Clint Dempsey 25' Clint Dempsey 64';
+      Carlos Discua 69')
+Wed Jul 8
+  Costa Rica           v Jamaica               2-2   @ Carson, United States
+     (Roy Miller 33' David Ramírez 37';
+      Garath McCleary 13' Jobi McAnuff 48')
+  El Salvador          v Canada                0-0   @ Carson, United States
+Thu Jul 9
+  Mexico               v Cuba                  6-0   @ Chicago, United States
+     (Oribe Peralta 17' Carlos Vela 23' Oribe Peralta 37' Andrés Guardado 44' Oribe Peralta 62' Giovani dos Santos 75')
+  Trinidad and Tobago  v Guatemala             3-1   @ Chicago, United States
+     (Sheldon Bateau 11' Cordell Cato 14' Joevin Jones 25';
+      Carlos Ruiz 62')
+Fri Jul 10
+  Honduras             v Panama                1-1   @ Foxborough, United States
+     (Andy Najar 82';
+      Luis Tejada 21')
+  United States        v Haiti                 1-0   @ Foxborough, United States
+     (Clint Dempsey 47')
+Sat Jul 11
+  Costa Rica           v El Salvador           1-1   @ Houston, United States
+     (Bryan Ruiz 61';
+      Dustin Corea 90')
+  Jamaica              v Canada                1-0   @ Houston, United States
+     (Rodolph Austin 90')
+Sun Jul 12
+  Guatemala            v Mexico                0-0   @ Glendale, United States
+  Trinidad and Tobago  v Cuba                  2-0   @ Glendale, United States
+     (Sheldon Bateau 17' Andre Boucaud 42')
+Mon Jul 13
+  Honduras             v Haiti                 0-1   @ Kansas City, United States
+     (Duckens Nazon 14')
+  United States        v Panama                1-1   @ Kansas City, United States
+     (Michael Bradley 55';
+      Blas Pérez 34')
+Tue Jul 14
+  Canada               v Costa Rica            0-0   @ Toronto, Canada
+  Jamaica              v El Salvador           1-0   @ Toronto, Canada
+     (Garath McCleary 72')
+Wed Jul 15
+  Guatemala            v Cuba                  0-1   @ Charlotte, United States
+     (Maikel Reyes 73')
+  Trinidad and Tobago  v Mexico                4-4   @ Charlotte, United States
+     (Keron Cummings 55' Kenwyne Jones 58' Keron Cummings 67' Yohance Marshall 90';
+      Paul Aguilar 32' Carlos Vela 51' Andrés Guardado 88' Kenwyne Jones 90'(og))
+Sat Jul 18
+  Haiti                v Jamaica               0-1   @ Baltimore, United States
+     (Giles Barnes 6')
+  United States        v Cuba                  6-0   @ Baltimore, United States
+     (Clint Dempsey 4' Gyasi Zardes 15' Aron Jóhannsson 32' Omar Gonzalez 45' Clint Dempsey 64'(p) Clint Dempsey 78')
+Sun Jul 19
+  Mexico               v Costa Rica            1-0   @ East Rutherford, United States
+     (Andrés Guardado 120'(p))
+  Trinidad and Tobago  v Panama                1-1   @ East Rutherford, United States   [Panama wins on penalties]
+     (Kenwyne Jones 53';
+      Luis Tejada 36')
+Wed Jul 22
+  Panama               v Mexico                1-2   @ Atlanta, United States
+     (Román Torres 57';
+      Andrés Guardado 90'(p) Andrés Guardado 105'(p))
+  United States        v Jamaica               1-2   @ Atlanta, United States
+     (Michael Bradley 47';
+      Darren Mattocks 30' Giles Barnes 35')
+Sat Jul 25
+  United States        v Panama                1-1   @ Chester, United States   [Panama wins on penalties]
+     (Clint Dempsey 70';
+      Roberto Nurse 55')
+Sun Jul 26
+  Jamaica              v Mexico                1-3   @ Philadelphia, United States
+     (Darren Mattocks 78';
+      Andrés Guardado 31' Jesús Manuel Corona 46' Oribe Peralta 60')
 

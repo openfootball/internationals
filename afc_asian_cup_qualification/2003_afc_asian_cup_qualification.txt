@@ -1,158 +1,158 @@
 = AFC Asian Cup qualification 2003
 
-# Date       Sun Mar/16 - Fri Nov/28 2003 (257d)
+# Date       Sun Mar 16 - Fri Nov 28 2003 (257d)
 # Teams      41
 # Matches    100
 
-[Sun Mar 16]
-  Kyrgyzstan - Afghanistan  1-2   @ Kathmandu, Nepal
-[Tue Mar 18]
-  Nepal - Afghanistan  4-0   @ Kathmandu, Nepal
-[Thu Mar 20]
-  Nepal - Kyrgyzstan  0-2   @ Kathmandu, Nepal
-[Fri Mar 21]
-  Macau - Pakistan  0-3   @ Singapore, Singapore
-  Maldives - Brunei  1-1   @ Malé, Maldives
-  Sri Lanka - Timor-Leste  3-2   @ Colombo, Sri Lanka
-[Sun Mar 23]
-  Myanmar - Brunei  5-0   @ Malé, Maldives
-  Singapore - Macau  2-0   @ Singapore, Singapore
-[Mon Mar 24]
-  North Korea - India  2-0   @ Pyongyang, North Korea
-[Tue Mar 25]
-  Hong Kong - Laos  5-1   @ Kowloon, Hong Kong
-  Maldives - Myanmar  0-2   @ Malé, Maldives
-  Singapore - Pakistan  3-0   @ Singapore, Singapore
-  Sri Lanka - Taiwan  2-1   @ Colombo, Sri Lanka
-[Thu Mar 27]
-  Laos - Bangladesh  2-1   @ Kowloon, Hong Kong
-[Sun Mar 30]
-  Hong Kong - Bangladesh  2-2   @ Kowloon, Hong Kong
-  India - North Korea  1-1   @ Margao, India
-[Wed Apr 23]
-  Bhutan - Guam  6-0   @ Thimphu, Bhutan
-[Fri Apr 25]
-  Guam - Mongolia  0-5   @ Thimphu, Bhutan
-[Sun Apr 27]
-  Bhutan - Mongolia  0-0   @ Thimphu, Bhutan
-[Thu Sep 4]
-  North Korea - Lebanon  0-1   @ Pyongyang, North Korea
-  Singapore - Kuwait  1-3   @ Singapore, Singapore
-[Fri Sep 5]
-  Iran - Jordan  4-1   @ Tehran, Iran
-[Sun Sep 14]
-  Kuwait - Qatar  2-1   @ Kuwait City, Kuwait
-[Sat Sep 20]
-  Qatar - Kuwait  2-2   @ Doha, Qatar
-[Wed Sep 24]
-  Qatar - Palestine  1-1   @ Doha, Qatar
-[Thu Sep 25]
-  South Korea - Vietnam  5-0   @ Incheon, South Korea
-  Nepal - Oman  0-7   @ Incheon, South Korea
-[Fri Sep 26]
-  Jordan - Iran  3-2   @ Amman, Jordan
-[Sat Sep 27]
-  South Korea - Oman  1-0   @ Incheon, South Korea
-  Kuwait - Singapore  4-0   @ Kuwait City, Kuwait
-  Qatar - Palestine  2-1   @ Doha, Qatar
-  Vietnam - Nepal  5-0   @ Incheon, South Korea
-[Mon Sep 29]
-  South Korea - Nepal  16-0   @ Incheon, South Korea
-  Vietnam - Oman  0-6   @ Incheon, South Korea
-[Sun Oct 5]
-  Kuwait - Palestine  2-1   @ Kuwait City, Kuwait
-[Mon Oct 6]
-  Indonesia - Bhutan  2-0   @ Jeddah, Saudi Arabia
-  Saudi Arabia - Yemen  7-0   @ Jeddah, Saudi Arabia
-[Wed Oct 8]
-  Iraq - Bahrain  5-1   @ Kuala Lumpur, Malaysia
-  Kuwait - Palestine  4-0   @ Kuwait City, Kuwait
-  Malaysia - Myanmar  4-0   @ Kuala Lumpur, Malaysia
-  Saudi Arabia - Bhutan  6-0   @ Jeddah, Saudi Arabia
-  Yemen - Indonesia  0-3   @ Jeddah, Saudi Arabia
-[Fri Oct 10]
-  Bhutan - Yemen  0-8   @ Jeddah, Saudi Arabia
-  Myanmar - Bahrain  1-3   @ Kuala Lumpur, Malaysia
-  Malaysia - Iraq  0-0   @ Kuala Lumpur, Malaysia
-  Saudi Arabia - Indonesia  5-0   @ Jeddah, Saudi Arabia
-[Sun Oct 12]
-  Iraq - Myanmar  3-0   @ Kuala Lumpur, Malaysia
-  Malaysia - Bahrain  2-2   @ Kuala Lumpur, Malaysia
-[Mon Oct 13]
-  Bhutan - Indonesia  0-2   @ Jeddah, Saudi Arabia
-  Saudi Arabia - Yemen  3-1   @ Jeddah, Saudi Arabia
-[Wed Oct 15]
-  Indonesia - Yemen  2-2   @ Jeddah, Saudi Arabia
-  Saudi Arabia - Bhutan  4-0   @ Jeddah, Saudi Arabia
-  Syria - Sri Lanka  5-0   @ Damascus, Syria
-[Fri Oct 17]
-  Jordan - Lebanon  1-0   @ Amman, Jordan
-  Saudi Arabia - Indonesia  6-0   @ Jeddah, Saudi Arabia
-  Yemen - Bhutan  4-0   @ Jeddah, Saudi Arabia
-[Sat Oct 18]
-  Syria - Sri Lanka  8-0   @ Damascus, Syria
-[Sun Oct 19]
-  Oman - Nepal  6-0   @ Muscat, Oman
-  Singapore - Palestine  2-0   @ Singapore, Singapore
-  Turkmenistan - United Arab Emirates  1-0   @ Ashgabat, Turkmenistan
-  Vietnam - South Korea  1-0   @ Muscat, Oman
-[Mon Oct 20]
-  Bahrain - Myanmar  4-0   @ Riffa, Bahrain
-  Iraq - Malaysia  5-1   @ Riffa, Bahrain
-[Tue Oct 21]
-  Nepal - Vietnam  0-2   @ Muscat, Oman
-  Oman - South Korea  3-1   @ Muscat, Oman
-[Wed Oct 22]
-  Bahrain - Malaysia  3-1   @ Riffa, Bahrain
-  Myanmar - Iraq  1-3   @ Riffa, Bahrain
-  Singapore - Palestine  0-0   @ Singapore, Singapore
-[Fri Oct 24]
-  Bahrain - Iraq  1-0   @ Riffa, Bahrain
-  Myanmar - Malaysia  2-1   @ Riffa, Bahrain
-  Nepal - South Korea  0-7   @ Muscat, Oman
-  Oman - Vietnam  2-0   @ Muscat, Oman
-[Mon Oct 27]
-  North Korea - Iran  1-3   @ Pyongyang, North Korea
-[Thu Oct 30]
-  United Arab Emirates - Turkmenistan  1-1   @ Sharjah, United Arab Emirates
-[Mon Nov 3]
-  Lebanon - North Korea  1-1   @ Beirut, Lebanon
-[Thu Nov 6]
-  Thailand - Tajikistan  0-1   @ Tashkent, Uzbekistan
-  Uzbekistan - Hong Kong  4-1   @ Tashkent, Uzbekistan
-[Fri Nov 7]
-  Syria - United Arab Emirates  1-3   @ Damascus, Syria
-[Sat Nov 8]
-  Hong Kong - Tajikistan  0-0   @ Tashkent, Uzbekistan
-  Uzbekistan - Thailand  3-0   @ Tashkent, Uzbekistan
-[Sun Nov 9]
-  Turkmenistan - Sri Lanka  1-0   @ Balkanabat, Turkmenistan
-[Mon Nov 10]
-  Hong Kong - Thailand  2-1   @ Tashkent, Uzbekistan
-  Uzbekistan - Tajikistan  0-0   @ Tashkent, Uzbekistan
-[Wed Nov 12]
-  Iran - North Korea  3-0   @ Tehran, Iran
-  Lebanon - Jordan  0-2   @ Beirut, Lebanon
-  Turkmenistan - Sri Lanka  3-0   @ Ashgabat, Turkmenistan
-[Fri Nov 14]
-  United Arab Emirates - Syria  3-1   @ Sharjah, United Arab Emirates
-[Mon Nov 17]
-  Tajikistan - Uzbekistan  1-4   @ Bangkok, Thailand
-  Thailand - Hong Kong  4-0   @ Bangkok, Thailand
-[Tue Nov 18]
-  Jordan - North Korea  3-0   @ Amman, Jordan
-  United Arab Emirates - Sri Lanka  3-1   @ Dubai, United Arab Emirates
-[Wed Nov 19]
-  Hong Kong - Uzbekistan  0-1   @ Bangkok, Thailand
-  Lebanon - Iran  0-3   @ Beirut, Lebanon
-  Qatar - Singapore  2-0   @ Doha, Qatar
-  Thailand - Tajikistan  1-0   @ Bangkok, Thailand
-[Fri Nov 21]
-  Tajikistan - Hong Kong  1-0   @ Bangkok, Thailand
-  Thailand - Uzbekistan  4-1   @ Bangkok, Thailand
-[Sat Nov 22]
-  United Arab Emirates - Sri Lanka  3-0   @ Dubai, United Arab Emirates
-[Fri Nov 28]
-  Iran - Lebanon  1-0   @ Tehran, Iran
-  Syria - Turkmenistan  1-1   @ Aleppo, Syria
+Sun Mar 16
+  Kyrgyzstan           v Afghanistan           1-2   @ Kathmandu, Nepal
+Tue Mar 18
+  Nepal                v Afghanistan           4-0   @ Kathmandu, Nepal
+Thu Mar 20
+  Nepal                v Kyrgyzstan            0-2   @ Kathmandu, Nepal
+Fri Mar 21
+  Macau                v Pakistan              0-3   @ Singapore, Singapore
+  Maldives             v Brunei                1-1   @ Malé, Maldives
+  Sri Lanka            v Timor-Leste           3-2   @ Colombo, Sri Lanka
+Sun Mar 23
+  Myanmar              v Brunei                5-0   @ Malé, Maldives
+  Singapore            v Macau                 2-0   @ Singapore, Singapore
+Mon Mar 24
+  North Korea          v India                 2-0   @ Pyongyang, North Korea
+Tue Mar 25
+  Hong Kong            v Laos                  5-1   @ Kowloon, Hong Kong
+  Maldives             v Myanmar               0-2   @ Malé, Maldives
+  Singapore            v Pakistan              3-0   @ Singapore, Singapore
+  Sri Lanka            v Taiwan                2-1   @ Colombo, Sri Lanka
+Thu Mar 27
+  Laos                 v Bangladesh            2-1   @ Kowloon, Hong Kong
+Sun Mar 30
+  Hong Kong            v Bangladesh            2-2   @ Kowloon, Hong Kong
+  India                v North Korea           1-1   @ Margao, India
+Wed Apr 23
+  Bhutan               v Guam                  6-0   @ Thimphu, Bhutan
+Fri Apr 25
+  Guam                 v Mongolia              0-5   @ Thimphu, Bhutan
+Sun Apr 27
+  Bhutan               v Mongolia              0-0   @ Thimphu, Bhutan
+Thu Sep 4
+  North Korea          v Lebanon               0-1   @ Pyongyang, North Korea
+  Singapore            v Kuwait                1-3   @ Singapore, Singapore
+Fri Sep 5
+  Iran                 v Jordan                4-1   @ Tehran, Iran
+Sun Sep 14
+  Kuwait               v Qatar                 2-1   @ Kuwait City, Kuwait
+Sat Sep 20
+  Qatar                v Kuwait                2-2   @ Doha, Qatar
+Wed Sep 24
+  Qatar                v Palestine             1-1   @ Doha, Qatar
+Thu Sep 25
+  South Korea          v Vietnam               5-0   @ Incheon, South Korea
+  Nepal                v Oman                  0-7   @ Incheon, South Korea
+Fri Sep 26
+  Jordan               v Iran                  3-2   @ Amman, Jordan
+Sat Sep 27
+  South Korea          v Oman                  1-0   @ Incheon, South Korea
+  Kuwait               v Singapore             4-0   @ Kuwait City, Kuwait
+  Qatar                v Palestine             2-1   @ Doha, Qatar
+  Vietnam              v Nepal                 5-0   @ Incheon, South Korea
+Mon Sep 29
+  South Korea          v Nepal                 16-0   @ Incheon, South Korea
+  Vietnam              v Oman                  0-6   @ Incheon, South Korea
+Sun Oct 5
+  Kuwait               v Palestine             2-1   @ Kuwait City, Kuwait
+Mon Oct 6
+  Indonesia            v Bhutan                2-0   @ Jeddah, Saudi Arabia
+  Saudi Arabia         v Yemen                 7-0   @ Jeddah, Saudi Arabia
+Wed Oct 8
+  Iraq                 v Bahrain               5-1   @ Kuala Lumpur, Malaysia
+  Kuwait               v Palestine             4-0   @ Kuwait City, Kuwait
+  Malaysia             v Myanmar               4-0   @ Kuala Lumpur, Malaysia
+  Saudi Arabia         v Bhutan                6-0   @ Jeddah, Saudi Arabia
+  Yemen                v Indonesia             0-3   @ Jeddah, Saudi Arabia
+Fri Oct 10
+  Bhutan               v Yemen                 0-8   @ Jeddah, Saudi Arabia
+  Myanmar              v Bahrain               1-3   @ Kuala Lumpur, Malaysia
+  Malaysia             v Iraq                  0-0   @ Kuala Lumpur, Malaysia
+  Saudi Arabia         v Indonesia             5-0   @ Jeddah, Saudi Arabia
+Sun Oct 12
+  Iraq                 v Myanmar               3-0   @ Kuala Lumpur, Malaysia
+  Malaysia             v Bahrain               2-2   @ Kuala Lumpur, Malaysia
+Mon Oct 13
+  Bhutan               v Indonesia             0-2   @ Jeddah, Saudi Arabia
+  Saudi Arabia         v Yemen                 3-1   @ Jeddah, Saudi Arabia
+Wed Oct 15
+  Indonesia            v Yemen                 2-2   @ Jeddah, Saudi Arabia
+  Saudi Arabia         v Bhutan                4-0   @ Jeddah, Saudi Arabia
+  Syria                v Sri Lanka             5-0   @ Damascus, Syria
+Fri Oct 17
+  Jordan               v Lebanon               1-0   @ Amman, Jordan
+  Saudi Arabia         v Indonesia             6-0   @ Jeddah, Saudi Arabia
+  Yemen                v Bhutan                4-0   @ Jeddah, Saudi Arabia
+Sat Oct 18
+  Syria                v Sri Lanka             8-0   @ Damascus, Syria
+Sun Oct 19
+  Oman                 v Nepal                 6-0   @ Muscat, Oman
+  Singapore            v Palestine             2-0   @ Singapore, Singapore
+  Turkmenistan         v United Arab Emirates  1-0   @ Ashgabat, Turkmenistan
+  Vietnam              v South Korea           1-0   @ Muscat, Oman
+Mon Oct 20
+  Bahrain              v Myanmar               4-0   @ Riffa, Bahrain
+  Iraq                 v Malaysia              5-1   @ Riffa, Bahrain
+Tue Oct 21
+  Nepal                v Vietnam               0-2   @ Muscat, Oman
+  Oman                 v South Korea           3-1   @ Muscat, Oman
+Wed Oct 22
+  Bahrain              v Malaysia              3-1   @ Riffa, Bahrain
+  Myanmar              v Iraq                  1-3   @ Riffa, Bahrain
+  Singapore            v Palestine             0-0   @ Singapore, Singapore
+Fri Oct 24
+  Bahrain              v Iraq                  1-0   @ Riffa, Bahrain
+  Myanmar              v Malaysia              2-1   @ Riffa, Bahrain
+  Nepal                v South Korea           0-7   @ Muscat, Oman
+  Oman                 v Vietnam               2-0   @ Muscat, Oman
+Mon Oct 27
+  North Korea          v Iran                  1-3   @ Pyongyang, North Korea
+Thu Oct 30
+  United Arab Emirates v Turkmenistan          1-1   @ Sharjah, United Arab Emirates
+Mon Nov 3
+  Lebanon              v North Korea           1-1   @ Beirut, Lebanon
+Thu Nov 6
+  Thailand             v Tajikistan            0-1   @ Tashkent, Uzbekistan
+  Uzbekistan           v Hong Kong             4-1   @ Tashkent, Uzbekistan
+Fri Nov 7
+  Syria                v United Arab Emirates  1-3   @ Damascus, Syria
+Sat Nov 8
+  Hong Kong            v Tajikistan            0-0   @ Tashkent, Uzbekistan
+  Uzbekistan           v Thailand              3-0   @ Tashkent, Uzbekistan
+Sun Nov 9
+  Turkmenistan         v Sri Lanka             1-0   @ Balkanabat, Turkmenistan
+Mon Nov 10
+  Hong Kong            v Thailand              2-1   @ Tashkent, Uzbekistan
+  Uzbekistan           v Tajikistan            0-0   @ Tashkent, Uzbekistan
+Wed Nov 12
+  Iran                 v North Korea           3-0   @ Tehran, Iran
+  Lebanon              v Jordan                0-2   @ Beirut, Lebanon
+  Turkmenistan         v Sri Lanka             3-0   @ Ashgabat, Turkmenistan
+Fri Nov 14
+  United Arab Emirates v Syria                 3-1   @ Sharjah, United Arab Emirates
+Mon Nov 17
+  Tajikistan           v Uzbekistan            1-4   @ Bangkok, Thailand
+  Thailand             v Hong Kong             4-0   @ Bangkok, Thailand
+Tue Nov 18
+  Jordan               v North Korea           3-0   @ Amman, Jordan
+  United Arab Emirates v Sri Lanka             3-1   @ Dubai, United Arab Emirates
+Wed Nov 19
+  Hong Kong            v Uzbekistan            0-1   @ Bangkok, Thailand
+  Lebanon              v Iran                  0-3   @ Beirut, Lebanon
+  Qatar                v Singapore             2-0   @ Doha, Qatar
+  Thailand             v Tajikistan            1-0   @ Bangkok, Thailand
+Fri Nov 21
+  Tajikistan           v Hong Kong             1-0   @ Bangkok, Thailand
+  Thailand             v Uzbekistan            4-1   @ Bangkok, Thailand
+Sat Nov 22
+  United Arab Emirates v Sri Lanka             3-0   @ Dubai, United Arab Emirates
+Fri Nov 28
+  Iran                 v Lebanon               1-0   @ Tehran, Iran
+  Syria                v Turkmenistan          1-1   @ Aleppo, Syria
 

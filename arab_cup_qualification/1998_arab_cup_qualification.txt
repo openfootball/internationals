@@ -1,16 +1,16 @@
 = Arab Cup qualification 1998
 
-# Date       Mon Jul/20 - Sun Jul/26 1998 (6d)
+# Date       Mon Jul 20 - Sun Jul 26 1998 (6d)
 # Teams      4
 # Matches    6
 
-[Mon Jul 20]
-  Lebanon - Palestine  3-1   @ Beirut, Lebanon
-  Syria - Jordan  3-0   @ Beirut, Lebanon
-[Thu Jul 23]
-  Lebanon - Jordan  0-2   @ Beirut, Lebanon
-  Palestine - Syria  1-2   @ Beirut, Lebanon
-[Sun Jul 26]
-  Jordan - Palestine  1-1   @ Beirut, Lebanon
-  Lebanon - Syria  0-1   @ Beirut, Lebanon
+Mon Jul 20
+  Lebanon              v Palestine             3-1   @ Beirut, Lebanon
+  Syria                v Jordan                3-0   @ Beirut, Lebanon
+Thu Jul 23
+  Lebanon              v Jordan                0-2   @ Beirut, Lebanon
+  Palestine            v Syria                 1-2   @ Beirut, Lebanon
+Sun Jul 26
+  Jordan               v Palestine             1-1   @ Beirut, Lebanon
+  Lebanon              v Syria                 0-1   @ Beirut, Lebanon
 

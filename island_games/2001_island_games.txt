@@ -1,36 +1,36 @@
 = Island Games 2001
 
-# Date       Sun Jul/8 - Fri Jul/13 2001 (5d)
+# Date       Sun Jul 8 - Fri Jul 13 2001 (5d)
 # Teams      12
 # Matches    24
 
-[Sun Jul 8]
-  Ynys Môn - Saare County  4-1   @ Castletown, Isle of Man
-  Jersey - Orkney  12-0   @ Douglas, Isle of Man
-  Isle of Wight - Greenland  0-0   @ Peel, Isle of Man
-  Isle of Man - Falkland Islands  9-0   @ Douglas, Isle of Man
-[Mon Jul 9]
-  Saare County - Shetland  2-3   @ Port Erin, Isle of Man
-  Orkney - Gibraltar  0-2   @ Douglas, Isle of Man
-  Greenland - Rhodes  0-2   @ Ramsey, Isle of Man
-  Guernsey - Falkland Islands  3-0   @ Douglas, Isle of Man
-[Tue Jul 10]
-  Ynys Môn - Shetland  1-1   @ Douglas, Isle of Man
-  Jersey - Gibraltar  2-1   @ Douglas, Isle of Man
-  Rhodes - Isle of Wight  1-4   @ Douglas, Isle of Man
-  Isle of Man - Guernsey  2-3   @ Douglas, Isle of Man
-[Thu Jul 12]
-  Saare County - Orkney  2-1   @ Douglas, Isle of Man
-  Greenland - Falkland Islands  4-0   @ Braddan, Isle of Man
-  Isle of Man - Rhodes  1-3   @ Ramsey, Isle of Man
-  Gibraltar - Shetland  2-0   @ Peel, Isle of Man
-  Isle of Wight - Guernsey  2-3   @ Port Erin, Isle of Man
-  Ynys Môn - Jersey  2-2   @ Castletown, Isle of Man   [Ynys Môn wins on penalties]
-[Fri Jul 13]
-  Orkney - Falkland Islands  1-4   @ Peel, Isle of Man
-  Greenland - Saare County  2-0   @ Ramsey, Isle of Man
-  Isle of Man - Shetland  2-2   @ Castletown, Isle of Man
-  Gibraltar - Rhodes  2-0   @ Douglas, Isle of Man
-  Isle of Wight - Jersey  0-2   @ Douglas, Isle of Man
-  Guernsey - Ynys Môn  0-0   @ Douglas, Isle of Man   [Guernsey wins on penalties]
+Sun Jul 8
+  Ynys Môn             v Saare County          4-1   @ Castletown, Isle of Man
+  Jersey               v Orkney                12-0   @ Douglas, Isle of Man
+  Isle of Wight        v Greenland             0-0   @ Peel, Isle of Man
+  Isle of Man          v Falkland Islands      9-0   @ Douglas, Isle of Man
+Mon Jul 9
+  Saare County         v Shetland              2-3   @ Port Erin, Isle of Man
+  Orkney               v Gibraltar             0-2   @ Douglas, Isle of Man
+  Greenland            v Rhodes                0-2   @ Ramsey, Isle of Man
+  Guernsey             v Falkland Islands      3-0   @ Douglas, Isle of Man
+Tue Jul 10
+  Ynys Môn             v Shetland              1-1   @ Douglas, Isle of Man
+  Jersey               v Gibraltar             2-1   @ Douglas, Isle of Man
+  Rhodes               v Isle of Wight         1-4   @ Douglas, Isle of Man
+  Isle of Man          v Guernsey              2-3   @ Douglas, Isle of Man
+Thu Jul 12
+  Saare County         v Orkney                2-1   @ Douglas, Isle of Man
+  Greenland            v Falkland Islands      4-0   @ Braddan, Isle of Man
+  Isle of Man          v Rhodes                1-3   @ Ramsey, Isle of Man
+  Gibraltar            v Shetland              2-0   @ Peel, Isle of Man
+  Isle of Wight        v Guernsey              2-3   @ Port Erin, Isle of Man
+  Ynys Môn             v Jersey                2-2   @ Castletown, Isle of Man   [Ynys Môn wins on penalties]
+Fri Jul 13
+  Orkney               v Falkland Islands      1-4   @ Peel, Isle of Man
+  Greenland            v Saare County          2-0   @ Ramsey, Isle of Man
+  Isle of Man          v Shetland              2-2   @ Castletown, Isle of Man
+  Gibraltar            v Rhodes                2-0   @ Douglas, Isle of Man
+  Isle of Wight        v Jersey                0-2   @ Douglas, Isle of Man
+  Guernsey             v Ynys Môn              0-0   @ Douglas, Isle of Man   [Guernsey wins on penalties]
 

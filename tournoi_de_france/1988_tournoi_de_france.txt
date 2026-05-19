@@ -1,13 +1,13 @@
 = Tournoi de France 1988
 
-# Date       Tue Feb/2 - Fri Feb/5 1988 (3d)
+# Date       Tue Feb 2 - Fri Feb 5 1988 (3d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 2]
-  Austria - Morocco  1-3   @ Toulouse, France
-  France - Switzerland  2-1   @ Toulouse, France
-[Fri Feb 5]
-  Austria - Switzerland  1-2   @ Monaco, Monaco
-  France - Morocco  2-1   @ Monaco, Monaco
+Tue Feb 2
+  Austria              v Morocco               1-3   @ Toulouse, France
+  France               v Switzerland           2-1   @ Toulouse, France
+Fri Feb 5
+  Austria              v Switzerland           1-2   @ Monaco, Monaco
+  France               v Morocco               2-1   @ Monaco, Monaco
 

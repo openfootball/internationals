@@ -1,18 +1,18 @@
 = Southeast Asian Games 1987
 
-# Date       Thu Sep/10 - Sun Sep/20 1987 (10d)
+# Date       Thu Sep 10 - Sun Sep 20 1987 (10d)
 # Teams      5
 # Matches    6
 
-[Thu Sep 10]
-  Singapore - Malaysia  0-0   @ Jakarta, Indonesia
-  Thailand - Brunei  3-1   @ Jakarta, Indonesia
-[Sat Sep 12]
-  Indonesia - Brunei  2-0   @ Jakarta, Indonesia
-[Mon Sep 14]
-  Indonesia - Thailand  0-0   @ Jakarta, Indonesia
-[Wed Sep 16]
-  Thailand - Malaysia  0-2   @ Jakarta, Indonesia
-[Sun Sep 20]
-  Indonesia - Malaysia  1-0   @ Jakarta, Indonesia
+Thu Sep 10
+  Singapore            v Malaysia              0-0   @ Jakarta, Indonesia
+  Thailand             v Brunei                3-1   @ Jakarta, Indonesia
+Sat Sep 12
+  Indonesia            v Brunei                2-0   @ Jakarta, Indonesia
+Mon Sep 14
+  Indonesia            v Thailand              0-0   @ Jakarta, Indonesia
+Wed Sep 16
+  Thailand             v Malaysia              0-2   @ Jakarta, Indonesia
+Sun Sep 20
+  Indonesia            v Malaysia              1-0   @ Jakarta, Indonesia
 

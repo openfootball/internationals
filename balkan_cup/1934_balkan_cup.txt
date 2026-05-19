@@ -1,15 +1,15 @@
 = Balkan Cup 1934
 
-# Date       Sun Dec/23 - Sun Dec/30 1934 (7d)
+# Date       Sun Dec 23 - Sun Dec 30 1934 (7d)
 # Teams      4
 # Matches    4
 
-[Sun Dec 23]
-  Greece - Yugoslavia  2-1   @ Athens, Greece
-[Tue Dec 25]
-  Bulgaria - Yugoslavia  3-4   @ Athens, Greece
-[Thu Dec 27]
-  Greece - Romania  2-2   @ Athens, Greece
-[Sun Dec 30]
-  Bulgaria - Romania  2-3   @ Athens, Greece
+Sun Dec 23
+  Greece               v Yugoslavia            2-1   @ Athens, Greece
+Tue Dec 25
+  Bulgaria             v Yugoslavia            3-4   @ Athens, Greece
+Thu Dec 27
+  Greece               v Romania               2-2   @ Athens, Greece
+Sun Dec 30
+  Bulgaria             v Romania               2-3   @ Athens, Greece
 

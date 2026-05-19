@@ -1,43 +1,43 @@
 = CECAFA Cup 2006
 
-# Date       Sat Nov/25 - Sun Dec/10 2006 (15d)
+# Date       Sat Nov 25 - Sun Dec 10 2006 (15d)
 # Teams      11
 # Matches    23
 
-[Sat Nov 25]
-  Ethiopia - Tanzania  1-2   @ Addis Ababa, Ethiopia
-[Sun Nov 26]
-  Burundi - Zambia  3-2   @ Addis Ababa, Ethiopia
-  Djibouti - Malawi  0-3   @ Addis Ababa, Ethiopia
-[Mon Nov 27]
-  Somalia - Rwanda  0-3   @ Addis Ababa, Ethiopia
-  Sudan - Uganda  1-2   @ Addis Ababa, Ethiopia
-[Tue Nov 28]
-  Ethiopia - Djibouti  4-0   @ Addis Ababa, Ethiopia
-  Malawi - Tanzania  1-2   @ Addis Ababa, Ethiopia
-[Wed Nov 29]
-  Zanzibar - Burundi  0-0   @ Addis Ababa, Ethiopia
-[Thu Nov 30]
-  Rwanda - Uganda  0-1   @ Addis Ababa, Ethiopia
-  Somalia - Sudan  0-3   @ Addis Ababa, Ethiopia
-[Fri Dec 1]
-  Ethiopia - Malawi  1-0   @ Addis Ababa, Ethiopia
-  Tanzania - Djibouti  3-0   @ Addis Ababa, Ethiopia
-[Sat Dec 2]
-  Zambia - Zanzibar  4-0   @ Addis Ababa, Ethiopia
-[Sun Dec 3]
-  Sudan - Rwanda  0-0   @ Addis Ababa, Ethiopia
-  Uganda - Somalia  2-0   @ Addis Ababa, Ethiopia
-[Tue Dec 5]
-  Ethiopia - Zambia  0-1   @ Addis Ababa, Ethiopia
-  Tanzania - Rwanda  1-2   @ Addis Ababa, Ethiopia
-[Wed Dec 6]
-  Burundi - Sudan  0-1   @ Addis Ababa, Ethiopia
-  Uganda - Malawi  0-0   @ Addis Ababa, Ethiopia
-[Fri Dec 8]
-  Rwanda - Zambia  0-1   @ Addis Ababa, Ethiopia
-  Uganda - Sudan  2-2   @ Addis Ababa, Ethiopia
-[Sun Dec 10]
-  Rwanda - Uganda  0-0   @ Addis Ababa, Ethiopia
-  Zambia - Sudan  0-0   @ Addis Ababa, Ethiopia
+Sat Nov 25
+  Ethiopia             v Tanzania              1-2   @ Addis Ababa, Ethiopia
+Sun Nov 26
+  Burundi              v Zambia                3-2   @ Addis Ababa, Ethiopia
+  Djibouti             v Malawi                0-3   @ Addis Ababa, Ethiopia
+Mon Nov 27
+  Somalia              v Rwanda                0-3   @ Addis Ababa, Ethiopia
+  Sudan                v Uganda                1-2   @ Addis Ababa, Ethiopia
+Tue Nov 28
+  Ethiopia             v Djibouti              4-0   @ Addis Ababa, Ethiopia
+  Malawi               v Tanzania              1-2   @ Addis Ababa, Ethiopia
+Wed Nov 29
+  Zanzibar             v Burundi               0-0   @ Addis Ababa, Ethiopia
+Thu Nov 30
+  Rwanda               v Uganda                0-1   @ Addis Ababa, Ethiopia
+  Somalia              v Sudan                 0-3   @ Addis Ababa, Ethiopia
+Fri Dec 1
+  Ethiopia             v Malawi                1-0   @ Addis Ababa, Ethiopia
+  Tanzania             v Djibouti              3-0   @ Addis Ababa, Ethiopia
+Sat Dec 2
+  Zambia               v Zanzibar              4-0   @ Addis Ababa, Ethiopia
+Sun Dec 3
+  Sudan                v Rwanda                0-0   @ Addis Ababa, Ethiopia
+  Uganda               v Somalia               2-0   @ Addis Ababa, Ethiopia
+Tue Dec 5
+  Ethiopia             v Zambia                0-1   @ Addis Ababa, Ethiopia
+  Tanzania             v Rwanda                1-2   @ Addis Ababa, Ethiopia
+Wed Dec 6
+  Burundi              v Sudan                 0-1   @ Addis Ababa, Ethiopia
+  Uganda               v Malawi                0-0   @ Addis Ababa, Ethiopia
+Fri Dec 8
+  Rwanda               v Zambia                0-1   @ Addis Ababa, Ethiopia
+  Uganda               v Sudan                 2-2   @ Addis Ababa, Ethiopia
+Sun Dec 10
+  Rwanda               v Uganda                0-0   @ Addis Ababa, Ethiopia
+  Zambia               v Sudan                 0-0   @ Addis Ababa, Ethiopia
 

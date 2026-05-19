@@ -1,47 +1,47 @@
 = Oceania Nations Cup 2024
 
-# Date       Sat Jun/15 - Sun Jun/30 2024 (15d)
+# Date       Sat Jun 15 - Sun Jun 30 2024 (15d)
 # Teams      7
 # Matches    13
 
-[Sat Jun 15]
-  Vanuatu - Solomon Islands  1-0   @ Port Vila, Vanuatu
-     Kensi Tangis 72'
-[Sun Jun 16]
-  Tahiti - Samoa  2-0   @ Suva, Fiji
-     Matéo Degrumelle 4' Teaonui Tehau 28'
-  Fiji - Papua New Guinea  5-1   @ Suva, Fiji
-     Nabil Begg 2' Thomas Dunn 43' Thomas Dunn 52' Alwin Komolong 55' (o.g.) Roy Krishna 64';
-     Tommy Semmy 88'
-[Tue Jun 18]
-  New Zealand - Solomon Islands  3-0   @ Port Vila, Vanuatu
-     Ben Waine 6' Ben Waine 11' Kosta Barbarouses 45'
-[Wed Jun 19]
-  Papua New Guinea - Tahiti  1-1   @ Suva, Fiji
-     Pala Paul 25';
-     Matéo Degrumelle 15'
-  Fiji - Samoa  9-1   @ Suva, Fiji
-     Setareki Hughes 3' Thomas Dunn 38' Roy Krishna 45' (pen.) Roy Krishna 53' (pen.) Setareki Hughes 61' Filipe Baravilala 64' Nabil Begg 67' Etonia Dogalau 83' Etonia Dogalau 89';
-     Luke Salisbury 47'
-[Fri Jun 21]
-  Vanuatu - New Zealand  0-4   @ Port Vila, Vanuatu
-     -; Max Mata 10' Brian Kaltak 27' (o.g.) Elijah Just 63' Ben Old 78'
-[Sat Jun 22]
-  Samoa - Papua New Guinea  1-2   @ Suva, Fiji
-     Pharrell Trainor 67';
-     Tommy Semmy 26' Ati Kepo 47'
-  Fiji - Tahiti  1-0   @ Suva, Fiji
-     Roy Krishna 26' (pen.)
-[Thu Jun 27]
-  Vanuatu - Fiji  2-1   @ Port Vila, Vanuatu
-     Johnathan Spokeyjack 12' Jason Thomas 56';
-     Sitiveni Cavuilagi 46'
-  New Zealand - Tahiti  5-0   @ Port Vila, Vanuatu
-     Finn Surman 7' Ben Waine 45' Kosta Barbarouses 45' Ben Waine 53' Kosta Barbarouses 72'
-[Sun Jun 30]
-  Tahiti - Fiji  2-1   @ Port Vila, Vanuatu
-     Teaonui Tehau 72' Teaonui Tehau 83';
-     Roy Krishna 58'
-  Vanuatu - New Zealand  0-3   @ Port Vila, Vanuatu
-     -; Cameron Howieson 2' Jesse Randall 83' Max Mata 90'
+Sat Jun 15
+  Vanuatu              v Solomon Islands       1-0   @ Port Vila, Vanuatu
+     (Kensi Tangis 72')
+Sun Jun 16
+  Tahiti               v Samoa                 2-0   @ Suva, Fiji
+     (Matéo Degrumelle 4' Teaonui Tehau 28')
+  Fiji                 v Papua New Guinea      5-1   @ Suva, Fiji
+     (Nabil Begg 2' Thomas Dunn 43' Thomas Dunn 52' Alwin Komolong 55'(og) Roy Krishna 64';
+      Tommy Semmy 88')
+Tue Jun 18
+  New Zealand          v Solomon Islands       3-0   @ Port Vila, Vanuatu
+     (Ben Waine 6' Ben Waine 11' Kosta Barbarouses 45')
+Wed Jun 19
+  Papua New Guinea     v Tahiti                1-1   @ Suva, Fiji
+     (Pala Paul 25';
+      Matéo Degrumelle 15')
+  Fiji                 v Samoa                 9-1   @ Suva, Fiji
+     (Setareki Hughes 3' Thomas Dunn 38' Roy Krishna 45'(p) Roy Krishna 53'(p) Setareki Hughes 61' Filipe Baravilala 64' Nabil Begg 67' Etonia Dogalau 83' Etonia Dogalau 89';
+      Luke Salisbury 47')
+Fri Jun 21
+  Vanuatu              v New Zealand           0-4   @ Port Vila, Vanuatu
+     (Max Mata 10' Brian Kaltak 27'(og) Elijah Just 63' Ben Old 78')
+Sat Jun 22
+  Samoa                v Papua New Guinea      1-2   @ Suva, Fiji
+     (Pharrell Trainor 67';
+      Tommy Semmy 26' Ati Kepo 47')
+  Fiji                 v Tahiti                1-0   @ Suva, Fiji
+     (Roy Krishna 26'(p))
+Thu Jun 27
+  Vanuatu              v Fiji                  2-1   @ Port Vila, Vanuatu
+     (Johnathan Spokeyjack 12' Jason Thomas 56';
+      Sitiveni Cavuilagi 46')
+  New Zealand          v Tahiti                5-0   @ Port Vila, Vanuatu
+     (Finn Surman 7' Ben Waine 45' Kosta Barbarouses 45' Ben Waine 53' Kosta Barbarouses 72')
+Sun Jun 30
+  Tahiti               v Fiji                  2-1   @ Port Vila, Vanuatu
+     (Teaonui Tehau 72' Teaonui Tehau 83';
+      Roy Krishna 58')
+  Vanuatu              v New Zealand           0-3   @ Port Vila, Vanuatu
+     (Cameron Howieson 2' Jesse Randall 83' Max Mata 90')
 

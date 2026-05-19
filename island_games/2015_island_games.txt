@@ -1,46 +1,46 @@
 = Island Games 2015
 
-# Date       Sun Jun/28 - Fri Jul/3 2015 (5d)
+# Date       Sun Jun 28 - Fri Jul 3 2015 (5d)
 # Teams      16
 # Matches    34
 
-[Sun Jun 28]
-  Greenland - Menorca  2-2   @ Grouville, Jersey
-  Saare County - Åland Islands  1-2   @ Grouville, Jersey
-  Gibraltar - Gotland  2-1   @ St. Peter, Jersey
-  Ynys Môn - Guernsey  2-5   @ St. Peter, Jersey
-  Falkland Islands - Hitra  2-1   @ St. John, Jersey
-  Shetland - Isle of Wight  0-0   @ St. Lawrence, Jersey
-  Western Isles - Isle of Man  0-9   @ St. Lawrence, Jersey
-  Jersey - Alderney  6-0   @ St Helier, Jersey
-[Mon Jun 29]
-  Isle of Man - Alderney  7-0   @ St. Ouen, Jersey
-  Jersey - Western Isles  3-0   @ St Helier, Jersey
-  Åland Islands - Greenland  0-2   @ St. Clement, Jersey
-  Menorca - Saare County  3-0   @ St. Clement, Jersey
-  Guernsey - Gotland  3-0   @ St. Brelade, Jersey
-  Gibraltar - Ynys Môn  1-1   @ St Helier, Jersey
-  Isle of Wight - Falkland Islands  3-0   @ St. Ouen, Jersey
-  Hitra - Shetland  1-4   @ St. Brelade, Jersey
-[Tue Jun 30]
-  Åland Islands - Menorca  1-3   @ St. Clement, Jersey
-  Greenland - Saare County  2-1   @ Grouville, Jersey
-  Gotland - Ynys Môn  2-3   @ St. Peter, Jersey
-  Gibraltar - Guernsey  0-4   @ St Helier, Jersey
-  Isle of Wight - Hitra  3-1   @ St. Lawrence, Jersey
-  Falkland Islands - Shetland  0-5   @ St. Peter, Jersey
-  Jersey - Isle of Man  1-2   @ St. John, Jersey
-  Alderney - Western Isles  2-3   @ St. Peter, Jersey
-[Thu Jul 2]
-  Hitra - Alderney  5-1   @ St. Ouen, Jersey
-  Gotland - Saare County  2-3   @ St. Ouen, Jersey
-  Falkland Islands - Western Isles  1-2   @ St. Brelade, Jersey
-  Gibraltar - Åland Islands  0-0   @ St. Brelade, Jersey   [Åland Islands wins on penalties]
-  Jersey - Ynys Môn  1-0   @ St. Clement, Jersey
-  Isle of Wight - Greenland  1-2   @ St. Clement, Jersey
-  Menorca - Guernsey  1-2   @ St Helier, Jersey
-  Shetland - Isle of Man  1-3   @ St Helier, Jersey
-[Fri Jul 3]
-  Menorca - Shetland  1-0   @ St. Peter, Jersey
-  Guernsey - Isle of Man  3-0   @ St Helier, Jersey
+Sun Jun 28
+  Greenland            v Menorca               2-2   @ Grouville, Jersey
+  Saare County         v Åland Islands         1-2   @ Grouville, Jersey
+  Gibraltar            v Gotland               2-1   @ St. Peter, Jersey
+  Ynys Môn             v Guernsey              2-5   @ St. Peter, Jersey
+  Falkland Islands     v Hitra                 2-1   @ St. John, Jersey
+  Shetland             v Isle of Wight         0-0   @ St. Lawrence, Jersey
+  Western Isles        v Isle of Man           0-9   @ St. Lawrence, Jersey
+  Jersey               v Alderney              6-0   @ St Helier, Jersey
+Mon Jun 29
+  Isle of Man          v Alderney              7-0   @ St. Ouen, Jersey
+  Jersey               v Western Isles         3-0   @ St Helier, Jersey
+  Åland Islands        v Greenland             0-2   @ St. Clement, Jersey
+  Menorca              v Saare County          3-0   @ St. Clement, Jersey
+  Guernsey             v Gotland               3-0   @ St. Brelade, Jersey
+  Gibraltar            v Ynys Môn              1-1   @ St Helier, Jersey
+  Isle of Wight        v Falkland Islands      3-0   @ St. Ouen, Jersey
+  Hitra                v Shetland              1-4   @ St. Brelade, Jersey
+Tue Jun 30
+  Åland Islands        v Menorca               1-3   @ St. Clement, Jersey
+  Greenland            v Saare County          2-1   @ Grouville, Jersey
+  Gotland              v Ynys Môn              2-3   @ St. Peter, Jersey
+  Gibraltar            v Guernsey              0-4   @ St Helier, Jersey
+  Isle of Wight        v Hitra                 3-1   @ St. Lawrence, Jersey
+  Falkland Islands     v Shetland              0-5   @ St. Peter, Jersey
+  Jersey               v Isle of Man           1-2   @ St. John, Jersey
+  Alderney             v Western Isles         2-3   @ St. Peter, Jersey
+Thu Jul 2
+  Hitra                v Alderney              5-1   @ St. Ouen, Jersey
+  Gotland              v Saare County          2-3   @ St. Ouen, Jersey
+  Falkland Islands     v Western Isles         1-2   @ St. Brelade, Jersey
+  Gibraltar            v Åland Islands         0-0   @ St. Brelade, Jersey   [Åland Islands wins on penalties]
+  Jersey               v Ynys Môn              1-0   @ St. Clement, Jersey
+  Isle of Wight        v Greenland             1-2   @ St. Clement, Jersey
+  Menorca              v Guernsey              1-2   @ St Helier, Jersey
+  Shetland             v Isle of Man           1-3   @ St Helier, Jersey
+Fri Jul 3
+  Menorca              v Shetland              1-0   @ St. Peter, Jersey
+  Guernsey             v Isle of Man           3-0   @ St Helier, Jersey
 

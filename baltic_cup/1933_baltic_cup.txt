@@ -1,18 +1,18 @@
 = Baltic Cup 1933
 
-# Date       Sat Sep/2 - Mon Sep/4 1933 (2d)
+# Date       Sat Sep 2 - Mon Sep 4 1933 (2d)
 # Teams      3
 # Matches    3
 
-[Sat Sep 2]
-  Lithuania - Estonia  1-1   @ Kaunas, Lithuania
-     Jaroslavas Citavičius 55';
-     Richard Kuremaa 15'
-[Sun Sep 3]
-  Estonia - Latvia  0-1   @ Kaunas, Lithuania
-     -; Alberts Šeibelis 35'
-[Mon Sep 4]
-  Lithuania - Latvia  2-2   @ Kaunas, Lithuania
-     Zigmas Sabaliauskas 33' Antanas Lingis 55';
-     Ēriks Pētersons 52' Ēriks Pētersons 65'
+Sat Sep 2
+  Lithuania            v Estonia               1-1   @ Kaunas, Lithuania
+     (Jaroslavas Citavičius 55';
+      Richard Kuremaa 15')
+Sun Sep 3
+  Estonia              v Latvia                0-1   @ Kaunas, Lithuania
+     (Alberts Šeibelis 35')
+Mon Sep 4
+  Lithuania            v Latvia                2-2   @ Kaunas, Lithuania
+     (Zigmas Sabaliauskas 33' Antanas Lingis 55';
+      Ēriks Pētersons 52' Ēriks Pētersons 65')
 

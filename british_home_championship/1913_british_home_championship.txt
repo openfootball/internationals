@@ -1,19 +1,19 @@
 = British Home Championship 1913
 
-# Date       Sat Jan/18 - Sat Apr/5 1913 (77d)
+# Date       Sat Jan 18 - Sat Apr 5 1913 (77d)
 # Teams      4
 # Matches    6
 
-[Sat Jan 18]
-  Northern Ireland - Wales  0-1   @ Belfast, Ireland
-[Sat Feb 15]
-  Northern Ireland - England  2-1   @ Belfast, Ireland
-[Mon Mar 3]
-  Wales - Scotland  0-0   @ Wrexham, Wales
-[Sat Mar 15]
-  Northern Ireland - Scotland  1-2   @ Dublin, Ireland
-[Mon Mar 17]
-  England - Wales  4-3   @ Bristol, England
-[Sat Apr 5]
-  England - Scotland  1-0   @ London, England
+Sat Jan 18
+  Northern Ireland     v Wales                 0-1   @ Belfast, Ireland
+Sat Feb 15
+  Northern Ireland     v England               2-1   @ Belfast, Ireland
+Mon Mar 3
+  Wales                v Scotland              0-0   @ Wrexham, Wales
+Sat Mar 15
+  Northern Ireland     v Scotland              1-2   @ Dublin, Ireland
+Mon Mar 17
+  England              v Wales                 4-3   @ Bristol, England
+Sat Apr 5
+  England              v Scotland              1-0   @ London, England
 

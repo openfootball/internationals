@@ -1,80 +1,80 @@
 = Gold Cup 2011
 
-# Date       Sun Jun/5 - Sat Jun/25 2011 (20d)
+# Date       Sun Jun 5 - Sat Jun 25 2011 (20d)
 # Teams      12
 # Matches    25
 
-[Sun Jun 5]
-  Costa Rica - Cuba  5-0   @ Arlington, United States
-     Marco Ureña 7' Álvaro Saborío 41' Marco Ureña 46' Heiner Mora 47' Joel Campbell 71'
-  Mexico - El Salvador  5-0   @ Arlington, United States
-     Efraín Juárez 55' Aldo de Nigris 58' Javier Hernández 60' Javier Hernández 67' Javier Hernández 90' (pen.)
-[Mon Jun 6]
-  Honduras - Guatemala  0-0   @ Carson, United States
-  Jamaica - Grenada  4-0   @ Carson, United States
-     Luton Shelton 21' Ryan Johnson 39' Demar Phillips 79' Omar Daley 84'
-[Tue Jun 7]
-  Panama - Guadeloupe  3-2   @ Detroit, United States
-     Blas Pérez 29' Luis Tejada 31' Gabriel Enrique Gómez 57' (pen.);
-     Brice Jovial 65' Brice Jovial 78'
-  United States - Canada  2-0   @ Detroit, United States
-     Jozy Altidore 15' Clint Dempsey 62'
-[Thu Jun 9]
-  Costa Rica - El Salvador  1-1   @ Charlotte, United States
-     Randall Brenes 90';
-     Rodolfo Zelaya 45'
-  Cuba - Mexico  0-5   @ Charlotte, United States
-     -; Javier Hernández 35' Giovani dos Santos 63' Aldo de Nigris 65' Giovani dos Santos 68' Javier Hernández 76'
-[Fri Jun 10]
-  Grenada - Honduras  1-7   @ Miami, United States
-     Clive Murray 20';
-     Jerry Bengtson 26' Carlo Costly 28' Jerry Bengtson 37' Carlo Costly 67' Carlo Costly 71' Walter Julián Martínez 88' Alfredo Mejía 90'
-  Jamaica - Guatemala  2-0   @ Miami, United States
-     Demar Phillips 66' Demar Phillips 76'
-[Sat Jun 11]
-  Canada - Guadeloupe  1-0   @ Tampa, United States
-     Dwayne De Rosario 51' (pen.)
-  United States - Panama  1-2   @ Tampa, United States
-     Clarence Goodson 66';
-     Clarence Goodson 19' (o.g.) Gabriel Enrique Gómez 36' (pen.)
-[Sun Jun 12]
-  El Salvador - Cuba  6-1   @ Chicago, United States
-     Rodolfo Zelaya 13' Osael Romero 29' Léster Blanco 69' Rodolfo Zelaya 71' Arturo Álvarez 84' Eliseo Quintanilla 90';
-     Yénier Márquez 83'
-  Mexico - Costa Rica  4-1   @ Chicago, United States
-     Rafael Márquez 17' Andrés Guardado 19' Andrés Guardado 26' Pablo Barrera 38';
-     Marco Ureña 69'
-[Mon Jun 13]
-  Guatemala - Grenada  4-0   @ Harrison, United States
-     José Javier del Aguila 16' Marco Pappa 22' Carlos Ruiz 54' Carlos Eduardo Gallardo 59'
-  Honduras - Jamaica  0-1   @ Harrison, United States
-     -; Ryan Johnson 36'
-[Tue Jun 14]
-  Canada - Panama  1-1   @ Kansas City, United States
-     Dwayne De Rosario 62' (pen.);
-     Luis Tejada 90'
-  United States - Guadeloupe  1-0   @ Kansas City, United States
-     Jozy Altidore 9'
-[Sat Jun 18]
-  Costa Rica - Honduras  1-1   @ East Rutherford, United States   [Honduras wins on penalties]
-     Dennis Marshall 56';
-     Jerry Bengtson 49'
-  Mexico - Guatemala  2-1   @ East Rutherford, United States
-     Aldo de Nigris 48' Javier Hernández 66';
-     Carlos Ruiz 5'
-[Sun Jun 19]
-  Panama - El Salvador  1-1   @ Washington, D.C., United States   [Panama wins on penalties]
-     Luis Tejada 90';
-     Rodolfo Zelaya 78' (pen.)
-  United States - Jamaica  2-0   @ Washington, D.C., United States
-     Jermaine Jones 49' Clint Dempsey 80'
-[Wed Jun 22]
-  Honduras - Mexico  0-2   @ Houston, United States
-     -; Aldo de Nigris 93' Javier Hernández 99'
-  United States - Panama  1-0   @ Houston, United States
-     Clint Dempsey 76'
-[Sat Jun 25]
-  United States - Mexico  2-4   @ Pasadena, United States
-     Michael Bradley 8' Landon Donovan 23';
-     Pablo Barrera 29' Andrés Guardado 36' Pablo Barrera 50' Giovani dos Santos 76'
+Sun Jun 5
+  Costa Rica           v Cuba                  5-0   @ Arlington, United States
+     (Marco Ureña 7' Álvaro Saborío 41' Marco Ureña 46' Heiner Mora 47' Joel Campbell 71')
+  Mexico               v El Salvador           5-0   @ Arlington, United States
+     (Efraín Juárez 55' Aldo de Nigris 58' Javier Hernández 60' Javier Hernández 67' Javier Hernández 90'(p))
+Mon Jun 6
+  Honduras             v Guatemala             0-0   @ Carson, United States
+  Jamaica              v Grenada               4-0   @ Carson, United States
+     (Luton Shelton 21' Ryan Johnson 39' Demar Phillips 79' Omar Daley 84')
+Tue Jun 7
+  Panama               v Guadeloupe            3-2   @ Detroit, United States
+     (Blas Pérez 29' Luis Tejada 31' Gabriel Enrique Gómez 57'(p);
+      Brice Jovial 65' Brice Jovial 78')
+  United States        v Canada                2-0   @ Detroit, United States
+     (Jozy Altidore 15' Clint Dempsey 62')
+Thu Jun 9
+  Costa Rica           v El Salvador           1-1   @ Charlotte, United States
+     (Randall Brenes 90';
+      Rodolfo Zelaya 45')
+  Cuba                 v Mexico                0-5   @ Charlotte, United States
+     (Javier Hernández 35' Giovani dos Santos 63' Aldo de Nigris 65' Giovani dos Santos 68' Javier Hernández 76')
+Fri Jun 10
+  Grenada              v Honduras              1-7   @ Miami, United States
+     (Clive Murray 20';
+      Jerry Bengtson 26' Carlo Costly 28' Jerry Bengtson 37' Carlo Costly 67' Carlo Costly 71' Walter Julián Martínez 88' Alfredo Mejía 90')
+  Jamaica              v Guatemala             2-0   @ Miami, United States
+     (Demar Phillips 66' Demar Phillips 76')
+Sat Jun 11
+  Canada               v Guadeloupe            1-0   @ Tampa, United States
+     (Dwayne De Rosario 51'(p))
+  United States        v Panama                1-2   @ Tampa, United States
+     (Clarence Goodson 66';
+      Clarence Goodson 19'(og) Gabriel Enrique Gómez 36'(p))
+Sun Jun 12
+  El Salvador          v Cuba                  6-1   @ Chicago, United States
+     (Rodolfo Zelaya 13' Osael Romero 29' Léster Blanco 69' Rodolfo Zelaya 71' Arturo Álvarez 84' Eliseo Quintanilla 90';
+      Yénier Márquez 83')
+  Mexico               v Costa Rica            4-1   @ Chicago, United States
+     (Rafael Márquez 17' Andrés Guardado 19' Andrés Guardado 26' Pablo Barrera 38';
+      Marco Ureña 69')
+Mon Jun 13
+  Guatemala            v Grenada               4-0   @ Harrison, United States
+     (José Javier del Aguila 16' Marco Pappa 22' Carlos Ruiz 54' Carlos Eduardo Gallardo 59')
+  Honduras             v Jamaica               0-1   @ Harrison, United States
+     (Ryan Johnson 36')
+Tue Jun 14
+  Canada               v Panama                1-1   @ Kansas City, United States
+     (Dwayne De Rosario 62'(p);
+      Luis Tejada 90')
+  United States        v Guadeloupe            1-0   @ Kansas City, United States
+     (Jozy Altidore 9')
+Sat Jun 18
+  Costa Rica           v Honduras              1-1   @ East Rutherford, United States   [Honduras wins on penalties]
+     (Dennis Marshall 56';
+      Jerry Bengtson 49')
+  Mexico               v Guatemala             2-1   @ East Rutherford, United States
+     (Aldo de Nigris 48' Javier Hernández 66';
+      Carlos Ruiz 5')
+Sun Jun 19
+  Panama               v El Salvador           1-1   @ Washington, D.C., United States   [Panama wins on penalties]
+     (Luis Tejada 90';
+      Rodolfo Zelaya 78'(p))
+  United States        v Jamaica               2-0   @ Washington, D.C., United States
+     (Jermaine Jones 49' Clint Dempsey 80')
+Wed Jun 22
+  Honduras             v Mexico                0-2   @ Houston, United States
+     (Aldo de Nigris 93' Javier Hernández 99')
+  United States        v Panama                1-0   @ Houston, United States
+     (Clint Dempsey 76')
+Sat Jun 25
+  United States        v Mexico                2-4   @ Pasadena, United States
+     (Michael Bradley 8' Landon Donovan 23';
+      Pablo Barrera 29' Andrés Guardado 36' Pablo Barrera 50' Giovani dos Santos 76')
 

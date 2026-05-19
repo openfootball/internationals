@@ -1,27 +1,27 @@
 = Gulf Cup 1972
 
-# Date       Thu Mar/16 - Tue Mar/28 1972 (12d)
+# Date       Thu Mar 16 - Tue Mar 28 1972 (12d)
 # Teams      5
 # Matches    10
 
-[Thu Mar 16]
-  Saudi Arabia - Kuwait  2-2   @ Riyadh, Saudi Arabia
-[Fri Mar 17]
-  Qatar - United Arab Emirates  0-1   @ Riyadh, Saudi Arabia
-[Sat Mar 18]
-  Bahrain - Kuwait  0-2   @ Riyadh, Saudi Arabia
-[Sun Mar 19]
-  Saudi Arabia - United Arab Emirates  4-0   @ Riyadh, Saudi Arabia
-[Tue Mar 21]
-  Bahrain - Qatar  6-2   @ Riyadh, Saudi Arabia
-[Wed Mar 22]
-  Kuwait - United Arab Emirates  7-0   @ Riyadh, Saudi Arabia
-[Fri Mar 24]
-  Saudi Arabia - Qatar  4-0   @ Riyadh, Saudi Arabia
-[Sat Mar 25]
-  Bahrain - United Arab Emirates  2-0   @ Riyadh, Saudi Arabia
-[Sun Mar 26]
-  Kuwait - Qatar  5-0   @ Riyadh, Saudi Arabia
-[Tue Mar 28]
-  Saudi Arabia - Bahrain  2-1   @ Riyadh, Saudi Arabia
+Thu Mar 16
+  Saudi Arabia         v Kuwait                2-2   @ Riyadh, Saudi Arabia
+Fri Mar 17
+  Qatar                v United Arab Emirates  0-1   @ Riyadh, Saudi Arabia
+Sat Mar 18
+  Bahrain              v Kuwait                0-2   @ Riyadh, Saudi Arabia
+Sun Mar 19
+  Saudi Arabia         v United Arab Emirates  4-0   @ Riyadh, Saudi Arabia
+Tue Mar 21
+  Bahrain              v Qatar                 6-2   @ Riyadh, Saudi Arabia
+Wed Mar 22
+  Kuwait               v United Arab Emirates  7-0   @ Riyadh, Saudi Arabia
+Fri Mar 24
+  Saudi Arabia         v Qatar                 4-0   @ Riyadh, Saudi Arabia
+Sat Mar 25
+  Bahrain              v United Arab Emirates  2-0   @ Riyadh, Saudi Arabia
+Sun Mar 26
+  Kuwait               v Qatar                 5-0   @ Riyadh, Saudi Arabia
+Tue Mar 28
+  Saudi Arabia         v Bahrain               2-1   @ Riyadh, Saudi Arabia
 

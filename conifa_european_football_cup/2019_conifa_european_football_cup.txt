@@ -1,33 +1,33 @@
 = CONIFA European Football Cup 2019
 
-# Date       Sun Jun/2 - Sun Jun/9 2019 (7d)
+# Date       Sun Jun 2 - Sun Jun 9 2019 (7d)
 # Teams      8
 # Matches    20
 
-[Sun Jun 2]
-  Abkhazia - Chameria  3-1   @ Askeran, Azerbaijan
-  Artsakh - Sápmi  3-2   @ Stepanakert, Azerbaijan
-  Padania - Székely Land  4-0   @ Martakert, Azerbaijan
-  Western Armenia - South Ossetia  1-2   @ Martuni, Azerbaijan
-[Mon Jun 3]
-  Artsakh - Chameria  1-4   @ Martuni, Azerbaijan
-  Sápmi - Abkhazia  0-1   @ Martakert, Azerbaijan
-  Székely Land - Western Armenia  0-5   @ Askeran, Azerbaijan
-  South Ossetia - Padania  2-1   @ Stepanakert, Azerbaijan
-[Tue Jun 4]
-  Artsakh - Abkhazia  1-1   @ Martuni, Azerbaijan
-  Chameria - Sápmi  4-0   @ Martakert, Azerbaijan
-  South Ossetia - Székely Land  2-2   @ Askeran, Azerbaijan
-  Padania - Western Armenia  1-1   @ Stepanakert, Azerbaijan
-[Thu Jun 6]
-  Abkhazia - Western Armenia  1-1   @ Stepanakert, Azerbaijan   [Western Armenia wins on penalties]
-  South Ossetia - Chameria  0-0   @ Askeran, Azerbaijan   [South Ossetia wins on penalties]
-  Padania - Sápmi  4-0   @ Martakert, Azerbaijan
-  Artsakh - Székely Land  2-1   @ Martuni, Azerbaijan
-[Sat Jun 8]
-  Abkhazia - Chameria  0-0   @ Stepanakert, Azerbaijan   [Abkhazia wins on penalties]
-  Sápmi - Székely Land  3-2   @ Askeran, Azerbaijan
-  Artsakh - Padania  2-0   @ Stepanakert, Azerbaijan
-[Sun Jun 9]
-  Western Armenia - South Ossetia  0-1   @ Stepanakert, Azerbaijan
+Sun Jun 2
+  Abkhazia             v Chameria              3-1   @ Askeran, Azerbaijan
+  Artsakh              v Sápmi                 3-2   @ Stepanakert, Azerbaijan
+  Padania              v Székely Land          4-0   @ Martakert, Azerbaijan
+  Western Armenia      v South Ossetia         1-2   @ Martuni, Azerbaijan
+Mon Jun 3
+  Artsakh              v Chameria              1-4   @ Martuni, Azerbaijan
+  Sápmi                v Abkhazia              0-1   @ Martakert, Azerbaijan
+  Székely Land         v Western Armenia       0-5   @ Askeran, Azerbaijan
+  South Ossetia        v Padania               2-1   @ Stepanakert, Azerbaijan
+Tue Jun 4
+  Artsakh              v Abkhazia              1-1   @ Martuni, Azerbaijan
+  Chameria             v Sápmi                 4-0   @ Martakert, Azerbaijan
+  South Ossetia        v Székely Land          2-2   @ Askeran, Azerbaijan
+  Padania              v Western Armenia       1-1   @ Stepanakert, Azerbaijan
+Thu Jun 6
+  Abkhazia             v Western Armenia       1-1   @ Stepanakert, Azerbaijan   [Western Armenia wins on penalties]
+  South Ossetia        v Chameria              0-0   @ Askeran, Azerbaijan   [South Ossetia wins on penalties]
+  Padania              v Sápmi                 4-0   @ Martakert, Azerbaijan
+  Artsakh              v Székely Land          2-1   @ Martuni, Azerbaijan
+Sat Jun 8
+  Abkhazia             v Chameria              0-0   @ Stepanakert, Azerbaijan   [Abkhazia wins on penalties]
+  Sápmi                v Székely Land          3-2   @ Askeran, Azerbaijan
+  Artsakh              v Padania               2-0   @ Stepanakert, Azerbaijan
+Sun Jun 9
+  Western Armenia      v South Ossetia         0-1   @ Stepanakert, Azerbaijan
 

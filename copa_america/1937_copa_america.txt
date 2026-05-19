@@ -1,57 +1,57 @@
 = Copa América 1937
 
-# Date       Sat Jan/2 - Mon Feb/1 1937 (30d)
+# Date       Sat Jan 2 - Mon Feb 1 1937 (30d)
 # Teams      6
 # Matches    14
 
-[Sat Jan 2]
-  Paraguay - Uruguay  4-2   @ Buenos Aires, Argentina
-     Amadeo Ortega 9' Aurelio González 35' Adolfo Erico 38' (pen.) Amadeo Ortega 79';
-     Severino Varela 16' Severino Varela 28'
-[Sun Jan 3]
-  Brazil - Chile  6-4   @ Buenos Aires, Argentina
-     Patesko 2' Carvalho Leite 6' Patesko 26' Luíz Mesquita de Oliveira 35' Luíz Mesquita de Oliveira 40' Roberto Emílio da Cunha 68';
-     José Avendaño 19' Raúl Toro Julio 25' Guillermo Riveros 40' Raúl Toro Julio 73'
-[Wed Jan 6]
-  Peru - Uruguay  2-4   @ Buenos Aires, Argentina
-     Teodoro Fernández 29' Adolfo Magallanes 40';
-     Adelaido Camaití 16' Severino Varela 31' Severino Varela 56' Juan Píriz 79'
-[Sat Jan 9]
-  Argentina - Paraguay  6-1   @ Buenos Aires, Argentina
-     Alejandro Scopelli 5' Enrique García 8' Alberto Zozaya 33' Alejandro Scopelli 54' Alberto Zozaya 75' Alberto Zozaya 82';
-     Aurelio González 86'
-[Sun Jan 10]
-  Chile - Uruguay  3-0   @ Buenos Aires, Argentina
-     Raúl Toro Julio 17' Manuel Arancibia 59' Raúl Toro Julio 83'
-[Wed Jan 13]
-  Brazil - Paraguay  5-0   @ Buenos Aires, Argentina
-     Patesko 31' Luíz Mesquita de Oliveira 42' Luíz Mesquita de Oliveira 51' Carvalho Leite 59' Patesko 67'
-[Sat Jan 16]
-  Argentina - Peru  1-0   @ Buenos Aires, Argentina
-     Alberto Zozaya 55'
-[Sun Jan 17]
-  Chile - Paraguay  2-3   @ Buenos Aires, Argentina
-     Raúl Toro Julio 8' Raúl Toro Julio 32';
-     Juan Amarilla 5' Martín Flor 47' Raúl Núñez Velloso 78'
-[Tue Jan 19]
-  Brazil - Uruguay  3-2   @ Buenos Aires, Argentina
-     Carvalho Leite 36' Antônio Almeida 72' Niginho 77';
-     Segundo Villadóniga 1' Juan Píriz 66'
-[Thu Jan 21]
-  Chile - Peru  2-2   @ Buenos Aires, Argentina
-     Guillermo Torres 16' Arturo Carmona 70';
-     Jorge Alcalde 1' Jorge Alcalde 26'
-[Sat Jan 23]
-  Argentina - Uruguay  2-3   @ Buenos Aires, Argentina
-     Francisco Varallo 63' Alberto Zozaya 68';
-     Eduardo Ithurbide 5' Juan Píriz 51' Severino Varela 58'
-[Sun Jan 24]
-  Paraguay - Peru  0-1   @ Buenos Aires, Argentina
-     -; José María Lavalle 43'
-[Sat Jan 30]
-  Argentina - Brazil  1-0   @ Buenos Aires, Argentina
-     Enrique García 48'
-[Mon Feb 1]
-  Argentina - Brazil  2-0   @ Buenos Aires, Argentina
-     Vicente de la Mata 102' Vicente de la Mata 112'
+Sat Jan 2
+  Paraguay             v Uruguay               4-2   @ Buenos Aires, Argentina
+     (Amadeo Ortega 9' Aurelio González 35' Adolfo Erico 38'(p) Amadeo Ortega 79';
+      Severino Varela 16' Severino Varela 28')
+Sun Jan 3
+  Brazil               v Chile                 6-4   @ Buenos Aires, Argentina
+     (Patesko 2' Carvalho Leite 6' Patesko 26' Luíz Mesquita de Oliveira 35' Luíz Mesquita de Oliveira 40' Roberto Emílio da Cunha 68';
+      José Avendaño 19' Raúl Toro Julio 25' Guillermo Riveros 40' Raúl Toro Julio 73')
+Wed Jan 6
+  Peru                 v Uruguay               2-4   @ Buenos Aires, Argentina
+     (Teodoro Fernández 29' Adolfo Magallanes 40';
+      Adelaido Camaití 16' Severino Varela 31' Severino Varela 56' Juan Píriz 79')
+Sat Jan 9
+  Argentina            v Paraguay              6-1   @ Buenos Aires, Argentina
+     (Alejandro Scopelli 5' Enrique García 8' Alberto Zozaya 33' Alejandro Scopelli 54' Alberto Zozaya 75' Alberto Zozaya 82';
+      Aurelio González 86')
+Sun Jan 10
+  Chile                v Uruguay               3-0   @ Buenos Aires, Argentina
+     (Raúl Toro Julio 17' Manuel Arancibia 59' Raúl Toro Julio 83')
+Wed Jan 13
+  Brazil               v Paraguay              5-0   @ Buenos Aires, Argentina
+     (Patesko 31' Luíz Mesquita de Oliveira 42' Luíz Mesquita de Oliveira 51' Carvalho Leite 59' Patesko 67')
+Sat Jan 16
+  Argentina            v Peru                  1-0   @ Buenos Aires, Argentina
+     (Alberto Zozaya 55')
+Sun Jan 17
+  Chile                v Paraguay              2-3   @ Buenos Aires, Argentina
+     (Raúl Toro Julio 8' Raúl Toro Julio 32';
+      Juan Amarilla 5' Martín Flor 47' Raúl Núñez Velloso 78')
+Tue Jan 19
+  Brazil               v Uruguay               3-2   @ Buenos Aires, Argentina
+     (Carvalho Leite 36' Antônio Almeida 72' Niginho 77';
+      Segundo Villadóniga 1' Juan Píriz 66')
+Thu Jan 21
+  Chile                v Peru                  2-2   @ Buenos Aires, Argentina
+     (Guillermo Torres 16' Arturo Carmona 70';
+      Jorge Alcalde 1' Jorge Alcalde 26')
+Sat Jan 23
+  Argentina            v Uruguay               2-3   @ Buenos Aires, Argentina
+     (Francisco Varallo 63' Alberto Zozaya 68';
+      Eduardo Ithurbide 5' Juan Píriz 51' Severino Varela 58')
+Sun Jan 24
+  Paraguay             v Peru                  0-1   @ Buenos Aires, Argentina
+     (José María Lavalle 43')
+Sat Jan 30
+  Argentina            v Brazil                1-0   @ Buenos Aires, Argentina
+     (Enrique García 48')
+Mon Feb 1
+  Argentina            v Brazil                2-0   @ Buenos Aires, Argentina
+     (Vicente de la Mata 102' Vicente de la Mata 112')
 

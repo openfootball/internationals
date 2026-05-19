@@ -1,11 +1,11 @@
 = Copa Juan Pinto Durán 1971
 
-# Date       Wed Oct/27 - Wed Nov/3 1971 (7d)
+# Date       Wed Oct 27 - Wed Nov 3 1971 (7d)
 # Teams      2
 # Matches    2
 
-[Wed Oct 27]
-  Uruguay - Chile  3-0   @ Montevideo, Uruguay
-[Wed Nov 3]
-  Chile - Uruguay  5-0   @ Santiago, Chile
+Wed Oct 27
+  Uruguay              v Chile                 3-0   @ Montevideo, Uruguay
+Wed Nov 3
+  Chile                v Uruguay               5-0   @ Santiago, Chile
 

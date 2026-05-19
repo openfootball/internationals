@@ -1,30 +1,30 @@
 = Copa América 1925
 
-# Date       Sun Nov/29 - Fri Dec/25 1925 (26d)
+# Date       Sun Nov 29 - Fri Dec 25 1925 (26d)
 # Teams      3
 # Matches    6
 
-[Sun Nov 29]
-  Argentina - Paraguay  2-0   @ Buenos Aires, Argentina
-     Manuel Seoane 2' Martin Sánchez 72'
-[Sun Dec 6]
-  Brazil - Paraguay  5-2   @ Buenos Aires, Argentina
-     Anfilogino Marques 16' Arthur Friedenreich 18' Severino Da Silva 30' Severino Da Silva 52' Nilo Braga 72';
-     Gerardo Rivas 25' Gerardo Rivas 55'
-[Sun Dec 13]
-  Argentina - Brazil  4-1   @ Buenos Aires, Argentina
-     Manuel Seoane 41' Manuel Seoane 48' Alfredo Garasini 72' Manuel Seoane 74';
-     Nilo Braga 22'
-[Thu Dec 17]
-  Brazil - Paraguay  3-1   @ Buenos Aires, Argentina
-     Nilo Braga 30' Severino Da Silva 57' Severino Da Silva 61';
-     Luis Fretes 58'
-[Sun Dec 20]
-  Argentina - Paraguay  3-1   @ Buenos Aires, Argentina
-     Domingo Tarasconi 22' Manuel Seoane 32' Juan Carlos Irurieta 63';
-     Manuel Fleitas Solich 15'
-[Fri Dec 25]
-  Argentina - Brazil  2-2   @ Buenos Aires, Argentina
-     Antonio Cerroti 41' Manuel Seoane 55';
-     Arthur Friedenreich 27' Nilo Braga 30'
+Sun Nov 29
+  Argentina            v Paraguay              2-0   @ Buenos Aires, Argentina
+     (Manuel Seoane 2' Martin Sánchez 72')
+Sun Dec 6
+  Brazil               v Paraguay              5-2   @ Buenos Aires, Argentina
+     (Anfilogino Marques 16' Arthur Friedenreich 18' Severino Da Silva 30' Severino Da Silva 52' Nilo Braga 72';
+      Gerardo Rivas 25' Gerardo Rivas 55')
+Sun Dec 13
+  Argentina            v Brazil                4-1   @ Buenos Aires, Argentina
+     (Manuel Seoane 41' Manuel Seoane 48' Alfredo Garasini 72' Manuel Seoane 74';
+      Nilo Braga 22')
+Thu Dec 17
+  Brazil               v Paraguay              3-1   @ Buenos Aires, Argentina
+     (Nilo Braga 30' Severino Da Silva 57' Severino Da Silva 61';
+      Luis Fretes 58')
+Sun Dec 20
+  Argentina            v Paraguay              3-1   @ Buenos Aires, Argentina
+     (Domingo Tarasconi 22' Manuel Seoane 32' Juan Carlos Irurieta 63';
+      Manuel Fleitas Solich 15')
+Fri Dec 25
+  Argentina            v Brazil                2-2   @ Buenos Aires, Argentina
+     (Antonio Cerroti 41' Manuel Seoane 55';
+      Arthur Friedenreich 27' Nilo Braga 30')
 

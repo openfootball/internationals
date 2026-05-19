@@ -1,27 +1,27 @@
 = UDEAC Cup 1989
 
-# Date       Sat Dec/2 - Wed Dec/13 1989 (11d)
+# Date       Sat Dec 2 - Wed Dec 13 1989 (11d)
 # Teams      5
 # Matches    10
 
-[Sat Dec 2]
-  Central African Republic - Chad  1-1   @ Bangui, Central African Republic
-[Sun Dec 3]
-  Congo - Gabon  1-0   @ Bangui, Central African Republic
-[Mon Dec 4]
-  Central African Republic - Cameroon  1-2   @ Bangui, Central African Republic
-[Tue Dec 5]
-  Congo - Gabon  0-2   @ Bangui, Central African Republic
-[Wed Dec 6]
-  Chad - Cameroon  0-1   @ Bangui, Central African Republic
-[Fri Dec 8]
-  Chad - Congo  2-1   @ Bangui, Central African Republic
-[Sun Dec 10]
-  Central African Republic - Gabon  2-0   @ Bangui, Central African Republic
-[Mon Dec 11]
-  Chad - Cameroon  0-0   @ Bangui, Central African Republic   [Cameroon wins on penalties]
-[Tue Dec 12]
-  Chad - Gabon  0-2   @ Bangui, Central African Republic
-[Wed Dec 13]
-  Central African Republic - Cameroon  1-2   @ Bangui, Central African Republic
+Sat Dec 2
+  Central African Republic v Chad                  1-1   @ Bangui, Central African Republic
+Sun Dec 3
+  Congo                v Gabon                 1-0   @ Bangui, Central African Republic
+Mon Dec 4
+  Central African Republic v Cameroon              1-2   @ Bangui, Central African Republic
+Tue Dec 5
+  Congo                v Gabon                 0-2   @ Bangui, Central African Republic
+Wed Dec 6
+  Chad                 v Cameroon              0-1   @ Bangui, Central African Republic
+Fri Dec 8
+  Chad                 v Congo                 2-1   @ Bangui, Central African Republic
+Sun Dec 10
+  Central African Republic v Gabon                 2-0   @ Bangui, Central African Republic
+Mon Dec 11
+  Chad                 v Cameroon              0-0   @ Bangui, Central African Republic   [Cameroon wins on penalties]
+Tue Dec 12
+  Chad                 v Gabon                 0-2   @ Bangui, Central African Republic
+Wed Dec 13
+  Central African Republic v Cameroon              1-2   @ Bangui, Central African Republic
 

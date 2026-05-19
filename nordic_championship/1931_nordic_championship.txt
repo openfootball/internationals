@@ -1,19 +1,19 @@
 = Nordic Championship 1931
 
-# Date       Mon May/25 - Sun Oct/11 1931 (139d)
+# Date       Mon May 25 - Sun Oct 11 1931 (139d)
 # Teams      4
 # Matches    6
 
-[Mon May 25]
-  Denmark - Norway  3-1   @ Copenhagen, Denmark
-[Sun Jun 28]
-  Sweden - Denmark  3-1   @ Stockholm, Sweden
-[Fri Jul 3]
-  Sweden - Finland  8-2   @ Stockholm, Sweden
-[Sun Sep 6]
-  Finland - Norway  4-4   @ Helsinki, Finland
-[Sun Sep 27]
-  Norway - Sweden  2-1   @ Oslo, Norway
-[Sun Oct 11]
-  Denmark - Finland  2-3   @ Copenhagen, Denmark
+Mon May 25
+  Denmark              v Norway                3-1   @ Copenhagen, Denmark
+Sun Jun 28
+  Sweden               v Denmark               3-1   @ Stockholm, Sweden
+Fri Jul 3
+  Sweden               v Finland               8-2   @ Stockholm, Sweden
+Sun Sep 6
+  Finland              v Norway                4-4   @ Helsinki, Finland
+Sun Sep 27
+  Norway               v Sweden                2-1   @ Oslo, Norway
+Sun Oct 11
+  Denmark              v Finland               2-3   @ Copenhagen, Denmark
 

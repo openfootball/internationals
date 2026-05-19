@@ -1,13 +1,13 @@
 = Copa Rio Branco 1967
 
-# Date       Sun Jun/25 - Sat Jul/1 1967 (6d)
+# Date       Sun Jun 25 - Sat Jul 1 1967 (6d)
 # Teams      2
 # Matches    3
 
-[Sun Jun 25]
-  Uruguay - Brazil  0-0   @ Montevideo, Uruguay
-[Wed Jun 28]
-  Uruguay - Brazil  2-2   @ Montevideo, Uruguay
-[Sat Jul 1]
-  Uruguay - Brazil  1-1   @ Montevideo, Uruguay
+Sun Jun 25
+  Uruguay              v Brazil                0-0   @ Montevideo, Uruguay
+Wed Jun 28
+  Uruguay              v Brazil                2-2   @ Montevideo, Uruguay
+Sat Jul 1
+  Uruguay              v Brazil                1-1   @ Montevideo, Uruguay
 

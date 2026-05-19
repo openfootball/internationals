@@ -1,42 +1,42 @@
 = Gulf Cup 1986
 
-# Date       Sat Mar/22 - Mon Apr/7 1986 (16d)
+# Date       Sat Mar 22 - Mon Apr 7 1986 (16d)
 # Teams      7
 # Matches    21
 
-[Sat Mar 22]
-  Bahrain - Iraq  0-0   @ Riffa, Bahrain
-[Sun Mar 23]
-  Qatar - Oman  2-1   @ Riffa, Bahrain
-  Saudi Arabia - Kuwait  1-3   @ Riffa, Bahrain
-[Mon Mar 24]
-  United Arab Emirates - Iraq  2-2   @ Riffa, Bahrain
-[Tue Mar 25]
-  Bahrain - Saudi Arabia  2-1   @ Riffa, Bahrain
-  Kuwait - Oman  2-0   @ Riffa, Bahrain
-[Thu Mar 27]
-  Qatar - Iraq  1-1   @ Riffa, Bahrain
-[Fri Mar 28]
-  Saudi Arabia - Oman  3-1   @ Riffa, Bahrain
-  United Arab Emirates - Kuwait  0-1   @ Manama, Bahrain
-[Sat Mar 29]
-  Bahrain - Qatar  0-0   @ Riffa, Bahrain
-[Sun Mar 30]
-  Iraq - Saudi Arabia  1-2   @ Riffa, Bahrain
-  Oman - United Arab Emirates  0-1   @ Riffa, Bahrain
-[Tue Apr 1]
-  Kuwait - Qatar  2-1   @ Riffa, Bahrain
-[Wed Apr 2]
-  Bahrain - Oman  0-0   @ Riffa, Bahrain
-  Saudi Arabia - United Arab Emirates  0-2   @ Riffa, Bahrain
-[Thu Apr 3]
-  Iraq - Kuwait  1-2   @ Riffa, Bahrain
-[Sat Apr 5]
-  Bahrain - United Arab Emirates  1-3   @ Riffa, Bahrain
-  Qatar - Saudi Arabia  0-2   @ Riffa, Bahrain
-[Sun Apr 6]
-  Oman - Iraq  2-3   @ Riffa, Bahrain
-[Mon Apr 7]
-  Bahrain - Kuwait  1-1   @ Riffa, Bahrain
-  Qatar - United Arab Emirates  3-2   @ Riffa, Bahrain
+Sat Mar 22
+  Bahrain              v Iraq                  0-0   @ Riffa, Bahrain
+Sun Mar 23
+  Qatar                v Oman                  2-1   @ Riffa, Bahrain
+  Saudi Arabia         v Kuwait                1-3   @ Riffa, Bahrain
+Mon Mar 24
+  United Arab Emirates v Iraq                  2-2   @ Riffa, Bahrain
+Tue Mar 25
+  Bahrain              v Saudi Arabia          2-1   @ Riffa, Bahrain
+  Kuwait               v Oman                  2-0   @ Riffa, Bahrain
+Thu Mar 27
+  Qatar                v Iraq                  1-1   @ Riffa, Bahrain
+Fri Mar 28
+  Saudi Arabia         v Oman                  3-1   @ Riffa, Bahrain
+  United Arab Emirates v Kuwait                0-1   @ Manama, Bahrain
+Sat Mar 29
+  Bahrain              v Qatar                 0-0   @ Riffa, Bahrain
+Sun Mar 30
+  Iraq                 v Saudi Arabia          1-2   @ Riffa, Bahrain
+  Oman                 v United Arab Emirates  0-1   @ Riffa, Bahrain
+Tue Apr 1
+  Kuwait               v Qatar                 2-1   @ Riffa, Bahrain
+Wed Apr 2
+  Bahrain              v Oman                  0-0   @ Riffa, Bahrain
+  Saudi Arabia         v United Arab Emirates  0-2   @ Riffa, Bahrain
+Thu Apr 3
+  Iraq                 v Kuwait                1-2   @ Riffa, Bahrain
+Sat Apr 5
+  Bahrain              v United Arab Emirates  1-3   @ Riffa, Bahrain
+  Qatar                v Saudi Arabia          0-2   @ Riffa, Bahrain
+Sun Apr 6
+  Oman                 v Iraq                  2-3   @ Riffa, Bahrain
+Mon Apr 7
+  Bahrain              v Kuwait                1-1   @ Riffa, Bahrain
+  Qatar                v United Arab Emirates  3-2   @ Riffa, Bahrain
 

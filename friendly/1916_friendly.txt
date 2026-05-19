@@ -1,43 +1,43 @@
 = Friendly 1916
 
-# Date       Sun May/7 - Sun Nov/5 1916 (182d)
+# Date       Sun May 7 - Sun Nov 5 1916 (182d)
 # Teams      12
 # Matches    20
 
-[Sun May 7]
-  Austria - Hungary  3-1   @ Vienna, Austria
-[Sun May 21]
-  Catalonia - Basque Country  1-3   @ Barcelona, Spain
-[Mon May 22]
-  Catalonia - Basque Country  0-0   @ Barcelona, Spain
-[Sun Jun 4]
-  Denmark - Sweden  2-0   @ Copenhagen, Denmark
-  Hungary - Austria  2-1   @ Budapest, Hungary
-  Basque Country - Catalonia  5-0   @ Bilbao, Spain
-[Sun Jun 25]
-  Norway - Denmark  0-2   @ Kristiania, Norway
-[Sun Jul 2]
-  Sweden - Norway  6-0   @ Stockholm, Sweden
-[Wed Jul 12]
-  Argentina - Chile  1-0   @ Buenos Aires, Argentina
-[Fri Jul 14]
-  Uruguay - Chile  4-1   @ Montevideo, Uruguay
-[Tue Jul 18]
-  Uruguay - Brazil  0-1   @ Montevideo, Uruguay
-[Sun Aug 20]
-  Sweden - United States  2-3   @ Stockholm, Sweden
-[Sun Sep 3]
-  Norway - United States  1-1   @ Kristiania, Norway
-[Sun Oct 1]
-  Argentina - Uruguay  7-2   @ Avellaneda, Argentina
-  Hungary - Austria  2-3   @ Budapest, Hungary
-  Norway - Sweden  0-0   @ Kristiania, Norway
-[Sun Oct 8]
-  Sweden - Denmark  4-0   @ Stockholm, Sweden
-[Sun Oct 15]
-  Denmark - Norway  8-0   @ Copenhagen, Denmark
-[Sun Oct 29]
-  Uruguay - Argentina  3-1   @ Montevideo, Uruguay
-[Sun Nov 5]
-  Austria - Hungary  3-3   @ Vienna, Austria
+Sun May 7
+  Austria              v Hungary               3-1   @ Vienna, Austria
+Sun May 21
+  Catalonia            v Basque Country        1-3   @ Barcelona, Spain
+Mon May 22
+  Catalonia            v Basque Country        0-0   @ Barcelona, Spain
+Sun Jun 4
+  Denmark              v Sweden                2-0   @ Copenhagen, Denmark
+  Hungary              v Austria               2-1   @ Budapest, Hungary
+  Basque Country       v Catalonia             5-0   @ Bilbao, Spain
+Sun Jun 25
+  Norway               v Denmark               0-2   @ Kristiania, Norway
+Sun Jul 2
+  Sweden               v Norway                6-0   @ Stockholm, Sweden
+Wed Jul 12
+  Argentina            v Chile                 1-0   @ Buenos Aires, Argentina
+Fri Jul 14
+  Uruguay              v Chile                 4-1   @ Montevideo, Uruguay
+Tue Jul 18
+  Uruguay              v Brazil                0-1   @ Montevideo, Uruguay
+Sun Aug 20
+  Sweden               v United States         2-3   @ Stockholm, Sweden
+Sun Sep 3
+  Norway               v United States         1-1   @ Kristiania, Norway
+Sun Oct 1
+  Argentina            v Uruguay               7-2   @ Avellaneda, Argentina
+  Hungary              v Austria               2-3   @ Budapest, Hungary
+  Norway               v Sweden                0-0   @ Kristiania, Norway
+Sun Oct 8
+  Sweden               v Denmark               4-0   @ Stockholm, Sweden
+Sun Oct 15
+  Denmark              v Norway                8-0   @ Copenhagen, Denmark
+Sun Oct 29
+  Uruguay              v Argentina             3-1   @ Montevideo, Uruguay
+Sun Nov 5
+  Austria              v Hungary               3-3   @ Vienna, Austria
 

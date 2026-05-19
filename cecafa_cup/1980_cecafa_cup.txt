@@ -1,23 +1,23 @@
 = CECAFA Cup 1980
 
-# Date       Fri Nov/14 - Fri Nov/28 1980 (14d)
+# Date       Fri Nov 14 - Fri Nov 28 1980 (14d)
 # Teams      6
 # Matches    8
 
-[Fri Nov 14]
-  Sudan - Tanzania  0-1   @ Khartoum, Sudan
-[Sun Nov 16]
-  Malawi - Zanzibar  1-0   @ Port Sudan, Sudan
-[Mon Nov 17]
-  Somalia - Tanzania  1-1   @ Khartoum, Sudan
-[Wed Nov 19]
-  Kenya - Malawi  0-1   @ Port Sudan, Sudan
-[Thu Nov 20]
-  Sudan - Somalia  2-0   @ Khartoum, Sudan
-[Sat Nov 22]
-  Kenya - Zanzibar  1-2   @ Port Sudan, Sudan
-[Mon Nov 24]
-  Malawi - Tanzania  0-1   @ Khartoum, Sudan
-[Fri Nov 28]
-  Sudan - Tanzania  1-0   @ Khartoum, Sudan
+Fri Nov 14
+  Sudan                v Tanzania              0-1   @ Khartoum, Sudan
+Sun Nov 16
+  Malawi               v Zanzibar              1-0   @ Port Sudan, Sudan
+Mon Nov 17
+  Somalia              v Tanzania              1-1   @ Khartoum, Sudan
+Wed Nov 19
+  Kenya                v Malawi                0-1   @ Port Sudan, Sudan
+Thu Nov 20
+  Sudan                v Somalia               2-0   @ Khartoum, Sudan
+Sat Nov 22
+  Kenya                v Zanzibar              1-2   @ Port Sudan, Sudan
+Mon Nov 24
+  Malawi               v Tanzania              0-1   @ Khartoum, Sudan
+Fri Nov 28
+  Sudan                v Tanzania              1-0   @ Khartoum, Sudan
 

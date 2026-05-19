@@ -1,19 +1,19 @@
 = British Home Championship 1900
 
-# Date       Sat Feb/3 - Sat Apr/7 1900 (63d)
+# Date       Sat Feb 3 - Sat Apr 7 1900 (63d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 3]
-  Scotland - Wales  5-2   @ Aberdeen, Scotland
-[Sat Feb 24]
-  Wales - Northern Ireland  2-0   @ Llandudno, Wales
-[Sat Mar 3]
-  Northern Ireland - Scotland  0-3   @ Belfast, Ireland
-[Sat Mar 17]
-  Northern Ireland - England  0-2   @ Dublin, Ireland
-[Mon Mar 26]
-  Wales - England  1-1   @ Cardiff, Wales
-[Sat Apr 7]
-  Scotland - England  4-1   @ Glasgow, Scotland
+Sat Feb 3
+  Scotland             v Wales                 5-2   @ Aberdeen, Scotland
+Sat Feb 24
+  Wales                v Northern Ireland      2-0   @ Llandudno, Wales
+Sat Mar 3
+  Northern Ireland     v Scotland              0-3   @ Belfast, Ireland
+Sat Mar 17
+  Northern Ireland     v England               0-2   @ Dublin, Ireland
+Mon Mar 26
+  Wales                v England               1-1   @ Cardiff, Wales
+Sat Apr 7
+  Scotland             v England               4-1   @ Glasgow, Scotland
 

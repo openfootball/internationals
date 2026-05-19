@@ -1,19 +1,19 @@
 = Baltic Cup 2012
 
-# Date       Fri Jun/1 - Sun Jun/3 2012 (2d)
+# Date       Fri Jun 1 - Sun Jun 3 2012 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Jun 1]
-  Estonia - Finland  1-2   @ Tartu, Estonia
-     Andres Oper 33';
-     Njazi Kuqi 10' Njazi Kuqi 22'
-  Latvia - Lithuania  5-0   @ Võru, Estonia
-     Aleksandrs Cauņa 12' (pen.) Edgars Gauračs 17' Aleksejs Višņakovs 35' Edgars Gauračs 48' Vitālijs Smirnovs 80'
-[Sun Jun 3]
-  Estonia - Lithuania  1-0   @ Tartu, Estonia
-     Vladimir Voskoboinikov 18'
-  Finland - Latvia  1-1   @ Võru, Estonia   [Latvia wins on penalties]
-     Toni Kolehmainen 52';
-     Edgars Gauračs 54'
+Fri Jun 1
+  Estonia              v Finland               1-2   @ Tartu, Estonia
+     (Andres Oper 33';
+      Njazi Kuqi 10' Njazi Kuqi 22')
+  Latvia               v Lithuania             5-0   @ Võru, Estonia
+     (Aleksandrs Cauņa 12'(p) Edgars Gauračs 17' Aleksejs Višņakovs 35' Edgars Gauračs 48' Vitālijs Smirnovs 80')
+Sun Jun 3
+  Estonia              v Lithuania             1-0   @ Tartu, Estonia
+     (Vladimir Voskoboinikov 18')
+  Finland              v Latvia                1-1   @ Võru, Estonia   [Latvia wins on penalties]
+     (Toni Kolehmainen 52';
+      Edgars Gauračs 54')
 

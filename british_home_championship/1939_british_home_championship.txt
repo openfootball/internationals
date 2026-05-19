@@ -1,11 +1,11 @@
 = British Home Championship 1939
 
-# Date       Wed Mar/15 - Sat Apr/15 1939 (31d)
+# Date       Wed Mar 15 - Sat Apr 15 1939 (31d)
 # Teams      4
 # Matches    2
 
-[Wed Mar 15]
-  Wales - Northern Ireland  3-1   @ Wrexham, Wales
-[Sat Apr 15]
-  Scotland - England  1-2   @ Glasgow, Scotland
+Wed Mar 15
+  Wales                v Northern Ireland      3-1   @ Wrexham, Wales
+Sat Apr 15
+  Scotland             v England               1-2   @ Glasgow, Scotland
 

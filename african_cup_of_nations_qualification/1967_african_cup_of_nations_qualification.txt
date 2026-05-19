@@ -1,68 +1,68 @@
 = African Cup of Nations qualification 1967
 
-# Date       Thu Jan/26 - Wed Nov/22 1967 (300d)
+# Date       Thu Jan 26 - Wed Nov 22 1967 (300d)
 # Teams      21
 # Matches    34
 
-[Thu Jan 26]
-  Liberia - Guinea  2-2   @ Monrovia, Liberia
-[Sun Feb 5]
-  Mali - Algeria  0-3   @ Bamako, Mali
-  Tunisia - Cameroon  4-0   @ Tunis, Tunisia
-[Sun Feb 12]
-  Burkina Faso - Algeria  1-2   @ Ouagadougou, Upper Volta
-[Sun Feb 19]
-  Tunisia - Congo  1-1   @ Tunis, Tunisia
-[Sat Feb 25]
-  Guinea - Senegal  3-0   @ Conakry, Guinea
-[Sun Feb 26]
-  Cameroon - Congo  1-1   @ Yaoundé, Cameroon
-[Sun Mar 5]
-  Uganda - Kenya  2-1   @ Kampala, Uganda
-[Sun Mar 12]
-  Kenya - Uganda  3-3   @ Nairobi, Kenya
-  Algeria - Mali  1-0   @ Oran, Algeria
-  Nigeria - Ivory Coast  0-0   @ Lagos, Nigeria
-[Sat Mar 18]
-  DR Congo - Sudan  3-2   @ Kinshasa, Congo-Kinshasa
-[Sun Mar 19]
-  Senegal - Guinea  4-1   @ Dakar, Senegal
-[Fri Mar 24]
-  Egypt - Libya  3-2   @ Cairo, Egypt
-[Sun Apr 2]
-  Guinea - Liberia  3-0   @ Conakry, Guinea
-  Sudan - DR Congo  1-0   @ Khartoum, Sudan
-  Togo - Niger  1-0   @ Lomé, Togo
-[Sun Apr 9]
-  Algeria - Burkina Faso  3-1   @ Algiers, Algeria
-  Liberia - Senegal  1-1   @ Monrovia, Liberia
-[Sat Apr 15]
-  Nigeria - Togo  4-2   @ Lagos, Nigeria
-[Sun Apr 30]
-  Ivory Coast - Togo  3-0   @ Abidjan, Ivory Coast
-[Sun May 7]
-  Ivory Coast - Nigeria  2-0   @ Abidjan, Ivory Coast
-[Sun May 21]
-  Congo - Cameroon  2-1   @ Brazzaville, Congo
-[Sun Jun 4]
-  Uganda - Egypt  0-1   @ Kampala, Uganda
-[Sun Jul 2]
-  Senegal - Liberia  4-1   @ Dakar, Senegal
-[Wed Aug 2]
-  Tanzania - Mauritius  1-0   @ Dar es Salaam, Tanzania
-[Sun Aug 13]
-  DR Congo - Sudan  2-1   @ Kampala, Uganda
-[Wed Aug 16]
-  Mauritius - Tanzania  1-1   @ Curepipe, Mauritius
-  Togo - Ivory Coast  0-2   @ Lomé, Togo
-[Sun Sep 17]
-  DR Congo - Tanzania  1-0   @ Kinshasa, Congo-Kinshasa
-[Wed Sep 27]
-  Mali - Burkina Faso  4-0   @ Bamako, Mali
-[Sat Oct 14]
-  Tanzania - DR Congo  0-1   @ Dar es Salaam, Tanzania
-[Wed Nov 15]
-  Burkina Faso - Mali  0-1   @ Ouagadougou, Upper Volta
-[Wed Nov 22]
-  Senegal - Guinea  2-1   @ Dakar, Senegal
+Thu Jan 26
+  Liberia              v Guinea                2-2   @ Monrovia, Liberia
+Sun Feb 5
+  Mali                 v Algeria               0-3   @ Bamako, Mali
+  Tunisia              v Cameroon              4-0   @ Tunis, Tunisia
+Sun Feb 12
+  Burkina Faso         v Algeria               1-2   @ Ouagadougou, Upper Volta
+Sun Feb 19
+  Tunisia              v Congo                 1-1   @ Tunis, Tunisia
+Sat Feb 25
+  Guinea               v Senegal               3-0   @ Conakry, Guinea
+Sun Feb 26
+  Cameroon             v Congo                 1-1   @ Yaoundé, Cameroon
+Sun Mar 5
+  Uganda               v Kenya                 2-1   @ Kampala, Uganda
+Sun Mar 12
+  Kenya                v Uganda                3-3   @ Nairobi, Kenya
+  Algeria              v Mali                  1-0   @ Oran, Algeria
+  Nigeria              v Ivory Coast           0-0   @ Lagos, Nigeria
+Sat Mar 18
+  DR Congo             v Sudan                 3-2   @ Kinshasa, Congo-Kinshasa
+Sun Mar 19
+  Senegal              v Guinea                4-1   @ Dakar, Senegal
+Fri Mar 24
+  Egypt                v Libya                 3-2   @ Cairo, Egypt
+Sun Apr 2
+  Guinea               v Liberia               3-0   @ Conakry, Guinea
+  Sudan                v DR Congo              1-0   @ Khartoum, Sudan
+  Togo                 v Niger                 1-0   @ Lomé, Togo
+Sun Apr 9
+  Algeria              v Burkina Faso          3-1   @ Algiers, Algeria
+  Liberia              v Senegal               1-1   @ Monrovia, Liberia
+Sat Apr 15
+  Nigeria              v Togo                  4-2   @ Lagos, Nigeria
+Sun Apr 30
+  Ivory Coast          v Togo                  3-0   @ Abidjan, Ivory Coast
+Sun May 7
+  Ivory Coast          v Nigeria               2-0   @ Abidjan, Ivory Coast
+Sun May 21
+  Congo                v Cameroon              2-1   @ Brazzaville, Congo
+Sun Jun 4
+  Uganda               v Egypt                 0-1   @ Kampala, Uganda
+Sun Jul 2
+  Senegal              v Liberia               4-1   @ Dakar, Senegal
+Wed Aug 2
+  Tanzania             v Mauritius             1-0   @ Dar es Salaam, Tanzania
+Sun Aug 13
+  DR Congo             v Sudan                 2-1   @ Kampala, Uganda
+Wed Aug 16
+  Mauritius            v Tanzania              1-1   @ Curepipe, Mauritius
+  Togo                 v Ivory Coast           0-2   @ Lomé, Togo
+Sun Sep 17
+  DR Congo             v Tanzania              1-0   @ Kinshasa, Congo-Kinshasa
+Wed Sep 27
+  Mali                 v Burkina Faso          4-0   @ Bamako, Mali
+Sat Oct 14
+  Tanzania             v DR Congo              0-1   @ Dar es Salaam, Tanzania
+Wed Nov 15
+  Burkina Faso         v Mali                  0-1   @ Ouagadougou, Upper Volta
+Wed Nov 22
+  Senegal              v Guinea                2-1   @ Dakar, Senegal
 

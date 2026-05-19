@@ -1,31 +1,31 @@
 = CFU Caribbean Cup 2008
 
-# Date       Wed Dec/3 - Sun Dec/14 2008 (11d)
+# Date       Wed Dec 3 - Sun Dec 14 2008 (11d)
 # Teams      8
 # Matches    16
 
-[Wed Dec 3]
-  Jamaica - Barbados  2-1   @ Kingston, Jamaica
-  Trinidad and Tobago - Grenada  1-2   @ Kingston, Jamaica
-[Thu Dec 4]
-  Guadeloupe - Cuba  1-2   @ Montego Bay, Jamaica
-  Haiti - Antigua and Barbuda  1-1   @ Montego Bay, Jamaica
-[Fri Dec 5]
-  Barbados - Trinidad and Tobago  1-2   @ Montego Bay, Jamaica
-  Jamaica - Grenada  4-0   @ Montego Bay, Jamaica
-[Sat Dec 6]
-  Cuba - Antigua and Barbuda  3-0   @ Falmouth, Jamaica
-  Haiti - Guadeloupe  2-3   @ Falmouth, Jamaica
-[Sun Dec 7]
-  Grenada - Barbados  4-2   @ Falmouth, Jamaica
-  Jamaica - Trinidad and Tobago  1-1   @ Falmouth, Jamaica
-[Mon Dec 8]
-  Antigua and Barbuda - Guadeloupe  2-2   @ Montego Bay, Jamaica
-  Cuba - Haiti  0-1   @ Montego Bay, Jamaica
-[Thu Dec 11]
-  Cuba - Grenada  2-2   @ Kingston, Jamaica
-  Jamaica - Guadeloupe  2-0   @ Kingston, Jamaica
-[Sun Dec 14]
-  Cuba - Guadeloupe  0-0   @ Kingston, Jamaica
-  Jamaica - Grenada  2-0   @ Kingston, Jamaica
+Wed Dec 3
+  Jamaica              v Barbados              2-1   @ Kingston, Jamaica
+  Trinidad and Tobago  v Grenada               1-2   @ Kingston, Jamaica
+Thu Dec 4
+  Guadeloupe           v Cuba                  1-2   @ Montego Bay, Jamaica
+  Haiti                v Antigua and Barbuda   1-1   @ Montego Bay, Jamaica
+Fri Dec 5
+  Barbados             v Trinidad and Tobago   1-2   @ Montego Bay, Jamaica
+  Jamaica              v Grenada               4-0   @ Montego Bay, Jamaica
+Sat Dec 6
+  Cuba                 v Antigua and Barbuda   3-0   @ Falmouth, Jamaica
+  Haiti                v Guadeloupe            2-3   @ Falmouth, Jamaica
+Sun Dec 7
+  Grenada              v Barbados              4-2   @ Falmouth, Jamaica
+  Jamaica              v Trinidad and Tobago   1-1   @ Falmouth, Jamaica
+Mon Dec 8
+  Antigua and Barbuda  v Guadeloupe            2-2   @ Montego Bay, Jamaica
+  Cuba                 v Haiti                 0-1   @ Montego Bay, Jamaica
+Thu Dec 11
+  Cuba                 v Grenada               2-2   @ Kingston, Jamaica
+  Jamaica              v Guadeloupe            2-0   @ Kingston, Jamaica
+Sun Dec 14
+  Cuba                 v Guadeloupe            0-0   @ Kingston, Jamaica
+  Jamaica              v Grenada               2-0   @ Kingston, Jamaica
 

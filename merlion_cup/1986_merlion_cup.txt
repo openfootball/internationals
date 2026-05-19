@@ -1,25 +1,25 @@
 = Merlion Cup 1986
 
-# Date       Sun Aug/24 - Sat Sep/6 1986 (13d)
+# Date       Sun Aug 24 - Sat Sep 6 1986 (13d)
 # Teams      4
 # Matches    10
 
-[Sun Aug 24]
-  China PR - North Korea  0-0   @ Kallang, Singapore
-  Singapore - Canada  0-1   @ Kallang, Singapore
-[Wed Aug 27]
-  Canada - North Korea  0-0   @ Kallang, Singapore
-[Sat Aug 30]
-  Singapore - North Korea  0-2   @ Kallang, Singapore
-[Sun Aug 31]
-  China PR - Canada  1-0   @ Kallang, Singapore
-[Mon Sep 1]
-  Singapore - China PR  0-3   @ Kallang, Singapore
-[Wed Sep 3]
-  Singapore - China PR  1-2   @ Kallang, Singapore
-[Thu Sep 4]
-  Canada - North Korea  0-2   @ Kallang, Singapore
-[Sat Sep 6]
-  China PR - North Korea  2-1   @ Kallang, Singapore
-  Singapore - Canada  0-1   @ Kallang, Singapore
+Sun Aug 24
+  China PR             v North Korea           0-0   @ Kallang, Singapore
+  Singapore            v Canada                0-1   @ Kallang, Singapore
+Wed Aug 27
+  Canada               v North Korea           0-0   @ Kallang, Singapore
+Sat Aug 30
+  Singapore            v North Korea           0-2   @ Kallang, Singapore
+Sun Aug 31
+  China PR             v Canada                1-0   @ Kallang, Singapore
+Mon Sep 1
+  Singapore            v China PR              0-3   @ Kallang, Singapore
+Wed Sep 3
+  Singapore            v China PR              1-2   @ Kallang, Singapore
+Thu Sep 4
+  Canada               v North Korea           0-2   @ Kallang, Singapore
+Sat Sep 6
+  China PR             v North Korea           2-1   @ Kallang, Singapore
+  Singapore            v Canada                0-1   @ Kallang, Singapore
 

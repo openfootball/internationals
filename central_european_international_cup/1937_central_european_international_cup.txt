@@ -1,26 +1,26 @@
 = Central European International Cup 1937
 
-# Date       Sun Feb/21 - Sun Nov/14 1937 (266d)
+# Date       Sun Feb 21 - Sun Nov 14 1937 (266d)
 # Teams      5
 # Matches    10
 
-[Sun Feb 21]
-  Czechoslovakia - Switzerland  5-3   @ Prague, Czechoslovakia
-[Sun Apr 11]
-  Switzerland - Hungary  1-5   @ Basel, Switzerland
-[Sun Apr 25]
-  Italy - Hungary  2-0   @ Turin, Italy
-[Sun May 23]
-  Czechoslovakia - Italy  0-1   @ Prague, Czechoslovakia
-[Sun Sep 19]
-  Austria - Switzerland  4-3   @ Vienna, Austria
-  Hungary - Czechoslovakia  8-3   @ Budapest, Hungary
-[Sun Oct 10]
-  Austria - Hungary  1-2   @ Vienna, Austria
-[Sun Oct 24]
-  Czechoslovakia - Austria  2-1   @ Prague, Czechoslovakia
-[Sun Oct 31]
-  Switzerland - Italy  2-2   @ Geneva, Switzerland
-[Sun Nov 14]
-  Hungary - Switzerland  2-0   @ Budapest, Hungary
+Sun Feb 21
+  Czechoslovakia       v Switzerland           5-3   @ Prague, Czechoslovakia
+Sun Apr 11
+  Switzerland          v Hungary               1-5   @ Basel, Switzerland
+Sun Apr 25
+  Italy                v Hungary               2-0   @ Turin, Italy
+Sun May 23
+  Czechoslovakia       v Italy                 0-1   @ Prague, Czechoslovakia
+Sun Sep 19
+  Austria              v Switzerland           4-3   @ Vienna, Austria
+  Hungary              v Czechoslovakia        8-3   @ Budapest, Hungary
+Sun Oct 10
+  Austria              v Hungary               1-2   @ Vienna, Austria
+Sun Oct 24
+  Czechoslovakia       v Austria               2-1   @ Prague, Czechoslovakia
+Sun Oct 31
+  Switzerland          v Italy                 2-2   @ Geneva, Switzerland
+Sun Nov 14
+  Hungary              v Switzerland           2-0   @ Budapest, Hungary
 

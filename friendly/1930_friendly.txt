@@ -1,107 +1,107 @@
 = Friendly 1930
 
-# Date       Wed Jan/1 - Sun Dec/7 1930 (340d)
+# Date       Wed Jan 1 - Sun Dec 7 1930 (340d)
 # Teams      36
 # Matches    58
 
-[Wed Jan 1]
-  Spain - Czechoslovakia  1-0   @ Barcelona, Spain
-[Sun Jan 12]
-  Portugal - Czechoslovakia  1-0   @ Lisbon, Portugal
-[Sun Feb 9]
-  Italy - Switzerland  4-2   @ Rome, Italy
-[Sun Feb 16]
-  Kenya - Uganda  0-0   @ Nairobi, Kenya
-[Sun Feb 23]
-  Portugal - France  2-0   @ Porto, Portugal
-[Sun Mar 2]
-  Germany - Italy  0-2   @ Frankfurt am Main, Germany
-[Sun Mar 23]
-  Czechoslovakia - Austria  2-2   @ Prague, Czechoslovakia
-  France - Switzerland  3-3   @ Colombes, France
-[Sun Apr 6]
-  Netherlands - Italy  1-1   @ Amsterdam, Netherlands
-[Sun Apr 13]
-  France - Belgium  1-6   @ Colombes, France
-  Switzerland - Hungary  2-2   @ Basel, Switzerland
-  Yugoslavia - Bulgaria  6-1   @ Belgrade, Yugoslavia
-[Sun Apr 20]
-  Curaçao - Aruba  2-1   @ Willemstad, Curaçao
-[Thu May 1]
-  Czechoslovakia - Hungary  1-1   @ Prague, Czechoslovakia
-  Uganda - Kenya  5-0   @ Kampala, Uganda
-[Sun May 4]
-  Netherlands - Belgium  2-2   @ Amsterdam, Netherlands
-  Switzerland - Germany  0-5   @ Zürich, Switzerland
-  Yugoslavia - Romania  2-1   @ Belgrade, Yugoslavia
-[Sat May 10]
-  Germany - England  3-3   @ Berlin, Germany
-[Sun May 11]
-  Belgium - Republic of Ireland  1-3   @ Brussels, Belgium
-  France - Czechoslovakia  2-3   @ Colombes, France
-[Wed May 14]
-  Austria - England  0-0   @ Vienna, Austria
-[Sun May 18]
-  Belgium - Netherlands  3-1   @ Antwerp, Belgium
-  France - Scotland  0-2   @ Colombes, France
-[Sun May 25]
-  Belgium - France  1-2   @ Liège, Belgium
-[Thu May 29]
-  Japan - China PR  3-3   @ Tokyo, Japan
-[Sun Jun 1]
-  Hungary - Austria  2-1   @ Budapest, Hungary
-[Sun Jun 8]
-  Belgium - Portugal  2-1   @ Antwerp, Belgium
-  Hungary - Netherlands  6-2   @ Budapest, Hungary
-  Catalonia - Basque Country  0-1   @ Barcelona, Spain
-[Sat Jun 14]
-  Czechoslovakia - Spain  2-0   @ Prague, Czechoslovakia
-[Sun Jun 15]
-  Bulgaria - Yugoslavia  2-2   @ Sofia, Bulgaria
-  Sweden - Switzerland  1-0   @ Stockholm, Sweden
-[Thu Jun 19]
-  Norway - Switzerland  3-0   @ Oslo, Norway
-[Sun Jun 22]
-  Italy - Spain  2-3   @ Bologna, Italy
-[Fri Jun 27]
-  Estonia - Latvia  1-1   @ Tallinn, Estonia
-[Fri Jul 18]
-  Estonia - Sweden  1-5   @ Tallinn, Estonia
-[Tue Jul 22]
-  Latvia - Sweden  0-5   @ Riga, Latvia
-[Fri Aug 1]
-  Brazil - France  3-2   @ Rio de Janeiro, Brazil
-[Sun Aug 3]
-  Argentina - Yugoslavia  3-1   @ Buenos Aires, Argentina
-[Mon Aug 4]
-  Latvia - Finland  3-0   @ Riga, Latvia
-[Wed Aug 6]
-  Estonia - Finland  4-0   @ Tallinn, Estonia
-[Sun Aug 10]
-  Brazil - Yugoslavia  4-1   @ Rio de Janeiro, Brazil
-[Sun Aug 17]
-  Brazil - United States  4-3   @ Rio de Janeiro, Brazil
-[Sun Sep 7]
-  Denmark - Germany  6-3   @ Copenhagen, Denmark
-[Sat Sep 13]
-  Lithuania - Estonia  4-0   @ Klaipėda, Lithuania
-[Sun Sep 21]
-  Austria - Hungary  2-3   @ Vienna, Austria
-  Belgium - Czechoslovakia  2-3   @ Antwerp, Belgium
-[Sun Sep 28]
-  Belgium - Sweden  2-2   @ Liège, Belgium
-  Germany - Hungary  5-3   @ Dresden, Germany
-  Sweden - Poland  0-3   @ Stockholm, Sweden
-[Sun Oct 26]
-  Hungary - Czechoslovakia  1-1   @ Budapest, Hungary
-  Poland - Latvia  6-0   @ Warsaw, Poland
-[Sun Nov 2]
-  Germany - Norway  1-1   @ Breslau, Germany
-  Switzerland - Netherlands  6-3   @ Zürich, Switzerland
-[Sun Nov 16]
-  Austria - Sweden  4-1   @ Vienna, Austria
-[Sun Nov 30]
-  Portugal - Spain  0-1   @ Porto, Portugal
-[Sun Dec 7]
-  France - Belgium  2-2   @ Montrouge, France
+Wed Jan 1
+  Spain                v Czechoslovakia        1-0   @ Barcelona, Spain
+Sun Jan 12
+  Portugal             v Czechoslovakia        1-0   @ Lisbon, Portugal
+Sun Feb 9
+  Italy                v Switzerland           4-2   @ Rome, Italy
+Sun Feb 16
+  Kenya                v Uganda                0-0   @ Nairobi, Kenya
+Sun Feb 23
+  Portugal             v France                2-0   @ Porto, Portugal
+Sun Mar 2
+  Germany              v Italy                 0-2   @ Frankfurt am Main, Germany
+Sun Mar 23
+  Czechoslovakia       v Austria               2-2   @ Prague, Czechoslovakia
+  France               v Switzerland           3-3   @ Colombes, France
+Sun Apr 6
+  Netherlands          v Italy                 1-1   @ Amsterdam, Netherlands
+Sun Apr 13
+  France               v Belgium               1-6   @ Colombes, France
+  Switzerland          v Hungary               2-2   @ Basel, Switzerland
+  Yugoslavia           v Bulgaria              6-1   @ Belgrade, Yugoslavia
+Sun Apr 20
+  Curaçao              v Aruba                 2-1   @ Willemstad, Curaçao
+Thu May 1
+  Czechoslovakia       v Hungary               1-1   @ Prague, Czechoslovakia
+  Uganda               v Kenya                 5-0   @ Kampala, Uganda
+Sun May 4
+  Netherlands          v Belgium               2-2   @ Amsterdam, Netherlands
+  Switzerland          v Germany               0-5   @ Zürich, Switzerland
+  Yugoslavia           v Romania               2-1   @ Belgrade, Yugoslavia
+Sat May 10
+  Germany              v England               3-3   @ Berlin, Germany
+Sun May 11
+  Belgium              v Republic of Ireland   1-3   @ Brussels, Belgium
+  France               v Czechoslovakia        2-3   @ Colombes, France
+Wed May 14
+  Austria              v England               0-0   @ Vienna, Austria
+Sun May 18
+  Belgium              v Netherlands           3-1   @ Antwerp, Belgium
+  France               v Scotland              0-2   @ Colombes, France
+Sun May 25
+  Belgium              v France                1-2   @ Liège, Belgium
+Thu May 29
+  Japan                v China PR              3-3   @ Tokyo, Japan
+Sun Jun 1
+  Hungary              v Austria               2-1   @ Budapest, Hungary
+Sun Jun 8
+  Belgium              v Portugal              2-1   @ Antwerp, Belgium
+  Hungary              v Netherlands           6-2   @ Budapest, Hungary
+  Catalonia            v Basque Country        0-1   @ Barcelona, Spain
+Sat Jun 14
+  Czechoslovakia       v Spain                 2-0   @ Prague, Czechoslovakia
+Sun Jun 15
+  Bulgaria             v Yugoslavia            2-2   @ Sofia, Bulgaria
+  Sweden               v Switzerland           1-0   @ Stockholm, Sweden
+Thu Jun 19
+  Norway               v Switzerland           3-0   @ Oslo, Norway
+Sun Jun 22
+  Italy                v Spain                 2-3   @ Bologna, Italy
+Fri Jun 27
+  Estonia              v Latvia                1-1   @ Tallinn, Estonia
+Fri Jul 18
+  Estonia              v Sweden                1-5   @ Tallinn, Estonia
+Tue Jul 22
+  Latvia               v Sweden                0-5   @ Riga, Latvia
+Fri Aug 1
+  Brazil               v France                3-2   @ Rio de Janeiro, Brazil
+Sun Aug 3
+  Argentina            v Yugoslavia            3-1   @ Buenos Aires, Argentina
+Mon Aug 4
+  Latvia               v Finland               3-0   @ Riga, Latvia
+Wed Aug 6
+  Estonia              v Finland               4-0   @ Tallinn, Estonia
+Sun Aug 10
+  Brazil               v Yugoslavia            4-1   @ Rio de Janeiro, Brazil
+Sun Aug 17
+  Brazil               v United States         4-3   @ Rio de Janeiro, Brazil
+Sun Sep 7
+  Denmark              v Germany               6-3   @ Copenhagen, Denmark
+Sat Sep 13
+  Lithuania            v Estonia               4-0   @ Klaipėda, Lithuania
+Sun Sep 21
+  Austria              v Hungary               2-3   @ Vienna, Austria
+  Belgium              v Czechoslovakia        2-3   @ Antwerp, Belgium
+Sun Sep 28
+  Belgium              v Sweden                2-2   @ Liège, Belgium
+  Germany              v Hungary               5-3   @ Dresden, Germany
+  Sweden               v Poland                0-3   @ Stockholm, Sweden
+Sun Oct 26
+  Hungary              v Czechoslovakia        1-1   @ Budapest, Hungary
+  Poland               v Latvia                6-0   @ Warsaw, Poland
+Sun Nov 2
+  Germany              v Norway                1-1   @ Breslau, Germany
+  Switzerland          v Netherlands           6-3   @ Zürich, Switzerland
+Sun Nov 16
+  Austria              v Sweden                4-1   @ Vienna, Austria
+Sun Nov 30
+  Portugal             v Spain                 0-1   @ Porto, Portugal
+Sun Dec 7
+  France               v Belgium               2-2   @ Montrouge, France
 

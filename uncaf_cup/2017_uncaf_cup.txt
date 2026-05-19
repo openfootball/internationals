@@ -1,20 +1,20 @@
 = UNCAF Cup 2017
 
-# Date       Fri Jan/13 - Sun Jan/22 2017 (9d)
+# Date       Fri Jan 13 - Sun Jan 22 2017 (9d)
 # Teams      6
 # Matches    8
 
-[Fri Jan 13]
-  Honduras - Nicaragua  2-1   @ Panama City, Panama
-[Sun Jan 15]
-  Belize - Costa Rica  0-3   @ Panama City, Panama
-  El Salvador - Honduras  1-2   @ Panama City, Panama
-[Tue Jan 17]
-  El Salvador - Belize  3-1   @ Panama City, Panama
-[Fri Jan 20]
-  Nicaragua - Belize  3-1   @ Panama City, Panama
-[Sun Jan 22]
-  Belize - Honduras  0-1   @ Panama City, Panama
-  El Salvador - Nicaragua  1-0   @ Panama City, Panama
-  Panama - Costa Rica  1-0   @ Panama City, Panama
+Fri Jan 13
+  Honduras             v Nicaragua             2-1   @ Panama City, Panama
+Sun Jan 15
+  Belize               v Costa Rica            0-3   @ Panama City, Panama
+  El Salvador          v Honduras              1-2   @ Panama City, Panama
+Tue Jan 17
+  El Salvador          v Belize                3-1   @ Panama City, Panama
+Fri Jan 20
+  Nicaragua            v Belize                3-1   @ Panama City, Panama
+Sun Jan 22
+  Belize               v Honduras              0-1   @ Panama City, Panama
+  El Salvador          v Nicaragua             1-0   @ Panama City, Panama
+  Panama               v Costa Rica            1-0   @ Panama City, Panama
 

@@ -1,13 +1,13 @@
 = Marlboro Cup 1989
 
-# Date       Sun Jun/4 - Sun Aug/13 1989 (70d)
+# Date       Sun Jun 4 - Sun Aug 13 1989 (70d)
 # Teams      4
 # Matches    3
 
-[Sun Jun 4]
-  United States - Peru  3-0   @ East Rutherford, United States
-[Thu Aug 10]
-  Mexico - South Korea  4-2   @ Los Angeles, United States
-[Sun Aug 13]
-  United States - South Korea  1-2   @ Los Angeles, United States
+Sun Jun 4
+  United States        v Peru                  3-0   @ East Rutherford, United States
+Thu Aug 10
+  Mexico               v South Korea           4-2   @ Los Angeles, United States
+Sun Aug 13
+  United States        v South Korea           1-2   @ Los Angeles, United States
 

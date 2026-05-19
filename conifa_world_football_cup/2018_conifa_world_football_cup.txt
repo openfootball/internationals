@@ -1,58 +1,58 @@
 = CONIFA World Football Cup 2018
 
-# Date       Thu May/31 - Sat Jun/9 2018 (9d)
+# Date       Thu May 31 - Sat Jun 9 2018 (9d)
 # Teams      16
 # Matches    45
 
-[Thu May 31]
-  Ellan Vannin - Cascadia  4-1   @ Sutton, England
-  Barawa - Tamil Eelam  4-0   @ Bromley, England
-  Abkhazia - Tibet  3-0   @ Enfield, England
-  Northern Cyprus - Kárpátalja  1-1   @ Enfield, England
-  Székely Land - Tuvalu  4-0   @ Haringey, England
-  Padania - Matabeleland  6-1   @ Sutton, England
-  United Koreans in Japan - Western Armenia  0-0   @ Carshalton, England
-  Panjab - Kabylia  8-0   @ Slough, England
-[Sat Jun 2]
-  Ellan Vannin - Tamil Eelam  2-0   @ Carshalton, England
-  Barawa - Cascadia  1-2   @ Carshalton, England
-  Abkhazia - Kárpátalja  0-2   @ Enfield, England
-  Northern Cyprus - Tibet  3-1   @ Enfield, England
-  Székely Land - Matabeleland  5-0   @ Haringey, England
-  Padania - Tuvalu  8-0   @ Haringey, England
-  United Koreans in Japan - Kabylia  0-0   @ Bracknell, England
-  Panjab - Western Armenia  0-1   @ Slough, England
-[Sun Jun 3]
-  Tamil Eelam - Cascadia  0-6   @ Haringey, England
-  Barawa - Ellan Vannin  2-0   @ Rotherhithe, England
-  Abkhazia - Northern Cyprus  2-2   @ Enfield, England
-  Kárpátalja - Tibet  5-1   @ Bracknell, England
-  Padania - Székely Land  3-1   @ Bedfont, England
-  Tuvalu - Matabeleland  1-3   @ Haringey, England
-  Panjab - United Koreans in Japan  1-1   @ Slough, England
-  Western Armenia - Kabylia  4-0   @ Enfield, England
-[Tue Jun 5]
-  Matabeleland - Kabylia  0-0   @ Enfield, England   [Kabylia wins on penalties]
-  Abkhazia - Tamil Eelam  6-0   @ Aveley, England
-  United Koreans in Japan - Tuvalu  5-0   @ Bracknell, England
-  Barawa - Northern Cyprus  0-8   @ Sutton, England
-  Padania - Panjab  2-0   @ Bracknell, England
-  Kárpátalja - Cascadia  3-1   @ Sutton, England
-  Western Armenia - Székely Land  0-4   @ Bromley, England
-[Thu Jun 7]
-  Tamil Eelam - Tuvalu  4-3   @ Sutton, England
-  Tibet - Kabylia  1-8   @ Enfield, England
-  Abkhazia - United Koreans in Japan  2-0   @ Bromley, England
-  Barawa - Panjab  0-5   @ Sutton, England
-  Cascadia - Western Armenia  4-0   @ Bromley, England
-  Northern Cyprus - Padania  3-2   @ Carshalton, England
-  Kárpátalja - Székely Land  4-2   @ Carshalton, England
-[Sat Jun 9]
-  Matabeleland - Tamil Eelam  1-0   @ Aveley, England
-  Tibet - United Koreans in Japan  1-1   @ Rotherhithe, England   [United Koreans in Japan wins on penalties]
-  Kabylia - Abkhazia  0-2   @ Aveley, England
-  Barawa - Western Armenia  0-7   @ Haringey, England
-  Panjab - Cascadia  3-3   @ Rotherhithe, England   [Panjab wins on penalties]
-  Padania - Székely Land  0-0   @ Enfield, England   [Padania wins on penalties]
-  Northern Cyprus - Kárpátalja  0-0   @ Enfield, England   [Kárpátalja wins on penalties]
+Thu May 31
+  Ellan Vannin         v Cascadia              4-1   @ Sutton, England
+  Barawa               v Tamil Eelam           4-0   @ Bromley, England
+  Abkhazia             v Tibet                 3-0   @ Enfield, England
+  Northern Cyprus      v Kárpátalja            1-1   @ Enfield, England
+  Székely Land         v Tuvalu                4-0   @ Haringey, England
+  Padania              v Matabeleland          6-1   @ Sutton, England
+  United Koreans in Japan v Western Armenia       0-0   @ Carshalton, England
+  Panjab               v Kabylia               8-0   @ Slough, England
+Sat Jun 2
+  Ellan Vannin         v Tamil Eelam           2-0   @ Carshalton, England
+  Barawa               v Cascadia              1-2   @ Carshalton, England
+  Abkhazia             v Kárpátalja            0-2   @ Enfield, England
+  Northern Cyprus      v Tibet                 3-1   @ Enfield, England
+  Székely Land         v Matabeleland          5-0   @ Haringey, England
+  Padania              v Tuvalu                8-0   @ Haringey, England
+  United Koreans in Japan v Kabylia               0-0   @ Bracknell, England
+  Panjab               v Western Armenia       0-1   @ Slough, England
+Sun Jun 3
+  Tamil Eelam          v Cascadia              0-6   @ Haringey, England
+  Barawa               v Ellan Vannin          2-0   @ Rotherhithe, England
+  Abkhazia             v Northern Cyprus       2-2   @ Enfield, England
+  Kárpátalja           v Tibet                 5-1   @ Bracknell, England
+  Padania              v Székely Land          3-1   @ Bedfont, England
+  Tuvalu               v Matabeleland          1-3   @ Haringey, England
+  Panjab               v United Koreans in Japan  1-1   @ Slough, England
+  Western Armenia      v Kabylia               4-0   @ Enfield, England
+Tue Jun 5
+  Matabeleland         v Kabylia               0-0   @ Enfield, England   [Kabylia wins on penalties]
+  Abkhazia             v Tamil Eelam           6-0   @ Aveley, England
+  United Koreans in Japan v Tuvalu                5-0   @ Bracknell, England
+  Barawa               v Northern Cyprus       0-8   @ Sutton, England
+  Padania              v Panjab                2-0   @ Bracknell, England
+  Kárpátalja           v Cascadia              3-1   @ Sutton, England
+  Western Armenia      v Székely Land          0-4   @ Bromley, England
+Thu Jun 7
+  Tamil Eelam          v Tuvalu                4-3   @ Sutton, England
+  Tibet                v Kabylia               1-8   @ Enfield, England
+  Abkhazia             v United Koreans in Japan  2-0   @ Bromley, England
+  Barawa               v Panjab                0-5   @ Sutton, England
+  Cascadia             v Western Armenia       4-0   @ Bromley, England
+  Northern Cyprus      v Padania               3-2   @ Carshalton, England
+  Kárpátalja           v Székely Land          4-2   @ Carshalton, England
+Sat Jun 9
+  Matabeleland         v Tamil Eelam           1-0   @ Aveley, England
+  Tibet                v United Koreans in Japan  1-1   @ Rotherhithe, England   [United Koreans in Japan wins on penalties]
+  Kabylia              v Abkhazia              0-2   @ Aveley, England
+  Barawa               v Western Armenia       0-7   @ Haringey, England
+  Panjab               v Cascadia              3-3   @ Rotherhithe, England   [Panjab wins on penalties]
+  Padania              v Székely Land          0-0   @ Enfield, England   [Padania wins on penalties]
+  Northern Cyprus      v Kárpátalja            0-0   @ Enfield, England   [Kárpátalja wins on penalties]
 

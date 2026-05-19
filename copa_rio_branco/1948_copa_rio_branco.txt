@@ -1,11 +1,11 @@
 = Copa Rio Branco 1948
 
-# Date       Sun Apr/4 - Sun Apr/11 1948 (7d)
+# Date       Sun Apr 4 - Sun Apr 11 1948 (7d)
 # Teams      2
 # Matches    2
 
-[Sun Apr 4]
-  Uruguay - Brazil  1-1   @ Montevideo, Uruguay
-[Sun Apr 11]
-  Uruguay - Brazil  4-2   @ Montevideo, Uruguay
+Sun Apr 4
+  Uruguay              v Brazil                1-1   @ Montevideo, Uruguay
+Sun Apr 11
+  Uruguay              v Brazil                4-2   @ Montevideo, Uruguay
 

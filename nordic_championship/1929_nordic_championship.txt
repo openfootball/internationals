@@ -1,19 +1,19 @@
 = Nordic Championship 1929
 
-# Date       Fri Jun/14 - Sun Oct/13 1929 (121d)
+# Date       Fri Jun 14 - Sun Oct 13 1929 (121d)
 # Teams      4
 # Matches    6
 
-[Fri Jun 14]
-  Sweden - Finland  3-1   @ Stockholm, Sweden
-[Sun Jun 16]
-  Sweden - Denmark  3-2   @ Gothenburg, Sweden
-[Tue Jun 18]
-  Norway - Finland  4-0   @ Oslo, Norway
-[Sun Jun 23]
-  Denmark - Norway  2-5   @ Copenhagen, Denmark
-[Sun Sep 29]
-  Norway - Sweden  2-1   @ Oslo, Norway
-[Sun Oct 13]
-  Denmark - Finland  8-0   @ Copenhagen, Denmark
+Fri Jun 14
+  Sweden               v Finland               3-1   @ Stockholm, Sweden
+Sun Jun 16
+  Sweden               v Denmark               3-2   @ Gothenburg, Sweden
+Tue Jun 18
+  Norway               v Finland               4-0   @ Oslo, Norway
+Sun Jun 23
+  Denmark              v Norway                2-5   @ Copenhagen, Denmark
+Sun Sep 29
+  Norway               v Sweden                2-1   @ Oslo, Norway
+Sun Oct 13
+  Denmark              v Finland               8-0   @ Copenhagen, Denmark
 

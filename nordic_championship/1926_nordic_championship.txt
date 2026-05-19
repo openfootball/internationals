@@ -1,13 +1,13 @@
 = Nordic Championship 1926
 
-# Date       Wed Jun/9 - Sun Oct/3 1926 (116d)
+# Date       Wed Jun 9 - Sun Oct 3 1926 (116d)
 # Teams      3
 # Matches    3
 
-[Wed Jun 9]
-  Sweden - Norway  3-2   @ Stockholm, Sweden
-[Sun Sep 19]
-  Norway - Denmark  2-2   @ Oslo, Norway
-[Sun Oct 3]
-  Denmark - Sweden  2-0   @ Copenhagen, Denmark
+Wed Jun 9
+  Sweden               v Norway                3-2   @ Stockholm, Sweden
+Sun Sep 19
+  Norway               v Denmark               2-2   @ Oslo, Norway
+Sun Oct 3
+  Denmark              v Sweden                2-0   @ Copenhagen, Denmark
 

@@ -1,13 +1,13 @@
 = Soccer Ashes 1933
 
-# Date       Mon Jun/5 - Sat Jun/24 1933 (19d)
+# Date       Mon Jun 5 - Sat Jun 24 1933 (19d)
 # Teams      2
 # Matches    3
 
-[Mon Jun 5]
-  Australia - New Zealand  4-2   @ Brisbane, Australia
-[Sat Jun 17]
-  Australia - New Zealand  6-4   @ Sydney, Australia
-[Sat Jun 24]
-  Australia - New Zealand  4-2   @ Sydney, Australia
+Mon Jun 5
+  Australia            v New Zealand           4-2   @ Brisbane, Australia
+Sat Jun 17
+  Australia            v New Zealand           6-4   @ Sydney, Australia
+Sat Jun 24
+  Australia            v New Zealand           4-2   @ Sydney, Australia
 

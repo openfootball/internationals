@@ -1,18 +1,18 @@
 = Nordic Championship 1939
 
-# Date       Fri Jun/9 - Sun Oct/22 1939 (135d)
+# Date       Fri Jun 9 - Sun Oct 22 1939 (135d)
 # Teams      4
 # Matches    6
 
-[Fri Jun 9]
-  Sweden - Finland  5-1   @ Solna, Sweden
-[Sun Sep 3]
-  Finland - Norway  1-2   @ Helsinki, Finland
-[Sun Sep 17]
-  Denmark - Finland  8-1   @ Copenhagen, Denmark
-  Norway - Sweden  2-3   @ Oslo, Norway
-[Sun Oct 1]
-  Sweden - Denmark  4-1   @ Solna, Sweden
-[Sun Oct 22]
-  Denmark - Norway  4-1   @ Copenhagen, Denmark
+Fri Jun 9
+  Sweden               v Finland               5-1   @ Solna, Sweden
+Sun Sep 3
+  Finland              v Norway                1-2   @ Helsinki, Finland
+Sun Sep 17
+  Denmark              v Finland               8-1   @ Copenhagen, Denmark
+  Norway               v Sweden                2-3   @ Oslo, Norway
+Sun Oct 1
+  Sweden               v Denmark               4-1   @ Solna, Sweden
+Sun Oct 22
+  Denmark              v Norway                4-1   @ Copenhagen, Denmark
 

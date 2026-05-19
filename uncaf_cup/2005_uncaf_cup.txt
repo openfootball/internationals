@@ -1,25 +1,25 @@
 = UNCAF Cup 2005
 
-# Date       Sat Feb/19 - Sun Feb/27 2005 (8d)
+# Date       Sat Feb 19 - Sun Feb 27 2005 (8d)
 # Teams      7
 # Matches    13
 
-[Sat Feb 19]
-  El Salvador - Panama  0-1   @ Guatemala City, Guatemala
-  Guatemala - Belize  2-0   @ Guatemala City, Guatemala
-  Honduras - Nicaragua  5-1   @ Guatemala City, Guatemala
-[Mon Feb 21]
-  Belize - Honduras  0-4   @ Guatemala City, Guatemala
-  Costa Rica - El Salvador  2-1   @ Guatemala City, Guatemala
-  Guatemala - Nicaragua  4-0   @ Guatemala City, Guatemala
-[Wed Feb 23]
-  Guatemala - Honduras  1-1   @ Guatemala City, Guatemala
-  Nicaragua - Belize  1-0   @ Guatemala City, Guatemala
-  Panama - Costa Rica  0-1   @ Guatemala City, Guatemala
-[Fri Feb 25]
-  Guatemala - Costa Rica  0-4   @ Guatemala City, Guatemala
-  Honduras - Panama  1-0   @ Guatemala City, Guatemala
-[Sun Feb 27]
-  Costa Rica - Honduras  1-1   @ Guatemala City, Guatemala   [Costa Rica wins on penalties]
-  Guatemala - Panama  3-0   @ Guatemala City, Guatemala
+Sat Feb 19
+  El Salvador          v Panama                0-1   @ Guatemala City, Guatemala
+  Guatemala            v Belize                2-0   @ Guatemala City, Guatemala
+  Honduras             v Nicaragua             5-1   @ Guatemala City, Guatemala
+Mon Feb 21
+  Belize               v Honduras              0-4   @ Guatemala City, Guatemala
+  Costa Rica           v El Salvador           2-1   @ Guatemala City, Guatemala
+  Guatemala            v Nicaragua             4-0   @ Guatemala City, Guatemala
+Wed Feb 23
+  Guatemala            v Honduras              1-1   @ Guatemala City, Guatemala
+  Nicaragua            v Belize                1-0   @ Guatemala City, Guatemala
+  Panama               v Costa Rica            0-1   @ Guatemala City, Guatemala
+Fri Feb 25
+  Guatemala            v Costa Rica            0-4   @ Guatemala City, Guatemala
+  Honduras             v Panama                1-0   @ Guatemala City, Guatemala
+Sun Feb 27
+  Costa Rica           v Honduras              1-1   @ Guatemala City, Guatemala   [Costa Rica wins on penalties]
+  Guatemala            v Panama                3-0   @ Guatemala City, Guatemala
 

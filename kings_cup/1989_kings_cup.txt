@@ -1,17 +1,17 @@
 = King's Cup 1989
 
-# Date       Sat Jan/28 - Wed Feb/8 1989 (11d)
+# Date       Sat Jan 28 - Wed Feb 8 1989 (11d)
 # Teams      5
 # Matches    5
 
-[Sat Jan 28]
-  Thailand - Malaysia  1-0   @ Bangkok, Thailand
-[Mon Jan 30]
-  Thailand - Indonesia  3-0   @ Bangkok, Thailand
-[Fri Feb 3]
-  Indonesia - Malaysia  1-3   @ Bangkok, Thailand
-[Sat Feb 4]
-  China PR - North Korea  3-1   @ Bangkok, Thailand
-[Wed Feb 8]
-  Thailand - China PR  2-0   @ Bangkok, Thailand
+Sat Jan 28
+  Thailand             v Malaysia              1-0   @ Bangkok, Thailand
+Mon Jan 30
+  Thailand             v Indonesia             3-0   @ Bangkok, Thailand
+Fri Feb 3
+  Indonesia            v Malaysia              1-3   @ Bangkok, Thailand
+Sat Feb 4
+  China PR             v North Korea           3-1   @ Bangkok, Thailand
+Wed Feb 8
+  Thailand             v China PR              2-0   @ Bangkok, Thailand
 

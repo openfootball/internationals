@@ -1,73 +1,73 @@
 = CFU Caribbean Cup qualification 2006
 
-# Date       Sat Sep/2 - Tue Nov/28 2006 (87d)
+# Date       Sat Sep 2 - Tue Nov 28 2006 (87d)
 # Teams      23
 # Matches    46
 
-[Sat Sep 2]
-  Bahamas - Cayman Islands  3-1   @ Havana, Cuba
-  Cuba - Turks and Caicos Islands  6-0   @ Havana, Cuba
-[Mon Sep 4]
-  Cayman Islands - Turks and Caicos Islands  0-2   @ Havana, Cuba
-  Cuba - Bahamas  6-0   @ Havana, Cuba
-[Wed Sep 6]
-  Cuba - Cayman Islands  7-0   @ Havana, Cuba
-  Curaçao - Grenada  1-1   @ Willemstad, Curaçao
-  Suriname - Guyana  0-5   @ Willemstad, Curaçao
-  Turks and Caicos Islands - Bahamas  2-3   @ Havana, Cuba
-[Fri Sep 8]
-  Curaçao - Guyana  0-5   @ Willemstad, Curaçao
-  Suriname - Grenada  1-0   @ Willemstad, Curaçao
-[Sun Sep 10]
-  Curaçao - Suriname  0-1   @ Willemstad, Curaçao
-  Grenada - Guyana  0-1   @ Willemstad, Curaçao
-[Wed Sep 20]
-  Antigua and Barbuda - Anguilla  5-3   @ St. John's, Antigua and Barbuda
-  Barbados - Saint Kitts and Nevis  1-1   @ St. John's, Antigua and Barbuda
-  Dominica - Martinique  0-4   @ Les Abymes, Guadeloupe
-  Guadeloupe - Saint Martin  1-0   @ Les Abymes, Guadeloupe
-[Fri Sep 22]
-  Anguilla - Saint Kitts and Nevis  1-6   @ St. John's, Antigua and Barbuda
-  Antigua and Barbuda - Barbados  1-3   @ St. John's, Antigua and Barbuda
-  Guadeloupe - Dominica  1-0   @ Les Abymes, Guadeloupe
-  Martinique - Saint Martin  1-0   @ Les Abymes, Guadeloupe
-[Sun Sep 24]
-  Antigua and Barbuda - Saint Kitts and Nevis  1-0   @ St. John's, Antigua and Barbuda
-  Barbados - Anguilla  7-1   @ St. John's, Antigua and Barbuda
-  Dominica - Saint Martin  0-0   @ Les Abymes, Guadeloupe
-  Guadeloupe - Martinique  4-0   @ Les Abymes, Guadeloupe
-[Wed Sep 27]
-  Jamaica - Saint Lucia  4-0   @ Kingston, Jamaica
-  United States Virgin Islands - Bermuda  0-6   @ Charlotte Amalie, United States Virgin Islands
-[Fri Sep 29]
-  Bermuda - Dominican Republic  3-1   @ Charlotte Amalie, United States Virgin Islands
-  Saint Lucia - Haiti  1-7   @ Kingston, Jamaica
-[Sun Oct 1]
-  Jamaica - Haiti  2-0   @ Kingston, Jamaica
-  Saint Vincent and the Grenadines - Saint Lucia  8-0   @ Kingston, Jamaica
-  United States Virgin Islands - Dominican Republic  1-6   @ Charlotte Amalie, United States Virgin Islands
-[Wed Nov 8]
-  Haiti - Cuba  1-2   @ Fort-de-France, Martinique
-  Martinique - Suriname  1-0   @ Fort-de-France, Martinique
-[Fri Nov 10]
-  Cuba - Suriname  3-1   @ Fort-de-France, Martinique
-  Martinique - Haiti  1-0   @ Fort-de-France, Martinique
-[Sun Nov 12]
-  Haiti - Suriname  1-1   @ Fort-de-France, Martinique
-  Martinique - Cuba  0-0   @ Fort-de-France, Martinique
-[Sun Nov 19]
-  Barbados - Bahamas  2-1   @ Bridgetown, Barbados
-[Tue Nov 21]
-  Bahamas - Bermuda  0-4   @ Bridgetown, Barbados
-[Thu Nov 23]
-  Barbados - Bermuda  1-1   @ Bridgetown, Barbados
-[Fri Nov 24]
-  Dominican Republic - Guadeloupe  0-3   @ Georgetown, Guyana
-  Guyana - Antigua and Barbuda  6-0   @ Georgetown, Guyana
-[Sun Nov 26]
-  Dominican Republic - Antigua and Barbuda  2-0   @ Georgetown, Guyana
-  Guyana - Guadeloupe  3-2   @ Georgetown, Guyana
-[Tue Nov 28]
-  Antigua and Barbuda - Guadeloupe  1-3   @ Georgetown, Guyana
-  Guyana - Dominican Republic  4-0   @ Georgetown, Guyana
+Sat Sep 2
+  Bahamas              v Cayman Islands        3-1   @ Havana, Cuba
+  Cuba                 v Turks and Caicos Islands  6-0   @ Havana, Cuba
+Mon Sep 4
+  Cayman Islands       v Turks and Caicos Islands  0-2   @ Havana, Cuba
+  Cuba                 v Bahamas               6-0   @ Havana, Cuba
+Wed Sep 6
+  Cuba                 v Cayman Islands        7-0   @ Havana, Cuba
+  Curaçao              v Grenada               1-1   @ Willemstad, Curaçao
+  Suriname             v Guyana                0-5   @ Willemstad, Curaçao
+  Turks and Caicos Islands v Bahamas               2-3   @ Havana, Cuba
+Fri Sep 8
+  Curaçao              v Guyana                0-5   @ Willemstad, Curaçao
+  Suriname             v Grenada               1-0   @ Willemstad, Curaçao
+Sun Sep 10
+  Curaçao              v Suriname              0-1   @ Willemstad, Curaçao
+  Grenada              v Guyana                0-1   @ Willemstad, Curaçao
+Wed Sep 20
+  Antigua and Barbuda  v Anguilla              5-3   @ St. John's, Antigua and Barbuda
+  Barbados             v Saint Kitts and Nevis  1-1   @ St. John's, Antigua and Barbuda
+  Dominica             v Martinique            0-4   @ Les Abymes, Guadeloupe
+  Guadeloupe           v Saint Martin          1-0   @ Les Abymes, Guadeloupe
+Fri Sep 22
+  Anguilla             v Saint Kitts and Nevis  1-6   @ St. John's, Antigua and Barbuda
+  Antigua and Barbuda  v Barbados              1-3   @ St. John's, Antigua and Barbuda
+  Guadeloupe           v Dominica              1-0   @ Les Abymes, Guadeloupe
+  Martinique           v Saint Martin          1-0   @ Les Abymes, Guadeloupe
+Sun Sep 24
+  Antigua and Barbuda  v Saint Kitts and Nevis  1-0   @ St. John's, Antigua and Barbuda
+  Barbados             v Anguilla              7-1   @ St. John's, Antigua and Barbuda
+  Dominica             v Saint Martin          0-0   @ Les Abymes, Guadeloupe
+  Guadeloupe           v Martinique            4-0   @ Les Abymes, Guadeloupe
+Wed Sep 27
+  Jamaica              v Saint Lucia           4-0   @ Kingston, Jamaica
+  United States Virgin Islands v Bermuda               0-6   @ Charlotte Amalie, United States Virgin Islands
+Fri Sep 29
+  Bermuda              v Dominican Republic    3-1   @ Charlotte Amalie, United States Virgin Islands
+  Saint Lucia          v Haiti                 1-7   @ Kingston, Jamaica
+Sun Oct 1
+  Jamaica              v Haiti                 2-0   @ Kingston, Jamaica
+  Saint Vincent and the Grenadines v Saint Lucia           8-0   @ Kingston, Jamaica
+  United States Virgin Islands v Dominican Republic    1-6   @ Charlotte Amalie, United States Virgin Islands
+Wed Nov 8
+  Haiti                v Cuba                  1-2   @ Fort-de-France, Martinique
+  Martinique           v Suriname              1-0   @ Fort-de-France, Martinique
+Fri Nov 10
+  Cuba                 v Suriname              3-1   @ Fort-de-France, Martinique
+  Martinique           v Haiti                 1-0   @ Fort-de-France, Martinique
+Sun Nov 12
+  Haiti                v Suriname              1-1   @ Fort-de-France, Martinique
+  Martinique           v Cuba                  0-0   @ Fort-de-France, Martinique
+Sun Nov 19
+  Barbados             v Bahamas               2-1   @ Bridgetown, Barbados
+Tue Nov 21
+  Bahamas              v Bermuda               0-4   @ Bridgetown, Barbados
+Thu Nov 23
+  Barbados             v Bermuda               1-1   @ Bridgetown, Barbados
+Fri Nov 24
+  Dominican Republic   v Guadeloupe            0-3   @ Georgetown, Guyana
+  Guyana               v Antigua and Barbuda   6-0   @ Georgetown, Guyana
+Sun Nov 26
+  Dominican Republic   v Antigua and Barbuda   2-0   @ Georgetown, Guyana
+  Guyana               v Guadeloupe            3-2   @ Georgetown, Guyana
+Tue Nov 28
+  Antigua and Barbuda  v Guadeloupe            1-3   @ Georgetown, Guyana
+  Guyana               v Dominican Republic    4-0   @ Georgetown, Guyana
 

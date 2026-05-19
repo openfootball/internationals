@@ -1,20 +1,20 @@
 = WAFF Championship 2013
 
-# Date       Wed Dec/25 - Tue Dec/31 2013 (6d)
+# Date       Wed Dec 25 - Tue Dec 31 2013 (6d)
 # Teams      9
 # Matches    8
 
-[Wed Dec 25]
-  Oman - Bahrain  0-0   @ Doha, Qatar
-  Qatar - Palestine  1-0   @ Doha, Qatar
-[Thu Dec 26]
-  Jordan - Lebanon  0-0   @ Doha, Qatar
-[Sat Dec 28]
-  Bahrain - Iraq  0-0   @ Doha, Qatar
-  Palestine - Saudi Arabia  0-0   @ Doha, Qatar
-[Sun Dec 29]
-  Lebanon - Kuwait  0-2   @ Doha, Qatar
-[Tue Dec 31]
-  Iraq - Oman  0-0   @ Doha, Qatar
-  Qatar - Saudi Arabia  4-1   @ Doha, Qatar
+Wed Dec 25
+  Oman                 v Bahrain               0-0   @ Doha, Qatar
+  Qatar                v Palestine             1-0   @ Doha, Qatar
+Thu Dec 26
+  Jordan               v Lebanon               0-0   @ Doha, Qatar
+Sat Dec 28
+  Bahrain              v Iraq                  0-0   @ Doha, Qatar
+  Palestine            v Saudi Arabia          0-0   @ Doha, Qatar
+Sun Dec 29
+  Lebanon              v Kuwait                0-2   @ Doha, Qatar
+Tue Dec 31
+  Iraq                 v Oman                  0-0   @ Doha, Qatar
+  Qatar                v Saudi Arabia          4-1   @ Doha, Qatar
 

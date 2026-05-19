@@ -1,13 +1,13 @@
 = ABCS Tournament 2015
 
-# Date       Fri Jan/30 - Sun Feb/1 2015 (2d)
+# Date       Fri Jan 30 - Sun Feb 1 2015 (2d)
 # Teams      4
 # Matches    4
 
-[Fri Jan 30]
-  Curaçao - Aruba  0-0   @ Paramaribo, Suriname   [Aruba wins on penalties]
-  Suriname - Bonaire  3-0   @ Paramaribo, Suriname
-[Sun Feb 1]
-  Curaçao - Bonaire  4-1   @ Paramaribo, Suriname
-  Suriname - Aruba  1-0   @ Paramaribo, Suriname
+Fri Jan 30
+  Curaçao              v Aruba                 0-0   @ Paramaribo, Suriname   [Aruba wins on penalties]
+  Suriname             v Bonaire               3-0   @ Paramaribo, Suriname
+Sun Feb 1
+  Curaçao              v Bonaire               4-1   @ Paramaribo, Suriname
+  Suriname             v Aruba                 1-0   @ Paramaribo, Suriname
 

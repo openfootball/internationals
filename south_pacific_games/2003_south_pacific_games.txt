@@ -1,38 +1,38 @@
 = South Pacific Games 2003
 
-# Date       Mon Jun/30 - Fri Jul/11 2003 (11d)
+# Date       Mon Jun 30 - Fri Jul 11 2003 (11d)
 # Teams      10
 # Matches    24
 
-[Mon Jun 30]
-  Fiji - Vanuatu  0-0   @ Suva, Fiji
-  Papua New Guinea - New Caledonia  0-2   @ Suva, Fiji
-  Tahiti - Micronesia  17-0   @ Suva, Fiji
-  Tuvalu - Kiribati  3-2   @ Suva, Fiji
-[Tue Jul 1]
-  Fiji - Tuvalu  4-0   @ Suva, Fiji
-  Micronesia - New Caledonia  0-18   @ Suva, Fiji
-  Papua New Guinea - Tonga  2-2   @ Suva, Fiji
-  Solomon Islands - Vanuatu  2-2   @ Suva, Fiji
-[Thu Jul 3]
-  Solomon Islands - Kiribati  7-0   @ Suva, Fiji
-  Tahiti - Papua New Guinea  3-0   @ Suva, Fiji
-  Tonga - New Caledonia  0-4   @ Suva, Fiji
-  Tuvalu - Vanuatu  0-1   @ Suva, Fiji
-[Sat Jul 5]
-  Fiji - Kiribati  12-0   @ Nausori, Fiji
-  Tahiti - New Caledonia  0-4   @ Nausori, Fiji
-  Tonga - Micronesia  7-0   @ Nausori, Fiji
-  Tuvalu - Solomon Islands  0-4   @ Nausori, Fiji
-[Mon Jul 7]
-  Fiji - Solomon Islands  2-1   @ Lautoka, Fiji
-  Kiribati - Vanuatu  0-18   @ Lautoka, Fiji
-  Papua New Guinea - Micronesia  10-0   @ Lautoka, Fiji
-  Tahiti - Tonga  4-0   @ Lautoka, Fiji
-[Wed Jul 9]
-  Fiji - Tahiti  2-1   @ Lautoka, Fiji
-  New Caledonia - Vanuatu  1-1   @ Lautoka, Fiji   [New Caledonia wins on penalties]
-[Fri Jul 11]
-  Fiji - New Caledonia  2-0   @ Suva, Fiji
-  Tahiti - Vanuatu  0-1   @ Suva, Fiji
+Mon Jun 30
+  Fiji                 v Vanuatu               0-0   @ Suva, Fiji
+  Papua New Guinea     v New Caledonia         0-2   @ Suva, Fiji
+  Tahiti               v Micronesia            17-0   @ Suva, Fiji
+  Tuvalu               v Kiribati              3-2   @ Suva, Fiji
+Tue Jul 1
+  Fiji                 v Tuvalu                4-0   @ Suva, Fiji
+  Micronesia           v New Caledonia         0-18   @ Suva, Fiji
+  Papua New Guinea     v Tonga                 2-2   @ Suva, Fiji
+  Solomon Islands      v Vanuatu               2-2   @ Suva, Fiji
+Thu Jul 3
+  Solomon Islands      v Kiribati              7-0   @ Suva, Fiji
+  Tahiti               v Papua New Guinea      3-0   @ Suva, Fiji
+  Tonga                v New Caledonia         0-4   @ Suva, Fiji
+  Tuvalu               v Vanuatu               0-1   @ Suva, Fiji
+Sat Jul 5
+  Fiji                 v Kiribati              12-0   @ Nausori, Fiji
+  Tahiti               v New Caledonia         0-4   @ Nausori, Fiji
+  Tonga                v Micronesia            7-0   @ Nausori, Fiji
+  Tuvalu               v Solomon Islands       0-4   @ Nausori, Fiji
+Mon Jul 7
+  Fiji                 v Solomon Islands       2-1   @ Lautoka, Fiji
+  Kiribati             v Vanuatu               0-18   @ Lautoka, Fiji
+  Papua New Guinea     v Micronesia            10-0   @ Lautoka, Fiji
+  Tahiti               v Tonga                 4-0   @ Lautoka, Fiji
+Wed Jul 9
+  Fiji                 v Tahiti                2-1   @ Lautoka, Fiji
+  New Caledonia        v Vanuatu               1-1   @ Lautoka, Fiji   [New Caledonia wins on penalties]
+Fri Jul 11
+  Fiji                 v New Caledonia         2-0   @ Suva, Fiji
+  Tahiti               v Vanuatu               0-1   @ Suva, Fiji
 

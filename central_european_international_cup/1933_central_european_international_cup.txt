@@ -1,17 +1,17 @@
 = Central European International Cup 1933
 
-# Date       Sun Apr/2 - Sun Dec/3 1933 (245d)
+# Date       Sun Apr 2 - Sun Dec 3 1933 (245d)
 # Teams      4
 # Matches    5
 
-[Sun Apr 2]
-  Switzerland - Italy  0-3   @ Geneva, Switzerland
-[Sun May 7]
-  Italy - Czechoslovakia  2-0   @ Florence, Italy
-[Sun Sep 17]
-  Hungary - Switzerland  3-0   @ Budapest, Hungary
-[Sun Oct 22]
-  Hungary - Italy  0-1   @ Budapest, Hungary
-[Sun Dec 3]
-  Italy - Switzerland  5-2   @ Florence, Italy
+Sun Apr 2
+  Switzerland          v Italy                 0-3   @ Geneva, Switzerland
+Sun May 7
+  Italy                v Czechoslovakia        2-0   @ Florence, Italy
+Sun Sep 17
+  Hungary              v Switzerland           3-0   @ Budapest, Hungary
+Sun Oct 22
+  Hungary              v Italy                 0-1   @ Budapest, Hungary
+Sun Dec 3
+  Italy                v Switzerland           5-2   @ Florence, Italy
 

@@ -1,13 +1,13 @@
 = Cyprus International Tournament 2009
 
-# Date       Tue Feb/10 - Wed Feb/11 2009 (1d)
+# Date       Tue Feb 10 - Wed Feb 11 2009 (1d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 10]
-  Cyprus - Serbia  0-2   @ Nicosia, Cyprus
-  Slovakia - Ukraine  2-3   @ Limassol, Cyprus
-[Wed Feb 11]
-  Cyprus - Slovakia  3-2   @ Nicosia, Cyprus
-  Serbia - Ukraine  0-1   @ Nicosia, Cyprus
+Tue Feb 10
+  Cyprus               v Serbia                0-2   @ Nicosia, Cyprus
+  Slovakia             v Ukraine               2-3   @ Limassol, Cyprus
+Wed Feb 11
+  Cyprus               v Slovakia              3-2   @ Nicosia, Cyprus
+  Serbia               v Ukraine               0-1   @ Nicosia, Cyprus
 

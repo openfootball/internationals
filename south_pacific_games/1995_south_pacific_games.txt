@@ -1,36 +1,36 @@
 = South Pacific Games 1995
 
-# Date       Wed Aug/16 - Sat Aug/26 1995 (10d)
+# Date       Wed Aug 16 - Sat Aug 26 1995 (10d)
 # Teams      9
 # Matches    20
 
-[Wed Aug 16]
-  Cook Islands - New Caledonia  0-9   @ Papeete, Tahiti
-  Fiji - Papua New Guinea  2-2   @ Papeete, Tahiti
-  Guam - Vanuatu  0-6   @ Papeete, Tahiti
-  Solomon Islands - Wallis Islands and Futuna  12-1   @ Papeete, Tahiti
-[Thu Aug 17]
-  Tahiti - Wallis Islands and Futuna  13-0   @ Papeete, Tahiti
-[Fri Aug 18]
-  New Caledonia - Solomon Islands  0-1   @ Papeete, Tahiti
-[Sat Aug 19]
-  Cook Islands - Wallis Islands and Futuna  2-1   @ Papeete, Tahiti
-  Tahiti - Solomon Islands  4-2   @ Papeete, Tahiti
-[Sun Aug 20]
-  Fiji - Guam  8-0   @ Papeete, Tahiti
-  New Caledonia - Wallis Islands and Futuna  10-0   @ Papeete, Tahiti
-  Papua New Guinea - Vanuatu  0-3   @ Papeete, Tahiti
-[Mon Aug 21]
-  Cook Islands - Solomon Islands  0-16   @ Papeete, Tahiti
-  Tahiti - New Caledonia  2-0   @ Papeete, Tahiti
-[Tue Aug 22]
-  Fiji - Vanuatu  3-1   @ Papeete, Tahiti
-  Guam - Papua New Guinea  0-9   @ Papeete, Tahiti
-  Tahiti - Cook Islands  11-0   @ Papeete, Tahiti
-[Thu Aug 24]
-  Fiji - Solomon Islands  3-3   @ Papeete, Tahiti   [Solomon Islands wins on penalties]
-  Tahiti - Vanuatu  3-0   @ Papeete, Tahiti
-[Sat Aug 26]
-  Fiji - Vanuatu  3-0   @ Papeete, Tahiti
-  Tahiti - Solomon Islands  2-0   @ Papeete, Tahiti
+Wed Aug 16
+  Cook Islands         v New Caledonia         0-9   @ Papeete, Tahiti
+  Fiji                 v Papua New Guinea      2-2   @ Papeete, Tahiti
+  Guam                 v Vanuatu               0-6   @ Papeete, Tahiti
+  Solomon Islands      v Wallis Islands and Futuna  12-1   @ Papeete, Tahiti
+Thu Aug 17
+  Tahiti               v Wallis Islands and Futuna  13-0   @ Papeete, Tahiti
+Fri Aug 18
+  New Caledonia        v Solomon Islands       0-1   @ Papeete, Tahiti
+Sat Aug 19
+  Cook Islands         v Wallis Islands and Futuna  2-1   @ Papeete, Tahiti
+  Tahiti               v Solomon Islands       4-2   @ Papeete, Tahiti
+Sun Aug 20
+  Fiji                 v Guam                  8-0   @ Papeete, Tahiti
+  New Caledonia        v Wallis Islands and Futuna  10-0   @ Papeete, Tahiti
+  Papua New Guinea     v Vanuatu               0-3   @ Papeete, Tahiti
+Mon Aug 21
+  Cook Islands         v Solomon Islands       0-16   @ Papeete, Tahiti
+  Tahiti               v New Caledonia         2-0   @ Papeete, Tahiti
+Tue Aug 22
+  Fiji                 v Vanuatu               3-1   @ Papeete, Tahiti
+  Guam                 v Papua New Guinea      0-9   @ Papeete, Tahiti
+  Tahiti               v Cook Islands          11-0   @ Papeete, Tahiti
+Thu Aug 24
+  Fiji                 v Solomon Islands       3-3   @ Papeete, Tahiti   [Solomon Islands wins on penalties]
+  Tahiti               v Vanuatu               3-0   @ Papeete, Tahiti
+Sat Aug 26
+  Fiji                 v Vanuatu               3-0   @ Papeete, Tahiti
+  Tahiti               v Solomon Islands       2-0   @ Papeete, Tahiti
 

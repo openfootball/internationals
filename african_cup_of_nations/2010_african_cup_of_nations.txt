@@ -1,89 +1,89 @@
 = African Cup of Nations 2010
 
-# Date       Sun Jan/10 - Sun Jan/31 2010 (21d)
+# Date       Sun Jan 10 - Sun Jan 31 2010 (21d)
 # Teams      15
 # Matches    29
 
-[Sun Jan 10]
-  Angola - Mali  4-4   @ Luanda, Angola
-     Flávio Amado 36' Flávio Amado 42' Sebastião Gilberto 67' (pen.) Manucho 74' (pen.);
-     Seydou Keita 79' Frédéric Kanouté 88' Seydou Keita 90' Mustapha Yatabaré 90'
-[Mon Jan 11]
-  Ivory Coast - Burkina Faso  0-0   @ Cabinda, Angola
-  Malawi - Algeria  3-0   @ Luanda, Angola
-     Russel Mwafulirwa 17' Elvis Kafoteka 35' Davi Banda 48'
-[Tue Jan 12]
-  Egypt - Nigeria  3-1   @ Benguela, Angola
-     Emad Moteab 34' Ahmed Hassan 54' Gedo 87';
-     Chinedu Obasi 12'
-  Mozambique - Benin  2-2   @ Benguela, Angola
-     Almiro Lobo 29' Carlos Fumo Gonçalves 54';
-     Razak Omotoyossi 14' (pen.) Dario Khan 20' (o.g.)
-[Wed Jan 13]
-  Cameroon - Gabon  0-1   @ Lubango, Angola
-     -; Daniel Cousin 17'
-  Zambia - Tunisia  1-1   @ Lubango, Angola
-     Jacob Mulenga 19';
-     Zouheir Dhaouadi 40'
-[Thu Jan 14]
-  Angola - Malawi  2-0   @ Luanda, Angola
-     Flávio Amado 49' Manucho 55'
-  Mali - Algeria  0-1   @ Luanda, Angola
-     -; Rafik Halliche 43'
-[Fri Jan 15]
-  Ivory Coast - Ghana  3-1   @ Cabinda, Angola
-     Gervinho 23' Siaka Tiéné 66' Didier Drogba 90';
-     Asamoah Gyan 90' (pen.)
-[Sat Jan 16]
-  Egypt - Mozambique  2-0   @ Benguela, Angola
-     Dario Khan 47' (o.g.) Gedo 81'
-  Nigeria - Benin  1-0   @ Benguela, Angola
-     Yakubu 42' (pen.)
-[Sun Jan 17]
-  Cameroon - Zambia  3-2   @ Lubango, Angola
-     Geremi Njitap 68' Samuel Eto'o 72' Mohammadou Idrissou 86';
-     Jacob Mulenga 8' Christopher Katongo 81' (pen.)
-  Gabon - Tunisia  0-0   @ Lubango, Angola
-[Mon Jan 18]
-  Angola - Algeria  0-0   @ Luanda, Angola
-  Mali - Malawi  3-1   @ Cabinda, Angola
-     Frédéric Kanouté 1' Seydou Keita 3' Mamadou Bagayoko 85';
-     Russel Mwafulirwa 58'
-[Tue Jan 19]
-  Burkina Faso - Ghana  0-1   @ Luanda, Angola
-     -; André Ayew 30'
-[Wed Jan 20]
-  Egypt - Benin  2-0   @ Benguela, Angola
-     Ahmed Elmohamady 7' Emad Moteab 23'
-  Nigeria - Mozambique  3-0   @ Lubango, Angola
-     Peter Odemwingie 45' Peter Odemwingie 47' Obafemi Martins 86'
-[Thu Jan 21]
-  Cameroon - Tunisia  2-2   @ Lubango, Angola
-     Samuel Eto'o 47' Landry N'Guémo 64';
-     Amine Chermiti 1' Aurélien Chedjou 63' (o.g.)
-  Gabon - Zambia  1-2   @ Benguela, Angola
-     Fabrice Do Marcolino 83';
-     Rainford Kalaba 28' James Chamanga 62'
-[Sun Jan 24]
-  Angola - Ghana  0-1   @ Luanda, Angola
-     -; Asamoah Gyan 15'
-  Ivory Coast - Algeria  2-3   @ Cabinda, Angola
-     Salomon Kalou 4' Abdul Kader Keïta 89';
-     Karim Matmour 39' Madjid Bougherra 90' Hameur Bouazza 92'
-[Mon Jan 25]
-  Egypt - Cameroon  3-1   @ Benguela, Angola
-     Ahmed Hassan 37' Gedo 92' Ahmed Hassan 104';
-     Achille Emaná 25'
-  Zambia - Nigeria  0-0   @ Lubango, Angola   [Nigeria wins on penalties]
-[Thu Jan 28]
-  Algeria - Egypt  0-4   @ Benguela, Angola
-     -; Hosny Abd Rabo 38' (pen.) Mohamed Zidan 65' Mohamed Abdel-Shafy 80' Gedo 90'
-  Ghana - Nigeria  1-0   @ Luanda, Angola
-     Asamoah Gyan 21'
-[Sat Jan 30]
-  Nigeria - Algeria  1-0   @ Benguela, Angola
-     Victor Obinna 56'
-[Sun Jan 31]
-  Ghana - Egypt  0-1   @ Luanda, Angola
-     -; Gedo 85'
+Sun Jan 10
+  Angola               v Mali                  4-4   @ Luanda, Angola
+     (Flávio Amado 36' Flávio Amado 42' Sebastião Gilberto 67'(p) Manucho 74'(p);
+      Seydou Keita 79' Frédéric Kanouté 88' Seydou Keita 90' Mustapha Yatabaré 90')
+Mon Jan 11
+  Ivory Coast          v Burkina Faso          0-0   @ Cabinda, Angola
+  Malawi               v Algeria               3-0   @ Luanda, Angola
+     (Russel Mwafulirwa 17' Elvis Kafoteka 35' Davi Banda 48')
+Tue Jan 12
+  Egypt                v Nigeria               3-1   @ Benguela, Angola
+     (Emad Moteab 34' Ahmed Hassan 54' Gedo 87';
+      Chinedu Obasi 12')
+  Mozambique           v Benin                 2-2   @ Benguela, Angola
+     (Almiro Lobo 29' Carlos Fumo Gonçalves 54';
+      Razak Omotoyossi 14'(p) Dario Khan 20'(og))
+Wed Jan 13
+  Cameroon             v Gabon                 0-1   @ Lubango, Angola
+     (Daniel Cousin 17')
+  Zambia               v Tunisia               1-1   @ Lubango, Angola
+     (Jacob Mulenga 19';
+      Zouheir Dhaouadi 40')
+Thu Jan 14
+  Angola               v Malawi                2-0   @ Luanda, Angola
+     (Flávio Amado 49' Manucho 55')
+  Mali                 v Algeria               0-1   @ Luanda, Angola
+     (Rafik Halliche 43')
+Fri Jan 15
+  Ivory Coast          v Ghana                 3-1   @ Cabinda, Angola
+     (Gervinho 23' Siaka Tiéné 66' Didier Drogba 90';
+      Asamoah Gyan 90'(p))
+Sat Jan 16
+  Egypt                v Mozambique            2-0   @ Benguela, Angola
+     (Dario Khan 47'(og) Gedo 81')
+  Nigeria              v Benin                 1-0   @ Benguela, Angola
+     (Yakubu 42'(p))
+Sun Jan 17
+  Cameroon             v Zambia                3-2   @ Lubango, Angola
+     (Geremi Njitap 68' Samuel Eto'o 72' Mohammadou Idrissou 86';
+      Jacob Mulenga 8' Christopher Katongo 81'(p))
+  Gabon                v Tunisia               0-0   @ Lubango, Angola
+Mon Jan 18
+  Angola               v Algeria               0-0   @ Luanda, Angola
+  Mali                 v Malawi                3-1   @ Cabinda, Angola
+     (Frédéric Kanouté 1' Seydou Keita 3' Mamadou Bagayoko 85';
+      Russel Mwafulirwa 58')
+Tue Jan 19
+  Burkina Faso         v Ghana                 0-1   @ Luanda, Angola
+     (André Ayew 30')
+Wed Jan 20
+  Egypt                v Benin                 2-0   @ Benguela, Angola
+     (Ahmed Elmohamady 7' Emad Moteab 23')
+  Nigeria              v Mozambique            3-0   @ Lubango, Angola
+     (Peter Odemwingie 45' Peter Odemwingie 47' Obafemi Martins 86')
+Thu Jan 21
+  Cameroon             v Tunisia               2-2   @ Lubango, Angola
+     (Samuel Eto'o 47' Landry N'Guémo 64';
+      Amine Chermiti 1' Aurélien Chedjou 63'(og))
+  Gabon                v Zambia                1-2   @ Benguela, Angola
+     (Fabrice Do Marcolino 83';
+      Rainford Kalaba 28' James Chamanga 62')
+Sun Jan 24
+  Angola               v Ghana                 0-1   @ Luanda, Angola
+     (Asamoah Gyan 15')
+  Ivory Coast          v Algeria               2-3   @ Cabinda, Angola
+     (Salomon Kalou 4' Abdul Kader Keïta 89';
+      Karim Matmour 39' Madjid Bougherra 90' Hameur Bouazza 92')
+Mon Jan 25
+  Egypt                v Cameroon              3-1   @ Benguela, Angola
+     (Ahmed Hassan 37' Gedo 92' Ahmed Hassan 104';
+      Achille Emaná 25')
+  Zambia               v Nigeria               0-0   @ Lubango, Angola   [Nigeria wins on penalties]
+Thu Jan 28
+  Algeria              v Egypt                 0-4   @ Benguela, Angola
+     (Hosny Abd Rabo 38'(p) Mohamed Zidan 65' Mohamed Abdel-Shafy 80' Gedo 90')
+  Ghana                v Nigeria               1-0   @ Luanda, Angola
+     (Asamoah Gyan 21')
+Sat Jan 30
+  Nigeria              v Algeria               1-0   @ Benguela, Angola
+     (Victor Obinna 56')
+Sun Jan 31
+  Ghana                v Egypt                 0-1   @ Luanda, Angola
+     (Gedo 85')
 

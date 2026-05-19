@@ -1,64 +1,64 @@
 = CONCACAF Championship 1989
 
-# Date       Sun Mar/19 - Sun Nov/19 1989 (245d)
+# Date       Sun Mar 19 - Sun Nov 19 1989 (245d)
 # Teams      5
 # Matches    18
 
-[Sun Mar 19]
-  Guatemala - Costa Rica  1-0   @ Guatemala City, Guatemala
-     Raúl Chacón 39' (pen.)
-[Sun Apr 2]
-  Costa Rica - Guatemala  2-1   @ San José, Costa Rica
-     Róger Flores 42' Evaristo Coronado 78';
-     Julio Rodas 51'
-[Sun Apr 16]
-  Costa Rica - United States  1-0   @ San José, Costa Rica
-     Gilberto Rhoden 14'
-[Sun Apr 30]
-  United States - Costa Rica  1-0   @ St. Louis, United States
-     Tab Ramos 72'
-[Sat May 13]
-  United States - Trinidad and Tobago  1-1   @ Torrance, United States
-     Steve Trittschuh 48';
-     Hutson Charles 88'
-[Sun May 28]
-  Trinidad and Tobago - Costa Rica  1-1   @ Port of Spain, Trinidad and Tobago
-     Philibert Jones 13';
-     Evaristo Coronado 69'
-[Sun Jun 11]
-  Costa Rica - Trinidad and Tobago  1-0   @ San José, Costa Rica
-     Juan Cayasso 2'
-[Sat Jun 17]
-  United States - Guatemala  2-1   @ New Britain, United States
-     Bruce Murray 3' Eric Eichmann 67';
-     Raúl Chacón 22'
-[Sun Jun 25]
-  El Salvador - Costa Rica  2-4   @ San Salvador, El Salvador
-     Jaime Rodriguez 24' José Maria Rivas 63';
-     Juan Cayasso 16' Carlos Hidalgo 46' Leonidas Flores 51' Leonidas Flores 75'
-[Sun Jul 16]
-  Costa Rica - El Salvador  1-0   @ San José, Costa Rica
-     Pastor Fernández 55'
-[Sun Jul 30]
-  Trinidad and Tobago - El Salvador  2-0   @ Port of Spain, Trinidad and Tobago
-     Leonson Lewis 50' Leonson Lewis 61'
-[Sun Aug 13]
-  El Salvador - Trinidad and Tobago  0-0   @ Tegucigalpa, Honduras
-[Sun Aug 20]
-  Guatemala - Trinidad and Tobago  0-1   @ Guatemala City, Guatemala
-     -; Kerry Jamerson 57'
-[Sun Sep 3]
-  Trinidad and Tobago - Guatemala  2-1   @ Port of Spain, Trinidad and Tobago
-     Philibert Jones 10' Kerry Jamerson 88';
-     Julio Rodas 6'
-[Sun Sep 17]
-  El Salvador - United States  0-1   @ Tegucigalpa, Honduras
-     -; Hugo Pérez 61'
-[Sun Oct 8]
-  Guatemala - United States  0-0   @ Guatemala City, Guatemala
-[Sun Nov 5]
-  United States - El Salvador  0-0   @ St. Louis, United States
-[Sun Nov 19]
-  Trinidad and Tobago - United States  0-1   @ Port of Spain, Trinidad and Tobago
-     -; Paul Caligiuri 30'
+Sun Mar 19
+  Guatemala            v Costa Rica            1-0   @ Guatemala City, Guatemala
+     (Raúl Chacón 39'(p))
+Sun Apr 2
+  Costa Rica           v Guatemala             2-1   @ San José, Costa Rica
+     (Róger Flores 42' Evaristo Coronado 78';
+      Julio Rodas 51')
+Sun Apr 16
+  Costa Rica           v United States         1-0   @ San José, Costa Rica
+     (Gilberto Rhoden 14')
+Sun Apr 30
+  United States        v Costa Rica            1-0   @ St. Louis, United States
+     (Tab Ramos 72')
+Sat May 13
+  United States        v Trinidad and Tobago   1-1   @ Torrance, United States
+     (Steve Trittschuh 48';
+      Hutson Charles 88')
+Sun May 28
+  Trinidad and Tobago  v Costa Rica            1-1   @ Port of Spain, Trinidad and Tobago
+     (Philibert Jones 13';
+      Evaristo Coronado 69')
+Sun Jun 11
+  Costa Rica           v Trinidad and Tobago   1-0   @ San José, Costa Rica
+     (Juan Cayasso 2')
+Sat Jun 17
+  United States        v Guatemala             2-1   @ New Britain, United States
+     (Bruce Murray 3' Eric Eichmann 67';
+      Raúl Chacón 22')
+Sun Jun 25
+  El Salvador          v Costa Rica            2-4   @ San Salvador, El Salvador
+     (Jaime Rodriguez 24' José Maria Rivas 63';
+      Juan Cayasso 16' Carlos Hidalgo 46' Leonidas Flores 51' Leonidas Flores 75')
+Sun Jul 16
+  Costa Rica           v El Salvador           1-0   @ San José, Costa Rica
+     (Pastor Fernández 55')
+Sun Jul 30
+  Trinidad and Tobago  v El Salvador           2-0   @ Port of Spain, Trinidad and Tobago
+     (Leonson Lewis 50' Leonson Lewis 61')
+Sun Aug 13
+  El Salvador          v Trinidad and Tobago   0-0   @ Tegucigalpa, Honduras
+Sun Aug 20
+  Guatemala            v Trinidad and Tobago   0-1   @ Guatemala City, Guatemala
+     (Kerry Jamerson 57')
+Sun Sep 3
+  Trinidad and Tobago  v Guatemala             2-1   @ Port of Spain, Trinidad and Tobago
+     (Philibert Jones 10' Kerry Jamerson 88';
+      Julio Rodas 6')
+Sun Sep 17
+  El Salvador          v United States         0-1   @ Tegucigalpa, Honduras
+     (Hugo Pérez 61')
+Sun Oct 8
+  Guatemala            v United States         0-0   @ Guatemala City, Guatemala
+Sun Nov 5
+  United States        v El Salvador           0-0   @ St. Louis, United States
+Sun Nov 19
+  Trinidad and Tobago  v United States         0-1   @ Port of Spain, Trinidad and Tobago
+     (Paul Caligiuri 30')
 

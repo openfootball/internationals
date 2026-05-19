@@ -1,91 +1,91 @@
 = UEFA Euro 1996
 
-# Date       Sat Jun/8 - Sun Jun/30 1996 (22d)
+# Date       Sat Jun 8 - Sun Jun 30 1996 (22d)
 # Teams      16
 # Matches    31
 
-[Sat Jun 8]
-  England - Switzerland  1-1   @ London, England
-     Alan Shearer 23';
-     Kubilay Türkyilmaz 83' (pen.)
-[Sun Jun 9]
-  Denmark - Portugal  1-1   @ Sheffield, England
-     Brian Laudrup 22';
-     Ricardo Sá Pinto 53'
-  Germany - Czech Republic  2-0   @ Manchester, England
-     Christian Ziege 26' Andreas Möller 32'
-  Spain - Bulgaria  1-1   @ Leeds, England
-     Alfonso Pérez 74';
-     Hristo Stoichkov 65' (pen.)
-[Mon Jun 10]
-  Netherlands - Scotland  0-0   @ Birmingham, England
-  Romania - France  0-1   @ Newcastle, England
-     -; Christophe Dugarry 25'
-[Tue Jun 11]
-  Italy - Russia  2-1   @ Liverpool, England
-     Pierluigi Casiraghi 5' Pierluigi Casiraghi 52';
-     Ilya Tsymbalar 21'
-  Turkey - Croatia  0-1   @ Nottingham, England
-     -; Goran Vlaović 86'
-[Thu Jun 13]
-  Bulgaria - Romania  1-0   @ Newcastle, England
-     Hristo Stoichkov 3'
-  Switzerland - Netherlands  0-2   @ Birmingham, England
-     -; Jordi Cruyff 66' Dennis Bergkamp 79'
-[Fri Jun 14]
-  Czech Republic - Italy  2-1   @ Liverpool, England
-     Pavel Nedvěd 5' Radek Bejbl 35';
-     Enrico Chiesa 18'
-  Portugal - Turkey  1-0   @ Nottingham, England
-     Fernando Couto 66'
-[Sat Jun 15]
-  England - Scotland  2-0   @ London, England
-     Alan Shearer 53' Paul Gascoigne 79'
-  France - Spain  1-1   @ Leeds, England
-     Youri Djorkaeff 48';
-     José Luis Caminero 85'
-[Sun Jun 16]
-  Croatia - Denmark  3-0   @ Sheffield, England
-     Davor Šuker 54' (pen.) Zvonimir Boban 81' Davor Šuker 90'
-  Russia - Germany  0-3   @ Manchester, England
-     -; Matthias Sammer 56' Jürgen Klinsmann 77' Jürgen Klinsmann 90'
-[Tue Jun 18]
-  England - Netherlands  4-1   @ London, England
-     Alan Shearer 23' (pen.) Teddy Sheringham 51' Alan Shearer 57' Teddy Sheringham 62';
-     Patrick Kluivert 78'
-  France - Bulgaria  3-1   @ Newcastle, England
-     Laurent Blanc 21' Lyuboslav Penev 63' (o.g.) Patrice Loko 90';
-     Hristo Stoichkov 69'
-  Romania - Spain  1-2   @ Leeds, England
-     Florin Răducioiu 29';
-     Javier Manjarín 11' Guillermo Amor 84'
-  Scotland - Switzerland  1-0   @ Birmingham, England
-     Ally McCoist 36'
-[Wed Jun 19]
-  Croatia - Portugal  0-3   @ Nottingham, England
-     -; Luís Figo 4' João Vieira Pinto 33' Domingos Paciência 82'
-  Italy - Germany  0-0   @ Manchester, England
-  Russia - Czech Republic  3-3   @ Liverpool, England
-     Aleksandr Mostovoi 49' Omari Tetradze 54' Vladimir Beschastnykh 85';
-     Jan Suchopárek 5' Pavel Kuka 19' Vladimír Šmicer 88'
-  Turkey - Denmark  0-3   @ Sheffield, England
-     -; Brian Laudrup 50' Allan Nielsen 69' Brian Laudrup 84'
-[Sat Jun 22]
-  England - Spain  0-0   @ London, England   [England wins on penalties]
-  France - Netherlands  0-0   @ Liverpool, England   [France wins on penalties]
-[Sun Jun 23]
-  Czech Republic - Portugal  1-0   @ Birmingham, England
-     Karel Poborský 53'
-  Germany - Croatia  2-1   @ Manchester, England
-     Jürgen Klinsmann 20' (pen.) Matthias Sammer 59';
-     Davor Šuker 51'
-[Wed Jun 26]
-  England - Germany  1-1   @ London, England   [Germany wins on penalties]
-     Alan Shearer 3';
-     Stefan Kuntz 16'
-  France - Czech Republic  0-0   @ Manchester, England   [Czech Republic wins on penalties]
-[Sun Jun 30]
-  Czech Republic - Germany  1-2   @ London, England
-     Patrik Berger 59' (pen.);
-     Oliver Bierhoff 73' Oliver Bierhoff 95'
+Sat Jun 8
+  England              v Switzerland           1-1   @ London, England
+     (Alan Shearer 23';
+      Kubilay Türkyilmaz 83'(p))
+Sun Jun 9
+  Denmark              v Portugal              1-1   @ Sheffield, England
+     (Brian Laudrup 22';
+      Ricardo Sá Pinto 53')
+  Germany              v Czech Republic        2-0   @ Manchester, England
+     (Christian Ziege 26' Andreas Möller 32')
+  Spain                v Bulgaria              1-1   @ Leeds, England
+     (Alfonso Pérez 74';
+      Hristo Stoichkov 65'(p))
+Mon Jun 10
+  Netherlands          v Scotland              0-0   @ Birmingham, England
+  Romania              v France                0-1   @ Newcastle, England
+     (Christophe Dugarry 25')
+Tue Jun 11
+  Italy                v Russia                2-1   @ Liverpool, England
+     (Pierluigi Casiraghi 5' Pierluigi Casiraghi 52';
+      Ilya Tsymbalar 21')
+  Turkey               v Croatia               0-1   @ Nottingham, England
+     (Goran Vlaović 86')
+Thu Jun 13
+  Bulgaria             v Romania               1-0   @ Newcastle, England
+     (Hristo Stoichkov 3')
+  Switzerland          v Netherlands           0-2   @ Birmingham, England
+     (Jordi Cruyff 66' Dennis Bergkamp 79')
+Fri Jun 14
+  Czech Republic       v Italy                 2-1   @ Liverpool, England
+     (Pavel Nedvěd 5' Radek Bejbl 35';
+      Enrico Chiesa 18')
+  Portugal             v Turkey                1-0   @ Nottingham, England
+     (Fernando Couto 66')
+Sat Jun 15
+  England              v Scotland              2-0   @ London, England
+     (Alan Shearer 53' Paul Gascoigne 79')
+  France               v Spain                 1-1   @ Leeds, England
+     (Youri Djorkaeff 48';
+      José Luis Caminero 85')
+Sun Jun 16
+  Croatia              v Denmark               3-0   @ Sheffield, England
+     (Davor Šuker 54'(p) Zvonimir Boban 81' Davor Šuker 90')
+  Russia               v Germany               0-3   @ Manchester, England
+     (Matthias Sammer 56' Jürgen Klinsmann 77' Jürgen Klinsmann 90')
+Tue Jun 18
+  England              v Netherlands           4-1   @ London, England
+     (Alan Shearer 23'(p) Teddy Sheringham 51' Alan Shearer 57' Teddy Sheringham 62';
+      Patrick Kluivert 78')
+  France               v Bulgaria              3-1   @ Newcastle, England
+     (Laurent Blanc 21' Lyuboslav Penev 63'(og) Patrice Loko 90';
+      Hristo Stoichkov 69')
+  Romania              v Spain                 1-2   @ Leeds, England
+     (Florin Răducioiu 29';
+      Javier Manjarín 11' Guillermo Amor 84')
+  Scotland             v Switzerland           1-0   @ Birmingham, England
+     (Ally McCoist 36')
+Wed Jun 19
+  Croatia              v Portugal              0-3   @ Nottingham, England
+     (Luís Figo 4' João Vieira Pinto 33' Domingos Paciência 82')
+  Italy                v Germany               0-0   @ Manchester, England
+  Russia               v Czech Republic        3-3   @ Liverpool, England
+     (Aleksandr Mostovoi 49' Omari Tetradze 54' Vladimir Beschastnykh 85';
+      Jan Suchopárek 5' Pavel Kuka 19' Vladimír Šmicer 88')
+  Turkey               v Denmark               0-3   @ Sheffield, England
+     (Brian Laudrup 50' Allan Nielsen 69' Brian Laudrup 84')
+Sat Jun 22
+  England              v Spain                 0-0   @ London, England   [England wins on penalties]
+  France               v Netherlands           0-0   @ Liverpool, England   [France wins on penalties]
+Sun Jun 23
+  Czech Republic       v Portugal              1-0   @ Birmingham, England
+     (Karel Poborský 53')
+  Germany              v Croatia               2-1   @ Manchester, England
+     (Jürgen Klinsmann 20'(p) Matthias Sammer 59';
+      Davor Šuker 51')
+Wed Jun 26
+  England              v Germany               1-1   @ London, England   [Germany wins on penalties]
+     (Alan Shearer 3';
+      Stefan Kuntz 16')
+  France               v Czech Republic        0-0   @ Manchester, England   [Czech Republic wins on penalties]
+Sun Jun 30
+  Czech Republic       v Germany               1-2   @ London, England
+     (Patrik Berger 59'(p);
+      Oliver Bierhoff 73' Oliver Bierhoff 95')
 

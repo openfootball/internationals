@@ -1,52 +1,52 @@
 = AFC Asian Cup 1992
 
-# Date       Thu Oct/29 - Sun Nov/8 1992 (10d)
+# Date       Thu Oct 29 - Sun Nov 8 1992 (10d)
 # Teams      8
 # Matches    16
 
-[Thu Oct 29]
-  Qatar - Thailand  1-1   @ Hiroshima, Japan
-     Mahmoud Soufi 81';
-     Thanis Areesngarkul 42'
-  Saudi Arabia - China PR  1-1   @ Hiroshima, Japan
-     Yousuf Al-Thunayan 17';
-     Li Bing 41'
-[Fri Oct 30]
-  Japan - United Arab Emirates  0-0   @ Onomichi, Japan
-  North Korea - Iran  0-2   @ Onomichi, Japan
-     -; Farshad Pious 30' Sirous Ghayeghran 80'
-[Sat Oct 31]
-  China PR - Thailand  0-0   @ Hiroshima, Japan
-  Saudi Arabia - Qatar  1-1   @ Hiroshima, Japan
-     Khaled Massad 86';
-     Mubarak Mustafa 74'
-[Sun Nov 1]
-  Japan - North Korea  1-1   @ Hiroshima, Japan
-     Masashi Nakayama 80';
-     Kim Kwang-min 29' (pen.)
-  United Arab Emirates - Iran  0-0   @ Hiroshima, Japan
-[Mon Nov 2]
-  China PR - Qatar  2-1   @ Onomichi, Japan
-     Peng Weiguo 44' Peng Weiguo 58';
-     Khalifa Al-Sulaiti 20'
-  Saudi Arabia - Thailand  4-0   @ Onomichi, Japan
-     Saeed Al-Owairan 4' Fahad Al-Bishi 19' Yousuf Al-Thunayan 64' Fahad Al-Bishi 72'
-[Tue Nov 3]
-  Japan - Iran  1-0   @ Hiroshima, Japan
-     Kazuyoshi Miura 87'
-  United Arab Emirates - North Korea  2-1   @ Hiroshima, Japan
-     Khamees Saad Mubarak 81' Zuhair Bakheet 85';
-     Kim Kwang-min 69'
-[Fri Nov 6]
-  Japan - China PR  3-2   @ Hiroshima, Japan
-     Masahiro Fukuda 48' Tsuyoshi Kitazawa 57' Masashi Nakayama 84';
-     Xie Yuxin 1' Li Xiao 70'
-  Saudi Arabia - United Arab Emirates  2-0   @ Hiroshima, Japan
-     Saeed Al-Owairan 77' Fahad Al-Bishi 80'
-[Sun Nov 8]
-  China PR - United Arab Emirates  1-1   @ Hiroshima, Japan   [China PR wins on penalties]
-     Hao Haidong 15';
-     Khalid Ismaïl 10'
-  Japan - Saudi Arabia  1-0   @ Hiroshima, Japan
-     Takuya Takagi 36'
+Thu Oct 29
+  Qatar                v Thailand              1-1   @ Hiroshima, Japan
+     (Mahmoud Soufi 81';
+      Thanis Areesngarkul 42')
+  Saudi Arabia         v China PR              1-1   @ Hiroshima, Japan
+     (Yousuf Al-Thunayan 17';
+      Li Bing 41')
+Fri Oct 30
+  Japan                v United Arab Emirates  0-0   @ Onomichi, Japan
+  North Korea          v Iran                  0-2   @ Onomichi, Japan
+     (Farshad Pious 30' Sirous Ghayeghran 80')
+Sat Oct 31
+  China PR             v Thailand              0-0   @ Hiroshima, Japan
+  Saudi Arabia         v Qatar                 1-1   @ Hiroshima, Japan
+     (Khaled Massad 86';
+      Mubarak Mustafa 74')
+Sun Nov 1
+  Japan                v North Korea           1-1   @ Hiroshima, Japan
+     (Masashi Nakayama 80';
+      Kim Kwang-min 29'(p))
+  United Arab Emirates v Iran                  0-0   @ Hiroshima, Japan
+Mon Nov 2
+  China PR             v Qatar                 2-1   @ Onomichi, Japan
+     (Peng Weiguo 44' Peng Weiguo 58';
+      Khalifa Al-Sulaiti 20')
+  Saudi Arabia         v Thailand              4-0   @ Onomichi, Japan
+     (Saeed Al-Owairan 4' Fahad Al-Bishi 19' Yousuf Al-Thunayan 64' Fahad Al-Bishi 72')
+Tue Nov 3
+  Japan                v Iran                  1-0   @ Hiroshima, Japan
+     (Kazuyoshi Miura 87')
+  United Arab Emirates v North Korea           2-1   @ Hiroshima, Japan
+     (Khamees Saad Mubarak 81' Zuhair Bakheet 85';
+      Kim Kwang-min 69')
+Fri Nov 6
+  Japan                v China PR              3-2   @ Hiroshima, Japan
+     (Masahiro Fukuda 48' Tsuyoshi Kitazawa 57' Masashi Nakayama 84';
+      Xie Yuxin 1' Li Xiao 70')
+  Saudi Arabia         v United Arab Emirates  2-0   @ Hiroshima, Japan
+     (Saeed Al-Owairan 77' Fahad Al-Bishi 80')
+Sun Nov 8
+  China PR             v United Arab Emirates  1-1   @ Hiroshima, Japan   [China PR wins on penalties]
+     (Hao Haidong 15';
+      Khalid Ismaïl 10')
+  Japan                v Saudi Arabia          1-0   @ Hiroshima, Japan
+     (Takuya Takagi 36')
 

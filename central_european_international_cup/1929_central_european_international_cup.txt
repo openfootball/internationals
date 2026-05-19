@@ -1,21 +1,21 @@
 = Central European International Cup 1929
 
-# Date       Sun Mar/3 - Sun Oct/27 1929 (238d)
+# Date       Sun Mar 3 - Sun Oct 27 1929 (238d)
 # Teams      5
 # Matches    7
 
-[Sun Mar 3]
-  Italy - Czechoslovakia  4-2   @ Bologna, Italy
-[Sun Apr 7]
-  Austria - Italy  3-0   @ Vienna, Austria
-[Sun Apr 14]
-  Switzerland - Hungary  4-5   @ Bern, Switzerland
-[Sun May 5]
-  Switzerland - Czechoslovakia  1-4   @ Lausanne, Switzerland
-[Sun Sep 8]
-  Czechoslovakia - Hungary  1-1   @ Prague, Czechoslovakia
-[Sun Oct 6]
-  Czechoslovakia - Switzerland  5-0   @ Prague, Czechoslovakia
-[Sun Oct 27]
-  Switzerland - Austria  1-3   @ Bern, Switzerland
+Sun Mar 3
+  Italy                v Czechoslovakia        4-2   @ Bologna, Italy
+Sun Apr 7
+  Austria              v Italy                 3-0   @ Vienna, Austria
+Sun Apr 14
+  Switzerland          v Hungary               4-5   @ Bern, Switzerland
+Sun May 5
+  Switzerland          v Czechoslovakia        1-4   @ Lausanne, Switzerland
+Sun Sep 8
+  Czechoslovakia       v Hungary               1-1   @ Prague, Czechoslovakia
+Sun Oct 6
+  Czechoslovakia       v Switzerland           5-0   @ Prague, Czechoslovakia
+Sun Oct 27
+  Switzerland          v Austria               1-3   @ Bern, Switzerland
 

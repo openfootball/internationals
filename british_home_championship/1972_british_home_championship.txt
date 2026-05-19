@@ -1,17 +1,17 @@
 = British Home Championship 1972
 
-# Date       Sat May/20 - Sat May/27 1972 (7d)
+# Date       Sat May 20 - Sat May 27 1972 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 20]
-  Scotland - Northern Ireland  2-0   @ Glasgow, Scotland
-  Wales - England  0-3   @ Cardiff, Wales
-[Tue May 23]
-  England - Northern Ireland  0-1   @ London, England
-[Wed May 24]
-  Scotland - Wales  1-0   @ Glasgow, Scotland
-[Sat May 27]
-  Scotland - England  0-1   @ Glasgow, Scotland
-  Wales - Northern Ireland  0-0   @ Wrexham, Wales
+Sat May 20
+  Scotland             v Northern Ireland      2-0   @ Glasgow, Scotland
+  Wales                v England               0-3   @ Cardiff, Wales
+Tue May 23
+  England              v Northern Ireland      0-1   @ London, England
+Wed May 24
+  Scotland             v Wales                 1-0   @ Glasgow, Scotland
+Sat May 27
+  Scotland             v England               0-1   @ Glasgow, Scotland
+  Wales                v Northern Ireland      0-0   @ Wrexham, Wales
 

@@ -1,23 +1,23 @@
 = COSAFA Cup 1999
 
-# Date       Sun Jul/4 - Sat Oct/2 1999 (90d)
+# Date       Sun Jul 4 - Sat Oct 2 1999 (90d)
 # Teams      8
 # Matches    8
 
-[Sun Jul 4]
-  Lesotho - Angola  0-1   @ Maseru, Lesotho
-[Sun Jul 18]
-  Eswatini - Zimbabwe  1-1   @ Lobamba, Swaziland   [Eswatini wins on penalties]
-[Sat Jul 31]
-  Namibia - South Africa  1-1   @ Windhoek, Namibia   [Namibia wins on penalties]
-[Sat Aug 7]
-  Zambia - Mozambique  1-1   @ Lusaka, Zambia   [Zambia wins on penalties]
-[Sat Aug 14]
-  Zambia - Angola  0-1   @ Lusaka, Zambia
-[Sat Aug 28]
-  Namibia - Eswatini  1-1   @ Windhoek, Namibia   [Namibia wins on penalties]
-[Sun Sep 26]
-  Angola - Namibia  1-0   @ Luanda, Angola
-[Sat Oct 2]
-  Namibia - Angola  1-1   @ Windhoek, Namibia
+Sun Jul 4
+  Lesotho              v Angola                0-1   @ Maseru, Lesotho
+Sun Jul 18
+  Eswatini             v Zimbabwe              1-1   @ Lobamba, Swaziland   [Eswatini wins on penalties]
+Sat Jul 31
+  Namibia              v South Africa          1-1   @ Windhoek, Namibia   [Namibia wins on penalties]
+Sat Aug 7
+  Zambia               v Mozambique            1-1   @ Lusaka, Zambia   [Zambia wins on penalties]
+Sat Aug 14
+  Zambia               v Angola                0-1   @ Lusaka, Zambia
+Sat Aug 28
+  Namibia              v Eswatini              1-1   @ Windhoek, Namibia   [Namibia wins on penalties]
+Sun Sep 26
+  Angola               v Namibia               1-0   @ Luanda, Angola
+Sat Oct 2
+  Namibia              v Angola                1-1   @ Windhoek, Namibia
 

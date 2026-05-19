@@ -1,32 +1,32 @@
 = Asian Games 1962
 
-# Date       Sat Aug/25 - Tue Sep/4 1962 (10d)
+# Date       Sat Aug 25 - Tue Sep 4 1962 (10d)
 # Teams      8
 # Matches    16
 
-[Sat Aug 25]
-  Indonesia - Vietnam Republic  1-0   @ Jakarta, Indonesia
-  Japan - Thailand  3-1   @ Jakarta, Indonesia
-[Sun Aug 26]
-  Malaysia - Philippines  15-1   @ Jakarta, Indonesia
-  India - South Korea  0-2   @ Jakarta, Indonesia
-[Mon Aug 27]
-  Indonesia - Philippines  6-0   @ Jakarta, Indonesia
-  South Korea - Thailand  3-2   @ Jakarta, Indonesia
-[Tue Aug 28]
-  Indonesia - Malaysia  2-3   @ Jakarta, Indonesia
-  Thailand - India  1-4   @ Jakarta, Indonesia
-[Wed Aug 29]
-  Vietnam Republic - Malaysia  3-0   @ Jakarta, Indonesia
-  India - Japan  2-0   @ Jakarta, Indonesia
-[Thu Aug 30]
-  Vietnam Republic - Philippines  6-0   @ Jakarta, Indonesia
-  South Korea - Japan  1-0   @ Jakarta, Indonesia
-[Sat Sep 1]
-  Vietnam Republic - India  2-3   @ Jakarta, Indonesia
-  South Korea - Malaysia  2-1   @ Jakarta, Indonesia
-[Mon Sep 3]
-  Vietnam Republic - Malaysia  1-4   @ Jakarta, Indonesia
-[Tue Sep 4]
-  India - South Korea  2-1   @ Jakarta, Indonesia
+Sat Aug 25
+  Indonesia            v Vietnam Republic      1-0   @ Jakarta, Indonesia
+  Japan                v Thailand              3-1   @ Jakarta, Indonesia
+Sun Aug 26
+  Malaysia             v Philippines           15-1   @ Jakarta, Indonesia
+  India                v South Korea           0-2   @ Jakarta, Indonesia
+Mon Aug 27
+  Indonesia            v Philippines           6-0   @ Jakarta, Indonesia
+  South Korea          v Thailand              3-2   @ Jakarta, Indonesia
+Tue Aug 28
+  Indonesia            v Malaysia              2-3   @ Jakarta, Indonesia
+  Thailand             v India                 1-4   @ Jakarta, Indonesia
+Wed Aug 29
+  Vietnam Republic     v Malaysia              3-0   @ Jakarta, Indonesia
+  India                v Japan                 2-0   @ Jakarta, Indonesia
+Thu Aug 30
+  Vietnam Republic     v Philippines           6-0   @ Jakarta, Indonesia
+  South Korea          v Japan                 1-0   @ Jakarta, Indonesia
+Sat Sep 1
+  Vietnam Republic     v India                 2-3   @ Jakarta, Indonesia
+  South Korea          v Malaysia              2-1   @ Jakarta, Indonesia
+Mon Sep 3
+  Vietnam Republic     v Malaysia              1-4   @ Jakarta, Indonesia
+Tue Sep 4
+  India                v South Korea           2-1   @ Jakarta, Indonesia
 

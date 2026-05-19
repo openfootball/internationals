@@ -1,32 +1,32 @@
 = African Cup of Nations qualification 1980
 
-# Date       Sun Aug/10 - Sun Nov/30 1980 (112d)
+# Date       Sun Aug 10 - Sun Nov 30 1980 (112d)
 # Teams      14
 # Matches    14
 
-[Sun Aug 10]
-  Mozambique - Lesotho  6-1   @ Maputo, Mozambique
-[Sun Aug 24]
-  Lesotho - Mozambique  2-1   @ Maseru, Lesotho
-[Sun Sep 14]
-  Madagascar - Mauritius  0-0   @ Antananarivo, Madagascar
-[Sun Sep 28]
-  Mali - Mauritania  2-0   @ Bamako, Mali
-  Mauritius - Madagascar  1-1   @ Curepipe, Mauritius
-[Sun Oct 12]
-  Mauritania - Mali  2-1   @ Nouakchott, Mauritania
-[Sun Oct 26]
-  Malawi - Zimbabwe  0-1   @ Blantyre, Malawi
-[Sun Nov 9]
-  Liberia - Gambia  0-0   @ Monrovia, Liberia
-  Zimbabwe - Malawi  1-1   @ Salisbury, Zimbabwe
-[Sun Nov 16]
-  Angola - Congo  1-1   @ Luanda, Angola
-[Mon Nov 17]
-  Senegal - Sierra Leone  2-0   @ Dakar, Senegal
-[Sun Nov 23]
-  Gambia - Liberia  1-1   @ Banjul, Gambia
-[Sun Nov 30]
-  Congo - Angola  0-0   @ Brazzaville, Congo
-  Sierra Leone - Senegal  1-2   @ Freetown, Sierra Leone
+Sun Aug 10
+  Mozambique           v Lesotho               6-1   @ Maputo, Mozambique
+Sun Aug 24
+  Lesotho              v Mozambique            2-1   @ Maseru, Lesotho
+Sun Sep 14
+  Madagascar           v Mauritius             0-0   @ Antananarivo, Madagascar
+Sun Sep 28
+  Mali                 v Mauritania            2-0   @ Bamako, Mali
+  Mauritius            v Madagascar            1-1   @ Curepipe, Mauritius
+Sun Oct 12
+  Mauritania           v Mali                  2-1   @ Nouakchott, Mauritania
+Sun Oct 26
+  Malawi               v Zimbabwe              0-1   @ Blantyre, Malawi
+Sun Nov 9
+  Liberia              v Gambia                0-0   @ Monrovia, Liberia
+  Zimbabwe             v Malawi                1-1   @ Salisbury, Zimbabwe
+Sun Nov 16
+  Angola               v Congo                 1-1   @ Luanda, Angola
+Mon Nov 17
+  Senegal              v Sierra Leone          2-0   @ Dakar, Senegal
+Sun Nov 23
+  Gambia               v Liberia               1-1   @ Banjul, Gambia
+Sun Nov 30
+  Congo                v Angola                0-0   @ Brazzaville, Congo
+  Sierra Leone         v Senegal               1-2   @ Freetown, Sierra Leone
 

@@ -1,86 +1,86 @@
 = CONCACAF Nations League 2022
 
-# Date       Thu Jun/2 - Tue Jun/14 2022 (12d)
+# Date       Thu Jun 2 - Tue Jun 14 2022 (12d)
 # Teams      41
 # Matches    67
 
-[Thu Jun 2]
-  Panama - Costa Rica  2-0   @ Panama City, Panama
-  Barbados - Antigua and Barbuda  0-1   @ Gros Islet, Saint Lucia
-  Guadeloupe - Cuba  2-1   @ Les Abymes, Guadeloupe
-  Belize - Dominican Republic  0-2   @ Belmopan, Belize
-  French Guiana - Guatemala  2-0   @ Cayenne, French Guiana
-  Anguilla - Dominica  0-0   @ The Valley, Anguilla
-[Fri Jun 3]
-  Curaçao - Honduras  0-1   @ Willemstad, Curaçao
-  Bahamas - Saint Vincent and the Grenadines  1-0   @ Nassau, Bahamas
-  Nicaragua - Trinidad and Tobago  2-1   @ Managua, Nicaragua
-  Sint Maarten - United States Virgin Islands  1-1   @ Willemstad, Curaçao
-  Turks and Caicos Islands - Bonaire  1-4   @ Providenciales, Turks and Caicos Islands
-  Saint Martin - Aruba  0-0   @ The Valley, Anguilla
-  British Virgin Islands - Cayman Islands  1-1   @ Tortola, British Virgin Islands
-[Sat Jun 4]
-  Suriname - Jamaica  1-1   @ Paramaribo, Suriname
-  El Salvador - Grenada  3-1   @ San Salvador, El Salvador
-  Bermuda - Haiti  0-0   @ Devonshire Parish, Bermuda
-  Montserrat - Guyana  1-2   @ Santo Domingo, Dominican Republic
-[Sun Jun 5]
-  Costa Rica - Martinique  2-0   @ San José, Costa Rica
-  Cuba - Barbados  3-0   @ Santiago, Cuba
-  Antigua and Barbuda - Guadeloupe  1-0   @ Basseterre, Saint Kitts and Nevis
-  Guatemala - Belize  2-0   @ Guatemala City, Guatemala
-  Dominican Republic - French Guiana  2-3   @ Santo Domingo, Dominican Republic
-  Dominica - Anguilla  1-1   @ Basseterre, Saint Kitts and Nevis
-[Mon Jun 6]
-  Honduras - Curaçao  1-2   @ San Pedro Sula, Honduras
-  Saint Vincent and the Grenadines - Nicaragua  2-2   @ Kingstown, Saint Vincent and the Grenadines
-  Trinidad and Tobago - Bahamas  1-0   @ Port of Spain, Trinidad and Tobago
-  Bonaire - Sint Maarten  2-2   @ Willemstad, Curaçao
-  United States Virgin Islands - Turks and Caicos Islands  3-2   @ Saint Croix, United States Virgin Islands
-  Aruba - Saint Martin  3-0   @ Willemstad, Curaçao
-  Cayman Islands - British Virgin Islands  1-1   @ George Town, Cayman Islands
-[Tue Jun 7]
-  Jamaica - Suriname  3-1   @ Kingston, Jamaica
-  Grenada - El Salvador  2-2   @ St. George's, Grenada
-  Guyana - Bermuda  2-1   @ Leonora, Guyana
-  Haiti - Montserrat  3-2   @ Santo Domingo, Dominican Republic
-[Thu Jun 9]
-  Panama - Martinique  5-0   @ Panama City, Panama
-  Canada - Curaçao  4-0   @ Vancouver, Canada
-  Barbados - Guadeloupe  0-1   @ Gros Islet, Saint Lucia
-  Antigua and Barbuda - Cuba  0-2   @ Basseterre, Saint Kitts and Nevis
-  Belize - French Guiana  1-1   @ Belmopan, Belize
-  Aruba - Saint Kitts and Nevis  2-3   @ Willemstad, Curaçao
-  Dominica - Saint Lucia  0-1   @ Roseau, Dominica
-  Cayman Islands - Puerto Rico  0-3   @ George Town, Cayman Islands
-[Fri Jun 10]
-  United States - Grenada  5-0   @ Austin, United States
-  Saint Vincent and the Grenadines - Trinidad and Tobago  0-2   @ Kingstown, Saint Vincent and the Grenadines
-  Bahamas - Nicaragua  0-2   @ Nassau, Bahamas
-  Dominican Republic - Guatemala  1-1   @ Santo Domingo, Dominican Republic
-[Sat Jun 11]
-  Mexico - Suriname  3-0   @ Torreón, Mexico
-  Guyana - Haiti  2-6   @ Leonora, Guyana
-  Montserrat - Bermuda  3-2   @ Santo Domingo, Dominican Republic
-  United States Virgin Islands - Bonaire  0-2   @ Saint Croix, United States Virgin Islands
-  Sint Maarten - Turks and Caicos Islands  8-2   @ Willemstad, Curaçao
-[Sun Jun 12]
-  Martinique - Panama  0-0   @ Fort-de-France, Martinique
-  Cuba - Antigua and Barbuda  3-1   @ Santiago, Cuba
-  Guadeloupe - Barbados  2-1   @ Les Abymes, Guadeloupe
-  Saint Kitts and Nevis - Saint Martin  1-1   @ Basseterre, Saint Kitts and Nevis
-  Saint Lucia - Anguilla  2-0   @ Gros Islet, Saint Lucia
-  Puerto Rico - British Virgin Islands  6-0   @ Mayagüez, Puerto Rico
-[Mon Jun 13]
-  Honduras - Canada  2-1   @ San Pedro Sula, Honduras
-  Nicaragua - Bahamas  4-0   @ Managua, Nicaragua
-  Trinidad and Tobago - Saint Vincent and the Grenadines  4-1   @ Port of Spain, Trinidad and Tobago
-  Guatemala - Dominican Republic  2-0   @ Guatemala City, Guatemala
-[Tue Jun 14]
-  Jamaica - Mexico  1-1   @ Kingston, Jamaica
-  El Salvador - United States  1-1   @ San Salvador, El Salvador
-  Haiti - Guyana  6-0   @ Santo Domingo, Dominican Republic
-  French Guiana - Belize  1-0   @ Cayenne, French Guiana
-  Bonaire - United States Virgin Islands  2-0   @ Willemstad, Curaçao
-  Turks and Caicos Islands - Sint Maarten  2-0   @ Providenciales, Turks and Caicos Islands
+Thu Jun 2
+  Panama               v Costa Rica            2-0   @ Panama City, Panama
+  Barbados             v Antigua and Barbuda   0-1   @ Gros Islet, Saint Lucia
+  Guadeloupe           v Cuba                  2-1   @ Les Abymes, Guadeloupe
+  Belize               v Dominican Republic    0-2   @ Belmopan, Belize
+  French Guiana        v Guatemala             2-0   @ Cayenne, French Guiana
+  Anguilla             v Dominica              0-0   @ The Valley, Anguilla
+Fri Jun 3
+  Curaçao              v Honduras              0-1   @ Willemstad, Curaçao
+  Bahamas              v Saint Vincent and the Grenadines  1-0   @ Nassau, Bahamas
+  Nicaragua            v Trinidad and Tobago   2-1   @ Managua, Nicaragua
+  Sint Maarten         v United States Virgin Islands  1-1   @ Willemstad, Curaçao
+  Turks and Caicos Islands v Bonaire               1-4   @ Providenciales, Turks and Caicos Islands
+  Saint Martin         v Aruba                 0-0   @ The Valley, Anguilla
+  British Virgin Islands v Cayman Islands        1-1   @ Tortola, British Virgin Islands
+Sat Jun 4
+  Suriname             v Jamaica               1-1   @ Paramaribo, Suriname
+  El Salvador          v Grenada               3-1   @ San Salvador, El Salvador
+  Bermuda              v Haiti                 0-0   @ Devonshire Parish, Bermuda
+  Montserrat           v Guyana                1-2   @ Santo Domingo, Dominican Republic
+Sun Jun 5
+  Costa Rica           v Martinique            2-0   @ San José, Costa Rica
+  Cuba                 v Barbados              3-0   @ Santiago, Cuba
+  Antigua and Barbuda  v Guadeloupe            1-0   @ Basseterre, Saint Kitts and Nevis
+  Guatemala            v Belize                2-0   @ Guatemala City, Guatemala
+  Dominican Republic   v French Guiana         2-3   @ Santo Domingo, Dominican Republic
+  Dominica             v Anguilla              1-1   @ Basseterre, Saint Kitts and Nevis
+Mon Jun 6
+  Honduras             v Curaçao               1-2   @ San Pedro Sula, Honduras
+  Saint Vincent and the Grenadines v Nicaragua             2-2   @ Kingstown, Saint Vincent and the Grenadines
+  Trinidad and Tobago  v Bahamas               1-0   @ Port of Spain, Trinidad and Tobago
+  Bonaire              v Sint Maarten          2-2   @ Willemstad, Curaçao
+  United States Virgin Islands v Turks and Caicos Islands  3-2   @ Saint Croix, United States Virgin Islands
+  Aruba                v Saint Martin          3-0   @ Willemstad, Curaçao
+  Cayman Islands       v British Virgin Islands  1-1   @ George Town, Cayman Islands
+Tue Jun 7
+  Jamaica              v Suriname              3-1   @ Kingston, Jamaica
+  Grenada              v El Salvador           2-2   @ St. George's, Grenada
+  Guyana               v Bermuda               2-1   @ Leonora, Guyana
+  Haiti                v Montserrat            3-2   @ Santo Domingo, Dominican Republic
+Thu Jun 9
+  Panama               v Martinique            5-0   @ Panama City, Panama
+  Canada               v Curaçao               4-0   @ Vancouver, Canada
+  Barbados             v Guadeloupe            0-1   @ Gros Islet, Saint Lucia
+  Antigua and Barbuda  v Cuba                  0-2   @ Basseterre, Saint Kitts and Nevis
+  Belize               v French Guiana         1-1   @ Belmopan, Belize
+  Aruba                v Saint Kitts and Nevis  2-3   @ Willemstad, Curaçao
+  Dominica             v Saint Lucia           0-1   @ Roseau, Dominica
+  Cayman Islands       v Puerto Rico           0-3   @ George Town, Cayman Islands
+Fri Jun 10
+  United States        v Grenada               5-0   @ Austin, United States
+  Saint Vincent and the Grenadines v Trinidad and Tobago   0-2   @ Kingstown, Saint Vincent and the Grenadines
+  Bahamas              v Nicaragua             0-2   @ Nassau, Bahamas
+  Dominican Republic   v Guatemala             1-1   @ Santo Domingo, Dominican Republic
+Sat Jun 11
+  Mexico               v Suriname              3-0   @ Torreón, Mexico
+  Guyana               v Haiti                 2-6   @ Leonora, Guyana
+  Montserrat           v Bermuda               3-2   @ Santo Domingo, Dominican Republic
+  United States Virgin Islands v Bonaire               0-2   @ Saint Croix, United States Virgin Islands
+  Sint Maarten         v Turks and Caicos Islands  8-2   @ Willemstad, Curaçao
+Sun Jun 12
+  Martinique           v Panama                0-0   @ Fort-de-France, Martinique
+  Cuba                 v Antigua and Barbuda   3-1   @ Santiago, Cuba
+  Guadeloupe           v Barbados              2-1   @ Les Abymes, Guadeloupe
+  Saint Kitts and Nevis v Saint Martin          1-1   @ Basseterre, Saint Kitts and Nevis
+  Saint Lucia          v Anguilla              2-0   @ Gros Islet, Saint Lucia
+  Puerto Rico          v British Virgin Islands  6-0   @ Mayagüez, Puerto Rico
+Mon Jun 13
+  Honduras             v Canada                2-1   @ San Pedro Sula, Honduras
+  Nicaragua            v Bahamas               4-0   @ Managua, Nicaragua
+  Trinidad and Tobago  v Saint Vincent and the Grenadines  4-1   @ Port of Spain, Trinidad and Tobago
+  Guatemala            v Dominican Republic    2-0   @ Guatemala City, Guatemala
+Tue Jun 14
+  Jamaica              v Mexico                1-1   @ Kingston, Jamaica
+  El Salvador          v United States         1-1   @ San Salvador, El Salvador
+  Haiti                v Guyana                6-0   @ Santo Domingo, Dominican Republic
+  French Guiana        v Belize                1-0   @ Cayenne, French Guiana
+  Bonaire              v United States Virgin Islands  2-0   @ Willemstad, Curaçao
+  Turks and Caicos Islands v Sint Maarten          2-0   @ Providenciales, Turks and Caicos Islands
 

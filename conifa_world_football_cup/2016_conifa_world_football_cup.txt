@@ -1,43 +1,43 @@
 = CONIFA World Football Cup 2016
 
-# Date       Sun May/29 - Sun Jun/5 2016 (7d)
+# Date       Sun May 29 - Sun Jun 5 2016 (7d)
 # Teams      12
 # Matches    28
 
-[Sun May 29]
-  Abkhazia - Chagos Islands  9-0   @ Sukhumi, Georgia
-  Iraqi Kurdistan - Székely Land  3-0   @ Sukhumi, Georgia
-  Padania - Northern Cyprus  1-2   @ Gagra, Georgia
-  Sápmi - Somaliland  5-0   @ Gagra, Georgia
-[Mon May 30]
-  Chagos Islands - Western Armenia  0-12   @ Sukhumi, Georgia
-  United Koreans in Japan - Székely Land  1-0   @ Sukhumi, Georgia
-  Raetia - Padania  0-6   @ Gagra, Georgia
-  Sápmi - Panjab  0-1   @ Gagra, Georgia
-[Tue May 31]
-  Abkhazia - Western Armenia  1-0   @ Sukhumi, Georgia
-  United Koreans in Japan - Iraqi Kurdistan  0-3   @ Sukhumi, Georgia
-  Northern Cyprus - Raetia  7-0   @ Gagra, Georgia
-  Somaliland - Panjab  0-5   @ Gagra, Georgia
-[Wed Jun 1]
-  United Koreans in Japan - Northern Cyprus  1-1   @ Sukhumi, Georgia   [Northern Cyprus wins on penalties]
-  Abkhazia - Sápmi  2-0   @ Sukhumi, Georgia
-[Thu Jun 2]
-  Iraqi Kurdistan - Padania  2-2   @ Sukhumi, Georgia   [Padania wins on penalties]
-  Western Armenia - Panjab  2-3   @ Sukhumi, Georgia
-  Chagos Islands - Somaliland  2-3   @ Sukhumi, Georgia
-  Székely Land - Raetia  7-0   @ Sukhumi, Georgia
-[Fri Jun 3]
-  United Koreans in Japan - Sápmi  1-2   @ Sukhumi, Georgia
-  Iraqi Kurdistan - Western Armenia  0-0   @ Sukhumi, Georgia   [Western Armenia wins on penalties]
-  Chagos Islands - Raetia  3-3   @ Sukhumi, Georgia   [Raetia wins on penalties]
-  Somaliland - Székely Land  7-0   @ Sukhumi, Georgia
-[Sat Jun 4]
-  Abkhazia - Northern Cyprus  2-0   @ Sukhumi, Georgia
-  Padania - Panjab  1-0   @ Sukhumi, Georgia
-  United Koreans in Japan - Iraqi Kurdistan  1-1   @ Sukhumi, Georgia   [United Koreans in Japan wins on penalties]
-  Sápmi - Western Armenia  3-0   @ Sukhumi, Georgia
-[Sun Jun 5]
-  Padania - Northern Cyprus  0-2   @ Sukhumi, Georgia
-  Abkhazia - Panjab  1-1   @ Sukhumi, Georgia   [Abkhazia wins on penalties]
+Sun May 29
+  Abkhazia             v Chagos Islands        9-0   @ Sukhumi, Georgia
+  Iraqi Kurdistan      v Székely Land          3-0   @ Sukhumi, Georgia
+  Padania              v Northern Cyprus       1-2   @ Gagra, Georgia
+  Sápmi                v Somaliland            5-0   @ Gagra, Georgia
+Mon May 30
+  Chagos Islands       v Western Armenia       0-12   @ Sukhumi, Georgia
+  United Koreans in Japan v Székely Land          1-0   @ Sukhumi, Georgia
+  Raetia               v Padania               0-6   @ Gagra, Georgia
+  Sápmi                v Panjab                0-1   @ Gagra, Georgia
+Tue May 31
+  Abkhazia             v Western Armenia       1-0   @ Sukhumi, Georgia
+  United Koreans in Japan v Iraqi Kurdistan       0-3   @ Sukhumi, Georgia
+  Northern Cyprus      v Raetia                7-0   @ Gagra, Georgia
+  Somaliland           v Panjab                0-5   @ Gagra, Georgia
+Wed Jun 1
+  United Koreans in Japan v Northern Cyprus       1-1   @ Sukhumi, Georgia   [Northern Cyprus wins on penalties]
+  Abkhazia             v Sápmi                 2-0   @ Sukhumi, Georgia
+Thu Jun 2
+  Iraqi Kurdistan      v Padania               2-2   @ Sukhumi, Georgia   [Padania wins on penalties]
+  Western Armenia      v Panjab                2-3   @ Sukhumi, Georgia
+  Chagos Islands       v Somaliland            2-3   @ Sukhumi, Georgia
+  Székely Land         v Raetia                7-0   @ Sukhumi, Georgia
+Fri Jun 3
+  United Koreans in Japan v Sápmi                 1-2   @ Sukhumi, Georgia
+  Iraqi Kurdistan      v Western Armenia       0-0   @ Sukhumi, Georgia   [Western Armenia wins on penalties]
+  Chagos Islands       v Raetia                3-3   @ Sukhumi, Georgia   [Raetia wins on penalties]
+  Somaliland           v Székely Land          7-0   @ Sukhumi, Georgia
+Sat Jun 4
+  Abkhazia             v Northern Cyprus       2-0   @ Sukhumi, Georgia
+  Padania              v Panjab                1-0   @ Sukhumi, Georgia
+  United Koreans in Japan v Iraqi Kurdistan       1-1   @ Sukhumi, Georgia   [United Koreans in Japan wins on penalties]
+  Sápmi                v Western Armenia       3-0   @ Sukhumi, Georgia
+Sun Jun 5
+  Padania              v Northern Cyprus       0-2   @ Sukhumi, Georgia
+  Abkhazia             v Panjab                1-1   @ Sukhumi, Georgia   [Abkhazia wins on penalties]
 

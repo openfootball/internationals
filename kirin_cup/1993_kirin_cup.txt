@@ -1,13 +1,13 @@
 = Kirin Cup 1993
 
-# Date       Sun Mar/7 - Sun Mar/14 1993 (7d)
+# Date       Sun Mar 7 - Sun Mar 14 1993 (7d)
 # Teams      3
 # Matches    3
 
-[Sun Mar 7]
-  Japan - Hungary  0-1   @ Fukuoka, Japan
-[Wed Mar 10]
-  Hungary - United States  0-0   @ Nagoya, Japan
-[Sun Mar 14]
-  Japan - United States  3-1   @ Tokyo, Japan
+Sun Mar 7
+  Japan                v Hungary               0-1   @ Fukuoka, Japan
+Wed Mar 10
+  Hungary              v United States         0-0   @ Nagoya, Japan
+Sun Mar 14
+  Japan                v United States         3-1   @ Tokyo, Japan
 

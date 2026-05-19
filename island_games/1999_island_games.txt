@@ -1,43 +1,43 @@
 = Island Games 1999
 
-# Date       Sun Jun/27 - Fri Jul/2 1999 (5d)
+# Date       Sun Jun 27 - Fri Jul 2 1999 (5d)
 # Teams      14
 # Matches    31
 
-[Sun Jun 27]
-  Jersey - Åland Islands  1-0   @ Visby, Sweden
-  Gotland - Hitra  12-1   @ Gutavallen, Sweden
-  Isle of Man - Shetland  2-1   @ Dalhem, Sweden
-  Isle of Wight - Frøya  6-2   @ Fardhem, Sweden
-  Greenland - Saare County  4-1   @ Väskinde, Sweden
-  Ynys Môn - Rhodes  1-1   @ Fårösund, Sweden
-[Mon Jun 28]
-  Åland Islands - Gibraltar  2-1   @ Väskinde, Sweden
-  Gotland - Shetland  3-1   @ Visby, Sweden
-  Hitra - Isle of Man  0-13   @ Fardhem, Sweden
-  Frøya - Greenland  1-3   @ Dalhem, Sweden
-  Saare County - Isle of Wight  1-6   @ Fårösund, Sweden
-  Rhodes - Guernsey  0-0   @ Visby, Sweden
-[Tue Jun 29]
-  Gibraltar - Jersey  1-5   @ Fardhem, Sweden
-  Gotland - Isle of Man  4-4   @ Visby, Sweden
-  Shetland - Hitra  4-1   @ Fårösund, Sweden
-  Isle of Wight - Greenland  7-2   @ Väskinde, Sweden
-  Saare County - Frøya  1-4   @ Dalhem, Sweden
-  Guernsey - Ynys Môn  1-1   @ Visby, Sweden
-[Thu Jul 1]
-  Hitra - Saare County  2-1   @ Dalhem, Sweden
-  Guernsey - Frøya  4-2   @ Väskinde, Sweden
-  Shetland - Gibraltar  3-2   @ Visby, Sweden
-  Greenland - Rhodes  0-2   @ Fårösund, Sweden
-  Gotland - Åland Islands  1-4   @ Fardhem, Sweden
-  Gotland - Greenland  7-2   @ Norrbacka, Sweden
-  Isle of Wight - Ynys Môn  1-3   @ Visby, Sweden
-  Isle of Man - Jersey  1-0   @ Visby, Sweden
-[Fri Jul 2]
-  Gibraltar - Frøya  5-1   @ Visby, Sweden
-  Guernsey - Shetland  6-5   @ Visby, Sweden
-  Rhodes - Åland Islands  3-2   @ Visby, Sweden
-  Isle of Wight - Jersey  2-0   @ Visby, Sweden
-  Ynys Môn - Isle of Man  1-0   @ Visby, Sweden
+Sun Jun 27
+  Jersey               v Åland Islands         1-0   @ Visby, Sweden
+  Gotland              v Hitra                 12-1   @ Gutavallen, Sweden
+  Isle of Man          v Shetland              2-1   @ Dalhem, Sweden
+  Isle of Wight        v Frøya                 6-2   @ Fardhem, Sweden
+  Greenland            v Saare County          4-1   @ Väskinde, Sweden
+  Ynys Môn             v Rhodes                1-1   @ Fårösund, Sweden
+Mon Jun 28
+  Åland Islands        v Gibraltar             2-1   @ Väskinde, Sweden
+  Gotland              v Shetland              3-1   @ Visby, Sweden
+  Hitra                v Isle of Man           0-13   @ Fardhem, Sweden
+  Frøya                v Greenland             1-3   @ Dalhem, Sweden
+  Saare County         v Isle of Wight         1-6   @ Fårösund, Sweden
+  Rhodes               v Guernsey              0-0   @ Visby, Sweden
+Tue Jun 29
+  Gibraltar            v Jersey                1-5   @ Fardhem, Sweden
+  Gotland              v Isle of Man           4-4   @ Visby, Sweden
+  Shetland             v Hitra                 4-1   @ Fårösund, Sweden
+  Isle of Wight        v Greenland             7-2   @ Väskinde, Sweden
+  Saare County         v Frøya                 1-4   @ Dalhem, Sweden
+  Guernsey             v Ynys Môn              1-1   @ Visby, Sweden
+Thu Jul 1
+  Hitra                v Saare County          2-1   @ Dalhem, Sweden
+  Guernsey             v Frøya                 4-2   @ Väskinde, Sweden
+  Shetland             v Gibraltar             3-2   @ Visby, Sweden
+  Greenland            v Rhodes                0-2   @ Fårösund, Sweden
+  Gotland              v Åland Islands         1-4   @ Fardhem, Sweden
+  Gotland              v Greenland             7-2   @ Norrbacka, Sweden
+  Isle of Wight        v Ynys Môn              1-3   @ Visby, Sweden
+  Isle of Man          v Jersey                1-0   @ Visby, Sweden
+Fri Jul 2
+  Gibraltar            v Frøya                 5-1   @ Visby, Sweden
+  Guernsey             v Shetland              6-5   @ Visby, Sweden
+  Rhodes               v Åland Islands         3-2   @ Visby, Sweden
+  Isle of Wight        v Jersey                2-0   @ Visby, Sweden
+  Ynys Môn             v Isle of Man           1-0   @ Visby, Sweden
 

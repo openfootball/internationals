@@ -1,13 +1,13 @@
 = Arab Cup qualification 1987
 
-# Date       Fri Dec/11 - Tue Dec/15 1987 (4d)
+# Date       Fri Dec 11 - Tue Dec 15 1987 (4d)
 # Teams      3
 # Matches    3
 
-[Fri Dec 11]
-  Algeria - Tunisia  0-0   @ Algiers, Algeria
-[Sun Dec 13]
-  Mauritania - Tunisia  1-2   @ Algiers, Algeria
-[Tue Dec 15]
-  Algeria - Mauritania  3-0   @ Algiers, Algeria
+Fri Dec 11
+  Algeria              v Tunisia               0-0   @ Algiers, Algeria
+Sun Dec 13
+  Mauritania           v Tunisia               1-2   @ Algiers, Algeria
+Tue Dec 15
+  Algeria              v Mauritania            3-0   @ Algiers, Algeria
 

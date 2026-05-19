@@ -1,24 +1,24 @@
 = Pan American Championship 1960
 
-# Date       Sun Mar/6 - Sun Mar/20 1960 (14d)
+# Date       Sun Mar 6 - Sun Mar 20 1960 (14d)
 # Teams      4
 # Matches    10
 
-[Sun Mar 6]
-  Brazil - Mexico  2-2   @ San José, Costa Rica
-[Tue Mar 8]
-  Costa Rica - Argentina  0-0   @ San José, Costa Rica
-[Thu Mar 10]
-  Argentina - Mexico  3-2   @ San José, Costa Rica
-  Costa Rica - Brazil  3-0   @ San José, Costa Rica
-[Sun Mar 13]
-  Argentina - Brazil  2-1   @ San José, Costa Rica
-[Tue Mar 15]
-  Brazil - Mexico  2-1   @ San José, Costa Rica
-  Costa Rica - Argentina  0-2   @ San José, Costa Rica
-[Thu Mar 17]
-  Argentina - Mexico  2-0   @ San José, Costa Rica
-  Costa Rica - Brazil  0-4   @ San José, Costa Rica
-[Sun Mar 20]
-  Argentina - Brazil  0-1   @ San José, Costa Rica
+Sun Mar 6
+  Brazil               v Mexico                2-2   @ San José, Costa Rica
+Tue Mar 8
+  Costa Rica           v Argentina             0-0   @ San José, Costa Rica
+Thu Mar 10
+  Argentina            v Mexico                3-2   @ San José, Costa Rica
+  Costa Rica           v Brazil                3-0   @ San José, Costa Rica
+Sun Mar 13
+  Argentina            v Brazil                2-1   @ San José, Costa Rica
+Tue Mar 15
+  Brazil               v Mexico                2-1   @ San José, Costa Rica
+  Costa Rica           v Argentina             0-2   @ San José, Costa Rica
+Thu Mar 17
+  Argentina            v Mexico                2-0   @ San José, Costa Rica
+  Costa Rica           v Brazil                0-4   @ San José, Costa Rica
+Sun Mar 20
+  Argentina            v Brazil                0-1   @ San José, Costa Rica
 

@@ -1,21 +1,21 @@
 = AFC Asian Cup qualification 1956
 
-# Date       Sat Feb/25 - Sun Aug/26 1956 (183d)
+# Date       Sat Feb 25 - Sun Aug 26 1956 (183d)
 # Teams      6
 # Matches    7
 
-[Sat Feb 25]
-  Philippines - South Korea  0-2   @ Manila, Philippines
-[Sat Mar 17]
-  Malaysia - Cambodia  9-2   @ Kuala Lumpur, Malaya
-[Sat Apr 21]
-  South Korea - Philippines  3-0   @ Seoul, South Korea
-[Tue Apr 24]
-  Cambodia - Malaysia  3-2   @ Phnom Penh, Cambodia
-[Thu May 3]
-  Vietnam Republic - Malaysia  4-0   @ Saigon, Vietnam Republic
-[Thu May 24]
-  Malaysia - Vietnam Republic  3-3   @ Kuala Lumpur, Malaya
-[Sun Aug 26]
-  South Korea - Taiwan  2-0   @ Seoul, South Korea
+Sat Feb 25
+  Philippines          v South Korea           0-2   @ Manila, Philippines
+Sat Mar 17
+  Malaysia             v Cambodia              9-2   @ Kuala Lumpur, Malaya
+Sat Apr 21
+  South Korea          v Philippines           3-0   @ Seoul, South Korea
+Tue Apr 24
+  Cambodia             v Malaysia              3-2   @ Phnom Penh, Cambodia
+Thu May 3
+  Vietnam Republic     v Malaysia              4-0   @ Saigon, Vietnam Republic
+Thu May 24
+  Malaysia             v Vietnam Republic      3-3   @ Kuala Lumpur, Malaya
+Sun Aug 26
+  South Korea          v Taiwan                2-0   @ Seoul, South Korea
 

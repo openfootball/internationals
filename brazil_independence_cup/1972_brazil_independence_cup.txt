@@ -1,56 +1,56 @@
 = Brazil Independence Cup 1972
 
-# Date       Sun Jun/11 - Sun Jul/9 1972 (28d)
+# Date       Sun Jun 11 - Sun Jul 9 1972 (28d)
 # Teams      18
 # Matches    37
 
-[Sun Jun 11]
-  Bolivia - Peru  0-3   @ Curitiba, Brazil
-  Ecuador - Portugal  0-3   @ Natal, Brazil
-  Iran - Republic of Ireland  1-2   @ Recife, Brazil
-  Paraguay - Venezuela  4-1   @ Campo Grande, Brazil
-[Wed Jun 14]
-  Chile - Ecuador  2-1   @ Natal, Brazil
-  Iran - Portugal  0-3   @ Recife, Brazil
-  Paraguay - Peru  1-0   @ Campo Grande, Brazil
-  Venezuela - Yugoslavia  0-10   @ Curitiba, Brazil
-[Sun Jun 18]
-  Bolivia - Yugoslavia  1-1   @ Campo Grande, Brazil
-  Chile - Portugal  1-4   @ Recife, Brazil
-  Colombia - France  2-3   @ Salvador, Brazil
-  Ecuador - Republic of Ireland  2-3   @ Natal, Brazil
-  Peru - Venezuela  1-0   @ Manaus, Brazil
-[Wed Jun 21]
-  Bolivia - Venezuela  2-2   @ Manaus, Brazil
-  Chile - Republic of Ireland  2-1   @ Recife, Brazil
-  Ecuador - Iran  1-1   @ Recife, Brazil
-[Thu Jun 22]
-  Argentina - Colombia  4-1   @ Salvador, Brazil
-  Paraguay - Yugoslavia  1-2   @ Manaus, Brazil
-[Sun Jun 25]
-  Argentina - France  0-0   @ Salvador, Brazil
-  Bolivia - Paraguay  1-6   @ Manaus, Brazil
-  Chile - Iran  2-1   @ Recife, Brazil
-  Republic of Ireland - Portugal  1-2   @ Recife, Brazil
-  Peru - Yugoslavia  1-2   @ Manaus, Brazil
-[Wed Jun 28]
-  Brazil - Czechoslovakia  0-0   @ Rio de Janeiro, Brazil
-[Thu Jun 29]
-  Argentina - Portugal  1-3   @ Rio de Janeiro, Brazil
-  Scotland - Yugoslavia  2-2   @ Belo Horizonte, Brazil
-  Uruguay - Russia  0-1   @ São Paulo, Brazil
-[Sun Jul 2]
-  Argentina - Russia  1-0   @ Belo Horizonte, Brazil
-  Brazil - Yugoslavia  3-0   @ São Paulo, Brazil
-  Czechoslovakia - Scotland  0-0   @ Porto Alegre, Brazil
-  Portugal - Uruguay  1-1   @ Rio de Janeiro, Brazil
-[Wed Jul 5]
-  Brazil - Scotland  1-0   @ Rio de Janeiro, Brazil
-[Thu Jul 6]
-  Argentina - Uruguay  1-0   @ Porto Alegre, Brazil
-  Czechoslovakia - Yugoslavia  1-2   @ São Paulo, Brazil
-  Portugal - Russia  1-0   @ Belo Horizonte, Brazil
-[Sun Jul 9]
-  Argentina - Yugoslavia  2-4   @ Rio de Janeiro, Brazil
-  Brazil - Portugal  1-0   @ Rio de Janeiro, Brazil
+Sun Jun 11
+  Bolivia              v Peru                  0-3   @ Curitiba, Brazil
+  Ecuador              v Portugal              0-3   @ Natal, Brazil
+  Iran                 v Republic of Ireland   1-2   @ Recife, Brazil
+  Paraguay             v Venezuela             4-1   @ Campo Grande, Brazil
+Wed Jun 14
+  Chile                v Ecuador               2-1   @ Natal, Brazil
+  Iran                 v Portugal              0-3   @ Recife, Brazil
+  Paraguay             v Peru                  1-0   @ Campo Grande, Brazil
+  Venezuela            v Yugoslavia            0-10   @ Curitiba, Brazil
+Sun Jun 18
+  Bolivia              v Yugoslavia            1-1   @ Campo Grande, Brazil
+  Chile                v Portugal              1-4   @ Recife, Brazil
+  Colombia             v France                2-3   @ Salvador, Brazil
+  Ecuador              v Republic of Ireland   2-3   @ Natal, Brazil
+  Peru                 v Venezuela             1-0   @ Manaus, Brazil
+Wed Jun 21
+  Bolivia              v Venezuela             2-2   @ Manaus, Brazil
+  Chile                v Republic of Ireland   2-1   @ Recife, Brazil
+  Ecuador              v Iran                  1-1   @ Recife, Brazil
+Thu Jun 22
+  Argentina            v Colombia              4-1   @ Salvador, Brazil
+  Paraguay             v Yugoslavia            1-2   @ Manaus, Brazil
+Sun Jun 25
+  Argentina            v France                0-0   @ Salvador, Brazil
+  Bolivia              v Paraguay              1-6   @ Manaus, Brazil
+  Chile                v Iran                  2-1   @ Recife, Brazil
+  Republic of Ireland  v Portugal              1-2   @ Recife, Brazil
+  Peru                 v Yugoslavia            1-2   @ Manaus, Brazil
+Wed Jun 28
+  Brazil               v Czechoslovakia        0-0   @ Rio de Janeiro, Brazil
+Thu Jun 29
+  Argentina            v Portugal              1-3   @ Rio de Janeiro, Brazil
+  Scotland             v Yugoslavia            2-2   @ Belo Horizonte, Brazil
+  Uruguay              v Russia                0-1   @ São Paulo, Brazil
+Sun Jul 2
+  Argentina            v Russia                1-0   @ Belo Horizonte, Brazil
+  Brazil               v Yugoslavia            3-0   @ São Paulo, Brazil
+  Czechoslovakia       v Scotland              0-0   @ Porto Alegre, Brazil
+  Portugal             v Uruguay               1-1   @ Rio de Janeiro, Brazil
+Wed Jul 5
+  Brazil               v Scotland              1-0   @ Rio de Janeiro, Brazil
+Thu Jul 6
+  Argentina            v Uruguay               1-0   @ Porto Alegre, Brazil
+  Czechoslovakia       v Yugoslavia            1-2   @ São Paulo, Brazil
+  Portugal             v Russia                1-0   @ Belo Horizonte, Brazil
+Sun Jul 9
+  Argentina            v Yugoslavia            2-4   @ Rio de Janeiro, Brazil
+  Brazil               v Portugal              1-0   @ Rio de Janeiro, Brazil
 

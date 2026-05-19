@@ -1,49 +1,49 @@
 = African Cup of Nations qualification 1989
 
-# Date       Fri Apr/7 - Sun Jul/30 1989 (114d)
+# Date       Fri Apr 7 - Sun Jul 30 1989 (114d)
 # Teams      21
 # Matches    30
 
-[Fri Apr 7]
-  Sudan - Kenya  1-0   @ Khartoum, Sudan
-[Sun Apr 9]
-  Angola - Ivory Coast  0-2   @ Luanda, Angola
-  Ethiopia - Egypt  1-0   @ Addis Ababa, Ethiopia
-  Gabon - Ghana  1-0   @ Libreville, Gabon
-  Mali - Morocco  0-0   @ Bamako, Mali
-  Mauritius - Zimbabwe  1-4   @ Curepipe, Mauritius
-  Eswatini - Malawi  0-2   @ Mbabane, Swaziland
-[Sat Apr 15]
-  Guinea - Nigeria  1-1   @ Conakry, Guinea
-[Sun Apr 16]
-  Mozambique - Zambia  0-1   @ Maputo, Mozambique
-[Fri Apr 21]
-  Egypt - Ethiopia  6-1   @ Cairo, Egypt
-[Sat Apr 22]
-  Nigeria - Guinea  3-0   @ Ibadan, Nigeria
-[Sun Apr 23]
-  Ghana - Gabon  1-0   @ Accra, Ghana   [Gabon wins on penalties]
-  Ivory Coast - Angola  4-1   @ Abidjan, Ivory Coast
-  Kenya - Sudan  1-0   @ Nairobi, Kenya   [Kenya wins on penalties]
-  Malawi - Eswatini  1-1   @ Blantyre, Malawi
-  Morocco - Mali  1-1   @ Marrakech, Morocco
-  Zimbabwe - Mauritius  1-0   @ Harare, Zimbabwe
-[Sun Apr 30]
-  Zambia - Mozambique  3-0   @ Lusaka, Zambia
-[Sun Jul 16]
-  Egypt - DR Congo  2-0   @ Cairo, Egypt
-  Nigeria - Zimbabwe  3-0   @ Ibadan, Nigeria
-  Malawi - Kenya  2-3   @ Blantyre, Malawi
-  Zambia - Gabon  3-0   @ Lusaka, Zambia
-  Mali - Ivory Coast  2-2   @ Bamako, Mali
-  Senegal - Tunisia  3-0   @ Dakar, Senegal
-[Fri Jul 28]
-  DR Congo - Egypt  0-0   @ Kinshasa, Zaïre
-[Sat Jul 29]
-  Kenya - Malawi  0-0   @ Nairobi, Kenya
-[Sun Jul 30]
-  Gabon - Zambia  2-1   @ Libreville, Gabon
-  Ivory Coast - Mali  3-1   @ Abidjan, Ivory Coast
-  Tunisia - Senegal  0-1   @ Tunis, Tunisia
-  Zimbabwe - Nigeria  1-1   @ Harare, Zimbabwe
+Fri Apr 7
+  Sudan                v Kenya                 1-0   @ Khartoum, Sudan
+Sun Apr 9
+  Angola               v Ivory Coast           0-2   @ Luanda, Angola
+  Ethiopia             v Egypt                 1-0   @ Addis Ababa, Ethiopia
+  Gabon                v Ghana                 1-0   @ Libreville, Gabon
+  Mali                 v Morocco               0-0   @ Bamako, Mali
+  Mauritius            v Zimbabwe              1-4   @ Curepipe, Mauritius
+  Eswatini             v Malawi                0-2   @ Mbabane, Swaziland
+Sat Apr 15
+  Guinea               v Nigeria               1-1   @ Conakry, Guinea
+Sun Apr 16
+  Mozambique           v Zambia                0-1   @ Maputo, Mozambique
+Fri Apr 21
+  Egypt                v Ethiopia              6-1   @ Cairo, Egypt
+Sat Apr 22
+  Nigeria              v Guinea                3-0   @ Ibadan, Nigeria
+Sun Apr 23
+  Ghana                v Gabon                 1-0   @ Accra, Ghana   [Gabon wins on penalties]
+  Ivory Coast          v Angola                4-1   @ Abidjan, Ivory Coast
+  Kenya                v Sudan                 1-0   @ Nairobi, Kenya   [Kenya wins on penalties]
+  Malawi               v Eswatini              1-1   @ Blantyre, Malawi
+  Morocco              v Mali                  1-1   @ Marrakech, Morocco
+  Zimbabwe             v Mauritius             1-0   @ Harare, Zimbabwe
+Sun Apr 30
+  Zambia               v Mozambique            3-0   @ Lusaka, Zambia
+Sun Jul 16
+  Egypt                v DR Congo              2-0   @ Cairo, Egypt
+  Nigeria              v Zimbabwe              3-0   @ Ibadan, Nigeria
+  Malawi               v Kenya                 2-3   @ Blantyre, Malawi
+  Zambia               v Gabon                 3-0   @ Lusaka, Zambia
+  Mali                 v Ivory Coast           2-2   @ Bamako, Mali
+  Senegal              v Tunisia               3-0   @ Dakar, Senegal
+Fri Jul 28
+  DR Congo             v Egypt                 0-0   @ Kinshasa, Zaïre
+Sat Jul 29
+  Kenya                v Malawi                0-0   @ Nairobi, Kenya
+Sun Jul 30
+  Gabon                v Zambia                2-1   @ Libreville, Gabon
+  Ivory Coast          v Mali                  3-1   @ Abidjan, Ivory Coast
+  Tunisia              v Senegal               0-1   @ Tunis, Tunisia
+  Zimbabwe             v Nigeria               1-1   @ Harare, Zimbabwe
 

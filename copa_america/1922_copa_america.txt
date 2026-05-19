@@ -1,41 +1,41 @@
 = Copa América 1922
 
-# Date       Sun Sep/17 - Mon Nov/6 1922 (50d)
+# Date       Sun Sep 17 - Mon Nov 6 1922 (50d)
 # Teams      5
 # Matches    11
 
-[Sun Sep 17]
-  Brazil - Chile  1-1   @ Rio de Janeiro, Brazil
-     Altino Marcondes 9';
-     Manuel Bravo Paredes 41'
-[Sat Sep 23]
-  Chile - Uruguay  0-2   @ Rio de Janeiro, Brazil
-     -; Juan Carlos Heguy 10' Antonio Urdinarán 19' (pen.)
-[Sun Sep 24]
-  Brazil - Paraguay  1-1   @ Rio de Janeiro, Brazil
-     Amílcar Barbuy 14';
-     Gerardo Rivas 71'
-[Thu Sep 28]
-  Argentina - Chile  4-0   @ Rio de Janeiro, Brazil
-     Angel Chiessa 10' Julio Francia 36' Julio Francia 41' José Gaslini 75'
-[Sun Oct 1]
-  Brazil - Uruguay  0-0   @ Rio de Janeiro, Brazil
-[Thu Oct 5]
-  Chile - Paraguay  0-3   @ Rio de Janeiro, Brazil
-     -; Julio Ramírez 5' Ildefonso López 78' Luis Fretes 86'
-[Sun Oct 8]
-  Argentina - Uruguay  0-1   @ Rio de Janeiro, Brazil
-     -; Felipe Buffoni 43'
-[Thu Oct 12]
-  Paraguay - Uruguay  1-0   @ Rio de Janeiro, Brazil
-     Carlos Elizeche 7'
-[Sun Oct 15]
-  Brazil - Argentina  2-0   @ Rio de Janeiro, Brazil
-     Neco 42' Amílcar Barbuy 86' (pen.)
-[Wed Oct 18]
-  Argentina - Paraguay  2-0   @ Rio de Janeiro, Brazil
-     Julio Francia 63' Julio Francia 79' (pen.)
-[Mon Nov 6]
-  Brazil - Paraguay  3-0   @ Rio de Janeiro, Brazil
-     Neco 11' Xavier Camargo 48' Xavier Camargo 89'
+Sun Sep 17
+  Brazil               v Chile                 1-1   @ Rio de Janeiro, Brazil
+     (Altino Marcondes 9';
+      Manuel Bravo Paredes 41')
+Sat Sep 23
+  Chile                v Uruguay               0-2   @ Rio de Janeiro, Brazil
+     (Juan Carlos Heguy 10' Antonio Urdinarán 19'(p))
+Sun Sep 24
+  Brazil               v Paraguay              1-1   @ Rio de Janeiro, Brazil
+     (Amílcar Barbuy 14';
+      Gerardo Rivas 71')
+Thu Sep 28
+  Argentina            v Chile                 4-0   @ Rio de Janeiro, Brazil
+     (Angel Chiessa 10' Julio Francia 36' Julio Francia 41' José Gaslini 75')
+Sun Oct 1
+  Brazil               v Uruguay               0-0   @ Rio de Janeiro, Brazil
+Thu Oct 5
+  Chile                v Paraguay              0-3   @ Rio de Janeiro, Brazil
+     (Julio Ramírez 5' Ildefonso López 78' Luis Fretes 86')
+Sun Oct 8
+  Argentina            v Uruguay               0-1   @ Rio de Janeiro, Brazil
+     (Felipe Buffoni 43')
+Thu Oct 12
+  Paraguay             v Uruguay               1-0   @ Rio de Janeiro, Brazil
+     (Carlos Elizeche 7')
+Sun Oct 15
+  Brazil               v Argentina             2-0   @ Rio de Janeiro, Brazil
+     (Neco 42' Amílcar Barbuy 86'(p))
+Wed Oct 18
+  Argentina            v Paraguay              2-0   @ Rio de Janeiro, Brazil
+     (Julio Francia 63' Julio Francia 79'(p))
+Mon Nov 6
+  Brazil               v Paraguay              3-0   @ Rio de Janeiro, Brazil
+     (Neco 11' Xavier Camargo 48' Xavier Camargo 89')
 

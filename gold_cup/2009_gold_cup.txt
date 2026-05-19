@@ -1,78 +1,78 @@
 = Gold Cup 2009
 
-# Date       Fri Jul/3 - Sun Jul/26 2009 (23d)
+# Date       Fri Jul 3 - Sun Jul 26 2009 (23d)
 # Teams      12
 # Matches    25
 
-[Fri Jul 3]
-  Canada - Jamaica  1-0   @ Carson, United States
-     Ali Gerba 75'
-  Costa Rica - El Salvador  1-2   @ Carson, United States
-     Warren Granados 64';
-     Osael Romero 19' Osael Romero 87'
-[Sat Jul 4]
-  Honduras - Haiti  1-0   @ Seattle, United States
-     Carlo Costly 76'
-  United States - Grenada  4-0   @ Seattle, United States
-     Freddy Adu 7' Stuart Holden 31' Robbie Rogers 60' Charlie Davies 69'
-[Sun Jul 5]
-  Nicaragua - Mexico  0-2   @ Oakland, United States
-     -; Luis Miguel Noriega 45' (pen.) Pablo Barrera 86'
-  Panama - Guadeloupe  1-2   @ Oakland, United States
-     Nelson Barahona 68';
-     Loïc Loval 33' David Fleurival 43'
-[Tue Jul 7]
-  El Salvador - Canada  0-1   @ Columbus, United States
-     -; Ali Gerba 32'
-  Jamaica - Costa Rica  0-1   @ Columbus, United States
-     -; Celso Borges 64'
-[Wed Jul 8]
-  Haiti - Grenada  2-0   @ Washington, D.C., United States
-     Fabrice Noël 14' James Marcelin 79'
-  United States - Honduras  2-0   @ Washington, D.C., United States
-     Santino Quaranta 74' Brian Ching 79'
-[Thu Jul 9]
-  Guadeloupe - Nicaragua  2-0   @ Houston, United States
-     Stéphane Auvray 57' Ludovic Gotin 59'
-  Mexico - Panama  1-1   @ Houston, United States
-     Miguel Sabah 10';
-     Blas Pérez 29'
-[Fri Jul 10]
-  Costa Rica - Canada  2-2   @ Miami, United States
-     Andy Herron 23' Walter Centeno 35';
-     Patrice Bernier 25' Marcel de Jong 28'
-  El Salvador - Jamaica  0-1   @ Miami, United States
-     -; Omar Cummings 70'
-[Sat Jul 11]
-  Honduras - Grenada  4-0   @ Foxborough, United States
-     Walter Julián Martínez 2' Roger Espinoza 25' Melvin Valladares 56' Carlo Costly 67'
-  United States - Haiti  2-2   @ Foxborough, United States
-     Davy Arnaud 6' Stuart Holden 90';
-     Vaniel Sirin 46' Monès Chéry 49'
-[Sun Jul 12]
-  Mexico - Guadeloupe  2-0   @ Glendale, United States
-     Gerardo Torrado 42' Miguel Sabah 85'
-  Panama - Nicaragua  4-0   @ Glendale, United States
-     Blas Pérez 35' Gabriel Enrique Gómez 56' Luis Tejada 76' Luis Tejada 88'
-[Sat Jul 18]
-  Canada - Honduras  0-1   @ Philadelphia, United States
-     -; Walter Julián Martínez 36' (pen.)
-  United States - Panama  2-1   @ Philadelphia, United States
-     Kyle Beckerman 49' Kenny Cooper 106' (pen.);
-     Blas Pérez 45'
-[Sun Jul 19]
-  Guadeloupe - Costa Rica  1-5   @ Arlington, United States
-     Alexandre Alphonse 64';
-     Celso Borges 3' Álvaro Saborío 16' Andy Herron 47' Álvaro Saborío 71' Pablo Herrera Barrantes 89'
-  Mexico - Haiti  4-0   @ Arlington, United States
-     Miguel Sabah 23' Giovani dos Santos 42' Miguel Sabah 63' Pablo Barrera 83'
-[Thu Jul 23]
-  Costa Rica - Mexico  1-1   @ Chicago, United States   [Mexico wins on penalties]
-     Froylán Ledezma 90';
-     Guillermo Franco 88'
-  United States - Honduras  2-0   @ Chicago, United States
-     Clarence Goodson 45' Kenny Cooper 90'
-[Sun Jul 26]
-  United States - Mexico  0-5   @ East Rutherford, United States
-     -; Gerardo Torrado 56' (pen.) Giovani dos Santos 62' Carlos Vela 67' José Antonio Castro 79' Guillermo Franco 90'
+Fri Jul 3
+  Canada               v Jamaica               1-0   @ Carson, United States
+     (Ali Gerba 75')
+  Costa Rica           v El Salvador           1-2   @ Carson, United States
+     (Warren Granados 64';
+      Osael Romero 19' Osael Romero 87')
+Sat Jul 4
+  Honduras             v Haiti                 1-0   @ Seattle, United States
+     (Carlo Costly 76')
+  United States        v Grenada               4-0   @ Seattle, United States
+     (Freddy Adu 7' Stuart Holden 31' Robbie Rogers 60' Charlie Davies 69')
+Sun Jul 5
+  Nicaragua            v Mexico                0-2   @ Oakland, United States
+     (Luis Miguel Noriega 45'(p) Pablo Barrera 86')
+  Panama               v Guadeloupe            1-2   @ Oakland, United States
+     (Nelson Barahona 68';
+      Loïc Loval 33' David Fleurival 43')
+Tue Jul 7
+  El Salvador          v Canada                0-1   @ Columbus, United States
+     (Ali Gerba 32')
+  Jamaica              v Costa Rica            0-1   @ Columbus, United States
+     (Celso Borges 64')
+Wed Jul 8
+  Haiti                v Grenada               2-0   @ Washington, D.C., United States
+     (Fabrice Noël 14' James Marcelin 79')
+  United States        v Honduras              2-0   @ Washington, D.C., United States
+     (Santino Quaranta 74' Brian Ching 79')
+Thu Jul 9
+  Guadeloupe           v Nicaragua             2-0   @ Houston, United States
+     (Stéphane Auvray 57' Ludovic Gotin 59')
+  Mexico               v Panama                1-1   @ Houston, United States
+     (Miguel Sabah 10';
+      Blas Pérez 29')
+Fri Jul 10
+  Costa Rica           v Canada                2-2   @ Miami, United States
+     (Andy Herron 23' Walter Centeno 35';
+      Patrice Bernier 25' Marcel de Jong 28')
+  El Salvador          v Jamaica               0-1   @ Miami, United States
+     (Omar Cummings 70')
+Sat Jul 11
+  Honduras             v Grenada               4-0   @ Foxborough, United States
+     (Walter Julián Martínez 2' Roger Espinoza 25' Melvin Valladares 56' Carlo Costly 67')
+  United States        v Haiti                 2-2   @ Foxborough, United States
+     (Davy Arnaud 6' Stuart Holden 90';
+      Vaniel Sirin 46' Monès Chéry 49')
+Sun Jul 12
+  Mexico               v Guadeloupe            2-0   @ Glendale, United States
+     (Gerardo Torrado 42' Miguel Sabah 85')
+  Panama               v Nicaragua             4-0   @ Glendale, United States
+     (Blas Pérez 35' Gabriel Enrique Gómez 56' Luis Tejada 76' Luis Tejada 88')
+Sat Jul 18
+  Canada               v Honduras              0-1   @ Philadelphia, United States
+     (Walter Julián Martínez 36'(p))
+  United States        v Panama                2-1   @ Philadelphia, United States
+     (Kyle Beckerman 49' Kenny Cooper 106'(p);
+      Blas Pérez 45')
+Sun Jul 19
+  Guadeloupe           v Costa Rica            1-5   @ Arlington, United States
+     (Alexandre Alphonse 64';
+      Celso Borges 3' Álvaro Saborío 16' Andy Herron 47' Álvaro Saborío 71' Pablo Herrera Barrantes 89')
+  Mexico               v Haiti                 4-0   @ Arlington, United States
+     (Miguel Sabah 23' Giovani dos Santos 42' Miguel Sabah 63' Pablo Barrera 83')
+Thu Jul 23
+  Costa Rica           v Mexico                1-1   @ Chicago, United States   [Mexico wins on penalties]
+     (Froylán Ledezma 90';
+      Guillermo Franco 88')
+  United States        v Honduras              2-0   @ Chicago, United States
+     (Clarence Goodson 45' Kenny Cooper 90')
+Sun Jul 26
+  United States        v Mexico                0-5   @ East Rutherford, United States
+     (Gerardo Torrado 56'(p) Giovani dos Santos 62' Carlos Vela 67' José Antonio Castro 79' Guillermo Franco 90')
 

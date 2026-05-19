@@ -1,25 +1,25 @@
 = Nehru Cup 1993
 
-# Date       Tue Jan/19 - Sun Jan/31 1993 (12d)
+# Date       Tue Jan 19 - Sun Jan 31 1993 (12d)
 # Teams      6
 # Matches    9
 
-[Tue Jan 19]
-  North Korea - Bolivia  2-1   @ Madras, India
-[Wed Jan 20]
-  India - Finland  0-0   @ Madras, India
-[Fri Jan 22]
-  Cameroon - Finland  0-0   @ Madras, India
-[Sun Jan 24]
-  India - Cameroon  1-1   @ Madras, India
-[Mon Jan 25]
-  Bolivia - Russia  1-2   @ Madras, India
-[Tue Jan 26]
-  India - Finland  0-2   @ Madras, India
-[Thu Jan 28]
-  Cameroon - Finland  2-0   @ Madras, India
-[Sat Jan 30]
-  India - Cameroon  2-2   @ Madras, India
-[Sun Jan 31]
-  North Korea - Finland  3-2   @ Madras, India
+Tue Jan 19
+  North Korea          v Bolivia               2-1   @ Madras, India
+Wed Jan 20
+  India                v Finland               0-0   @ Madras, India
+Fri Jan 22
+  Cameroon             v Finland               0-0   @ Madras, India
+Sun Jan 24
+  India                v Cameroon              1-1   @ Madras, India
+Mon Jan 25
+  Bolivia              v Russia                1-2   @ Madras, India
+Tue Jan 26
+  India                v Finland               0-2   @ Madras, India
+Thu Jan 28
+  Cameroon             v Finland               2-0   @ Madras, India
+Sat Jan 30
+  India                v Cameroon              2-2   @ Madras, India
+Sun Jan 31
+  North Korea          v Finland               3-2   @ Madras, India
 

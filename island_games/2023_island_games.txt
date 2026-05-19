@@ -1,41 +1,41 @@
 = Island Games 2023
 
-# Date       Sun Jul/9 - Fri Jul/14 2023 (5d)
+# Date       Sun Jul 9 - Fri Jul 14 2023 (5d)
 # Teams      15
 # Matches    29
 
-[Sun Jul 9]
-  Åland Islands - Isle of Wight  0-2   @ Saint Sampson, Guernsey
-  Guernsey - Western Isles  1-0   @ Saint Sampson, Guernsey
-  Isle of Man - Falkland Islands  3-0   @ Saint Martin, Guernsey
-  Ynys Môn - Shetland  2-0   @ Saint Sampson, Guernsey
-  Orkney - Greenland  2-2   @ Saint Martin, Guernsey   [Greenland wins on penalties]
-  Jersey - Gozo  1-0   @ Saint Sampson, Guernsey
-  Menorca - Saint Helena  5-0   @ Saint Sampson, Guernsey
-[Mon Jul 10]
-  Western Isles - Isle of Wight  0-1   @ Saint Martin, Guernsey
-  Guernsey - Åland Islands  4-1   @ Saint Sampson, Guernsey
-  Falkland Islands - Ynys Môn  1-5   @ Saint Sampson, Guernsey
-  Shetland - Isle of Man  3-2   @ Saint Sampson, Guernsey
-  Greenland - Frøya  2-0   @ Saint Sampson, Guernsey
-  Gozo - Saint Helena  3-0   @ Saint Sampson, Guernsey
-  Jersey - Menorca  4-0   @ Saint Sampson, Guernsey
-[Tue Jul 11]
-  Guernsey - Isle of Wight  1-2   @ Saint Sampson, Guernsey
-  Åland Islands - Western Isles  0-2   @ Saint Sampson, Guernsey
-  Falkland Islands - Shetland  1-4   @ Saint Sampson, Guernsey
-  Isle of Man - Ynys Môn  1-2   @ Saint Martin, Guernsey
-  Frøya - Orkney  2-3   @ St. Peter Port, Guernsey
-  Menorca - Gozo  0-1   @ Saint Martin, Guernsey
-  Saint Helena - Jersey  0-5   @ Saint Sampson, Guernsey
-[Thu Jul 13]
-  Frøya - Saint Helena  4-2   @ Saint Martin, Guernsey
-  Åland Islands - Falkland Islands  1-1   @ Saint Sampson, Guernsey   [Åland Islands wins on penalties]
-  Western Isles - Menorca  2-1   @ Saint Sampson, Guernsey
-  Orkney - Isle of Man  0-1   @ Saint Sampson, Guernsey
-  Shetland - Greenland  5-1   @ Saint Sampson, Guernsey
-  Guernsey - Gozo  1-0   @ Saint Martin, Guernsey
-  Isle of Wight - Jersey  2-3   @ Saint Sampson, Guernsey
-[Fri Jul 14]
-  Ynys Môn - Jersey  2-5   @ St. Peter Port, Guernsey
+Sun Jul 9
+  Åland Islands        v Isle of Wight         0-2   @ Saint Sampson, Guernsey
+  Guernsey             v Western Isles         1-0   @ Saint Sampson, Guernsey
+  Isle of Man          v Falkland Islands      3-0   @ Saint Martin, Guernsey
+  Ynys Môn             v Shetland              2-0   @ Saint Sampson, Guernsey
+  Orkney               v Greenland             2-2   @ Saint Martin, Guernsey   [Greenland wins on penalties]
+  Jersey               v Gozo                  1-0   @ Saint Sampson, Guernsey
+  Menorca              v Saint Helena          5-0   @ Saint Sampson, Guernsey
+Mon Jul 10
+  Western Isles        v Isle of Wight         0-1   @ Saint Martin, Guernsey
+  Guernsey             v Åland Islands         4-1   @ Saint Sampson, Guernsey
+  Falkland Islands     v Ynys Môn              1-5   @ Saint Sampson, Guernsey
+  Shetland             v Isle of Man           3-2   @ Saint Sampson, Guernsey
+  Greenland            v Frøya                 2-0   @ Saint Sampson, Guernsey
+  Gozo                 v Saint Helena          3-0   @ Saint Sampson, Guernsey
+  Jersey               v Menorca               4-0   @ Saint Sampson, Guernsey
+Tue Jul 11
+  Guernsey             v Isle of Wight         1-2   @ Saint Sampson, Guernsey
+  Åland Islands        v Western Isles         0-2   @ Saint Sampson, Guernsey
+  Falkland Islands     v Shetland              1-4   @ Saint Sampson, Guernsey
+  Isle of Man          v Ynys Môn              1-2   @ Saint Martin, Guernsey
+  Frøya                v Orkney                2-3   @ St. Peter Port, Guernsey
+  Menorca              v Gozo                  0-1   @ Saint Martin, Guernsey
+  Saint Helena         v Jersey                0-5   @ Saint Sampson, Guernsey
+Thu Jul 13
+  Frøya                v Saint Helena          4-2   @ Saint Martin, Guernsey
+  Åland Islands        v Falkland Islands      1-1   @ Saint Sampson, Guernsey   [Åland Islands wins on penalties]
+  Western Isles        v Menorca               2-1   @ Saint Sampson, Guernsey
+  Orkney               v Isle of Man           0-1   @ Saint Sampson, Guernsey
+  Shetland             v Greenland             5-1   @ Saint Sampson, Guernsey
+  Guernsey             v Gozo                  1-0   @ Saint Martin, Guernsey
+  Isle of Wight        v Jersey                2-3   @ Saint Sampson, Guernsey
+Fri Jul 14
+  Ynys Môn             v Jersey                2-5   @ St. Peter Port, Guernsey
 

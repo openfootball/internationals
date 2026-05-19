@@ -1,13 +1,13 @@
 = Rous Cup 1989
 
-# Date       Tue May/23 - Tue May/30 1989 (7d)
+# Date       Tue May 23 - Tue May 30 1989 (7d)
 # Teams      3
 # Matches    3
 
-[Tue May 23]
-  England - Chile  0-0   @ London, England
-[Sat May 27]
-  Scotland - England  0-2   @ Glasgow, Scotland
-[Tue May 30]
-  Scotland - Chile  2-0   @ Glasgow, Scotland
+Tue May 23
+  England              v Chile                 0-0   @ London, England
+Sat May 27
+  Scotland             v England               0-2   @ Glasgow, Scotland
+Tue May 30
+  Scotland             v Chile                 2-0   @ Glasgow, Scotland
 

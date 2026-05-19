@@ -1,16 +1,16 @@
 = Korea Cup 1978
 
-# Date       Sat Sep/9 - Wed Sep/13 1978 (4d)
+# Date       Sat Sep 9 - Wed Sep 13 1978 (4d)
 # Teams      7
 # Matches    5
 
-[Sat Sep 9]
-  Bahrain - Malaysia  1-2   @ Seoul, South Korea
-[Sun Sep 10]
-  Indonesia - Thailand  0-2   @ Seoul, South Korea
-  Lebanon - Mexico  1-7   @ Seoul, South Korea
-[Mon Sep 11]
-  South Korea - Malaysia  2-2   @ Busan, South Korea
-[Wed Sep 13]
-  South Korea - Bahrain  3-1   @ Daegu, South Korea
+Sat Sep 9
+  Bahrain              v Malaysia              1-2   @ Seoul, South Korea
+Sun Sep 10
+  Indonesia            v Thailand              0-2   @ Seoul, South Korea
+  Lebanon              v Mexico                1-7   @ Seoul, South Korea
+Mon Sep 11
+  South Korea          v Malaysia              2-2   @ Busan, South Korea
+Wed Sep 13
+  South Korea          v Bahrain               3-1   @ Daegu, South Korea
 

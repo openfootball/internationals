@@ -1,54 +1,54 @@
 = CONCACAF Championship 1971
 
-# Date       Sat Nov/20 - Sun Dec/5 1971 (15d)
+# Date       Sat Nov 20 - Sun Dec 5 1971 (15d)
 # Teams      6
 # Matches    15
 
-[Sat Nov 20]
-  Cuba - Costa Rica  0-3   @ Port of Spain, Trinidad and Tobago
-     -; Roy Sáenz 42' Roy Sáenz 44' Alfonso Estupiñán 55'
-[Sun Nov 21]
-  Haiti - Mexico  0-0   @ San Fernando, Trinidad and Tobago
-  Trinidad and Tobago - Honduras  1-1   @ San Fernando, Trinidad and Tobago
-     Anthony Douglas 25';
-     Miguel Ángel Matamoros 36' (pen.)
-[Tue Nov 23]
-  Cuba - Honduras  3-1   @ Port of Spain, Trinidad and Tobago
-     Francisco Piedra 10' Andrés Roldán 26' José Verdecia 49';
-     Jorge Brand 59'
-[Wed Nov 24]
-  Costa Rica - Haiti  0-0   @ Port of Spain, Trinidad and Tobago
-[Fri Nov 26]
-  Trinidad and Tobago - Mexico  0-2   @ Port of Spain, Trinidad and Tobago
-     -; José Alfredo Jiménez 46' Roberto Rodríguez 85' (pen.)
-[Sat Nov 27]
-  Costa Rica - Honduras  2-1   @ Port of Spain, Trinidad and Tobago
-     Hernán Morales 10' Roy Sáenz 38';
-     Oscar Hernandez 45'
-[Sun Nov 28]
-  Cuba - Mexico  0-1   @ San Fernando, Trinidad and Tobago
-     -; Roberto Rodríguez 15' (pen.)
-  Trinidad and Tobago - Haiti  1-6   @ Arima, Trinidad and Tobago
-     Wilfred Cave 7';
-     Pierre Bayonne 40' Emmanuel Sanon 43' Leintz Domingue 44' Ramon Moraldo 51' (o.g.) Claude Barthelemy 75' Pierre Bayonne 81'
-[Tue Nov 30]
-  Trinidad and Tobago - Cuba  2-2   @ Port of Spain, Trinidad and Tobago
-     Wilfred Cave 15' Clibert Lennard 70';
-     José Luis Elejalde 77' Dagoberto Lara 89'
-[Wed Dec 1]
-  Haiti - Honduras  3-1   @ Port of Spain, Trinidad and Tobago
-     Pierre Bayonne 28' Emmanuel Sanon 41' Jean-Claude Desir 44';
-     Arnulfo Echeverría 1'
-[Thu Dec 2]
-  Costa Rica - Mexico  0-1   @ Port of Spain, Trinidad and Tobago
-     -; Roberto Rodríguez 73'
-[Sat Dec 4]
-  Cuba - Haiti  0-0   @ San Fernando, Trinidad and Tobago
-  Honduras - Mexico  1-2   @ Port of Spain, Trinidad and Tobago
-     Rigoberto Gómez 69';
-     Octavio Muciño 42' Octavio Muciño 83'
-[Sun Dec 5]
-  Trinidad and Tobago - Costa Rica  3-1   @ Port of Spain, Trinidad and Tobago
-     Aubert Philips 30' Steve David 58' Anthony Douglas 69';
-     Emilio Valle 24'
+Sat Nov 20
+  Cuba                 v Costa Rica            0-3   @ Port of Spain, Trinidad and Tobago
+     (Roy Sáenz 42' Roy Sáenz 44' Alfonso Estupiñán 55')
+Sun Nov 21
+  Haiti                v Mexico                0-0   @ San Fernando, Trinidad and Tobago
+  Trinidad and Tobago  v Honduras              1-1   @ San Fernando, Trinidad and Tobago
+     (Anthony Douglas 25';
+      Miguel Ángel Matamoros 36'(p))
+Tue Nov 23
+  Cuba                 v Honduras              3-1   @ Port of Spain, Trinidad and Tobago
+     (Francisco Piedra 10' Andrés Roldán 26' José Verdecia 49';
+      Jorge Brand 59')
+Wed Nov 24
+  Costa Rica           v Haiti                 0-0   @ Port of Spain, Trinidad and Tobago
+Fri Nov 26
+  Trinidad and Tobago  v Mexico                0-2   @ Port of Spain, Trinidad and Tobago
+     (José Alfredo Jiménez 46' Roberto Rodríguez 85'(p))
+Sat Nov 27
+  Costa Rica           v Honduras              2-1   @ Port of Spain, Trinidad and Tobago
+     (Hernán Morales 10' Roy Sáenz 38';
+      Oscar Hernandez 45')
+Sun Nov 28
+  Cuba                 v Mexico                0-1   @ San Fernando, Trinidad and Tobago
+     (Roberto Rodríguez 15'(p))
+  Trinidad and Tobago  v Haiti                 1-6   @ Arima, Trinidad and Tobago
+     (Wilfred Cave 7';
+      Pierre Bayonne 40' Emmanuel Sanon 43' Leintz Domingue 44' Ramon Moraldo 51'(og) Claude Barthelemy 75' Pierre Bayonne 81')
+Tue Nov 30
+  Trinidad and Tobago  v Cuba                  2-2   @ Port of Spain, Trinidad and Tobago
+     (Wilfred Cave 15' Clibert Lennard 70';
+      José Luis Elejalde 77' Dagoberto Lara 89')
+Wed Dec 1
+  Haiti                v Honduras              3-1   @ Port of Spain, Trinidad and Tobago
+     (Pierre Bayonne 28' Emmanuel Sanon 41' Jean-Claude Desir 44';
+      Arnulfo Echeverría 1')
+Thu Dec 2
+  Costa Rica           v Mexico                0-1   @ Port of Spain, Trinidad and Tobago
+     (Roberto Rodríguez 73')
+Sat Dec 4
+  Cuba                 v Haiti                 0-0   @ San Fernando, Trinidad and Tobago
+  Honduras             v Mexico                1-2   @ Port of Spain, Trinidad and Tobago
+     (Rigoberto Gómez 69';
+      Octavio Muciño 42' Octavio Muciño 83')
+Sun Dec 5
+  Trinidad and Tobago  v Costa Rica            3-1   @ Port of Spain, Trinidad and Tobago
+     (Aubert Philips 30' Steve David 58' Anthony Douglas 69';
+      Emilio Valle 24')
 

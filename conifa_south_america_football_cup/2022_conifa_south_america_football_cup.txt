@@ -1,13 +1,13 @@
 = CONIFA South America Football Cup 2022
 
-# Date       Fri Jun/17 - Sun Jun/19 2022 (2d)
+# Date       Fri Jun 17 - Sun Jun 19 2022 (2d)
 # Teams      3
 # Matches    3
 
-[Fri Jun 17]
-  Mapuche - Maule Sur  0-1   @ Linares, Chile
-[Sat Jun 18]
-  Mapuche - Aymara  3-1   @ Linares, Chile
-[Sun Jun 19]
-  Aymara - Maule Sur  0-1   @ Linares, Chile
+Fri Jun 17
+  Mapuche              v Maule Sur             0-1   @ Linares, Chile
+Sat Jun 18
+  Mapuche              v Aymara                3-1   @ Linares, Chile
+Sun Jun 19
+  Aymara               v Maule Sur             0-1   @ Linares, Chile
 

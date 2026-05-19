@@ -1,22 +1,22 @@
 = Melanesia Cup 1989
 
-# Date       Sat Oct/28 - Sat Nov/4 1989 (7d)
+# Date       Sat Oct 28 - Sat Nov 4 1989 (7d)
 # Teams      5
 # Matches    10
 
-[Sat Oct 28]
-  Fiji - Papua New Guinea  2-1   @ Suva, Fiji
-  Solomon Islands - Vanuatu  2-0   @ Suva, Fiji
-[Mon Oct 30]
-  Fiji - Vanuatu  2-1   @ Suva, Fiji
-  New Caledonia - Solomon Islands  2-0   @ Suva, Fiji
-[Tue Oct 31]
-  Fiji - New Caledonia  3-0   @ Suva, Fiji
-  Papua New Guinea - Vanuatu  3-0   @ Suva, Fiji
-[Fri Nov 3]
-  New Caledonia - Vanuatu  5-1   @ Ba, Fiji
-  Papua New Guinea - Solomon Islands  0-0   @ Suva, Fiji
-[Sat Nov 4]
-  Fiji - Solomon Islands  0-0   @ Suva, Fiji
-  New Caledonia - Papua New Guinea  2-1   @ Suva, Fiji
+Sat Oct 28
+  Fiji                 v Papua New Guinea      2-1   @ Suva, Fiji
+  Solomon Islands      v Vanuatu               2-0   @ Suva, Fiji
+Mon Oct 30
+  Fiji                 v Vanuatu               2-1   @ Suva, Fiji
+  New Caledonia        v Solomon Islands       2-0   @ Suva, Fiji
+Tue Oct 31
+  Fiji                 v New Caledonia         3-0   @ Suva, Fiji
+  Papua New Guinea     v Vanuatu               3-0   @ Suva, Fiji
+Fri Nov 3
+  New Caledonia        v Vanuatu               5-1   @ Ba, Fiji
+  Papua New Guinea     v Solomon Islands       0-0   @ Suva, Fiji
+Sat Nov 4
+  Fiji                 v Solomon Islands       0-0   @ Suva, Fiji
+  New Caledonia        v Papua New Guinea      2-1   @ Suva, Fiji
 

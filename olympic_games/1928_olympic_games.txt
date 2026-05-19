@@ -1,85 +1,85 @@
 = Olympic Games 1928
 
-# Date       Sun May/27 - Wed Jun/13 1928 (17d)
+# Date       Sun May 27 - Wed Jun 13 1928 (17d)
 # Teams      17
 # Matches    22
 
-[Sun May 27]
-  Portugal - Chile  4-2   @ Amsterdam, Netherlands
-     Vítor Silva 38' Pepe Soares 40' Pepe Soares 50' Valdemar Mota 63';
-     Guillermo Saavedra 14' Alejandro Carbonell 30'
-  Belgium - Luxembourg  5-3   @ Amsterdam, Netherlands
-     Raymond Braine 9' Louis Versijp 20' Jacques Moeschal 23' Jacques Moeschal 67' Raymond Braine 72';
-     Guillaume Schutz 31' Jean-Pierre Weisgerber 42' Robert Theissen 44'
-[Mon May 28]
-  Germany - Switzerland  4-0   @ Amsterdam, Netherlands
-     Richard Hofmann 17' Josef Hornauer 42' Richard Hofmann 75' Richard Hofmann 85'
-  Egypt - Turkey  7-1   @ Amsterdam, Netherlands
-     Ali El-Hassany 20' (pen.) Ali Mohamed Riad 27' Mahmoud Mokhtar El-Tetsh 46' Mahmoud Mokhtar El-Tetsh 50' Ismail El-Sayed Hooda 53' Mahmoud Mokhtar El-Tetsh 63' Gamil El-Zobeir 86';
-     Bekir Refet 71'
-[Tue May 29]
-  Italy - France  4-3   @ Amsterdam, Netherlands
-     Gino Rossetti 19' Virgilio Levratto 39' Elvio Banchero 43' Adolfo Baloncieri 60';
-     Juste Brouzes 15' Juste Brouzes 17' Robert Dauphin 61'
-  Portugal - Yugoslavia  2-1   @ Amsterdam, Netherlands
-     Vítor Silva 25' Augusto Silva 90';
-     Mirko Bonačić 40'
-  Argentina - United States  11-2   @ Amsterdam, Netherlands
-     Manuel Ferreira 9' Domingo Tarasconi 24' Manuel Ferreira 29' Raimondo Orsi 41' Roberto Cherro 47' Roberto Cherro 49' Roberto Cherro 57' Domingo Tarasconi 63' Domingo Tarasconi 66' Raimondo Orsi 73' Domingo Tarasconi 89';
-     Rudolph Kuntner 55' Henry Carroll 75'
-[Wed May 30]
-  Spain - Mexico  7-1   @ Amsterdam, Netherlands
-     Luis Regueiro 13' Luis Regueiro 27' José Maria Yermo 43' José Maria Yermo 63' Martín Marculeta 66' Ángel Mariscal 70' José Maria Yermo 85';
-     Juan Carreño 76'
-  Netherlands - Uruguay  0-2   @ Amsterdam, Netherlands
-     -; Héctor Scarone 20' Santos Urdinarán 86'
-[Fri Jun 1]
-  Italy - Spain  1-1   @ Amsterdam, Netherlands
-     Adolfo Baloncieri 63';
-     Domingo Zaldua 11'
-[Sat Jun 2]
-  Argentina - Belgium  6-3   @ Amsterdam, Netherlands
-     Domingo Tarasconi 1' Manuel Ferreira 4' Domingo Tarasconi 10' Domingo Tarasconi 75' Raimondo Orsi 81' Domingo Tarasconi 89';
-     Raymond Braine 24' Florimond Vanhalme 28' Jacques Moeschal 53'
-[Sun Jun 3]
-  Uruguay - Germany  4-1   @ Amsterdam, Netherlands
-     Pedro Petrone 35' Pedro Petrone 39' Héctor Castro 63' Pedro Petrone 84';
-     Richard Hofmann 81'
-[Mon Jun 4]
-  Italy - Spain  7-1   @ Amsterdam, Netherlands
-     Mario Magnozzi 14' Angelo Schiavo 15' Adolfo Baloncieri 18' Fulvio Bernardini 40' Enrico Rivolta 72' Virgilio Levratto 76' Virgilio Levratto 77';
-     José Maria Yermo 47'
-  Egypt - Portugal  2-1   @ Amsterdam, Netherlands
-     Mahmoud Mokhtar El-Tetsh 15' Ali Mohamed Riad 48';
-     Vítor Silva 76'
-[Tue Jun 5]
-  Netherlands - Belgium  3-1   @ Rotterdam, Netherlands
-     Leonardus Ghering 4' Felix Smeets 6' Wim Tap 63';
-     Pierre Braine 85'
-  Chile - Mexico  3-1   @ Arnhem, Netherlands
-     Guillermo Subiabre 24' Guillermo Subiabre 48' Guillermo Subiabre 89';
-     Ernesto Sota 15'
-[Wed Jun 6]
-  Argentina - Egypt  6-0   @ Amsterdam, Netherlands
-     Roberto Cherro 10' Manuel Ferreira 32' Domingo Tarasconi 37' Domingo Tarasconi 54' Domingo Tarasconi 61' Manuel Ferreira 82'
-[Thu Jun 7]
-  Uruguay - Italy  3-2   @ Amsterdam, Netherlands
-     Pedro Cea 17' Antonio Campolo 28' Héctor Scarone 31';
-     Adolfo Baloncieri 9' Virgilio Levratto 60'
-[Fri Jun 8]
-  Netherlands - Chile  2-2   @ Rotterdam, Netherlands
-     Leonardus Ghering 59' Felix Smeets 66';
-     Manuel Bravo Paredes 55' Óscar Alfaro 89'
-[Sat Jun 9]
-  Italy - Egypt  11-3   @ Amsterdam, Netherlands
-     Angelo Schiavo 6' Adolfo Baloncieri 14' Elvio Banchero 19' Elvio Banchero 39' Angelo Schiavo 42' Elvio Banchero 44' Adolfo Baloncieri 52' Angelo Schiavo 58' Mario Magnozzi 72' Mario Magnozzi 80' Mario Magnozzi 88';
-     Ali Mohamed Riad 12' Ali Mohamed Riad 16' Moussa Hassan El-Ezam 60'
-[Sun Jun 10]
-  Uruguay - Argentina  1-1   @ Amsterdam, Netherlands
-     Pedro Petrone 23';
-     Manuel Ferreira 50'
-[Wed Jun 13]
-  Uruguay - Argentina  2-1   @ Amsterdam, Netherlands
-     Roberto Figueroa 17' Héctor Scarone 73';
-     Luis Monti 28'
+Sun May 27
+  Portugal             v Chile                 4-2   @ Amsterdam, Netherlands
+     (Vítor Silva 38' Pepe Soares 40' Pepe Soares 50' Valdemar Mota 63';
+      Guillermo Saavedra 14' Alejandro Carbonell 30')
+  Belgium              v Luxembourg            5-3   @ Amsterdam, Netherlands
+     (Raymond Braine 9' Louis Versijp 20' Jacques Moeschal 23' Jacques Moeschal 67' Raymond Braine 72';
+      Guillaume Schutz 31' Jean-Pierre Weisgerber 42' Robert Theissen 44')
+Mon May 28
+  Germany              v Switzerland           4-0   @ Amsterdam, Netherlands
+     (Richard Hofmann 17' Josef Hornauer 42' Richard Hofmann 75' Richard Hofmann 85')
+  Egypt                v Turkey                7-1   @ Amsterdam, Netherlands
+     (Ali El-Hassany 20'(p) Ali Mohamed Riad 27' Mahmoud Mokhtar El-Tetsh 46' Mahmoud Mokhtar El-Tetsh 50' Ismail El-Sayed Hooda 53' Mahmoud Mokhtar El-Tetsh 63' Gamil El-Zobeir 86';
+      Bekir Refet 71')
+Tue May 29
+  Italy                v France                4-3   @ Amsterdam, Netherlands
+     (Gino Rossetti 19' Virgilio Levratto 39' Elvio Banchero 43' Adolfo Baloncieri 60';
+      Juste Brouzes 15' Juste Brouzes 17' Robert Dauphin 61')
+  Portugal             v Yugoslavia            2-1   @ Amsterdam, Netherlands
+     (Vítor Silva 25' Augusto Silva 90';
+      Mirko Bonačić 40')
+  Argentina            v United States         11-2   @ Amsterdam, Netherlands
+     (Manuel Ferreira 9' Domingo Tarasconi 24' Manuel Ferreira 29' Raimondo Orsi 41' Roberto Cherro 47' Roberto Cherro 49' Roberto Cherro 57' Domingo Tarasconi 63' Domingo Tarasconi 66' Raimondo Orsi 73' Domingo Tarasconi 89';
+      Rudolph Kuntner 55' Henry Carroll 75')
+Wed May 30
+  Spain                v Mexico                7-1   @ Amsterdam, Netherlands
+     (Luis Regueiro 13' Luis Regueiro 27' José Maria Yermo 43' José Maria Yermo 63' Martín Marculeta 66' Ángel Mariscal 70' José Maria Yermo 85';
+      Juan Carreño 76')
+  Netherlands          v Uruguay               0-2   @ Amsterdam, Netherlands
+     (Héctor Scarone 20' Santos Urdinarán 86')
+Fri Jun 1
+  Italy                v Spain                 1-1   @ Amsterdam, Netherlands
+     (Adolfo Baloncieri 63';
+      Domingo Zaldua 11')
+Sat Jun 2
+  Argentina            v Belgium               6-3   @ Amsterdam, Netherlands
+     (Domingo Tarasconi 1' Manuel Ferreira 4' Domingo Tarasconi 10' Domingo Tarasconi 75' Raimondo Orsi 81' Domingo Tarasconi 89';
+      Raymond Braine 24' Florimond Vanhalme 28' Jacques Moeschal 53')
+Sun Jun 3
+  Uruguay              v Germany               4-1   @ Amsterdam, Netherlands
+     (Pedro Petrone 35' Pedro Petrone 39' Héctor Castro 63' Pedro Petrone 84';
+      Richard Hofmann 81')
+Mon Jun 4
+  Italy                v Spain                 7-1   @ Amsterdam, Netherlands
+     (Mario Magnozzi 14' Angelo Schiavo 15' Adolfo Baloncieri 18' Fulvio Bernardini 40' Enrico Rivolta 72' Virgilio Levratto 76' Virgilio Levratto 77';
+      José Maria Yermo 47')
+  Egypt                v Portugal              2-1   @ Amsterdam, Netherlands
+     (Mahmoud Mokhtar El-Tetsh 15' Ali Mohamed Riad 48';
+      Vítor Silva 76')
+Tue Jun 5
+  Netherlands          v Belgium               3-1   @ Rotterdam, Netherlands
+     (Leonardus Ghering 4' Felix Smeets 6' Wim Tap 63';
+      Pierre Braine 85')
+  Chile                v Mexico                3-1   @ Arnhem, Netherlands
+     (Guillermo Subiabre 24' Guillermo Subiabre 48' Guillermo Subiabre 89';
+      Ernesto Sota 15')
+Wed Jun 6
+  Argentina            v Egypt                 6-0   @ Amsterdam, Netherlands
+     (Roberto Cherro 10' Manuel Ferreira 32' Domingo Tarasconi 37' Domingo Tarasconi 54' Domingo Tarasconi 61' Manuel Ferreira 82')
+Thu Jun 7
+  Uruguay              v Italy                 3-2   @ Amsterdam, Netherlands
+     (Pedro Cea 17' Antonio Campolo 28' Héctor Scarone 31';
+      Adolfo Baloncieri 9' Virgilio Levratto 60')
+Fri Jun 8
+  Netherlands          v Chile                 2-2   @ Rotterdam, Netherlands
+     (Leonardus Ghering 59' Felix Smeets 66';
+      Manuel Bravo Paredes 55' Óscar Alfaro 89')
+Sat Jun 9
+  Italy                v Egypt                 11-3   @ Amsterdam, Netherlands
+     (Angelo Schiavo 6' Adolfo Baloncieri 14' Elvio Banchero 19' Elvio Banchero 39' Angelo Schiavo 42' Elvio Banchero 44' Adolfo Baloncieri 52' Angelo Schiavo 58' Mario Magnozzi 72' Mario Magnozzi 80' Mario Magnozzi 88';
+      Ali Mohamed Riad 12' Ali Mohamed Riad 16' Moussa Hassan El-Ezam 60')
+Sun Jun 10
+  Uruguay              v Argentina             1-1   @ Amsterdam, Netherlands
+     (Pedro Petrone 23';
+      Manuel Ferreira 50')
+Wed Jun 13
+  Uruguay              v Argentina             2-1   @ Amsterdam, Netherlands
+     (Roberto Figueroa 17' Héctor Scarone 73';
+      Luis Monti 28')
 

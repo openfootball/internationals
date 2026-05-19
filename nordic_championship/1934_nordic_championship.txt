@@ -1,18 +1,18 @@
 = Nordic Championship 1934
 
-# Date       Sun Jun/17 - Sun Sep/23 1934 (98d)
+# Date       Sun Jun 17 - Sun Sep 23 1934 (98d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 17]
-  Denmark - Sweden  3-5   @ Copenhagen, Denmark
-[Sun Jul 1]
-  Sweden - Norway  3-3   @ Stockholm, Sweden
-[Tue Jul 3]
-  Finland - Denmark  2-1   @ Helsinki, Finland
-[Sun Sep 2]
-  Norway - Finland  4-2   @ Oslo, Norway
-[Sun Sep 23]
-  Finland - Sweden  5-4   @ Helsinki, Finland
-  Norway - Denmark  3-1   @ Oslo, Norway
+Sun Jun 17
+  Denmark              v Sweden                3-5   @ Copenhagen, Denmark
+Sun Jul 1
+  Sweden               v Norway                3-3   @ Stockholm, Sweden
+Tue Jul 3
+  Finland              v Denmark               2-1   @ Helsinki, Finland
+Sun Sep 2
+  Norway               v Finland               4-2   @ Oslo, Norway
+Sun Sep 23
+  Finland              v Sweden                5-4   @ Helsinki, Finland
+  Norway               v Denmark               3-1   @ Oslo, Norway
 

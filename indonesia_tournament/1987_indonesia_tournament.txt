@@ -1,15 +1,15 @@
 = Indonesia Tournament 1987
 
-# Date       Tue Aug/4 - Sun Aug/9 1987 (5d)
+# Date       Tue Aug 4 - Sun Aug 9 1987 (5d)
 # Teams      3
 # Matches    4
 
-[Tue Aug 4]
-  Indonesia - Algeria  2-1   @ Jakarta, Indonesia
-[Thu Aug 6]
-  Indonesia - South Korea  1-1   @ Jakarta, Indonesia
-[Fri Aug 7]
-  Algeria - South Korea  2-0   @ Jakarta, Indonesia
-[Sun Aug 9]
-  Indonesia - Algeria  2-1   @ Jakarta, Indonesia
+Tue Aug 4
+  Indonesia            v Algeria               2-1   @ Jakarta, Indonesia
+Thu Aug 6
+  Indonesia            v South Korea           1-1   @ Jakarta, Indonesia
+Fri Aug 7
+  Algeria              v South Korea           2-0   @ Jakarta, Indonesia
+Sun Aug 9
+  Indonesia            v Algeria               2-1   @ Jakarta, Indonesia
 

@@ -1,58 +1,58 @@
 = African Cup of Nations 1970
 
-# Date       Fri Feb/6 - Mon Feb/16 1970 (10d)
+# Date       Fri Feb 6 - Mon Feb 16 1970 (10d)
 # Teams      8
 # Matches    16
 
-[Fri Feb 6]
-  Cameroon - Ivory Coast  3-2   @ Khartoum, Sudan
-     Emmanuel Koum 57' Paul-Gaston N'Dongo 60' Emmanuel Koum 66';
-     Laurent Pokou 25' Laurent Pokou 45'
-  Sudan - Ethiopia  3-0   @ Khartoum, Sudan
-     Ali Gagarin 43' Omar Ali Hasab El-Rasoul 47' Nasr Eddin Abbas 85'
-[Sat Feb 7]
-  DR Congo - Ghana  0-2   @ Wad Madani, Sudan
-     -; Kwasi Owusu 29' Kwasi Owusu 32'
-  Egypt - Guinea  4-1   @ Wad Madani, Sudan
-     Ali Abo Greisha 5' Ali Abo Greisha 10' Taha Basry 66' Hassan El-Shazly 73' (pen.);
-     Soriba Soumah 25' (pen.)
-[Sun Feb 8]
-  Cameroon - Ethiopia  3-2   @ Khartoum, Sudan
-     Jean-Marie Tsébo 21' Jean Manga Onguéné 43' Paul-Gaston N'Dongo 70';
-     Mengistu Worku 12' Mengistu Worku 75'
-  Sudan - Ivory Coast  0-1   @ Khartoum, Sudan
-     -; François Tahi 89'
-[Mon Feb 9]
-  DR Congo - Guinea  2-2   @ Wad Madani, Sudan
-     André Kalonzo 70' Léon Mungamuni 72';
-     Petit Sory 5' Soriba Soumah 55' (pen.)
-  Egypt - Ghana  1-1   @ Wad Madani, Sudan
-     Sayed Abdel Razek 70';
-     Ibrahim Sunday 60'
-[Tue Feb 10]
-  Ethiopia - Ivory Coast  1-6   @ Khartoum, Sudan
-     Mengistu Worku 33';
-     Diomandé Losseni 16' Laurent Pokou 21' Laurent Pokou 60' Laurent Pokou 71' Laurent Pokou 80' Laurent Pokou 87'
-  Sudan - Cameroon  2-1   @ Khartoum, Sudan
-     Nasr Eddin Abbas 20' Omar Ali Hasab El-Rasoul 60';
-     Jean-Marie Tsébo 34'
-[Wed Feb 11]
-  DR Congo - Egypt  0-1   @ Wad Madani, Sudan
-     -; Ali Abo Greisha 71'
-  Ghana - Guinea  1-1   @ Wad Madani, Sudan
-     Kwasi Owusu 50';
-     Ousmane Thiam Tollo 10'
-[Sat Feb 14]
-  Ghana - Ivory Coast  2-1   @ Khartoum, Sudan
-     Ibrahim Sunday 21' Malik Jabir 100';
-     Diomandé Losseni 78'
-  Sudan - Egypt  2-1   @ Khartoum, Sudan
-     Muhamad El-Basheer El-Asyad 83' Muhamad El-Basheer El-Asyad 102';
-     Hassan El-Shazly 84'
-[Mon Feb 16]
-  Egypt - Ivory Coast  3-1   @ Khartoum, Sudan
-     Hassan El-Shazly 3' Hassan El-Shazly 14' Hassan El-Shazly 50';
-     Laurent Pokou 72'
-  Sudan - Ghana  1-0   @ Khartoum, Sudan
-     Omar Ali Hasab El-Rasoul 12'
+Fri Feb 6
+  Cameroon             v Ivory Coast           3-2   @ Khartoum, Sudan
+     (Emmanuel Koum 57' Paul-Gaston N'Dongo 60' Emmanuel Koum 66';
+      Laurent Pokou 25' Laurent Pokou 45')
+  Sudan                v Ethiopia              3-0   @ Khartoum, Sudan
+     (Ali Gagarin 43' Omar Ali Hasab El-Rasoul 47' Nasr Eddin Abbas 85')
+Sat Feb 7
+  DR Congo             v Ghana                 0-2   @ Wad Madani, Sudan
+     (Kwasi Owusu 29' Kwasi Owusu 32')
+  Egypt                v Guinea                4-1   @ Wad Madani, Sudan
+     (Ali Abo Greisha 5' Ali Abo Greisha 10' Taha Basry 66' Hassan El-Shazly 73'(p);
+      Soriba Soumah 25'(p))
+Sun Feb 8
+  Cameroon             v Ethiopia              3-2   @ Khartoum, Sudan
+     (Jean-Marie Tsébo 21' Jean Manga Onguéné 43' Paul-Gaston N'Dongo 70';
+      Mengistu Worku 12' Mengistu Worku 75')
+  Sudan                v Ivory Coast           0-1   @ Khartoum, Sudan
+     (François Tahi 89')
+Mon Feb 9
+  DR Congo             v Guinea                2-2   @ Wad Madani, Sudan
+     (André Kalonzo 70' Léon Mungamuni 72';
+      Petit Sory 5' Soriba Soumah 55'(p))
+  Egypt                v Ghana                 1-1   @ Wad Madani, Sudan
+     (Sayed Abdel Razek 70';
+      Ibrahim Sunday 60')
+Tue Feb 10
+  Ethiopia             v Ivory Coast           1-6   @ Khartoum, Sudan
+     (Mengistu Worku 33';
+      Diomandé Losseni 16' Laurent Pokou 21' Laurent Pokou 60' Laurent Pokou 71' Laurent Pokou 80' Laurent Pokou 87')
+  Sudan                v Cameroon              2-1   @ Khartoum, Sudan
+     (Nasr Eddin Abbas 20' Omar Ali Hasab El-Rasoul 60';
+      Jean-Marie Tsébo 34')
+Wed Feb 11
+  DR Congo             v Egypt                 0-1   @ Wad Madani, Sudan
+     (Ali Abo Greisha 71')
+  Ghana                v Guinea                1-1   @ Wad Madani, Sudan
+     (Kwasi Owusu 50';
+      Ousmane Thiam Tollo 10')
+Sat Feb 14
+  Ghana                v Ivory Coast           2-1   @ Khartoum, Sudan
+     (Ibrahim Sunday 21' Malik Jabir 100';
+      Diomandé Losseni 78')
+  Sudan                v Egypt                 2-1   @ Khartoum, Sudan
+     (Muhamad El-Basheer El-Asyad 83' Muhamad El-Basheer El-Asyad 102';
+      Hassan El-Shazly 84')
+Mon Feb 16
+  Egypt                v Ivory Coast           3-1   @ Khartoum, Sudan
+     (Hassan El-Shazly 3' Hassan El-Shazly 14' Hassan El-Shazly 50';
+      Laurent Pokou 72')
+  Sudan                v Ghana                 1-0   @ Khartoum, Sudan
+     (Omar Ali Hasab El-Rasoul 12')
 

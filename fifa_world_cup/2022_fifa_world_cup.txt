@@ -1,182 +1,182 @@
 = FIFA World Cup 2022
 
-# Date       Sun Nov/20 - Sun Dec/18 2022 (28d)
+# Date       Sun Nov 20 - Sun Dec 18 2022 (28d)
 # Teams      32
 # Matches    64
 
-[Sun Nov 20]
-  Qatar - Ecuador  0-2   @ Al Khor, Qatar
-     -; Enner Valencia 16' (pen.) Enner Valencia 31'
-[Mon Nov 21]
-  Senegal - Netherlands  0-2   @ Doha, Qatar
-     -; Cody Gakpo 84' Davy Klaassen 90'
-  England - Iran  6-2   @ Al Rayyan, Qatar
-     Jude Bellingham 35' Bukayo Saka 43' Raheem Sterling 45' Bukayo Saka 62' Marcus Rashford 71' Jack Grealish 90';
-     Mehdi Taremi 65' Mehdi Taremi 90' (pen.)
-  United States - Wales  1-1   @ Al Rayyan, Qatar
-     Timothy Weah 36';
-     Gareth Bale 82' (pen.)
-[Tue Nov 22]
-  Argentina - Saudi Arabia  1-2   @ Lusail, Qatar
-     Lionel Messi 10' (pen.);
-     Saleh Al-Shehri 48' Salem Al-Dawsari 53'
-  Mexico - Poland  0-0   @ Doha, Qatar
-  Denmark - Tunisia  0-0   @ Al Rayyan, Qatar
-  France - Australia  4-1   @ Al Wakrah, Qatar
-     Adrien Rabiot 27' Olivier Giroud 32' Kylian Mbappé 68' Olivier Giroud 71';
-     Craig Goodwin 9'
-[Wed Nov 23]
-  Germany - Japan  1-2   @ Al Rayyan, Qatar
-     İlkay Gündoğan 33' (pen.);
-     Ritsu Dōan 75' Takuma Asano 83'
-  Spain - Costa Rica  7-0   @ Doha, Qatar
-     Dani Olmo 11' Marco Asensio 21' Ferran Torres 31' (pen.) Ferran Torres 54' Gavi 74' Carlos Soler 90' Álvaro Morata 90'
-  Morocco - Croatia  0-0   @ Al Khor, Qatar
-  Belgium - Canada  1-0   @ Al Rayyan, Qatar
-     Michy Batshuayi 44'
-[Thu Nov 24]
-  Switzerland - Cameroon  1-0   @ Al Wakrah, Qatar
-     Breel Embolo 48'
-  Brazil - Serbia  2-0   @ Lusail, Qatar
-     Richarlison 62' Richarlison 73'
-  Uruguay - South Korea  0-0   @ Al Rayyan, Qatar
-  Portugal - Ghana  3-2   @ Doha, Qatar
-     Cristiano Ronaldo 65' (pen.) João Félix 78' Rafael Leão 80';
-     André Ayew 73' Osman Bukari 89'
-[Fri Nov 25]
-  Qatar - Senegal  1-3   @ Doha, Qatar
-     Mohammed Muntari 78';
-     Boulaye Dia 41' Famara Diédhiou 48' Bamba Dieng 84'
-  Netherlands - Ecuador  1-1   @ Al Rayyan, Qatar
-     Cody Gakpo 6';
-     Enner Valencia 49'
-  Wales - Iran  0-2   @ Al Rayyan, Qatar
-     -; Rouzbeh Cheshmi 90' Ramin Rezaeian 90'
-  England - United States  0-0   @ Al Khor, Qatar
-[Sat Nov 26]
-  Poland - Saudi Arabia  2-0   @ Al Rayyan, Qatar
-     Piotr Zieliński 39' Robert Lewandowski 82'
-  Argentina - Mexico  2-0   @ Lusail, Qatar
-     Lionel Messi 64' Enzo Fernández 87'
-  Tunisia - Australia  0-1   @ Al Wakrah, Qatar
-     -; Mitchell Duke 23'
-  France - Denmark  2-1   @ Doha, Qatar
-     Kylian Mbappé 61' Kylian Mbappé 86';
-     Andreas Christensen 68'
-[Sun Nov 27]
-  Japan - Costa Rica  0-1   @ Al Rayyan, Qatar
-     -; Keysher Fuller 81'
-  Spain - Germany  1-1   @ Al Khor, Qatar
-     Álvaro Morata 62';
-     Niclas Füllkrug 83'
-  Belgium - Morocco  0-2   @ Doha, Qatar
-     -; Romain Saïss 73' Zakaria Aboukhlal 90'
-  Croatia - Canada  4-1   @ Al Rayyan, Qatar
-     Andrej Kramarić 36' Marko Livaja 44' Andrej Kramarić 70' Lovro Majer 90';
-     Alphonso Davies 2'
-[Mon Nov 28]
-  Cameroon - Serbia  3-3   @ Al Wakrah, Qatar
-     Jean-Charles Castelletto 29' Vincent Aboubakar 63' Eric Maxim Choupo-Moting 66';
-     Strahinja Pavlović 45' Sergej Milinković-Savić 45' Aleksandar Mitrović 53'
-  Brazil - Switzerland  1-0   @ Doha, Qatar
-     Casemiro 83'
-  South Korea - Ghana  2-3   @ Al Rayyan, Qatar
-     Cho Gue-sung 58' Cho Gue-sung 61';
-     Mohammed Salisu 24' Mohammed Kudus 34' Mohammed Kudus 68'
-  Portugal - Uruguay  2-0   @ Lusail, Qatar
-     Bruno Fernandes 54' Bruno Fernandes 90' (pen.)
-[Tue Nov 29]
-  Ecuador - Senegal  1-2   @ Al Rayyan, Qatar
-     Moisés Caicedo 67';
-     Ismaïla Sarr 44' (pen.) Kalidou Koulibaly 70'
-  Qatar - Netherlands  0-2   @ Al Khor, Qatar
-     -; Cody Gakpo 26' Frenkie de Jong 49'
-  Wales - England  0-3   @ Al Rayyan, Qatar
-     -; Marcus Rashford 50' Phil Foden 51' Marcus Rashford 68'
-  Iran - United States  0-1   @ Doha, Qatar
-     -; Christian Pulisic 38'
-[Wed Nov 30]
-  Poland - Argentina  0-2   @ Doha, Qatar
-     -; Alexis Mac Allister 46' Julián Álvarez 67'
-  Saudi Arabia - Mexico  1-2   @ Lusail, Qatar
-     Salem Al-Dawsari 90';
-     Henry Martín 47' Luis Chávez 52'
-  Australia - Denmark  1-0   @ Al Wakrah, Qatar
-     Mathew Leckie 60'
-  Tunisia - France  1-0   @ Al Rayyan, Qatar
-     Wahbi Khazri 58'
-[Thu Dec 1]
-  Japan - Spain  2-1   @ Al Rayyan, Qatar
-     Ritsu Dōan 48' Ao Tanaka 51';
-     Álvaro Morata 11'
-  Costa Rica - Germany  2-4   @ Al Khor, Qatar
-     Yeltsin Tejeda 58' Juan Pablo Vargas 70';
-     Serge Gnabry 10' Kai Havertz 73' Kai Havertz 85' Niclas Füllkrug 89'
-  Croatia - Belgium  0-0   @ Al Rayyan, Qatar
-  Canada - Morocco  1-2   @ Doha, Qatar
-     Nayef Aguerd 40' (o.g.);
-     Hakim Ziyech 4' Youssef En-Nesyri 23'
-[Fri Dec 2]
-  Serbia - Switzerland  2-3   @ Doha, Qatar
-     Aleksandar Mitrović 26' Dušan Vlahović 35';
-     Xherdan Shaqiri 20' Breel Embolo 44' Remo Freuler 48'
-  Cameroon - Brazil  1-0   @ Lusail, Qatar
-     Vincent Aboubakar 90'
-  Ghana - Uruguay  0-2   @ Al Wakrah, Qatar
-     -; Giorgian de Arrascaeta 26' Giorgian de Arrascaeta 32'
-  South Korea - Portugal  2-1   @ Al Rayyan, Qatar
-     Kim Young-gwon 27' Hwang Hee-chan 90';
-     Ricardo Horta 5'
-[Sat Dec 3]
-  Netherlands - United States  3-1   @ Al Rayyan, Qatar
-     Memphis Depay 10' Daley Blind 45' Denzel Dumfries 81';
-     Haji Wright 76'
-  Argentina - Australia  2-1   @ Al Rayyan, Qatar
-     Lionel Messi 35' Julián Álvarez 57';
-     Enzo Fernández 77' (o.g.)
-[Sun Dec 4]
-  France - Poland  3-1   @ Doha, Qatar
-     Olivier Giroud 44' Kylian Mbappé 74' Kylian Mbappé 90';
-     Robert Lewandowski 90' (pen.)
-  England - Senegal  3-0   @ Al Khor, Qatar
-     Jordan Henderson 38' Harry Kane 45' Bukayo Saka 57'
-[Mon Dec 5]
-  Japan - Croatia  1-1   @ Al Wakrah, Qatar   [Croatia wins on penalties]
-     Daizen Maeda 43';
-     Ivan Perišić 55'
-  Brazil - South Korea  4-1   @ Doha, Qatar
-     Vinícius Júnior 7' Neymar 13' (pen.) Richarlison 29' Lucas Paquetá 36';
-     Paik Seung-ho 76'
-[Tue Dec 6]
-  Morocco - Spain  0-0   @ Al Rayyan, Qatar   [Morocco wins on penalties]
-  Portugal - Switzerland  6-1   @ Lusail, Qatar
-     Gonçalo Ramos 17' Pepe 33' Gonçalo Ramos 51' Raphaël Guerreiro 55' Gonçalo Ramos 67' Rafael Leão 90';
-     Manuel Akanji 58'
-[Fri Dec 9]
-  Croatia - Brazil  1-1   @ Al Rayyan, Qatar   [Croatia wins on penalties]
-     Bruno Petković 117';
-     Neymar 105'
-  Netherlands - Argentina  2-2   @ Lusail, Qatar   [Argentina wins on penalties]
-     Wout Weghorst 83' Wout Weghorst 90';
-     Nahuel Molina 35' Lionel Messi 73' (pen.)
-[Sat Dec 10]
-  Morocco - Portugal  1-0   @ Doha, Qatar
-     Youssef En-Nesyri 42'
-  England - France  1-2   @ Al Khor, Qatar
-     Harry Kane 54' (pen.);
-     Aurélien Tchouaméni 17' Olivier Giroud 78'
-[Tue Dec 13]
-  Argentina - Croatia  3-0   @ Lusail, Qatar
-     Lionel Messi 34' (pen.) Julián Álvarez 39' Julián Álvarez 69'
-[Wed Dec 14]
-  France - Morocco  2-0   @ Al Khor, Qatar
-     Théo Hernandez 5' Randal Kolo Muani 79'
-[Sat Dec 17]
-  Croatia - Morocco  2-1   @ Al Rayyan, Qatar
-     Joško Gvardiol 7' Mislav Oršić 42';
-     Achraf Dari 9'
-[Sun Dec 18]
-  Argentina - France  3-3   @ Lusail, Qatar   [Argentina wins on penalties]
-     Lionel Messi 23' (pen.) Ángel Di María 36' Lionel Messi 109';
-     Kylian Mbappé 80' (pen.) Kylian Mbappé 81' Kylian Mbappé 118' (pen.)
+Sun Nov 20
+  Qatar                v Ecuador               0-2   @ Al Khor, Qatar
+     (Enner Valencia 16'(p) Enner Valencia 31')
+Mon Nov 21
+  Senegal              v Netherlands           0-2   @ Doha, Qatar
+     (Cody Gakpo 84' Davy Klaassen 90')
+  England              v Iran                  6-2   @ Al Rayyan, Qatar
+     (Jude Bellingham 35' Bukayo Saka 43' Raheem Sterling 45' Bukayo Saka 62' Marcus Rashford 71' Jack Grealish 90';
+      Mehdi Taremi 65' Mehdi Taremi 90'(p))
+  United States        v Wales                 1-1   @ Al Rayyan, Qatar
+     (Timothy Weah 36';
+      Gareth Bale 82'(p))
+Tue Nov 22
+  Argentina            v Saudi Arabia          1-2   @ Lusail, Qatar
+     (Lionel Messi 10'(p);
+      Saleh Al-Shehri 48' Salem Al-Dawsari 53')
+  Mexico               v Poland                0-0   @ Doha, Qatar
+  Denmark              v Tunisia               0-0   @ Al Rayyan, Qatar
+  France               v Australia             4-1   @ Al Wakrah, Qatar
+     (Adrien Rabiot 27' Olivier Giroud 32' Kylian Mbappé 68' Olivier Giroud 71';
+      Craig Goodwin 9')
+Wed Nov 23
+  Germany              v Japan                 1-2   @ Al Rayyan, Qatar
+     (İlkay Gündoğan 33'(p);
+      Ritsu Dōan 75' Takuma Asano 83')
+  Spain                v Costa Rica            7-0   @ Doha, Qatar
+     (Dani Olmo 11' Marco Asensio 21' Ferran Torres 31'(p) Ferran Torres 54' Gavi 74' Carlos Soler 90' Álvaro Morata 90')
+  Morocco              v Croatia               0-0   @ Al Khor, Qatar
+  Belgium              v Canada                1-0   @ Al Rayyan, Qatar
+     (Michy Batshuayi 44')
+Thu Nov 24
+  Switzerland          v Cameroon              1-0   @ Al Wakrah, Qatar
+     (Breel Embolo 48')
+  Brazil               v Serbia                2-0   @ Lusail, Qatar
+     (Richarlison 62' Richarlison 73')
+  Uruguay              v South Korea           0-0   @ Al Rayyan, Qatar
+  Portugal             v Ghana                 3-2   @ Doha, Qatar
+     (Cristiano Ronaldo 65'(p) João Félix 78' Rafael Leão 80';
+      André Ayew 73' Osman Bukari 89')
+Fri Nov 25
+  Qatar                v Senegal               1-3   @ Doha, Qatar
+     (Mohammed Muntari 78';
+      Boulaye Dia 41' Famara Diédhiou 48' Bamba Dieng 84')
+  Netherlands          v Ecuador               1-1   @ Al Rayyan, Qatar
+     (Cody Gakpo 6';
+      Enner Valencia 49')
+  Wales                v Iran                  0-2   @ Al Rayyan, Qatar
+     (Rouzbeh Cheshmi 90' Ramin Rezaeian 90')
+  England              v United States         0-0   @ Al Khor, Qatar
+Sat Nov 26
+  Poland               v Saudi Arabia          2-0   @ Al Rayyan, Qatar
+     (Piotr Zieliński 39' Robert Lewandowski 82')
+  Argentina            v Mexico                2-0   @ Lusail, Qatar
+     (Lionel Messi 64' Enzo Fernández 87')
+  Tunisia              v Australia             0-1   @ Al Wakrah, Qatar
+     (Mitchell Duke 23')
+  France               v Denmark               2-1   @ Doha, Qatar
+     (Kylian Mbappé 61' Kylian Mbappé 86';
+      Andreas Christensen 68')
+Sun Nov 27
+  Japan                v Costa Rica            0-1   @ Al Rayyan, Qatar
+     (Keysher Fuller 81')
+  Spain                v Germany               1-1   @ Al Khor, Qatar
+     (Álvaro Morata 62';
+      Niclas Füllkrug 83')
+  Belgium              v Morocco               0-2   @ Doha, Qatar
+     (Romain Saïss 73' Zakaria Aboukhlal 90')
+  Croatia              v Canada                4-1   @ Al Rayyan, Qatar
+     (Andrej Kramarić 36' Marko Livaja 44' Andrej Kramarić 70' Lovro Majer 90';
+      Alphonso Davies 2')
+Mon Nov 28
+  Cameroon             v Serbia                3-3   @ Al Wakrah, Qatar
+     (Jean-Charles Castelletto 29' Vincent Aboubakar 63' Eric Maxim Choupo-Moting 66';
+      Strahinja Pavlović 45' Sergej Milinković-Savić 45' Aleksandar Mitrović 53')
+  Brazil               v Switzerland           1-0   @ Doha, Qatar
+     (Casemiro 83')
+  South Korea          v Ghana                 2-3   @ Al Rayyan, Qatar
+     (Cho Gue-sung 58' Cho Gue-sung 61';
+      Mohammed Salisu 24' Mohammed Kudus 34' Mohammed Kudus 68')
+  Portugal             v Uruguay               2-0   @ Lusail, Qatar
+     (Bruno Fernandes 54' Bruno Fernandes 90'(p))
+Tue Nov 29
+  Ecuador              v Senegal               1-2   @ Al Rayyan, Qatar
+     (Moisés Caicedo 67';
+      Ismaïla Sarr 44'(p) Kalidou Koulibaly 70')
+  Qatar                v Netherlands           0-2   @ Al Khor, Qatar
+     (Cody Gakpo 26' Frenkie de Jong 49')
+  Wales                v England               0-3   @ Al Rayyan, Qatar
+     (Marcus Rashford 50' Phil Foden 51' Marcus Rashford 68')
+  Iran                 v United States         0-1   @ Doha, Qatar
+     (Christian Pulisic 38')
+Wed Nov 30
+  Poland               v Argentina             0-2   @ Doha, Qatar
+     (Alexis Mac Allister 46' Julián Álvarez 67')
+  Saudi Arabia         v Mexico                1-2   @ Lusail, Qatar
+     (Salem Al-Dawsari 90';
+      Henry Martín 47' Luis Chávez 52')
+  Australia            v Denmark               1-0   @ Al Wakrah, Qatar
+     (Mathew Leckie 60')
+  Tunisia              v France                1-0   @ Al Rayyan, Qatar
+     (Wahbi Khazri 58')
+Thu Dec 1
+  Japan                v Spain                 2-1   @ Al Rayyan, Qatar
+     (Ritsu Dōan 48' Ao Tanaka 51';
+      Álvaro Morata 11')
+  Costa Rica           v Germany               2-4   @ Al Khor, Qatar
+     (Yeltsin Tejeda 58' Juan Pablo Vargas 70';
+      Serge Gnabry 10' Kai Havertz 73' Kai Havertz 85' Niclas Füllkrug 89')
+  Croatia              v Belgium               0-0   @ Al Rayyan, Qatar
+  Canada               v Morocco               1-2   @ Doha, Qatar
+     (Nayef Aguerd 40'(og);
+      Hakim Ziyech 4' Youssef En-Nesyri 23')
+Fri Dec 2
+  Serbia               v Switzerland           2-3   @ Doha, Qatar
+     (Aleksandar Mitrović 26' Dušan Vlahović 35';
+      Xherdan Shaqiri 20' Breel Embolo 44' Remo Freuler 48')
+  Cameroon             v Brazil                1-0   @ Lusail, Qatar
+     (Vincent Aboubakar 90')
+  Ghana                v Uruguay               0-2   @ Al Wakrah, Qatar
+     (Giorgian de Arrascaeta 26' Giorgian de Arrascaeta 32')
+  South Korea          v Portugal              2-1   @ Al Rayyan, Qatar
+     (Kim Young-gwon 27' Hwang Hee-chan 90';
+      Ricardo Horta 5')
+Sat Dec 3
+  Netherlands          v United States         3-1   @ Al Rayyan, Qatar
+     (Memphis Depay 10' Daley Blind 45' Denzel Dumfries 81';
+      Haji Wright 76')
+  Argentina            v Australia             2-1   @ Al Rayyan, Qatar
+     (Lionel Messi 35' Julián Álvarez 57';
+      Enzo Fernández 77'(og))
+Sun Dec 4
+  France               v Poland                3-1   @ Doha, Qatar
+     (Olivier Giroud 44' Kylian Mbappé 74' Kylian Mbappé 90';
+      Robert Lewandowski 90'(p))
+  England              v Senegal               3-0   @ Al Khor, Qatar
+     (Jordan Henderson 38' Harry Kane 45' Bukayo Saka 57')
+Mon Dec 5
+  Japan                v Croatia               1-1   @ Al Wakrah, Qatar   [Croatia wins on penalties]
+     (Daizen Maeda 43';
+      Ivan Perišić 55')
+  Brazil               v South Korea           4-1   @ Doha, Qatar
+     (Vinícius Júnior 7' Neymar 13'(p) Richarlison 29' Lucas Paquetá 36';
+      Paik Seung-ho 76')
+Tue Dec 6
+  Morocco              v Spain                 0-0   @ Al Rayyan, Qatar   [Morocco wins on penalties]
+  Portugal             v Switzerland           6-1   @ Lusail, Qatar
+     (Gonçalo Ramos 17' Pepe 33' Gonçalo Ramos 51' Raphaël Guerreiro 55' Gonçalo Ramos 67' Rafael Leão 90';
+      Manuel Akanji 58')
+Fri Dec 9
+  Croatia              v Brazil                1-1   @ Al Rayyan, Qatar   [Croatia wins on penalties]
+     (Bruno Petković 117';
+      Neymar 105')
+  Netherlands          v Argentina             2-2   @ Lusail, Qatar   [Argentina wins on penalties]
+     (Wout Weghorst 83' Wout Weghorst 90';
+      Nahuel Molina 35' Lionel Messi 73'(p))
+Sat Dec 10
+  Morocco              v Portugal              1-0   @ Doha, Qatar
+     (Youssef En-Nesyri 42')
+  England              v France                1-2   @ Al Khor, Qatar
+     (Harry Kane 54'(p);
+      Aurélien Tchouaméni 17' Olivier Giroud 78')
+Tue Dec 13
+  Argentina            v Croatia               3-0   @ Lusail, Qatar
+     (Lionel Messi 34'(p) Julián Álvarez 39' Julián Álvarez 69')
+Wed Dec 14
+  France               v Morocco               2-0   @ Al Khor, Qatar
+     (Théo Hernandez 5' Randal Kolo Muani 79')
+Sat Dec 17
+  Croatia              v Morocco               2-1   @ Al Rayyan, Qatar
+     (Joško Gvardiol 7' Mislav Oršić 42';
+      Achraf Dari 9')
+Sun Dec 18
+  Argentina            v France                3-3   @ Lusail, Qatar   [Argentina wins on penalties]
+     (Lionel Messi 23'(p) Ángel Di María 36' Lionel Messi 109';
+      Kylian Mbappé 80'(p) Kylian Mbappé 81' Kylian Mbappé 118'(p))
 

@@ -1,13 +1,13 @@
 = CONCACAF Nations League 2025
 
-# Date       Thu Mar/20 - Sun Mar/23 2025 (3d)
+# Date       Thu Mar 20 - Sun Mar 23 2025 (3d)
 # Teams      4
 # Matches    4
 
-[Thu Mar 20]
-  Canada - Mexico  0-2   @ Inglewood, United States
-  United States - Panama  0-1   @ Inglewood, United States
-[Sun Mar 23]
-  United States - Canada  1-2   @ Inglewood, United States
-  Panama - Mexico  1-2   @ Inglewood, United States
+Thu Mar 20
+  Canada               v Mexico                0-2   @ Inglewood, United States
+  United States        v Panama                0-1   @ Inglewood, United States
+Sun Mar 23
+  United States        v Canada                1-2   @ Inglewood, United States
+  Panama               v Mexico                1-2   @ Inglewood, United States
 

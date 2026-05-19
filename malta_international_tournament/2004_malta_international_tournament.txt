@@ -1,13 +1,13 @@
 = Malta International Tournament 2004
 
-# Date       Sat Feb/14 - Wed Feb/18 2004 (4d)
+# Date       Sat Feb 14 - Wed Feb 18 2004 (4d)
 # Teams      3
 # Matches    3
 
-[Sat Feb 14]
-  Malta - Moldova  0-0   @ Attard, Malta
-[Mon Feb 16]
-  Malta - Estonia  5-2   @ Attard, Malta
-[Wed Feb 18]
-  Estonia - Moldova  1-0   @ Attard, Malta
+Sat Feb 14
+  Malta                v Moldova               0-0   @ Attard, Malta
+Mon Feb 16
+  Malta                v Estonia               5-2   @ Attard, Malta
+Wed Feb 18
+  Estonia              v Moldova               1-0   @ Attard, Malta
 

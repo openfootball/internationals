@@ -1,11 +1,11 @@
 = Copa del Pacífico 1965
 
-# Date       Thu Apr/15 - Wed Apr/28 1965 (13d)
+# Date       Thu Apr 15 - Wed Apr 28 1965 (13d)
 # Teams      2
 # Matches    2
 
-[Thu Apr 15]
-  Chile - Peru  4-1   @ Santiago, Chile
-[Wed Apr 28]
-  Peru - Chile  0-1   @ Lima, Peru
+Thu Apr 15
+  Chile                v Peru                  4-1   @ Santiago, Chile
+Wed Apr 28
+  Peru                 v Chile                 0-1   @ Lima, Peru
 

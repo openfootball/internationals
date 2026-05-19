@@ -1,53 +1,53 @@
 = African Cup of Nations qualification 1981
 
-# Date       Sun Mar/22 - Sun Oct/4 1981 (196d)
+# Date       Sun Mar 22 - Sun Oct 4 1981 (196d)
 # Teams      21
 # Matches    28
 
-[Sun Mar 22]
-  Morocco - Liberia  3-1   @ Rabat, Morocco
-[Sat Apr 4]
-  Kenya - Egypt  3-5   @ Nairobi, Kenya
-  Liberia - Morocco  0-5   @ Monrovia, Liberia
-[Sun Apr 5]
-  Cameroon - Togo  4-0   @ Douala, Cameroon
-  DR Congo - Mozambique  2-1   @ Kinshasa, Zaïre
-[Fri Apr 10]
-  Algeria - Mali  5-1   @ Oran, Algeria
-[Sat Apr 11]
-  Ghana - Congo  1-1   @ Accra, Ghana
-  Zimbabwe - Zambia  0-1   @ Salisbury, Zimbabwe
-[Sun Apr 12]
-  Tunisia - Senegal  1-0   @ Tunis, Tunisia
-[Sat Apr 18]
-  Egypt - Kenya  2-0   @ Cairo, Egypt
-[Sun Apr 19]
-  Mali - Algeria  3-0   @ Bamako, Mali
-  Mozambique - DR Congo  3-3   @ Maputo, Mozambique
-  Togo - Cameroon  2-2   @ Lomé, Togo
-[Sat Apr 25]
-  Zambia - Zimbabwe  2-0   @ Lusaka, Zambia
-[Sun Apr 26]
-  Congo - Ghana  0-1   @ Brazzaville, Congo
-  Ethiopia - Rwanda  1-0   @ Addis Ababa, Ethiopia
-  Senegal - Tunisia  0-0   @ Dakar, Senegal
-[Sun May 10]
-  Rwanda - Ethiopia  1-0   @ Kigali, Rwanda   [Ethiopia wins on penalties]
-[Sun Jun 28]
-  Guinea - Ethiopia  2-2   @ Conakry, Guinea
-[Wed Jul 22]
-  Ghana - DR Congo  2-2   @ Accra, Ghana
-[Sun Aug 2]
-  DR Congo - Ghana  1-2   @ Kinshasa, Zaïre
-[Sun Aug 16]
-  Cameroon - Madagascar  5-1   @ Yaoundé, Cameroon
-  Morocco - Zambia  2-1   @ Rabat, Morocco
-[Sun Aug 30]
-  Algeria - Burkina Faso  7-0   @ Oran, Algeria
-  Madagascar - Cameroon  2-1   @ Antananarivo, Madagascar
-  Zambia - Morocco  2-0   @ Lusaka, Zambia
-[Sun Sep 20]
-  Burkina Faso - Algeria  1-1   @ Ouagadougou, Upper Volta
-[Sun Oct 4]
-  Ethiopia - Guinea  1-1   @ Addis Ababa, Ethiopia
+Sun Mar 22
+  Morocco              v Liberia               3-1   @ Rabat, Morocco
+Sat Apr 4
+  Kenya                v Egypt                 3-5   @ Nairobi, Kenya
+  Liberia              v Morocco               0-5   @ Monrovia, Liberia
+Sun Apr 5
+  Cameroon             v Togo                  4-0   @ Douala, Cameroon
+  DR Congo             v Mozambique            2-1   @ Kinshasa, Zaïre
+Fri Apr 10
+  Algeria              v Mali                  5-1   @ Oran, Algeria
+Sat Apr 11
+  Ghana                v Congo                 1-1   @ Accra, Ghana
+  Zimbabwe             v Zambia                0-1   @ Salisbury, Zimbabwe
+Sun Apr 12
+  Tunisia              v Senegal               1-0   @ Tunis, Tunisia
+Sat Apr 18
+  Egypt                v Kenya                 2-0   @ Cairo, Egypt
+Sun Apr 19
+  Mali                 v Algeria               3-0   @ Bamako, Mali
+  Mozambique           v DR Congo              3-3   @ Maputo, Mozambique
+  Togo                 v Cameroon              2-2   @ Lomé, Togo
+Sat Apr 25
+  Zambia               v Zimbabwe              2-0   @ Lusaka, Zambia
+Sun Apr 26
+  Congo                v Ghana                 0-1   @ Brazzaville, Congo
+  Ethiopia             v Rwanda                1-0   @ Addis Ababa, Ethiopia
+  Senegal              v Tunisia               0-0   @ Dakar, Senegal
+Sun May 10
+  Rwanda               v Ethiopia              1-0   @ Kigali, Rwanda   [Ethiopia wins on penalties]
+Sun Jun 28
+  Guinea               v Ethiopia              2-2   @ Conakry, Guinea
+Wed Jul 22
+  Ghana                v DR Congo              2-2   @ Accra, Ghana
+Sun Aug 2
+  DR Congo             v Ghana                 1-2   @ Kinshasa, Zaïre
+Sun Aug 16
+  Cameroon             v Madagascar            5-1   @ Yaoundé, Cameroon
+  Morocco              v Zambia                2-1   @ Rabat, Morocco
+Sun Aug 30
+  Algeria              v Burkina Faso          7-0   @ Oran, Algeria
+  Madagascar           v Cameroon              2-1   @ Antananarivo, Madagascar
+  Zambia               v Morocco               2-0   @ Lusaka, Zambia
+Sun Sep 20
+  Burkina Faso         v Algeria               1-1   @ Ouagadougou, Upper Volta
+Sun Oct 4
+  Ethiopia             v Guinea                1-1   @ Addis Ababa, Ethiopia
 

@@ -1,17 +1,17 @@
 = Friendly 1883
 
-# Date       Sat Feb/3 - Sat Mar/17 1883 (42d)
+# Date       Sat Feb 3 - Sat Mar 17 1883 (42d)
 # Teams      4
 # Matches    5
 
-[Sat Feb 3]
-  England - Wales  5-0   @ London, England
-[Sat Feb 24]
-  England - Northern Ireland  7-0   @ Liverpool, England
-[Sat Mar 10]
-  England - Scotland  2-3   @ Sheffield, England
-[Mon Mar 12]
-  Wales - Scotland  0-3   @ Wrexham, Wales
-[Sat Mar 17]
-  Northern Ireland - Wales  1-1   @ Belfast, Ireland
+Sat Feb 3
+  England              v Wales                 5-0   @ London, England
+Sat Feb 24
+  England              v Northern Ireland      7-0   @ Liverpool, England
+Sat Mar 10
+  England              v Scotland              2-3   @ Sheffield, England
+Mon Mar 12
+  Wales                v Scotland              0-3   @ Wrexham, Wales
+Sat Mar 17
+  Northern Ireland     v Wales                 1-1   @ Belfast, Ireland
 

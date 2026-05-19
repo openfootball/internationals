@@ -1,22 +1,22 @@
 = African Cup of Nations qualification 1988
 
-# Date       Sat Oct/1 - Sun Oct/23 1988 (22d)
+# Date       Sat Oct 1 - Sun Oct 23 1988 (22d)
 # Teams      10
 # Matches    10
 
-[Sat Oct 1]
-  Tanzania - Eswatini  1-1   @ Dar es Salaam, Tanzania
-[Sun Oct 2]
-  Liberia - Mali  0-1   @ Monrovia, Liberia
-  Angola - Equatorial Guinea  0-1   @ Luanda, Angola
-  Mauritius - Seychelles  3-0   @ Curepipe, Mauritius
-[Sun Oct 9]
-  Gabon - Burkina Faso  3-0   @ Libreville, Gabon
-[Sun Oct 16]
-  Seychelles - Mauritius  1-0   @ Victoria, Seychelles
-  Equatorial Guinea - Angola  0-0   @ Malabo, Equatorial Guinea
-  Mali - Liberia  3-0   @ Bamako, Mali
-  Eswatini - Tanzania  1-1   @ Mbabane, Swaziland   [Eswatini wins on penalties]
-[Sun Oct 23]
-  Burkina Faso - Gabon  1-0   @ Ouagadougou, Burkina Faso
+Sat Oct 1
+  Tanzania             v Eswatini              1-1   @ Dar es Salaam, Tanzania
+Sun Oct 2
+  Liberia              v Mali                  0-1   @ Monrovia, Liberia
+  Angola               v Equatorial Guinea     0-1   @ Luanda, Angola
+  Mauritius            v Seychelles            3-0   @ Curepipe, Mauritius
+Sun Oct 9
+  Gabon                v Burkina Faso          3-0   @ Libreville, Gabon
+Sun Oct 16
+  Seychelles           v Mauritius             1-0   @ Victoria, Seychelles
+  Equatorial Guinea    v Angola                0-0   @ Malabo, Equatorial Guinea
+  Mali                 v Liberia               3-0   @ Bamako, Mali
+  Eswatini             v Tanzania              1-1   @ Mbabane, Swaziland   [Eswatini wins on penalties]
+Sun Oct 23
+  Burkina Faso         v Gabon                 1-0   @ Ouagadougou, Burkina Faso
 

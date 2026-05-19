@@ -1,11 +1,11 @@
 = Nordic Championship 2001
 
-# Date       Wed Jan/31 - Thu Feb/1 2001 (1d)
+# Date       Wed Jan 31 - Thu Feb 1 2001 (1d)
 # Teams      3
 # Matches    2
 
-[Wed Jan 31]
-  Sweden - Faroe Islands  0-0   @ Växjö, Sweden
-[Thu Feb 1]
-  Sweden - Finland  0-1   @ Jönköping, Sweden
+Wed Jan 31
+  Sweden               v Faroe Islands         0-0   @ Växjö, Sweden
+Thu Feb 1
+  Sweden               v Finland               0-1   @ Jönköping, Sweden
 

@@ -1,39 +1,39 @@
 = CCCF Championship 1948
 
-# Date       Sun Feb/29 - Sun Mar/21 1948 (21d)
+# Date       Sun Feb 29 - Sun Mar 21 1948 (21d)
 # Teams      5
 # Matches    19
 
-[Sun Feb 29]
-  Costa Rica - El Salvador  3-1   @ Guatemala City, Guatemala
-[Tue Mar 2]
-  Guatemala - El Salvador  3-0   @ Guatemala City, Guatemala
-[Thu Mar 4]
-  Guatemala - Costa Rica  1-1   @ Guatemala City, Guatemala
-  Panama - Curaçao  1-3   @ Guatemala City, Guatemala
-[Fri Mar 5]
-  Guatemala - Curaçao  2-2   @ Guatemala City, Guatemala
-[Sun Mar 7]
-  Costa Rica - Curaçao  2-1   @ Guatemala City, Guatemala
-  El Salvador - Panama  1-2   @ Guatemala City, Guatemala
-[Tue Mar 9]
-  El Salvador - Curaçao  1-0   @ Guatemala City, Guatemala
-  Guatemala - Panama  4-3   @ Guatemala City, Guatemala
-[Thu Mar 11]
-  Costa Rica - Panama  3-1   @ Guatemala City, Guatemala
-  Curaçao - El Salvador  0-2   @ Guatemala City, Guatemala
-[Sat Mar 13]
-  Guatemala - El Salvador  1-1   @ Guatemala City, Guatemala
-[Sun Mar 14]
-  Curaçao - Panama  2-5   @ Guatemala City, Guatemala
-[Tue Mar 16]
-  Guatemala - Costa Rica  3-2   @ Guatemala City, Guatemala
-  Panama - El Salvador  2-0   @ Guatemala City, Guatemala
-[Thu Mar 18]
-  El Salvador - Costa Rica  0-6   @ Guatemala City, Guatemala
-  Guatemala - Curaçao  2-2   @ Guatemala City, Guatemala
-[Sat Mar 20]
-  Curaçao - Costa Rica  4-1   @ Guatemala City, Guatemala
-[Sun Mar 21]
-  Guatemala - Panama  4-5   @ Guatemala City, Guatemala
+Sun Feb 29
+  Costa Rica           v El Salvador           3-1   @ Guatemala City, Guatemala
+Tue Mar 2
+  Guatemala            v El Salvador           3-0   @ Guatemala City, Guatemala
+Thu Mar 4
+  Guatemala            v Costa Rica            1-1   @ Guatemala City, Guatemala
+  Panama               v Curaçao               1-3   @ Guatemala City, Guatemala
+Fri Mar 5
+  Guatemala            v Curaçao               2-2   @ Guatemala City, Guatemala
+Sun Mar 7
+  Costa Rica           v Curaçao               2-1   @ Guatemala City, Guatemala
+  El Salvador          v Panama                1-2   @ Guatemala City, Guatemala
+Tue Mar 9
+  El Salvador          v Curaçao               1-0   @ Guatemala City, Guatemala
+  Guatemala            v Panama                4-3   @ Guatemala City, Guatemala
+Thu Mar 11
+  Costa Rica           v Panama                3-1   @ Guatemala City, Guatemala
+  Curaçao              v El Salvador           0-2   @ Guatemala City, Guatemala
+Sat Mar 13
+  Guatemala            v El Salvador           1-1   @ Guatemala City, Guatemala
+Sun Mar 14
+  Curaçao              v Panama                2-5   @ Guatemala City, Guatemala
+Tue Mar 16
+  Guatemala            v Costa Rica            3-2   @ Guatemala City, Guatemala
+  Panama               v El Salvador           2-0   @ Guatemala City, Guatemala
+Thu Mar 18
+  El Salvador          v Costa Rica            0-6   @ Guatemala City, Guatemala
+  Guatemala            v Curaçao               2-2   @ Guatemala City, Guatemala
+Sat Mar 20
+  Curaçao              v Costa Rica            4-1   @ Guatemala City, Guatemala
+Sun Mar 21
+  Guatemala            v Panama                4-5   @ Guatemala City, Guatemala
 

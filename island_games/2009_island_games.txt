@@ -1,46 +1,46 @@
 = Island Games 2009
 
-# Date       Sun Jun/28 - Fri Jul/3 2009 (5d)
+# Date       Sun Jun 28 - Fri Jul 3 2009 (5d)
 # Teams      16
 # Matches    34
 
-[Sun Jun 28]
-  Åland Islands - Greenland  4-2   @ Mariehamn, Sweden
-  Shetland - Menorca  2-2   @ Hammarland, Sweden
-  Gibraltar - Guernsey  0-0   @ Eckerö, Sweden
-  Ynys Môn - Frøya  3-0   @ Jomala, Sweden
-  Rhodes - Isle of Wight  2-0   @ Sund, Sweden
-  Saare County - Jersey  0-1   @ Saltvik, Sweden
-  Western Isles - Gotland  2-1   @ Hammarland, Sweden
-  Falkland Islands - Isle of Man  1-2   @ Eckerö, Sweden
-[Mon Jun 29]
-  Menorca - Greenland  6-0   @ Sund, Sweden
-  Åland Islands - Shetland  2-1   @ Hammarland, Sweden
-  Ynys Môn - Guernsey  0-2   @ Jomala, Sweden
-  Frøya - Gibraltar  0-8   @ Eckerö, Sweden
-  Jersey - Rhodes  1-0   @ Saltvik, Sweden
-  Isle of Wight - Saare County  5-1   @ Hammarland, Sweden
-  Isle of Man - Western Isles  5-0   @ Finström, Sweden
-  Gotland - Falkland Islands  2-0   @ Jomala, Sweden
-[Tue Jun 30]
-  Greenland - Shetland  3-1   @ Sund, Sweden
-  Åland Islands - Menorca  1-1   @ Finström, Sweden
-  Gibraltar - Ynys Môn  1-3   @ Hammarland, Sweden
-  Guernsey - Frøya  8-0   @ Jomala, Sweden
-  Rhodes - Saare County  3-0   @ Saltvik, Sweden
-  Jersey - Isle of Wight  4-1   @ Hammarland, Sweden
-  Western Isles - Falkland Islands  7-1   @ Eckerö, Sweden
-  Isle of Man - Gotland  4-2   @ Finström, Sweden
-[Thu Jul 2]
-  Falkland Islands - Frøya  1-3   @ Jomala, Sweden
-  Shetland - Saare County  3-2   @ Hammarland, Sweden
-  Gotland - Greenland  4-2   @ Jomala, Sweden
-  Åland Islands - Isle of Man  2-1   @ Jomala, Sweden
-  Guernsey - Jersey  0-2   @ Sund, Sweden
-[Fri Jul 3]
-  Gibraltar - Isle of Wight  3-0   @ Jomala, Sweden
-  Menorca - Western Isles  4-1   @ Jomala, Sweden
-  Rhodes - Ynys Môn  4-0   @ Eckerö, Sweden
-  Isle of Man - Guernsey  0-5   @ Eckerö, Sweden
-  Åland Islands - Jersey  1-2   @ Mariehamn, Sweden
+Sun Jun 28
+  Åland Islands        v Greenland             4-2   @ Mariehamn, Sweden
+  Shetland             v Menorca               2-2   @ Hammarland, Sweden
+  Gibraltar            v Guernsey              0-0   @ Eckerö, Sweden
+  Ynys Môn             v Frøya                 3-0   @ Jomala, Sweden
+  Rhodes               v Isle of Wight         2-0   @ Sund, Sweden
+  Saare County         v Jersey                0-1   @ Saltvik, Sweden
+  Western Isles        v Gotland               2-1   @ Hammarland, Sweden
+  Falkland Islands     v Isle of Man           1-2   @ Eckerö, Sweden
+Mon Jun 29
+  Menorca              v Greenland             6-0   @ Sund, Sweden
+  Åland Islands        v Shetland              2-1   @ Hammarland, Sweden
+  Ynys Môn             v Guernsey              0-2   @ Jomala, Sweden
+  Frøya                v Gibraltar             0-8   @ Eckerö, Sweden
+  Jersey               v Rhodes                1-0   @ Saltvik, Sweden
+  Isle of Wight        v Saare County          5-1   @ Hammarland, Sweden
+  Isle of Man          v Western Isles         5-0   @ Finström, Sweden
+  Gotland              v Falkland Islands      2-0   @ Jomala, Sweden
+Tue Jun 30
+  Greenland            v Shetland              3-1   @ Sund, Sweden
+  Åland Islands        v Menorca               1-1   @ Finström, Sweden
+  Gibraltar            v Ynys Môn              1-3   @ Hammarland, Sweden
+  Guernsey             v Frøya                 8-0   @ Jomala, Sweden
+  Rhodes               v Saare County          3-0   @ Saltvik, Sweden
+  Jersey               v Isle of Wight         4-1   @ Hammarland, Sweden
+  Western Isles        v Falkland Islands      7-1   @ Eckerö, Sweden
+  Isle of Man          v Gotland               4-2   @ Finström, Sweden
+Thu Jul 2
+  Falkland Islands     v Frøya                 1-3   @ Jomala, Sweden
+  Shetland             v Saare County          3-2   @ Hammarland, Sweden
+  Gotland              v Greenland             4-2   @ Jomala, Sweden
+  Åland Islands        v Isle of Man           2-1   @ Jomala, Sweden
+  Guernsey             v Jersey                0-2   @ Sund, Sweden
+Fri Jul 3
+  Gibraltar            v Isle of Wight         3-0   @ Jomala, Sweden
+  Menorca              v Western Isles         4-1   @ Jomala, Sweden
+  Rhodes               v Ynys Môn              4-0   @ Eckerö, Sweden
+  Isle of Man          v Guernsey              0-5   @ Eckerö, Sweden
+  Åland Islands        v Jersey                1-2   @ Mariehamn, Sweden
 

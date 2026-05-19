@@ -1,18 +1,18 @@
 = Balkan Cup 1932
 
-# Date       Sun Jun/26 - Sun Jul/3 1932 (7d)
+# Date       Sun Jun 26 - Sun Jul 3 1932 (7d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 26]
-  Bulgaria - Romania  2-0   @ Belgrade, Yugoslavia
-  Yugoslavia - Greece  7-1   @ Belgrade, Yugoslavia
-[Tue Jun 28]
-  Greece - Romania  0-3   @ Belgrade, Yugoslavia
-[Thu Jun 30]
-  Yugoslavia - Bulgaria  2-3   @ Belgrade, Yugoslavia
-[Sat Jul 2]
-  Bulgaria - Greece  2-0   @ Belgrade, Yugoslavia
-[Sun Jul 3]
-  Yugoslavia - Romania  3-1   @ Belgrade, Yugoslavia
+Sun Jun 26
+  Bulgaria             v Romania               2-0   @ Belgrade, Yugoslavia
+  Yugoslavia           v Greece                7-1   @ Belgrade, Yugoslavia
+Tue Jun 28
+  Greece               v Romania               0-3   @ Belgrade, Yugoslavia
+Thu Jun 30
+  Yugoslavia           v Bulgaria              2-3   @ Belgrade, Yugoslavia
+Sat Jul 2
+  Bulgaria             v Greece                2-0   @ Belgrade, Yugoslavia
+Sun Jul 3
+  Yugoslavia           v Romania               3-1   @ Belgrade, Yugoslavia
 

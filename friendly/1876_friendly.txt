@@ -1,11 +1,11 @@
 = Friendly 1876
 
-# Date       Sat Mar/4 - Sat Mar/25 1876 (21d)
+# Date       Sat Mar 4 - Sat Mar 25 1876 (21d)
 # Teams      3
 # Matches    2
 
-[Sat Mar 4]
-  Scotland - England  3-0   @ Glasgow, Scotland
-[Sat Mar 25]
-  Scotland - Wales  4-0   @ Glasgow, Scotland
+Sat Mar 4
+  Scotland             v England               3-0   @ Glasgow, Scotland
+Sat Mar 25
+  Scotland             v Wales                 4-0   @ Glasgow, Scotland
 

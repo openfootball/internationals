@@ -1,15 +1,15 @@
 = King's Cup 1988
 
-# Date       Thu Jan/14 - Thu Jan/21 1988 (7d)
+# Date       Thu Jan 14 - Thu Jan 21 1988 (7d)
 # Teams      5
 # Matches    4
 
-[Thu Jan 14]
-  Thailand - Indonesia  3-3   @ Bangkok, Thailand
-[Mon Jan 18]
-  Indonesia - Oman  3-0   @ Bangkok, Thailand
-[Wed Jan 20]
-  Thailand - Oman  3-1   @ Bangkok, Thailand
-[Thu Jan 21]
-  Malaysia - South Korea  0-0   @ Bangkok, Thailand
+Thu Jan 14
+  Thailand             v Indonesia             3-3   @ Bangkok, Thailand
+Mon Jan 18
+  Indonesia            v Oman                  3-0   @ Bangkok, Thailand
+Wed Jan 20
+  Thailand             v Oman                  3-1   @ Bangkok, Thailand
+Thu Jan 21
+  Malaysia             v South Korea           0-0   @ Bangkok, Thailand
 

@@ -1,17 +1,17 @@
 = African Cup of Nations qualification 1963
 
-# Date       Sat Jun/1 - Sat Jul/27 1963 (56d)
+# Date       Sat Jun 1 - Sat Jul 27 1963 (56d)
 # Teams      6
 # Matches    5
 
-[Sat Jun 1]
-  Kenya - Sudan  0-1   @ Nairobi, Kenya
-[Sun Jun 16]
-  Tunisia - Morocco  4-1   @ Tunis, Tunisia
-[Sun Jun 30]
-  Sudan - Kenya  5-0   @ Khartoum, Sudan
-[Tue Jul 2]
-  Morocco - Tunisia  4-2   @ Casablanca, Morocco
-[Sat Jul 27]
-  Nigeria - Guinea  2-2   @ Lagos, Nigeria
+Sat Jun 1
+  Kenya                v Sudan                 0-1   @ Nairobi, Kenya
+Sun Jun 16
+  Tunisia              v Morocco               4-1   @ Tunis, Tunisia
+Sun Jun 30
+  Sudan                v Kenya                 5-0   @ Khartoum, Sudan
+Tue Jul 2
+  Morocco              v Tunisia               4-2   @ Casablanca, Morocco
+Sat Jul 27
+  Nigeria              v Guinea                2-2   @ Lagos, Nigeria
 

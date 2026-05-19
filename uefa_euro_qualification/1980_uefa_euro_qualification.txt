@@ -1,17 +1,17 @@
 = UEFA Euro qualification 1980
 
-# Date       Wed Feb/6 - Wed Mar/26 1980 (49d)
+# Date       Wed Feb 6 - Wed Mar 26 1980 (49d)
 # Teams      6
 # Matches    3
 
-[Wed Feb 6]
-  England - Republic of Ireland  2-0   @ London, England
-     Kevin Keegan 34' Kevin Keegan 74'
-[Wed Feb 27]
-  Germany - Malta  8-0   @ Bremen, Germany
-     Klaus Allofs 14' Rainer Bonhof 19' (pen.) Klaus Fischer 40' Klaus Allofs 55' John Holland 61' (o.g.) Walter Kelsch 70' Karl-Heinz Rummenigge 74' Klaus Fischer 90'
-[Wed Mar 26]
-  Scotland - Portugal  4-1   @ Glasgow, Scotland
-     Kenny Dalglish 7' Andy Gray 25' Steve Archibald 68' Archie Gemmill 83' (pen.);
-     Fernando Gomes 75'
+Wed Feb 6
+  England              v Republic of Ireland   2-0   @ London, England
+     (Kevin Keegan 34' Kevin Keegan 74')
+Wed Feb 27
+  Germany              v Malta                 8-0   @ Bremen, Germany
+     (Klaus Allofs 14' Rainer Bonhof 19'(p) Klaus Fischer 40' Klaus Allofs 55' John Holland 61'(og) Walter Kelsch 70' Karl-Heinz Rummenigge 74' Klaus Fischer 90')
+Wed Mar 26
+  Scotland             v Portugal              4-1   @ Glasgow, Scotland
+     (Kenny Dalglish 7' Andy Gray 25' Steve Archibald 68' Archie Gemmill 83'(p);
+      Fernando Gomes 75')
 

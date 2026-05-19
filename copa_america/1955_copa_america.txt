@@ -1,58 +1,58 @@
 = Copa América 1955
 
-# Date       Sun Feb/27 - Wed Mar/30 1955 (31d)
+# Date       Sun Feb 27 - Wed Mar 30 1955 (31d)
 # Teams      6
 # Matches    15
 
-[Sun Feb 27]
-  Chile - Ecuador  7-1   @ Santiago, Chile
-     Enrique Hormazábal 27' Guillermo Díaz 31' René Meléndez 33' Guillermo Díaz 35' Enrique Hormazábal 47' Enrique Hormazábal 53' George Robledo 55';
-     Washington Villacreses 64'
-[Wed Mar 2]
-  Argentina - Paraguay  5-3   @ Santiago, Chile
-     Rodolfo Micheli 5' Rodolfo Micheli 18' (pen.) Rodolfo Micheli 64' José Borello 74' Rodolfo Micheli 83';
-     Máximo Rolón 13' Eulogio Martínez 47' Salvador Villalba 89'
-[Sun Mar 6]
-  Chile - Peru  5-4   @ Santiago, Chile
-     Manuel Muñoz 9' George Robledo 13' Enrique Hormazábal 52' George Robledo 57' Jaime Ramírez 84';
-     Félix Castillo 35' Guillermo Barbadillo 62' Cornelio Heredia 63' (pen.) Óscar Gómez Sánchez 83'
-[Wed Mar 9]
-  Argentina - Ecuador  4-0   @ Santiago, Chile
-     Ricardo Bonelli 11' Ernesto Grillo 24' Rodolfo Micheli 28' José Borello 71'
-  Paraguay - Uruguay  1-3   @ Santiago, Chile
-     Máximo Rolón 23';
-     Carlos Borges 2' Julio Abbadie 5' Óscar Míguez 86' (pen.)
-[Sun Mar 13]
-  Chile - Uruguay  2-2   @ Santiago, Chile
-     Manuel Muñoz 30' Enrique Hormazábal 72';
-     Américo Galván 24' Américo Galván 41'
-  Ecuador - Peru  2-4   @ Santiago, Chile
-     Isidro Matute 34' Isidro Matute 61';
-     Óscar Gómez Sánchez 11' Óscar Gómez Sánchez 15' Honorato Gonzabay 29' (o.g.) Honorato Gonzabay 88' (o.g.)
-[Wed Mar 16]
-  Argentina - Peru  2-2   @ Santiago, Chile
-     Ernesto Grillo 7' Carlos Cecconato 41';
-     Óscar Gómez Sánchez 23' Óscar Gómez Sánchez 57'
-  Ecuador - Paraguay  0-2   @ Santiago, Chile
-     -; Máximo Rolón 16' Máximo Rolón 32' (pen.)
-[Sun Mar 20]
-  Chile - Paraguay  5-0   @ Santiago, Chile
-     René Meléndez 10' René Meléndez 52' Manuel Muñoz 77' Manuel Muñoz 79' Enrique Hormazábal 82'
-[Wed Mar 23]
-  Ecuador - Uruguay  1-5   @ Santiago, Chile
-     Isidro Matute 36';
-     Américo Galván 4' Óscar Míguez 12' Julio Abbadie 26' Julio Pérez 54' Julio Abbadie 80'
-  Paraguay - Peru  1-1   @ Santiago, Chile
-     Máximo Rolón 65';
-     Alberto Terry 33'
-[Sun Mar 27]
-  Argentina - Uruguay  6-1   @ Santiago, Chile
-     Rodolfo Micheli 37' Ángel Labruna 39' Rodolfo Micheli 61' Ángel Labruna 71' José Borello 76' Ángel Labruna 87';
-     Óscar Míguez 32'
-[Wed Mar 30]
-  Chile - Argentina  0-1   @ Santiago, Chile
-     -; Rodolfo Micheli 59'
-  Peru - Uruguay  2-1   @ Santiago, Chile
-     Roberto Castillo 11' Óscar Gómez Sánchez 68';
-     Walter Morel 72'
+Sun Feb 27
+  Chile                v Ecuador               7-1   @ Santiago, Chile
+     (Enrique Hormazábal 27' Guillermo Díaz 31' René Meléndez 33' Guillermo Díaz 35' Enrique Hormazábal 47' Enrique Hormazábal 53' George Robledo 55';
+      Washington Villacreses 64')
+Wed Mar 2
+  Argentina            v Paraguay              5-3   @ Santiago, Chile
+     (Rodolfo Micheli 5' Rodolfo Micheli 18'(p) Rodolfo Micheli 64' José Borello 74' Rodolfo Micheli 83';
+      Máximo Rolón 13' Eulogio Martínez 47' Salvador Villalba 89')
+Sun Mar 6
+  Chile                v Peru                  5-4   @ Santiago, Chile
+     (Manuel Muñoz 9' George Robledo 13' Enrique Hormazábal 52' George Robledo 57' Jaime Ramírez 84';
+      Félix Castillo 35' Guillermo Barbadillo 62' Cornelio Heredia 63'(p) Óscar Gómez Sánchez 83')
+Wed Mar 9
+  Argentina            v Ecuador               4-0   @ Santiago, Chile
+     (Ricardo Bonelli 11' Ernesto Grillo 24' Rodolfo Micheli 28' José Borello 71')
+  Paraguay             v Uruguay               1-3   @ Santiago, Chile
+     (Máximo Rolón 23';
+      Carlos Borges 2' Julio Abbadie 5' Óscar Míguez 86'(p))
+Sun Mar 13
+  Chile                v Uruguay               2-2   @ Santiago, Chile
+     (Manuel Muñoz 30' Enrique Hormazábal 72';
+      Américo Galván 24' Américo Galván 41')
+  Ecuador              v Peru                  2-4   @ Santiago, Chile
+     (Isidro Matute 34' Isidro Matute 61';
+      Óscar Gómez Sánchez 11' Óscar Gómez Sánchez 15' Honorato Gonzabay 29'(og) Honorato Gonzabay 88'(og))
+Wed Mar 16
+  Argentina            v Peru                  2-2   @ Santiago, Chile
+     (Ernesto Grillo 7' Carlos Cecconato 41';
+      Óscar Gómez Sánchez 23' Óscar Gómez Sánchez 57')
+  Ecuador              v Paraguay              0-2   @ Santiago, Chile
+     (Máximo Rolón 16' Máximo Rolón 32'(p))
+Sun Mar 20
+  Chile                v Paraguay              5-0   @ Santiago, Chile
+     (René Meléndez 10' René Meléndez 52' Manuel Muñoz 77' Manuel Muñoz 79' Enrique Hormazábal 82')
+Wed Mar 23
+  Ecuador              v Uruguay               1-5   @ Santiago, Chile
+     (Isidro Matute 36';
+      Américo Galván 4' Óscar Míguez 12' Julio Abbadie 26' Julio Pérez 54' Julio Abbadie 80')
+  Paraguay             v Peru                  1-1   @ Santiago, Chile
+     (Máximo Rolón 65';
+      Alberto Terry 33')
+Sun Mar 27
+  Argentina            v Uruguay               6-1   @ Santiago, Chile
+     (Rodolfo Micheli 37' Ángel Labruna 39' Rodolfo Micheli 61' Ángel Labruna 71' José Borello 76' Ángel Labruna 87';
+      Óscar Míguez 32')
+Wed Mar 30
+  Chile                v Argentina             0-1   @ Santiago, Chile
+     (Rodolfo Micheli 59')
+  Peru                 v Uruguay               2-1   @ Santiago, Chile
+     (Roberto Castillo 11' Óscar Gómez Sánchez 68';
+      Walter Morel 72')
 

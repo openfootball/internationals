@@ -1,19 +1,19 @@
 = Baltic Cup 1936
 
-# Date       Sat Aug/29 - Mon Aug/31 1936 (2d)
+# Date       Sat Aug 29 - Mon Aug 31 1936 (2d)
 # Teams      3
 # Matches    3
 
-[Sat Aug 29]
-  Latvia - Lithuania  2-1   @ Riga, Latvia
-     Iļja Vestermans 75' Alberts Šeibelis 90';
-     Voldemaras Jaškevičius 27'
-[Sun Aug 30]
-  Estonia - Lithuania  2-1   @ Riga, Latvia
-     Georg Siimenson 24' Richard Kuremaa 61';
-     Juozas Gudelis 84'
-[Mon Aug 31]
-  Latvia - Estonia  2-1   @ Riga, Latvia
-     Alberts Šeibelis 35' Jānis Lidmanis 41' (pen.);
-     Julius Kaljo 73' (pen.)
+Sat Aug 29
+  Latvia               v Lithuania             2-1   @ Riga, Latvia
+     (Iļja Vestermans 75' Alberts Šeibelis 90';
+      Voldemaras Jaškevičius 27')
+Sun Aug 30
+  Estonia              v Lithuania             2-1   @ Riga, Latvia
+     (Georg Siimenson 24' Richard Kuremaa 61';
+      Juozas Gudelis 84')
+Mon Aug 31
+  Latvia               v Estonia               2-1   @ Riga, Latvia
+     (Alberts Šeibelis 35' Jānis Lidmanis 41'(p);
+      Julius Kaljo 73'(p))
 

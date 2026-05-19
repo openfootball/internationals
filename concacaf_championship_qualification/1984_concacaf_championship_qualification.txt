@@ -1,27 +1,27 @@
 = CONCACAF Championship qualification 1984
 
-# Date       Fri Jun/15 - Sat Oct/6 1984 (113d)
+# Date       Fri Jun 15 - Sat Oct 6 1984 (113d)
 # Teams      10
 # Matches    10
 
-[Fri Jun 15]
-  Panama - Honduras  0-3   @ Colón, Panama
-[Sun Jun 24]
-  Honduras - Panama  1-0   @ Tegucigalpa, Honduras
-[Sun Jul 29]
-  El Salvador - Puerto Rico  5-0   @ San Salvador, El Salvador
-[Sat Aug 4]
-  Haiti - Antigua and Barbuda  4-0   @ Port-au-Prince, Haiti
-[Sun Aug 5]
-  Puerto Rico - El Salvador  0-3   @ San Juan, Puerto Rico
-[Tue Aug 7]
-  Haiti - Antigua and Barbuda  1-2   @ Port-au-Prince, Haiti
-[Wed Aug 15]
-  Suriname - Guyana  1-0   @ Paramaribo, Suriname
-[Wed Aug 29]
-  Guyana - Suriname  1-1   @ Georgetown, Guyana
-[Sat Sep 29]
-  Curaçao - United States  0-0   @ Willemstad, Curaçao
-[Sat Oct 6]
-  United States - Curaçao  4-0   @ St. Louis, United States
+Fri Jun 15
+  Panama               v Honduras              0-3   @ Colón, Panama
+Sun Jun 24
+  Honduras             v Panama                1-0   @ Tegucigalpa, Honduras
+Sun Jul 29
+  El Salvador          v Puerto Rico           5-0   @ San Salvador, El Salvador
+Sat Aug 4
+  Haiti                v Antigua and Barbuda   4-0   @ Port-au-Prince, Haiti
+Sun Aug 5
+  Puerto Rico          v El Salvador           0-3   @ San Juan, Puerto Rico
+Tue Aug 7
+  Haiti                v Antigua and Barbuda   1-2   @ Port-au-Prince, Haiti
+Wed Aug 15
+  Suriname             v Guyana                1-0   @ Paramaribo, Suriname
+Wed Aug 29
+  Guyana               v Suriname              1-1   @ Georgetown, Guyana
+Sat Sep 29
+  Curaçao              v United States         0-0   @ Willemstad, Curaçao
+Sat Oct 6
+  United States        v Curaçao               4-0   @ St. Louis, United States
 

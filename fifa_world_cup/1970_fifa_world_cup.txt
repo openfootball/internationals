@@ -1,95 +1,95 @@
 = FIFA World Cup 1970
 
-# Date       Sun May/31 - Sun Jun/21 1970 (21d)
+# Date       Sun May 31 - Sun Jun 21 1970 (21d)
 # Teams      16
 # Matches    32
 
-[Sun May 31]
-  Mexico - Russia  0-0   @ Mexico City, Mexico
-[Tue Jun 2]
-  Bulgaria - Peru  2-3   @ León, Mexico
-     Dinko Dermendzhiev 13' Hristo Bonev 49';
-     Alberto Gallardo 50' Héctor Chumpitaz 55' Teófilo Cubillas 73'
-  England - Romania  1-0   @ Guadalajara, Mexico
-     Geoff Hurst 65'
-  Israel - Uruguay  0-2   @ Puebla, Mexico
-     -; Ildo Maneiro 23' Juan Mujica 50'
-[Wed Jun 3]
-  Belgium - El Salvador  3-0   @ Mexico City, Mexico
-     Wilfried Van Moer 12' Wilfried Van Moer 54' Raoul Lambert 76' (pen.)
-  Brazil - Czechoslovakia  4-1   @ Guadalajara, Mexico
-     Rivellino 24' Pelé 59' Jairzinho 61' Jairzinho 83';
-     Ladislav Petráš 11'
-  Germany - Morocco  2-1   @ León, Mexico
-     Uwe Seeler 56' Gerd Müller 80';
-     Houmane Jarir 21'
-  Italy - Sweden  1-0   @ Toluca, Mexico
-     Angelo Domenghini 10'
-[Sat Jun 6]
-  Belgium - Russia  1-4   @ Mexico City, Mexico
-     Raoul Lambert 86';
-     Anatoliy Byshovets 14' Kakhi Asatiani 57' Anatoliy Byshovets 63' Vitaliy Khmelnytskyi 76'
-  Czechoslovakia - Romania  1-2   @ Guadalajara, Mexico
-     Ladislav Petráš 5';
-     Alexandru Neagu 52' Florea Dumitrache 75' (pen.)
-  Italy - Uruguay  0-0   @ Puebla, Mexico
-  Morocco - Peru  0-3   @ León, Mexico
-     -; Teófilo Cubillas 65' Roberto Challe 67' Teófilo Cubillas 75'
-[Sun Jun 7]
-  Brazil - England  1-0   @ Guadalajara, Mexico
-     Jairzinho 59'
-  Bulgaria - Germany  2-5   @ León, Mexico
-     Asparuh Nikodimov 12' Todor Kolev 89';
-     Reinhard Libuda 20' Gerd Müller 27' Gerd Müller 52' (pen.) Uwe Seeler 67' Gerd Müller 88'
-  Israel - Sweden  1-1   @ Toluca, Mexico
-     Mordechai Spiegler 56';
-     Tom Turesson 53'
-  Mexico - El Salvador  4-0   @ Mexico City, Mexico
-     Javier Valdivia 45' Javier Valdivia 46' Javier Fragoso 58' Juan Ignacio Basaguren 83'
-[Wed Jun 10]
-  Brazil - Romania  3-2   @ Guadalajara, Mexico
-     Pelé 19' Jairzinho 22' Pelé 67';
-     Florea Dumitrache 34' Emerich Dembrovschi 84'
-  El Salvador - Russia  0-2   @ Mexico City, Mexico
-     -; Anatoliy Byshovets 51' Anatoliy Byshovets 74'
-  Germany - Peru  3-1   @ León, Mexico
-     Gerd Müller 19' Gerd Müller 26' Gerd Müller 39';
-     Teófilo Cubillas 44'
-  Sweden - Uruguay  1-0   @ Puebla, Mexico
-     Ove Grahn 90'
-[Thu Jun 11]
-  Bulgaria - Morocco  1-1   @ León, Mexico
-     Dobromir Zhechev 40';
-     Maouhoub Ghazouani 61'
-  Czechoslovakia - England  0-1   @ Guadalajara, Mexico
-     -; Allan Clarke 50' (pen.)
-  Israel - Italy  0-0   @ Toluca, Mexico
-  Mexico - Belgium  1-0   @ Mexico City, Mexico
-     Gustavo Peña 14' (pen.)
-[Sun Jun 14]
-  Brazil - Peru  4-2   @ Guadalajara, Mexico
-     Rivellino 11' Tostão 15' Tostão 52' Jairzinho 75';
-     Alberto Gallardo 28' Teófilo Cubillas 70'
-  England - Germany  2-3   @ León, Mexico
-     Alan Mullery 31' Martin Peters 49';
-     Franz Beckenbauer 68' Uwe Seeler 82' Gerd Müller 108'
-  Mexico - Italy  1-4   @ Toluca, Mexico
-     José Luis González Dávila 13';
-     Javier Guzmán 25' (o.g.) Gigi Riva 63' Gianni Rivera 70' Gigi Riva 76'
-  Russia - Uruguay  0-1   @ Mexico City, Mexico
-     -; Víctor Espárrago 117'
-[Wed Jun 17]
-  Brazil - Uruguay  3-1   @ Guadalajara, Mexico
-     Clodoaldo 44' Jairzinho 76' Rivellino 89';
-     Luis Cubilla 19'
-  Germany - Italy  3-4   @ Mexico City, Mexico
-     Karl-Heinz Schnellinger 90' Gerd Müller 94' Gerd Müller 110';
-     Roberto Boninsegna 8' Tarcisio Burgnich 98' Gigi Riva 104' Gianni Rivera 111'
-[Sat Jun 20]
-  Germany - Uruguay  1-0   @ Mexico City, Mexico
-     Wolfgang Overath 26'
-[Sun Jun 21]
-  Brazil - Italy  4-1   @ Mexico City, Mexico
-     Pelé 18' Gérson 65' Jairzinho 71' Carlos Alberto Torres 86';
-     Roberto Boninsegna 37'
+Sun May 31
+  Mexico               v Russia                0-0   @ Mexico City, Mexico
+Tue Jun 2
+  Bulgaria             v Peru                  2-3   @ León, Mexico
+     (Dinko Dermendzhiev 13' Hristo Bonev 49';
+      Alberto Gallardo 50' Héctor Chumpitaz 55' Teófilo Cubillas 73')
+  England              v Romania               1-0   @ Guadalajara, Mexico
+     (Geoff Hurst 65')
+  Israel               v Uruguay               0-2   @ Puebla, Mexico
+     (Ildo Maneiro 23' Juan Mujica 50')
+Wed Jun 3
+  Belgium              v El Salvador           3-0   @ Mexico City, Mexico
+     (Wilfried Van Moer 12' Wilfried Van Moer 54' Raoul Lambert 76'(p))
+  Brazil               v Czechoslovakia        4-1   @ Guadalajara, Mexico
+     (Rivellino 24' Pelé 59' Jairzinho 61' Jairzinho 83';
+      Ladislav Petráš 11')
+  Germany              v Morocco               2-1   @ León, Mexico
+     (Uwe Seeler 56' Gerd Müller 80';
+      Houmane Jarir 21')
+  Italy                v Sweden                1-0   @ Toluca, Mexico
+     (Angelo Domenghini 10')
+Sat Jun 6
+  Belgium              v Russia                1-4   @ Mexico City, Mexico
+     (Raoul Lambert 86';
+      Anatoliy Byshovets 14' Kakhi Asatiani 57' Anatoliy Byshovets 63' Vitaliy Khmelnytskyi 76')
+  Czechoslovakia       v Romania               1-2   @ Guadalajara, Mexico
+     (Ladislav Petráš 5';
+      Alexandru Neagu 52' Florea Dumitrache 75'(p))
+  Italy                v Uruguay               0-0   @ Puebla, Mexico
+  Morocco              v Peru                  0-3   @ León, Mexico
+     (Teófilo Cubillas 65' Roberto Challe 67' Teófilo Cubillas 75')
+Sun Jun 7
+  Brazil               v England               1-0   @ Guadalajara, Mexico
+     (Jairzinho 59')
+  Bulgaria             v Germany               2-5   @ León, Mexico
+     (Asparuh Nikodimov 12' Todor Kolev 89';
+      Reinhard Libuda 20' Gerd Müller 27' Gerd Müller 52'(p) Uwe Seeler 67' Gerd Müller 88')
+  Israel               v Sweden                1-1   @ Toluca, Mexico
+     (Mordechai Spiegler 56';
+      Tom Turesson 53')
+  Mexico               v El Salvador           4-0   @ Mexico City, Mexico
+     (Javier Valdivia 45' Javier Valdivia 46' Javier Fragoso 58' Juan Ignacio Basaguren 83')
+Wed Jun 10
+  Brazil               v Romania               3-2   @ Guadalajara, Mexico
+     (Pelé 19' Jairzinho 22' Pelé 67';
+      Florea Dumitrache 34' Emerich Dembrovschi 84')
+  El Salvador          v Russia                0-2   @ Mexico City, Mexico
+     (Anatoliy Byshovets 51' Anatoliy Byshovets 74')
+  Germany              v Peru                  3-1   @ León, Mexico
+     (Gerd Müller 19' Gerd Müller 26' Gerd Müller 39';
+      Teófilo Cubillas 44')
+  Sweden               v Uruguay               1-0   @ Puebla, Mexico
+     (Ove Grahn 90')
+Thu Jun 11
+  Bulgaria             v Morocco               1-1   @ León, Mexico
+     (Dobromir Zhechev 40';
+      Maouhoub Ghazouani 61')
+  Czechoslovakia       v England               0-1   @ Guadalajara, Mexico
+     (Allan Clarke 50'(p))
+  Israel               v Italy                 0-0   @ Toluca, Mexico
+  Mexico               v Belgium               1-0   @ Mexico City, Mexico
+     (Gustavo Peña 14'(p))
+Sun Jun 14
+  Brazil               v Peru                  4-2   @ Guadalajara, Mexico
+     (Rivellino 11' Tostão 15' Tostão 52' Jairzinho 75';
+      Alberto Gallardo 28' Teófilo Cubillas 70')
+  England              v Germany               2-3   @ León, Mexico
+     (Alan Mullery 31' Martin Peters 49';
+      Franz Beckenbauer 68' Uwe Seeler 82' Gerd Müller 108')
+  Mexico               v Italy                 1-4   @ Toluca, Mexico
+     (José Luis González Dávila 13';
+      Javier Guzmán 25'(og) Gigi Riva 63' Gianni Rivera 70' Gigi Riva 76')
+  Russia               v Uruguay               0-1   @ Mexico City, Mexico
+     (Víctor Espárrago 117')
+Wed Jun 17
+  Brazil               v Uruguay               3-1   @ Guadalajara, Mexico
+     (Clodoaldo 44' Jairzinho 76' Rivellino 89';
+      Luis Cubilla 19')
+  Germany              v Italy                 3-4   @ Mexico City, Mexico
+     (Karl-Heinz Schnellinger 90' Gerd Müller 94' Gerd Müller 110';
+      Roberto Boninsegna 8' Tarcisio Burgnich 98' Gigi Riva 104' Gianni Rivera 111')
+Sat Jun 20
+  Germany              v Uruguay               1-0   @ Mexico City, Mexico
+     (Wolfgang Overath 26')
+Sun Jun 21
+  Brazil               v Italy                 4-1   @ Mexico City, Mexico
+     (Pelé 18' Gérson 65' Jairzinho 71' Carlos Alberto Torres 86';
+      Roberto Boninsegna 37')
 

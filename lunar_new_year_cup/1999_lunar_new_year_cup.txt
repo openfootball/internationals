@@ -1,11 +1,11 @@
 = Lunar New Year Cup 1999
 
-# Date       Tue Feb/16 - Fri Feb/19 1999 (3d)
+# Date       Tue Feb 16 - Fri Feb 19 1999 (3d)
 # Teams      3
 # Matches    2
 
-[Tue Feb 16]
-  Bulgaria - Egypt  1-3   @ Kowloon, Hong Kong
-[Fri Feb 19]
-  Egypt - Mexico  0-3   @ So Kon Po, Hong Kong
+Tue Feb 16
+  Bulgaria             v Egypt                 1-3   @ Kowloon, Hong Kong
+Fri Feb 19
+  Egypt                v Mexico                0-3   @ So Kon Po, Hong Kong
 

@@ -1,13 +1,13 @@
 = Nordic Championship 1927
 
-# Date       Sun Jun/19 - Sun Oct/30 1927 (133d)
+# Date       Sun Jun 19 - Sun Oct 30 1927 (133d)
 # Teams      3
 # Matches    3
 
-[Sun Jun 19]
-  Sweden - Denmark  0-0   @ Stockholm, Sweden
-[Sun Jun 26]
-  Norway - Sweden  3-5   @ Oslo, Norway
-[Sun Oct 30]
-  Denmark - Norway  3-1   @ Copenhagen, Denmark
+Sun Jun 19
+  Sweden               v Denmark               0-0   @ Stockholm, Sweden
+Sun Jun 26
+  Norway               v Sweden                3-5   @ Oslo, Norway
+Sun Oct 30
+  Denmark              v Norway                3-1   @ Copenhagen, Denmark
 

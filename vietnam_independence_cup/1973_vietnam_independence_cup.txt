@@ -1,13 +1,13 @@
 = Vietnam Independence Cup 1973
 
-# Date       Thu Nov/1 - Sun Nov/4 1973 (3d)
+# Date       Thu Nov 1 - Sun Nov 4 1973 (3d)
 # Teams      3
 # Matches    3
 
-[Thu Nov 1]
-  Vietnam Republic - Malaysia  1-5   @ Saigon, Vietnam Republic
-[Sat Nov 3]
-  Malaysia - Singapore  2-1   @ Saigon, Vietnam Republic
-[Sun Nov 4]
-  Vietnam Republic - Singapore  4-2   @ Saigon, Vietnam Republic
+Thu Nov 1
+  Vietnam Republic     v Malaysia              1-5   @ Saigon, Vietnam Republic
+Sat Nov 3
+  Malaysia             v Singapore             2-1   @ Saigon, Vietnam Republic
+Sun Nov 4
+  Vietnam Republic     v Singapore             4-2   @ Saigon, Vietnam Republic
 

@@ -1,13 +1,13 @@
 = Malta International Tournament 1988
 
-# Date       Sun Feb/7 - Sat Feb/13 1988 (6d)
+# Date       Sun Feb 7 - Sat Feb 13 1988 (6d)
 # Teams      3
 # Matches    3
 
-[Sun Feb 7]
-  Malta - Finland  2-0   @ Attard, Malta
-[Wed Feb 10]
-  Malta - Tunisia  2-1   @ Attard, Malta
-[Sat Feb 13]
-  Finland - Tunisia  3-0   @ Attard, Malta
+Sun Feb 7
+  Malta                v Finland               2-0   @ Attard, Malta
+Wed Feb 10
+  Malta                v Tunisia               2-1   @ Attard, Malta
+Sat Feb 13
+  Finland              v Tunisia               3-0   @ Attard, Malta
 

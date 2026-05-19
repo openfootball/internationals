@@ -1,63 +1,63 @@
 = CFU Caribbean Cup qualification 2008
 
-# Date       Sun Jul/27 - Sun Nov/9 2008 (105d)
+# Date       Sun Jul 27 - Sun Nov 9 2008 (105d)
 # Teams      18
 # Matches    34
 
-[Sun Jul 27]
-  Curaçao - Aruba  0-0   @ Willemstad, Curaçao
-[Tue Jul 29]
-  Grenada - Aruba  3-1   @ Willemstad, Curaçao
-[Thu Jul 31]
-  Curaçao - Grenada  2-0   @ Willemstad, Curaçao
-[Fri Aug 8]
-  Guyana - Dominica  3-0   @ Providence, Guyana
-[Sat Aug 9]
-  Dominica - Suriname  1-3   @ Blairmont, Guyana
-[Sun Aug 10]
-  Guyana - Suriname  1-1   @ Providence, Guyana
-[Wed Aug 27]
-  Bermuda - Antigua and Barbuda  0-4   @ George Town, Cayman Islands
-  Cayman Islands - Saint Martin  3-0   @ George Town, Cayman Islands
-[Sat Aug 30]
-  Cayman Islands - Antigua and Barbuda  1-1   @ George Town, Cayman Islands
-  Saint Martin - Bermuda  0-7   @ George Town, Cayman Islands
-[Sun Aug 31]
-  Antigua and Barbuda - Saint Martin  3-2   @ George Town, Cayman Islands
-  Cayman Islands - Bermuda  0-0   @ George Town, Cayman Islands
-[Fri Sep 19]
-  Martinique - Anguilla  3-1   @ Fort-de-France, Martinique
-[Wed Sep 24]
-  Saint Kitts and Nevis - British Virgin Islands  4-0   @ Basseterre, Saint Kitts and Nevis
-[Fri Sep 26]
-  British Virgin Islands - Barbados  1-2   @ Basseterre, Saint Kitts and Nevis
-[Sun Sep 28]
-  Saint Kitts and Nevis - Barbados  1-3   @ Basseterre, Saint Kitts and Nevis
-[Sat Oct 11]
-  Guadeloupe - Cayman Islands  7-1   @ Les Abymes, Guadeloupe
-  Martinique - Grenada  2-2   @ Les Abymes, Guadeloupe
-[Mon Oct 13]
-  Cayman Islands - Martinique  0-1   @ Les Abymes, Guadeloupe
-  Guadeloupe - Grenada  2-1   @ Les Abymes, Guadeloupe
-[Wed Oct 15]
-  Grenada - Cayman Islands  4-2   @ Les Abymes, Guadeloupe
-  Guadeloupe - Martinique  3-1   @ Les Abymes, Guadeloupe
-[Thu Oct 23]
-  Barbados - Suriname  3-2   @ Havana, Cuba
-  Cuba - Curaçao  7-1   @ Havana, Cuba
-[Sat Oct 25]
-  Cuba - Barbados  1-1   @ Havana, Cuba
-  Suriname - Curaçao  2-1   @ Havana, Cuba
-[Mon Oct 27]
-  Cuba - Suriname  6-0   @ Havana, Cuba
-  Curaçao - Barbados  1-2   @ Havana, Cuba
-[Wed Nov 5]
-  Guyana - Saint Kitts and Nevis  1-1   @ Macoya, Trinidad and Tobago
-  Trinidad and Tobago - Antigua and Barbuda  3-2   @ Macoya, Trinidad and Tobago
-[Fri Nov 7]
-  Antigua and Barbuda - Guyana  2-1   @ Macoya, Trinidad and Tobago
-  Trinidad and Tobago - Saint Kitts and Nevis  3-1   @ Macoya, Trinidad and Tobago
-[Sun Nov 9]
-  Saint Kitts and Nevis - Antigua and Barbuda  3-4   @ Macoya, Trinidad and Tobago
-  Trinidad and Tobago - Guyana  1-1   @ Macoya, Trinidad and Tobago
+Sun Jul 27
+  Curaçao              v Aruba                 0-0   @ Willemstad, Curaçao
+Tue Jul 29
+  Grenada              v Aruba                 3-1   @ Willemstad, Curaçao
+Thu Jul 31
+  Curaçao              v Grenada               2-0   @ Willemstad, Curaçao
+Fri Aug 8
+  Guyana               v Dominica              3-0   @ Providence, Guyana
+Sat Aug 9
+  Dominica             v Suriname              1-3   @ Blairmont, Guyana
+Sun Aug 10
+  Guyana               v Suriname              1-1   @ Providence, Guyana
+Wed Aug 27
+  Bermuda              v Antigua and Barbuda   0-4   @ George Town, Cayman Islands
+  Cayman Islands       v Saint Martin          3-0   @ George Town, Cayman Islands
+Sat Aug 30
+  Cayman Islands       v Antigua and Barbuda   1-1   @ George Town, Cayman Islands
+  Saint Martin         v Bermuda               0-7   @ George Town, Cayman Islands
+Sun Aug 31
+  Antigua and Barbuda  v Saint Martin          3-2   @ George Town, Cayman Islands
+  Cayman Islands       v Bermuda               0-0   @ George Town, Cayman Islands
+Fri Sep 19
+  Martinique           v Anguilla              3-1   @ Fort-de-France, Martinique
+Wed Sep 24
+  Saint Kitts and Nevis v British Virgin Islands  4-0   @ Basseterre, Saint Kitts and Nevis
+Fri Sep 26
+  British Virgin Islands v Barbados              1-2   @ Basseterre, Saint Kitts and Nevis
+Sun Sep 28
+  Saint Kitts and Nevis v Barbados              1-3   @ Basseterre, Saint Kitts and Nevis
+Sat Oct 11
+  Guadeloupe           v Cayman Islands        7-1   @ Les Abymes, Guadeloupe
+  Martinique           v Grenada               2-2   @ Les Abymes, Guadeloupe
+Mon Oct 13
+  Cayman Islands       v Martinique            0-1   @ Les Abymes, Guadeloupe
+  Guadeloupe           v Grenada               2-1   @ Les Abymes, Guadeloupe
+Wed Oct 15
+  Grenada              v Cayman Islands        4-2   @ Les Abymes, Guadeloupe
+  Guadeloupe           v Martinique            3-1   @ Les Abymes, Guadeloupe
+Thu Oct 23
+  Barbados             v Suriname              3-2   @ Havana, Cuba
+  Cuba                 v Curaçao               7-1   @ Havana, Cuba
+Sat Oct 25
+  Cuba                 v Barbados              1-1   @ Havana, Cuba
+  Suriname             v Curaçao               2-1   @ Havana, Cuba
+Mon Oct 27
+  Cuba                 v Suriname              6-0   @ Havana, Cuba
+  Curaçao              v Barbados              1-2   @ Havana, Cuba
+Wed Nov 5
+  Guyana               v Saint Kitts and Nevis  1-1   @ Macoya, Trinidad and Tobago
+  Trinidad and Tobago  v Antigua and Barbuda   3-2   @ Macoya, Trinidad and Tobago
+Fri Nov 7
+  Antigua and Barbuda  v Guyana                2-1   @ Macoya, Trinidad and Tobago
+  Trinidad and Tobago  v Saint Kitts and Nevis  3-1   @ Macoya, Trinidad and Tobago
+Sun Nov 9
+  Saint Kitts and Nevis v Antigua and Barbuda   3-4   @ Macoya, Trinidad and Tobago
+  Trinidad and Tobago  v Guyana                1-1   @ Macoya, Trinidad and Tobago
 

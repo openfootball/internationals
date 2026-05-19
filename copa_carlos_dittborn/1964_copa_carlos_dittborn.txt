@@ -1,11 +1,11 @@
 = Copa Carlos Dittborn 1964
 
-# Date       Thu Sep/24 - Wed Oct/14 1964 (20d)
+# Date       Thu Sep 24 - Wed Oct 14 1964 (20d)
 # Teams      2
 # Matches    2
 
-[Thu Sep 24]
-  Argentina - Chile  5-0   @ Buenos Aires, Argentina
-[Wed Oct 14]
-  Chile - Argentina  1-1   @ Santiago, Chile
+Thu Sep 24
+  Argentina            v Chile                 5-0   @ Buenos Aires, Argentina
+Wed Oct 14
+  Chile                v Argentina             1-1   @ Santiago, Chile
 

@@ -1,28 +1,28 @@
 = Copa América 1923
 
-# Date       Mon Oct/29 - Sun Dec/2 1923 (34d)
+# Date       Mon Oct 29 - Sun Dec 2 1923 (34d)
 # Teams      4
 # Matches    6
 
-[Mon Oct 29]
-  Argentina - Paraguay  4-3   @ Montevideo, Uruguay
-     Blas Saruppo 18' Vicente Aguirre 58' Vicente Aguirre 77' Vicente Aguirre 86';
-     Gerardo Rivas 10' Agustín Zelada 49' Luis Fretes 65'
-[Sun Nov 4]
-  Uruguay - Paraguay  2-0   @ Montevideo, Uruguay
-     Héctor Scarone 11' Pedro Petrone 87'
-[Sun Nov 11]
-  Brazil - Paraguay  0-1   @ Montevideo, Uruguay
-     -; Ildefonso López 56'
-[Sun Nov 18]
-  Argentina - Brazil  2-1   @ Montevideo, Uruguay
-     Cesáreo Onzari 11' Blas Saruppo 76';
-     Nilo Braga 15'
-[Sun Nov 25]
-  Uruguay - Brazil  2-1   @ Montevideo, Uruguay
-     Pedro Petrone 56' José Cea 75';
-     Nilo Braga 59'
-[Sun Dec 2]
-  Uruguay - Argentina  2-0   @ Montevideo, Uruguay
-     Pedro Petrone 28' Pascual Somma 88'
+Mon Oct 29
+  Argentina            v Paraguay              4-3   @ Montevideo, Uruguay
+     (Blas Saruppo 18' Vicente Aguirre 58' Vicente Aguirre 77' Vicente Aguirre 86';
+      Gerardo Rivas 10' Agustín Zelada 49' Luis Fretes 65')
+Sun Nov 4
+  Uruguay              v Paraguay              2-0   @ Montevideo, Uruguay
+     (Héctor Scarone 11' Pedro Petrone 87')
+Sun Nov 11
+  Brazil               v Paraguay              0-1   @ Montevideo, Uruguay
+     (Ildefonso López 56')
+Sun Nov 18
+  Argentina            v Brazil                2-1   @ Montevideo, Uruguay
+     (Cesáreo Onzari 11' Blas Saruppo 76';
+      Nilo Braga 15')
+Sun Nov 25
+  Uruguay              v Brazil                2-1   @ Montevideo, Uruguay
+     (Pedro Petrone 56' José Cea 75';
+      Nilo Braga 59')
+Sun Dec 2
+  Uruguay              v Argentina             2-0   @ Montevideo, Uruguay
+     (Pedro Petrone 28' Pascual Somma 88')
 

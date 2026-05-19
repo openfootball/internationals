@@ -1,13 +1,13 @@
 = Nordic Championship 1975
 
-# Date       Thu May/15 - Thu Sep/25 1975 (133d)
+# Date       Thu May 15 - Thu Sep 25 1975 (133d)
 # Teams      4
 # Matches    3
 
-[Thu May 15]
-  Finland - Norway  3-5   @ Helsinki, Finland
-[Wed Jun 25]
-  Denmark - Finland  2-0   @ Copenhagen, Denmark
-[Thu Sep 25]
-  Sweden - Denmark  0-0   @ Malmö, Sweden
+Thu May 15
+  Finland              v Norway                3-5   @ Helsinki, Finland
+Wed Jun 25
+  Denmark              v Finland               2-0   @ Copenhagen, Denmark
+Thu Sep 25
+  Sweden               v Denmark               0-0   @ Malmö, Sweden
 

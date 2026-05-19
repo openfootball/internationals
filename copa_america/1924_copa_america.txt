@@ -1,25 +1,25 @@
 = Copa América 1924
 
-# Date       Sun Oct/12 - Sun Nov/2 1924 (21d)
+# Date       Sun Oct 12 - Sun Nov 2 1924 (21d)
 # Teams      4
 # Matches    6
 
-[Sun Oct 12]
-  Argentina - Paraguay  0-0   @ Montevideo, Uruguay
-[Sun Oct 19]
-  Uruguay - Chile  5-0   @ Montevideo, Uruguay
-     Pedro Petrone 40' Pedro Petrone 53' Pedro Zingone 73' Ángel Romano 78' Pedro Petrone 88'
-[Sat Oct 25]
-  Argentina - Chile  2-0   @ Montevideo, Uruguay
-     Gabino Sosa 5' Juan Loyarte 78'
-[Sun Oct 26]
-  Uruguay - Paraguay  3-1   @ Montevideo, Uruguay
-     Pedro Petrone 28' Ángel Romano 37' José Cea 53';
-     Paisano Urbita Sosa 77'
-[Sat Nov 1]
-  Chile - Paraguay  1-3   @ Montevideo, Uruguay
-     David Arellano 6';
-     Ildefonso López 15' Ildefonso López 33' Gerardo Rivas 52'
-[Sun Nov 2]
-  Uruguay - Argentina  0-0   @ Montevideo, Uruguay
+Sun Oct 12
+  Argentina            v Paraguay              0-0   @ Montevideo, Uruguay
+Sun Oct 19
+  Uruguay              v Chile                 5-0   @ Montevideo, Uruguay
+     (Pedro Petrone 40' Pedro Petrone 53' Pedro Zingone 73' Ángel Romano 78' Pedro Petrone 88')
+Sat Oct 25
+  Argentina            v Chile                 2-0   @ Montevideo, Uruguay
+     (Gabino Sosa 5' Juan Loyarte 78')
+Sun Oct 26
+  Uruguay              v Paraguay              3-1   @ Montevideo, Uruguay
+     (Pedro Petrone 28' Ángel Romano 37' José Cea 53';
+      Paisano Urbita Sosa 77')
+Sat Nov 1
+  Chile                v Paraguay              1-3   @ Montevideo, Uruguay
+     (David Arellano 6';
+      Ildefonso López 15' Ildefonso López 33' Gerardo Rivas 52')
+Sun Nov 2
+  Uruguay              v Argentina             0-0   @ Montevideo, Uruguay
 

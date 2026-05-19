@@ -1,14 +1,14 @@
 = African Cup of Nations 1957
 
-# Date       Sun Feb/10 - Sat Feb/16 1957 (6d)
+# Date       Sun Feb 10 - Sat Feb 16 1957 (6d)
 # Teams      3
 # Matches    2
 
-[Sun Feb 10]
-  Sudan - Egypt  1-2   @ Khartoum, Sudan
-     Boraî Bashir 58';
-     Raafat Attia 21' (pen.) Ad-Diba 72'
-[Sat Feb 16]
-  Egypt - Ethiopia  4-0   @ Khartoum, Sudan
-     Ad-Diba 2' Ad-Diba 7' Ad-Diba 68' Ad-Diba 89'
+Sun Feb 10
+  Sudan                v Egypt                 1-2   @ Khartoum, Sudan
+     (Boraî Bashir 58';
+      Raafat Attia 21'(p) Ad-Diba 72')
+Sat Feb 16
+  Egypt                v Ethiopia              4-0   @ Khartoum, Sudan
+     (Ad-Diba 2' Ad-Diba 7' Ad-Diba 68' Ad-Diba 89')
 

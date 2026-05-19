@@ -1,11 +1,11 @@
 = Copa Artigas 1983
 
-# Date       Thu Jun/2 - Thu Jun/9 1983 (7d)
+# Date       Thu Jun 2 - Thu Jun 9 1983 (7d)
 # Teams      2
 # Matches    2
 
-[Thu Jun 2]
-  Paraguay - Uruguay  0-0   @ Asunción, Paraguay
-[Thu Jun 9]
-  Uruguay - Paraguay  3-0   @ Montevideo, Uruguay
+Thu Jun 2
+  Paraguay             v Uruguay               0-0   @ Asunción, Paraguay
+Thu Jun 9
+  Uruguay              v Paraguay              3-0   @ Montevideo, Uruguay
 

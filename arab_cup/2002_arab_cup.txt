@@ -1,37 +1,37 @@
 = Arab Cup 2002
 
-# Date       Mon Dec/16 - Mon Dec/30 2002 (14d)
+# Date       Mon Dec 16 - Mon Dec 30 2002 (14d)
 # Teams      9
 # Matches    18
 
-[Mon Dec 16]
-  Palestine - Jordan  1-1   @ Kuwait City, Kuwait
-[Tue Dec 17]
-  Saudi Arabia - Bahrain  2-1   @ Kuwait City, Kuwait
-  Yemen - Syria  0-4   @ Kuwait City, Kuwait
-[Wed Dec 18]
-  Kuwait - Sudan  1-0   @ Kuwait City, Kuwait
-[Thu Dec 19]
-  Bahrain - Syria  2-0   @ Kuwait City, Kuwait
-  Saudi Arabia - Lebanon  1-0   @ Kuwait City, Kuwait
-[Fri Dec 20]
-  Jordan - Sudan  2-1   @ Kuwait City, Kuwait
-[Sat Dec 21]
-  Bahrain - Yemen  3-1   @ Kuwait City, Kuwait
-  Syria - Lebanon  4-1   @ Kuwait City, Kuwait
-[Mon Dec 23]
-  Kuwait - Jordan  1-2   @ Kuwait City, Kuwait
-  Sudan - Palestine  2-2   @ Kuwait City, Kuwait
-[Tue Dec 24]
-  Lebanon - Yemen  4-2   @ Kuwait City, Kuwait
-  Syria - Saudi Arabia  0-3   @ Kuwait City, Kuwait
-[Wed Dec 25]
-  Kuwait - Palestine  3-3   @ Kuwait City, Kuwait
-[Thu Dec 26]
-  Lebanon - Bahrain  0-0   @ Kuwait City, Kuwait
-  Yemen - Saudi Arabia  2-2   @ Kuwait City, Kuwait
-[Sat Dec 28]
-  Jordan - Bahrain  1-2   @ Kuwait City, Kuwait
-[Mon Dec 30]
-  Saudi Arabia - Bahrain  1-0   @ Kuwait City, Kuwait
+Mon Dec 16
+  Palestine            v Jordan                1-1   @ Kuwait City, Kuwait
+Tue Dec 17
+  Saudi Arabia         v Bahrain               2-1   @ Kuwait City, Kuwait
+  Yemen                v Syria                 0-4   @ Kuwait City, Kuwait
+Wed Dec 18
+  Kuwait               v Sudan                 1-0   @ Kuwait City, Kuwait
+Thu Dec 19
+  Bahrain              v Syria                 2-0   @ Kuwait City, Kuwait
+  Saudi Arabia         v Lebanon               1-0   @ Kuwait City, Kuwait
+Fri Dec 20
+  Jordan               v Sudan                 2-1   @ Kuwait City, Kuwait
+Sat Dec 21
+  Bahrain              v Yemen                 3-1   @ Kuwait City, Kuwait
+  Syria                v Lebanon               4-1   @ Kuwait City, Kuwait
+Mon Dec 23
+  Kuwait               v Jordan                1-2   @ Kuwait City, Kuwait
+  Sudan                v Palestine             2-2   @ Kuwait City, Kuwait
+Tue Dec 24
+  Lebanon              v Yemen                 4-2   @ Kuwait City, Kuwait
+  Syria                v Saudi Arabia          0-3   @ Kuwait City, Kuwait
+Wed Dec 25
+  Kuwait               v Palestine             3-3   @ Kuwait City, Kuwait
+Thu Dec 26
+  Lebanon              v Bahrain               0-0   @ Kuwait City, Kuwait
+  Yemen                v Saudi Arabia          2-2   @ Kuwait City, Kuwait
+Sat Dec 28
+  Jordan               v Bahrain               1-2   @ Kuwait City, Kuwait
+Mon Dec 30
+  Saudi Arabia         v Bahrain               1-0   @ Kuwait City, Kuwait
 

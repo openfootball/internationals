@@ -1,13 +1,13 @@
 = King Hassan II Tournament 1998
 
-# Date       Wed May/27 - Fri May/29 1998 (2d)
+# Date       Wed May 27 - Fri May 29 1998 (2d)
 # Teams      4
 # Matches    4
 
-[Wed May 27]
-  Belgium - France  0-1   @ Casablanca, Morocco
-  Morocco - England  0-1   @ Casablanca, Morocco
-[Fri May 29]
-  Belgium - England  0-0   @ Casablanca, Morocco   [Belgium wins on penalties]
-  Morocco - France  2-2   @ Casablanca, Morocco   [Morocco wins on penalties]
+Wed May 27
+  Belgium              v France                0-1   @ Casablanca, Morocco
+  Morocco              v England               0-1   @ Casablanca, Morocco
+Fri May 29
+  Belgium              v England               0-0   @ Casablanca, Morocco   [Belgium wins on penalties]
+  Morocco              v France                2-2   @ Casablanca, Morocco   [Morocco wins on penalties]
 

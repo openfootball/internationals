@@ -1,30 +1,30 @@
 = Gulf Cup 2009
 
-# Date       Sun Jan/4 - Sat Jan/17 2009 (13d)
+# Date       Sun Jan 4 - Sat Jan 17 2009 (13d)
 # Teams      8
 # Matches    15
 
-[Sun Jan 4]
-  Bahrain - Iraq  3-1   @ Muscat, Oman
-  Oman - Kuwait  0-0   @ Muscat, Oman
-[Mon Jan 5]
-  Saudi Arabia - Qatar  0-0   @ Muscat, Oman
-  United Arab Emirates - Yemen  3-1   @ Muscat, Oman
-[Wed Jan 7]
-  Bahrain - Kuwait  0-1   @ Muscat, Oman
-  Oman - Iraq  4-0   @ Muscat, Oman
-[Thu Jan 8]
-  Qatar - United Arab Emirates  0-0   @ Muscat, Oman
-  Saudi Arabia - Yemen  6-0   @ Muscat, Oman
-[Sat Jan 10]
-  Iraq - Kuwait  1-1   @ Muscat, Oman
-  Oman - Bahrain  2-0   @ Muscat, Oman
-[Sun Jan 11]
-  Qatar - Yemen  2-1   @ Muscat, Oman
-  United Arab Emirates - Saudi Arabia  0-3   @ Muscat, Oman
-[Wed Jan 14]
-  Kuwait - Saudi Arabia  0-1   @ Muscat, Oman
-  Oman - Qatar  1-0   @ Muscat, Oman
-[Sat Jan 17]
-  Oman - Saudi Arabia  0-0   @ Muscat, Oman
+Sun Jan 4
+  Bahrain              v Iraq                  3-1   @ Muscat, Oman
+  Oman                 v Kuwait                0-0   @ Muscat, Oman
+Mon Jan 5
+  Saudi Arabia         v Qatar                 0-0   @ Muscat, Oman
+  United Arab Emirates v Yemen                 3-1   @ Muscat, Oman
+Wed Jan 7
+  Bahrain              v Kuwait                0-1   @ Muscat, Oman
+  Oman                 v Iraq                  4-0   @ Muscat, Oman
+Thu Jan 8
+  Qatar                v United Arab Emirates  0-0   @ Muscat, Oman
+  Saudi Arabia         v Yemen                 6-0   @ Muscat, Oman
+Sat Jan 10
+  Iraq                 v Kuwait                1-1   @ Muscat, Oman
+  Oman                 v Bahrain               2-0   @ Muscat, Oman
+Sun Jan 11
+  Qatar                v Yemen                 2-1   @ Muscat, Oman
+  United Arab Emirates v Saudi Arabia          0-3   @ Muscat, Oman
+Wed Jan 14
+  Kuwait               v Saudi Arabia          0-1   @ Muscat, Oman
+  Oman                 v Qatar                 1-0   @ Muscat, Oman
+Sat Jan 17
+  Oman                 v Saudi Arabia          0-0   @ Muscat, Oman
 

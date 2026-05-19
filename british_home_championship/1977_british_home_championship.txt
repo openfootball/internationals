@@ -1,18 +1,18 @@
 = British Home Championship 1977
 
-# Date       Sat May/28 - Sat Jun/4 1977 (7d)
+# Date       Sat May 28 - Sat Jun 4 1977 (7d)
 # Teams      4
 # Matches    6
 
-[Sat May 28]
-  Northern Ireland - England  1-2   @ Belfast, Northern Ireland
-  Wales - Scotland  0-0   @ Wrexham, Wales
-[Tue May 31]
-  England - Wales  0-1   @ London, England
-[Wed Jun 1]
-  Scotland - Northern Ireland  3-0   @ Glasgow, Scotland
-[Fri Jun 3]
-  Northern Ireland - Wales  1-1   @ Belfast, Northern Ireland
-[Sat Jun 4]
-  England - Scotland  1-2   @ London, England
+Sat May 28
+  Northern Ireland     v England               1-2   @ Belfast, Northern Ireland
+  Wales                v Scotland              0-0   @ Wrexham, Wales
+Tue May 31
+  England              v Wales                 0-1   @ London, England
+Wed Jun 1
+  Scotland             v Northern Ireland      3-0   @ Glasgow, Scotland
+Fri Jun 3
+  Northern Ireland     v Wales                 1-1   @ Belfast, Northern Ireland
+Sat Jun 4
+  England              v Scotland              1-2   @ London, England
 

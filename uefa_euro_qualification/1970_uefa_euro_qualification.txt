@@ -1,81 +1,81 @@
 = UEFA Euro qualification 1970
 
-# Date       Wed Oct/7 - Sun Dec/20 1970 (74d)
+# Date       Wed Oct 7 - Sun Dec 20 1970 (74d)
 # Teams      31
 # Matches    25
 
-[Wed Oct 7]
-  Czechoslovakia - Finland  1-1   @ Prague, Czechoslovakia
-     Milan Albrecht 30';
-     Matti Paatelainen 41'
-  Norway - Hungary  1-3   @ Oslo, Norway
-     Odd Iversen 50';
-     Ferenc Bene 6' László Nagy 23' Geir Karlsen 69' (o.g.)
-[Sun Oct 11]
-  Malta - Greece  1-1   @ Gżira, Malta
-     Willie Vassallo 66';
-     Michalis Kritikopoulos 80'
-  Netherlands - Yugoslavia  1-1   @ Rotterdam, Netherlands
-     Rinus Israël 50' (pen.);
-     Dragan Džajić 22'
-  Romania - Finland  3-0   @ Bucharest, Romania
-     Florea Dumitrache 28' Florea Dumitrache 42' Radu Nunweiller 77'
-[Wed Oct 14]
-  Denmark - Portugal  0-1   @ Copenhagen, Denmark
-     -; Jacinto João 40'
-  Republic of Ireland - Sweden  1-1   @ Dublin, Republic of Ireland
-     Tommy Carroll 44' (pen.);
-     Dan Brzokoupil 61'
-  Luxembourg - Yugoslavia  0-2   @ Luxembourg, Luxembourg
-     -; Josip Bukal 44' Josip Bukal 62'
-  Poland - Albania  3-0   @ Chorzów, Poland
-     Robert Gadocha 19' Włodzimierz Lubański 83' Zygfryd Szołtysik 90'
-[Sat Oct 17]
-  Germany - Turkey  1-1   @ Cologne, Germany
-     Gerd Müller 37' (pen.);
-     Kamuran Yavuz 15'
-[Wed Oct 28]
-  Sweden - Republic of Ireland  1-0   @ Solna, Sweden
-     Tom Turesson 74'
-[Sat Oct 31]
-  Austria - Italy  1-2   @ Vienna, Austria
-     Thomas Parits 29';
-     Giancarlo De Sisti 27' Sandro Mazzola 34'
-[Wed Nov 11]
-  France - Norway  3-1   @ Lyon, France
-     Louis Floch 30' Georges Lech 55' Michel Mézy 63';
-     Olav Nilsen 79'
-  German DR - Netherlands  1-0   @ Dresden, German DR
-     Peter Ducke 56'
-  Scotland - Denmark  1-0   @ Glasgow, Scotland
-     John O'Hare 13'
-  Spain - Northern Ireland  3-0   @ Seville, Spain
-     Carles Rexach 39' Pirri 60' Luis Aragonés 75'
-  Wales - Romania  0-0   @ Cardiff, Wales
-[Sun Nov 15]
-  Bulgaria - Norway  1-1   @ Sofia, Bulgaria
-     Tsvetan Atanasov 29';
-     Tor Fuglset 83'
-  Cyprus - Russia  1-3   @ Nicosia, Cyprus
-     Nikos Charalambous 42';
-     Viktor Kolotov 10' Gennady Yevryuzhikhin 16' Vitaliy Shevchenko 50'
-  Luxembourg - German DR  0-5   @ Luxembourg, Luxembourg
-     -; Eberhard Vogel 21' Hans-Jürgen Kreische 29' Hans-Jürgen Kreische 36' Hans-Jürgen Kreische 39' Hans-Jürgen Kreische 78'
-[Wed Nov 25]
-  Belgium - Denmark  2-0   @ Bruges, Belgium
-     Johan Devrindt 17' Johan Devrindt 37'
-[Tue Dec 8]
-  Italy - Republic of Ireland  3-0   @ Florence, Italy
-     Giancarlo De Sisti 22' (pen.) Roberto Boninsegna 42' Pierino Prati 84'
-[Sun Dec 13]
-  Turkey - Albania  2-1   @ Istanbul, Turkey
-     Metin Kurt 4' Cemil Turan 43';
-     Astrit Ziu 22'
-[Wed Dec 16]
-  Greece - Switzerland  0-1   @ Piraeus, Greece
-     -; Kurt Müller 85'
-[Sun Dec 20]
-  Malta - Switzerland  1-2   @ Gżira, Malta
-     Eddie Theobald 55' (pen.);
-     René-Pierre Quentin 49' Fritz Künzli 57'
+Wed Oct 7
+  Czechoslovakia       v Finland               1-1   @ Prague, Czechoslovakia
+     (Milan Albrecht 30';
+      Matti Paatelainen 41')
+  Norway               v Hungary               1-3   @ Oslo, Norway
+     (Odd Iversen 50';
+      Ferenc Bene 6' László Nagy 23' Geir Karlsen 69'(og))
+Sun Oct 11
+  Malta                v Greece                1-1   @ Gżira, Malta
+     (Willie Vassallo 66';
+      Michalis Kritikopoulos 80')
+  Netherlands          v Yugoslavia            1-1   @ Rotterdam, Netherlands
+     (Rinus Israël 50'(p);
+      Dragan Džajić 22')
+  Romania              v Finland               3-0   @ Bucharest, Romania
+     (Florea Dumitrache 28' Florea Dumitrache 42' Radu Nunweiller 77')
+Wed Oct 14
+  Denmark              v Portugal              0-1   @ Copenhagen, Denmark
+     (Jacinto João 40')
+  Republic of Ireland  v Sweden                1-1   @ Dublin, Republic of Ireland
+     (Tommy Carroll 44'(p);
+      Dan Brzokoupil 61')
+  Luxembourg           v Yugoslavia            0-2   @ Luxembourg, Luxembourg
+     (Josip Bukal 44' Josip Bukal 62')
+  Poland               v Albania               3-0   @ Chorzów, Poland
+     (Robert Gadocha 19' Włodzimierz Lubański 83' Zygfryd Szołtysik 90')
+Sat Oct 17
+  Germany              v Turkey                1-1   @ Cologne, Germany
+     (Gerd Müller 37'(p);
+      Kamuran Yavuz 15')
+Wed Oct 28
+  Sweden               v Republic of Ireland   1-0   @ Solna, Sweden
+     (Tom Turesson 74')
+Sat Oct 31
+  Austria              v Italy                 1-2   @ Vienna, Austria
+     (Thomas Parits 29';
+      Giancarlo De Sisti 27' Sandro Mazzola 34')
+Wed Nov 11
+  France               v Norway                3-1   @ Lyon, France
+     (Louis Floch 30' Georges Lech 55' Michel Mézy 63';
+      Olav Nilsen 79')
+  German DR            v Netherlands           1-0   @ Dresden, German DR
+     (Peter Ducke 56')
+  Scotland             v Denmark               1-0   @ Glasgow, Scotland
+     (John O'Hare 13')
+  Spain                v Northern Ireland      3-0   @ Seville, Spain
+     (Carles Rexach 39' Pirri 60' Luis Aragonés 75')
+  Wales                v Romania               0-0   @ Cardiff, Wales
+Sun Nov 15
+  Bulgaria             v Norway                1-1   @ Sofia, Bulgaria
+     (Tsvetan Atanasov 29';
+      Tor Fuglset 83')
+  Cyprus               v Russia                1-3   @ Nicosia, Cyprus
+     (Nikos Charalambous 42';
+      Viktor Kolotov 10' Gennady Yevryuzhikhin 16' Vitaliy Shevchenko 50')
+  Luxembourg           v German DR             0-5   @ Luxembourg, Luxembourg
+     (Eberhard Vogel 21' Hans-Jürgen Kreische 29' Hans-Jürgen Kreische 36' Hans-Jürgen Kreische 39' Hans-Jürgen Kreische 78')
+Wed Nov 25
+  Belgium              v Denmark               2-0   @ Bruges, Belgium
+     (Johan Devrindt 17' Johan Devrindt 37')
+Tue Dec 8
+  Italy                v Republic of Ireland   3-0   @ Florence, Italy
+     (Giancarlo De Sisti 22'(p) Roberto Boninsegna 42' Pierino Prati 84')
+Sun Dec 13
+  Turkey               v Albania               2-1   @ Istanbul, Turkey
+     (Metin Kurt 4' Cemil Turan 43';
+      Astrit Ziu 22')
+Wed Dec 16
+  Greece               v Switzerland           0-1   @ Piraeus, Greece
+     (Kurt Müller 85')
+Sun Dec 20
+  Malta                v Switzerland           1-2   @ Gżira, Malta
+     (Eddie Theobald 55'(p);
+      René-Pierre Quentin 49' Fritz Künzli 57')
 

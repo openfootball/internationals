@@ -1,17 +1,17 @@
 = Copa Roca 1940
 
-# Date       Sun Feb/18 - Sun Mar/17 1940 (28d)
+# Date       Sun Feb 18 - Sun Mar 17 1940 (28d)
 # Teams      2
 # Matches    5
 
-[Sun Feb 18]
-  Brazil - Argentina  2-2   @ São Paulo, Brazil
-[Sun Feb 25]
-  Brazil - Argentina  0-3   @ São Paulo, Brazil
-[Tue Mar 5]
-  Argentina - Brazil  6-1   @ Buenos Aires, Argentina
-[Sun Mar 10]
-  Argentina - Brazil  2-3   @ Buenos Aires, Argentina
-[Sun Mar 17]
-  Argentina - Brazil  5-1   @ Avellaneda, Argentina
+Sun Feb 18
+  Brazil               v Argentina             2-2   @ São Paulo, Brazil
+Sun Feb 25
+  Brazil               v Argentina             0-3   @ São Paulo, Brazil
+Tue Mar 5
+  Argentina            v Brazil                6-1   @ Buenos Aires, Argentina
+Sun Mar 10
+  Argentina            v Brazil                2-3   @ Buenos Aires, Argentina
+Sun Mar 17
+  Argentina            v Brazil                5-1   @ Avellaneda, Argentina
 

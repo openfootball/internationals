@@ -1,27 +1,27 @@
 = Copa América 1921
 
-# Date       Sun Oct/2 - Sun Oct/30 1921 (28d)
+# Date       Sun Oct 2 - Sun Oct 30 1921 (28d)
 # Teams      4
 # Matches    6
 
-[Sun Oct 2]
-  Argentina - Brazil  1-0   @ Buenos Aires, Argentina
-     Julio Libonatti 27'
-[Sun Oct 9]
-  Paraguay - Uruguay  2-1   @ Buenos Aires, Argentina
-     Gerardo Rivas 9' Ildefonso López 66';
-     José Piendibene 83'
-[Wed Oct 12]
-  Brazil - Paraguay  3-0   @ Buenos Aires, Argentina
-     Ernesto Duarte Machado da Silva 21' Ernesto Duarte Machado da Silva 44' Aníbal Médicis Candiota 46'
-[Sun Oct 16]
-  Argentina - Paraguay  3-0   @ Buenos Aires, Argentina
-     Julio Libonatti 1' Blas Saruppo 71' Raúl Echeverría 76'
-[Sun Oct 23]
-  Brazil - Uruguay  1-2   @ Buenos Aires, Argentina
-     José Carlos Guimarães 53';
-     Ángel Romano 1' Ángel Romano 8'
-[Sun Oct 30]
-  Argentina - Uruguay  1-0   @ Buenos Aires, Argentina
-     Julio Libonatti 57'
+Sun Oct 2
+  Argentina            v Brazil                1-0   @ Buenos Aires, Argentina
+     (Julio Libonatti 27')
+Sun Oct 9
+  Paraguay             v Uruguay               2-1   @ Buenos Aires, Argentina
+     (Gerardo Rivas 9' Ildefonso López 66';
+      José Piendibene 83')
+Wed Oct 12
+  Brazil               v Paraguay              3-0   @ Buenos Aires, Argentina
+     (Ernesto Duarte Machado da Silva 21' Ernesto Duarte Machado da Silva 44' Aníbal Médicis Candiota 46')
+Sun Oct 16
+  Argentina            v Paraguay              3-0   @ Buenos Aires, Argentina
+     (Julio Libonatti 1' Blas Saruppo 71' Raúl Echeverría 76')
+Sun Oct 23
+  Brazil               v Uruguay               1-2   @ Buenos Aires, Argentina
+     (José Carlos Guimarães 53';
+      Ángel Romano 1' Ángel Romano 8')
+Sun Oct 30
+  Argentina            v Uruguay               1-0   @ Buenos Aires, Argentina
+     (Julio Libonatti 57')
 

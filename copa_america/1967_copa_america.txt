@@ -1,51 +1,51 @@
 = Copa América 1967
 
-# Date       Tue Jan/17 - Thu Feb/2 1967 (16d)
+# Date       Tue Jan 17 - Thu Feb 2 1967 (16d)
 # Teams      6
 # Matches    15
 
-[Tue Jan 17]
-  Uruguay - Bolivia  4-0   @ Montevideo, Uruguay
-     Pedro Rocha 5' Julio Montero Castillo 44' Roberto Troncoso 55' (o.g.) Jorge Oyarbide 81'
-[Wed Jan 18]
-  Argentina - Paraguay  4-1   @ Montevideo, Uruguay
-     Oscar Mas 23' Raúl Bernao 71' Luis Artime 73' Rafael Albrecht 89' (pen.);
-     Celino Mora 67'
-  Chile - Venezuela  2-0   @ Montevideo, Uruguay
-     Rubén Marcos 12' Rubén Marcos 41'
-[Sat Jan 21]
-  Uruguay - Venezuela  4-0   @ Montevideo, Uruguay
-     José Urruzmendi 5' José Urruzmendi 34' Jorge Oyarbide 62' Jorge Oyarbide 68'
-[Sun Jan 22]
-  Bolivia - Argentina  0-1   @ Montevideo, Uruguay
-     -; Raúl Bernao 67'
-  Chile - Paraguay  4-2   @ Montevideo, Uruguay
-     Julio Gallardo 9' Julio Gallardo 44' Pedro Araya 72' Pedro Araya 81';
-     Juan Francisco Riveros 62' Benigno Apocada 85'
-[Wed Jan 25]
-  Argentina - Venezuela  5-1   @ Montevideo, Uruguay
-     Luis Artime 18' Juan Carlos Carone 26' Silvio Marzolini 50' Luis Artime 65' Luis Artime 88';
-     Rafael Santana 72'
-  Paraguay - Bolivia  1-0   @ Montevideo, Uruguay
-     Arístides del Puerto 14'
-[Thu Jan 26]
-  Uruguay - Chile  2-2   @ Montevideo, Uruguay
-     Pedro Rocha 15' Jorge Oyarbide 68';
-     Julio Gallardo 2' Rubén Marcos 37'
-[Sat Jan 28]
-  Argentina - Chile  2-0   @ Montevideo, Uruguay
-     Juan Carlos Sarnari 36' Luis Artime 80'
-  Bolivia - Venezuela  0-3   @ Montevideo, Uruguay
-     -; Humberto Scovino 59' Rafael Santana 67' Antonio Ravelo 84'
-[Sun Jan 29]
-  Uruguay - Paraguay  2-0   @ Montevideo, Uruguay
-     Domingo Pérez 32' José Urruzmendi 66'
-[Wed Feb 1]
-  Bolivia - Chile  0-0   @ Montevideo, Uruguay
-  Venezuela - Paraguay  3-5   @ Montevideo, Uruguay
-     Luis Mendoza 3' Rafael Santana 77' Antonio Ravelo 89';
-     Antonio González 11' Juan Carlos Rojas 16' Celino Mora 22' Juan Carlos Rojas 29' Ramón Colmán 81'
-[Thu Feb 2]
-  Uruguay - Argentina  1-0   @ Montevideo, Uruguay
-     Pedro Rocha 74'
+Tue Jan 17
+  Uruguay              v Bolivia               4-0   @ Montevideo, Uruguay
+     (Pedro Rocha 5' Julio Montero Castillo 44' Roberto Troncoso 55'(og) Jorge Oyarbide 81')
+Wed Jan 18
+  Argentina            v Paraguay              4-1   @ Montevideo, Uruguay
+     (Oscar Mas 23' Raúl Bernao 71' Luis Artime 73' Rafael Albrecht 89'(p);
+      Celino Mora 67')
+  Chile                v Venezuela             2-0   @ Montevideo, Uruguay
+     (Rubén Marcos 12' Rubén Marcos 41')
+Sat Jan 21
+  Uruguay              v Venezuela             4-0   @ Montevideo, Uruguay
+     (José Urruzmendi 5' José Urruzmendi 34' Jorge Oyarbide 62' Jorge Oyarbide 68')
+Sun Jan 22
+  Bolivia              v Argentina             0-1   @ Montevideo, Uruguay
+     (Raúl Bernao 67')
+  Chile                v Paraguay              4-2   @ Montevideo, Uruguay
+     (Julio Gallardo 9' Julio Gallardo 44' Pedro Araya 72' Pedro Araya 81';
+      Juan Francisco Riveros 62' Benigno Apocada 85')
+Wed Jan 25
+  Argentina            v Venezuela             5-1   @ Montevideo, Uruguay
+     (Luis Artime 18' Juan Carlos Carone 26' Silvio Marzolini 50' Luis Artime 65' Luis Artime 88';
+      Rafael Santana 72')
+  Paraguay             v Bolivia               1-0   @ Montevideo, Uruguay
+     (Arístides del Puerto 14')
+Thu Jan 26
+  Uruguay              v Chile                 2-2   @ Montevideo, Uruguay
+     (Pedro Rocha 15' Jorge Oyarbide 68';
+      Julio Gallardo 2' Rubén Marcos 37')
+Sat Jan 28
+  Argentina            v Chile                 2-0   @ Montevideo, Uruguay
+     (Juan Carlos Sarnari 36' Luis Artime 80')
+  Bolivia              v Venezuela             0-3   @ Montevideo, Uruguay
+     (Humberto Scovino 59' Rafael Santana 67' Antonio Ravelo 84')
+Sun Jan 29
+  Uruguay              v Paraguay              2-0   @ Montevideo, Uruguay
+     (Domingo Pérez 32' José Urruzmendi 66')
+Wed Feb 1
+  Bolivia              v Chile                 0-0   @ Montevideo, Uruguay
+  Venezuela            v Paraguay              3-5   @ Montevideo, Uruguay
+     (Luis Mendoza 3' Rafael Santana 77' Antonio Ravelo 89';
+      Antonio González 11' Juan Carlos Rojas 16' Celino Mora 22' Juan Carlos Rojas 29' Ramón Colmán 81')
+Thu Feb 2
+  Uruguay              v Argentina             1-0   @ Montevideo, Uruguay
+     (Pedro Rocha 74')
 

@@ -1,25 +1,25 @@
 = Merdeka Tournament 1957
 
-# Date       Sat Aug/31 - Sat Sep/7 1957 (7d)
+# Date       Sat Aug 31 - Sat Sep 7 1957 (7d)
 # Teams      7
 # Matches    13
 
-[Sat Aug 31]
-  Indonesia - Thailand  4-0   @ Kuala Lumpur, Malaya
-  Singapore - Vietnam Republic  5-5   @ Kuala Lumpur, Malaya
-[Sun Sep 1]
-  Cambodia - Thailand  0-3   @ Kuala Lumpur, Malaya
-  Malaysia - Myanmar  5-2   @ Kuala Lumpur, Malaya
-  Singapore - Vietnam Republic  1-2   @ Kuala Lumpur, Malaya
-[Tue Sep 3]
-  Myanmar - Cambodia  2-0   @ Kuala Lumpur, Malaya
-  Malaysia - Vietnam Republic  1-4   @ Kuala Lumpur, Malaya
-  Singapore - Thailand  6-0   @ Kuala Lumpur, Malaya
-[Thu Sep 5]
-  Myanmar - Thailand  5-2   @ Kuala Lumpur, Malaya
-  Cambodia - Singapore  1-1   @ Kuala Lumpur, Malaya
-  Indonesia - Vietnam Republic  3-1   @ Kuala Lumpur, Malaya
-[Sat Sep 7]
-  Myanmar - Singapore  2-3   @ Kuala Lumpur, Malaya
-  Malaysia - Indonesia  4-2   @ Kuala Lumpur, Malaya
+Sat Aug 31
+  Indonesia            v Thailand              4-0   @ Kuala Lumpur, Malaya
+  Singapore            v Vietnam Republic      5-5   @ Kuala Lumpur, Malaya
+Sun Sep 1
+  Cambodia             v Thailand              0-3   @ Kuala Lumpur, Malaya
+  Malaysia             v Myanmar               5-2   @ Kuala Lumpur, Malaya
+  Singapore            v Vietnam Republic      1-2   @ Kuala Lumpur, Malaya
+Tue Sep 3
+  Myanmar              v Cambodia              2-0   @ Kuala Lumpur, Malaya
+  Malaysia             v Vietnam Republic      1-4   @ Kuala Lumpur, Malaya
+  Singapore            v Thailand              6-0   @ Kuala Lumpur, Malaya
+Thu Sep 5
+  Myanmar              v Thailand              5-2   @ Kuala Lumpur, Malaya
+  Cambodia             v Singapore             1-1   @ Kuala Lumpur, Malaya
+  Indonesia            v Vietnam Republic      3-1   @ Kuala Lumpur, Malaya
+Sat Sep 7
+  Myanmar              v Singapore             2-3   @ Kuala Lumpur, Malaya
+  Malaysia             v Indonesia             4-2   @ Kuala Lumpur, Malaya
 

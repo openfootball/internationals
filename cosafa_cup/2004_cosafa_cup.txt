@@ -1,29 +1,29 @@
 = COSAFA Cup 2004
 
-# Date       Sat Jan/10 - Sat Nov/20 2004 (315d)
+# Date       Sat Jan 10 - Sat Nov 20 2004 (315d)
 # Teams      12
 # Matches    11
 
-[Sat Jan 10]
-  Mauritius - South Africa  2-0   @ Curepipe, Mauritius
-[Sat Feb 28]
-  Lesotho - Botswana  0-0   @ Maseru, Lesotho   [Botswana wins on penalties]
-[Sun Apr 18]
-  Mozambique - Madagascar  2-0   @ Maputo, Mozambique
-[Sun May 9]
-  Angola - Namibia  2-1   @ Luanda, Angola
-[Sun Jun 13]
-  Mozambique - Malawi  2-0   @ Maputo, Mozambique
-[Sun Jun 27]
-  Eswatini - Zimbabwe  0-5   @ Lobamba, Swaziland
-[Sun Jul 18]
-  Angola - Botswana  1-1   @ Luanda, Angola   [Angola wins on penalties]
-[Sat Jul 31]
-  Zambia - Mauritius  3-1   @ Lusaka, Zambia
-[Sun Sep 19]
-  Mozambique - Angola  0-1   @ Maputo, Mozambique
-[Sun Oct 24]
-  Zimbabwe - Zambia  0-0   @ Harare, Zimbabwe   [Zambia wins on penalties]
-[Sat Nov 20]
-  Zambia - Angola  0-0   @ Lusaka, Zambia   [Angola wins on penalties]
+Sat Jan 10
+  Mauritius            v South Africa          2-0   @ Curepipe, Mauritius
+Sat Feb 28
+  Lesotho              v Botswana              0-0   @ Maseru, Lesotho   [Botswana wins on penalties]
+Sun Apr 18
+  Mozambique           v Madagascar            2-0   @ Maputo, Mozambique
+Sun May 9
+  Angola               v Namibia               2-1   @ Luanda, Angola
+Sun Jun 13
+  Mozambique           v Malawi                2-0   @ Maputo, Mozambique
+Sun Jun 27
+  Eswatini             v Zimbabwe              0-5   @ Lobamba, Swaziland
+Sun Jul 18
+  Angola               v Botswana              1-1   @ Luanda, Angola   [Angola wins on penalties]
+Sat Jul 31
+  Zambia               v Mauritius             3-1   @ Lusaka, Zambia
+Sun Sep 19
+  Mozambique           v Angola                0-1   @ Maputo, Mozambique
+Sun Oct 24
+  Zimbabwe             v Zambia                0-0   @ Harare, Zimbabwe   [Zambia wins on penalties]
+Sat Nov 20
+  Zambia               v Angola                0-0   @ Lusaka, Zambia   [Angola wins on penalties]
 

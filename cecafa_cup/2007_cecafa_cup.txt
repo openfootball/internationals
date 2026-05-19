@@ -1,43 +1,43 @@
 = CECAFA Cup 2007
 
-# Date       Sat Dec/8 - Sat Dec/22 2007 (14d)
+# Date       Sat Dec 8 - Sat Dec 22 2007 (14d)
 # Teams      11
 # Matches    23
 
-[Sat Dec 8]
-  Tanzania - Kenya  2-1   @ Dar es Salaam, Tanzania
-[Sun Dec 9]
-  Rwanda - Eritrea  2-1   @ Dar es Salaam, Tanzania
-  Sudan - Zanzibar  2-2   @ Arusha, Tanzania
-  Uganda - Djibouti  7-0   @ Dar es Salaam, Tanzania
-[Mon Dec 10]
-  Somalia - Burundi  0-3   @ Dar es Salaam, Tanzania
-[Tue Dec 11]
-  Djibouti - Eritrea  2-3   @ Dar es Salaam, Tanzania
-  Rwanda - Uganda  0-2   @ Dar es Salaam, Tanzania
-[Wed Dec 12]
-  Kenya - Burundi  0-1   @ Dar es Salaam, Tanzania
-  Tanzania - Somalia  1-0   @ Dar es Salaam, Tanzania
-[Thu Dec 13]
-  Djibouti - Rwanda  0-9   @ Dar es Salaam, Tanzania
-  Zanzibar - Ethiopia  3-1   @ Arusha, Tanzania
-[Fri Dec 14]
-  Eritrea - Uganda  3-2   @ Dar es Salaam, Tanzania
-  Kenya - Somalia  2-0   @ Dar es Salaam, Tanzania
-[Sat Dec 15]
-  Ethiopia - Sudan  0-0   @ Arusha, Tanzania
-  Tanzania - Burundi  0-0   @ Dar es Salaam, Tanzania
-[Mon Dec 17]
-  Burundi - Eritrea  2-1   @ Dar es Salaam, Tanzania
-  Tanzania - Sudan  1-2   @ Dar es Salaam, Tanzania
-[Tue Dec 18]
-  Uganda - Kenya  1-1   @ Dar es Salaam, Tanzania
-  Zanzibar - Rwanda  0-0   @ Dar es Salaam, Tanzania
-[Wed Dec 19]
-  Burundi - Sudan  1-2   @ Dar es Salaam, Tanzania
-[Thu Dec 20]
-  Uganda - Rwanda  0-1   @ Dar es Salaam, Tanzania
-[Sat Dec 22]
-  Burundi - Uganda  0-2   @ Dar es Salaam, Tanzania
-  Sudan - Rwanda  2-2   @ Dar es Salaam, Tanzania
+Sat Dec 8
+  Tanzania             v Kenya                 2-1   @ Dar es Salaam, Tanzania
+Sun Dec 9
+  Rwanda               v Eritrea               2-1   @ Dar es Salaam, Tanzania
+  Sudan                v Zanzibar              2-2   @ Arusha, Tanzania
+  Uganda               v Djibouti              7-0   @ Dar es Salaam, Tanzania
+Mon Dec 10
+  Somalia              v Burundi               0-3   @ Dar es Salaam, Tanzania
+Tue Dec 11
+  Djibouti             v Eritrea               2-3   @ Dar es Salaam, Tanzania
+  Rwanda               v Uganda                0-2   @ Dar es Salaam, Tanzania
+Wed Dec 12
+  Kenya                v Burundi               0-1   @ Dar es Salaam, Tanzania
+  Tanzania             v Somalia               1-0   @ Dar es Salaam, Tanzania
+Thu Dec 13
+  Djibouti             v Rwanda                0-9   @ Dar es Salaam, Tanzania
+  Zanzibar             v Ethiopia              3-1   @ Arusha, Tanzania
+Fri Dec 14
+  Eritrea              v Uganda                3-2   @ Dar es Salaam, Tanzania
+  Kenya                v Somalia               2-0   @ Dar es Salaam, Tanzania
+Sat Dec 15
+  Ethiopia             v Sudan                 0-0   @ Arusha, Tanzania
+  Tanzania             v Burundi               0-0   @ Dar es Salaam, Tanzania
+Mon Dec 17
+  Burundi              v Eritrea               2-1   @ Dar es Salaam, Tanzania
+  Tanzania             v Sudan                 1-2   @ Dar es Salaam, Tanzania
+Tue Dec 18
+  Uganda               v Kenya                 1-1   @ Dar es Salaam, Tanzania
+  Zanzibar             v Rwanda                0-0   @ Dar es Salaam, Tanzania
+Wed Dec 19
+  Burundi              v Sudan                 1-2   @ Dar es Salaam, Tanzania
+Thu Dec 20
+  Uganda               v Rwanda                0-1   @ Dar es Salaam, Tanzania
+Sat Dec 22
+  Burundi              v Uganda                0-2   @ Dar es Salaam, Tanzania
+  Sudan                v Rwanda                2-2   @ Dar es Salaam, Tanzania
 

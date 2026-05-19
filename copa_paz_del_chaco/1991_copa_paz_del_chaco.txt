@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 1991
 
-# Date       Fri Jun/14 - Sun Jun/16 1991 (2d)
+# Date       Fri Jun 14 - Sun Jun 16 1991 (2d)
 # Teams      2
 # Matches    2
 
-[Fri Jun 14]
-  Bolivia - Paraguay  0-1   @ Santa Cruz, Bolivia
-[Sun Jun 16]
-  Paraguay - Bolivia  0-0   @ Asunción, Paraguay
+Fri Jun 14
+  Bolivia              v Paraguay              0-1   @ Santa Cruz, Bolivia
+Sun Jun 16
+  Paraguay             v Bolivia               0-0   @ Asunción, Paraguay
 

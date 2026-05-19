@@ -1,17 +1,17 @@
 = Baltic Cup 1937
 
-# Date       Sat Sep/4 - Tue Sep/7 1937 (3d)
+# Date       Sat Sep 4 - Tue Sep 7 1937 (3d)
 # Teams      3
 # Matches    3
 
-[Sat Sep 4]
-  Latvia - Estonia  1-1   @ Kaunas, Lithuania
-     Iļja Vestermans 35';
-     Richard Kuremaa 68'
-[Sun Sep 5]
-  Lithuania - Estonia  0-4   @ Kaunas, Lithuania
-     -; Georg Siimenson 3' Heinrich Uukkivi 22' Aavo Sillandi 37' Georg Siimenson 50'
-[Tue Sep 7]
-  Estonia - Latvia  0-2   @ Kaunas, Lithuania
-     -; Jānis Rozītis 12' Iļja Vestermans 19'
+Sat Sep 4
+  Latvia               v Estonia               1-1   @ Kaunas, Lithuania
+     (Iļja Vestermans 35';
+      Richard Kuremaa 68')
+Sun Sep 5
+  Lithuania            v Estonia               0-4   @ Kaunas, Lithuania
+     (Georg Siimenson 3' Heinrich Uukkivi 22' Aavo Sillandi 37' Georg Siimenson 50')
+Tue Sep 7
+  Estonia              v Latvia                0-2   @ Kaunas, Lithuania
+     (Jānis Rozītis 12' Iļja Vestermans 19')
 

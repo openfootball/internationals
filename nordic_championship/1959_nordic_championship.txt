@@ -1,17 +1,17 @@
 = Nordic Championship 1959
 
-# Date       Sun Jun/21 - Sun Oct/18 1959 (119d)
+# Date       Sun Jun 21 - Sun Oct 18 1959 (119d)
 # Teams      4
 # Matches    5
 
-[Sun Jun 21]
-  Denmark - Sweden  0-6   @ Copenhagen, Denmark
-[Sun Jun 28]
-  Finland - Norway  2-4   @ Helsinki, Finland
-[Sun Aug 2]
-  Sweden - Finland  3-1   @ Malmö, Sweden
-[Sun Oct 4]
-  Denmark - Finland  4-0   @ Copenhagen, Denmark
-[Sun Oct 18]
-  Sweden - Norway  6-2   @ Gothenburg, Sweden
+Sun Jun 21
+  Denmark              v Sweden                0-6   @ Copenhagen, Denmark
+Sun Jun 28
+  Finland              v Norway                2-4   @ Helsinki, Finland
+Sun Aug 2
+  Sweden               v Finland               3-1   @ Malmö, Sweden
+Sun Oct 4
+  Denmark              v Finland               4-0   @ Copenhagen, Denmark
+Sun Oct 18
+  Sweden               v Norway                6-2   @ Gothenburg, Sweden
 

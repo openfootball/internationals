@@ -1,30 +1,30 @@
 = Merdeka Tournament 1962
 
-# Date       Sat Sep/8 - Wed Sep/19 1962 (11d)
+# Date       Sat Sep 8 - Wed Sep 19 1962 (11d)
 # Teams      8
 # Matches    13
 
-[Sat Sep 8]
-  Malaysia - Japan  2-2   @ Kuala Lumpur, Malaya
-[Sun Sep 9]
-  Myanmar - Pakistan  0-1   @ Kuala Lumpur, Malaya
-[Tue Sep 11]
-  Indonesia - Singapore  2-0   @ Kuala Lumpur, Malaya
-[Wed Sep 12]
-  Indonesia - Philippines  9-0   @ Kuala Lumpur, Malaya
-  Japan - Pakistan  1-1   @ Kuala Lumpur, Malaya
-[Thu Sep 13]
-  Malaysia - Myanmar  3-2   @ Kuala Lumpur, Malaya
-  Philippines - Singapore  0-5   @ Kuala Lumpur, Malaya
-[Fri Sep 14]
-  Indonesia - Vietnam Republic  2-1   @ Kuala Lumpur, Malaya
-[Sat Sep 15]
-  Myanmar - Japan  3-1   @ Kuala Lumpur, Malaya
-[Sun Sep 16]
-  Malaysia - Pakistan  0-0   @ Kuala Lumpur, Malaya
-  Philippines - Vietnam Republic  0-6   @ Kuala Lumpur, Malaya
-[Mon Sep 17]
-  Singapore - Vietnam Republic  2-2   @ Kuala Lumpur, Malaya
-[Wed Sep 19]
-  Indonesia - Pakistan  2-1   @ Kuala Lumpur, Malaya
+Sat Sep 8
+  Malaysia             v Japan                 2-2   @ Kuala Lumpur, Malaya
+Sun Sep 9
+  Myanmar              v Pakistan              0-1   @ Kuala Lumpur, Malaya
+Tue Sep 11
+  Indonesia            v Singapore             2-0   @ Kuala Lumpur, Malaya
+Wed Sep 12
+  Indonesia            v Philippines           9-0   @ Kuala Lumpur, Malaya
+  Japan                v Pakistan              1-1   @ Kuala Lumpur, Malaya
+Thu Sep 13
+  Malaysia             v Myanmar               3-2   @ Kuala Lumpur, Malaya
+  Philippines          v Singapore             0-5   @ Kuala Lumpur, Malaya
+Fri Sep 14
+  Indonesia            v Vietnam Republic      2-1   @ Kuala Lumpur, Malaya
+Sat Sep 15
+  Myanmar              v Japan                 3-1   @ Kuala Lumpur, Malaya
+Sun Sep 16
+  Malaysia             v Pakistan              0-0   @ Kuala Lumpur, Malaya
+  Philippines          v Vietnam Republic      0-6   @ Kuala Lumpur, Malaya
+Mon Sep 17
+  Singapore            v Vietnam Republic      2-2   @ Kuala Lumpur, Malaya
+Wed Sep 19
+  Indonesia            v Pakistan              2-1   @ Kuala Lumpur, Malaya
 

@@ -1,11 +1,11 @@
 = Oceania Nations Cup qualification 2000
 
-# Date       Thu Jun/8 - Wed Jun/14 2000 (6d)
+# Date       Thu Jun 8 - Wed Jun 14 2000 (6d)
 # Teams      3
 # Matches    2
 
-[Thu Jun 8]
-  Tonga - Cook Islands  1-2   @ Papeete, Tahiti
-[Wed Jun 14]
-  American Samoa - Tonga  1-2   @ Papeete, Tahiti
+Thu Jun 8
+  Tonga                v Cook Islands          1-2   @ Papeete, Tahiti
+Wed Jun 14
+  American Samoa       v Tonga                 1-2   @ Papeete, Tahiti
 

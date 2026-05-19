@@ -1,40 +1,40 @@
 = CONCACAF Championship qualification 1972
 
-# Date       Sat Apr/15 - Sun Dec/10 1972 (239d)
+# Date       Sat Apr 15 - Sun Dec 10 1972 (239d)
 # Teams      12
 # Matches    18
 
-[Sat Apr 15]
-  Haiti - Puerto Rico  7-0   @ Port-au-Prince, Haiti
-[Sun Apr 23]
-  Puerto Rico - Haiti  0-5   @ San Juan, Puerto Rico
-[Sun Aug 20]
-  Canada - United States  3-2   @ St. John's, Canada
-[Thu Aug 24]
-  Canada - Mexico  0-1   @ Toronto, Canada
-[Tue Aug 29]
-  United States - Canada  2-2   @ Baltimore, United States
-[Sun Sep 3]
-  Mexico - United States  3-1   @ Mexico City, Mexico
-[Wed Sep 6]
-  Mexico - Canada  2-1   @ Mexico City, Mexico
-[Sun Sep 10]
-  United States - Mexico  1-2   @ Los Angeles, United States
-[Fri Nov 10]
-  Trinidad and Tobago - Antigua and Barbuda  11-1   @ Port of Spain, Trinidad and Tobago
-[Sun Nov 19]
-  Antigua and Barbuda - Trinidad and Tobago  1-2   @ St. John's, Antigua and Barbuda
-[Tue Nov 28]
-  Trinidad and Tobago - Suriname  2-1   @ Port of Spain, Trinidad and Tobago
-[Thu Nov 30]
-  Trinidad and Tobago - Suriname  1-1   @ San Fernando, Trinidad and Tobago
-[Sun Dec 3]
-  Antigua and Barbuda - Suriname  0-6   @ St. John's, Antigua and Barbuda
-  Guatemala - El Salvador  1-0   @ Guatemala City, Guatemala
-  Honduras - Costa Rica  2-1   @ Tegucigalpa, Honduras
-[Tue Dec 5]
-  Antigua and Barbuda - Suriname  1-3   @ St. John's, Antigua and Barbuda
-[Sun Dec 10]
-  Costa Rica - Honduras  3-3   @ San José, Costa Rica
-  El Salvador - Guatemala  0-1   @ San Salvador, El Salvador
+Sat Apr 15
+  Haiti                v Puerto Rico           7-0   @ Port-au-Prince, Haiti
+Sun Apr 23
+  Puerto Rico          v Haiti                 0-5   @ San Juan, Puerto Rico
+Sun Aug 20
+  Canada               v United States         3-2   @ St. John's, Canada
+Thu Aug 24
+  Canada               v Mexico                0-1   @ Toronto, Canada
+Tue Aug 29
+  United States        v Canada                2-2   @ Baltimore, United States
+Sun Sep 3
+  Mexico               v United States         3-1   @ Mexico City, Mexico
+Wed Sep 6
+  Mexico               v Canada                2-1   @ Mexico City, Mexico
+Sun Sep 10
+  United States        v Mexico                1-2   @ Los Angeles, United States
+Fri Nov 10
+  Trinidad and Tobago  v Antigua and Barbuda   11-1   @ Port of Spain, Trinidad and Tobago
+Sun Nov 19
+  Antigua and Barbuda  v Trinidad and Tobago   1-2   @ St. John's, Antigua and Barbuda
+Tue Nov 28
+  Trinidad and Tobago  v Suriname              2-1   @ Port of Spain, Trinidad and Tobago
+Thu Nov 30
+  Trinidad and Tobago  v Suriname              1-1   @ San Fernando, Trinidad and Tobago
+Sun Dec 3
+  Antigua and Barbuda  v Suriname              0-6   @ St. John's, Antigua and Barbuda
+  Guatemala            v El Salvador           1-0   @ Guatemala City, Guatemala
+  Honduras             v Costa Rica            2-1   @ Tegucigalpa, Honduras
+Tue Dec 5
+  Antigua and Barbuda  v Suriname              1-3   @ St. John's, Antigua and Barbuda
+Sun Dec 10
+  Costa Rica           v Honduras              3-3   @ San José, Costa Rica
+  El Salvador          v Guatemala             0-1   @ San Salvador, El Salvador
 

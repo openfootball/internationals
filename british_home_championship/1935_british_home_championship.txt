@@ -1,19 +1,19 @@
 = British Home Championship 1935
 
-# Date       Wed Feb/6 - Wed Nov/13 1935 (280d)
+# Date       Wed Feb 6 - Wed Nov 13 1935 (280d)
 # Teams      4
 # Matches    6
 
-[Wed Feb 6]
-  England - Northern Ireland  2-1   @ Liverpool, England
-[Wed Mar 27]
-  Wales - Northern Ireland  3-1   @ Wrexham, Wales
-[Sat Apr 6]
-  Scotland - England  2-0   @ Glasgow, Scotland
-[Sat Oct 5]
-  Wales - Scotland  1-1   @ Cardiff, Wales
-[Sat Oct 19]
-  Northern Ireland - England  1-3   @ Belfast, Northern Ireland
-[Wed Nov 13]
-  Scotland - Northern Ireland  2-1   @ Edinburgh, Scotland
+Wed Feb 6
+  England              v Northern Ireland      2-1   @ Liverpool, England
+Wed Mar 27
+  Wales                v Northern Ireland      3-1   @ Wrexham, Wales
+Sat Apr 6
+  Scotland             v England               2-0   @ Glasgow, Scotland
+Sat Oct 5
+  Wales                v Scotland              1-1   @ Cardiff, Wales
+Sat Oct 19
+  Northern Ireland     v England               1-3   @ Belfast, Northern Ireland
+Wed Nov 13
+  Scotland             v Northern Ireland      2-1   @ Edinburgh, Scotland
 

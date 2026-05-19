@@ -1,13 +1,13 @@
 = USA Cup 1999
 
-# Date       Thu Mar/11 - Sat Mar/13 1999 (2d)
+# Date       Thu Mar 11 - Sat Mar 13 1999 (2d)
 # Teams      4
 # Matches    4
 
-[Thu Mar 11]
-  Mexico - Bolivia  2-1   @ Los Angeles, United States
-  United States - Guatemala  3-1   @ Los Angeles, United States
-[Sat Mar 13]
-  Guatemala - Bolivia  2-1   @ San Diego, United States
-  United States - Mexico  1-2   @ San Diego, United States
+Thu Mar 11
+  Mexico               v Bolivia               2-1   @ Los Angeles, United States
+  United States        v Guatemala             3-1   @ Los Angeles, United States
+Sat Mar 13
+  Guatemala            v Bolivia               2-1   @ San Diego, United States
+  United States        v Mexico                1-2   @ San Diego, United States
 

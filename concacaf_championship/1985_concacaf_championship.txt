@@ -1,88 +1,88 @@
 = CONCACAF Championship 1985
 
-# Date       Sun Feb/24 - Sat Sep/14 1985 (202d)
+# Date       Sun Feb 24 - Sat Sep 14 1985 (202d)
 # Teams      9
 # Matches    24
 
-[Sun Feb 24]
-  El Salvador - Suriname  3-0   @ San Salvador, El Salvador
-     Mauricio Alfaro 25' Wilfredo Huezo 52' Ever Hernández 89'
-[Wed Feb 27]
-  El Salvador - Suriname  3-0   @ San Salvador, El Salvador
-     José María Rivas 49' Luis Ramírez Zapata 70' José María Rivas 87'
-[Sun Mar 3]
-  Honduras - Suriname  1-1   @ Tegucigalpa, Honduras
-     Eduardo Laing 40';
-     Rinaldo Entingh 32'
-[Wed Mar 6]
-  Honduras - Suriname  2-1   @ Tegucigalpa, Honduras
-     José Roberto Figueroa 9' José Roberto Figueroa 77';
-     Kenneth Stjeward 86'
-[Sun Mar 10]
-  El Salvador - Honduras  1-2   @ San Salvador, El Salvador
-     José María Rivas ??';
-     Roberto Bailey ??' Eduardo Laing ??'
-[Thu Mar 14]
-  Honduras - El Salvador  0-0   @ Tegucigalpa, Honduras
-[Sat Apr 13]
-  Canada - Haiti  2-0   @ Victoria, Canada
-     Igor Vrablic 30' Mike Sweeney 41'
-[Sat Apr 20]
-  Canada - Guatemala  2-1   @ Victoria, Canada
-     Dale Mitchell 22' Dale Mitchell 43';
-     Julio Gómez Rendón 66'
-[Wed Apr 24]
-  Costa Rica - Trinidad and Tobago  3-0   @ San José, Costa Rica
-     Franklin Williams 15' Miguel Lacey 65' Nilton Nóbrega 79'
-[Fri Apr 26]
-  Haiti - Guatemala  0-1   @ Port-au-Prince, Haiti
-     -; Carlos Eduardo Estrada 79'
-[Sun Apr 28]
-  Costa Rica - Trinidad and Tobago  1-1   @ San José, Costa Rica
-     Jorge Manuel Ulate 57';
-     Nevick De Noon 18'
-[Sun May 5]
-  Guatemala - Canada  1-1   @ Guatemala City, Guatemala
-     Byron Pérez 42';
-     Dale Mitchell 39'
-[Wed May 8]
-  Haiti - Canada  0-2   @ Port-au-Prince, Haiti
-     -; Dale Mitchell 14' Igor Vrablic 56'
-[Wed May 15]
-  Guatemala - Haiti  4-0   @ Guatemala City, Guatemala
-     Raúl Chacón 44' Selvin Galindo 48' Juan Manuel Funes 62' Alfredo Solórzano 71'
-  United States - Trinidad and Tobago  2-1   @ St. Louis, United States
-     Chico Borja 29' Mark Peterson 89';
-     Adrian Fonrose 19'
-[Sun May 19]
-  United States - Trinidad and Tobago  1-0   @ Torrance, United States
-     Paul Caligiuri 15'
-[Sun May 26]
-  Costa Rica - United States  1-1   @ Alajuela, Costa Rica
-     Óscar Ramírez 42';
-     John Kerr Jr. 44'
-[Fri May 31]
-  United States - Costa Rica  0-1   @ Torrance, United States
-     -; Evaristo Coronado 35'
-[Sun Aug 11]
-  Costa Rica - Honduras  2-2   @ San José, Costa Rica
-     Alvaro Solano 19' Johnny Williams 81';
-     José Roberto Figueroa 8' (pen.) Porfirio Armando Betancourt 24'
-[Sat Aug 17]
-  Canada - Costa Rica  1-1   @ Toronto, Canada
-     Paul James 58';
-     Johnny Williams 12'
-[Sun Aug 25]
-  Honduras - Canada  0-1   @ Tegucigalpa, Honduras
-     -; George Pakos 58'
-[Sun Sep 1]
-  Costa Rica - Canada  0-0   @ San José, Costa Rica
-[Sun Sep 8]
-  Honduras - Costa Rica  3-1   @ Tegucigalpa, Honduras
-     Porfirio Armando Betancourt 40' José Roberto Figueroa 51' José Roberto Figueroa 56' (pen.);
-     Alexandre Guimarães 7'
-[Sat Sep 14]
-  Canada - Honduras  2-1   @ St. John's, Canada
-     George Pakos 15' Igor Vrablic 61';
-     Porfirio Armando Betancourt 49'
+Sun Feb 24
+  El Salvador          v Suriname              3-0   @ San Salvador, El Salvador
+     (Mauricio Alfaro 25' Wilfredo Huezo 52' Ever Hernández 89')
+Wed Feb 27
+  El Salvador          v Suriname              3-0   @ San Salvador, El Salvador
+     (José María Rivas 49' Luis Ramírez Zapata 70' José María Rivas 87')
+Sun Mar 3
+  Honduras             v Suriname              1-1   @ Tegucigalpa, Honduras
+     (Eduardo Laing 40';
+      Rinaldo Entingh 32')
+Wed Mar 6
+  Honduras             v Suriname              2-1   @ Tegucigalpa, Honduras
+     (José Roberto Figueroa 9' José Roberto Figueroa 77';
+      Kenneth Stjeward 86')
+Sun Mar 10
+  El Salvador          v Honduras              1-2   @ San Salvador, El Salvador
+     (José María Rivas ??';
+      Roberto Bailey ??' Eduardo Laing ??')
+Thu Mar 14
+  Honduras             v El Salvador           0-0   @ Tegucigalpa, Honduras
+Sat Apr 13
+  Canada               v Haiti                 2-0   @ Victoria, Canada
+     (Igor Vrablic 30' Mike Sweeney 41')
+Sat Apr 20
+  Canada               v Guatemala             2-1   @ Victoria, Canada
+     (Dale Mitchell 22' Dale Mitchell 43';
+      Julio Gómez Rendón 66')
+Wed Apr 24
+  Costa Rica           v Trinidad and Tobago   3-0   @ San José, Costa Rica
+     (Franklin Williams 15' Miguel Lacey 65' Nilton Nóbrega 79')
+Fri Apr 26
+  Haiti                v Guatemala             0-1   @ Port-au-Prince, Haiti
+     (Carlos Eduardo Estrada 79')
+Sun Apr 28
+  Costa Rica           v Trinidad and Tobago   1-1   @ San José, Costa Rica
+     (Jorge Manuel Ulate 57';
+      Nevick De Noon 18')
+Sun May 5
+  Guatemala            v Canada                1-1   @ Guatemala City, Guatemala
+     (Byron Pérez 42';
+      Dale Mitchell 39')
+Wed May 8
+  Haiti                v Canada                0-2   @ Port-au-Prince, Haiti
+     (Dale Mitchell 14' Igor Vrablic 56')
+Wed May 15
+  Guatemala            v Haiti                 4-0   @ Guatemala City, Guatemala
+     (Raúl Chacón 44' Selvin Galindo 48' Juan Manuel Funes 62' Alfredo Solórzano 71')
+  United States        v Trinidad and Tobago   2-1   @ St. Louis, United States
+     (Chico Borja 29' Mark Peterson 89';
+      Adrian Fonrose 19')
+Sun May 19
+  United States        v Trinidad and Tobago   1-0   @ Torrance, United States
+     (Paul Caligiuri 15')
+Sun May 26
+  Costa Rica           v United States         1-1   @ Alajuela, Costa Rica
+     (Óscar Ramírez 42';
+      John Kerr Jr. 44')
+Fri May 31
+  United States        v Costa Rica            0-1   @ Torrance, United States
+     (Evaristo Coronado 35')
+Sun Aug 11
+  Costa Rica           v Honduras              2-2   @ San José, Costa Rica
+     (Alvaro Solano 19' Johnny Williams 81';
+      José Roberto Figueroa 8'(p) Porfirio Armando Betancourt 24')
+Sat Aug 17
+  Canada               v Costa Rica            1-1   @ Toronto, Canada
+     (Paul James 58';
+      Johnny Williams 12')
+Sun Aug 25
+  Honduras             v Canada                0-1   @ Tegucigalpa, Honduras
+     (George Pakos 58')
+Sun Sep 1
+  Costa Rica           v Canada                0-0   @ San José, Costa Rica
+Sun Sep 8
+  Honduras             v Costa Rica            3-1   @ Tegucigalpa, Honduras
+     (Porfirio Armando Betancourt 40' José Roberto Figueroa 51' José Roberto Figueroa 56'(p);
+      Alexandre Guimarães 7')
+Sat Sep 14
+  Canada               v Honduras              2-1   @ St. John's, Canada
+     (George Pakos 15' Igor Vrablic 61';
+      Porfirio Armando Betancourt 49')
 

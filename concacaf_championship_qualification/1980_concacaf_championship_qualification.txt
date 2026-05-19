@@ -1,76 +1,76 @@
 = CONCACAF Championship qualification 1980
 
-# Date       Sun Mar/30 - Sun Dec/21 1980 (266d)
+# Date       Sun Mar 30 - Sun Dec 21 1980 (266d)
 # Teams      15
 # Matches    39
 
-[Sun Mar 30]
-  Guyana - Grenada  5-2   @ Georgetown, Guyana
-[Sun Apr 13]
-  Grenada - Guyana  2-3   @ St. George's, Grenada
-[Wed Jul 2]
-  Panama - Guatemala  0-2   @ Panama City, Panama
-[Wed Jul 30]
-  Panama - Honduras  0-2   @ Panama City, Panama
-[Fri Aug 1]
-  Haiti - Trinidad and Tobago  2-0   @ Port-au-Prince, Haiti
-[Sun Aug 10]
-  Panama - Costa Rica  1-1   @ Panama City, Panama
-[Sun Aug 17]
-  Cuba - Suriname  3-0   @ Havana, Cuba
-  Trinidad and Tobago - Haiti  1-0   @ San Fernando, Trinidad and Tobago
-[Sun Aug 24]
-  Panama - El Salvador  1-3   @ Panama City, Panama
-[Sun Sep 7]
-  Suriname - Cuba  0-0   @ Paramaribo, Suriname
-[Fri Sep 12]
-  Haiti - Curaçao  1-0   @ Port-au-Prince, Haiti
-[Sun Sep 28]
-  Guyana - Suriname  0-1   @ Georgetown, Guyana
-[Wed Oct 1]
-  Costa Rica - Honduras  2-3   @ San José, Costa Rica
-[Sun Oct 5]
-  El Salvador - Panama  4-1   @ San Salvador, El Salvador
-[Sun Oct 12]
-  Guatemala - Costa Rica  0-0   @ Guatemala City, Guatemala
-  Suriname - Guyana  4-0   @ Paramaribo, Suriname
-[Sat Oct 18]
-  Canada - Mexico  1-1   @ Toronto, Canada
-[Sat Oct 25]
-  United States - Canada  0-0   @ Fort Lauderdale, United States
-[Sun Oct 26]
-  Honduras - Guatemala  0-0   @ Tegucigalpa, Honduras
-[Sat Nov 1]
-  Canada - United States  2-1   @ Vancouver, Canada
-[Wed Nov 5]
-  Costa Rica - Panama  2-0   @ San José, Costa Rica
-[Sun Nov 9]
-  Cuba - Guyana  1-0   @ Havana, Cuba
-  Guatemala - El Salvador  0-0   @ Guatemala City, Guatemala
-  Mexico - United States  5-1   @ Mexico City, Mexico
-  Trinidad and Tobago - Curaçao  0-0   @ Port of Spain, Trinidad and Tobago
-[Sun Nov 16]
-  Guatemala - Panama  5-0   @ Guatemala City, Guatemala
-  Honduras - Costa Rica  1-1   @ Tegucigalpa, Honduras
-  Mexico - Canada  1-1   @ Mexico City, Mexico
-[Sun Nov 23]
-  El Salvador - Honduras  2-1   @ San Salvador, El Salvador
-  United States - Mexico  2-1   @ Fort Lauderdale, United States
-[Wed Nov 26]
-  Costa Rica - Guatemala  0-3   @ San José, Costa Rica
-[Sat Nov 29]
-  Curaçao - Trinidad and Tobago  0-0   @ Willemstad, Curaçao
-[Sun Nov 30]
-  Guyana - Cuba  0-3   @ Linden, Guyana
-  Honduras - El Salvador  2-0   @ Tegucigalpa, Honduras
-[Sun Dec 7]
-  Guatemala - Honduras  0-1   @ Guatemala City, Guatemala
-[Wed Dec 10]
-  Costa Rica - El Salvador  0-0   @ San José, Costa Rica
-[Fri Dec 12]
-  Curaçao - Haiti  1-1   @ Willemstad, Curaçao
-[Sun Dec 14]
-  Honduras - Panama  5-0   @ Tegucigalpa, Honduras
-[Sun Dec 21]
-  El Salvador - Guatemala  1-0   @ San Salvador, El Salvador
+Sun Mar 30
+  Guyana               v Grenada               5-2   @ Georgetown, Guyana
+Sun Apr 13
+  Grenada              v Guyana                2-3   @ St. George's, Grenada
+Wed Jul 2
+  Panama               v Guatemala             0-2   @ Panama City, Panama
+Wed Jul 30
+  Panama               v Honduras              0-2   @ Panama City, Panama
+Fri Aug 1
+  Haiti                v Trinidad and Tobago   2-0   @ Port-au-Prince, Haiti
+Sun Aug 10
+  Panama               v Costa Rica            1-1   @ Panama City, Panama
+Sun Aug 17
+  Cuba                 v Suriname              3-0   @ Havana, Cuba
+  Trinidad and Tobago  v Haiti                 1-0   @ San Fernando, Trinidad and Tobago
+Sun Aug 24
+  Panama               v El Salvador           1-3   @ Panama City, Panama
+Sun Sep 7
+  Suriname             v Cuba                  0-0   @ Paramaribo, Suriname
+Fri Sep 12
+  Haiti                v Curaçao               1-0   @ Port-au-Prince, Haiti
+Sun Sep 28
+  Guyana               v Suriname              0-1   @ Georgetown, Guyana
+Wed Oct 1
+  Costa Rica           v Honduras              2-3   @ San José, Costa Rica
+Sun Oct 5
+  El Salvador          v Panama                4-1   @ San Salvador, El Salvador
+Sun Oct 12
+  Guatemala            v Costa Rica            0-0   @ Guatemala City, Guatemala
+  Suriname             v Guyana                4-0   @ Paramaribo, Suriname
+Sat Oct 18
+  Canada               v Mexico                1-1   @ Toronto, Canada
+Sat Oct 25
+  United States        v Canada                0-0   @ Fort Lauderdale, United States
+Sun Oct 26
+  Honduras             v Guatemala             0-0   @ Tegucigalpa, Honduras
+Sat Nov 1
+  Canada               v United States         2-1   @ Vancouver, Canada
+Wed Nov 5
+  Costa Rica           v Panama                2-0   @ San José, Costa Rica
+Sun Nov 9
+  Cuba                 v Guyana                1-0   @ Havana, Cuba
+  Guatemala            v El Salvador           0-0   @ Guatemala City, Guatemala
+  Mexico               v United States         5-1   @ Mexico City, Mexico
+  Trinidad and Tobago  v Curaçao               0-0   @ Port of Spain, Trinidad and Tobago
+Sun Nov 16
+  Guatemala            v Panama                5-0   @ Guatemala City, Guatemala
+  Honduras             v Costa Rica            1-1   @ Tegucigalpa, Honduras
+  Mexico               v Canada                1-1   @ Mexico City, Mexico
+Sun Nov 23
+  El Salvador          v Honduras              2-1   @ San Salvador, El Salvador
+  United States        v Mexico                2-1   @ Fort Lauderdale, United States
+Wed Nov 26
+  Costa Rica           v Guatemala             0-3   @ San José, Costa Rica
+Sat Nov 29
+  Curaçao              v Trinidad and Tobago   0-0   @ Willemstad, Curaçao
+Sun Nov 30
+  Guyana               v Cuba                  0-3   @ Linden, Guyana
+  Honduras             v El Salvador           2-0   @ Tegucigalpa, Honduras
+Sun Dec 7
+  Guatemala            v Honduras              0-1   @ Guatemala City, Guatemala
+Wed Dec 10
+  Costa Rica           v El Salvador           0-0   @ San José, Costa Rica
+Fri Dec 12
+  Curaçao              v Haiti                 1-1   @ Willemstad, Curaçao
+Sun Dec 14
+  Honduras             v Panama                5-0   @ Tegucigalpa, Honduras
+Sun Dec 21
+  El Salvador          v Guatemala             1-0   @ San Salvador, El Salvador
 

@@ -1,19 +1,19 @@
 = British Home Championship 1982
 
-# Date       Tue Feb/23 - Sat May/29 1982 (95d)
+# Date       Tue Feb 23 - Sat May 29 1982 (95d)
 # Teams      4
 # Matches    6
 
-[Tue Feb 23]
-  England - Northern Ireland  4-0   @ London, England
-[Tue Apr 27]
-  Wales - England  0-1   @ Cardiff, Wales
-[Wed Apr 28]
-  Northern Ireland - Scotland  1-1   @ Belfast, Northern Ireland
-[Mon May 24]
-  Scotland - Wales  1-0   @ Glasgow, Scotland
-[Thu May 27]
-  Wales - Northern Ireland  3-0   @ Wrexham, Wales
-[Sat May 29]
-  Scotland - England  0-1   @ Glasgow, Scotland
+Tue Feb 23
+  England              v Northern Ireland      4-0   @ London, England
+Tue Apr 27
+  Wales                v England               0-1   @ Cardiff, Wales
+Wed Apr 28
+  Northern Ireland     v Scotland              1-1   @ Belfast, Northern Ireland
+Mon May 24
+  Scotland             v Wales                 1-0   @ Glasgow, Scotland
+Thu May 27
+  Wales                v Northern Ireland      3-0   @ Wrexham, Wales
+Sat May 29
+  Scotland             v England               0-1   @ Glasgow, Scotland
 

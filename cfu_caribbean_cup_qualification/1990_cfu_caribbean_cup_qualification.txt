@@ -1,45 +1,45 @@
 = CFU Caribbean Cup qualification 1990
 
-# Date       Sat Mar/24 - Wed May/30 1990 (67d)
+# Date       Sat Mar 24 - Wed May 30 1990 (67d)
 # Teams      19
 # Matches    24
 
-[Sat Mar 24]
-  Sint Maarten - Cayman Islands  1-1   @ Marigot, Saint Martin
-  Saint Martin - British Virgin Islands  3-0   @ Marigot, Saint Martin
-[Sat Apr 14]
-  Bermuda - Antigua and Barbuda  2-2   @ Hamilton, Bermuda
-[Sun Apr 15]
-  Barbados - Saint Lucia  1-0   @ Bridgetown, Barbados
-[Tue Apr 17]
-  Grenada - Curaçao  1-1   @ St. George's, Grenada
-[Sun Apr 22]
-  Martinique - French Guiana  4-0   @ Fort-de-France, Martinique
-  Saint Vincent and the Grenadines - Dominica  2-1   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Apr 29]
-  Barbados - Antigua and Barbuda  1-0   @ Bridgetown, Barbados
-  Jamaica - Saint Kitts and Nevis  3-0   @ Kingston, Jamaica
-  Suriname - Guyana  5-0   @ Paramaribo, Suriname
-[Sun May 6]
-  Saint Martin - Guadeloupe  2-1   @ Marigot, Saint Martin
-[Sun May 13]
-  Dominica - French Guiana  1-1   @ Roseau, Dominica
-  Saint Lucia - Bermuda  0-2   @ Castries, Saint Lucia
-[Tue May 15]
-  Grenada - Suriname  3-1   @ Georgetown, Guyana
-[Sat May 19]
-  Saint Kitts and Nevis - Guadeloupe  2-0   @ Basseterre, Saint Kitts and Nevis
-[Sun May 20]
-  Guyana - Curaçao  1-1   @ Georgetown, Guyana
-  Jamaica - Saint Martin  1-0   @ Kingston, Jamaica
-[Sat May 26]
-  Bermuda - Barbados  1-1   @ Hamilton, Bermuda
-[Sun May 27]
-  Antigua and Barbuda - Saint Lucia  0-2   @ St. John's, Antigua and Barbuda
-  Curaçao - Suriname  1-1   @ Willemstad, Curaçao
-  Guyana - Grenada  0-0   @ Georgetown, Guyana
-[Wed May 30]
-  French Guiana - Saint Vincent and the Grenadines  2-2   @ Cayenne, French Guiana
-  Guadeloupe - Jamaica  0-0   @ Pointe-à-Pitre, Guadeloupe
-  Martinique - Dominica  0-0   @ Fort-de-France, Martinique
+Sat Mar 24
+  Sint Maarten         v Cayman Islands        1-1   @ Marigot, Saint Martin
+  Saint Martin         v British Virgin Islands  3-0   @ Marigot, Saint Martin
+Sat Apr 14
+  Bermuda              v Antigua and Barbuda   2-2   @ Hamilton, Bermuda
+Sun Apr 15
+  Barbados             v Saint Lucia           1-0   @ Bridgetown, Barbados
+Tue Apr 17
+  Grenada              v Curaçao               1-1   @ St. George's, Grenada
+Sun Apr 22
+  Martinique           v French Guiana         4-0   @ Fort-de-France, Martinique
+  Saint Vincent and the Grenadines v Dominica              2-1   @ Kingstown, Saint Vincent and the Grenadines
+Sun Apr 29
+  Barbados             v Antigua and Barbuda   1-0   @ Bridgetown, Barbados
+  Jamaica              v Saint Kitts and Nevis  3-0   @ Kingston, Jamaica
+  Suriname             v Guyana                5-0   @ Paramaribo, Suriname
+Sun May 6
+  Saint Martin         v Guadeloupe            2-1   @ Marigot, Saint Martin
+Sun May 13
+  Dominica             v French Guiana         1-1   @ Roseau, Dominica
+  Saint Lucia          v Bermuda               0-2   @ Castries, Saint Lucia
+Tue May 15
+  Grenada              v Suriname              3-1   @ Georgetown, Guyana
+Sat May 19
+  Saint Kitts and Nevis v Guadeloupe            2-0   @ Basseterre, Saint Kitts and Nevis
+Sun May 20
+  Guyana               v Curaçao               1-1   @ Georgetown, Guyana
+  Jamaica              v Saint Martin          1-0   @ Kingston, Jamaica
+Sat May 26
+  Bermuda              v Barbados              1-1   @ Hamilton, Bermuda
+Sun May 27
+  Antigua and Barbuda  v Saint Lucia           0-2   @ St. John's, Antigua and Barbuda
+  Curaçao              v Suriname              1-1   @ Willemstad, Curaçao
+  Guyana               v Grenada               0-0   @ Georgetown, Guyana
+Wed May 30
+  French Guiana        v Saint Vincent and the Grenadines  2-2   @ Cayenne, French Guiana
+  Guadeloupe           v Jamaica               0-0   @ Pointe-à-Pitre, Guadeloupe
+  Martinique           v Dominica              0-0   @ Fort-de-France, Martinique
 

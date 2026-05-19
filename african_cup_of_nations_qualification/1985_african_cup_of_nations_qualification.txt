@@ -1,52 +1,52 @@
 = African Cup of Nations qualification 1985
 
-# Date       Sun Mar/3 - Sun Sep/15 1985 (196d)
+# Date       Sun Mar 3 - Sun Sep 15 1985 (196d)
 # Teams      20
 # Matches    28
 
-[Sun Mar 3]
-  Madagascar - Zimbabwe  0-1   @ Antananarivo, Madagascar
-[Fri Mar 8]
-  Algeria - Mauritania  4-0   @ Algiers, Algeria
-[Fri Mar 22]
-  Mauritania - Algeria  1-1   @ Nouakchott, Mauritania
-[Sat Mar 23]
-  Zimbabwe - Madagascar  5-2   @ Harare, Zimbabwe
-[Fri Mar 29]
-  Libya - Tunisia  2-0   @ Tripoli, Libya
-[Sun Mar 31]
-  Congo - DR Congo  2-5   @ Brazzaville, Congo
-  Ghana - Guinea  1-1   @ Accra, Ghana
-  Ivory Coast - Mali  6-0   @ Abidjan, Ivory Coast
-  Togo - Senegal  0-1   @ Tsévié, Togo
-  Malawi - Mozambique  1-1   @ Lilongwe, Malawi
-[Sun Apr 14]
-  DR Congo - Congo  0-0   @ Kinshasa, Zaïre
-  Guinea - Ghana  1-4   @ Conakry, Guinea
-  Mali - Ivory Coast  1-1   @ Bamako, Mali
-  Senegal - Togo  1-1   @ Dakar, Senegal
-  Tunisia - Libya  1-0   @ Tunis, Tunisia
-[Tue Apr 16]
-  Mozambique - Malawi  1-1   @ Maputo, Mozambique   [Mozambique wins on penalties]
-[Sun Aug 4]
-  Kenya - Algeria  0-0   @ Nairobi, Kenya
-[Sat Aug 10]
-  Nigeria - Zambia  0-0   @ Lagos, Nigeria
-[Tue Aug 13]
-  Algeria - Kenya  3-0   @ Algiers, Algeria
-[Sun Aug 18]
-  Ivory Coast - Ghana  2-0   @ Abidjan, Ivory Coast
-  Zambia - Nigeria  1-0   @ Lusaka, Zambia
-  Zimbabwe - Senegal  1-0   @ Harare, Zimbabwe
-[Fri Aug 23]
-  Libya - Mozambique  2-1   @ Benghazi, Libya
-[Sun Aug 25]
-  Morocco - DR Congo  1-0   @ Casablanca, Morocco
-[Sun Sep 1]
-  Ghana - Ivory Coast  0-0   @ Kumasi, Ghana
-  Senegal - Zimbabwe  3-0   @ Dakar, Senegal
-[Sun Sep 8]
-  DR Congo - Morocco  0-0   @ Lubumbashi, Zaïre
-[Sun Sep 15]
-  Mozambique - Libya  2-1   @ Maputo, Mozambique   [Mozambique wins on penalties]
+Sun Mar 3
+  Madagascar           v Zimbabwe              0-1   @ Antananarivo, Madagascar
+Fri Mar 8
+  Algeria              v Mauritania            4-0   @ Algiers, Algeria
+Fri Mar 22
+  Mauritania           v Algeria               1-1   @ Nouakchott, Mauritania
+Sat Mar 23
+  Zimbabwe             v Madagascar            5-2   @ Harare, Zimbabwe
+Fri Mar 29
+  Libya                v Tunisia               2-0   @ Tripoli, Libya
+Sun Mar 31
+  Congo                v DR Congo              2-5   @ Brazzaville, Congo
+  Ghana                v Guinea                1-1   @ Accra, Ghana
+  Ivory Coast          v Mali                  6-0   @ Abidjan, Ivory Coast
+  Togo                 v Senegal               0-1   @ Tsévié, Togo
+  Malawi               v Mozambique            1-1   @ Lilongwe, Malawi
+Sun Apr 14
+  DR Congo             v Congo                 0-0   @ Kinshasa, Zaïre
+  Guinea               v Ghana                 1-4   @ Conakry, Guinea
+  Mali                 v Ivory Coast           1-1   @ Bamako, Mali
+  Senegal              v Togo                  1-1   @ Dakar, Senegal
+  Tunisia              v Libya                 1-0   @ Tunis, Tunisia
+Tue Apr 16
+  Mozambique           v Malawi                1-1   @ Maputo, Mozambique   [Mozambique wins on penalties]
+Sun Aug 4
+  Kenya                v Algeria               0-0   @ Nairobi, Kenya
+Sat Aug 10
+  Nigeria              v Zambia                0-0   @ Lagos, Nigeria
+Tue Aug 13
+  Algeria              v Kenya                 3-0   @ Algiers, Algeria
+Sun Aug 18
+  Ivory Coast          v Ghana                 2-0   @ Abidjan, Ivory Coast
+  Zambia               v Nigeria               1-0   @ Lusaka, Zambia
+  Zimbabwe             v Senegal               1-0   @ Harare, Zimbabwe
+Fri Aug 23
+  Libya                v Mozambique            2-1   @ Benghazi, Libya
+Sun Aug 25
+  Morocco              v DR Congo              1-0   @ Casablanca, Morocco
+Sun Sep 1
+  Ghana                v Ivory Coast           0-0   @ Kumasi, Ghana
+  Senegal              v Zimbabwe              3-0   @ Dakar, Senegal
+Sun Sep 8
+  DR Congo             v Morocco               0-0   @ Lubumbashi, Zaïre
+Sun Sep 15
+  Mozambique           v Libya                 2-1   @ Maputo, Mozambique   [Mozambique wins on penalties]
 

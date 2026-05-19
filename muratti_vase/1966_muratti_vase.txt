@@ -1,13 +1,13 @@
 = Muratti Vase 1966
 
-# Date       Sat Apr/2 - Mon May/9 1966 (37d)
+# Date       Sat Apr 2 - Mon May 9 1966 (37d)
 # Teams      3
 # Matches    3
 
-[Sat Apr 2]
-  Guernsey - Alderney  10-0   @ Guernsey, Guernsey
-[Thu May 5]
-  Jersey - Guernsey  1-1   @ Jersey, Jersey
-[Mon May 9]
-  Guernsey - Jersey  3-1   @ Guernsey, Guernsey
+Sat Apr 2
+  Guernsey             v Alderney              10-0   @ Guernsey, Guernsey
+Thu May 5
+  Jersey               v Guernsey              1-1   @ Jersey, Jersey
+Mon May 9
+  Guernsey             v Jersey                3-1   @ Guernsey, Guernsey
 

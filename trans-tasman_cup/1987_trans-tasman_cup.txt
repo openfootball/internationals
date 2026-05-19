@@ -1,11 +1,11 @@
 = Trans-Tasman Cup 1987
 
-# Date       Wed Sep/2 - Wed Sep/9 1987 (7d)
+# Date       Wed Sep 2 - Wed Sep 9 1987 (7d)
 # Teams      2
 # Matches    2
 
-[Wed Sep 2]
-  Australia - New Zealand  1-1   @ Melbourne, Australia
-[Wed Sep 9]
-  New Zealand - Australia  1-0   @ Lower Hutt, New Zealand
+Wed Sep 2
+  Australia            v New Zealand           1-1   @ Melbourne, Australia
+Wed Sep 9
+  New Zealand          v Australia             1-0   @ Lower Hutt, New Zealand
 

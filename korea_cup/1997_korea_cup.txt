@@ -1,16 +1,16 @@
 = Korea Cup 1997
 
-# Date       Thu Jun/12 - Mon Jun/16 1997 (4d)
+# Date       Thu Jun 12 - Mon Jun 16 1997 (4d)
 # Teams      4
 # Matches    6
 
-[Thu Jun 12]
-  Ghana - Serbia  1-3   @ Seoul, South Korea
-  South Korea - Egypt  3-1   @ Seoul, South Korea
-[Sat Jun 14]
-  Egypt - Serbia  0-0   @ Suwon, South Korea
-  South Korea - Ghana  3-0   @ Suwon, South Korea
-[Mon Jun 16]
-  Egypt - Ghana  2-0   @ Seoul, South Korea
-  South Korea - Serbia  1-1   @ Seoul, South Korea
+Thu Jun 12
+  Ghana                v Serbia                1-3   @ Seoul, South Korea
+  South Korea          v Egypt                 3-1   @ Seoul, South Korea
+Sat Jun 14
+  Egypt                v Serbia                0-0   @ Suwon, South Korea
+  South Korea          v Ghana                 3-0   @ Suwon, South Korea
+Mon Jun 16
+  Egypt                v Ghana                 2-0   @ Seoul, South Korea
+  South Korea          v Serbia                1-1   @ Seoul, South Korea
 

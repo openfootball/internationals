@@ -1,17 +1,17 @@
 = Balkan Cup 1930
 
-# Date       Sun Jan/26 - Sun Dec/7 1930 (315d)
+# Date       Sun Jan 26 - Sun Dec 7 1930 (315d)
 # Teams      4
 # Matches    5
 
-[Sun Jan 26]
-  Greece - Yugoslavia  2-1   @ Athens, Greece
-[Sun May 25]
-  Romania - Greece  8-1   @ Bucharest, Romania
-[Sun Oct 12]
-  Bulgaria - Romania  5-3   @ Sofia, Bulgaria
-[Sun Nov 16]
-  Bulgaria - Yugoslavia  0-3   @ Sofia, Bulgaria
-[Sun Dec 7]
-  Greece - Bulgaria  6-1   @ Athens, Greece
+Sun Jan 26
+  Greece               v Yugoslavia            2-1   @ Athens, Greece
+Sun May 25
+  Romania              v Greece                8-1   @ Bucharest, Romania
+Sun Oct 12
+  Bulgaria             v Romania               5-3   @ Sofia, Bulgaria
+Sun Nov 16
+  Bulgaria             v Yugoslavia            0-3   @ Sofia, Bulgaria
+Sun Dec 7
+  Greece               v Bulgaria              6-1   @ Athens, Greece
 

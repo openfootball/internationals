@@ -1,26 +1,26 @@
 = Korea Cup 1976
 
-# Date       Sat Sep/11 - Thu Sep/23 1976 (12d)
+# Date       Sat Sep 11 - Thu Sep 23 1976 (12d)
 # Teams      7
 # Matches    10
 
-[Sat Sep 11]
-  South Korea - Malaysia  4-4   @ Seoul, South Korea
-[Sun Sep 12]
-  Myanmar - New Zealand  0-2   @ Seoul, South Korea
-[Mon Sep 13]
-  South Korea - India  4-0   @ Seoul, South Korea
-  Malaysia - Singapore  4-1   @ Seoul, South Korea
-[Wed Sep 15]
-  India - Singapore  1-2   @ Seoul, South Korea
-[Thu Sep 16]
-  Myanmar - Thailand  2-0   @ Seoul, South Korea
-[Fri Sep 17]
-  South Korea - Singapore  7-0   @ Seoul, South Korea
-[Sat Sep 18]
-  New Zealand - Thailand  3-1   @ Seoul, South Korea
-[Sun Sep 19]
-  India - Malaysia  0-4   @ Seoul, South Korea
-[Thu Sep 23]
-  South Korea - New Zealand  2-0   @ Seoul, South Korea
+Sat Sep 11
+  South Korea          v Malaysia              4-4   @ Seoul, South Korea
+Sun Sep 12
+  Myanmar              v New Zealand           0-2   @ Seoul, South Korea
+Mon Sep 13
+  South Korea          v India                 4-0   @ Seoul, South Korea
+  Malaysia             v Singapore             4-1   @ Seoul, South Korea
+Wed Sep 15
+  India                v Singapore             1-2   @ Seoul, South Korea
+Thu Sep 16
+  Myanmar              v Thailand              2-0   @ Seoul, South Korea
+Fri Sep 17
+  South Korea          v Singapore             7-0   @ Seoul, South Korea
+Sat Sep 18
+  New Zealand          v Thailand              3-1   @ Seoul, South Korea
+Sun Sep 19
+  India                v Malaysia              0-4   @ Seoul, South Korea
+Thu Sep 23
+  South Korea          v New Zealand           2-0   @ Seoul, South Korea
 

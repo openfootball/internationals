@@ -1,29 +1,29 @@
 = UNCAF Cup 1997
 
-# Date       Sun Mar/23 - Sun Apr/27 1997 (35d)
+# Date       Sun Mar 23 - Sun Apr 27 1997 (35d)
 # Teams      7
 # Matches    14
 
-[Sun Mar 23]
-  Panama - Belize  1-1   @ Panama City, Panama
-[Sun Mar 30]
-  Belize - Panama  0-1   @ San Ignacio, Belize
-[Wed Apr 16]
-  Guatemala - Costa Rica  1-1   @ Guatemala City, Guatemala
-  Honduras - Panama  5-0   @ Guatemala City, Guatemala
-[Fri Apr 18]
-  Costa Rica - Nicaragua  5-1   @ Guatemala City, Guatemala
-  Honduras - El Salvador  3-0   @ Guatemala City, Guatemala
-[Sun Apr 20]
-  El Salvador - Panama  2-0   @ Guatemala City, Guatemala
-  Guatemala - Nicaragua  6-1   @ Guatemala City, Guatemala
-[Wed Apr 23]
-  Guatemala - El Salvador  1-0   @ Guatemala City, Guatemala
-  Honduras - Costa Rica  0-4   @ Guatemala City, Guatemala
-[Fri Apr 25]
-  Costa Rica - El Salvador  1-0   @ Guatemala City, Guatemala
-  Guatemala - Honduras  1-0   @ Guatemala City, Guatemala
-[Sun Apr 27]
-  Guatemala - Costa Rica  1-1   @ Guatemala City, Guatemala
-  Honduras - El Salvador  0-0   @ Guatemala City, Guatemala
+Sun Mar 23
+  Panama               v Belize                1-1   @ Panama City, Panama
+Sun Mar 30
+  Belize               v Panama                0-1   @ San Ignacio, Belize
+Wed Apr 16
+  Guatemala            v Costa Rica            1-1   @ Guatemala City, Guatemala
+  Honduras             v Panama                5-0   @ Guatemala City, Guatemala
+Fri Apr 18
+  Costa Rica           v Nicaragua             5-1   @ Guatemala City, Guatemala
+  Honduras             v El Salvador           3-0   @ Guatemala City, Guatemala
+Sun Apr 20
+  El Salvador          v Panama                2-0   @ Guatemala City, Guatemala
+  Guatemala            v Nicaragua             6-1   @ Guatemala City, Guatemala
+Wed Apr 23
+  Guatemala            v El Salvador           1-0   @ Guatemala City, Guatemala
+  Honduras             v Costa Rica            0-4   @ Guatemala City, Guatemala
+Fri Apr 25
+  Costa Rica           v El Salvador           1-0   @ Guatemala City, Guatemala
+  Guatemala            v Honduras              1-0   @ Guatemala City, Guatemala
+Sun Apr 27
+  Guatemala            v Costa Rica            1-1   @ Guatemala City, Guatemala
+  Honduras             v El Salvador           0-0   @ Guatemala City, Guatemala
 

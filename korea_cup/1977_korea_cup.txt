@@ -1,19 +1,19 @@
 = Korea Cup 1977
 
-# Date       Thu Sep/1 - Thu Sep/15 1977 (14d)
+# Date       Thu Sep 1 - Thu Sep 15 1977 (14d)
 # Teams      5
 # Matches    6
 
-[Thu Sep 1]
-  India - Thailand  0-4   @ Seoul, South Korea
-[Sat Sep 3]
-  South Korea - Thailand  5-1   @ Seoul, South Korea
-[Mon Sep 5]
-  South Korea - India  3-0   @ Busan, South Korea
-[Thu Sep 8]
-  Bahrain - Malaysia  1-3   @ Daegu, South Korea
-[Tue Sep 13]
-  South Korea - Malaysia  3-0   @ Seoul, South Korea
-[Thu Sep 15]
-  Malaysia - Thailand  1-1   @ Seoul, South Korea
+Thu Sep 1
+  India                v Thailand              0-4   @ Seoul, South Korea
+Sat Sep 3
+  South Korea          v Thailand              5-1   @ Seoul, South Korea
+Mon Sep 5
+  South Korea          v India                 3-0   @ Busan, South Korea
+Thu Sep 8
+  Bahrain              v Malaysia              1-3   @ Daegu, South Korea
+Tue Sep 13
+  South Korea          v Malaysia              3-0   @ Seoul, South Korea
+Thu Sep 15
+  Malaysia             v Thailand              1-1   @ Seoul, South Korea
 

@@ -1,20 +1,20 @@
 = South Asian Games 1995
 
-# Date       Tue Dec/19 - Wed Dec/27 1995 (8d)
+# Date       Tue Dec 19 - Wed Dec 27 1995 (8d)
 # Teams      5
 # Matches    8
 
-[Tue Dec 19]
-  Nepal - Maldives  1-0   @ Madras, India
-[Thu Dec 21]
-  Maldives - Bangladesh  0-0   @ Madras, India
-[Sat Dec 23]
-  India - Sri Lanka  1-0   @ Madras, India
-  Bangladesh - Nepal  2-1   @ Madras, India
-[Mon Dec 25]
-  Bangladesh - Sri Lanka  0-0   @ Madras, India   [Bangladesh wins on penalties]
-  India - Nepal  3-0   @ Madras, India
-[Wed Dec 27]
-  Sri Lanka - Nepal  0-0   @ Madras, India   [Sri Lanka wins on penalties]
-  India - Bangladesh  1-0   @ Madras, India
+Tue Dec 19
+  Nepal                v Maldives              1-0   @ Madras, India
+Thu Dec 21
+  Maldives             v Bangladesh            0-0   @ Madras, India
+Sat Dec 23
+  India                v Sri Lanka             1-0   @ Madras, India
+  Bangladesh           v Nepal                 2-1   @ Madras, India
+Mon Dec 25
+  Bangladesh           v Sri Lanka             0-0   @ Madras, India   [Bangladesh wins on penalties]
+  India                v Nepal                 3-0   @ Madras, India
+Wed Dec 27
+  Sri Lanka            v Nepal                 0-0   @ Madras, India   [Sri Lanka wins on penalties]
+  India                v Bangladesh            1-0   @ Madras, India
 

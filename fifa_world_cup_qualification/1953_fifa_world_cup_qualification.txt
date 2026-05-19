@@ -1,105 +1,105 @@
 = FIFA World Cup qualification 1953
 
-# Date       Sat May/9 - Sun Dec/27 1953 (232d)
+# Date       Sat May 9 - Sun Dec 27 1953 (232d)
 # Teams      21
 # Matches    30
 
-[Sat May 9]
-  Yugoslavia - Greece  1-0   @ Belgrade, Yugoslavia
-     Frane Matošić 71'
-[Mon May 25]
-  Finland - Belgium  2-4   @ Helsinki, Finland
-     Kalevi Lehtovirta 49' Kalevi Lehtovirta 75';
-     Henri Coppens 4' Léopold Anoul 9' Henri Coppens 26' Henri Coppens 83'
-[Thu May 28]
-  Sweden - Belgium  2-3   @ Solna, Sweden
-     Bengt Berndtsson 20' Arne Selmosson 26';
-     Léopold Anoul 28' Jean-Louis Straetmans 37' Victor Lemberechts 40'
-[Sun Jun 14]
-  Czechoslovakia - Romania  2-0   @ Prague, Czechoslovakia
-     Emil Pažický 54' František Vlk 63'
-[Wed Jun 24]
-  Norway - Saarland  2-3   @ Oslo, Norway
-     Gunnar Thoresen 3' Knut Dahlen 15';
-     Herbert Binkert 16' Werner Otto 30' Gerhard Siedl 55'
-[Sun Jun 28]
-  Romania - Bulgaria  3-1   @ Bucharest, Romania
-     József Pecsovszky 20' József Pecsovszky 30' Alexandru Ene 82';
-     Dobromir Tashkov 53'
-[Sun Jul 19]
-  Mexico - Haiti  8-0   @ Mexico City, Mexico
-     Tomás Balcázar 23' Tomás Balcázar 26' Gregorio Gómez 27' Nicolás Tellez 34' Pedro Arnauda 38' Pedro Arnauda 69' Tomás Balcázar 76' Pedro Arnauda 85'
-[Wed Aug 5]
-  Finland - Sweden  3-3   @ Helsinki, Finland
-     Kalevi Lehtovirta 63' Olavi Lahtinen 67' Nils Rikberg 70';
-     Nils-Åke Sandell 9' Hans Persson 23' Nils-Åke Sandell 71'
-[Sun Aug 16]
-  Sweden - Finland  4-0   @ Solna, Sweden
-     Gösta Sandberg 22' Nils-Åke Sandell 24' Herbert Sandin 56' Nils-Åke Sandell 61'
-[Wed Aug 19]
-  Norway - Germany  1-1   @ Oslo, Norway
-     Harald Hennum 41';
-     Fritz Walter 44'
-[Sun Sep 6]
-  Bulgaria - Czechoslovakia  1-2   @ Sofia, Bulgaria
-     Stefan Bozhkov 55' (pen.);
-     František Vlk 5' František Vlk 40'
-[Sun Sep 20]
-  Luxembourg - France  1-6   @ Luxembourg, Luxembourg
-     Antoine Kohn 6';
-     Roger Piantoni 5' Raymond Kopa 10' Raymond Cicci 41' Léon Glovacki 44' Édouard Kargu 73' Pierre Flamion 88'
-[Wed Sep 23]
-  Belgium - Finland  2-2   @ Brussels, Belgium
-     Mathieu Bollen 25' Mathieu Bollen 75';
-     Olavi Lahtinen 83' Jorma Vaihela 90'
-[Sun Sep 27]
-  Austria - Portugal  9-1   @ Vienna, Austria
-     Ernst Ocwirk 13' Erich Probst 14' Erich Probst 19' Erich Probst 31' Erich Probst 59' Ernst Happel 68' (pen.) Erich Probst 70' Theodor Wagner 83' Robert Dienst 87';
-     José Águas 60'
-[Sun Oct 4]
-  Republic of Ireland - France  3-5   @ Dublin, Republic of Ireland
-     Reg Ryan 58' (pen.) Davy Walsh 83' Frank O'Farrell 88';
-     Léon Glovacki 23' Armand Penverne 40' Joseph Ujlaki 50' Joseph Ujlaki 69' Pierre Flamion 72'
-[Thu Oct 8]
-  Belgium - Sweden  2-0   @ Brussels, Belgium
-     Henri Coppens 23' Victor Mees 49'
-[Sun Oct 11]
-  Bulgaria - Romania  1-2   @ Sofia, Bulgaria
-     Ivan Kolev 28';
-     Gavril Serfözö 27' Valeriu Călinoiu 52'
-  Germany - Saarland  3-0   @ Stuttgart, Germany
-     Max Morlock 13' Max Morlock 50' Horst Schade 70'
-[Sun Oct 25]
-  Romania - Czechoslovakia  0-1   @ Bucharest, Romania
-     -; František Šafránek 38' (pen.)
-[Wed Oct 28]
-  Republic of Ireland - Luxembourg  4-0   @ Dublin, Republic of Ireland
-     Arthur Fitzsimons 14' Reg Ryan 48' (pen.) Tommy Eglington 59' Arthur Fitzsimons 83'
-[Sun Nov 1]
-  Greece - Israel  1-0   @ Athens, Greece
-     Thanasis Bembis 52'
-[Sun Nov 8]
-  Czechoslovakia - Bulgaria  0-0   @ Bratislava, Czechoslovakia
-  Saarland - Norway  0-0   @ Saarbrücken, Saarland
-  Yugoslavia - Israel  1-0   @ Skopje, Yugoslavia
-     Miloš Milutinović 3'
-[Fri Nov 13]
-  Egypt - Italy  1-2   @ Cairo, Egypt
-     Ad-Diba 33';
-     Amleto Frignani 62' Ermes Muccinelli 79'
-[Sun Nov 22]
-  Germany - Norway  5-1   @ Hamburg, Germany
-     Max Morlock 27' Max Morlock 63' Ottmar Walter 69' Fritz Walter 80' Helmut Rahn 88';
-     Hans Nordahl 26'
-[Wed Nov 25]
-  France - Republic of Ireland  1-0   @ Paris, France
-     Roger Piantoni 73'
-[Sun Nov 29]
-  Portugal - Austria  0-0   @ Oeiras, Portugal
-[Thu Dec 17]
-  France - Luxembourg  8-0   @ Paris, France
-     Jean Desgranges 2' Jean Vincent 6' Jean Vincent 10' Just Fontaine 21' Jacques Foix 57' Just Fontaine 75' Just Fontaine 80' Jean Desgranges 88'
-[Sun Dec 27]
-  Haiti - Mexico  0-4   @ Port-au-Prince, Haiti
-     -; Rafael Ávalos 6' José Luis Lamadrid 15' José Luis Lamadrid 59' Tomás Balcázar 65'
+Sat May 9
+  Yugoslavia           v Greece                1-0   @ Belgrade, Yugoslavia
+     (Frane Matošić 71')
+Mon May 25
+  Finland              v Belgium               2-4   @ Helsinki, Finland
+     (Kalevi Lehtovirta 49' Kalevi Lehtovirta 75';
+      Henri Coppens 4' Léopold Anoul 9' Henri Coppens 26' Henri Coppens 83')
+Thu May 28
+  Sweden               v Belgium               2-3   @ Solna, Sweden
+     (Bengt Berndtsson 20' Arne Selmosson 26';
+      Léopold Anoul 28' Jean-Louis Straetmans 37' Victor Lemberechts 40')
+Sun Jun 14
+  Czechoslovakia       v Romania               2-0   @ Prague, Czechoslovakia
+     (Emil Pažický 54' František Vlk 63')
+Wed Jun 24
+  Norway               v Saarland              2-3   @ Oslo, Norway
+     (Gunnar Thoresen 3' Knut Dahlen 15';
+      Herbert Binkert 16' Werner Otto 30' Gerhard Siedl 55')
+Sun Jun 28
+  Romania              v Bulgaria              3-1   @ Bucharest, Romania
+     (József Pecsovszky 20' József Pecsovszky 30' Alexandru Ene 82';
+      Dobromir Tashkov 53')
+Sun Jul 19
+  Mexico               v Haiti                 8-0   @ Mexico City, Mexico
+     (Tomás Balcázar 23' Tomás Balcázar 26' Gregorio Gómez 27' Nicolás Tellez 34' Pedro Arnauda 38' Pedro Arnauda 69' Tomás Balcázar 76' Pedro Arnauda 85')
+Wed Aug 5
+  Finland              v Sweden                3-3   @ Helsinki, Finland
+     (Kalevi Lehtovirta 63' Olavi Lahtinen 67' Nils Rikberg 70';
+      Nils-Åke Sandell 9' Hans Persson 23' Nils-Åke Sandell 71')
+Sun Aug 16
+  Sweden               v Finland               4-0   @ Solna, Sweden
+     (Gösta Sandberg 22' Nils-Åke Sandell 24' Herbert Sandin 56' Nils-Åke Sandell 61')
+Wed Aug 19
+  Norway               v Germany               1-1   @ Oslo, Norway
+     (Harald Hennum 41';
+      Fritz Walter 44')
+Sun Sep 6
+  Bulgaria             v Czechoslovakia        1-2   @ Sofia, Bulgaria
+     (Stefan Bozhkov 55'(p);
+      František Vlk 5' František Vlk 40')
+Sun Sep 20
+  Luxembourg           v France                1-6   @ Luxembourg, Luxembourg
+     (Antoine Kohn 6';
+      Roger Piantoni 5' Raymond Kopa 10' Raymond Cicci 41' Léon Glovacki 44' Édouard Kargu 73' Pierre Flamion 88')
+Wed Sep 23
+  Belgium              v Finland               2-2   @ Brussels, Belgium
+     (Mathieu Bollen 25' Mathieu Bollen 75';
+      Olavi Lahtinen 83' Jorma Vaihela 90')
+Sun Sep 27
+  Austria              v Portugal              9-1   @ Vienna, Austria
+     (Ernst Ocwirk 13' Erich Probst 14' Erich Probst 19' Erich Probst 31' Erich Probst 59' Ernst Happel 68'(p) Erich Probst 70' Theodor Wagner 83' Robert Dienst 87';
+      José Águas 60')
+Sun Oct 4
+  Republic of Ireland  v France                3-5   @ Dublin, Republic of Ireland
+     (Reg Ryan 58'(p) Davy Walsh 83' Frank O'Farrell 88';
+      Léon Glovacki 23' Armand Penverne 40' Joseph Ujlaki 50' Joseph Ujlaki 69' Pierre Flamion 72')
+Thu Oct 8
+  Belgium              v Sweden                2-0   @ Brussels, Belgium
+     (Henri Coppens 23' Victor Mees 49')
+Sun Oct 11
+  Bulgaria             v Romania               1-2   @ Sofia, Bulgaria
+     (Ivan Kolev 28';
+      Gavril Serfözö 27' Valeriu Călinoiu 52')
+  Germany              v Saarland              3-0   @ Stuttgart, Germany
+     (Max Morlock 13' Max Morlock 50' Horst Schade 70')
+Sun Oct 25
+  Romania              v Czechoslovakia        0-1   @ Bucharest, Romania
+     (František Šafránek 38'(p))
+Wed Oct 28
+  Republic of Ireland  v Luxembourg            4-0   @ Dublin, Republic of Ireland
+     (Arthur Fitzsimons 14' Reg Ryan 48'(p) Tommy Eglington 59' Arthur Fitzsimons 83')
+Sun Nov 1
+  Greece               v Israel                1-0   @ Athens, Greece
+     (Thanasis Bembis 52')
+Sun Nov 8
+  Czechoslovakia       v Bulgaria              0-0   @ Bratislava, Czechoslovakia
+  Saarland             v Norway                0-0   @ Saarbrücken, Saarland
+  Yugoslavia           v Israel                1-0   @ Skopje, Yugoslavia
+     (Miloš Milutinović 3')
+Fri Nov 13
+  Egypt                v Italy                 1-2   @ Cairo, Egypt
+     (Ad-Diba 33';
+      Amleto Frignani 62' Ermes Muccinelli 79')
+Sun Nov 22
+  Germany              v Norway                5-1   @ Hamburg, Germany
+     (Max Morlock 27' Max Morlock 63' Ottmar Walter 69' Fritz Walter 80' Helmut Rahn 88';
+      Hans Nordahl 26')
+Wed Nov 25
+  France               v Republic of Ireland   1-0   @ Paris, France
+     (Roger Piantoni 73')
+Sun Nov 29
+  Portugal             v Austria               0-0   @ Oeiras, Portugal
+Thu Dec 17
+  France               v Luxembourg            8-0   @ Paris, France
+     (Jean Desgranges 2' Jean Vincent 6' Jean Vincent 10' Just Fontaine 21' Jacques Foix 57' Just Fontaine 75' Just Fontaine 80' Jean Desgranges 88')
+Sun Dec 27
+  Haiti                v Mexico                0-4   @ Port-au-Prince, Haiti
+     (Rafael Ávalos 6' José Luis Lamadrid 15' José Luis Lamadrid 59' Tomás Balcázar 65')
 

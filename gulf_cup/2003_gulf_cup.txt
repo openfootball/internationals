@@ -1,21 +1,21 @@
 = Gulf Cup 2003
 
-# Date       Fri Dec/26 - Wed Dec/31 2003 (5d)
+# Date       Fri Dec 26 - Wed Dec 31 2003 (5d)
 # Teams      7
 # Matches    8
 
-[Fri Dec 26]
-  Kuwait - Oman  0-0   @ Kuwait City, Kuwait
-  United Arab Emirates - Saudi Arabia  0-2   @ Kuwait City, Kuwait
-[Sat Dec 27]
-  Bahrain - Qatar  0-0   @ Kuwait City, Kuwait
-[Sun Dec 28]
-  Yemen - Oman  1-1   @ Kuwait City, Kuwait
-[Mon Dec 29]
-  Kuwait - United Arab Emirates  0-2   @ Kuwait City, Kuwait
-  Saudi Arabia - Qatar  0-0   @ Kuwait City, Kuwait
-[Tue Dec 30]
-  Bahrain - Yemen  5-1   @ Kuwait City, Kuwait
-[Wed Dec 31]
-  Oman - United Arab Emirates  2-0   @ Kuwait City, Kuwait
+Fri Dec 26
+  Kuwait               v Oman                  0-0   @ Kuwait City, Kuwait
+  United Arab Emirates v Saudi Arabia          0-2   @ Kuwait City, Kuwait
+Sat Dec 27
+  Bahrain              v Qatar                 0-0   @ Kuwait City, Kuwait
+Sun Dec 28
+  Yemen                v Oman                  1-1   @ Kuwait City, Kuwait
+Mon Dec 29
+  Kuwait               v United Arab Emirates  0-2   @ Kuwait City, Kuwait
+  Saudi Arabia         v Qatar                 0-0   @ Kuwait City, Kuwait
+Tue Dec 30
+  Bahrain              v Yemen                 5-1   @ Kuwait City, Kuwait
+Wed Dec 31
+  Oman                 v United Arab Emirates  2-0   @ Kuwait City, Kuwait
 

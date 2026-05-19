@@ -1,49 +1,49 @@
 = Copa América 1987
 
-# Date       Sat Jun/27 - Sun Jul/12 1987 (15d)
+# Date       Sat Jun 27 - Sun Jul 12 1987 (15d)
 # Teams      10
 # Matches    13
 
-[Sat Jun 27]
-  Argentina - Peru  1-1   @ Buenos Aires, Argentina
-     Diego Maradona 47';
-     Luis Reyna 59'
-[Sun Jun 28]
-  Brazil - Venezuela  5-0   @ Córdoba, Argentina
-     Edú Marangón 33' Zdenko Morovic 39' (o.g.) Careca 66' Nelson Luís Kerchner 72' Romário 89'
-  Paraguay - Bolivia  0-0   @ Rosario, Argentina
-[Tue Jun 30]
-  Venezuela - Chile  1-3   @ Córdoba, Argentina
-     Pedro Acosta 24' (pen.);
-     Juan Carlos Letelier 17' Jorge Contreras 70' Sergio Salgado 83'
-[Wed Jul 1]
-  Bolivia - Colombia  0-2   @ Rosario, Argentina
-     -; Carlos Valderrama 34' Arnoldo Iguarán 89'
-[Thu Jul 2]
-  Argentina - Ecuador  3-0   @ Buenos Aires, Argentina
-     Claudio Caniggia 50' Diego Maradona 67' (pen.) Diego Maradona 85'
-[Fri Jul 3]
-  Chile - Brazil  4-0   @ Córdoba, Argentina
-     Ivo Basay 41' Juan Carlos Letelier 48' Ivo Basay 68' Juan Carlos Letelier 75'
-[Sat Jul 4]
-  Peru - Ecuador  1-1   @ Buenos Aires, Argentina
-     Eugenio La Rosa 87';
-     Hamilton Cuvi 72'
-[Sun Jul 5]
-  Colombia - Paraguay  3-0   @ Rosario, Argentina
-     Arnoldo Iguarán 8' Arnoldo Iguarán 34' Arnoldo Iguarán 50'
-[Wed Jul 8]
-  Chile - Colombia  2-1   @ Córdoba, Argentina
-     Fernando Astengo 106' Jaime Vera 108';
-     Bernardo Redín 103' (pen.)
-[Thu Jul 9]
-  Argentina - Uruguay  0-1   @ Buenos Aires, Argentina
-     -; Antonio Alzamendi 43'
-[Sat Jul 11]
-  Argentina - Colombia  1-2   @ Buenos Aires, Argentina
-     Claudio Caniggia 86';
-     Gabriel Jaime Gómez Jaramillo 8' Juan Jairo Galeano 27'
-[Sun Jul 12]
-  Chile - Uruguay  0-1   @ Buenos Aires, Argentina
-     -; Pablo Bengoechea 56'
+Sat Jun 27
+  Argentina            v Peru                  1-1   @ Buenos Aires, Argentina
+     (Diego Maradona 47';
+      Luis Reyna 59')
+Sun Jun 28
+  Brazil               v Venezuela             5-0   @ Córdoba, Argentina
+     (Edú Marangón 33' Zdenko Morovic 39'(og) Careca 66' Nelson Luís Kerchner 72' Romário 89')
+  Paraguay             v Bolivia               0-0   @ Rosario, Argentina
+Tue Jun 30
+  Venezuela            v Chile                 1-3   @ Córdoba, Argentina
+     (Pedro Acosta 24'(p);
+      Juan Carlos Letelier 17' Jorge Contreras 70' Sergio Salgado 83')
+Wed Jul 1
+  Bolivia              v Colombia              0-2   @ Rosario, Argentina
+     (Carlos Valderrama 34' Arnoldo Iguarán 89')
+Thu Jul 2
+  Argentina            v Ecuador               3-0   @ Buenos Aires, Argentina
+     (Claudio Caniggia 50' Diego Maradona 67'(p) Diego Maradona 85')
+Fri Jul 3
+  Chile                v Brazil                4-0   @ Córdoba, Argentina
+     (Ivo Basay 41' Juan Carlos Letelier 48' Ivo Basay 68' Juan Carlos Letelier 75')
+Sat Jul 4
+  Peru                 v Ecuador               1-1   @ Buenos Aires, Argentina
+     (Eugenio La Rosa 87';
+      Hamilton Cuvi 72')
+Sun Jul 5
+  Colombia             v Paraguay              3-0   @ Rosario, Argentina
+     (Arnoldo Iguarán 8' Arnoldo Iguarán 34' Arnoldo Iguarán 50')
+Wed Jul 8
+  Chile                v Colombia              2-1   @ Córdoba, Argentina
+     (Fernando Astengo 106' Jaime Vera 108';
+      Bernardo Redín 103'(p))
+Thu Jul 9
+  Argentina            v Uruguay               0-1   @ Buenos Aires, Argentina
+     (Antonio Alzamendi 43')
+Sat Jul 11
+  Argentina            v Colombia              1-2   @ Buenos Aires, Argentina
+     (Claudio Caniggia 86';
+      Gabriel Jaime Gómez Jaramillo 8' Juan Jairo Galeano 27')
+Sun Jul 12
+  Chile                v Uruguay               0-1   @ Buenos Aires, Argentina
+     (Pablo Bengoechea 56')
 

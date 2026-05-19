@@ -1,13 +1,13 @@
 = SKN Football Festival 2001
 
-# Date       Fri Jul/27 - Mon Jul/30 2001 (3d)
+# Date       Fri Jul 27 - Mon Jul 30 2001 (3d)
 # Teams      3
 # Matches    3
 
-[Fri Jul 27]
-  Jamaica - Martinique  0-0   @ Basseterre, Saint Kitts and Nevis
-[Sat Jul 28]
-  Saint Kitts and Nevis - Martinique  4-2   @ Basseterre, Saint Kitts and Nevis
-[Mon Jul 30]
-  Saint Kitts and Nevis - Jamaica  0-0   @ Basseterre, Saint Kitts and Nevis
+Fri Jul 27
+  Jamaica              v Martinique            0-0   @ Basseterre, Saint Kitts and Nevis
+Sat Jul 28
+  Saint Kitts and Nevis v Martinique            4-2   @ Basseterre, Saint Kitts and Nevis
+Mon Jul 30
+  Saint Kitts and Nevis v Jamaica               0-0   @ Basseterre, Saint Kitts and Nevis
 

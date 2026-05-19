@@ -1,28 +1,28 @@
 = CECAFA Cup 2000
 
-# Date       Sat Nov/18 - Wed Nov/29 2000 (11d)
+# Date       Sat Nov 18 - Wed Nov 29 2000 (11d)
 # Teams      8
 # Matches    12
 
-[Sat Nov 18]
-  Uganda - Ethiopia  2-2   @ Kampala, Uganda
-[Sun Nov 19]
-  Djibouti - Somalia  0-0   @ Kampala, Uganda
-[Mon Nov 20]
-  Uganda - Burundi  2-1   @ Kampala, Uganda
-[Tue Nov 21]
-  Somalia - Ethiopia  1-2   @ Kampala, Uganda
-[Wed Nov 22]
-  Kenya - Rwanda  1-2   @ Mbale, Uganda
-[Thu Nov 23]
-  Djibouti - Burundi  2-4   @ Kampala, Uganda
-  Uganda - Somalia  6-0   @ Kampala, Uganda
-[Sat Nov 25]
-  Eritrea - Rwanda  1-1   @ Mbale, Uganda
-  Ethiopia - Djibouti  4-2   @ Kampala, Uganda
-[Mon Nov 27]
-  Ethiopia - Burundi  1-0   @ Kampala, Uganda
-  Uganda - Djibouti  7-0   @ Kampala, Uganda
-[Wed Nov 29]
-  Uganda - Rwanda  3-1   @ Kampala, Uganda
+Sat Nov 18
+  Uganda               v Ethiopia              2-2   @ Kampala, Uganda
+Sun Nov 19
+  Djibouti             v Somalia               0-0   @ Kampala, Uganda
+Mon Nov 20
+  Uganda               v Burundi               2-1   @ Kampala, Uganda
+Tue Nov 21
+  Somalia              v Ethiopia              1-2   @ Kampala, Uganda
+Wed Nov 22
+  Kenya                v Rwanda                1-2   @ Mbale, Uganda
+Thu Nov 23
+  Djibouti             v Burundi               2-4   @ Kampala, Uganda
+  Uganda               v Somalia               6-0   @ Kampala, Uganda
+Sat Nov 25
+  Eritrea              v Rwanda                1-1   @ Mbale, Uganda
+  Ethiopia             v Djibouti              4-2   @ Kampala, Uganda
+Mon Nov 27
+  Ethiopia             v Burundi               1-0   @ Kampala, Uganda
+  Uganda               v Djibouti              7-0   @ Kampala, Uganda
+Wed Nov 29
+  Uganda               v Rwanda                3-1   @ Kampala, Uganda
 

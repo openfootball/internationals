@@ -1,31 +1,31 @@
 = WAFF Championship 2000
 
-# Date       Tue May/23 - Fri Jun/2 2000 (10d)
+# Date       Tue May 23 - Fri Jun 2 2000 (10d)
 # Teams      8
 # Matches    16
 
-[Tue May 23]
-  Jordan - Kyrgyzstan  2-0   @ Amman, Jordan
-  Lebanon - Iraq  1-2   @ Amman, Jordan
-[Wed May 24]
-  Iran - Kazakhstan  3-0   @ Amman, Jordan
-  Syria - Palestine  1-0   @ Amman, Jordan
-[Thu May 25]
-  Jordan - Iraq  0-0   @ Amman, Jordan
-  Kyrgyzstan - Lebanon  0-2   @ Amman, Jordan
-[Fri May 26]
-  Kazakhstan - Syria  0-4   @ Amman, Jordan
-  Palestine - Iran  1-1   @ Amman, Jordan
-[Sat May 27]
-  Iraq - Kyrgyzstan  4-0   @ Amman, Jordan
-  Jordan - Lebanon  0-0   @ Amman, Jordan
-[Sun May 28]
-  Iran - Syria  1-0   @ Amman, Jordan
-  Kazakhstan - Palestine  3-2   @ Amman, Jordan
-[Wed May 31]
-  Iraq - Syria  0-0   @ Amman, Jordan
-  Jordan - Iran  0-1   @ Amman, Jordan
-[Fri Jun 2]
-  Iran - Syria  1-0   @ Amman, Jordan
-  Jordan - Iraq  1-4   @ Amman, Jordan
+Tue May 23
+  Jordan               v Kyrgyzstan            2-0   @ Amman, Jordan
+  Lebanon              v Iraq                  1-2   @ Amman, Jordan
+Wed May 24
+  Iran                 v Kazakhstan            3-0   @ Amman, Jordan
+  Syria                v Palestine             1-0   @ Amman, Jordan
+Thu May 25
+  Jordan               v Iraq                  0-0   @ Amman, Jordan
+  Kyrgyzstan           v Lebanon               0-2   @ Amman, Jordan
+Fri May 26
+  Kazakhstan           v Syria                 0-4   @ Amman, Jordan
+  Palestine            v Iran                  1-1   @ Amman, Jordan
+Sat May 27
+  Iraq                 v Kyrgyzstan            4-0   @ Amman, Jordan
+  Jordan               v Lebanon               0-0   @ Amman, Jordan
+Sun May 28
+  Iran                 v Syria                 1-0   @ Amman, Jordan
+  Kazakhstan           v Palestine             3-2   @ Amman, Jordan
+Wed May 31
+  Iraq                 v Syria                 0-0   @ Amman, Jordan
+  Jordan               v Iran                  0-1   @ Amman, Jordan
+Fri Jun 2
+  Iran                 v Syria                 1-0   @ Amman, Jordan
+  Jordan               v Iraq                  1-4   @ Amman, Jordan
 

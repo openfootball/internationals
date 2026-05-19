@@ -1,17 +1,17 @@
 = British Home Championship 1984
 
-# Date       Tue Feb/28 - Sat May/26 1984 (88d)
+# Date       Tue Feb 28 - Sat May 26 1984 (88d)
 # Teams      4
 # Matches    5
 
-[Tue Feb 28]
-  Scotland - Wales  2-1   @ Glasgow, Scotland
-[Wed Apr 4]
-  England - Northern Ireland  1-0   @ London, England
-[Wed May 2]
-  Wales - England  1-0   @ Wrexham, Wales
-[Tue May 22]
-  Wales - Northern Ireland  1-1   @ Swansea, Wales
-[Sat May 26]
-  Scotland - England  1-1   @ Glasgow, Scotland
+Tue Feb 28
+  Scotland             v Wales                 2-1   @ Glasgow, Scotland
+Wed Apr 4
+  England              v Northern Ireland      1-0   @ London, England
+Wed May 2
+  Wales                v England               1-0   @ Wrexham, Wales
+Tue May 22
+  Wales                v Northern Ireland      1-1   @ Swansea, Wales
+Sat May 26
+  Scotland             v England               1-1   @ Glasgow, Scotland
 

@@ -1,19 +1,19 @@
 = British Home Championship 1907
 
-# Date       Sat Feb/16 - Sat Apr/6 1907 (49d)
+# Date       Sat Feb 16 - Sat Apr 6 1907 (49d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 16]
-  England - Northern Ireland  1-0   @ Liverpool, England
-[Sat Feb 23]
-  Northern Ireland - Wales  2-3   @ Belfast, Ireland
-[Mon Mar 4]
-  Wales - Scotland  1-0   @ Wrexham, Wales
-[Sat Mar 16]
-  Scotland - Northern Ireland  3-0   @ Glasgow, Scotland
-[Mon Mar 18]
-  England - Wales  1-1   @ London, England
-[Sat Apr 6]
-  England - Scotland  1-1   @ Newcastle, England
+Sat Feb 16
+  England              v Northern Ireland      1-0   @ Liverpool, England
+Sat Feb 23
+  Northern Ireland     v Wales                 2-3   @ Belfast, Ireland
+Mon Mar 4
+  Wales                v Scotland              1-0   @ Wrexham, Wales
+Sat Mar 16
+  Scotland             v Northern Ireland      3-0   @ Glasgow, Scotland
+Mon Mar 18
+  England              v Wales                 1-1   @ London, England
+Sat Apr 6
+  England              v Scotland              1-1   @ Newcastle, England
 

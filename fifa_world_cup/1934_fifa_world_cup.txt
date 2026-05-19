@@ -1,62 +1,62 @@
 = FIFA World Cup 1934
 
-# Date       Sun May/27 - Sun Jun/10 1934 (14d)
+# Date       Sun May 27 - Sun Jun 10 1934 (14d)
 # Teams      16
 # Matches    17
 
-[Sun May 27]
-  Argentina - Sweden  2-3   @ Bologna, Italy
-     Ernesto Belis 4' Alberto Galateo 48';
-     Sven Jonasson 9' Sven Jonasson 67' Knut Kroon 79'
-  Austria - France  3-2   @ Turin, Italy
-     Matthias Sindelar 44' Anton Schall 93' Josef Bican 109';
-     Jean Nicolas 18' Georges Verriest 116' (pen.)
-  Belgium - Germany  2-5   @ Florence, Italy
-     Bernard Voorhoof 29' Bernard Voorhoof 43';
-     Stanislaus Kobierski 25' Otto Siffling 49' Edmund Conen 66' Edmund Conen 70' Edmund Conen 87'
-  Brazil - Spain  1-3   @ Genoa, Italy
-     Leônidas 55';
-     José Iraragorri 18' (pen.) José Iraragorri 25' Isidro Lángara 29'
-  Czechoslovakia - Romania  2-1   @ Trieste, Italy
-     Antonín Puč 50' Oldřich Nejedlý 67';
-     Ștefan Dobay 11'
-  Egypt - Hungary  2-4   @ Naples, Italy
-     Abdulrahman Fawzi 35' Abdulrahman Fawzi 39';
-     Pál Teleki 11' Géza Toldi 31' Jenő Vincze 53' Géza Toldi 61'
-  Italy - United States  7-1   @ Rome, Italy
-     Angelo Schiavio 18' Raimundo Orsi 20' Angelo Schiavio 29' Giovanni Ferrari 63' Angelo Schiavio 64' Raimundo Orsi 69' Giuseppe Meazza 90';
-     Aldo Donelli 57'
-  Netherlands - Switzerland  2-3   @ Milan, Italy
-     Kick Smit 29' Leen Vente 69';
-     Leopold Kielholz 7' Leopold Kielholz 43' André Abegglen 66'
-[Thu May 31]
-  Austria - Hungary  2-1   @ Bologna, Italy
-     Johann Horvath 8' Karl Zischek 51';
-     György Sárosi 60' (pen.)
-  Czechoslovakia - Switzerland  3-2   @ Turin, Italy
-     František Svoboda 24' Jiří Sobotka 49' Oldřich Nejedlý 82';
-     Leopold Kielholz 18' Willy Jäggi 78'
-  Germany - Sweden  2-1   @ Milan, Italy
-     Karl Hohmann 60' Karl Hohmann 63';
-     Gösta Dunker 82'
-  Italy - Spain  1-1   @ Florence, Italy
-     Giovanni Ferrari 44';
-     Luis Regueiro 30'
-[Fri Jun 1]
-  Italy - Spain  1-0   @ Florence, Italy
-     Giuseppe Meazza 11'
-[Sun Jun 3]
-  Czechoslovakia - Germany  3-1   @ Rome, Italy
-     Oldřich Nejedlý 21' Oldřich Nejedlý 69' Oldřich Nejedlý 80';
-     Rudolf Noack 62'
-  Italy - Austria  1-0   @ Milan, Italy
-     Enrique Guaita 19'
-[Thu Jun 7]
-  Austria - Germany  2-3   @ Naples, Italy
-     Johann Horvath 28' Karl Sesta 54';
-     Ernst Lehner 1' Edmund Conen 27' Ernst Lehner 42'
-[Sun Jun 10]
-  Italy - Czechoslovakia  2-1   @ Rome, Italy
-     Raimundo Orsi 81' Angelo Schiavio 95';
-     Antonín Puč 71'
+Sun May 27
+  Argentina            v Sweden                2-3   @ Bologna, Italy
+     (Ernesto Belis 4' Alberto Galateo 48';
+      Sven Jonasson 9' Sven Jonasson 67' Knut Kroon 79')
+  Austria              v France                3-2   @ Turin, Italy
+     (Matthias Sindelar 44' Anton Schall 93' Josef Bican 109';
+      Jean Nicolas 18' Georges Verriest 116'(p))
+  Belgium              v Germany               2-5   @ Florence, Italy
+     (Bernard Voorhoof 29' Bernard Voorhoof 43';
+      Stanislaus Kobierski 25' Otto Siffling 49' Edmund Conen 66' Edmund Conen 70' Edmund Conen 87')
+  Brazil               v Spain                 1-3   @ Genoa, Italy
+     (Leônidas 55';
+      José Iraragorri 18'(p) José Iraragorri 25' Isidro Lángara 29')
+  Czechoslovakia       v Romania               2-1   @ Trieste, Italy
+     (Antonín Puč 50' Oldřich Nejedlý 67';
+      Ștefan Dobay 11')
+  Egypt                v Hungary               2-4   @ Naples, Italy
+     (Abdulrahman Fawzi 35' Abdulrahman Fawzi 39';
+      Pál Teleki 11' Géza Toldi 31' Jenő Vincze 53' Géza Toldi 61')
+  Italy                v United States         7-1   @ Rome, Italy
+     (Angelo Schiavio 18' Raimundo Orsi 20' Angelo Schiavio 29' Giovanni Ferrari 63' Angelo Schiavio 64' Raimundo Orsi 69' Giuseppe Meazza 90';
+      Aldo Donelli 57')
+  Netherlands          v Switzerland           2-3   @ Milan, Italy
+     (Kick Smit 29' Leen Vente 69';
+      Leopold Kielholz 7' Leopold Kielholz 43' André Abegglen 66')
+Thu May 31
+  Austria              v Hungary               2-1   @ Bologna, Italy
+     (Johann Horvath 8' Karl Zischek 51';
+      György Sárosi 60'(p))
+  Czechoslovakia       v Switzerland           3-2   @ Turin, Italy
+     (František Svoboda 24' Jiří Sobotka 49' Oldřich Nejedlý 82';
+      Leopold Kielholz 18' Willy Jäggi 78')
+  Germany              v Sweden                2-1   @ Milan, Italy
+     (Karl Hohmann 60' Karl Hohmann 63';
+      Gösta Dunker 82')
+  Italy                v Spain                 1-1   @ Florence, Italy
+     (Giovanni Ferrari 44';
+      Luis Regueiro 30')
+Fri Jun 1
+  Italy                v Spain                 1-0   @ Florence, Italy
+     (Giuseppe Meazza 11')
+Sun Jun 3
+  Czechoslovakia       v Germany               3-1   @ Rome, Italy
+     (Oldřich Nejedlý 21' Oldřich Nejedlý 69' Oldřich Nejedlý 80';
+      Rudolf Noack 62')
+  Italy                v Austria               1-0   @ Milan, Italy
+     (Enrique Guaita 19')
+Thu Jun 7
+  Austria              v Germany               2-3   @ Naples, Italy
+     (Johann Horvath 28' Karl Sesta 54';
+      Ernst Lehner 1' Edmund Conen 27' Ernst Lehner 42')
+Sun Jun 10
+  Italy                v Czechoslovakia        2-1   @ Rome, Italy
+     (Raimundo Orsi 81' Angelo Schiavio 95';
+      Antonín Puč 71')
 

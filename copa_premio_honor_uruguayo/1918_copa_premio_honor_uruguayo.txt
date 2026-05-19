@@ -1,11 +1,11 @@
 = Copa Premio Honor Uruguayo 1918
 
-# Date       Thu Jul/18 - Sun Jul/28 1918 (10d)
+# Date       Thu Jul 18 - Sun Jul 28 1918 (10d)
 # Teams      2
 # Matches    2
 
-[Thu Jul 18]
-  Uruguay - Argentina  1-1   @ Montevideo, Uruguay
-[Sun Jul 28]
-  Uruguay - Argentina  3-1   @ Montevideo, Uruguay
+Thu Jul 18
+  Uruguay              v Argentina             1-1   @ Montevideo, Uruguay
+Sun Jul 28
+  Uruguay              v Argentina             3-1   @ Montevideo, Uruguay
 

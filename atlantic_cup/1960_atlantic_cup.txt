@@ -1,18 +1,18 @@
 = Atlantic Cup 1960
 
-# Date       Sun Jul/3 - Wed Aug/17 1960 (45d)
+# Date       Sun Jul 3 - Wed Aug 17 1960 (45d)
 # Teams      4
 # Matches    6
 
-[Sun Jul 3]
-  Paraguay - Brazil  1-2   @ Asunción, Paraguay
-[Sat Jul 9]
-  Argentina - Paraguay  1-0   @ Buenos Aires, Argentina
-  Uruguay - Brazil  1-0   @ Montevideo, Uruguay
-[Tue Jul 12]
-  Brazil - Argentina  5-1   @ Rio de Janeiro, Brazil
-[Wed Jul 13]
-  Uruguay - Paraguay  2-1   @ Montevideo, Uruguay
-[Wed Aug 17]
-  Argentina - Uruguay  4-0   @ Buenos Aires, Argentina
+Sun Jul 3
+  Paraguay             v Brazil                1-2   @ Asunción, Paraguay
+Sat Jul 9
+  Argentina            v Paraguay              1-0   @ Buenos Aires, Argentina
+  Uruguay              v Brazil                1-0   @ Montevideo, Uruguay
+Tue Jul 12
+  Brazil               v Argentina             5-1   @ Rio de Janeiro, Brazil
+Wed Jul 13
+  Uruguay              v Paraguay              2-1   @ Montevideo, Uruguay
+Wed Aug 17
+  Argentina            v Uruguay               4-0   @ Buenos Aires, Argentina
 

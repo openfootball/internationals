@@ -1,17 +1,17 @@
 = British Home Championship 1970
 
-# Date       Sat Apr/18 - Sat Apr/25 1970 (7d)
+# Date       Sat Apr 18 - Sat Apr 25 1970 (7d)
 # Teams      4
 # Matches    6
 
-[Sat Apr 18]
-  Northern Ireland - Scotland  0-1   @ Belfast, Northern Ireland
-  Wales - England  1-1   @ Cardiff, Wales
-[Tue Apr 21]
-  England - Northern Ireland  3-1   @ London, England
-[Wed Apr 22]
-  Scotland - Wales  0-0   @ Glasgow, Scotland
-[Sat Apr 25]
-  Scotland - England  0-0   @ Glasgow, Scotland
-  Wales - Northern Ireland  1-0   @ Swansea, Wales
+Sat Apr 18
+  Northern Ireland     v Scotland              0-1   @ Belfast, Northern Ireland
+  Wales                v England               1-1   @ Cardiff, Wales
+Tue Apr 21
+  England              v Northern Ireland      3-1   @ London, England
+Wed Apr 22
+  Scotland             v Wales                 0-0   @ Glasgow, Scotland
+Sat Apr 25
+  Scotland             v England               0-0   @ Glasgow, Scotland
+  Wales                v Northern Ireland      1-0   @ Swansea, Wales
 

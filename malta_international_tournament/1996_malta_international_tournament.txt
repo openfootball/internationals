@@ -1,16 +1,16 @@
 = Malta International Tournament 1996
 
-# Date       Wed Feb/7 - Sun Feb/11 1996 (4d)
+# Date       Wed Feb 7 - Sun Feb 11 1996 (4d)
 # Teams      4
 # Matches    6
 
-[Wed Feb 7]
-  Iceland - Slovenia  1-7   @ Attard, Malta
-  Malta - Russia  0-2   @ Attard, Malta
-[Fri Feb 9]
-  Iceland - Russia  0-3   @ Attard, Malta
-  Malta - Slovenia  0-0   @ Attard, Malta
-[Sun Feb 11]
-  Malta - Iceland  1-4   @ Attard, Malta
-  Russia - Slovenia  3-1   @ Attard, Malta
+Wed Feb 7
+  Iceland              v Slovenia              1-7   @ Attard, Malta
+  Malta                v Russia                0-2   @ Attard, Malta
+Fri Feb 9
+  Iceland              v Russia                0-3   @ Attard, Malta
+  Malta                v Slovenia              0-0   @ Attard, Malta
+Sun Feb 11
+  Malta                v Iceland               1-4   @ Attard, Malta
+  Russia               v Slovenia              3-1   @ Attard, Malta
 

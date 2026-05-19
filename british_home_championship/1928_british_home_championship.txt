@@ -1,19 +1,19 @@
 = British Home Championship 1928
 
-# Date       Sat Feb/4 - Sat Nov/17 1928 (287d)
+# Date       Sat Feb 4 - Sat Nov 17 1928 (287d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 4]
-  Northern Ireland - Wales  1-2   @ Belfast, Northern Ireland
-[Sat Feb 25]
-  Scotland - Northern Ireland  0-1   @ Glasgow, Scotland
-[Sat Mar 31]
-  England - Scotland  1-5   @ London, England
-[Mon Oct 22]
-  England - Northern Ireland  2-1   @ Liverpool, England
-[Sat Oct 27]
-  Scotland - Wales  4-2   @ Glasgow, Scotland
-[Sat Nov 17]
-  Wales - England  2-3   @ Swansea, Wales
+Sat Feb 4
+  Northern Ireland     v Wales                 1-2   @ Belfast, Northern Ireland
+Sat Feb 25
+  Scotland             v Northern Ireland      0-1   @ Glasgow, Scotland
+Sat Mar 31
+  England              v Scotland              1-5   @ London, England
+Mon Oct 22
+  England              v Northern Ireland      2-1   @ Liverpool, England
+Sat Oct 27
+  Scotland             v Wales                 4-2   @ Glasgow, Scotland
+Sat Nov 17
+  Wales                v England               2-3   @ Swansea, Wales
 

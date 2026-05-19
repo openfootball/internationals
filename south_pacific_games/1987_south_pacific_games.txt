@@ -1,29 +1,29 @@
 = South Pacific Games 1987
 
-# Date       Wed Dec/9 - Sat Dec/19 1987 (10d)
+# Date       Wed Dec 9 - Sat Dec 19 1987 (10d)
 # Teams      6
 # Matches    16
 
-[Wed Dec 9]
-  New Caledonia - American Samoa  10-0   @ Nouméa, New Caledonia
-  Papua New Guinea - Tahiti  0-0   @ Nouméa, New Caledonia
-  Vanuatu - Wallis Islands and Futuna  6-1   @ Nouméa, New Caledonia
-[Thu Dec 10]
-  American Samoa - Vanuatu  0-7   @ Nouméa, New Caledonia
-  New Caledonia - Papua New Guinea  2-0   @ Nouméa, New Caledonia
-  Tahiti - Wallis Islands and Futuna  4-0   @ Nouméa, New Caledonia
-[Sat Dec 12]
-  American Samoa - Wallis Islands and Futuna  1-5   @ Nouméa, New Caledonia
-  New Caledonia - Tahiti  2-3   @ Nouméa, New Caledonia
-  Papua New Guinea - Vanuatu  1-1   @ Nouméa, New Caledonia
-[Tue Dec 15]
-  American Samoa - Papua New Guinea  0-20   @ Nouméa, New Caledonia
-  New Caledonia - Wallis Islands and Futuna  5-1   @ Nouméa, New Caledonia
-  Tahiti - Vanuatu  2-1   @ Nouméa, New Caledonia
-[Thu Dec 17]
-  New Caledonia - Vanuatu  6-0   @ Nouméa, New Caledonia
-  Papua New Guinea - Wallis Islands and Futuna  2-0   @ Nouméa, New Caledonia
-[Sat Dec 19]
-  New Caledonia - Tahiti  1-0   @ Nouméa, New Caledonia
-  Papua New Guinea - Vanuatu  3-1   @ Nouméa, New Caledonia
+Wed Dec 9
+  New Caledonia        v American Samoa        10-0   @ Nouméa, New Caledonia
+  Papua New Guinea     v Tahiti                0-0   @ Nouméa, New Caledonia
+  Vanuatu              v Wallis Islands and Futuna  6-1   @ Nouméa, New Caledonia
+Thu Dec 10
+  American Samoa       v Vanuatu               0-7   @ Nouméa, New Caledonia
+  New Caledonia        v Papua New Guinea      2-0   @ Nouméa, New Caledonia
+  Tahiti               v Wallis Islands and Futuna  4-0   @ Nouméa, New Caledonia
+Sat Dec 12
+  American Samoa       v Wallis Islands and Futuna  1-5   @ Nouméa, New Caledonia
+  New Caledonia        v Tahiti                2-3   @ Nouméa, New Caledonia
+  Papua New Guinea     v Vanuatu               1-1   @ Nouméa, New Caledonia
+Tue Dec 15
+  American Samoa       v Papua New Guinea      0-20   @ Nouméa, New Caledonia
+  New Caledonia        v Wallis Islands and Futuna  5-1   @ Nouméa, New Caledonia
+  Tahiti               v Vanuatu               2-1   @ Nouméa, New Caledonia
+Thu Dec 17
+  New Caledonia        v Vanuatu               6-0   @ Nouméa, New Caledonia
+  Papua New Guinea     v Wallis Islands and Futuna  2-0   @ Nouméa, New Caledonia
+Sat Dec 19
+  New Caledonia        v Tahiti                1-0   @ Nouméa, New Caledonia
+  Papua New Guinea     v Vanuatu               3-1   @ Nouméa, New Caledonia
 

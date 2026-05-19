@@ -1,26 +1,26 @@
 = CFU Caribbean Cup 1993
 
-# Date       Fri May/21 - Sun May/30 1993 (9d)
+# Date       Fri May 21 - Sun May 30 1993 (9d)
 # Teams      8
 # Matches    14
 
-[Fri May 21]
-  Jamaica - Saint Kitts and Nevis  4-1   @ Kingston, Jamaica
-  Martinique - Saint Lucia  2-0   @ Montego Bay, Jamaica
-  Puerto Rico - Sint Maarten  3-0   @ Kingston, Jamaica
-[Sun May 23]
-  Jamaica - Sint Maarten  2-0   @ Kingston, Jamaica
-  Saint Kitts and Nevis - Puerto Rico  1-0   @ Kingston, Jamaica
-  Trinidad and Tobago - Saint Lucia  1-1   @ Montego Bay, Jamaica
-[Tue May 25]
-  Jamaica - Puerto Rico  1-0   @ Kingston, Jamaica
-  Martinique - Trinidad and Tobago  3-2   @ Montego Bay, Jamaica
-  Saint Kitts and Nevis - Sint Maarten  2-2   @ Kingston, Jamaica
-  Saint Vincent and the Grenadines - Saint Lucia  4-1   @ Montego Bay, Jamaica
-[Fri May 28]
-  Jamaica - Trinidad and Tobago  3-0   @ Kingston, Jamaica
-  Martinique - Saint Kitts and Nevis  1-1   @ Montego Bay, Jamaica   [Martinique wins on penalties]
-[Sun May 30]
-  Jamaica - Martinique  0-0   @ Kingston, Jamaica   [Martinique wins on penalties]
-  Trinidad and Tobago - Saint Kitts and Nevis  3-2   @ Kingston, Jamaica
+Fri May 21
+  Jamaica              v Saint Kitts and Nevis  4-1   @ Kingston, Jamaica
+  Martinique           v Saint Lucia           2-0   @ Montego Bay, Jamaica
+  Puerto Rico          v Sint Maarten          3-0   @ Kingston, Jamaica
+Sun May 23
+  Jamaica              v Sint Maarten          2-0   @ Kingston, Jamaica
+  Saint Kitts and Nevis v Puerto Rico           1-0   @ Kingston, Jamaica
+  Trinidad and Tobago  v Saint Lucia           1-1   @ Montego Bay, Jamaica
+Tue May 25
+  Jamaica              v Puerto Rico           1-0   @ Kingston, Jamaica
+  Martinique           v Trinidad and Tobago   3-2   @ Montego Bay, Jamaica
+  Saint Kitts and Nevis v Sint Maarten          2-2   @ Kingston, Jamaica
+  Saint Vincent and the Grenadines v Saint Lucia           4-1   @ Montego Bay, Jamaica
+Fri May 28
+  Jamaica              v Trinidad and Tobago   3-0   @ Kingston, Jamaica
+  Martinique           v Saint Kitts and Nevis  1-1   @ Montego Bay, Jamaica   [Martinique wins on penalties]
+Sun May 30
+  Jamaica              v Martinique            0-0   @ Kingston, Jamaica   [Martinique wins on penalties]
+  Trinidad and Tobago  v Saint Kitts and Nevis  3-2   @ Kingston, Jamaica
 

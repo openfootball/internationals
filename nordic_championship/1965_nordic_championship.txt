@@ -1,19 +1,19 @@
 = Nordic Championship 1965
 
-# Date       Wed Jun/9 - Sun Oct/31 1965 (144d)
+# Date       Wed Jun 9 - Sun Oct 31 1965 (144d)
 # Teams      4
 # Matches    6
 
-[Wed Jun 9]
-  Denmark - Finland  3-1   @ Copenhagen, Denmark
-[Sun Jun 20]
-  Denmark - Sweden  2-1   @ Copenhagen, Denmark
-[Sun Aug 8]
-  Finland - Norway  4-0   @ Helsinki, Finland
-[Sun Aug 22]
-  Sweden - Finland  2-2   @ Luleå, Sweden
-[Sun Sep 26]
-  Norway - Denmark  2-2   @ Oslo, Norway
-[Sun Oct 31]
-  Sweden - Norway  0-0   @ Solna, Sweden
+Wed Jun 9
+  Denmark              v Finland               3-1   @ Copenhagen, Denmark
+Sun Jun 20
+  Denmark              v Sweden                2-1   @ Copenhagen, Denmark
+Sun Aug 8
+  Finland              v Norway                4-0   @ Helsinki, Finland
+Sun Aug 22
+  Sweden               v Finland               2-2   @ Luleå, Sweden
+Sun Sep 26
+  Norway               v Denmark               2-2   @ Oslo, Norway
+Sun Oct 31
+  Sweden               v Norway                0-0   @ Solna, Sweden
 

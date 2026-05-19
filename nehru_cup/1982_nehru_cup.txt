@@ -1,21 +1,21 @@
 = Nehru Cup 1982
 
-# Date       Tue Feb/16 - Thu Mar/4 1982 (16d)
+# Date       Tue Feb 16 - Thu Mar 4 1982 (16d)
 # Teams      4
 # Matches    7
 
-[Tue Feb 16]
-  India - China PR  1-1   @ Calcutta, India
-[Thu Feb 18]
-  India - South Korea  2-2   @ Calcutta, India
-[Sat Feb 20]
-  South Korea - Uruguay  2-2   @ Calcutta, India
-[Mon Feb 22]
-  China PR - Uruguay  0-0   @ Calcutta, India
-[Thu Feb 25]
-  India - Uruguay  1-3   @ Calcutta, India
-[Mon Mar 1]
-  China PR - South Korea  1-1   @ Calcutta, India
-[Thu Mar 4]
-  China PR - Uruguay  0-2   @ Calcutta, India
+Tue Feb 16
+  India                v China PR              1-1   @ Calcutta, India
+Thu Feb 18
+  India                v South Korea           2-2   @ Calcutta, India
+Sat Feb 20
+  South Korea          v Uruguay               2-2   @ Calcutta, India
+Mon Feb 22
+  China PR             v Uruguay               0-0   @ Calcutta, India
+Thu Feb 25
+  India                v Uruguay               1-3   @ Calcutta, India
+Mon Mar 1
+  China PR             v South Korea           1-1   @ Calcutta, India
+Thu Mar 4
+  China PR             v Uruguay               0-2   @ Calcutta, India
 

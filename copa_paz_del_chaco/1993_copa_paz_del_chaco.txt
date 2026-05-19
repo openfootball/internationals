@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 1993
 
-# Date       Wed Mar/3 - Thu May/27 1993 (85d)
+# Date       Wed Mar 3 - Thu May 27 1993 (85d)
 # Teams      2
 # Matches    2
 
-[Wed Mar 3]
-  Paraguay - Bolivia  1-0   @ Asunción, Paraguay
-[Thu May 27]
-  Bolivia - Paraguay  2-1   @ Cochabamba, Bolivia   [Bolivia wins on penalties]
+Wed Mar 3
+  Paraguay             v Bolivia               1-0   @ Asunción, Paraguay
+Thu May 27
+  Bolivia              v Paraguay              2-1   @ Cochabamba, Bolivia   [Bolivia wins on penalties]
 

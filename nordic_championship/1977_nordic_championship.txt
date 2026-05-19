@@ -1,15 +1,15 @@
 = Nordic Championship 1977
 
-# Date       Thu May/26 - Thu Aug/18 1977 (84d)
+# Date       Thu May 26 - Thu Aug 18 1977 (84d)
 # Teams      4
 # Matches    4
 
-[Thu May 26]
-  Sweden - Norway  1-0   @ Gothenburg, Sweden
-[Wed Jun 15]
-  Denmark - Sweden  2-1   @ Copenhagen, Denmark
-[Wed Jun 22]
-  Finland - Denmark  1-2   @ Helsinki, Finland
-[Thu Aug 18]
-  Norway - Finland  1-1   @ Oslo, Norway
+Thu May 26
+  Sweden               v Norway                1-0   @ Gothenburg, Sweden
+Wed Jun 15
+  Denmark              v Sweden                2-1   @ Copenhagen, Denmark
+Wed Jun 22
+  Finland              v Denmark               1-2   @ Helsinki, Finland
+Thu Aug 18
+  Norway               v Finland               1-1   @ Oslo, Norway
 

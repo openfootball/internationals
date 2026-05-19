@@ -1,16 +1,16 @@
 = King's Cup 2000
 
-# Date       Sun Feb/20 - Sun Feb/27 2000 (7d)
+# Date       Sun Feb 20 - Sun Feb 27 2000 (7d)
 # Teams      4
 # Matches    5
 
-[Sun Feb 20]
-  Thailand - Finland  0-0   @ Bangkok, Thailand
-[Wed Feb 23]
-  Estonia - Finland  2-4   @ Bangkok, Thailand
-  Thailand - Brazil  0-7   @ Bangkok, Thailand
-[Fri Feb 25]
-  Thailand - Estonia  2-1   @ Bangkok, Thailand
-[Sun Feb 27]
-  Thailand - Finland  5-1   @ Bangkok, Thailand
+Sun Feb 20
+  Thailand             v Finland               0-0   @ Bangkok, Thailand
+Wed Feb 23
+  Estonia              v Finland               2-4   @ Bangkok, Thailand
+  Thailand             v Brazil                0-7   @ Bangkok, Thailand
+Fri Feb 25
+  Thailand             v Estonia               2-1   @ Bangkok, Thailand
+Sun Feb 27
+  Thailand             v Finland               5-1   @ Bangkok, Thailand
 

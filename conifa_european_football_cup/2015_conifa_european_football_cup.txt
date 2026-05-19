@@ -1,23 +1,23 @@
 = CONIFA European Football Cup 2015
 
-# Date       Wed Jun/17 - Sun Jun/21 2015 (4d)
+# Date       Wed Jun 17 - Sun Jun 21 2015 (4d)
 # Teams      6
 # Matches    11
 
-[Wed Jun 17]
-  Székely Land - County of Nice  2-3   @ Debrecen, Hungary
-  Padania - Romani people  3-2   @ Debrecen, Hungary
-[Thu Jun 18]
-  Székely Land - Felvidék  1-3   @ Debrecen, Hungary
-  Romani people - Ellan Vannin  1-3   @ Debrecen, Hungary
-[Fri Jun 19]
-  Felvidék - County of Nice  1-4   @ Debrecen, Hungary
-  Padania - Ellan Vannin  1-0   @ Debrecen, Hungary
-  Székely Land - Romani people  2-4   @ Debrecen, Hungary
-[Sat Jun 20]
-  County of Nice - Ellan Vannin  3-1   @ Debrecen, Hungary
-  Padania - Felvidék  5-0   @ Debrecen, Hungary
-[Sun Jun 21]
-  Ellan Vannin - Felvidék  1-1   @ Debrecen, Hungary   [Ellan Vannin wins on penalties]
-  County of Nice - Padania  1-4   @ Debrecen, Hungary
+Wed Jun 17
+  Székely Land         v County of Nice        2-3   @ Debrecen, Hungary
+  Padania              v Romani people         3-2   @ Debrecen, Hungary
+Thu Jun 18
+  Székely Land         v Felvidék              1-3   @ Debrecen, Hungary
+  Romani people        v Ellan Vannin          1-3   @ Debrecen, Hungary
+Fri Jun 19
+  Felvidék             v County of Nice        1-4   @ Debrecen, Hungary
+  Padania              v Ellan Vannin          1-0   @ Debrecen, Hungary
+  Székely Land         v Romani people         2-4   @ Debrecen, Hungary
+Sat Jun 20
+  County of Nice       v Ellan Vannin          3-1   @ Debrecen, Hungary
+  Padania              v Felvidék              5-0   @ Debrecen, Hungary
+Sun Jun 21
+  Ellan Vannin         v Felvidék              1-1   @ Debrecen, Hungary   [Ellan Vannin wins on penalties]
+  County of Nice       v Padania               1-4   @ Debrecen, Hungary
 

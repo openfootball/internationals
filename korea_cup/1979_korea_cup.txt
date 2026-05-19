@@ -1,20 +1,20 @@
 = Korea Cup 1979
 
-# Date       Sat Sep/8 - Sun Sep/16 1979 (8d)
+# Date       Sat Sep 8 - Sun Sep 16 1979 (8d)
 # Teams      7
 # Matches    7
 
-[Sat Sep 8]
-  South Korea - Sudan  8-0   @ Seoul, South Korea
-[Sun Sep 9]
-  Indonesia - Thailand  0-2   @ Seoul, South Korea
-[Mon Sep 10]
-  Bangladesh - Sudan  1-4   @ Seoul, South Korea
-[Wed Sep 12]
-  South Korea - Sri Lanka  6-0   @ Daegu, South Korea
-[Fri Sep 14]
-  South Korea - Bahrain  5-1   @ Chungju, South Korea
-[Sun Sep 16]
-  South Korea - Bangladesh  9-0   @ Incheon, South Korea
-  Sri Lanka - Sudan  0-1   @ Incheon, South Korea
+Sat Sep 8
+  South Korea          v Sudan                 8-0   @ Seoul, South Korea
+Sun Sep 9
+  Indonesia            v Thailand              0-2   @ Seoul, South Korea
+Mon Sep 10
+  Bangladesh           v Sudan                 1-4   @ Seoul, South Korea
+Wed Sep 12
+  South Korea          v Sri Lanka             6-0   @ Daegu, South Korea
+Fri Sep 14
+  South Korea          v Bahrain               5-1   @ Chungju, South Korea
+Sun Sep 16
+  South Korea          v Bangladesh            9-0   @ Incheon, South Korea
+  Sri Lanka            v Sudan                 0-1   @ Incheon, South Korea
 

@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1955
 
-# Date       Sun Nov/13 - Thu Nov/17 1955 (4d)
+# Date       Sun Nov 13 - Thu Nov 17 1955 (4d)
 # Teams      2
 # Matches    2
 
-[Sun Nov 13]
-  Brazil - Paraguay  3-0   @ Rio de Janeiro, Brazil
-[Thu Nov 17]
-  Brazil - Paraguay  3-3   @ Rio de Janeiro, Brazil
+Sun Nov 13
+  Brazil               v Paraguay              3-0   @ Rio de Janeiro, Brazil
+Thu Nov 17
+  Brazil               v Paraguay              3-3   @ Rio de Janeiro, Brazil
 

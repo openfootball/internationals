@@ -1,13 +1,13 @@
 = Beijing International Friendship Tournament 1982
 
-# Date       Wed Jul/21 - Sun Jul/25 1982 (4d)
+# Date       Wed Jul 21 - Sun Jul 25 1982 (4d)
 # Teams      3
 # Matches    3
 
-[Wed Jul 21]
-  China PR - Hong Kong  2-0   @ Beijing, China PR
-[Fri Jul 23]
-  China PR - Morocco  3-3   @ Beijing, China PR
-[Sun Jul 25]
-  Hong Kong - Morocco  0-0   @ Beijing, China PR
+Wed Jul 21
+  China PR             v Hong Kong             2-0   @ Beijing, China PR
+Fri Jul 23
+  China PR             v Morocco               3-3   @ Beijing, China PR
+Sun Jul 25
+  Hong Kong            v Morocco               0-0   @ Beijing, China PR
 

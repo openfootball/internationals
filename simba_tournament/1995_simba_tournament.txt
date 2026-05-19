@@ -1,16 +1,16 @@
 = Simba Tournament 1995
 
-# Date       Wed Nov/22 - Sun Nov/26 1995 (4d)
+# Date       Wed Nov 22 - Sun Nov 26 1995 (4d)
 # Teams      4
 # Matches    6
 
-[Wed Nov 22]
-  Egypt - Zimbabwe  2-2   @ Pretoria, South Africa
-  South Africa - Zambia  2-2   @ Pretoria, South Africa
-[Fri Nov 24]
-  South Africa - Egypt  2-0   @ Mafikeng, South Africa
-  Zambia - Zimbabwe  1-1   @ Mmabatho, South Africa
-[Sun Nov 26]
-  Egypt - Zambia  3-1   @ Johannesburg, South Africa
-  South Africa - Zimbabwe  2-0   @ Johannesburg, South Africa
+Wed Nov 22
+  Egypt                v Zimbabwe              2-2   @ Pretoria, South Africa
+  South Africa         v Zambia                2-2   @ Pretoria, South Africa
+Fri Nov 24
+  South Africa         v Egypt                 2-0   @ Mafikeng, South Africa
+  Zambia               v Zimbabwe              1-1   @ Mmabatho, South Africa
+Sun Nov 26
+  Egypt                v Zambia                3-1   @ Johannesburg, South Africa
+  South Africa         v Zimbabwe              2-0   @ Johannesburg, South Africa
 

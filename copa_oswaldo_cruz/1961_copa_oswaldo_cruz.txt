@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1961
 
-# Date       Sun Apr/30 - Wed May/3 1961 (3d)
+# Date       Sun Apr 30 - Wed May 3 1961 (3d)
 # Teams      2
 # Matches    2
 
-[Sun Apr 30]
-  Paraguay - Brazil  0-2   @ Asunción, Paraguay
-[Wed May 3]
-  Paraguay - Brazil  2-3   @ Asunción, Paraguay
+Sun Apr 30
+  Paraguay             v Brazil                0-2   @ Asunción, Paraguay
+Wed May 3
+  Paraguay             v Brazil                2-3   @ Asunción, Paraguay
 

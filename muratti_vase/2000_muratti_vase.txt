@@ -1,11 +1,11 @@
 = Muratti Vase 2000
 
-# Date       Sat Mar/25 - Mon May/1 2000 (37d)
+# Date       Sat Mar 25 - Mon May 1 2000 (37d)
 # Teams      3
 # Matches    2
 
-[Sat Mar 25]
-  Alderney - Jersey  0-10   @ Alderney, Alderney
-[Mon May 1]
-  Jersey - Guernsey  1-0   @ St Helier, Jersey
+Sat Mar 25
+  Alderney             v Jersey                0-10   @ Alderney, Alderney
+Mon May 1
+  Jersey               v Guernsey              1-0   @ St Helier, Jersey
 

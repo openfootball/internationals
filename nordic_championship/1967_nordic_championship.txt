@@ -1,17 +1,17 @@
 = Nordic Championship 1967
 
-# Date       Thu Jun/1 - Sun Oct/22 1967 (143d)
+# Date       Thu Jun 1 - Sun Oct 22 1967 (143d)
 # Teams      4
 # Matches    5
 
-[Thu Jun 1]
-  Finland - Norway  0-2   @ Helsinki, Finland
-[Sun Jun 25]
-  Denmark - Sweden  1-1   @ Copenhagen, Denmark
-[Thu Aug 10]
-  Sweden - Finland  2-0   @ Solna, Sweden
-[Sun Sep 24]
-  Norway - Denmark  0-5   @ Oslo, Norway
-[Sun Oct 22]
-  Denmark - Finland  3-0   @ Copenhagen, Denmark
+Thu Jun 1
+  Finland              v Norway                0-2   @ Helsinki, Finland
+Sun Jun 25
+  Denmark              v Sweden                1-1   @ Copenhagen, Denmark
+Thu Aug 10
+  Sweden               v Finland               2-0   @ Solna, Sweden
+Sun Sep 24
+  Norway               v Denmark               0-5   @ Oslo, Norway
+Sun Oct 22
+  Denmark              v Finland               3-0   @ Copenhagen, Denmark
 

@@ -1,13 +1,13 @@
 = Kirin Cup 1995
 
-# Date       Sun May/21 - Sun May/28 1995 (7d)
+# Date       Sun May 21 - Sun May 28 1995 (7d)
 # Teams      3
 # Matches    3
 
-[Sun May 21]
-  Japan - Scotland  0-0   @ Hiroshima, Japan
-[Wed May 24]
-  Ecuador - Scotland  1-2   @ Toyama, Japan
-[Sun May 28]
-  Japan - Ecuador  3-0   @ Tokyo, Japan
+Sun May 21
+  Japan                v Scotland              0-0   @ Hiroshima, Japan
+Wed May 24
+  Ecuador              v Scotland              1-2   @ Toyama, Japan
+Sun May 28
+  Japan                v Ecuador               3-0   @ Tokyo, Japan
 

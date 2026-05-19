@@ -1,11 +1,11 @@
 = Copa Paz del Chaco 2011
 
-# Date       Sat Jun/4 - Tue Jun/7 2011 (3d)
+# Date       Sat Jun 4 - Tue Jun 7 2011 (3d)
 # Teams      2
 # Matches    2
 
-[Sat Jun 4]
-  Bolivia - Paraguay  0-2   @ Santa Cruz, Bolivia
-[Tue Jun 7]
-  Paraguay - Bolivia  0-0   @ Luque, Paraguay
+Sat Jun 4
+  Bolivia              v Paraguay              0-2   @ Santa Cruz, Bolivia
+Tue Jun 7
+  Paraguay             v Bolivia               0-0   @ Luque, Paraguay
 

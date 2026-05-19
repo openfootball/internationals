@@ -1,31 +1,31 @@
 = COSAFA Cup 2003
 
-# Date       Sat Feb/22 - Sun Oct/5 2003 (225d)
+# Date       Sat Feb 22 - Sun Oct 5 2003 (225d)
 # Teams      12
 # Matches    12
 
-[Sat Feb 22]
-  Madagascar - Mauritius  2-1   @ Antananarivo, Madagascar
-[Sat Mar 15]
-  Namibia - Botswana  0-1   @ Windhoek, Namibia
-[Sat Mar 22]
-  Mozambique - Lesotho  0-0   @ Maputo, Mozambique   [Mozambique wins on penalties]
-[Sun Apr 20]
-  Zimbabwe - Angola  1-0   @ Harare, Zimbabwe
-[Sat May 24]
-  Botswana - Malawi  1-1   @ Gaborone, Botswana   [Malawi wins on penalties]
-[Sun Jul 13]
-  Eswatini - Madagascar  2-0   @ Lobamba, Swaziland
-[Sat Jul 19]
-  South Africa - Zimbabwe  0-1   @ East London, South Africa
-[Sun Jul 27]
-  Zambia - Mozambique  4-2   @ Lusaka, Zambia
-[Sat Aug 16]
-  Malawi - Zambia  1-1   @ Blantyre, Malawi   [Malawi wins on penalties]
-[Sun Aug 31]
-  Zimbabwe - Eswatini  2-0   @ Bulawayo, Zimbabwe
-[Sat Sep 27]
-  Malawi - Zimbabwe  1-2   @ Blantyre, Malawi
-[Sun Oct 5]
-  Zimbabwe - Malawi  2-0   @ Harare, Zimbabwe
+Sat Feb 22
+  Madagascar           v Mauritius             2-1   @ Antananarivo, Madagascar
+Sat Mar 15
+  Namibia              v Botswana              0-1   @ Windhoek, Namibia
+Sat Mar 22
+  Mozambique           v Lesotho               0-0   @ Maputo, Mozambique   [Mozambique wins on penalties]
+Sun Apr 20
+  Zimbabwe             v Angola                1-0   @ Harare, Zimbabwe
+Sat May 24
+  Botswana             v Malawi                1-1   @ Gaborone, Botswana   [Malawi wins on penalties]
+Sun Jul 13
+  Eswatini             v Madagascar            2-0   @ Lobamba, Swaziland
+Sat Jul 19
+  South Africa         v Zimbabwe              0-1   @ East London, South Africa
+Sun Jul 27
+  Zambia               v Mozambique            4-2   @ Lusaka, Zambia
+Sat Aug 16
+  Malawi               v Zambia                1-1   @ Blantyre, Malawi   [Malawi wins on penalties]
+Sun Aug 31
+  Zimbabwe             v Eswatini              2-0   @ Bulawayo, Zimbabwe
+Sat Sep 27
+  Malawi               v Zimbabwe              1-2   @ Blantyre, Malawi
+Sun Oct 5
+  Zimbabwe             v Malawi                2-0   @ Harare, Zimbabwe
 

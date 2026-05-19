@@ -1,51 +1,51 @@
 = Asian Games 1982
 
-# Date       Sat Nov/20 - Fri Dec/3 1982 (13d)
+# Date       Sat Nov 20 - Fri Dec 3 1982 (13d)
 # Teams      16
 # Matches    32
 
-[Sat Nov 20]
-  North Korea - Syria  1-1   @ New Delhi, India
-  Saudi Arabia - Thailand  1-0   @ New Delhi, India
-  China PR - Malaysia  1-0   @ New Delhi, India
-  India - Bangladesh  2-0   @ New Delhi, India
-[Sun Nov 21]
-  Kuwait - Nepal  3-1   @ New Delhi, India
-  Iraq - Myanmar  4-0   @ New Delhi, India
-  Japan - Iran  1-0   @ New Delhi, India
-  South Korea - South Yemen  3-0   @ New Delhi, India
-[Mon Nov 22]
-  North Korea - Thailand  3-0   @ New Delhi, India
-  Saudi Arabia - Syria  1-1   @ New Delhi, India
-  India - Malaysia  1-0   @ New Delhi, India
-  China PR - Bangladesh  1-0   @ New Delhi, India
-[Tue Nov 23]
-  Kuwait - Myanmar  4-0   @ New Delhi, India
-  Iraq - Nepal  3-0   @ New Delhi, India
-  South Korea - Iran  0-1   @ New Delhi, India
-  Japan - South Yemen  3-1   @ New Delhi, India
-[Wed Nov 24]
-  North Korea - Saudi Arabia  2-2   @ New Delhi, India
-  Thailand - Syria  3-1   @ New Delhi, India
-  India - China PR  2-2   @ New Delhi, India
-  Malaysia - Bangladesh  1-2   @ New Delhi, India
-[Thu Nov 25]
-  Iraq - Kuwait  1-2   @ New Delhi, India
-  Myanmar - Nepal  3-0   @ New Delhi, India
-  South Korea - Japan  1-2   @ New Delhi, India
-  Iran - South Yemen  2-0   @ New Delhi, India
-[Sat Nov 27]
-  North Korea - China PR  1-0   @ New Delhi, India
-  India - Saudi Arabia  0-1   @ New Delhi, India
-[Sun Nov 28]
-  Japan - Iraq  0-1   @ New Delhi, India
-  Kuwait - Iran  1-0   @ New Delhi, India
-[Tue Nov 30]
-  North Korea - Kuwait  2-3   @ New Delhi, India
-[Wed Dec 1]
-  Saudi Arabia - Iraq  0-1   @ New Delhi, India
-[Thu Dec 2]
-  North Korea - Saudi Arabia  0-2   @ New Delhi, India
-[Fri Dec 3]
-  Kuwait - Iraq  0-1   @ New Delhi, India
+Sat Nov 20
+  North Korea          v Syria                 1-1   @ New Delhi, India
+  Saudi Arabia         v Thailand              1-0   @ New Delhi, India
+  China PR             v Malaysia              1-0   @ New Delhi, India
+  India                v Bangladesh            2-0   @ New Delhi, India
+Sun Nov 21
+  Kuwait               v Nepal                 3-1   @ New Delhi, India
+  Iraq                 v Myanmar               4-0   @ New Delhi, India
+  Japan                v Iran                  1-0   @ New Delhi, India
+  South Korea          v South Yemen           3-0   @ New Delhi, India
+Mon Nov 22
+  North Korea          v Thailand              3-0   @ New Delhi, India
+  Saudi Arabia         v Syria                 1-1   @ New Delhi, India
+  India                v Malaysia              1-0   @ New Delhi, India
+  China PR             v Bangladesh            1-0   @ New Delhi, India
+Tue Nov 23
+  Kuwait               v Myanmar               4-0   @ New Delhi, India
+  Iraq                 v Nepal                 3-0   @ New Delhi, India
+  South Korea          v Iran                  0-1   @ New Delhi, India
+  Japan                v South Yemen           3-1   @ New Delhi, India
+Wed Nov 24
+  North Korea          v Saudi Arabia          2-2   @ New Delhi, India
+  Thailand             v Syria                 3-1   @ New Delhi, India
+  India                v China PR              2-2   @ New Delhi, India
+  Malaysia             v Bangladesh            1-2   @ New Delhi, India
+Thu Nov 25
+  Iraq                 v Kuwait                1-2   @ New Delhi, India
+  Myanmar              v Nepal                 3-0   @ New Delhi, India
+  South Korea          v Japan                 1-2   @ New Delhi, India
+  Iran                 v South Yemen           2-0   @ New Delhi, India
+Sat Nov 27
+  North Korea          v China PR              1-0   @ New Delhi, India
+  India                v Saudi Arabia          0-1   @ New Delhi, India
+Sun Nov 28
+  Japan                v Iraq                  0-1   @ New Delhi, India
+  Kuwait               v Iran                  1-0   @ New Delhi, India
+Tue Nov 30
+  North Korea          v Kuwait                2-3   @ New Delhi, India
+Wed Dec 1
+  Saudi Arabia         v Iraq                  0-1   @ New Delhi, India
+Thu Dec 2
+  North Korea          v Saudi Arabia          0-2   @ New Delhi, India
+Fri Dec 3
+  Kuwait               v Iraq                  0-1   @ New Delhi, India
 

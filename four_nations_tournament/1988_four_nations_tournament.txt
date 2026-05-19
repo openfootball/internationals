@@ -1,13 +1,13 @@
 = Four Nations Tournament 1988
 
-# Date       Thu Mar/31 - Sat Apr/2 1988 (2d)
+# Date       Thu Mar 31 - Sat Apr 2 1988 (2d)
 # Teams      4
 # Matches    4
 
-[Thu Mar 31]
-  Argentina - Russia  2-4   @ Berlin, Germany
-  Germany - Sweden  1-1   @ Berlin, Germany   [Sweden wins on penalties]
-[Sat Apr 2]
-  Germany - Argentina  1-0   @ Berlin, Germany
-  Sweden - Russia  2-0   @ Berlin, Germany
+Thu Mar 31
+  Argentina            v Russia                2-4   @ Berlin, Germany
+  Germany              v Sweden                1-1   @ Berlin, Germany   [Sweden wins on penalties]
+Sat Apr 2
+  Germany              v Argentina             1-0   @ Berlin, Germany
+  Sweden               v Russia                2-0   @ Berlin, Germany
 

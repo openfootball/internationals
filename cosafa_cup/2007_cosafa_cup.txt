@@ -1,30 +1,30 @@
 = COSAFA Cup 2007
 
-# Date       Sat Apr/28 - Wed Oct/24 2007 (179d)
+# Date       Sat Apr 28 - Wed Oct 24 2007 (179d)
 # Teams      13
 # Matches    15
 
-[Sat Apr 28]
-  Madagascar - Zimbabwe  0-1   @ Maputo, Mozambique
-  Mozambique - Seychelles  2-0   @ Maputo, Mozambique
-[Sun Apr 29]
-  Madagascar - Seychelles  5-0   @ Maputo, Mozambique
-  Mozambique - Zimbabwe  0-0   @ Maputo, Mozambique   [Mozambique wins on penalties]
-[Sat May 26]
-  Malawi - South Africa  0-0   @ Lobamba, Swaziland   [South Africa wins on penalties]
-  Eswatini - Mauritius  0-0   @ Lobamba, Swaziland   [Mauritius wins on penalties]
-[Sun May 27]
-  Mauritius - South Africa  0-2   @ Lobamba, Swaziland
-  Eswatini - Malawi  1-0   @ Lobamba, Swaziland
-[Sat Jul 28]
-  Angola - Lesotho  2-0   @ Gaborone, Botswana
-  Botswana - Namibia  1-0   @ Gaborone, Botswana
-[Sun Jul 29]
-  Botswana - Angola  0-0   @ Gaborone, Botswana   [Botswana wins on penalties]
-  Lesotho - Namibia  2-3   @ Gaborone, Botswana
-[Sat Sep 29]
-  Mozambique - Zambia  0-3   @ Atteridgeville, South Africa
-  South Africa - Botswana  1-0   @ Atteridgeville, South Africa
-[Wed Oct 24]
-  South Africa - Zambia  0-0   @ Bloemfontein, South Africa   [South Africa wins on penalties]
+Sat Apr 28
+  Madagascar           v Zimbabwe              0-1   @ Maputo, Mozambique
+  Mozambique           v Seychelles            2-0   @ Maputo, Mozambique
+Sun Apr 29
+  Madagascar           v Seychelles            5-0   @ Maputo, Mozambique
+  Mozambique           v Zimbabwe              0-0   @ Maputo, Mozambique   [Mozambique wins on penalties]
+Sat May 26
+  Malawi               v South Africa          0-0   @ Lobamba, Swaziland   [South Africa wins on penalties]
+  Eswatini             v Mauritius             0-0   @ Lobamba, Swaziland   [Mauritius wins on penalties]
+Sun May 27
+  Mauritius            v South Africa          0-2   @ Lobamba, Swaziland
+  Eswatini             v Malawi                1-0   @ Lobamba, Swaziland
+Sat Jul 28
+  Angola               v Lesotho               2-0   @ Gaborone, Botswana
+  Botswana             v Namibia               1-0   @ Gaborone, Botswana
+Sun Jul 29
+  Botswana             v Angola                0-0   @ Gaborone, Botswana   [Botswana wins on penalties]
+  Lesotho              v Namibia               2-3   @ Gaborone, Botswana
+Sat Sep 29
+  Mozambique           v Zambia                0-3   @ Atteridgeville, South Africa
+  South Africa         v Botswana              1-0   @ Atteridgeville, South Africa
+Wed Oct 24
+  South Africa         v Zambia                0-0   @ Bloemfontein, South Africa   [South Africa wins on penalties]
 

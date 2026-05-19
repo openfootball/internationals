@@ -1,50 +1,50 @@
 = Oceania Nations Cup 2016
 
-# Date       Sat May/28 - Sat Jun/11 2016 (14d)
+# Date       Sat May 28 - Sat Jun 11 2016 (14d)
 # Teams      8
 # Matches    15
 
-[Sat May 28]
-  New Zealand - Fiji  3-1   @ Port Moresby, Papua New Guinea
-     Themistoklis Tzimopoulos 16' Rory Fallon 41' Chris Wood 61' (pen.);
-     Roy Krishna 45' (pen.)
-  Vanuatu - Solomon Islands  0-1   @ Port Moresby, Papua New Guinea
-     -; Jerry Donga 19'
-[Sun May 29]
-  Papua New Guinea - New Caledonia  1-1   @ Port Moresby, Papua New Guinea
-     Tommy Semmy 41';
-     Jean-Philippe Saïko 83'
-  Tahiti - Samoa  4-0   @ Port Moresby, Papua New Guinea
-     Teaonui Tehau 2' Teaonui Tehau 5' Steevy Chong Hue 15' Alvin Tehau 39'
-[Tue May 31]
-  Solomon Islands - Fiji  0-1   @ Port Moresby, Papua New Guinea
-     -; Roy Krishna 85' (pen.)
-  Vanuatu - New Zealand  0-5   @ Port Moresby, Papua New Guinea
-     -; Chris Wood 4' Chris Wood 5' Michael McGlinchey 10' Rory Fallon 19' Kosta Barbarouses 45'
-[Wed Jun 1]
-  New Caledonia - Samoa  7-0   @ Port Moresby, Papua New Guinea
-     Roy Kayara 18' Kevin Nemia 28' Roy Kayara 30' César Zeoula 38' (pen.) Jean-Brice Wadriako 53' Joerisse Cexome 79' Brice Dahité 89' (pen.)
-  Papua New Guinea - Tahiti  2-2   @ Port Moresby, Papua New Guinea
-     Raymond Gunemba 45' Raymond Gunemba 64';
-     Alvin Tehau 66' Teaonui Tehau 76'
-[Sat Jun 4]
-  Fiji - Vanuatu  2-3   @ Port Moresby, Papua New Guinea
-     Samuela Kautoga 51' Roy Krishna 69';
-     Dominique Fred 19' Fenedy Masauvakalo 41' Brian Kaltak 75' (pen.)
-  New Zealand - Solomon Islands  1-0   @ Port Moresby, Papua New Guinea
-     Luke Adams 80'
-[Sun Jun 5]
-  Papua New Guinea - Samoa  8-0   @ Port Moresby, Papua New Guinea
-     Michael Foster 13' Raymond Gunemba 33' Michael Foster 51' Nigel Dabinyaba 58' Raymond Gunemba 63' Koriak Upaiga 67' Nigel Dabinyaba 74' Raymond Gunemba 85'
-  Tahiti - New Caledonia  1-1   @ Port Moresby, Papua New Guinea
-     Teaonui Tehau 90';
-     Bertrand Kaï 80'
-[Wed Jun 8]
-  New Zealand - New Caledonia  1-0   @ Port Moresby, Papua New Guinea
-     Chris Wood 49'
-  Papua New Guinea - Solomon Islands  2-1   @ Port Moresby, Papua New Guinea
-     Michael Foster 38' Nigel Dabinyaba 82';
-     Judd Molea 41'
-[Sat Jun 11]
-  Papua New Guinea - New Zealand  0-0   @ Port Moresby, Papua New Guinea   [New Zealand wins on penalties]
+Sat May 28
+  New Zealand          v Fiji                  3-1   @ Port Moresby, Papua New Guinea
+     (Themistoklis Tzimopoulos 16' Rory Fallon 41' Chris Wood 61'(p);
+      Roy Krishna 45'(p))
+  Vanuatu              v Solomon Islands       0-1   @ Port Moresby, Papua New Guinea
+     (Jerry Donga 19')
+Sun May 29
+  Papua New Guinea     v New Caledonia         1-1   @ Port Moresby, Papua New Guinea
+     (Tommy Semmy 41';
+      Jean-Philippe Saïko 83')
+  Tahiti               v Samoa                 4-0   @ Port Moresby, Papua New Guinea
+     (Teaonui Tehau 2' Teaonui Tehau 5' Steevy Chong Hue 15' Alvin Tehau 39')
+Tue May 31
+  Solomon Islands      v Fiji                  0-1   @ Port Moresby, Papua New Guinea
+     (Roy Krishna 85'(p))
+  Vanuatu              v New Zealand           0-5   @ Port Moresby, Papua New Guinea
+     (Chris Wood 4' Chris Wood 5' Michael McGlinchey 10' Rory Fallon 19' Kosta Barbarouses 45')
+Wed Jun 1
+  New Caledonia        v Samoa                 7-0   @ Port Moresby, Papua New Guinea
+     (Roy Kayara 18' Kevin Nemia 28' Roy Kayara 30' César Zeoula 38'(p) Jean-Brice Wadriako 53' Joerisse Cexome 79' Brice Dahité 89'(p))
+  Papua New Guinea     v Tahiti                2-2   @ Port Moresby, Papua New Guinea
+     (Raymond Gunemba 45' Raymond Gunemba 64';
+      Alvin Tehau 66' Teaonui Tehau 76')
+Sat Jun 4
+  Fiji                 v Vanuatu               2-3   @ Port Moresby, Papua New Guinea
+     (Samuela Kautoga 51' Roy Krishna 69';
+      Dominique Fred 19' Fenedy Masauvakalo 41' Brian Kaltak 75'(p))
+  New Zealand          v Solomon Islands       1-0   @ Port Moresby, Papua New Guinea
+     (Luke Adams 80')
+Sun Jun 5
+  Papua New Guinea     v Samoa                 8-0   @ Port Moresby, Papua New Guinea
+     (Michael Foster 13' Raymond Gunemba 33' Michael Foster 51' Nigel Dabinyaba 58' Raymond Gunemba 63' Koriak Upaiga 67' Nigel Dabinyaba 74' Raymond Gunemba 85')
+  Tahiti               v New Caledonia         1-1   @ Port Moresby, Papua New Guinea
+     (Teaonui Tehau 90';
+      Bertrand Kaï 80')
+Wed Jun 8
+  New Zealand          v New Caledonia         1-0   @ Port Moresby, Papua New Guinea
+     (Chris Wood 49')
+  Papua New Guinea     v Solomon Islands       2-1   @ Port Moresby, Papua New Guinea
+     (Michael Foster 38' Nigel Dabinyaba 82';
+      Judd Molea 41')
+Sat Jun 11
+  Papua New Guinea     v New Zealand           0-0   @ Port Moresby, Papua New Guinea   [New Zealand wins on penalties]
 

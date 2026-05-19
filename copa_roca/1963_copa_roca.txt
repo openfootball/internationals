@@ -1,11 +1,11 @@
 = Copa Roca 1963
 
-# Date       Sat Apr/13 - Tue Apr/16 1963 (3d)
+# Date       Sat Apr 13 - Tue Apr 16 1963 (3d)
 # Teams      2
 # Matches    2
 
-[Sat Apr 13]
-  Brazil - Argentina  2-3   @ São Paulo, Brazil
-[Tue Apr 16]
-  Brazil - Argentina  5-2   @ Rio de Janeiro, Brazil
+Sat Apr 13
+  Brazil               v Argentina             2-3   @ São Paulo, Brazil
+Tue Apr 16
+  Brazil               v Argentina             5-2   @ Rio de Janeiro, Brazil
 

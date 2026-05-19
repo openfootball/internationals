@@ -1,13 +1,13 @@
 = Balkan Cup 1936
 
-# Date       Sun May/17 - Sun May/24 1936 (7d)
+# Date       Sun May 17 - Sun May 24 1936 (7d)
 # Teams      3
 # Matches    3
 
-[Sun May 17]
-  Romania - Greece  5-2   @ Bucharest, Romania
-[Thu May 21]
-  Bulgaria - Greece  5-4   @ Bucharest, Romania
-[Sun May 24]
-  Romania - Bulgaria  4-1   @ Bucharest, Romania
+Sun May 17
+  Romania              v Greece                5-2   @ Bucharest, Romania
+Thu May 21
+  Bulgaria             v Greece                5-4   @ Bucharest, Romania
+Sun May 24
+  Romania              v Bulgaria              4-1   @ Bucharest, Romania
 

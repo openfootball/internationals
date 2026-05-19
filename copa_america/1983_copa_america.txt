@@ -1,82 +1,82 @@
 = Copa América 1983
 
-# Date       Wed Aug/10 - Fri Nov/4 1983 (86d)
+# Date       Wed Aug 10 - Fri Nov 4 1983 (86d)
 # Teams      10
 # Matches    24
 
-[Wed Aug 10]
-  Ecuador - Argentina  2-2   @ Quito, Ecuador
-     Galo Fidean Vásquez 68' José Jacinto Vega 89';
-     Jorge Burruchaga 40' Jorge Burruchaga 51'
-[Sun Aug 14]
-  Bolivia - Colombia  0-1   @ La Paz, Bolivia
-     -; Alex Valderrama 73'
-[Wed Aug 17]
-  Ecuador - Brazil  0-1   @ Quito, Ecuador
-     -; Roberto Dinamite 14'
-  Peru - Colombia  1-0   @ Lima, Peru
-     Franco Navarro 77'
-[Sun Aug 21]
-  Bolivia - Peru  1-1   @ La Paz, Bolivia
-     Erwin Romero 65';
-     Franco Navarro 89'
-[Wed Aug 24]
-  Argentina - Brazil  1-0   @ Buenos Aires, Argentina
-     Ricardo Gareca 55'
-[Sun Aug 28]
-  Colombia - Peru  2-2   @ Bogotá, Colombia
-     Miguel Augusto Prince 46' Fernando Fiorillo 69';
-     Eduardo Malásquez 25' (pen.) Juan Caballero 85'
-[Wed Aug 31]
-  Colombia - Bolivia  2-2   @ Bogotá, Colombia
-     Alex Valderrama 2' Nolberto Molina 60' (pen.);
-     José Milton Melgar 78' Silvio Rojas 80'
-[Thu Sep 1]
-  Brazil - Ecuador  5-0   @ Goiânia, Brazil
-     Renato Gaúcho 12' Roberto Dinamite 46' Roberto Dinamite 55' Éder Aleixo de Assis 58' Tita 60'
-  Uruguay - Chile  2-1   @ Montevideo, Uruguay
-     Eduardo Mario Acevedo 45' Fernando Morena 63' (pen.);
-     Juan Carlos Orellana 76'
-[Sun Sep 4]
-  Peru - Bolivia  2-1   @ Lima, Peru
-     Germán Leguía 6' Juan Caballero 21';
-     David Paniagua 46'
-  Uruguay - Venezuela  3-0   @ Montevideo, Uruguay
-     Wilmar Cabrera 29' Fernando Morena 57' (pen.) Arsenio Luzardo 68'
-[Wed Sep 7]
-  Argentina - Ecuador  2-2   @ Buenos Aires, Argentina
-     Víctor Rogelio Ramos 50' Jorge Burruchaga 90' (pen.);
-     Lupo Quiñónez 44' Hans Maldonado 90' (pen.)
-[Thu Sep 8]
-  Chile - Venezuela  5-0   @ Santiago, Chile
-     Oscar Arriaza 22' Rodolfo Dubó 25' Jorge Orlando Aravena Plaza 35' Rubén Espinoza 51' Jorge Orlando Aravena Plaza 83'
-[Sun Sep 11]
-  Chile - Uruguay  2-0   @ Santiago, Chile
-     Rodolfo Dubó 9' Juan Carlos Letelier 80'
-[Wed Sep 14]
-  Brazil - Argentina  0-0   @ Rio de Janeiro, Brazil
-[Sun Sep 18]
-  Venezuela - Uruguay  1-2   @ Caracas, Venezuela
-     Pedro Febles 77';
-     Alberto Santelli 74' Carlos Aguilera 87'
-[Wed Sep 21]
-  Venezuela - Chile  0-0   @ Caracas, Venezuela
-[Thu Oct 13]
-  Paraguay - Brazil  1-1   @ Asunción, Paraguay
-     Milciades Morel 70';
-     Éder Aleixo de Assis 88'
-  Peru - Uruguay  0-1   @ Lima, Peru
-     -; Carlos Aguilera 65'
-[Thu Oct 20]
-  Brazil - Paraguay  0-0   @ Uberlândia, Brazil
-  Uruguay - Peru  1-1   @ Montevideo, Uruguay
-     Wilmar Cabrera 49';
-     Eduardo Malásquez 24'
-[Thu Oct 27]
-  Uruguay - Brazil  2-0   @ Montevideo, Uruguay
-     Enzo Francescoli 41' Víctor Diogo 80'
-[Fri Nov 4]
-  Brazil - Uruguay  1-1   @ Salvador, Brazil
-     Jorginho Putinatti 23';
-     Carlos Aguilera 77'
+Wed Aug 10
+  Ecuador              v Argentina             2-2   @ Quito, Ecuador
+     (Galo Fidean Vásquez 68' José Jacinto Vega 89';
+      Jorge Burruchaga 40' Jorge Burruchaga 51')
+Sun Aug 14
+  Bolivia              v Colombia              0-1   @ La Paz, Bolivia
+     (Alex Valderrama 73')
+Wed Aug 17
+  Ecuador              v Brazil                0-1   @ Quito, Ecuador
+     (Roberto Dinamite 14')
+  Peru                 v Colombia              1-0   @ Lima, Peru
+     (Franco Navarro 77')
+Sun Aug 21
+  Bolivia              v Peru                  1-1   @ La Paz, Bolivia
+     (Erwin Romero 65';
+      Franco Navarro 89')
+Wed Aug 24
+  Argentina            v Brazil                1-0   @ Buenos Aires, Argentina
+     (Ricardo Gareca 55')
+Sun Aug 28
+  Colombia             v Peru                  2-2   @ Bogotá, Colombia
+     (Miguel Augusto Prince 46' Fernando Fiorillo 69';
+      Eduardo Malásquez 25'(p) Juan Caballero 85')
+Wed Aug 31
+  Colombia             v Bolivia               2-2   @ Bogotá, Colombia
+     (Alex Valderrama 2' Nolberto Molina 60'(p);
+      José Milton Melgar 78' Silvio Rojas 80')
+Thu Sep 1
+  Brazil               v Ecuador               5-0   @ Goiânia, Brazil
+     (Renato Gaúcho 12' Roberto Dinamite 46' Roberto Dinamite 55' Éder Aleixo de Assis 58' Tita 60')
+  Uruguay              v Chile                 2-1   @ Montevideo, Uruguay
+     (Eduardo Mario Acevedo 45' Fernando Morena 63'(p);
+      Juan Carlos Orellana 76')
+Sun Sep 4
+  Peru                 v Bolivia               2-1   @ Lima, Peru
+     (Germán Leguía 6' Juan Caballero 21';
+      David Paniagua 46')
+  Uruguay              v Venezuela             3-0   @ Montevideo, Uruguay
+     (Wilmar Cabrera 29' Fernando Morena 57'(p) Arsenio Luzardo 68')
+Wed Sep 7
+  Argentina            v Ecuador               2-2   @ Buenos Aires, Argentina
+     (Víctor Rogelio Ramos 50' Jorge Burruchaga 90'(p);
+      Lupo Quiñónez 44' Hans Maldonado 90'(p))
+Thu Sep 8
+  Chile                v Venezuela             5-0   @ Santiago, Chile
+     (Oscar Arriaza 22' Rodolfo Dubó 25' Jorge Orlando Aravena Plaza 35' Rubén Espinoza 51' Jorge Orlando Aravena Plaza 83')
+Sun Sep 11
+  Chile                v Uruguay               2-0   @ Santiago, Chile
+     (Rodolfo Dubó 9' Juan Carlos Letelier 80')
+Wed Sep 14
+  Brazil               v Argentina             0-0   @ Rio de Janeiro, Brazil
+Sun Sep 18
+  Venezuela            v Uruguay               1-2   @ Caracas, Venezuela
+     (Pedro Febles 77';
+      Alberto Santelli 74' Carlos Aguilera 87')
+Wed Sep 21
+  Venezuela            v Chile                 0-0   @ Caracas, Venezuela
+Thu Oct 13
+  Paraguay             v Brazil                1-1   @ Asunción, Paraguay
+     (Milciades Morel 70';
+      Éder Aleixo de Assis 88')
+  Peru                 v Uruguay               0-1   @ Lima, Peru
+     (Carlos Aguilera 65')
+Thu Oct 20
+  Brazil               v Paraguay              0-0   @ Uberlândia, Brazil
+  Uruguay              v Peru                  1-1   @ Montevideo, Uruguay
+     (Wilmar Cabrera 49';
+      Eduardo Malásquez 24')
+Thu Oct 27
+  Uruguay              v Brazil                2-0   @ Montevideo, Uruguay
+     (Enzo Francescoli 41' Víctor Diogo 80')
+Fri Nov 4
+  Brazil               v Uruguay               1-1   @ Salvador, Brazil
+     (Jorginho Putinatti 23';
+      Carlos Aguilera 77')
 

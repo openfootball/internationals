@@ -1,31 +1,31 @@
 = Central American and Caribbean Games 1935
 
-# Date       Sun Mar/24 - Wed Apr/3 1935 (10d)
+# Date       Sun Mar 24 - Wed Apr 3 1935 (10d)
 # Teams      6
 # Matches    15
 
-[Sun Mar 24]
-  El Salvador - Cuba  4-1   @ San Salvador, El Salvador
-[Mon Mar 25]
-  Costa Rica - Guatemala  4-3   @ San Salvador, El Salvador
-  Cuba - Honduras  3-0   @ San Salvador, El Salvador
-[Wed Mar 27]
-  El Salvador - Mexico  1-8   @ San Salvador, El Salvador
-  Cuba - Guatemala  2-1   @ San Salvador, El Salvador
-[Thu Mar 28]
-  El Salvador - Honduras  3-4   @ San Salvador, El Salvador
-  Mexico - Guatemala  5-1   @ San Salvador, El Salvador
-[Sat Mar 30]
-  Mexico - Cuba  6-1   @ San Salvador, El Salvador
-  El Salvador - Costa Rica  1-6   @ San Salvador, El Salvador
-[Sun Mar 31]
-  Honduras - Guatemala  0-0   @ San Salvador, El Salvador
-  Costa Rica - Cuba  2-1   @ San Salvador, El Salvador
-[Mon Apr 1]
-  Mexico - Honduras  8-2   @ San Salvador, El Salvador
-[Tue Apr 2]
-  Mexico - Costa Rica  2-0   @ San Salvador, El Salvador
-[Wed Apr 3]
-  Costa Rica - Honduras  6-0   @ San Salvador, El Salvador
-  El Salvador - Guatemala  6-1   @ San Salvador, El Salvador
+Sun Mar 24
+  El Salvador          v Cuba                  4-1   @ San Salvador, El Salvador
+Mon Mar 25
+  Costa Rica           v Guatemala             4-3   @ San Salvador, El Salvador
+  Cuba                 v Honduras              3-0   @ San Salvador, El Salvador
+Wed Mar 27
+  El Salvador          v Mexico                1-8   @ San Salvador, El Salvador
+  Cuba                 v Guatemala             2-1   @ San Salvador, El Salvador
+Thu Mar 28
+  El Salvador          v Honduras              3-4   @ San Salvador, El Salvador
+  Mexico               v Guatemala             5-1   @ San Salvador, El Salvador
+Sat Mar 30
+  Mexico               v Cuba                  6-1   @ San Salvador, El Salvador
+  El Salvador          v Costa Rica            1-6   @ San Salvador, El Salvador
+Sun Mar 31
+  Honduras             v Guatemala             0-0   @ San Salvador, El Salvador
+  Costa Rica           v Cuba                  2-1   @ San Salvador, El Salvador
+Mon Apr 1
+  Mexico               v Honduras              8-2   @ San Salvador, El Salvador
+Tue Apr 2
+  Mexico               v Costa Rica            2-0   @ San Salvador, El Salvador
+Wed Apr 3
+  Costa Rica           v Honduras              6-0   @ San Salvador, El Salvador
+  El Salvador          v Guatemala             6-1   @ San Salvador, El Salvador
 

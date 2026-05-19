@@ -1,15 +1,15 @@
 = British Home Championship 1934
 
-# Date       Sat Apr/14 - Wed Nov/21 1934 (221d)
+# Date       Sat Apr 14 - Wed Nov 21 1934 (221d)
 # Teams      4
 # Matches    4
 
-[Sat Apr 14]
-  England - Scotland  3-0   @ London, England
-[Sat Sep 29]
-  Wales - England  0-4   @ Cardiff, Wales
-[Sat Oct 20]
-  Northern Ireland - Scotland  2-1   @ Belfast, Northern Ireland
-[Wed Nov 21]
-  Scotland - Wales  3-2   @ Aberdeen, Scotland
+Sat Apr 14
+  England              v Scotland              3-0   @ London, England
+Sat Sep 29
+  Wales                v England               0-4   @ Cardiff, Wales
+Sat Oct 20
+  Northern Ireland     v Scotland              2-1   @ Belfast, Northern Ireland
+Wed Nov 21
+  Scotland             v Wales                 3-2   @ Aberdeen, Scotland
 

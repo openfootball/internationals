@@ -1,15 +1,15 @@
 = Simba Tournament 1994
 
-# Date       Sat Nov/26 - Sun Dec/4 1994 (8d)
+# Date       Sat Nov 26 - Sun Dec 4 1994 (8d)
 # Teams      4
 # Matches    5
 
-[Sat Nov 26]
-  Cameroon - Ivory Coast  1-2   @ Pretoria, South Africa
-[Wed Nov 30]
-  Cameroon - Ghana  0-1   @ Port Elizabeth, South Africa
-  South Africa - Ivory Coast  0-0   @ Port Elizabeth, South Africa
-[Sun Dec 4]
-  Ghana - Ivory Coast  1-1   @ Johannesburg, South Africa
-  South Africa - Cameroon  1-1   @ Johannesburg, South Africa
+Sat Nov 26
+  Cameroon             v Ivory Coast           1-2   @ Pretoria, South Africa
+Wed Nov 30
+  Cameroon             v Ghana                 0-1   @ Port Elizabeth, South Africa
+  South Africa         v Ivory Coast           0-0   @ Port Elizabeth, South Africa
+Sun Dec 4
+  Ghana                v Ivory Coast           1-1   @ Johannesburg, South Africa
+  South Africa         v Cameroon              1-1   @ Johannesburg, South Africa
 

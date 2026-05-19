@@ -1,15 +1,15 @@
 = Matthews Cup 1988
 
-# Date       Sat May/21 - Sat May/28 1988 (7d)
+# Date       Sat May 21 - Sat May 28 1988 (7d)
 # Teams      3
 # Matches    4
 
-[Sat May 21]
-  Canada - Greece  0-3   @ Toronto, Canada
-[Mon May 23]
-  Chile - Greece  0-1   @ Toronto, Canada
-[Wed May 25]
-  Canada - Chile  1-0   @ Toronto, Canada
-[Sat May 28]
-  Canada - Greece  0-0   @ Toronto, Canada   [Canada wins on penalties]
+Sat May 21
+  Canada               v Greece                0-3   @ Toronto, Canada
+Mon May 23
+  Chile                v Greece                0-1   @ Toronto, Canada
+Wed May 25
+  Canada               v Chile                 1-0   @ Toronto, Canada
+Sat May 28
+  Canada               v Greece                0-0   @ Toronto, Canada   [Canada wins on penalties]
 

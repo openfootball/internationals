@@ -1,25 +1,25 @@
 = CONCACAF Championship qualification 1971
 
-# Date       Sun Sep/5 - Wed Oct/6 1971 (31d)
+# Date       Sun Sep 5 - Wed Oct 6 1971 (31d)
 # Teams      10
 # Matches    10
 
-[Sun Sep 5]
-  Honduras - Guatemala  1-0   @ Tegucigalpa, Honduras
-[Thu Sep 9]
-  El Salvador - Nicaragua  3-2   @ San Salvador, El Salvador
-[Sun Sep 12]
-  Guatemala - Honduras  1-1   @ Guatemala City, Guatemala
-[Wed Sep 15]
-  El Salvador - Nicaragua  1-0   @ San Salvador, El Salvador
-  Suriname - Guyana  4-1   @ Paramaribo, Dutch Guyana
-[Tue Sep 21]
-  Guyana - Suriname  2-3   @ Georgetown, Guyana
-[Fri Oct 1]
-  Jamaica - Cuba  0-1   @ Kingston, Jamaica
-[Mon Oct 4]
-  Cuba - Jamaica  0-0   @ Havana, Cuba
-[Wed Oct 6]
-  Bermuda - Mexico  0-2   @ Hamilton, Bermuda
-  Mexico - Bermuda  4-0   @ Mexico City, Mexico
+Sun Sep 5
+  Honduras             v Guatemala             1-0   @ Tegucigalpa, Honduras
+Thu Sep 9
+  El Salvador          v Nicaragua             3-2   @ San Salvador, El Salvador
+Sun Sep 12
+  Guatemala            v Honduras              1-1   @ Guatemala City, Guatemala
+Wed Sep 15
+  El Salvador          v Nicaragua             1-0   @ San Salvador, El Salvador
+  Suriname             v Guyana                4-1   @ Paramaribo, Dutch Guyana
+Tue Sep 21
+  Guyana               v Suriname              2-3   @ Georgetown, Guyana
+Fri Oct 1
+  Jamaica              v Cuba                  0-1   @ Kingston, Jamaica
+Mon Oct 4
+  Cuba                 v Jamaica               0-0   @ Havana, Cuba
+Wed Oct 6
+  Bermuda              v Mexico                0-2   @ Hamilton, Bermuda
+  Mexico               v Bermuda               4-0   @ Mexico City, Mexico
 

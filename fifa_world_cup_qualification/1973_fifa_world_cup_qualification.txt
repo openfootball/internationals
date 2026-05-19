@@ -1,399 +1,399 @@
 = FIFA World Cup qualification 1973
 
-# Date       Sat Jan/13 - Wed Dec/19 1973 (340d)
+# Date       Sat Jan 13 - Wed Dec 19 1973 (340d)
 # Teams      66
 # Matches    134
 
-[Sat Jan 13]
-  Italy - Turkey  0-0   @ Naples, Italy
-[Wed Jan 17]
-  Greece - Spain  2-3   @ Athens, Greece
-     Mimis Domazos 41' Giorgos Koudas 56';
-     Rubén Óscar Valdez 40' José Claramunt 65' Rubén Óscar Valdez 86'
-[Wed Jan 24]
-  England - Wales  1-1   @ London, England
-     Norman Hunter 41';
-     John Toshack 23'
-[Sun Feb 4]
-  Cameroon - DR Congo  0-1   @ Douala, Cameroon
-     -; Jean Kalala N'Tumba 2'
-[Sat Feb 10]
-  Nigeria - Ghana  2-3   @ Lagos, Nigeria
-     Kenneth Olayombo 15' Yakubu Mambo 23';
-     Kwasi Owusu 18' (pen.) Kwasi Owusu 55' Kwasi Owusu 82'
-[Sun Feb 11]
-  Guinea - Morocco  1-1   @ Conakry, Guinea
-     Chérif Souleymane 38';
-     Moustapha Choukri 22'
-  Tunisia - Ivory Coast  1-1   @ Tunis, Tunisia
-     Mohieddine Habita 48' (pen.);
-     Noël Kouamé 17'
-[Wed Feb 14]
-  Cyprus - Northern Ireland  1-0   @ Akdoğan, Cyprus
-     Kokos Antoniou 88'
-[Wed Feb 21]
-  Spain - Greece  3-1   @ Málaga, Spain
-     José Claramunt 29' Juan Cruz Sol 39' Roberto Juan Martínez 78';
-     Antonis Antoniadis 37'
-[Sun Feb 25]
-  DR Congo - Cameroon  0-1   @ Kinshasa, Zaïre
-     -; Paul-Gaston N'Dongo 43'
-  Ghana - Nigeria  0-0   @ Accra, Ghana
-  Ivory Coast - Tunisia  2-1   @ Abidjan, Ivory Coast
-     Bernard N'Guessan 44' Bernard N'Guessan 85' (pen.);
-     Abdesselam Adhouma 15'
-  Morocco - Guinea  2-0   @ Tétouan, Morocco
-     Ahmed Faras 60' Ahmed Faras 68'
-  Turkey - Italy  0-1   @ Istanbul, Turkey
-     -; Pietro Anastasi 35'
-[Tue Feb 27]
-  DR Congo - Cameroon  2-0   @ Kinshasa, Zaïre
-     Kakoko Etepé 3' Kamunda Tshinabu 88' (pen.)
-[Sun Mar 4]
-  New Zealand - Australia  1-1   @ Auckland, New Zealand
-     Brian Turner 57';
-     Ernie Campbell 85'
-[Sun Mar 11]
-  Australia - Iraq  3-1   @ Sydney, Australia
-     Ray Richards 49' Adrian Alston 80' Adrian Alston 85';
-     Riyadh Nouri 89'
-  Indonesia - New Zealand  1-1   @ Sydney, Australia
-     Sarman Panggabean 13';
-     Alan Vest 74'
-[Tue Mar 13]
-  Australia - Indonesia  2-1   @ Sydney, Australia
-     Ernie Campbell 23' Adrian Alston 42';
-     Iswadi Idris 36'
-  Iraq - New Zealand  2-0   @ Sydney, Australia
-     Bashar Rashid 10' Sabah Hatim 40'
-[Fri Mar 16]
-  Australia - New Zealand  3-3   @ Sydney, Australia
-     Doug Utjesenovic 11' Ray Baartz 19' Branko Buljevic 26';
-     Alan Vest 10' Dennis Tindall 50' Bobby Hogg 86' (o.g.)
-  Iraq - Indonesia  1-1   @ Sydney, Australia
-     Ali Kadhim 23';
-     Iswadi Idris 43'
-[Sun Mar 18]
-  Australia - Iraq  0-0   @ Melbourne, Australia
-  Indonesia - New Zealand  1-0   @ Melbourne, Australia
-     Maurice Tillotson 7' (o.g.)
-[Wed Mar 21]
-  Iraq - Indonesia  3-2   @ Sydney, Australia
-     Douglas Aziz 22' (pen.) Salah Obeid 33' Riyadh Nouri 72';
-     Sarman Panggabean 25' Anjas Asmara 58'
-[Sat Mar 24]
-  Australia - Indonesia  6-0   @ Sydney, Australia
-     Jimmy Mackay 3' Attila Abonyi 23' Jimmy Mackay 40' Attila Abonyi 54' Ray Richards 72' Ray Baartz 78'
-  Iraq - New Zealand  4-0   @ Sydney, Australia
-     Sabah Hatim 4' Sabah Hatim 15' Ali Kadhim 23' Sabah Hatim 67'
-[Wed Mar 28]
-  Northern Ireland - Portugal  1-1   @ Coventry, England
-     Martin O'Neill 18';
-     Eusébio 84' (pen.)
-  Wales - Poland  2-0   @ Cardiff, Wales
-     Leighton James 46' Trevor Hockey 85'
-[Sat Mar 31]
-  Italy - Luxembourg  5-0   @ Genoa, Italy
-     Gigi Riva 18' Gigi Riva 45' Gianni Rivera 63' Gigi Riva 70' Gigi Riva 80'
-[Sun Apr 1]
-  Ethiopia - Zambia  0-0   @ Addis Ababa, Ethiopia
-[Sun Apr 8]
-  German DR - Albania  2-0   @ Magdeburg, German DR
-     Joachim Streich 62' Jürgen Sparwasser 69'
-  Luxembourg - Switzerland  0-1   @ Luxembourg, Luxembourg
-     -; Karl Odermatt 20'
-[Sun Apr 15]
-  Zambia - Ethiopia  4-2   @ Lusaka, Zambia
-     Burton Mugala 47' Boniface Simutowe 62' (pen.) Moses Simwala 71' Joseph Mapulanga 83';
-     Tariku Ingdawerk 43' Kassahun Teka 79' (pen.)
-[Sun Apr 29]
-  Hungary - Austria  2-2   @ Budapest, Hungary
-     Sándor Zámbó 12' László Bálint 69';
-     August Starek 14' Kurt Jara 28'
-  Peru - Chile  2-0   @ Lima, Peru
-     Hugo Sotil 43' Hugo Sotil 62'
-[Wed May 2]
-  Bulgaria - Portugal  2-1   @ Sofia, Bulgaria
-     Georgi Denev 38' Hristo Bonev 60';
-     Nené 74'
-  Denmark - Czechoslovakia  1-1   @ Copenhagen, Denmark
-     Ole Bjørnmose 15';
-     Ladislav Petráš 32'
-[Fri May 4]
-  Iran - North Korea  0-0   @ Tehran, Iran
-  Syria - Kuwait  2-1   @ Tehran, Iran
-     Joseph Chahrestan 62' Nabil Nano 65';
-     Ibrahim Al Duraihem 57'
-[Sun May 6]
-  Albania - Romania  1-4   @ Tirana, Albania
-     Sabah Bizi 87';
-     Ion Dumitru 12' Florea Dumitrache 25' Florea Dumitrache 57' (pen.) Teodor Țarălungă 72'
-  Iran - Kuwait  2-1   @ Tehran, Iran
-     Gholam Vafakhah 23' Ali Parvin 56';
-     Fathi Kameel 83'
-  North Korea - Syria  1-1   @ Tehran, Iran
-     Kim Jong-Min 53';
-     Joseph Chahrestan 71'
-[Tue May 8]
-  Iran - Syria  1-0   @ Tehran, Iran
-     Akbar Kargarjam 85'
-  North Korea - Kuwait  0-0   @ Tehran, Iran
-  Northern Ireland - Cyprus  3-0   @ London, England
-     Sammy Morgan 4' Trevor Anderson 32' Trevor Anderson 44'
-[Wed May 9]
-  Switzerland - Turkey  0-0   @ Basel, Switzerland
-[Fri May 11]
-  Iran - North Korea  2-1   @ Tehran, Iran
-     Mehdi Monajati 19' Mohammad Sadeghi 89';
-     Pak Sung-Jin 48'
-  Syria - Kuwait  2-0   @ Tehran, Iran
-     Samir Said 18' Joseph Chahrestan 90'
-[Sun May 13]
-  Chile - Peru  2-0   @ Santiago, Chile
-     Julio Crisosto 68' Sergio Ahumada 71'
-  Iran - Kuwait  2-0   @ Tehran, Iran
-     Parviz Ghelichkhani 60' (pen.) Ali Djabari 74'
-  North Korea - Syria  3-0   @ Tehran, Iran
-     An Se-Uk 30' Ma Jung-U 39' Ma Jung-U 77'
-  Russia - Republic of Ireland  1-0   @ Moscow, Soviet Union
-     Volodymyr Onyshchenko 58'
-[Tue May 15]
-  Iran - Syria  0-1   @ Tehran, Iran
-     -; Abdulghani Tatiche 12'
-  North Korea - Kuwait  0-2   @ Tehran, Iran
-     -; Hamad Khalid Bo Hamad 31' Hamad Khalid Bo Hamad 51'
-[Wed May 16]
-  Israel - Japan  2-1   @ Seoul, South Korea
-     Moshe Onana 5' Moshe Onana 61';
-     Shusaku Hirasawa 28'
-  Thailand - Vietnam Republic  0-1   @ Seoul, South Korea
-     -; Supakit Meelarpkit 83' (o.g.)
-[Thu May 17]
-  Hong Kong - Malaysia  1-0   @ Seoul, South Korea
-     Lo Hung-Hoi 53'
-[Sat May 19]
-  France - Republic of Ireland  1-1   @ Paris, France
-     Serge Chiesa 78';
-     Mick Martin 83'
-  Israel - Malaysia  3-0   @ Seoul, South Korea
-     Zvi Farkash 50' Itzhak Shum 62' Moshe Onana 82'
-  South Korea - Thailand  4-0   @ Seoul, South Korea
-     Kim Jae-han 52' Cha Bum-kun 60' Chung Kyu-Poong 79' Chung Kyu-Poong 84'
-[Sun May 20]
-  Ivory Coast - Morocco  1-1   @ Abidjan, Ivory Coast
-     Kobenan Kouman 75';
-     Hassan Amcharrat 30'
-  Vietnam Republic - Japan  0-4   @ Seoul, South Korea
-     -; Kunishige Kamamoto 6' Koji Mori 19' Nguyễn Vinh Quang 54' (o.g.) Kunishige Kamamoto 86'
-[Mon May 21]
-  Israel - Thailand  6-0   @ Seoul, South Korea
-     George Borba 12' Mordechai Spiegler 62' Itzhak Shum 69' Zvi Rozen 73' Moshe Onana 78' Zvi Rozen 84'
-  South Korea - Malaysia  0-0   @ Seoul, South Korea
-[Tue May 22]
-  Japan - Hong Kong  0-1   @ Seoul, South Korea
-     -; Kwok Ka-ming 83'
-[Wed May 23]
-  South Korea - Israel  0-0   @ Seoul, South Korea
-  Sweden - Austria  3-2   @ Gothenburg, Sweden
-     Roland Sandberg 24' Ove Grahn 52' Roland Sandberg 78';
-     Kurt Jara 50' August Starek 89'
-  Thailand - Malaysia  0-2   @ Seoul, South Korea
-     -; Shaharuddin Abdullah 70' Harun Jusoh 89'
-[Thu May 24]
-  Hong Kong - Vietnam Republic  1-0   @ Seoul, South Korea
-     Yuen Kuen-Chu 68'
-[Sat May 26]
-  Israel - Japan  1-0   @ Seoul, South Korea
-     Moshe Onana 110'
-  South Korea - Hong Kong  3-1   @ Seoul, South Korea
-     Kim Jae-han 45' Park Yi-Chun 52' Chung Kyu-Poong 72';
-     Yuen Kuen-Chu 5'
-  Russia - France  2-0   @ Moscow, Soviet Union
-     Oleg Blokhin 81' Volodymyr Onyshchenko 84'
-[Sun May 27]
-  Romania - German DR  1-0   @ Bucharest, Romania
-     Florea Dumitrache 53'
-[Mon May 28]
-  South Korea - Israel  1-0   @ Seoul, South Korea
-     Cha Bum-kun 109'
-[Sat Jun 2]
-  Czechoslovakia - Denmark  6-0   @ Prague, Czechoslovakia
-     Zdeněk Nehoda 46' Bohumil Veselý 56' Přemysl Bičovský 57' Vladimír Hagara 60' Bohumil Veselý 65' Bohumil Veselý 80'
-[Sun Jun 3]
-  Morocco - Ivory Coast  4-1   @ Tétouan, Morocco
-     Ahmed Faras 24' Ahmed Faras 34' Chérif Fetoui 60' Moustapha Choukri 85';
-     Laurent Pokou 61'
-[Wed Jun 6]
-  Finland - German DR  1-5   @ Tampere, Finland
-     Jarmo Manninen 88';
-     Joachim Streich 7' Joachim Streich 30' Wolfram Löwe 44' Peter Ducke 75' Hans-Jürgen Kreische 83'
-  Poland - England  2-0   @ Chorzów, Poland
-     Robert Gadocha 7' Włodzimierz Lubański 47'
-[Wed Jun 13]
-  Hungary - Sweden  3-3   @ Budapest, Hungary
-     Mihály Kozma 9' Csaba Vidáts 59' Sándor Zámbó 71';
-     Ove Kindvall 38' Roland Sandberg 57' Ralf Edström 77'
-[Thu Jun 21]
-  Colombia - Ecuador  1-1   @ Bogotá, Colombia
-     Willington Ortiz 44';
-     Washington Muñoz 72'
-[Sun Jun 24]
-  Colombia - Uruguay  0-0   @ Bogotá, Colombia
-[Thu Jun 28]
-  Ecuador - Colombia  1-1   @ Guayaquil, Ecuador
-     Washington Muñoz 29';
-     Willington Ortiz 50'
-[Sun Jul 1]
-  Ecuador - Uruguay  1-2   @ Quito, Ecuador
-     Ítalo Estupiñán 35';
-     Luis Cubilla 41' Fernando Morena 74'
-[Thu Jul 5]
-  Uruguay - Colombia  0-1   @ Montevideo, Uruguay
-     -; Willington Ortiz 71'
-[Sun Jul 8]
-  Uruguay - Ecuador  4-0   @ Montevideo, Uruguay
-     Fernando Morena 4' Fernando Morena 27' Luis Cubilla 30' Denís Milar 62'
-[Thu Aug 2]
-  Iceland - Norway  0-4   @ Reykjavík, Iceland
-     -; Harald Sunde 40' Tor Egil Johansen 55' Per Pettersen 80' Tor Egil Johansen 87'
-[Sun Aug 5]
-  Chile - Peru  2-1   @ Montevideo, Uruguay
-     Francisco Valdés 45' Rogelio Farias 58';
-     Héctor Bailetti 40'
-  Ghana - DR Congo  1-0   @ Accra, Ghana
-     Akuetteh Armah 35' (pen.)
-[Sun Aug 12]
-  Zambia - Kenya  2-0   @ Ndola, Zambia
-     Bernard Chanda 34' Brighton Sinyangwe 72'
-[Sat Aug 18]
-  Australia - Iran  3-0   @ Sydney, Australia
-     Adrian Alston 43' Attila Abonyi 45' Peter Wilson 83'
-[Sun Aug 19]
-  DR Congo - Ghana  4-1   @ Kinshasa, Zaïre
-     Kembo Uba Kembo 10' Kembo Uba Kembo 65' Mavuba Mafuila 89' (pen.) Jean Kalala N'Tumba 90';
-     Joseph Sam 51'
-  Kenya - Zambia  2-2   @ Nairobi, Kenya
-     William Ouma 65' Peter Ouma 70';
-     Simon Kaushi 56' Moses Simwala ??'
-[Wed Aug 22]
-  Netherlands - Iceland  5-0   @ Amsterdam, Netherlands
-     Wim van Hanegem 6' Johan Cruyff 8' Arie Haan 17' Willy Brokamp 29' Johan Cruyff 57'
-[Fri Aug 24]
-  Iran - Australia  2-0   @ Tehran, Iran
-     Parviz Ghelichkhani 14' Parviz Ghelichkhani 32'
-[Wed Aug 29]
-  Netherlands - Iceland  8-1   @ Deventer, Netherlands
-     Willy Brokamp 15' Johan Cruyff 21' Johan Neeskens 24' Johan Cruyff 28' René van de Kerkhof 46' Dick Schneider 48' (pen.) Wim van Hanegem 71' Willy Brokamp 75';
-     Elmar Geirsson 44'
-[Sun Sep 2]
-  Bolivia - Paraguay  1-2   @ La Paz, Bolivia
-     Raúl Morales 30';
-     Adalberto Escobar 41' Jorge Insfran 74'
-[Sun Sep 9]
-  Argentina - Bolivia  4-0   @ Buenos Aires, Argentina
-     Miguel Ángel Brindisi 30' Miguel Ángel Brindisi 43' Rubén Ayala 66' Rubén Ayala 75'
-[Wed Sep 12]
-  Norway - Netherlands  1-2   @ Oslo, Norway
-     Harry Hestad 77';
-     Johan Cruyff 7' Barry Hulshoff 87'
-[Sun Sep 16]
-  Paraguay - Argentina  1-1   @ Asunción, Paraguay
-     Saturnino Arrúa 41';
-     Rubén Ayala 33'
-[Sun Sep 23]
-  Bolivia - Argentina  0-1   @ La Paz, Bolivia
-     -; Oscar Fornari 17'
-[Wed Sep 26]
-  German DR - Romania  2-0   @ Leipzig, German DR
-     Bernd Bransch 42' Bernd Bransch 64'
-  Northern Ireland - Bulgaria  0-0   @ Sheffield, England
-  Poland - Wales  3-0   @ Chorzów, Poland
-     Robert Gadocha 29' Grzegorz Lato 34' Jan Domarski 53'
-  Russia - Chile  0-0   @ Moscow, Soviet Union
-  Scotland - Czechoslovakia  2-1   @ Glasgow, Scotland
-     Jim Holton 40' Joe Jordan 74';
-     Zdeněk Nehoda 32'
-  Switzerland - Luxembourg  1-0   @ Lucerne, Switzerland
-     Rolf Blättler 2'
-[Sun Sep 30]
-  Paraguay - Bolivia  4-0   @ Asunción, Paraguay
-     Pedro Alcides Bareiro 10' Juvencio Osorio 13' Jorge Insfran 18' Saturnino Arrúa 89'
-[Sun Oct 7]
-  Argentina - Paraguay  3-1   @ Buenos Aires, Argentina
-     Rubén Ayala 32' (pen.) Rubén Ayala 57' Carlos Guerini 89';
-     Adalberto Escobar 22'
-[Wed Oct 10]
-  Albania - Finland  1-0   @ Tirana, Albania
-     Ramazan Rragami 25' (pen.)
-[Sat Oct 13]
-  Portugal - Bulgaria  2-2   @ Lisbon, Portugal
-     Alfredo Quaresma 48' António Simões 89';
-     Hristo Bonev 56' Hristo Bonev 65'
-[Sun Oct 14]
-  Romania - Finland  9-0   @ Bucharest, Romania
-     Ion Dumitru 6' Dumitru Marcu 8' Mircea Sandu 25' Dumitru Marcu 42' Florea Dumitrache 45' Nicolae Pantea 55' Florea Dumitrache 63' Mircea Sandu 65' Dudu Georgescu 81'
-[Wed Oct 17]
-  Czechoslovakia - Scotland  1-0   @ Bratislava, Czechoslovakia
-     Zdeněk Nehoda 15' (pen.)
-  England - Poland  1-1   @ London, England
-     Allan Clarke 63' (pen.);
-     Jan Domarski 57'
-[Sat Oct 20]
-  Italy - Switzerland  2-0   @ Rome, Italy
-     Gianni Rivera 39' (pen.) Gigi Riva 79'
-[Sun Oct 21]
-  Yugoslavia - Spain  0-0   @ Zagreb, Yugoslavia
-  Zambia - Morocco  4-0   @ Lusaka, Zambia
-     Brighton Sinyangwe 17' Moses Simwala 43' Bernard Chanda 61' Brighton Sinyangwe 90'
-[Sun Oct 28]
-  Australia - South Korea  0-0   @ Sydney, Australia
-[Wed Oct 31]
-  Belgium - Norway  2-0   @ Brussels, Belgium
-     Léon Dolmans 32' (pen.) Raoul Lambert 85' (pen.)
-[Sun Nov 4]
-  Zambia - DR Congo  0-2   @ Lusaka, Zambia
-     -; Mayanga Maku 22' Kakoko Etepé 33'
-[Sat Nov 10]
-  South Korea - Australia  2-2   @ Seoul, South Korea
-     Kim Jae-han 15' Ko Jae-wook 27';
-     Branko Buljevic 29' Ray Baartz 48'
-[Sun Nov 11]
-  Malta - Sweden  1-2   @ Gżira, Malta
-     Anton Camilleri 20';
-     Ove Kindvall 21' Bo Larsson 35' (pen.)
-[Tue Nov 13]
-  Albania - German DR  1-4   @ Tirana, Albania
-     Mihal Gjika 15';
-     Joachim Streich 5' Joachim Streich 35' Wolfram Löwe 62' Jürgen Sparwasser 77'
-  Australia - South Korea  1-0   @ So Kon Po, Hong Kong
-     Jimmy Mackay 70'
-[Wed Nov 14]
-  Portugal - Northern Ireland  1-1   @ Lisbon, Portugal
-     Rui Jordão 34';
-     Liam O'Kane 68'
-[Sun Nov 18]
-  Bulgaria - Cyprus  2-0   @ Sofia, Bulgaria
-     Bozhil Kolev 2' Georgi Denev 65'
-  DR Congo - Zambia  2-1   @ Kinshasa, Zaïre
-     Kembo Uba Kembo 32' Kakoko Etepé 82';
-     Obby Kapita 33'
-  Netherlands - Belgium  0-0   @ Amsterdam, Netherlands
-  Turkey - Switzerland  2-0   @ İzmir, Turkey
-     Mehmet Türkkan 51' Melih Atacan 54'
-[Wed Nov 21]
-  Chile - Russia  2-0   @ Santiago, Chile
-[Sun Nov 25]
-  Morocco - Zambia  2-0   @ Tétouan, Morocco
-     Mohamed Maghfour 14' Ahmed Faras 70'
-[Tue Nov 27]
-  Austria - Sweden  1-2   @ Gelsenkirchen, Germany
-     Roland Hattenberger 39';
-     Roland Sandberg 12' Bo Larsson 28' (pen.)
-[Sun Dec 9]
-  DR Congo - Morocco  3-0   @ Kinshasa, Zaïre
-     Kembo Uba Kembo 58' Kembo Uba Kembo 61' Mbungu Ekofa 79'
-[Wed Dec 19]
-  Greece - Yugoslavia  2-4   @ Piraeus, Greece
-     Kostas Eleftherakis 29' Josip Katalinski 44' (o.g.);
-     Dušan Bajević 12' Stanislav Karasi 15' Ivica Šurjak 62' Stanislav Karasi 90'
+Sat Jan 13
+  Italy                v Turkey                0-0   @ Naples, Italy
+Wed Jan 17
+  Greece               v Spain                 2-3   @ Athens, Greece
+     (Mimis Domazos 41' Giorgos Koudas 56';
+      Rubén Óscar Valdez 40' José Claramunt 65' Rubén Óscar Valdez 86')
+Wed Jan 24
+  England              v Wales                 1-1   @ London, England
+     (Norman Hunter 41';
+      John Toshack 23')
+Sun Feb 4
+  Cameroon             v DR Congo              0-1   @ Douala, Cameroon
+     (Jean Kalala N'Tumba 2')
+Sat Feb 10
+  Nigeria              v Ghana                 2-3   @ Lagos, Nigeria
+     (Kenneth Olayombo 15' Yakubu Mambo 23';
+      Kwasi Owusu 18'(p) Kwasi Owusu 55' Kwasi Owusu 82')
+Sun Feb 11
+  Guinea               v Morocco               1-1   @ Conakry, Guinea
+     (Chérif Souleymane 38';
+      Moustapha Choukri 22')
+  Tunisia              v Ivory Coast           1-1   @ Tunis, Tunisia
+     (Mohieddine Habita 48'(p);
+      Noël Kouamé 17')
+Wed Feb 14
+  Cyprus               v Northern Ireland      1-0   @ Akdoğan, Cyprus
+     (Kokos Antoniou 88')
+Wed Feb 21
+  Spain                v Greece                3-1   @ Málaga, Spain
+     (José Claramunt 29' Juan Cruz Sol 39' Roberto Juan Martínez 78';
+      Antonis Antoniadis 37')
+Sun Feb 25
+  DR Congo             v Cameroon              0-1   @ Kinshasa, Zaïre
+     (Paul-Gaston N'Dongo 43')
+  Ghana                v Nigeria               0-0   @ Accra, Ghana
+  Ivory Coast          v Tunisia               2-1   @ Abidjan, Ivory Coast
+     (Bernard N'Guessan 44' Bernard N'Guessan 85'(p);
+      Abdesselam Adhouma 15')
+  Morocco              v Guinea                2-0   @ Tétouan, Morocco
+     (Ahmed Faras 60' Ahmed Faras 68')
+  Turkey               v Italy                 0-1   @ Istanbul, Turkey
+     (Pietro Anastasi 35')
+Tue Feb 27
+  DR Congo             v Cameroon              2-0   @ Kinshasa, Zaïre
+     (Kakoko Etepé 3' Kamunda Tshinabu 88'(p))
+Sun Mar 4
+  New Zealand          v Australia             1-1   @ Auckland, New Zealand
+     (Brian Turner 57';
+      Ernie Campbell 85')
+Sun Mar 11
+  Australia            v Iraq                  3-1   @ Sydney, Australia
+     (Ray Richards 49' Adrian Alston 80' Adrian Alston 85';
+      Riyadh Nouri 89')
+  Indonesia            v New Zealand           1-1   @ Sydney, Australia
+     (Sarman Panggabean 13';
+      Alan Vest 74')
+Tue Mar 13
+  Australia            v Indonesia             2-1   @ Sydney, Australia
+     (Ernie Campbell 23' Adrian Alston 42';
+      Iswadi Idris 36')
+  Iraq                 v New Zealand           2-0   @ Sydney, Australia
+     (Bashar Rashid 10' Sabah Hatim 40')
+Fri Mar 16
+  Australia            v New Zealand           3-3   @ Sydney, Australia
+     (Doug Utjesenovic 11' Ray Baartz 19' Branko Buljevic 26';
+      Alan Vest 10' Dennis Tindall 50' Bobby Hogg 86'(og))
+  Iraq                 v Indonesia             1-1   @ Sydney, Australia
+     (Ali Kadhim 23';
+      Iswadi Idris 43')
+Sun Mar 18
+  Australia            v Iraq                  0-0   @ Melbourne, Australia
+  Indonesia            v New Zealand           1-0   @ Melbourne, Australia
+     (Maurice Tillotson 7'(og))
+Wed Mar 21
+  Iraq                 v Indonesia             3-2   @ Sydney, Australia
+     (Douglas Aziz 22'(p) Salah Obeid 33' Riyadh Nouri 72';
+      Sarman Panggabean 25' Anjas Asmara 58')
+Sat Mar 24
+  Australia            v Indonesia             6-0   @ Sydney, Australia
+     (Jimmy Mackay 3' Attila Abonyi 23' Jimmy Mackay 40' Attila Abonyi 54' Ray Richards 72' Ray Baartz 78')
+  Iraq                 v New Zealand           4-0   @ Sydney, Australia
+     (Sabah Hatim 4' Sabah Hatim 15' Ali Kadhim 23' Sabah Hatim 67')
+Wed Mar 28
+  Northern Ireland     v Portugal              1-1   @ Coventry, England
+     (Martin O'Neill 18';
+      Eusébio 84'(p))
+  Wales                v Poland                2-0   @ Cardiff, Wales
+     (Leighton James 46' Trevor Hockey 85')
+Sat Mar 31
+  Italy                v Luxembourg            5-0   @ Genoa, Italy
+     (Gigi Riva 18' Gigi Riva 45' Gianni Rivera 63' Gigi Riva 70' Gigi Riva 80')
+Sun Apr 1
+  Ethiopia             v Zambia                0-0   @ Addis Ababa, Ethiopia
+Sun Apr 8
+  German DR            v Albania               2-0   @ Magdeburg, German DR
+     (Joachim Streich 62' Jürgen Sparwasser 69')
+  Luxembourg           v Switzerland           0-1   @ Luxembourg, Luxembourg
+     (Karl Odermatt 20')
+Sun Apr 15
+  Zambia               v Ethiopia              4-2   @ Lusaka, Zambia
+     (Burton Mugala 47' Boniface Simutowe 62'(p) Moses Simwala 71' Joseph Mapulanga 83';
+      Tariku Ingdawerk 43' Kassahun Teka 79'(p))
+Sun Apr 29
+  Hungary              v Austria               2-2   @ Budapest, Hungary
+     (Sándor Zámbó 12' László Bálint 69';
+      August Starek 14' Kurt Jara 28')
+  Peru                 v Chile                 2-0   @ Lima, Peru
+     (Hugo Sotil 43' Hugo Sotil 62')
+Wed May 2
+  Bulgaria             v Portugal              2-1   @ Sofia, Bulgaria
+     (Georgi Denev 38' Hristo Bonev 60';
+      Nené 74')
+  Denmark              v Czechoslovakia        1-1   @ Copenhagen, Denmark
+     (Ole Bjørnmose 15';
+      Ladislav Petráš 32')
+Fri May 4
+  Iran                 v North Korea           0-0   @ Tehran, Iran
+  Syria                v Kuwait                2-1   @ Tehran, Iran
+     (Joseph Chahrestan 62' Nabil Nano 65';
+      Ibrahim Al Duraihem 57')
+Sun May 6
+  Albania              v Romania               1-4   @ Tirana, Albania
+     (Sabah Bizi 87';
+      Ion Dumitru 12' Florea Dumitrache 25' Florea Dumitrache 57'(p) Teodor Țarălungă 72')
+  Iran                 v Kuwait                2-1   @ Tehran, Iran
+     (Gholam Vafakhah 23' Ali Parvin 56';
+      Fathi Kameel 83')
+  North Korea          v Syria                 1-1   @ Tehran, Iran
+     (Kim Jong-Min 53';
+      Joseph Chahrestan 71')
+Tue May 8
+  Iran                 v Syria                 1-0   @ Tehran, Iran
+     (Akbar Kargarjam 85')
+  North Korea          v Kuwait                0-0   @ Tehran, Iran
+  Northern Ireland     v Cyprus                3-0   @ London, England
+     (Sammy Morgan 4' Trevor Anderson 32' Trevor Anderson 44')
+Wed May 9
+  Switzerland          v Turkey                0-0   @ Basel, Switzerland
+Fri May 11
+  Iran                 v North Korea           2-1   @ Tehran, Iran
+     (Mehdi Monajati 19' Mohammad Sadeghi 89';
+      Pak Sung-Jin 48')
+  Syria                v Kuwait                2-0   @ Tehran, Iran
+     (Samir Said 18' Joseph Chahrestan 90')
+Sun May 13
+  Chile                v Peru                  2-0   @ Santiago, Chile
+     (Julio Crisosto 68' Sergio Ahumada 71')
+  Iran                 v Kuwait                2-0   @ Tehran, Iran
+     (Parviz Ghelichkhani 60'(p) Ali Djabari 74')
+  North Korea          v Syria                 3-0   @ Tehran, Iran
+     (An Se-Uk 30' Ma Jung-U 39' Ma Jung-U 77')
+  Russia               v Republic of Ireland   1-0   @ Moscow, Soviet Union
+     (Volodymyr Onyshchenko 58')
+Tue May 15
+  Iran                 v Syria                 0-1   @ Tehran, Iran
+     (Abdulghani Tatiche 12')
+  North Korea          v Kuwait                0-2   @ Tehran, Iran
+     (Hamad Khalid Bo Hamad 31' Hamad Khalid Bo Hamad 51')
+Wed May 16
+  Israel               v Japan                 2-1   @ Seoul, South Korea
+     (Moshe Onana 5' Moshe Onana 61';
+      Shusaku Hirasawa 28')
+  Thailand             v Vietnam Republic      0-1   @ Seoul, South Korea
+     (Supakit Meelarpkit 83'(og))
+Thu May 17
+  Hong Kong            v Malaysia              1-0   @ Seoul, South Korea
+     (Lo Hung-Hoi 53')
+Sat May 19
+  France               v Republic of Ireland   1-1   @ Paris, France
+     (Serge Chiesa 78';
+      Mick Martin 83')
+  Israel               v Malaysia              3-0   @ Seoul, South Korea
+     (Zvi Farkash 50' Itzhak Shum 62' Moshe Onana 82')
+  South Korea          v Thailand              4-0   @ Seoul, South Korea
+     (Kim Jae-han 52' Cha Bum-kun 60' Chung Kyu-Poong 79' Chung Kyu-Poong 84')
+Sun May 20
+  Ivory Coast          v Morocco               1-1   @ Abidjan, Ivory Coast
+     (Kobenan Kouman 75';
+      Hassan Amcharrat 30')
+  Vietnam Republic     v Japan                 0-4   @ Seoul, South Korea
+     (Kunishige Kamamoto 6' Koji Mori 19' Nguyễn Vinh Quang 54'(og) Kunishige Kamamoto 86')
+Mon May 21
+  Israel               v Thailand              6-0   @ Seoul, South Korea
+     (George Borba 12' Mordechai Spiegler 62' Itzhak Shum 69' Zvi Rozen 73' Moshe Onana 78' Zvi Rozen 84')
+  South Korea          v Malaysia              0-0   @ Seoul, South Korea
+Tue May 22
+  Japan                v Hong Kong             0-1   @ Seoul, South Korea
+     (Kwok Ka-ming 83')
+Wed May 23
+  South Korea          v Israel                0-0   @ Seoul, South Korea
+  Sweden               v Austria               3-2   @ Gothenburg, Sweden
+     (Roland Sandberg 24' Ove Grahn 52' Roland Sandberg 78';
+      Kurt Jara 50' August Starek 89')
+  Thailand             v Malaysia              0-2   @ Seoul, South Korea
+     (Shaharuddin Abdullah 70' Harun Jusoh 89')
+Thu May 24
+  Hong Kong            v Vietnam Republic      1-0   @ Seoul, South Korea
+     (Yuen Kuen-Chu 68')
+Sat May 26
+  Israel               v Japan                 1-0   @ Seoul, South Korea
+     (Moshe Onana 110')
+  South Korea          v Hong Kong             3-1   @ Seoul, South Korea
+     (Kim Jae-han 45' Park Yi-Chun 52' Chung Kyu-Poong 72';
+      Yuen Kuen-Chu 5')
+  Russia               v France                2-0   @ Moscow, Soviet Union
+     (Oleg Blokhin 81' Volodymyr Onyshchenko 84')
+Sun May 27
+  Romania              v German DR             1-0   @ Bucharest, Romania
+     (Florea Dumitrache 53')
+Mon May 28
+  South Korea          v Israel                1-0   @ Seoul, South Korea
+     (Cha Bum-kun 109')
+Sat Jun 2
+  Czechoslovakia       v Denmark               6-0   @ Prague, Czechoslovakia
+     (Zdeněk Nehoda 46' Bohumil Veselý 56' Přemysl Bičovský 57' Vladimír Hagara 60' Bohumil Veselý 65' Bohumil Veselý 80')
+Sun Jun 3
+  Morocco              v Ivory Coast           4-1   @ Tétouan, Morocco
+     (Ahmed Faras 24' Ahmed Faras 34' Chérif Fetoui 60' Moustapha Choukri 85';
+      Laurent Pokou 61')
+Wed Jun 6
+  Finland              v German DR             1-5   @ Tampere, Finland
+     (Jarmo Manninen 88';
+      Joachim Streich 7' Joachim Streich 30' Wolfram Löwe 44' Peter Ducke 75' Hans-Jürgen Kreische 83')
+  Poland               v England               2-0   @ Chorzów, Poland
+     (Robert Gadocha 7' Włodzimierz Lubański 47')
+Wed Jun 13
+  Hungary              v Sweden                3-3   @ Budapest, Hungary
+     (Mihály Kozma 9' Csaba Vidáts 59' Sándor Zámbó 71';
+      Ove Kindvall 38' Roland Sandberg 57' Ralf Edström 77')
+Thu Jun 21
+  Colombia             v Ecuador               1-1   @ Bogotá, Colombia
+     (Willington Ortiz 44';
+      Washington Muñoz 72')
+Sun Jun 24
+  Colombia             v Uruguay               0-0   @ Bogotá, Colombia
+Thu Jun 28
+  Ecuador              v Colombia              1-1   @ Guayaquil, Ecuador
+     (Washington Muñoz 29';
+      Willington Ortiz 50')
+Sun Jul 1
+  Ecuador              v Uruguay               1-2   @ Quito, Ecuador
+     (Ítalo Estupiñán 35';
+      Luis Cubilla 41' Fernando Morena 74')
+Thu Jul 5
+  Uruguay              v Colombia              0-1   @ Montevideo, Uruguay
+     (Willington Ortiz 71')
+Sun Jul 8
+  Uruguay              v Ecuador               4-0   @ Montevideo, Uruguay
+     (Fernando Morena 4' Fernando Morena 27' Luis Cubilla 30' Denís Milar 62')
+Thu Aug 2
+  Iceland              v Norway                0-4   @ Reykjavík, Iceland
+     (Harald Sunde 40' Tor Egil Johansen 55' Per Pettersen 80' Tor Egil Johansen 87')
+Sun Aug 5
+  Chile                v Peru                  2-1   @ Montevideo, Uruguay
+     (Francisco Valdés 45' Rogelio Farias 58';
+      Héctor Bailetti 40')
+  Ghana                v DR Congo              1-0   @ Accra, Ghana
+     (Akuetteh Armah 35'(p))
+Sun Aug 12
+  Zambia               v Kenya                 2-0   @ Ndola, Zambia
+     (Bernard Chanda 34' Brighton Sinyangwe 72')
+Sat Aug 18
+  Australia            v Iran                  3-0   @ Sydney, Australia
+     (Adrian Alston 43' Attila Abonyi 45' Peter Wilson 83')
+Sun Aug 19
+  DR Congo             v Ghana                 4-1   @ Kinshasa, Zaïre
+     (Kembo Uba Kembo 10' Kembo Uba Kembo 65' Mavuba Mafuila 89'(p) Jean Kalala N'Tumba 90';
+      Joseph Sam 51')
+  Kenya                v Zambia                2-2   @ Nairobi, Kenya
+     (William Ouma 65' Peter Ouma 70';
+      Simon Kaushi 56' Moses Simwala ??')
+Wed Aug 22
+  Netherlands          v Iceland               5-0   @ Amsterdam, Netherlands
+     (Wim van Hanegem 6' Johan Cruyff 8' Arie Haan 17' Willy Brokamp 29' Johan Cruyff 57')
+Fri Aug 24
+  Iran                 v Australia             2-0   @ Tehran, Iran
+     (Parviz Ghelichkhani 14' Parviz Ghelichkhani 32')
+Wed Aug 29
+  Netherlands          v Iceland               8-1   @ Deventer, Netherlands
+     (Willy Brokamp 15' Johan Cruyff 21' Johan Neeskens 24' Johan Cruyff 28' René van de Kerkhof 46' Dick Schneider 48'(p) Wim van Hanegem 71' Willy Brokamp 75';
+      Elmar Geirsson 44')
+Sun Sep 2
+  Bolivia              v Paraguay              1-2   @ La Paz, Bolivia
+     (Raúl Morales 30';
+      Adalberto Escobar 41' Jorge Insfran 74')
+Sun Sep 9
+  Argentina            v Bolivia               4-0   @ Buenos Aires, Argentina
+     (Miguel Ángel Brindisi 30' Miguel Ángel Brindisi 43' Rubén Ayala 66' Rubén Ayala 75')
+Wed Sep 12
+  Norway               v Netherlands           1-2   @ Oslo, Norway
+     (Harry Hestad 77';
+      Johan Cruyff 7' Barry Hulshoff 87')
+Sun Sep 16
+  Paraguay             v Argentina             1-1   @ Asunción, Paraguay
+     (Saturnino Arrúa 41';
+      Rubén Ayala 33')
+Sun Sep 23
+  Bolivia              v Argentina             0-1   @ La Paz, Bolivia
+     (Oscar Fornari 17')
+Wed Sep 26
+  German DR            v Romania               2-0   @ Leipzig, German DR
+     (Bernd Bransch 42' Bernd Bransch 64')
+  Northern Ireland     v Bulgaria              0-0   @ Sheffield, England
+  Poland               v Wales                 3-0   @ Chorzów, Poland
+     (Robert Gadocha 29' Grzegorz Lato 34' Jan Domarski 53')
+  Russia               v Chile                 0-0   @ Moscow, Soviet Union
+  Scotland             v Czechoslovakia        2-1   @ Glasgow, Scotland
+     (Jim Holton 40' Joe Jordan 74';
+      Zdeněk Nehoda 32')
+  Switzerland          v Luxembourg            1-0   @ Lucerne, Switzerland
+     (Rolf Blättler 2')
+Sun Sep 30
+  Paraguay             v Bolivia               4-0   @ Asunción, Paraguay
+     (Pedro Alcides Bareiro 10' Juvencio Osorio 13' Jorge Insfran 18' Saturnino Arrúa 89')
+Sun Oct 7
+  Argentina            v Paraguay              3-1   @ Buenos Aires, Argentina
+     (Rubén Ayala 32'(p) Rubén Ayala 57' Carlos Guerini 89';
+      Adalberto Escobar 22')
+Wed Oct 10
+  Albania              v Finland               1-0   @ Tirana, Albania
+     (Ramazan Rragami 25'(p))
+Sat Oct 13
+  Portugal             v Bulgaria              2-2   @ Lisbon, Portugal
+     (Alfredo Quaresma 48' António Simões 89';
+      Hristo Bonev 56' Hristo Bonev 65')
+Sun Oct 14
+  Romania              v Finland               9-0   @ Bucharest, Romania
+     (Ion Dumitru 6' Dumitru Marcu 8' Mircea Sandu 25' Dumitru Marcu 42' Florea Dumitrache 45' Nicolae Pantea 55' Florea Dumitrache 63' Mircea Sandu 65' Dudu Georgescu 81')
+Wed Oct 17
+  Czechoslovakia       v Scotland              1-0   @ Bratislava, Czechoslovakia
+     (Zdeněk Nehoda 15'(p))
+  England              v Poland                1-1   @ London, England
+     (Allan Clarke 63'(p);
+      Jan Domarski 57')
+Sat Oct 20
+  Italy                v Switzerland           2-0   @ Rome, Italy
+     (Gianni Rivera 39'(p) Gigi Riva 79')
+Sun Oct 21
+  Yugoslavia           v Spain                 0-0   @ Zagreb, Yugoslavia
+  Zambia               v Morocco               4-0   @ Lusaka, Zambia
+     (Brighton Sinyangwe 17' Moses Simwala 43' Bernard Chanda 61' Brighton Sinyangwe 90')
+Sun Oct 28
+  Australia            v South Korea           0-0   @ Sydney, Australia
+Wed Oct 31
+  Belgium              v Norway                2-0   @ Brussels, Belgium
+     (Léon Dolmans 32'(p) Raoul Lambert 85'(p))
+Sun Nov 4
+  Zambia               v DR Congo              0-2   @ Lusaka, Zambia
+     (Mayanga Maku 22' Kakoko Etepé 33')
+Sat Nov 10
+  South Korea          v Australia             2-2   @ Seoul, South Korea
+     (Kim Jae-han 15' Ko Jae-wook 27';
+      Branko Buljevic 29' Ray Baartz 48')
+Sun Nov 11
+  Malta                v Sweden                1-2   @ Gżira, Malta
+     (Anton Camilleri 20';
+      Ove Kindvall 21' Bo Larsson 35'(p))
+Tue Nov 13
+  Albania              v German DR             1-4   @ Tirana, Albania
+     (Mihal Gjika 15';
+      Joachim Streich 5' Joachim Streich 35' Wolfram Löwe 62' Jürgen Sparwasser 77')
+  Australia            v South Korea           1-0   @ So Kon Po, Hong Kong
+     (Jimmy Mackay 70')
+Wed Nov 14
+  Portugal             v Northern Ireland      1-1   @ Lisbon, Portugal
+     (Rui Jordão 34';
+      Liam O'Kane 68')
+Sun Nov 18
+  Bulgaria             v Cyprus                2-0   @ Sofia, Bulgaria
+     (Bozhil Kolev 2' Georgi Denev 65')
+  DR Congo             v Zambia                2-1   @ Kinshasa, Zaïre
+     (Kembo Uba Kembo 32' Kakoko Etepé 82';
+      Obby Kapita 33')
+  Netherlands          v Belgium               0-0   @ Amsterdam, Netherlands
+  Turkey               v Switzerland           2-0   @ İzmir, Turkey
+     (Mehmet Türkkan 51' Melih Atacan 54')
+Wed Nov 21
+  Chile                v Russia                2-0   @ Santiago, Chile
+Sun Nov 25
+  Morocco              v Zambia                2-0   @ Tétouan, Morocco
+     (Mohamed Maghfour 14' Ahmed Faras 70')
+Tue Nov 27
+  Austria              v Sweden                1-2   @ Gelsenkirchen, Germany
+     (Roland Hattenberger 39';
+      Roland Sandberg 12' Bo Larsson 28'(p))
+Sun Dec 9
+  DR Congo             v Morocco               3-0   @ Kinshasa, Zaïre
+     (Kembo Uba Kembo 58' Kembo Uba Kembo 61' Mbungu Ekofa 79')
+Wed Dec 19
+  Greece               v Yugoslavia            2-4   @ Piraeus, Greece
+     (Kostas Eleftherakis 29' Josip Katalinski 44'(og);
+      Dušan Bajević 12' Stanislav Karasi 15' Ivica Šurjak 62' Stanislav Karasi 90')
 

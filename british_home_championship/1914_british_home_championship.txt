@@ -1,19 +1,19 @@
 = British Home Championship 1914
 
-# Date       Mon Jan/19 - Sat Apr/4 1914 (75d)
+# Date       Mon Jan 19 - Sat Apr 4 1914 (75d)
 # Teams      4
 # Matches    6
 
-[Mon Jan 19]
-  Wales - Northern Ireland  1-2   @ Wrexham, Wales
-[Sat Feb 14]
-  England - Northern Ireland  0-3   @ Middlesbrough, England
-[Sat Feb 28]
-  Scotland - Wales  0-0   @ Glasgow, Scotland
-[Sat Mar 14]
-  Northern Ireland - Scotland  1-1   @ Belfast, Ireland
-[Mon Mar 16]
-  Wales - England  0-2   @ Cardiff, Wales
-[Sat Apr 4]
-  Scotland - England  3-1   @ Glasgow, Scotland
+Mon Jan 19
+  Wales                v Northern Ireland      1-2   @ Wrexham, Wales
+Sat Feb 14
+  England              v Northern Ireland      0-3   @ Middlesbrough, England
+Sat Feb 28
+  Scotland             v Wales                 0-0   @ Glasgow, Scotland
+Sat Mar 14
+  Northern Ireland     v Scotland              1-1   @ Belfast, Ireland
+Mon Mar 16
+  Wales                v England               0-2   @ Cardiff, Wales
+Sat Apr 4
+  Scotland             v England               3-1   @ Glasgow, Scotland
 

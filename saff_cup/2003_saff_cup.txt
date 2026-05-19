@@ -1,31 +1,31 @@
 = SAFF Cup 2003
 
-# Date       Fri Jan/10 - Mon Jan/20 2003 (10d)
+# Date       Fri Jan 10 - Mon Jan 20 2003 (10d)
 # Teams      8
 # Matches    16
 
-[Fri Jan 10]
-  India - Pakistan  0-1   @ Dhaka, Bangladesh
-  Sri Lanka - Afghanistan  1-0   @ Dhaka, Bangladesh
-[Sat Jan 11]
-  Bangladesh - Nepal  1-0   @ Dhaka, Bangladesh
-  Maldives - Bhutan  6-0   @ Dhaka, Bangladesh
-[Sun Jan 12]
-  Afghanistan - India  0-4   @ Dhaka, Bangladesh
-  Pakistan - Sri Lanka  2-1   @ Dhaka, Bangladesh
-[Mon Jan 13]
-  Bangladesh - Maldives  1-0   @ Dhaka, Bangladesh
-  Nepal - Bhutan  2-0   @ Dhaka, Bangladesh
-[Tue Jan 14]
-  Afghanistan - Pakistan  0-1   @ Dhaka, Bangladesh
-  India - Sri Lanka  1-1   @ Dhaka, Bangladesh
-[Wed Jan 15]
-  Bangladesh - Bhutan  3-0   @ Dhaka, Bangladesh
-  Nepal - Maldives  2-3   @ Dhaka, Bangladesh
-[Sat Jan 18]
-  Bangladesh - India  2-1   @ Dhaka, Bangladesh
-  Pakistan - Maldives  0-1   @ Dhaka, Bangladesh
-[Mon Jan 20]
-  Bangladesh - Maldives  1-1   @ Dhaka, Bangladesh   [Bangladesh wins on penalties]
-  Pakistan - India  1-2   @ Dhaka, Bangladesh
+Fri Jan 10
+  India                v Pakistan              0-1   @ Dhaka, Bangladesh
+  Sri Lanka            v Afghanistan           1-0   @ Dhaka, Bangladesh
+Sat Jan 11
+  Bangladesh           v Nepal                 1-0   @ Dhaka, Bangladesh
+  Maldives             v Bhutan                6-0   @ Dhaka, Bangladesh
+Sun Jan 12
+  Afghanistan          v India                 0-4   @ Dhaka, Bangladesh
+  Pakistan             v Sri Lanka             2-1   @ Dhaka, Bangladesh
+Mon Jan 13
+  Bangladesh           v Maldives              1-0   @ Dhaka, Bangladesh
+  Nepal                v Bhutan                2-0   @ Dhaka, Bangladesh
+Tue Jan 14
+  Afghanistan          v Pakistan              0-1   @ Dhaka, Bangladesh
+  India                v Sri Lanka             1-1   @ Dhaka, Bangladesh
+Wed Jan 15
+  Bangladesh           v Bhutan                3-0   @ Dhaka, Bangladesh
+  Nepal                v Maldives              2-3   @ Dhaka, Bangladesh
+Sat Jan 18
+  Bangladesh           v India                 2-1   @ Dhaka, Bangladesh
+  Pakistan             v Maldives              0-1   @ Dhaka, Bangladesh
+Mon Jan 20
+  Bangladesh           v Maldives              1-1   @ Dhaka, Bangladesh   [Bangladesh wins on penalties]
+  Pakistan             v India                 1-2   @ Dhaka, Bangladesh
 

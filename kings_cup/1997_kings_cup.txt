@@ -1,15 +1,15 @@
 = King's Cup 1997
 
-# Date       Sun Feb/9 - Sun Feb/16 1997 (7d)
+# Date       Sun Feb 9 - Sun Feb 16 1997 (7d)
 # Teams      3
 # Matches    4
 
-[Sun Feb 9]
-  Thailand - Japan  1-1   @ Bangkok, Thailand
-[Tue Feb 11]
-  Thailand - Sweden  0-0   @ Bangkok, Thailand
-[Thu Feb 13]
-  Japan - Sweden  0-1   @ Bangkok, Thailand
-[Sun Feb 16]
-  Thailand - Sweden  1-3   @ Bangkok, Thailand
+Sun Feb 9
+  Thailand             v Japan                 1-1   @ Bangkok, Thailand
+Tue Feb 11
+  Thailand             v Sweden                0-0   @ Bangkok, Thailand
+Thu Feb 13
+  Japan                v Sweden                0-1   @ Bangkok, Thailand
+Sun Feb 16
+  Thailand             v Sweden                1-3   @ Bangkok, Thailand
 

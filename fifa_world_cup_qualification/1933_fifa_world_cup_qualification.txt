@@ -1,26 +1,26 @@
 = FIFA World Cup qualification 1933
 
-# Date       Sun Jun/11 - Sun Oct/29 1933 (140d)
+# Date       Sun Jun 11 - Sun Oct 29 1933 (140d)
 # Teams      8
 # Matches    5
 
-[Sun Jun 11]
-  Sweden - Estonia  6-2   @ Stockholm, Sweden
-     Knut Kroon 7' Lennart Bunke 10' Bertil Ericsson 13' Torsten Bunke 43' Bertil Ericsson 70' Sven Andersson 79';
-     Leonhard Kass 47' Richard Kuremaa 61'
-[Thu Jun 29]
-  Lithuania - Sweden  0-2   @ Kaunas, Lithuania
-     -; Knut Hansson 55' Knut Hansson 65'
-[Sun Sep 24]
-  Yugoslavia - Switzerland  2-2   @ Belgrade, Yugoslavia
-     Vladimir Kragić 50' Blagoje Marjanović 61';
-     Alessandro Frigerio 76' Willy Jäggi 80'
-[Sun Oct 15]
-  Poland - Czechoslovakia  1-2   @ Warsaw, Poland
-     Henryk Martyna 52';
-     Josef Silný 33' František Pelcner 77'
-[Sun Oct 29]
-  Switzerland - Romania  2-2   @ Bern, Switzerland
-     Ernst Hufschmid 75' Erwin Hochsträsser 80' (pen.);
-     Grațian Sepi 18' Ștefan Dobay 67'
+Sun Jun 11
+  Sweden               v Estonia               6-2   @ Stockholm, Sweden
+     (Knut Kroon 7' Lennart Bunke 10' Bertil Ericsson 13' Torsten Bunke 43' Bertil Ericsson 70' Sven Andersson 79';
+      Leonhard Kass 47' Richard Kuremaa 61')
+Thu Jun 29
+  Lithuania            v Sweden                0-2   @ Kaunas, Lithuania
+     (Knut Hansson 55' Knut Hansson 65')
+Sun Sep 24
+  Yugoslavia           v Switzerland           2-2   @ Belgrade, Yugoslavia
+     (Vladimir Kragić 50' Blagoje Marjanović 61';
+      Alessandro Frigerio 76' Willy Jäggi 80')
+Sun Oct 15
+  Poland               v Czechoslovakia        1-2   @ Warsaw, Poland
+     (Henryk Martyna 52';
+      Josef Silný 33' František Pelcner 77')
+Sun Oct 29
+  Switzerland          v Romania               2-2   @ Bern, Switzerland
+     (Ernst Hufschmid 75' Erwin Hochsträsser 80'(p);
+      Grațian Sepi 18' Ștefan Dobay 67')
 

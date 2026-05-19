@@ -1,15 +1,15 @@
 = WAFF Championship 2014
 
-# Date       Wed Jan/1 - Tue Jan/7 2014 (6d)
+# Date       Wed Jan 1 - Tue Jan 7 2014 (6d)
 # Teams      4
 # Matches    5
 
-[Wed Jan 1]
-  Kuwait - Jordan  1-2   @ Doha, Qatar
-[Sat Jan 4]
-  Bahrain - Jordan  0-1   @ Doha, Qatar
-  Qatar - Kuwait  3-0   @ Doha, Qatar
-[Tue Jan 7]
-  Bahrain - Kuwait  0-0   @ Doha, Qatar
-  Qatar - Jordan  2-0   @ Doha, Qatar
+Wed Jan 1
+  Kuwait               v Jordan                1-2   @ Doha, Qatar
+Sat Jan 4
+  Bahrain              v Jordan                0-1   @ Doha, Qatar
+  Qatar                v Kuwait                3-0   @ Doha, Qatar
+Tue Jan 7
+  Bahrain              v Kuwait                0-0   @ Doha, Qatar
+  Qatar                v Jordan                2-0   @ Doha, Qatar
 

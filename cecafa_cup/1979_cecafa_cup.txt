@@ -1,31 +1,31 @@
 = CECAFA Cup 1979
 
-# Date       Sat Nov/3 - Sat Nov/17 1979 (14d)
+# Date       Sat Nov 3 - Sat Nov 17 1979 (14d)
 # Teams      7
 # Matches    14
 
-[Sat Nov 3]
-  Kenya - Tanzania  0-0   @ Nairobi, Kenya
-[Sun Nov 4]
-  Malawi - Zanzibar  4-0   @ Mombasa, Kenya
-  Uganda - Zambia  1-2   @ Nairobi, Kenya
-[Tue Nov 6]
-  Tanzania - Zambia  2-2   @ Nairobi, Kenya
-[Wed Nov 7]
-  Kenya - Uganda  3-1   @ Nairobi, Kenya
-  Malawi - Sudan  4-0   @ Mombasa, Kenya
-[Fri Nov 9]
-  Sudan - Zanzibar  1-1   @ Nairobi, Kenya
-  Tanzania - Uganda  5-3   @ Nairobi, Kenya
-[Sat Nov 10]
-  Kenya - Zambia  3-1   @ Nairobi, Kenya
-[Tue Nov 13]
-  Malawi - Tanzania  1-1   @ Mombasa, Kenya
-[Wed Nov 14]
-  Kenya - Zanzibar  2-0   @ Nairobi, Kenya
-  Malawi - Tanzania  4-0   @ Nairobi, Kenya
-[Fri Nov 16]
-  Tanzania - Zanzibar  2-1   @ Mombasa, Kenya
-[Sat Nov 17]
-  Kenya - Malawi  2-3   @ Nairobi, Kenya
+Sat Nov 3
+  Kenya                v Tanzania              0-0   @ Nairobi, Kenya
+Sun Nov 4
+  Malawi               v Zanzibar              4-0   @ Mombasa, Kenya
+  Uganda               v Zambia                1-2   @ Nairobi, Kenya
+Tue Nov 6
+  Tanzania             v Zambia                2-2   @ Nairobi, Kenya
+Wed Nov 7
+  Kenya                v Uganda                3-1   @ Nairobi, Kenya
+  Malawi               v Sudan                 4-0   @ Mombasa, Kenya
+Fri Nov 9
+  Sudan                v Zanzibar              1-1   @ Nairobi, Kenya
+  Tanzania             v Uganda                5-3   @ Nairobi, Kenya
+Sat Nov 10
+  Kenya                v Zambia                3-1   @ Nairobi, Kenya
+Tue Nov 13
+  Malawi               v Tanzania              1-1   @ Mombasa, Kenya
+Wed Nov 14
+  Kenya                v Zanzibar              2-0   @ Nairobi, Kenya
+  Malawi               v Tanzania              4-0   @ Nairobi, Kenya
+Fri Nov 16
+  Tanzania             v Zanzibar              2-1   @ Mombasa, Kenya
+Sat Nov 17
+  Kenya                v Malawi                2-3   @ Nairobi, Kenya
 

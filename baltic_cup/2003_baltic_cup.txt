@@ -1,17 +1,17 @@
 = Baltic Cup 2003
 
-# Date       Thu Jul/3 - Sat Jul/5 2003 (2d)
+# Date       Thu Jul 3 - Sat Jul 5 2003 (2d)
 # Teams      3
 # Matches    3
 
-[Thu Jul 3]
-  Estonia - Lithuania  1-5   @ Valga, Estonia
-     Jaanus Sirel 57';
-     Igoris Morinas 39' Deividas Česnauskis 45' Andrius Velička 72' Marius Bezykornovas 84' Edgaras Česnauskis 90'
-[Fri Jul 4]
-  Latvia - Lithuania  2-1   @ Valga, Estonia
-     Juris Laizāns 28' Andrejs Rubins 32';
-     Tomas Tamošauskas 73'
-[Sat Jul 5]
-  Estonia - Latvia  0-0   @ Tallinn, Estonia
+Thu Jul 3
+  Estonia              v Lithuania             1-5   @ Valga, Estonia
+     (Jaanus Sirel 57';
+      Igoris Morinas 39' Deividas Česnauskis 45' Andrius Velička 72' Marius Bezykornovas 84' Edgaras Česnauskis 90')
+Fri Jul 4
+  Latvia               v Lithuania             2-1   @ Valga, Estonia
+     (Juris Laizāns 28' Andrejs Rubins 32';
+      Tomas Tamošauskas 73')
+Sat Jul 5
+  Estonia              v Latvia                0-0   @ Tallinn, Estonia
 

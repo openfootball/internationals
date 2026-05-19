@@ -1,97 +1,97 @@
 = Gold Cup 2025
 
-# Date       Sat Jun/14 - Sun Jul/6 2025 (22d)
+# Date       Sat Jun 14 - Sun Jul 6 2025 (22d)
 # Teams      16
 # Matches    31
 
-[Sat Jun 14]
-  Mexico - Dominican Republic  3-2   @ Inglewood, United States
-     Edson Álvarez 44' Raúl Jiménez 47' César Montes 53';
-     Peter González 51' Edison Azcona 67'
-[Sun Jun 15]
-  Costa Rica - Suriname  4-3   @ San Diego, United States
-     Alonso Martínez 14' Manfred Ugalde 19' (pen.) Josimar Alcócer 76' Manfred Ugalde 90' (pen.);
-     Gyrano Kerk 34' Richonell Margaret 59' Shaquille Pinas 64' (pen.)
-  United States - Trinidad and Tobago  5-0   @ San Jose, United States
-     Malik Tillman 16' Malik Tillman 41' Patrick Agyemang 44' Brenden Aaronson 82' Haji Wright 84'
-  Haiti - Saudi Arabia  0-1   @ San Diego, United States
-     -; Saleh Al-Shehri 21' (pen.)
-[Mon Jun 16]
-  Panama - Guadeloupe  5-2   @ Carson, United States
-     Cristian Martínez 6' Ismael Díaz 13' Ismael Díaz 17' Eduardo Guerrero 22' (pen.) Tomás Rodríguez 90';
-     Jordan Leborgne 29' Florian David 71' (pen.)
-  Jamaica - Guatemala  0-1   @ Carson, United States
-     -; Óscar Santis 32'
-[Tue Jun 17]
-  Curaçao - El Salvador  0-0   @ San Jose, United States
-  Canada - Honduras  6-0   @ Vancouver, Canada
-     Niko Sigur 27' Tani Oluwaseyi 45' Tajon Buchanan 48' Tajon Buchanan 65' Promise David 75' Nathan Saliba 90'
-[Wed Jun 18]
-  Costa Rica - Dominican Republic  2-1   @ Arlington, United States
-     Manfred Ugalde 44' (pen.) Josimar Alcócer 85';
-     Joao Urbáez 16'
-  Suriname - Mexico  0-2   @ Arlington, United States
-     -; César Montes 57' César Montes 63'
-[Thu Jun 19]
-  Trinidad and Tobago - Haiti  1-1   @ Houston, United States
-     Justin Garcia 68';
-     Frantzdy Pierrot 49'
-  United States - Saudi Arabia  1-0   @ Austin, United States
-     Chris Richards 63'
-[Fri Jun 20]
-  Jamaica - Guadeloupe  2-1   @ San Jose, United States
-     Leon Bailey 41' Jon Russell 45';
-     Thierry Ambrose 32'
-  Guatemala - Panama  0-1   @ Austin, United States
-     -; Tomás Rodríguez 19'
-[Sat Jun 21]
-  Curaçao - Canada  1-1   @ Houston, United States
-     Jeremy Antonisse 90';
-     Nathan Saliba 9'
-  Honduras - El Salvador  2-0   @ Houston, United States
-     Romell Quioto 33' Dixon Ramírez 90'
-[Sun Jun 22]
-  Mexico - Costa Rica  0-0   @ Paradise, United States
-  Dominican Republic - Suriname  0-0   @ Arlington, United States
-  Saudi Arabia - Trinidad and Tobago  1-1   @ Paradise, United States
-     Firas Al-Buraikan 60';
-     Dante Sealy 10'
-  United States - Haiti  2-1   @ Arlington, United States
-     Malik Tillman 10' Patrick Agyemang 75';
-     Don Deedson Louicius 19'
-[Tue Jun 24]
-  Honduras - Curaçao  2-1   @ San Jose, United States
-     Jorge Álvarez 32' Luis Palma 90';
-     Edrick Menjívar 42' (o.g.)
-  Canada - El Salvador  2-0   @ Houston, United States
-     Jonathan David 53' Tajon Buchanan 56'
-  Panama - Jamaica  4-1   @ Austin, United States
-     Ismael Díaz 4' Ismael Díaz 17' Ismael Díaz 45' (pen.) Tomás Rodríguez 89';
-     Amari'i Bell 27'
-  Guadeloupe - Guatemala  2-3   @ Houston, United States
-     Ange-Freddy Plumain 50' (pen.) Matthias Phaëton 78';
-     José Carlos Pinto 13' (pen.) Olger Escobar 29' Rubio Rubin 70'
-[Sat Jun 28]
-  Panama - Honduras  1-1   @ Glendale, United States   [Honduras wins on penalties]
-     Ismael Díaz 45' (pen.);
-     Anthony Lozano 82'
-  Mexico - Saudi Arabia  2-0   @ Glendale, United States
-     Alexis Vega 49' Abdullah Madu 81' (o.g.)
-[Sun Jun 29]
-  Canada - Guatemala  1-1   @ Minneapolis, United States   [Guatemala wins on penalties]
-     Jonathan David 30' (pen.);
-     Rubio Rubin 69'
-  United States - Costa Rica  2-2   @ Minneapolis, United States   [United States wins on penalties]
-     Diego Luna 43' Maximilian Arfsten 47';
-     Francisco Calvo 12' (pen.) Alonso Martínez 71'
-[Wed Jul 2]
-  United States - Guatemala  2-1   @ St. Louis, United States
-     Diego Luna 4' Diego Luna 15';
-     Olger Escobar 80'
-  Mexico - Honduras  1-0   @ Santa Clara, United States
-     Raúl Jiménez 50'
-[Sun Jul 6]
-  United States - Mexico  1-2   @ Houston, United States
-     Chris Richards 4';
-     Raúl Jiménez 27' Edson Álvarez 77'
+Sat Jun 14
+  Mexico               v Dominican Republic    3-2   @ Inglewood, United States
+     (Edson Álvarez 44' Raúl Jiménez 47' César Montes 53';
+      Peter González 51' Edison Azcona 67')
+Sun Jun 15
+  Costa Rica           v Suriname              4-3   @ San Diego, United States
+     (Alonso Martínez 14' Manfred Ugalde 19'(p) Josimar Alcócer 76' Manfred Ugalde 90'(p);
+      Gyrano Kerk 34' Richonell Margaret 59' Shaquille Pinas 64'(p))
+  United States        v Trinidad and Tobago   5-0   @ San Jose, United States
+     (Malik Tillman 16' Malik Tillman 41' Patrick Agyemang 44' Brenden Aaronson 82' Haji Wright 84')
+  Haiti                v Saudi Arabia          0-1   @ San Diego, United States
+     (Saleh Al-Shehri 21'(p))
+Mon Jun 16
+  Panama               v Guadeloupe            5-2   @ Carson, United States
+     (Cristian Martínez 6' Ismael Díaz 13' Ismael Díaz 17' Eduardo Guerrero 22'(p) Tomás Rodríguez 90';
+      Jordan Leborgne 29' Florian David 71'(p))
+  Jamaica              v Guatemala             0-1   @ Carson, United States
+     (Óscar Santis 32')
+Tue Jun 17
+  Curaçao              v El Salvador           0-0   @ San Jose, United States
+  Canada               v Honduras              6-0   @ Vancouver, Canada
+     (Niko Sigur 27' Tani Oluwaseyi 45' Tajon Buchanan 48' Tajon Buchanan 65' Promise David 75' Nathan Saliba 90')
+Wed Jun 18
+  Costa Rica           v Dominican Republic    2-1   @ Arlington, United States
+     (Manfred Ugalde 44'(p) Josimar Alcócer 85';
+      Joao Urbáez 16')
+  Suriname             v Mexico                0-2   @ Arlington, United States
+     (César Montes 57' César Montes 63')
+Thu Jun 19
+  Trinidad and Tobago  v Haiti                 1-1   @ Houston, United States
+     (Justin Garcia 68';
+      Frantzdy Pierrot 49')
+  United States        v Saudi Arabia          1-0   @ Austin, United States
+     (Chris Richards 63')
+Fri Jun 20
+  Jamaica              v Guadeloupe            2-1   @ San Jose, United States
+     (Leon Bailey 41' Jon Russell 45';
+      Thierry Ambrose 32')
+  Guatemala            v Panama                0-1   @ Austin, United States
+     (Tomás Rodríguez 19')
+Sat Jun 21
+  Curaçao              v Canada                1-1   @ Houston, United States
+     (Jeremy Antonisse 90';
+      Nathan Saliba 9')
+  Honduras             v El Salvador           2-0   @ Houston, United States
+     (Romell Quioto 33' Dixon Ramírez 90')
+Sun Jun 22
+  Mexico               v Costa Rica            0-0   @ Paradise, United States
+  Dominican Republic   v Suriname              0-0   @ Arlington, United States
+  Saudi Arabia         v Trinidad and Tobago   1-1   @ Paradise, United States
+     (Firas Al-Buraikan 60';
+      Dante Sealy 10')
+  United States        v Haiti                 2-1   @ Arlington, United States
+     (Malik Tillman 10' Patrick Agyemang 75';
+      Don Deedson Louicius 19')
+Tue Jun 24
+  Honduras             v Curaçao               2-1   @ San Jose, United States
+     (Jorge Álvarez 32' Luis Palma 90';
+      Edrick Menjívar 42'(og))
+  Canada               v El Salvador           2-0   @ Houston, United States
+     (Jonathan David 53' Tajon Buchanan 56')
+  Panama               v Jamaica               4-1   @ Austin, United States
+     (Ismael Díaz 4' Ismael Díaz 17' Ismael Díaz 45'(p) Tomás Rodríguez 89';
+      Amari'i Bell 27')
+  Guadeloupe           v Guatemala             2-3   @ Houston, United States
+     (Ange-Freddy Plumain 50'(p) Matthias Phaëton 78';
+      José Carlos Pinto 13'(p) Olger Escobar 29' Rubio Rubin 70')
+Sat Jun 28
+  Panama               v Honduras              1-1   @ Glendale, United States   [Honduras wins on penalties]
+     (Ismael Díaz 45'(p);
+      Anthony Lozano 82')
+  Mexico               v Saudi Arabia          2-0   @ Glendale, United States
+     (Alexis Vega 49' Abdullah Madu 81'(og))
+Sun Jun 29
+  Canada               v Guatemala             1-1   @ Minneapolis, United States   [Guatemala wins on penalties]
+     (Jonathan David 30'(p);
+      Rubio Rubin 69')
+  United States        v Costa Rica            2-2   @ Minneapolis, United States   [United States wins on penalties]
+     (Diego Luna 43' Maximilian Arfsten 47';
+      Francisco Calvo 12'(p) Alonso Martínez 71')
+Wed Jul 2
+  United States        v Guatemala             2-1   @ St. Louis, United States
+     (Diego Luna 4' Diego Luna 15';
+      Olger Escobar 80')
+  Mexico               v Honduras              1-0   @ Santa Clara, United States
+     (Raúl Jiménez 50')
+Sun Jul 6
+  United States        v Mexico                1-2   @ Houston, United States
+     (Chris Richards 4';
+      Raúl Jiménez 27' Edson Álvarez 77')
 

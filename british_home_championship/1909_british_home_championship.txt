@@ -1,18 +1,18 @@
 = British Home Championship 1909
 
-# Date       Sat Feb/13 - Sat Apr/3 1909 (49d)
+# Date       Sat Feb 13 - Sat Apr 3 1909 (49d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 13]
-  England - Northern Ireland  4-0   @ Bradford, England
-[Mon Mar 1]
-  Wales - Scotland  3-2   @ Wrexham, Wales
-[Mon Mar 15]
-  England - Wales  2-0   @ Nottingham, England
-  Scotland - Northern Ireland  5-0   @ Glasgow, Scotland
-[Sat Mar 20]
-  Northern Ireland - Wales  2-3   @ Belfast, Ireland
-[Sat Apr 3]
-  England - Scotland  2-0   @ London, England
+Sat Feb 13
+  England              v Northern Ireland      4-0   @ Bradford, England
+Mon Mar 1
+  Wales                v Scotland              3-2   @ Wrexham, Wales
+Mon Mar 15
+  England              v Wales                 2-0   @ Nottingham, England
+  Scotland             v Northern Ireland      5-0   @ Glasgow, Scotland
+Sat Mar 20
+  Northern Ireland     v Wales                 2-3   @ Belfast, Ireland
+Sat Apr 3
+  England              v Scotland              2-0   @ London, England
 

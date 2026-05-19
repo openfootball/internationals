@@ -1,13 +1,13 @@
 = Cyprus International Tournament 2011
 
-# Date       Tue Feb/8 - Wed Feb/9 2011 (1d)
+# Date       Tue Feb 8 - Wed Feb 9 2011 (1d)
 # Teams      4
 # Matches    4
 
-[Tue Feb 8]
-  Cyprus - Sweden  0-2   @ Nicosia, Cyprus
-  Romania - Ukraine  2-2   @ Paralímni, Cyprus   [Ukraine wins on penalties]
-[Wed Feb 9]
-  Cyprus - Romania  1-1   @ Paralímni, Cyprus
-  Sweden - Ukraine  1-1   @ Nicosia, Cyprus   [Ukraine wins on penalties]
+Tue Feb 8
+  Cyprus               v Sweden                0-2   @ Nicosia, Cyprus
+  Romania              v Ukraine               2-2   @ Paralímni, Cyprus   [Ukraine wins on penalties]
+Wed Feb 9
+  Cyprus               v Romania               1-1   @ Paralímni, Cyprus
+  Sweden               v Ukraine               1-1   @ Nicosia, Cyprus   [Ukraine wins on penalties]
 

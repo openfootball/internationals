@@ -1,246 +1,246 @@
 = Friendly 1975
 
-# Date       Wed Jan/1 - Tue Dec/30 1975 (363d)
+# Date       Wed Jan 1 - Tue Dec 30 1975 (363d)
 # Teams      92
 # Matches    136
 
-[Wed Jan 1]
-  Cameroon - Guinea  1-0   @ Yaoundé, Cameroon
-  Iraq - Tunisia  0-0   @ Baghdad, Iraq
-[Fri Jan 3]
-  Bermuda - Suriname  2-5   @ Hamilton, Bermuda
-[Sun Jan 5]
-  Cuba - Canada  4-0   @ Havana, Cuba
-[Thu Jan 9]
-  Iraq - Libya  3-1   @ Baghdad, Iraq
-[Tue Jan 14]
-  Kuwait - Libya  1-0   @ Kuwait City, Kuwait
-[Sun Jan 19]
-  Mali - Guinea  0-2   @ Bamako, Mali
-[Wed Jan 22]
-  Nigeria - Cameroon  1-0   @ Lagos, Nigeria
-[Sun Jan 26]
-  Guinea - Cameroon  3-0   @ Conakry, Guinea
-[Wed Jan 29]
-  Malawi - Mauritius  1-0   @ Zomba, Malawi
-[Thu Jan 30]
-  Liberia - Cameroon  2-0   @ Monrovia, Liberia
-[Fri Jan 31]
-  Malawi - Mauritius  1-1   @ Blantyre, Malawi
-[Sun Feb 2]
-  Jamaica - Haiti  1-0   @ Kingston, Jamaica
-  Malawi - Mauritius  3-0   @ Blantyre, Malawi
-  Mali - Cameroon  1-2   @ Bamako, Mali
-  Senegal - Nigeria  0-1   @ Dakar, Senegal
-[Wed Feb 5]
-  Jamaica - Haiti  0-1   @ Kingston, Jamaica
-[Sun Feb 9]
-  Liberia - Nigeria  0-1   @ Monrovia, Liberia
-[Sun Feb 16]
-  Mali - Senegal  2-1   @ Bamako, Mali
-[Wed Feb 19]
-  Italy - Norway  4-1   @ Florence, Italy
-[Sat Feb 22]
-  Haiti - Jamaica  0-1   @ Port-au-Prince, Haiti
-  Nigeria - Senegal  1-1   @ Lagos, Nigeria
-[Sun Feb 23]
-  Burkina Faso - Niger  4-1   @ Ouagadougou, Upper Volta
-  Tanzania - Malawi  3-1   @ Dar es Salaam, Tanzania
-[Tue Feb 25]
-  Haiti - Jamaica  3-2   @ Port-au-Prince, Haiti
-  Tanzania - Malawi  2-0   @ Dar es Salaam, Tanzania
-[Thu Feb 27]
-  Zanzibar - Malawi  2-7   @ Zanzibar City, Zanzibar
-[Sun Mar 2]
-  Morocco - Tunisia  0-0   @ Casablanca, Morocco
-[Sun Mar 9]
-  Brazil - Portugal  2-1   @ Goiânia, Brazil
-[Wed Mar 12]
-  England - Germany  2-0   @ London, England
-[Thu Mar 13]
-  Guadeloupe - Puerto Rico  2-1   @ Basse-Terre, Guadeloupe
-[Wed Mar 19]
-  Turkey - Romania  1-1   @ Istanbul, Turkey
-[Sun Mar 23]
-  Ghana - Burkina Faso  3-1   @ Accra, Ghana
-[Wed Mar 26]
-  France - Hungary  2-0   @ Paris, France
-  German DR - Bulgaria  0-0   @ Berlin, German DR
-  Poland - United States  7-0   @ Poznań, Poland
-[Sun Mar 30]
-  Guadeloupe - Suriname  4-2   @ Basse-Terre, Guadeloupe
-[Mon Mar 31]
-  Barbados - Suriname  1-0   @ Bridgetown, Barbados
-  Czechoslovakia - Romania  1-1   @ Prague, Czechoslovakia
-[Tue Apr 1]
-  Cyprus - Greece  1-2   @ Nicosia, Cyprus
-[Wed Apr 2]
-  Italy - United States  10-0   @ Rome, Italy
-[Fri Apr 4]
-  Macau - Panama  2-1   @ Macau, Macau
-[Wed Apr 16]
-  Sweden - Scotland  1-1   @ Gothenburg, Sweden
-[Sat Apr 26]
-  France - Portugal  0-2   @ Colombes, France
-  Nigeria - Togo  1-0   @ Dakar, Senegal
-  Senegal - Ivory Coast  1-0   @ Dakar, Senegal
-[Sun Apr 27]
-  Ivory Coast - Togo  0-3   @ Dakar, Senegal
-  Senegal - Nigeria  1-0   @ Dakar, Senegal
-[Wed Apr 30]
-  Belgium - Netherlands  1-0   @ Antwerp, Belgium
-[Sat May 10]
-  Martinique - Guadeloupe  8-2   @ Fort-de-France, Martinique
-[Tue May 13]
-  Scotland - Portugal  1-0   @ Glasgow, Scotland
-[Sat May 17]
-  Germany - Netherlands  1-1   @ Frankfurt am Main, Germany
-[Mon May 19]
-  Sweden - Algeria  4-0   @ Halmstad, Sweden
-[Fri May 23]
-  China PR - Equatorial Guinea  6-2   @ Beijing, China PR
-[Wed May 28]
-  German DR - Poland  1-2   @ Halle, German DR
-[Thu Jun 5]
-  Kenya - Ethiopia  2-1   @ Nairobi, Kenya
-[Sat Jun 7]
-  Austria - Czechoslovakia  0-0   @ Vienna, Austria
-[Sun Jun 8]
-  Guinea-Bissau - Gambia  1-0   @ Bissau, Guinea-Bissau
-  Russia - Italy  1-0   @ Moscow, Soviet Union
-[Wed Jun 11]
-  Kenya - Congo  2-1   @ Nairobi, Kenya
-[Fri Jun 13]
-  Panama - Costa Rica  1-1   @ Panama City, Panama
-  Uganda - Congo  0-1   @ Kampala, Uganda
-[Sun Jun 22]
-  Ecuador - Peru  6-0   @ Quito, Ecuador
-  Tanzania - Zambia  1-1   @ Maputo, Mozambique
-[Mon Jun 23]
-  Iceland - Faroe Islands  6-0   @ Reykjavík, Iceland
-[Tue Jun 24]
-  United States - Poland  0-4   @ Seattle, United States
-[Wed Jun 25]
-  Ecuador - Peru  1-0   @ Guayaquil, Ecuador
-  Mozambique - Zambia  2-1   @ Maputo, Mozambique
-[Fri Jun 27]
-  Bolivia - Argentina  1-2   @ Cochabamba, Bolivia
-[Sun Jun 29]
-  Mozambique - Tanzania  2-1   @ Maputo, Mozambique
-[Tue Jul 1]
-  Peru - Ecuador  2-0   @ Lima, Peru
-[Thu Jul 3]
-  China PR - Thailand  2-2   @ Beijing, China PR
-[Sun Jul 6]
-  Canada - Poland  1-8   @ Montreal, Canada
-  Malawi - Kenya  3-3   @ Blantyre, Malawi
-[Mon Jul 7]
-  Bolivia - Paraguay  1-2   @ Cochabamba, Bolivia
-[Tue Jul 8]
-  Hong Kong - Thailand  1-1   @ Victoria, Hong Kong
-  Malawi - Kenya  1-2   @ Blantyre, Malawi
-[Wed Jul 9]
-  Bolivia - Ecuador  1-0   @ Cochabamba, Bolivia
-  Canada - Poland  1-4   @ Toronto, Canada
-[Thu Jul 10]
-  Malawi - Kenya  3-1   @ Lilongwe, Malawi
-  Peru - Paraguay  2-0   @ Lima, Peru
-[Sat Jul 12]
-  Egypt - DR Congo  3-2   @ Tehran, Iran
-[Sun Jul 20]
-  New Zealand - China PR  2-1   @ Auckland, New Zealand
-[Wed Jul 23]
-  New Zealand - China PR  2-2   @ Wellington, New Zealand
-[Sat Jul 26]
-  New Zealand - China PR  2-0   @ Christchurch, New Zealand
-[Mon Jul 28]
-  Fiji - China PR  1-4   @ Suva, Fiji
-[Tue Jul 29]
-  Canada - German DR  0-3   @ Toronto, Canada
-[Thu Jul 31]
-  Canada - German DR  1-7   @ Ottawa, Canada
-[Fri Aug 1]
-  Mexico - German DR  2-3   @ San Francisco, United States
-  Panama - Guatemala  2-0   @ Panama City, Panama
-[Sun Aug 3]
-  Mexico - German DR  0-1   @ Los Angeles, United States
-[Wed Aug 6]
-  Australia - China PR  1-0   @ Melbourne, Australia
-  Ghana - Ivory Coast  3-1   @ Accra, Ghana
-  Mexico - German DR  1-0   @ Monterrey, Mexico
-[Sun Aug 10]
-  Ghana - Ivory Coast  0-0   @ Accra, Ghana
-  Iran - Hungary  1-2   @ Tehran, Iran
-[Thu Aug 14]
-  China PR - Kuwait  3-3   @ Beijing, China PR
-[Fri Aug 15]
-  Panama - Haiti  2-0   @ Panama City, Panama
-[Sun Aug 17]
-  Mexico - Costa Rica  7-0   @ Mexico City, Mexico
-  Panama - Haiti  1-1   @ La Chorrera, Panama
-[Tue Aug 19]
-  Costa Rica - United States  3-1   @ Mexico City, Mexico
-[Thu Aug 21]
-  Argentina - United States  6-0   @ Mexico City, Mexico
-[Sun Aug 24]
-  Ghana - Nigeria  1-2   @ Accra, Ghana
-  Mexico - United States  2-0   @ Mexico City, Mexico
-[Sun Aug 31]
-  Ghana - Nigeria  3-0   @ Accra, Ghana
-  Mexico - Argentina  1-1   @ Mexico City, Mexico
-[Wed Sep 3]
-  Austria - Germany  0-2   @ Vienna, Austria
-  Switzerland - England  1-2   @ Basel, Switzerland
-[Fri Sep 5]
-  Mali - Nigeria  4-1   @ Abidjan, Ivory Coast
-  Panama - Cuba  0-1   @ Panama City, Panama
-[Sun Sep 7]
-  Ivory Coast - Nigeria  1-1   @ Abidjan, Ivory Coast
-  Panama - Cuba  2-2   @ La Chorrera, Panama
-[Mon Sep 8]
-  South Korea - Japan  3-0   @ Seoul, South Korea
-[Tue Sep 16]
-  Panama - Cuba  2-3   @ Panama City, Panama
-[Wed Sep 24]
-  Czechoslovakia - Switzerland  1-1   @ Brno, Czechoslovakia
-[Fri Sep 26]
-  Haiti - Guadeloupe  3-0   @ Port-au-Prince, Haiti
-[Sun Oct 5]
-  Antigua and Barbuda - Barbados  1-0   @ St. John's, Antigua and Barbuda
-[Wed Oct 8]
-  Poland - Hungary  4-2   @ Łódź, Poland
-[Thu Oct 9]
-  Uganda - DR Congo  1-2   @ Kampala, Uganda
-[Sun Oct 12]
-  Romania - Turkey  2-2   @ Bucharest, Romania
-[Wed Oct 15]
-  Czechoslovakia - Hungary  1-1   @ Bratislava, Czechoslovakia
-[Sat Oct 18]
-  Tanzania - Kenya  1-2   @ Dar es Salaam, Tanzania
-[Sun Oct 19]
-  China PR - New Zealand  2-1   @ Beijing, China PR
-[Mon Oct 20]
-  Israel - Mexico  1-0   @ Jaffa, Israel
-[Fri Oct 24]
-  Zambia - Mozambique  3-0   @ Lusaka, Zambia
-[Wed Nov 5]
-  French Guiana - Martinique  1-2   @ Cayenne, French Guiana
-  Macau - New Zealand  1-1   @ Macau, Macau
-[Sun Nov 9]
-  Singapore - New Zealand  2-2   @ Kallang, Singapore
-[Wed Nov 19]
-  Cameroon - DR Congo  2-1   @ Yaoundé, Cameroon
-[Sat Nov 22]
-  Cameroon - DR Congo  2-2   @ Yaoundé, Cameroon
-[Sat Nov 29]
-  Romania - Russia  2-2   @ Bucharest, Romania
-[Sat Dec 20]
-  Malawi - Eswatini  2-0   @ Blantyre, Malawi
-  Turkey - Germany  0-5   @ Istanbul, Turkey
-[Mon Dec 22]
-  Malawi - Eswatini  0-0   @ Blantyre, Malawi
-[Fri Dec 26]
-  Bermuda - Suriname  1-5   @ Hamilton, Bermuda
-[Tue Dec 30]
-  Italy - Greece  3-2   @ Florence, Italy
+Wed Jan 1
+  Cameroon             v Guinea                1-0   @ Yaoundé, Cameroon
+  Iraq                 v Tunisia               0-0   @ Baghdad, Iraq
+Fri Jan 3
+  Bermuda              v Suriname              2-5   @ Hamilton, Bermuda
+Sun Jan 5
+  Cuba                 v Canada                4-0   @ Havana, Cuba
+Thu Jan 9
+  Iraq                 v Libya                 3-1   @ Baghdad, Iraq
+Tue Jan 14
+  Kuwait               v Libya                 1-0   @ Kuwait City, Kuwait
+Sun Jan 19
+  Mali                 v Guinea                0-2   @ Bamako, Mali
+Wed Jan 22
+  Nigeria              v Cameroon              1-0   @ Lagos, Nigeria
+Sun Jan 26
+  Guinea               v Cameroon              3-0   @ Conakry, Guinea
+Wed Jan 29
+  Malawi               v Mauritius             1-0   @ Zomba, Malawi
+Thu Jan 30
+  Liberia              v Cameroon              2-0   @ Monrovia, Liberia
+Fri Jan 31
+  Malawi               v Mauritius             1-1   @ Blantyre, Malawi
+Sun Feb 2
+  Jamaica              v Haiti                 1-0   @ Kingston, Jamaica
+  Malawi               v Mauritius             3-0   @ Blantyre, Malawi
+  Mali                 v Cameroon              1-2   @ Bamako, Mali
+  Senegal              v Nigeria               0-1   @ Dakar, Senegal
+Wed Feb 5
+  Jamaica              v Haiti                 0-1   @ Kingston, Jamaica
+Sun Feb 9
+  Liberia              v Nigeria               0-1   @ Monrovia, Liberia
+Sun Feb 16
+  Mali                 v Senegal               2-1   @ Bamako, Mali
+Wed Feb 19
+  Italy                v Norway                4-1   @ Florence, Italy
+Sat Feb 22
+  Haiti                v Jamaica               0-1   @ Port-au-Prince, Haiti
+  Nigeria              v Senegal               1-1   @ Lagos, Nigeria
+Sun Feb 23
+  Burkina Faso         v Niger                 4-1   @ Ouagadougou, Upper Volta
+  Tanzania             v Malawi                3-1   @ Dar es Salaam, Tanzania
+Tue Feb 25
+  Haiti                v Jamaica               3-2   @ Port-au-Prince, Haiti
+  Tanzania             v Malawi                2-0   @ Dar es Salaam, Tanzania
+Thu Feb 27
+  Zanzibar             v Malawi                2-7   @ Zanzibar City, Zanzibar
+Sun Mar 2
+  Morocco              v Tunisia               0-0   @ Casablanca, Morocco
+Sun Mar 9
+  Brazil               v Portugal              2-1   @ Goiânia, Brazil
+Wed Mar 12
+  England              v Germany               2-0   @ London, England
+Thu Mar 13
+  Guadeloupe           v Puerto Rico           2-1   @ Basse-Terre, Guadeloupe
+Wed Mar 19
+  Turkey               v Romania               1-1   @ Istanbul, Turkey
+Sun Mar 23
+  Ghana                v Burkina Faso          3-1   @ Accra, Ghana
+Wed Mar 26
+  France               v Hungary               2-0   @ Paris, France
+  German DR            v Bulgaria              0-0   @ Berlin, German DR
+  Poland               v United States         7-0   @ Poznań, Poland
+Sun Mar 30
+  Guadeloupe           v Suriname              4-2   @ Basse-Terre, Guadeloupe
+Mon Mar 31
+  Barbados             v Suriname              1-0   @ Bridgetown, Barbados
+  Czechoslovakia       v Romania               1-1   @ Prague, Czechoslovakia
+Tue Apr 1
+  Cyprus               v Greece                1-2   @ Nicosia, Cyprus
+Wed Apr 2
+  Italy                v United States         10-0   @ Rome, Italy
+Fri Apr 4
+  Macau                v Panama                2-1   @ Macau, Macau
+Wed Apr 16
+  Sweden               v Scotland              1-1   @ Gothenburg, Sweden
+Sat Apr 26
+  France               v Portugal              0-2   @ Colombes, France
+  Nigeria              v Togo                  1-0   @ Dakar, Senegal
+  Senegal              v Ivory Coast           1-0   @ Dakar, Senegal
+Sun Apr 27
+  Ivory Coast          v Togo                  0-3   @ Dakar, Senegal
+  Senegal              v Nigeria               1-0   @ Dakar, Senegal
+Wed Apr 30
+  Belgium              v Netherlands           1-0   @ Antwerp, Belgium
+Sat May 10
+  Martinique           v Guadeloupe            8-2   @ Fort-de-France, Martinique
+Tue May 13
+  Scotland             v Portugal              1-0   @ Glasgow, Scotland
+Sat May 17
+  Germany              v Netherlands           1-1   @ Frankfurt am Main, Germany
+Mon May 19
+  Sweden               v Algeria               4-0   @ Halmstad, Sweden
+Fri May 23
+  China PR             v Equatorial Guinea     6-2   @ Beijing, China PR
+Wed May 28
+  German DR            v Poland                1-2   @ Halle, German DR
+Thu Jun 5
+  Kenya                v Ethiopia              2-1   @ Nairobi, Kenya
+Sat Jun 7
+  Austria              v Czechoslovakia        0-0   @ Vienna, Austria
+Sun Jun 8
+  Guinea-Bissau        v Gambia                1-0   @ Bissau, Guinea-Bissau
+  Russia               v Italy                 1-0   @ Moscow, Soviet Union
+Wed Jun 11
+  Kenya                v Congo                 2-1   @ Nairobi, Kenya
+Fri Jun 13
+  Panama               v Costa Rica            1-1   @ Panama City, Panama
+  Uganda               v Congo                 0-1   @ Kampala, Uganda
+Sun Jun 22
+  Ecuador              v Peru                  6-0   @ Quito, Ecuador
+  Tanzania             v Zambia                1-1   @ Maputo, Mozambique
+Mon Jun 23
+  Iceland              v Faroe Islands         6-0   @ Reykjavík, Iceland
+Tue Jun 24
+  United States        v Poland                0-4   @ Seattle, United States
+Wed Jun 25
+  Ecuador              v Peru                  1-0   @ Guayaquil, Ecuador
+  Mozambique           v Zambia                2-1   @ Maputo, Mozambique
+Fri Jun 27
+  Bolivia              v Argentina             1-2   @ Cochabamba, Bolivia
+Sun Jun 29
+  Mozambique           v Tanzania              2-1   @ Maputo, Mozambique
+Tue Jul 1
+  Peru                 v Ecuador               2-0   @ Lima, Peru
+Thu Jul 3
+  China PR             v Thailand              2-2   @ Beijing, China PR
+Sun Jul 6
+  Canada               v Poland                1-8   @ Montreal, Canada
+  Malawi               v Kenya                 3-3   @ Blantyre, Malawi
+Mon Jul 7
+  Bolivia              v Paraguay              1-2   @ Cochabamba, Bolivia
+Tue Jul 8
+  Hong Kong            v Thailand              1-1   @ Victoria, Hong Kong
+  Malawi               v Kenya                 1-2   @ Blantyre, Malawi
+Wed Jul 9
+  Bolivia              v Ecuador               1-0   @ Cochabamba, Bolivia
+  Canada               v Poland                1-4   @ Toronto, Canada
+Thu Jul 10
+  Malawi               v Kenya                 3-1   @ Lilongwe, Malawi
+  Peru                 v Paraguay              2-0   @ Lima, Peru
+Sat Jul 12
+  Egypt                v DR Congo              3-2   @ Tehran, Iran
+Sun Jul 20
+  New Zealand          v China PR              2-1   @ Auckland, New Zealand
+Wed Jul 23
+  New Zealand          v China PR              2-2   @ Wellington, New Zealand
+Sat Jul 26
+  New Zealand          v China PR              2-0   @ Christchurch, New Zealand
+Mon Jul 28
+  Fiji                 v China PR              1-4   @ Suva, Fiji
+Tue Jul 29
+  Canada               v German DR             0-3   @ Toronto, Canada
+Thu Jul 31
+  Canada               v German DR             1-7   @ Ottawa, Canada
+Fri Aug 1
+  Mexico               v German DR             2-3   @ San Francisco, United States
+  Panama               v Guatemala             2-0   @ Panama City, Panama
+Sun Aug 3
+  Mexico               v German DR             0-1   @ Los Angeles, United States
+Wed Aug 6
+  Australia            v China PR              1-0   @ Melbourne, Australia
+  Ghana                v Ivory Coast           3-1   @ Accra, Ghana
+  Mexico               v German DR             1-0   @ Monterrey, Mexico
+Sun Aug 10
+  Ghana                v Ivory Coast           0-0   @ Accra, Ghana
+  Iran                 v Hungary               1-2   @ Tehran, Iran
+Thu Aug 14
+  China PR             v Kuwait                3-3   @ Beijing, China PR
+Fri Aug 15
+  Panama               v Haiti                 2-0   @ Panama City, Panama
+Sun Aug 17
+  Mexico               v Costa Rica            7-0   @ Mexico City, Mexico
+  Panama               v Haiti                 1-1   @ La Chorrera, Panama
+Tue Aug 19
+  Costa Rica           v United States         3-1   @ Mexico City, Mexico
+Thu Aug 21
+  Argentina            v United States         6-0   @ Mexico City, Mexico
+Sun Aug 24
+  Ghana                v Nigeria               1-2   @ Accra, Ghana
+  Mexico               v United States         2-0   @ Mexico City, Mexico
+Sun Aug 31
+  Ghana                v Nigeria               3-0   @ Accra, Ghana
+  Mexico               v Argentina             1-1   @ Mexico City, Mexico
+Wed Sep 3
+  Austria              v Germany               0-2   @ Vienna, Austria
+  Switzerland          v England               1-2   @ Basel, Switzerland
+Fri Sep 5
+  Mali                 v Nigeria               4-1   @ Abidjan, Ivory Coast
+  Panama               v Cuba                  0-1   @ Panama City, Panama
+Sun Sep 7
+  Ivory Coast          v Nigeria               1-1   @ Abidjan, Ivory Coast
+  Panama               v Cuba                  2-2   @ La Chorrera, Panama
+Mon Sep 8
+  South Korea          v Japan                 3-0   @ Seoul, South Korea
+Tue Sep 16
+  Panama               v Cuba                  2-3   @ Panama City, Panama
+Wed Sep 24
+  Czechoslovakia       v Switzerland           1-1   @ Brno, Czechoslovakia
+Fri Sep 26
+  Haiti                v Guadeloupe            3-0   @ Port-au-Prince, Haiti
+Sun Oct 5
+  Antigua and Barbuda  v Barbados              1-0   @ St. John's, Antigua and Barbuda
+Wed Oct 8
+  Poland               v Hungary               4-2   @ Łódź, Poland
+Thu Oct 9
+  Uganda               v DR Congo              1-2   @ Kampala, Uganda
+Sun Oct 12
+  Romania              v Turkey                2-2   @ Bucharest, Romania
+Wed Oct 15
+  Czechoslovakia       v Hungary               1-1   @ Bratislava, Czechoslovakia
+Sat Oct 18
+  Tanzania             v Kenya                 1-2   @ Dar es Salaam, Tanzania
+Sun Oct 19
+  China PR             v New Zealand           2-1   @ Beijing, China PR
+Mon Oct 20
+  Israel               v Mexico                1-0   @ Jaffa, Israel
+Fri Oct 24
+  Zambia               v Mozambique            3-0   @ Lusaka, Zambia
+Wed Nov 5
+  French Guiana        v Martinique            1-2   @ Cayenne, French Guiana
+  Macau                v New Zealand           1-1   @ Macau, Macau
+Sun Nov 9
+  Singapore            v New Zealand           2-2   @ Kallang, Singapore
+Wed Nov 19
+  Cameroon             v DR Congo              2-1   @ Yaoundé, Cameroon
+Sat Nov 22
+  Cameroon             v DR Congo              2-2   @ Yaoundé, Cameroon
+Sat Nov 29
+  Romania              v Russia                2-2   @ Bucharest, Romania
+Sat Dec 20
+  Malawi               v Eswatini              2-0   @ Blantyre, Malawi
+  Turkey               v Germany               0-5   @ Istanbul, Turkey
+Mon Dec 22
+  Malawi               v Eswatini              0-0   @ Blantyre, Malawi
+Fri Dec 26
+  Bermuda              v Suriname              1-5   @ Hamilton, Bermuda
+Tue Dec 30
+  Italy                v Greece                3-2   @ Florence, Italy
 

@@ -1,11 +1,11 @@
 = Copa Oswaldo Cruz 1968
 
-# Date       Thu Jul/25 - Sun Jul/28 1968 (3d)
+# Date       Thu Jul 25 - Sun Jul 28 1968 (3d)
 # Teams      2
 # Matches    2
 
-[Thu Jul 25]
-  Paraguay - Brazil  0-4   @ Asunción, Paraguay
-[Sun Jul 28]
-  Paraguay - Brazil  1-0   @ Asunción, Paraguay
+Thu Jul 25
+  Paraguay             v Brazil                0-4   @ Asunción, Paraguay
+Sun Jul 28
+  Paraguay             v Brazil                1-0   @ Asunción, Paraguay
 

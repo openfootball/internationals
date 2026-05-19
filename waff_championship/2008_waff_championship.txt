@@ -1,20 +1,20 @@
 = WAFF Championship 2008
 
-# Date       Thu Aug/7 - Fri Aug/15 2008 (8d)
+# Date       Thu Aug 7 - Fri Aug 15 2008 (8d)
 # Teams      6
 # Matches    8
 
-[Thu Aug 7]
-  Iran - Palestine  3-0   @ Tehran, Iran
-  Syria - Jordan  0-0   @ Tehran, Iran
-[Sat Aug 9]
-  Oman - Syria  1-2   @ Tehran, Iran
-  Palestine - Qatar  0-1   @ Tehran, Iran
-[Mon Aug 11]
-  Iran - Qatar  6-1   @ Tehran, Iran
-[Wed Aug 13]
-  Iran - Syria  2-0   @ Tehran, Iran
-  Jordan - Qatar  3-0   @ Tehran, Iran
-[Fri Aug 15]
-  Iran - Jordan  2-1   @ Tehran, Iran
+Thu Aug 7
+  Iran                 v Palestine             3-0   @ Tehran, Iran
+  Syria                v Jordan                0-0   @ Tehran, Iran
+Sat Aug 9
+  Oman                 v Syria                 1-2   @ Tehran, Iran
+  Palestine            v Qatar                 0-1   @ Tehran, Iran
+Mon Aug 11
+  Iran                 v Qatar                 6-1   @ Tehran, Iran
+Wed Aug 13
+  Iran                 v Syria                 2-0   @ Tehran, Iran
+  Jordan               v Qatar                 3-0   @ Tehran, Iran
+Fri Aug 15
+  Iran                 v Jordan                2-1   @ Tehran, Iran
 

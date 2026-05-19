@@ -1,56 +1,56 @@
 = African Cup of Nations qualification 1998
 
-# Date       Fri Jul/31 - Sun Dec/13 1998 (135d)
+# Date       Fri Jul 31 - Sun Dec 13 1998 (135d)
 # Teams      36
 # Matches    38
 
-[Fri Jul 31]
-  Kenya - Djibouti  3-0   @ Nairobi, Kenya
-  Libya - Algeria  0-2   @ Tripoli, Libya
-[Sat Aug 1]
-  Namibia - Malawi  2-1   @ Windhoek, Namibia
-  Uganda - Rwanda  5-0   @ Kampala, Uganda
-[Sun Aug 2]
-  Benin - Angola  2-1   @ Cotonou, Benin
-  Botswana - Mozambique  0-0   @ Gaborone, Botswana
-  Burundi - Tanzania  1-0   @ Bujumbura, Burundi
-  Chad - Congo  1-1   @ N'Djamena, Chad
-  Equatorial Guinea - Gabon  0-2   @ Bata, Equatorial Guinea
-  Lesotho - Mauritius  1-1   @ Maseru, Lesotho
-  Mali - Cape Verde  3-0   @ Bamako, Mali
-  Niger - Liberia  2-1   @ Niamey, Niger
-  São Tomé and Príncipe - Togo  0-4   @ Libreville, Gabon
-  Eswatini - Madagascar  1-2   @ Mbabane, Swaziland
-[Fri Aug 14]
-  Algeria - Libya  3-0   @ Algiers, Algeria
-[Sat Aug 15]
-  Kenya - Djibouti  9-1   @ Nairobi, Kenya
-  Malawi - Namibia  0-1   @ Blantyre, Malawi
-  Mozambique - Botswana  2-1   @ Maputo, Mozambique
-  Tanzania - Burundi  0-1   @ Dar es Salaam, Tanzania
-[Sun Aug 16]
-  Angola - Benin  2-0   @ Luanda, Angola
-  Cape Verde - Mali  0-0   @ Praia, Cape Verde
-  Congo - Chad  0-0   @ Pointe-Noire, Congo
-  Gabon - Equatorial Guinea  3-0   @ Libreville, Gabon
-  Liberia - Niger  2-0   @ Monrovia, Liberia
-  Rwanda - Uganda  0-0   @ Kigali, Rwanda
-[Tue Aug 18]
-  Togo - São Tomé and Príncipe  2-0   @ Lomé, Togo
-[Sun Aug 23]
-  Mauritius - Lesotho  3-1   @ Curepipe, Mauritius
-  Madagascar - Eswatini  1-1   @ Antananarivo, Madagascar
-[Sat Oct 3]
-  Kenya - Madagascar  1-1   @ Nairobi, Kenya
-  Namibia - Congo  0-1   @ Windhoek, Namibia
-  South Africa - Angola  1-0   @ Johannesburg, South Africa
-[Sun Oct 4]
-  Gabon - Mauritius  2-0   @ Libreville, Gabon
-  Mali - Ivory Coast  0-1   @ Bamako, Mali
-  Mozambique - Eritrea  3-1   @ Maputo, Mozambique
-  Togo - Guinea  2-0   @ Lomé, Togo
-  Tunisia - Liberia  2-1   @ Tunis, Tunisia
-  Zambia - DR Congo  1-1   @ Lusaka, Zambia
-[Sun Dec 13]
-  Burundi - Senegal  1-0   @ Bujumbura, Burundi
+Fri Jul 31
+  Kenya                v Djibouti              3-0   @ Nairobi, Kenya
+  Libya                v Algeria               0-2   @ Tripoli, Libya
+Sat Aug 1
+  Namibia              v Malawi                2-1   @ Windhoek, Namibia
+  Uganda               v Rwanda                5-0   @ Kampala, Uganda
+Sun Aug 2
+  Benin                v Angola                2-1   @ Cotonou, Benin
+  Botswana             v Mozambique            0-0   @ Gaborone, Botswana
+  Burundi              v Tanzania              1-0   @ Bujumbura, Burundi
+  Chad                 v Congo                 1-1   @ N'Djamena, Chad
+  Equatorial Guinea    v Gabon                 0-2   @ Bata, Equatorial Guinea
+  Lesotho              v Mauritius             1-1   @ Maseru, Lesotho
+  Mali                 v Cape Verde            3-0   @ Bamako, Mali
+  Niger                v Liberia               2-1   @ Niamey, Niger
+  São Tomé and Príncipe v Togo                  0-4   @ Libreville, Gabon
+  Eswatini             v Madagascar            1-2   @ Mbabane, Swaziland
+Fri Aug 14
+  Algeria              v Libya                 3-0   @ Algiers, Algeria
+Sat Aug 15
+  Kenya                v Djibouti              9-1   @ Nairobi, Kenya
+  Malawi               v Namibia               0-1   @ Blantyre, Malawi
+  Mozambique           v Botswana              2-1   @ Maputo, Mozambique
+  Tanzania             v Burundi               0-1   @ Dar es Salaam, Tanzania
+Sun Aug 16
+  Angola               v Benin                 2-0   @ Luanda, Angola
+  Cape Verde           v Mali                  0-0   @ Praia, Cape Verde
+  Congo                v Chad                  0-0   @ Pointe-Noire, Congo
+  Gabon                v Equatorial Guinea     3-0   @ Libreville, Gabon
+  Liberia              v Niger                 2-0   @ Monrovia, Liberia
+  Rwanda               v Uganda                0-0   @ Kigali, Rwanda
+Tue Aug 18
+  Togo                 v São Tomé and Príncipe  2-0   @ Lomé, Togo
+Sun Aug 23
+  Mauritius            v Lesotho               3-1   @ Curepipe, Mauritius
+  Madagascar           v Eswatini              1-1   @ Antananarivo, Madagascar
+Sat Oct 3
+  Kenya                v Madagascar            1-1   @ Nairobi, Kenya
+  Namibia              v Congo                 0-1   @ Windhoek, Namibia
+  South Africa         v Angola                1-0   @ Johannesburg, South Africa
+Sun Oct 4
+  Gabon                v Mauritius             2-0   @ Libreville, Gabon
+  Mali                 v Ivory Coast           0-1   @ Bamako, Mali
+  Mozambique           v Eritrea               3-1   @ Maputo, Mozambique
+  Togo                 v Guinea                2-0   @ Lomé, Togo
+  Tunisia              v Liberia               2-1   @ Tunis, Tunisia
+  Zambia               v DR Congo              1-1   @ Lusaka, Zambia
+Sun Dec 13
+  Burundi              v Senegal               1-0   @ Bujumbura, Burundi
 

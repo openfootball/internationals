@@ -1,49 +1,49 @@
 = CONCACAF Championship 1967
 
-# Date       Sun Mar/5 - Sun Mar/19 1967 (14d)
+# Date       Sun Mar 5 - Sun Mar 19 1967 (14d)
 # Teams      6
 # Matches    15
 
-[Sun Mar 5]
-  Honduras - Trinidad and Tobago  1-0   @ Tegucigalpa, Honduras
-     Dolores Cruz 35'
-[Mon Mar 6]
-  Haiti - Guatemala  1-2   @ Tegucigalpa, Honduras
-     Guy Saint-Vil 21';
-     Hugo Peña 60' Manuel Recinos 62'
-  Mexico - Nicaragua  4-0   @ Tegucigalpa, Honduras
-     Raúl Arellano Gallo 36' Raúl Arellano Gallo 43' Raúl Arellano Gallo 53' Manuel Lapuente 85'
-[Wed Mar 8]
-  Haiti - Trinidad and Tobago  2-3   @ Tegucigalpa, Honduras
-     Guy Saint-Vil 33' (pen.) Joseph Pierre 56';
-     Gerry Browne 4' Alvin Corneal 17' Alvin Corneal 52' (pen.)
-  Honduras - Nicaragua  1-1   @ Tegucigalpa, Honduras
-     Thomas Máximo 25';
-     Rudy Sobalvarro 10'
-[Fri Mar 10]
-  Guatemala - Mexico  1-0   @ Tegucigalpa, Honduras
-     Manuel Recinos 83'
-  Haiti - Nicaragua  2-1   @ Tegucigalpa, Honduras
-     Claude Némurin 75' Jean-Claude Désir 85';
-     Francisco Romero 14'
-[Sun Mar 12]
-  Honduras - Guatemala  0-0   @ Tegucigalpa, Honduras
-  Mexico - Trinidad and Tobago  4-0   @ Tegucigalpa, Honduras
-     Luis Estrada 22' Manuel Cerda Canela 40' Luis Estrada 53' Fernando Bustos 83'
-[Tue Mar 14]
-  Haiti - Mexico  0-1   @ Tegucigalpa, Honduras
-     -; Luis Estrada 39'
-  Trinidad and Tobago - Guatemala  0-2   @ Tegucigalpa, Honduras
-     -; Jorge Roldán 35' Eduardo de León 79'
-[Fri Mar 17]
-  Nicaragua - Trinidad and Tobago  1-3   @ Tegucigalpa, Honduras
-     Manuel Cuadra 82';
-     Gerry Browne 30' Kelvin Berassa 85' Kelvin Berassa 86'
-  Honduras - Haiti  2-0   @ Tegucigalpa, Honduras
-     Enrique Grey Fúnez 40' Enrique Grey Fúnez 78'
-[Sun Mar 19]
-  Honduras - Mexico  0-1   @ Tegucigalpa, Honduras
-     -; Jesús Prado 34'
-  Guatemala - Nicaragua  2-0   @ Tegucigalpa, Honduras
-     Hugo Peña 30' Manuel Recinos 33'
+Sun Mar 5
+  Honduras             v Trinidad and Tobago   1-0   @ Tegucigalpa, Honduras
+     (Dolores Cruz 35')
+Mon Mar 6
+  Haiti                v Guatemala             1-2   @ Tegucigalpa, Honduras
+     (Guy Saint-Vil 21';
+      Hugo Peña 60' Manuel Recinos 62')
+  Mexico               v Nicaragua             4-0   @ Tegucigalpa, Honduras
+     (Raúl Arellano Gallo 36' Raúl Arellano Gallo 43' Raúl Arellano Gallo 53' Manuel Lapuente 85')
+Wed Mar 8
+  Haiti                v Trinidad and Tobago   2-3   @ Tegucigalpa, Honduras
+     (Guy Saint-Vil 33'(p) Joseph Pierre 56';
+      Gerry Browne 4' Alvin Corneal 17' Alvin Corneal 52'(p))
+  Honduras             v Nicaragua             1-1   @ Tegucigalpa, Honduras
+     (Thomas Máximo 25';
+      Rudy Sobalvarro 10')
+Fri Mar 10
+  Guatemala            v Mexico                1-0   @ Tegucigalpa, Honduras
+     (Manuel Recinos 83')
+  Haiti                v Nicaragua             2-1   @ Tegucigalpa, Honduras
+     (Claude Némurin 75' Jean-Claude Désir 85';
+      Francisco Romero 14')
+Sun Mar 12
+  Honduras             v Guatemala             0-0   @ Tegucigalpa, Honduras
+  Mexico               v Trinidad and Tobago   4-0   @ Tegucigalpa, Honduras
+     (Luis Estrada 22' Manuel Cerda Canela 40' Luis Estrada 53' Fernando Bustos 83')
+Tue Mar 14
+  Haiti                v Mexico                0-1   @ Tegucigalpa, Honduras
+     (Luis Estrada 39')
+  Trinidad and Tobago  v Guatemala             0-2   @ Tegucigalpa, Honduras
+     (Jorge Roldán 35' Eduardo de León 79')
+Fri Mar 17
+  Nicaragua            v Trinidad and Tobago   1-3   @ Tegucigalpa, Honduras
+     (Manuel Cuadra 82';
+      Gerry Browne 30' Kelvin Berassa 85' Kelvin Berassa 86')
+  Honduras             v Haiti                 2-0   @ Tegucigalpa, Honduras
+     (Enrique Grey Fúnez 40' Enrique Grey Fúnez 78')
+Sun Mar 19
+  Honduras             v Mexico                0-1   @ Tegucigalpa, Honduras
+     (Jesús Prado 34')
+  Guatemala            v Nicaragua             2-0   @ Tegucigalpa, Honduras
+     (Hugo Peña 30' Manuel Recinos 33')
 

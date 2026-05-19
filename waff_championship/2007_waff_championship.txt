@@ -1,21 +1,21 @@
 = WAFF Championship 2007
 
-# Date       Sat Jun/16 - Sun Jun/24 2007 (8d)
+# Date       Sat Jun 16 - Sun Jun 24 2007 (8d)
 # Teams      6
 # Matches    9
 
-[Sat Jun 16]
-  Iran - Iraq  0-0   @ Amman, Jordan
-  Lebanon - Syria  0-1   @ Amman, Jordan
-[Mon Jun 18]
-  Jordan - Syria  0-1   @ Amman, Jordan
-  Palestine - Iraq  0-1   @ Amman, Jordan
-[Wed Jun 20]
-  Iran - Palestine  2-0   @ Amman, Jordan
-  Jordan - Lebanon  3-0   @ Amman, Jordan
-[Fri Jun 22]
-  Jordan - Iran  0-1   @ Amman, Jordan
-  Syria - Iraq  0-3   @ Amman, Jordan
-[Sun Jun 24]
-  Iraq - Iran  1-2   @ Amman, Jordan
+Sat Jun 16
+  Iran                 v Iraq                  0-0   @ Amman, Jordan
+  Lebanon              v Syria                 0-1   @ Amman, Jordan
+Mon Jun 18
+  Jordan               v Syria                 0-1   @ Amman, Jordan
+  Palestine            v Iraq                  0-1   @ Amman, Jordan
+Wed Jun 20
+  Iran                 v Palestine             2-0   @ Amman, Jordan
+  Jordan               v Lebanon               3-0   @ Amman, Jordan
+Fri Jun 22
+  Jordan               v Iran                  0-1   @ Amman, Jordan
+  Syria                v Iraq                  0-3   @ Amman, Jordan
+Sun Jun 24
+  Iraq                 v Iran                  1-2   @ Amman, Jordan
 

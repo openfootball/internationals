@@ -1,49 +1,49 @@
 = Friendly 1919
 
-# Date       Sun Mar/9 - Sun Dec/7 1919 (273d)
+# Date       Sun Mar 9 - Sun Dec 7 1919 (273d)
 # Teams      13
 # Matches    21
 
-[Sun Mar 9]
-  Belgium - France  2-2   @ Brussels, Belgium
-[Sun Apr 6]
-  Hungary - Austria  2-1   @ Budapest, Hungary
-[Sun May 11]
-  Paraguay - Argentina  1-5   @ Asunción, Paraguay
-[Thu May 15]
-  Paraguay - Argentina  0-3   @ Asunción, Paraguay
-[Wed May 21]
-  Paraguay - Argentina  1-2   @ Asunción, Paraguay
-[Sat May 24]
-  Paraguay - Argentina  1-2   @ Asunción, Paraguay
-[Thu May 29]
-  Sweden - Finland  1-0   @ Stockholm, Sweden
-[Sun Jun 1]
-  Brazil - Argentina  3-3   @ Rio de Janeiro, Brazil
-[Thu Jun 5]
-  Denmark - Sweden  3-0   @ Copenhagen, Denmark
-[Mon Jun 9]
-  Netherlands - Sweden  3-1   @ Amsterdam, Netherlands
-[Thu Jun 12]
-  Denmark - Norway  5-1   @ Copenhagen, Denmark
-[Sun Jun 29]
-  Norway - Sweden  4-3   @ Kristiania, Norway
-[Sun Aug 24]
-  Sweden - Netherlands  4-1   @ Stockholm, Sweden
-[Sun Aug 31]
-  Norway - Netherlands  1-1   @ Oslo, Norway
-[Sun Sep 14]
-  Sweden - Norway  1-5   @ Gothenburg, Sweden
-[Sun Sep 21]
-  Norway - Denmark  3-2   @ Kristiania, Norway
-[Sun Sep 28]
-  Finland - Sweden  3-3   @ Helsinki, Finland
-[Sun Oct 5]
-  Austria - Hungary  2-0   @ Vienna, Austria
-[Sun Oct 12]
-  Sweden - Denmark  3-0   @ Stockholm, Sweden
-[Sun Nov 9]
-  Hungary - Austria  3-2   @ Budapest, Hungary
-[Sun Dec 7]
-  Uruguay - Argentina  4-2   @ Montevideo, Uruguay
+Sun Mar 9
+  Belgium              v France                2-2   @ Brussels, Belgium
+Sun Apr 6
+  Hungary              v Austria               2-1   @ Budapest, Hungary
+Sun May 11
+  Paraguay             v Argentina             1-5   @ Asunción, Paraguay
+Thu May 15
+  Paraguay             v Argentina             0-3   @ Asunción, Paraguay
+Wed May 21
+  Paraguay             v Argentina             1-2   @ Asunción, Paraguay
+Sat May 24
+  Paraguay             v Argentina             1-2   @ Asunción, Paraguay
+Thu May 29
+  Sweden               v Finland               1-0   @ Stockholm, Sweden
+Sun Jun 1
+  Brazil               v Argentina             3-3   @ Rio de Janeiro, Brazil
+Thu Jun 5
+  Denmark              v Sweden                3-0   @ Copenhagen, Denmark
+Mon Jun 9
+  Netherlands          v Sweden                3-1   @ Amsterdam, Netherlands
+Thu Jun 12
+  Denmark              v Norway                5-1   @ Copenhagen, Denmark
+Sun Jun 29
+  Norway               v Sweden                4-3   @ Kristiania, Norway
+Sun Aug 24
+  Sweden               v Netherlands           4-1   @ Stockholm, Sweden
+Sun Aug 31
+  Norway               v Netherlands           1-1   @ Oslo, Norway
+Sun Sep 14
+  Sweden               v Norway                1-5   @ Gothenburg, Sweden
+Sun Sep 21
+  Norway               v Denmark               3-2   @ Kristiania, Norway
+Sun Sep 28
+  Finland              v Sweden                3-3   @ Helsinki, Finland
+Sun Oct 5
+  Austria              v Hungary               2-0   @ Vienna, Austria
+Sun Oct 12
+  Sweden               v Denmark               3-0   @ Stockholm, Sweden
+Sun Nov 9
+  Hungary              v Austria               3-2   @ Budapest, Hungary
+Sun Dec 7
+  Uruguay              v Argentina             4-2   @ Montevideo, Uruguay
 

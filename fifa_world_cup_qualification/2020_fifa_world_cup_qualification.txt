@@ -1,67 +1,67 @@
 = FIFA World Cup qualification 2020
 
-# Date       Thu Oct/8 - Fri Dec/4 2020 (57d)
+# Date       Thu Oct 8 - Fri Dec 4 2020 (57d)
 # Teams      12
 # Matches    21
 
-[Thu Oct 8]
-  Paraguay - Peru  2-2   @ Asunción, Paraguay
-     Ángel Romero 66' Ángel Romero 81';
-     André Carrillo 52' André Carrillo 85'
-  Uruguay - Chile  2-1   @ Montevideo, Uruguay
-     Luis Suárez 39' (pen.) Maxi Gómez 90';
-     Alexis Sánchez 54'
-  Argentina - Ecuador  1-0   @ Buenos Aires, Argentina
-     Lionel Messi 13' (pen.)
-[Fri Oct 9]
-  Colombia - Venezuela  3-0   @ Barranquilla, Colombia
-     Duván Zapata 16' Luis Muriel 26' Luis Muriel 45'
-  Brazil - Bolivia  5-0   @ São Paulo, Brazil
-     Marquinhos 16' Roberto Firmino 30' Roberto Firmino 49' José María Carrasco 66' (o.g.) Philippe Coutinho 73'
-[Tue Oct 13]
-  Bolivia - Argentina  1-2   @ La Paz, Bolivia
-     Marcelo Martins Moreno 24';
-     Lautaro Martínez 45' Joaquín Correa 79'
-  Ecuador - Uruguay  4-2   @ Quito, Ecuador
-     Moisés Caicedo 14' Michael Estrada 45' Michael Estrada 52' Gonzalo Plata 75';
-     Luis Suárez 83' (pen.) Luis Suárez 90' (pen.)
-  Venezuela - Paraguay  0-1   @ Mérida, Venezuela
-     -; Gastón Giménez 85'
-  Peru - Brazil  2-4   @ Lima, Peru
-     André Carrillo 5' Renato Tapia 59';
-     Neymar 28' (pen.) Richarlison 64' Neymar 83' (pen.) Neymar 90'
-  Chile - Colombia  2-2   @ Santiago, Chile
-     Arturo Vidal 37' (pen.) Alexis Sánchez 41';
-     Jefferson Lerma 6' Radamel Falcao 90'
-[Thu Nov 12]
-  Bolivia - Ecuador  2-3   @ La Paz, Bolivia
-     Juan Carlos Arce 37' Marcelo Martins Moreno 60';
-     Beder Caicedo 46' Ángel Mena 55' Carlos Gruezo 88' (pen.)
-  Argentina - Paraguay  1-1   @ Buenos Aires, Argentina
-     Nicolás González 41';
-     Ángel Romero 21' (pen.)
-[Fri Nov 13]
-  Colombia - Uruguay  0-3   @ Barranquilla, Colombia
-     -; Edinson Cavani 5' Luis Suárez 54' (pen.) Darwin Núñez 73'
-  Chile - Peru  2-0   @ Santiago, Chile
-     Arturo Vidal 19' Arturo Vidal 34'
-  Brazil - Venezuela  1-0   @ São Paulo, Brazil
-     Roberto Firmino 66'
-[Tue Nov 17]
-  Ecuador - Colombia  6-1   @ Quito, Ecuador
-     Robert Arboleda 7' Ángel Mena 9' Michael Estrada 32' Xavier Arreaga 39' Gonzalo Plata 78' Pervis Estupiñán 90';
-     James Rodríguez 45' (pen.)
-  Venezuela - Chile  2-1   @ Caracas, Venezuela
-     Luis Mago 9' Salomón Rondón 81';
-     Arturo Vidal 15'
-  Peru - Argentina  0-2   @ Lima, Peru
-     -; Nicolás González 17' Lautaro Martínez 28'
-  Paraguay - Bolivia  2-2   @ Asunción, Paraguay
-     Ángel Romero 19' (pen.) Alejandro Romero Gamarra 72';
-     Marcelo Martins Moreno 41' Boris Céspedes 45'
-  Uruguay - Brazil  0-2   @ Montevideo, Uruguay
-     -; Arthur Melo 33' Richarlison 45'
-[Fri Dec 4]
-  Qatar - Bangladesh  5-0   @ Doha, Qatar
-     Abdulaziz Hatem 9' Akram Afif 33' Almoez Ali 72' (pen.) Almoez Ali 78' Akram Afif 90'
+Thu Oct 8
+  Paraguay             v Peru                  2-2   @ Asunción, Paraguay
+     (Ángel Romero 66' Ángel Romero 81';
+      André Carrillo 52' André Carrillo 85')
+  Uruguay              v Chile                 2-1   @ Montevideo, Uruguay
+     (Luis Suárez 39'(p) Maxi Gómez 90';
+      Alexis Sánchez 54')
+  Argentina            v Ecuador               1-0   @ Buenos Aires, Argentina
+     (Lionel Messi 13'(p))
+Fri Oct 9
+  Colombia             v Venezuela             3-0   @ Barranquilla, Colombia
+     (Duván Zapata 16' Luis Muriel 26' Luis Muriel 45')
+  Brazil               v Bolivia               5-0   @ São Paulo, Brazil
+     (Marquinhos 16' Roberto Firmino 30' Roberto Firmino 49' José María Carrasco 66'(og) Philippe Coutinho 73')
+Tue Oct 13
+  Bolivia              v Argentina             1-2   @ La Paz, Bolivia
+     (Marcelo Martins Moreno 24';
+      Lautaro Martínez 45' Joaquín Correa 79')
+  Ecuador              v Uruguay               4-2   @ Quito, Ecuador
+     (Moisés Caicedo 14' Michael Estrada 45' Michael Estrada 52' Gonzalo Plata 75';
+      Luis Suárez 83'(p) Luis Suárez 90'(p))
+  Venezuela            v Paraguay              0-1   @ Mérida, Venezuela
+     (Gastón Giménez 85')
+  Peru                 v Brazil                2-4   @ Lima, Peru
+     (André Carrillo 5' Renato Tapia 59';
+      Neymar 28'(p) Richarlison 64' Neymar 83'(p) Neymar 90')
+  Chile                v Colombia              2-2   @ Santiago, Chile
+     (Arturo Vidal 37'(p) Alexis Sánchez 41';
+      Jefferson Lerma 6' Radamel Falcao 90')
+Thu Nov 12
+  Bolivia              v Ecuador               2-3   @ La Paz, Bolivia
+     (Juan Carlos Arce 37' Marcelo Martins Moreno 60';
+      Beder Caicedo 46' Ángel Mena 55' Carlos Gruezo 88'(p))
+  Argentina            v Paraguay              1-1   @ Buenos Aires, Argentina
+     (Nicolás González 41';
+      Ángel Romero 21'(p))
+Fri Nov 13
+  Colombia             v Uruguay               0-3   @ Barranquilla, Colombia
+     (Edinson Cavani 5' Luis Suárez 54'(p) Darwin Núñez 73')
+  Chile                v Peru                  2-0   @ Santiago, Chile
+     (Arturo Vidal 19' Arturo Vidal 34')
+  Brazil               v Venezuela             1-0   @ São Paulo, Brazil
+     (Roberto Firmino 66')
+Tue Nov 17
+  Ecuador              v Colombia              6-1   @ Quito, Ecuador
+     (Robert Arboleda 7' Ángel Mena 9' Michael Estrada 32' Xavier Arreaga 39' Gonzalo Plata 78' Pervis Estupiñán 90';
+      James Rodríguez 45'(p))
+  Venezuela            v Chile                 2-1   @ Caracas, Venezuela
+     (Luis Mago 9' Salomón Rondón 81';
+      Arturo Vidal 15')
+  Peru                 v Argentina             0-2   @ Lima, Peru
+     (Nicolás González 17' Lautaro Martínez 28')
+  Paraguay             v Bolivia               2-2   @ Asunción, Paraguay
+     (Ángel Romero 19'(p) Alejandro Romero Gamarra 72';
+      Marcelo Martins Moreno 41' Boris Céspedes 45')
+  Uruguay              v Brazil                0-2   @ Montevideo, Uruguay
+     (Arthur Melo 33' Richarlison 45')
+Fri Dec 4
+  Qatar                v Bangladesh            5-0   @ Doha, Qatar
+     (Abdulaziz Hatem 9' Akram Afif 33' Almoez Ali 72'(p) Almoez Ali 78' Akram Afif 90')
 

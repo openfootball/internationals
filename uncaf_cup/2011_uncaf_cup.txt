@@ -1,26 +1,26 @@
 = UNCAF Cup 2011
 
-# Date       Fri Jan/14 - Sun Jan/23 2011 (9d)
+# Date       Fri Jan 14 - Sun Jan 23 2011 (9d)
 # Teams      7
 # Matches    14
 
-[Fri Jan 14]
-  Costa Rica - Honduras  1-1   @ Panama City, Panama
-  El Salvador - Nicaragua  2-0   @ Panama City, Panama
-  Panama - Belize  2-0   @ Panama City, Panama
-[Sun Jan 16]
-  Belize - El Salvador  2-5   @ Panama City, Panama
-  Guatemala - Costa Rica  0-2   @ Panama City, Panama
-  Panama - Nicaragua  2-0   @ Panama City, Panama
-[Tue Jan 18]
-  Honduras - Guatemala  3-1   @ Panama City, Panama
-  Nicaragua - Belize  1-1   @ Panama City, Panama
-  Panama - El Salvador  2-0   @ Panama City, Panama
-[Fri Jan 21]
-  Honduras - El Salvador  2-0   @ Panama City, Panama
-  Nicaragua - Guatemala  1-2   @ Panama City, Panama
-  Panama - Costa Rica  1-1   @ Panama City, Panama
-[Sun Jan 23]
-  Honduras - Costa Rica  2-1   @ Panama City, Panama
-  Panama - El Salvador  0-0   @ Panama City, Panama
+Fri Jan 14
+  Costa Rica           v Honduras              1-1   @ Panama City, Panama
+  El Salvador          v Nicaragua             2-0   @ Panama City, Panama
+  Panama               v Belize                2-0   @ Panama City, Panama
+Sun Jan 16
+  Belize               v El Salvador           2-5   @ Panama City, Panama
+  Guatemala            v Costa Rica            0-2   @ Panama City, Panama
+  Panama               v Nicaragua             2-0   @ Panama City, Panama
+Tue Jan 18
+  Honduras             v Guatemala             3-1   @ Panama City, Panama
+  Nicaragua            v Belize                1-1   @ Panama City, Panama
+  Panama               v El Salvador           2-0   @ Panama City, Panama
+Fri Jan 21
+  Honduras             v El Salvador           2-0   @ Panama City, Panama
+  Nicaragua            v Guatemala             1-2   @ Panama City, Panama
+  Panama               v Costa Rica            1-1   @ Panama City, Panama
+Sun Jan 23
+  Honduras             v Costa Rica            2-1   @ Panama City, Panama
+  Panama               v El Salvador           0-0   @ Panama City, Panama
 

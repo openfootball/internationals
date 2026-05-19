@@ -1,27 +1,27 @@
 = Bolivarian Games 1938
 
-# Date       Mon Aug/8 - Mon Aug/22 1938 (14d)
+# Date       Mon Aug 8 - Mon Aug 22 1938 (14d)
 # Teams      5
 # Matches    11
 
-[Mon Aug 8]
-  Bolivia - Ecuador  1-1   @ Bogotá, Colombia
-  Colombia - Peru  2-4   @ Bogotá, Colombia
-[Wed Aug 10]
-  Colombia - Ecuador  1-2   @ Bogotá, Colombia
-[Thu Aug 11]
-  Bolivia - Venezuela  3-1   @ Bogotá, Colombia
-  Ecuador - Peru  1-9   @ Bogotá, Colombia
-[Sat Aug 13]
-  Colombia - Venezuela  2-0   @ Bogotá, Colombia
-[Sun Aug 14]
-  Bolivia - Peru  0-3   @ Bogota, Colombia
-[Tue Aug 16]
-  Colombia - Bolivia  1-2   @ Bogotá, Colombia
-[Wed Aug 17]
-  Peru - Venezuela  2-1   @ Bogotá, Colombia
-[Fri Aug 19]
-  Ecuador - Venezuela  5-2   @ Bogotá, Colombia
-[Mon Aug 22]
-  Bolivia - Ecuador  2-1   @ Bogotá, Colombia
+Mon Aug 8
+  Bolivia              v Ecuador               1-1   @ Bogotá, Colombia
+  Colombia             v Peru                  2-4   @ Bogotá, Colombia
+Wed Aug 10
+  Colombia             v Ecuador               1-2   @ Bogotá, Colombia
+Thu Aug 11
+  Bolivia              v Venezuela             3-1   @ Bogotá, Colombia
+  Ecuador              v Peru                  1-9   @ Bogotá, Colombia
+Sat Aug 13
+  Colombia             v Venezuela             2-0   @ Bogotá, Colombia
+Sun Aug 14
+  Bolivia              v Peru                  0-3   @ Bogota, Colombia
+Tue Aug 16
+  Colombia             v Bolivia               1-2   @ Bogotá, Colombia
+Wed Aug 17
+  Peru                 v Venezuela             2-1   @ Bogotá, Colombia
+Fri Aug 19
+  Ecuador              v Venezuela             5-2   @ Bogotá, Colombia
+Mon Aug 22
+  Bolivia              v Ecuador               2-1   @ Bogotá, Colombia
 

@@ -1,32 +1,32 @@
 = Copa América 1919
 
-# Date       Sun May/11 - Thu May/29 1919 (18d)
+# Date       Sun May 11 - Thu May 29 1919 (18d)
 # Teams      4
 # Matches    7
 
-[Sun May 11]
-  Brazil - Chile  6-0   @ Rio de Janeiro, Brazil
-     Arthur Friedenreich 19' Neco 21' Arthur Friedenreich 38' Arthur Friedenreich 76' Haroldo Domingues 79' Neco 83'
-[Tue May 13]
-  Argentina - Uruguay  2-3   @ Rio de Janeiro, Brazil
-     Carlos Izaguirre 34' Manuel Varela 79' (o.g.);
-     Carlos Scarone 19' Héctor Scarone 23' Isabelino Gradín 85'
-[Sat May 17]
-  Chile - Uruguay  0-2   @ Rio de Janeiro, Brazil
-     -; Carlos Scarone 31' José Pérez 43'
-[Sun May 18]
-  Brazil - Argentina  3-1   @ Rio de Janeiro, Brazil
-     Heitor 22' Amílcar Barbuy 57' Adolpho Millón Junior 77';
-     Carlos Izaguirre 65'
-[Thu May 22]
-  Argentina - Chile  4-1   @ Rio de Janeiro, Brazil
-     Edwin Clarcke 10' Carlos Izaguirre 13' Edwin Clarcke 23' Edwin Clarcke 62';
-     Alfredo France 33'
-[Mon May 26]
-  Brazil - Uruguay  2-2   @ Rio de Janeiro, Brazil
-     Neco 29' Neco 63';
-     Isabelino Gradín 13' Carlos Scarone 17'
-[Thu May 29]
-  Brazil - Uruguay  1-0   @ Rio de Janeiro, Brazil
-     Arthur Friedenreich 122'
+Sun May 11
+  Brazil               v Chile                 6-0   @ Rio de Janeiro, Brazil
+     (Arthur Friedenreich 19' Neco 21' Arthur Friedenreich 38' Arthur Friedenreich 76' Haroldo Domingues 79' Neco 83')
+Tue May 13
+  Argentina            v Uruguay               2-3   @ Rio de Janeiro, Brazil
+     (Carlos Izaguirre 34' Manuel Varela 79'(og);
+      Carlos Scarone 19' Héctor Scarone 23' Isabelino Gradín 85')
+Sat May 17
+  Chile                v Uruguay               0-2   @ Rio de Janeiro, Brazil
+     (Carlos Scarone 31' José Pérez 43')
+Sun May 18
+  Brazil               v Argentina             3-1   @ Rio de Janeiro, Brazil
+     (Heitor 22' Amílcar Barbuy 57' Adolpho Millón Junior 77';
+      Carlos Izaguirre 65')
+Thu May 22
+  Argentina            v Chile                 4-1   @ Rio de Janeiro, Brazil
+     (Edwin Clarcke 10' Carlos Izaguirre 13' Edwin Clarcke 23' Edwin Clarcke 62';
+      Alfredo France 33')
+Mon May 26
+  Brazil               v Uruguay               2-2   @ Rio de Janeiro, Brazil
+     (Neco 29' Neco 63';
+      Isabelino Gradín 13' Carlos Scarone 17')
+Thu May 29
+  Brazil               v Uruguay               1-0   @ Rio de Janeiro, Brazil
+     (Arthur Friedenreich 122')
 

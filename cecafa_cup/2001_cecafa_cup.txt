@@ -1,36 +1,36 @@
 = CECAFA Cup 2001
 
-# Date       Sat Dec/8 - Sat Dec/22 2001 (14d)
+# Date       Sat Dec 8 - Sat Dec 22 2001 (14d)
 # Teams      10
 # Matches    17
 
-[Sat Dec 8]
-  Rwanda - Somalia  3-0   @ Kigali, Rwanda
-[Sun Dec 9]
-  Burundi - Tanzania  1-2   @ Kigali, Rwanda
-  Uganda - Djibouti  10-1   @ Kigali, Rwanda
-[Mon Dec 10]
-  Kenya - Eritrea  2-1   @ Kigali, Rwanda
-[Tue Dec 11]
-  Burundi - Djibouti  3-1   @ Kigali, Rwanda
-  Uganda - Tanzania  0-1   @ Kigali, Rwanda
-[Wed Dec 12]
-  Kenya - Somalia  3-0   @ Kigali, Rwanda
-  Rwanda - Eritrea  1-0   @ Kigali, Rwanda
-[Thu Dec 13]
-  Ethiopia - Zanzibar  5-0   @ Kigali, Rwanda
-  Tanzania - Djibouti  4-1   @ Kigali, Rwanda
-[Fri Dec 14]
-  Eritrea - Somalia  0-0   @ Kigali, Rwanda
-  Uganda - Burundi  0-2   @ Kigali, Rwanda
-[Sat Dec 15]
-  Rwanda - Kenya  0-0   @ Kigali, Rwanda
-[Mon Dec 17]
-  Kenya - Eritrea  1-0   @ Kigali, Rwanda
-[Tue Dec 18]
-  Rwanda - Uganda  3-2   @ Kigali, Rwanda
-[Thu Dec 20]
-  Rwanda - Ethiopia  0-1   @ Kigali, Rwanda
-[Sat Dec 22]
-  Kenya - Ethiopia  1-2   @ Kigali, Rwanda
+Sat Dec 8
+  Rwanda               v Somalia               3-0   @ Kigali, Rwanda
+Sun Dec 9
+  Burundi              v Tanzania              1-2   @ Kigali, Rwanda
+  Uganda               v Djibouti              10-1   @ Kigali, Rwanda
+Mon Dec 10
+  Kenya                v Eritrea               2-1   @ Kigali, Rwanda
+Tue Dec 11
+  Burundi              v Djibouti              3-1   @ Kigali, Rwanda
+  Uganda               v Tanzania              0-1   @ Kigali, Rwanda
+Wed Dec 12
+  Kenya                v Somalia               3-0   @ Kigali, Rwanda
+  Rwanda               v Eritrea               1-0   @ Kigali, Rwanda
+Thu Dec 13
+  Ethiopia             v Zanzibar              5-0   @ Kigali, Rwanda
+  Tanzania             v Djibouti              4-1   @ Kigali, Rwanda
+Fri Dec 14
+  Eritrea              v Somalia               0-0   @ Kigali, Rwanda
+  Uganda               v Burundi               0-2   @ Kigali, Rwanda
+Sat Dec 15
+  Rwanda               v Kenya                 0-0   @ Kigali, Rwanda
+Mon Dec 17
+  Kenya                v Eritrea               1-0   @ Kigali, Rwanda
+Tue Dec 18
+  Rwanda               v Uganda                3-2   @ Kigali, Rwanda
+Thu Dec 20
+  Rwanda               v Ethiopia              0-1   @ Kigali, Rwanda
+Sat Dec 22
+  Kenya                v Ethiopia              1-2   @ Kigali, Rwanda
 

@@ -1,19 +1,19 @@
 = Nordic Championship 1971
 
-# Date       Thu May/20 - Sun Sep/26 1971 (129d)
+# Date       Thu May 20 - Sun Sep 26 1971 (129d)
 # Teams      4
 # Matches    6
 
-[Thu May 20]
-  Sweden - Finland  4-1   @ Borås, Sweden
-[Sun Jun 20]
-  Denmark - Sweden  1-3   @ Copenhagen, Denmark
-[Sun Aug 8]
-  Sweden - Norway  3-0   @ Malmö, Sweden
-[Wed Aug 25]
-  Finland - Norway  1-1   @ Helsinki, Finland
-[Wed Sep 8]
-  Denmark - Finland  0-0   @ Copenhagen, Denmark
-[Sun Sep 26]
-  Norway - Denmark  1-4   @ Oslo, Norway
+Thu May 20
+  Sweden               v Finland               4-1   @ Borås, Sweden
+Sun Jun 20
+  Denmark              v Sweden                1-3   @ Copenhagen, Denmark
+Sun Aug 8
+  Sweden               v Norway                3-0   @ Malmö, Sweden
+Wed Aug 25
+  Finland              v Norway                1-1   @ Helsinki, Finland
+Wed Sep 8
+  Denmark              v Finland               0-0   @ Copenhagen, Denmark
+Sun Sep 26
+  Norway               v Denmark               1-4   @ Oslo, Norway
 

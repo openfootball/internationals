@@ -1,19 +1,19 @@
 = Windward Islands Tournament 1966
 
-# Date       Sat Nov/5 - Sat Nov/12 1966 (7d)
+# Date       Sat Nov 5 - Sat Nov 12 1966 (7d)
 # Teams      4
 # Matches    6
 
-[Sat Nov 5]
-  Dominica - Saint Vincent and the Grenadines  0-1   @ St. George's, Grenada
-[Sun Nov 6]
-  Grenada - Saint Lucia  7-1   @ St. George's, Grenada
-[Tue Nov 8]
-  Grenada - Dominica  3-3   @ St. George's, Grenada
-[Wed Nov 9]
-  Saint Lucia - Saint Vincent and the Grenadines  1-2   @ St. George's, Grenada
-[Thu Nov 10]
-  Dominica - Saint Lucia  5-3   @ St. George's, Grenada
-[Sat Nov 12]
-  Grenada - Saint Vincent and the Grenadines  1-3   @ St. George's, Grenada
+Sat Nov 5
+  Dominica             v Saint Vincent and the Grenadines  0-1   @ St. George's, Grenada
+Sun Nov 6
+  Grenada              v Saint Lucia           7-1   @ St. George's, Grenada
+Tue Nov 8
+  Grenada              v Dominica              3-3   @ St. George's, Grenada
+Wed Nov 9
+  Saint Lucia          v Saint Vincent and the Grenadines  1-2   @ St. George's, Grenada
+Thu Nov 10
+  Dominica             v Saint Lucia           5-3   @ St. George's, Grenada
+Sat Nov 12
+  Grenada              v Saint Vincent and the Grenadines  1-3   @ St. George's, Grenada
 

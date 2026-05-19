@@ -1,13 +1,13 @@
 = Kirin Cup 2007
 
-# Date       Fri Jun/1 - Tue Jun/5 2007 (4d)
+# Date       Fri Jun 1 - Tue Jun 5 2007 (4d)
 # Teams      3
 # Matches    3
 
-[Fri Jun 1]
-  Japan - Montenegro  2-0   @ Fukuroi, Japan
-[Sun Jun 3]
-  Colombia - Montenegro  1-0   @ Matsumoto, Japan
-[Tue Jun 5]
-  Japan - Colombia  0-0   @ Saitama, Japan
+Fri Jun 1
+  Japan                v Montenegro            2-0   @ Fukuroi, Japan
+Sun Jun 3
+  Colombia             v Montenegro            1-0   @ Matsumoto, Japan
+Tue Jun 5
+  Japan                v Colombia              0-0   @ Saitama, Japan
 

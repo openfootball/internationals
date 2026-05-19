@@ -1,16 +1,16 @@
 = Vietnam Independence Cup 1972
 
-# Date       Sat Oct/28 - Wed Nov/1 1972 (4d)
+# Date       Sat Oct 28 - Wed Nov 1 1972 (4d)
 # Teams      4
 # Matches    6
 
-[Sat Oct 28]
-  Cambodia - Singapore  0-1   @ Saigon, Vietnam Republic
-  Vietnam Republic - Malaysia  0-0   @ Saigon, Vietnam Republic
-[Sun Oct 29]
-  Cambodia - Malaysia  1-0   @ Saigon, Vietnam Republic
-  Vietnam Republic - Singapore  4-1   @ Saigon, Vietnam Republic
-[Wed Nov 1]
-  Malaysia - Singapore  1-3   @ Saigon, Vietnam Republic
-  Vietnam Republic - Cambodia  1-2   @ Saigon, Vietnam Republic
+Sat Oct 28
+  Cambodia             v Singapore             0-1   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Malaysia              0-0   @ Saigon, Vietnam Republic
+Sun Oct 29
+  Cambodia             v Malaysia              1-0   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Singapore             4-1   @ Saigon, Vietnam Republic
+Wed Nov 1
+  Malaysia             v Singapore             1-3   @ Saigon, Vietnam Republic
+  Vietnam Republic     v Cambodia              1-2   @ Saigon, Vietnam Republic
 

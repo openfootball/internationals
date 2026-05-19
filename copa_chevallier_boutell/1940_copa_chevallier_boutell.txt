@@ -1,11 +1,11 @@
 = Copa Chevallier Boutell 1940
 
-# Date       Sun Feb/18 - Sun Feb/25 1940 (7d)
+# Date       Sun Feb 18 - Sun Feb 25 1940 (7d)
 # Teams      2
 # Matches    2
 
-[Sun Feb 18]
-  Argentina - Paraguay  3-1   @ Avellaneda, Argentina
-[Sun Feb 25]
-  Argentina - Paraguay  4-0   @ Buenos Aires, Argentina
+Sun Feb 18
+  Argentina            v Paraguay              3-1   @ Avellaneda, Argentina
+Sun Feb 25
+  Argentina            v Paraguay              4-0   @ Buenos Aires, Argentina
 

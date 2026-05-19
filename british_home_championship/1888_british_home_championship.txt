@@ -1,19 +1,19 @@
 = British Home Championship 1888
 
-# Date       Sat Feb/4 - Sat Apr/7 1888 (63d)
+# Date       Sat Feb 4 - Sat Apr 7 1888 (63d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 4]
-  England - Wales  5-1   @ Crewe, England
-[Sat Mar 3]
-  Wales - Northern Ireland  11-0   @ Wrexham, Wales
-[Sat Mar 10]
-  Scotland - Wales  5-1   @ Edinburgh, Scotland
-[Sat Mar 17]
-  Scotland - England  0-5   @ Glasgow, Scotland
-[Sat Mar 24]
-  Northern Ireland - Scotland  2-10   @ Belfast, Ireland
-[Sat Apr 7]
-  Northern Ireland - England  1-5   @ Belfast, Ireland
+Sat Feb 4
+  England              v Wales                 5-1   @ Crewe, England
+Sat Mar 3
+  Wales                v Northern Ireland      11-0   @ Wrexham, Wales
+Sat Mar 10
+  Scotland             v Wales                 5-1   @ Edinburgh, Scotland
+Sat Mar 17
+  Scotland             v England               0-5   @ Glasgow, Scotland
+Sat Mar 24
+  Northern Ireland     v Scotland              2-10   @ Belfast, Ireland
+Sat Apr 7
+  Northern Ireland     v England               1-5   @ Belfast, Ireland
 

@@ -1,33 +1,33 @@
 = All-African Games 1965
 
-# Date       Mon Jul/19 - Mon Jul/26 1965 (7d)
+# Date       Mon Jul 19 - Mon Jul 26 1965 (7d)
 # Teams      8
 # Matches    20
 
-[Mon Jul 19]
-  Congo - Uganda  2-1   @ Brazzaville, Congo
-  Mali - Togo  1-2   @ Brazzaville, Congo
-  Ivory Coast - Algeria  1-0   @ Brazzaville, Congo
-  Madagascar - DR Congo  0-7   @ Brazzaville, Congo
-[Tue Jul 20]
-  Congo - Togo  7-2   @ Brazzaville, Congo
-  Mali - Uganda  5-1   @ Brazzaville, Congo
-  Togo - Uganda  1-1   @ Brazzaville, Congo
-  Ivory Coast - Madagascar  5-0   @ Brazzaville, Congo
-  Algeria - DR Congo  4-1   @ Brazzaville, Congo
-[Wed Jul 21]
-  Congo - Mali  1-2   @ Brazzaville, Congo
-  Ivory Coast - DR Congo  1-1   @ Brazzaville, Congo
-  Algeria - Madagascar  1-0   @ Brazzaville, Congo
-[Fri Jul 23]
-  Mali - Algeria  2-1   @ Brazzaville, Congo
-  Congo - Ivory Coast  1-0   @ Brazzaville, Congo
-[Sun Jul 25]
-  Ivory Coast - Algeria  2-0   @ Brazzaville, Congo
-  Congo - Mali  0-0   @ Brazzaville, Congo
-  DR Congo - Togo  5-1   @ Brazzaville, Congo
-  Uganda - Madagascar  5-0   @ Brazzaville, Congo
-[Mon Jul 26]
-  Togo - Madagascar  1-0   @ Brazzaville, Congo
-  DR Congo - Uganda  6-2   @ Brazzaville, Congo
+Mon Jul 19
+  Congo                v Uganda                2-1   @ Brazzaville, Congo
+  Mali                 v Togo                  1-2   @ Brazzaville, Congo
+  Ivory Coast          v Algeria               1-0   @ Brazzaville, Congo
+  Madagascar           v DR Congo              0-7   @ Brazzaville, Congo
+Tue Jul 20
+  Congo                v Togo                  7-2   @ Brazzaville, Congo
+  Mali                 v Uganda                5-1   @ Brazzaville, Congo
+  Togo                 v Uganda                1-1   @ Brazzaville, Congo
+  Ivory Coast          v Madagascar            5-0   @ Brazzaville, Congo
+  Algeria              v DR Congo              4-1   @ Brazzaville, Congo
+Wed Jul 21
+  Congo                v Mali                  1-2   @ Brazzaville, Congo
+  Ivory Coast          v DR Congo              1-1   @ Brazzaville, Congo
+  Algeria              v Madagascar            1-0   @ Brazzaville, Congo
+Fri Jul 23
+  Mali                 v Algeria               2-1   @ Brazzaville, Congo
+  Congo                v Ivory Coast           1-0   @ Brazzaville, Congo
+Sun Jul 25
+  Ivory Coast          v Algeria               2-0   @ Brazzaville, Congo
+  Congo                v Mali                  0-0   @ Brazzaville, Congo
+  DR Congo             v Togo                  5-1   @ Brazzaville, Congo
+  Uganda               v Madagascar            5-0   @ Brazzaville, Congo
+Mon Jul 26
+  Togo                 v Madagascar            1-0   @ Brazzaville, Congo
+  DR Congo             v Uganda                6-2   @ Brazzaville, Congo
 

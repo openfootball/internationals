@@ -1,16 +1,16 @@
 = Nordic Championship 1982
 
-# Date       Wed Apr/28 - Wed Aug/11 1982 (105d)
+# Date       Wed Apr 28 - Wed Aug 11 1982 (105d)
 # Teams      4
 # Matches    5
 
-[Wed Apr 28]
-  Norway - Finland  1-1   @ Stavanger, Norway
-[Wed May 5]
-  Denmark - Sweden  1-1   @ Copenhagen, Denmark
-[Tue Jun 15]
-  Norway - Denmark  2-1   @ Oslo, Norway
-[Wed Aug 11]
-  Denmark - Finland  3-2   @ Copenhagen, Denmark
-  Norway - Sweden  1-0   @ Oslo, Norway
+Wed Apr 28
+  Norway               v Finland               1-1   @ Stavanger, Norway
+Wed May 5
+  Denmark              v Sweden                1-1   @ Copenhagen, Denmark
+Tue Jun 15
+  Norway               v Denmark               2-1   @ Oslo, Norway
+Wed Aug 11
+  Denmark              v Finland               3-2   @ Copenhagen, Denmark
+  Norway               v Sweden                1-0   @ Oslo, Norway
 

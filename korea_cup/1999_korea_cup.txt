@@ -1,18 +1,18 @@
 = Korea Cup 1999
 
-# Date       Sat Jun/12 - Sat Jun/19 1999 (7d)
+# Date       Sat Jun 12 - Sat Jun 19 1999 (7d)
 # Teams      4
 # Matches    6
 
-[Sat Jun 12]
-  South Korea - Mexico  1-1   @ Seoul, South Korea
-[Sun Jun 13]
-  Croatia - Egypt  2-2   @ Seoul, South Korea
-[Wed Jun 16]
-  Croatia - Mexico  2-1   @ Seoul, South Korea
-  South Korea - Egypt  0-0   @ Seoul, South Korea
-[Fri Jun 18]
-  Egypt - Mexico  0-2   @ Seoul, South Korea
-[Sat Jun 19]
-  South Korea - Croatia  1-1   @ Seoul, South Korea
+Sat Jun 12
+  South Korea          v Mexico                1-1   @ Seoul, South Korea
+Sun Jun 13
+  Croatia              v Egypt                 2-2   @ Seoul, South Korea
+Wed Jun 16
+  Croatia              v Mexico                2-1   @ Seoul, South Korea
+  South Korea          v Egypt                 0-0   @ Seoul, South Korea
+Fri Jun 18
+  Egypt                v Mexico                0-2   @ Seoul, South Korea
+Sat Jun 19
+  South Korea          v Croatia               1-1   @ Seoul, South Korea
 

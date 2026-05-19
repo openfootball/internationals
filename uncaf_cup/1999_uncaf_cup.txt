@@ -1,25 +1,25 @@
 = UNCAF Cup 1999
 
-# Date       Wed Mar/17 - Sun Mar/28 1999 (11d)
+# Date       Wed Mar 17 - Sun Mar 28 1999 (11d)
 # Teams      6
 # Matches    12
 
-[Wed Mar 17]
-  Costa Rica - Belize  7-0   @ San José, Costa Rica
-  Guatemala - Nicaragua  1-0   @ San José, Costa Rica
-[Fri Mar 19]
-  Guatemala - El Salvador  1-1   @ San José, Costa Rica
-  Honduras - Belize  5-1   @ San José, Costa Rica
-[Sun Mar 21]
-  Costa Rica - Honduras  0-1   @ San José, Costa Rica
-  El Salvador - Nicaragua  1-0   @ San José, Costa Rica
-[Wed Mar 24]
-  Costa Rica - Guatemala  1-0   @ San José, Costa Rica
-  Honduras - El Salvador  3-1   @ San José, Costa Rica
-[Fri Mar 26]
-  Costa Rica - Honduras  1-2   @ San José, Costa Rica
-  Guatemala - El Salvador  1-0   @ San José, Costa Rica
-[Sun Mar 28]
-  Costa Rica - El Salvador  4-0   @ San José, Costa Rica
-  Honduras - Guatemala  0-2   @ San José, Costa Rica
+Wed Mar 17
+  Costa Rica           v Belize                7-0   @ San José, Costa Rica
+  Guatemala            v Nicaragua             1-0   @ San José, Costa Rica
+Fri Mar 19
+  Guatemala            v El Salvador           1-1   @ San José, Costa Rica
+  Honduras             v Belize                5-1   @ San José, Costa Rica
+Sun Mar 21
+  Costa Rica           v Honduras              0-1   @ San José, Costa Rica
+  El Salvador          v Nicaragua             1-0   @ San José, Costa Rica
+Wed Mar 24
+  Costa Rica           v Guatemala             1-0   @ San José, Costa Rica
+  Honduras             v El Salvador           3-1   @ San José, Costa Rica
+Fri Mar 26
+  Costa Rica           v Honduras              1-2   @ San José, Costa Rica
+  Guatemala            v El Salvador           1-0   @ San José, Costa Rica
+Sun Mar 28
+  Costa Rica           v El Salvador           4-0   @ San José, Costa Rica
+  Honduras             v Guatemala             0-2   @ San José, Costa Rica
 

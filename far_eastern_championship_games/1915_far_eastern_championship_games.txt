@@ -1,11 +1,11 @@
 = Far Eastern Championship Games 1915
 
-# Date       Tue May/18 - Wed May/19 1915 (1d)
+# Date       Tue May 18 - Wed May 19 1915 (1d)
 # Teams      2
 # Matches    2
 
-[Tue May 18]
-  China PR - Philippines  0-0   @ Shanghai, China PR
-[Wed May 19]
-  China PR - Philippines  1-0   @ Shanghai, China PR
+Tue May 18
+  China PR             v Philippines           0-0   @ Shanghai, China PR
+Wed May 19
+  China PR             v Philippines           1-0   @ Shanghai, China PR
 

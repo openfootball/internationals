@@ -1,78 +1,78 @@
 = African Cup of Nations qualification 1999
 
-# Date       Sat Jan/23 - Sun Aug/15 1999 (204d)
+# Date       Sat Jan 23 - Sun Aug 15 1999 (204d)
 # Teams      26
 # Matches    56
 
-[Sat Jan 23]
-  Eritrea - Cameroon  0-0   @ Asmara, Eritrea
-  Mauritius - South Africa  1-1   @ Curepipe, Mauritius
-  Senegal - Burkina Faso  1-1   @ Dakar, Senegal
-[Sun Jan 24]
-  Angola - Gabon  3-1   @ Luanda, Angola
-  Congo - Mali  0-0   @ Pointe-Noire, Congo
-  DR Congo - Kenya  2-1   @ Kinshasa, DR Congo
-  Guinea - Morocco  1-1   @ Conakry, Guinea
-  Ivory Coast - Namibia  3-0   @ Abidjan, Ivory Coast
-  Liberia - Uganda  2-0   @ Monrovia, Liberia
-  Madagascar - Zambia  1-2   @ Antananarivo, Madagascar
-[Sat Feb 27]
-  South Africa - Gabon  4-1   @ Mabopane, South Africa
-[Sun Feb 28]
-  Angola - Mauritius  0-2   @ Luanda, Angola
-  Burundi - Burkina Faso  1-2   @ Bujumbura, Burundi
-  Cameroon - Mozambique  1-0   @ Yaoundé, Cameroon
-  Congo - Ivory Coast  1-0   @ Pointe-Noire, Congo
-  Kenya - Zambia  0-1   @ Nairobi, Kenya
-  Liberia - Algeria  1-1   @ Monrovia, Liberia
-  Madagascar - DR Congo  3-1   @ Antananarivo, Madagascar
-  Togo - Morocco  2-3   @ Lomé, Togo
-[Fri Apr 9]
-  Algeria - Liberia  4-1   @ Annaba, Algeria
-[Sat Apr 10]
-  Gabon - South Africa  1-0   @ Libreville, Gabon
-  Mauritius - Angola  1-1   @ Curepipe, Mauritius
-  Uganda - Tunisia  0-2   @ Kampala, Uganda
-  Zambia - Kenya  1-0   @ Lusaka, Zambia
-[Sun Apr 11]
-  Burkina Faso - Burundi  3-1   @ Ouagadougou, Burkina Faso
-  DR Congo - Madagascar  2-0   @ Kinshasa, DR Congo
-  Ivory Coast - Congo  2-0   @ Abidjan, Ivory Coast
-  Mali - Namibia  2-1   @ Bamako, Mali
-  Morocco - Togo  1-1   @ Rabat, Morocco
-  Mozambique - Cameroon  1-6   @ Maputo, Mozambique
-[Sat May 8]
-  Namibia - Mali  0-0   @ Windhoek, Namibia
-[Sat Jun 5]
-  Namibia - Ivory Coast  1-1   @ Windhoek, Namibia
-  South Africa - Mauritius  2-0   @ Durban, South Africa
-  Uganda - Liberia  1-0   @ Kampala, Uganda
-[Sun Jun 6]
-  Burkina Faso - Senegal  2-2   @ Ouagadougou, Burkina Faso
-  Cameroon - Eritrea  1-0   @ Yaoundé, Cameroon
-  Gabon - Angola  3-1   @ Libreville, Gabon
-  Kenya - DR Congo  0-1   @ Nairobi, Kenya
-  Mali - Congo  3-1   @ Bamako, Mali
-  Morocco - Guinea  1-0   @ Rabat, Morocco
-  Tunisia - Algeria  2-0   @ Tunis, Tunisia
-  Zambia - Madagascar  1-1   @ Chililabombwe, Zambia
-[Sat Jun 19]
-  Eritrea - Mozambique  1-0   @ Asmara, Eritrea
-  Senegal - Burundi  1-0   @ Dakar, Senegal
-[Sun Jun 20]
-  Algeria - Uganda  2-0   @ Annaba, Algeria
-  Angola - South Africa  2-2   @ Luanda, Angola
-  Congo - Namibia  3-0   @ Pointe-Noire, Congo
-  DR Congo - Zambia  0-1   @ Kinshasa, DR Congo
-  Guinea - Togo  2-1   @ Conakry, Guinea
-  Ivory Coast - Mali  0-0   @ Abidjan, Ivory Coast
-  Liberia - Tunisia  2-0   @ Monrovia, Liberia
-  Madagascar - Kenya  1-1   @ Antananarivo, Madagascar
-  Mauritius - Gabon  2-2   @ Les Avirons, Réunion
-[Sun Jul 18]
-  Senegal - Eritrea  6-2   @ Dakar, Senegal
-[Sun Aug 8]
-  Senegal - Zimbabwe  2-0   @ Dakar, Senegal
-[Sun Aug 15]
-  Zimbabwe - Eritrea  4-0   @ Harare, Zimbabwe
+Sat Jan 23
+  Eritrea              v Cameroon              0-0   @ Asmara, Eritrea
+  Mauritius            v South Africa          1-1   @ Curepipe, Mauritius
+  Senegal              v Burkina Faso          1-1   @ Dakar, Senegal
+Sun Jan 24
+  Angola               v Gabon                 3-1   @ Luanda, Angola
+  Congo                v Mali                  0-0   @ Pointe-Noire, Congo
+  DR Congo             v Kenya                 2-1   @ Kinshasa, DR Congo
+  Guinea               v Morocco               1-1   @ Conakry, Guinea
+  Ivory Coast          v Namibia               3-0   @ Abidjan, Ivory Coast
+  Liberia              v Uganda                2-0   @ Monrovia, Liberia
+  Madagascar           v Zambia                1-2   @ Antananarivo, Madagascar
+Sat Feb 27
+  South Africa         v Gabon                 4-1   @ Mabopane, South Africa
+Sun Feb 28
+  Angola               v Mauritius             0-2   @ Luanda, Angola
+  Burundi              v Burkina Faso          1-2   @ Bujumbura, Burundi
+  Cameroon             v Mozambique            1-0   @ Yaoundé, Cameroon
+  Congo                v Ivory Coast           1-0   @ Pointe-Noire, Congo
+  Kenya                v Zambia                0-1   @ Nairobi, Kenya
+  Liberia              v Algeria               1-1   @ Monrovia, Liberia
+  Madagascar           v DR Congo              3-1   @ Antananarivo, Madagascar
+  Togo                 v Morocco               2-3   @ Lomé, Togo
+Fri Apr 9
+  Algeria              v Liberia               4-1   @ Annaba, Algeria
+Sat Apr 10
+  Gabon                v South Africa          1-0   @ Libreville, Gabon
+  Mauritius            v Angola                1-1   @ Curepipe, Mauritius
+  Uganda               v Tunisia               0-2   @ Kampala, Uganda
+  Zambia               v Kenya                 1-0   @ Lusaka, Zambia
+Sun Apr 11
+  Burkina Faso         v Burundi               3-1   @ Ouagadougou, Burkina Faso
+  DR Congo             v Madagascar            2-0   @ Kinshasa, DR Congo
+  Ivory Coast          v Congo                 2-0   @ Abidjan, Ivory Coast
+  Mali                 v Namibia               2-1   @ Bamako, Mali
+  Morocco              v Togo                  1-1   @ Rabat, Morocco
+  Mozambique           v Cameroon              1-6   @ Maputo, Mozambique
+Sat May 8
+  Namibia              v Mali                  0-0   @ Windhoek, Namibia
+Sat Jun 5
+  Namibia              v Ivory Coast           1-1   @ Windhoek, Namibia
+  South Africa         v Mauritius             2-0   @ Durban, South Africa
+  Uganda               v Liberia               1-0   @ Kampala, Uganda
+Sun Jun 6
+  Burkina Faso         v Senegal               2-2   @ Ouagadougou, Burkina Faso
+  Cameroon             v Eritrea               1-0   @ Yaoundé, Cameroon
+  Gabon                v Angola                3-1   @ Libreville, Gabon
+  Kenya                v DR Congo              0-1   @ Nairobi, Kenya
+  Mali                 v Congo                 3-1   @ Bamako, Mali
+  Morocco              v Guinea                1-0   @ Rabat, Morocco
+  Tunisia              v Algeria               2-0   @ Tunis, Tunisia
+  Zambia               v Madagascar            1-1   @ Chililabombwe, Zambia
+Sat Jun 19
+  Eritrea              v Mozambique            1-0   @ Asmara, Eritrea
+  Senegal              v Burundi               1-0   @ Dakar, Senegal
+Sun Jun 20
+  Algeria              v Uganda                2-0   @ Annaba, Algeria
+  Angola               v South Africa          2-2   @ Luanda, Angola
+  Congo                v Namibia               3-0   @ Pointe-Noire, Congo
+  DR Congo             v Zambia                0-1   @ Kinshasa, DR Congo
+  Guinea               v Togo                  2-1   @ Conakry, Guinea
+  Ivory Coast          v Mali                  0-0   @ Abidjan, Ivory Coast
+  Liberia              v Tunisia               2-0   @ Monrovia, Liberia
+  Madagascar           v Kenya                 1-1   @ Antananarivo, Madagascar
+  Mauritius            v Gabon                 2-2   @ Les Avirons, Réunion
+Sun Jul 18
+  Senegal              v Eritrea               6-2   @ Dakar, Senegal
+Sun Aug 8
+  Senegal              v Zimbabwe              2-0   @ Dakar, Senegal
+Sun Aug 15
+  Zimbabwe             v Eritrea               4-0   @ Harare, Zimbabwe
 

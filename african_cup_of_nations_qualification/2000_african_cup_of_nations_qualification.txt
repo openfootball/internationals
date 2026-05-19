@@ -1,85 +1,85 @@
 = African Cup of Nations qualification 2000
 
-# Date       Fri Jun/30 - Sat Dec/16 2000 (169d)
+# Date       Fri Jun 30 - Sat Dec 16 2000 (169d)
 # Teams      46
 # Matches    62
 
-[Fri Jun 30]
-  Chad - Libya  3-1   @ N'Djamena, Chad
-  Djibouti - Burundi  1-3   @ Djibouti, Djibouti
-[Sat Jul 1]
-  Botswana - Madagascar  1-0   @ Gaborone, Botswana
-  Gambia - Guinea  2-2   @ Bakau, Gambia
-  São Tomé and Príncipe - Gabon  1-1   @ São Tomé, São Tomé and Príncipe
-  Seychelles - Zimbabwe  0-1   @ Victoria, Seychelles
-  Tanzania - Mauritius  0-1   @ Dar es Salaam, Tanzania
-  Uganda - Malawi  3-1   @ Kampala, Uganda
-[Sun Jul 2]
-  Benin - Namibia  2-0   @ Cotonou, Benin
-  Central African Republic - DR Congo  1-1   @ Bangui, Central African Republic
-  Equatorial Guinea - Angola  0-1   @ Malabo, Equatorial Guinea
-  Ethiopia - Zambia  1-0   @ Addis Ababa, Ethiopia
-  Lesotho - Mozambique  1-0   @ Maseru, Lesotho
-  Niger - Ivory Coast  0-1   @ Niamey, Niger
-  Rwanda - Congo  2-1   @ Kigali, Rwanda
-  Sudan - Eritrea  5-1   @ Khartoum, Sudan
-  Eswatini - Kenya  3-2   @ Mbabane, Swaziland
-[Fri Jul 14]
-  Libya - Chad  3-1   @ Tripoli, Libya   [Libya wins on penalties]
-[Sat Jul 15]
-  Burundi - Djibouti  1-0   @ Bujumbura, Burundi
-  Eritrea - Sudan  2-1   @ Asmara, Eritrea
-  Gabon - São Tomé and Príncipe  4-1   @ Libreville, Gabon
-  Kenya - Eswatini  3-0   @ Nairobi, Kenya
-  Madagascar - Botswana  2-0   @ Antananarivo, Madagascar
-  Malawi - Uganda  1-2   @ Blantyre, Malawi
-  Namibia - Benin  8-2   @ Windhoek, Namibia
-  Zambia - Ethiopia  2-0   @ Lusaka, Zambia
-[Sun Jul 16]
-  Angola - Equatorial Guinea  4-1   @ Luanda, Angola
-  Congo - Rwanda  5-1   @ Pointe-Noire, Congo
-  DR Congo - Central African Republic  2-0   @ Kinshasa, DR Congo
-  Guinea - Gambia  2-0   @ Conakry, Guinea
-  Ivory Coast - Niger  6-0   @ Abidjan, Ivory Coast
-  Mauritius - Tanzania  3-2   @ Curepipe, Mauritius
-  Mozambique - Lesotho  1-0   @ Maputo, Mozambique   [Lesotho wins on penalties]
-  Zimbabwe - Seychelles  5-0   @ Bulawayo, Zimbabwe
-[Sun Aug 20]
-  Sierra Leone - Togo  2-0   @ Freetown, Sierra Leone
-[Sat Sep 2]
-  Egypt - Ivory Coast  1-0   @ Alexandria, Egypt
-  Gabon - Morocco  2-0   @ Libreville, Gabon
-  Nigeria - Namibia  4-0   @ Lagos, Nigeria
-  Zambia - Madagascar  1-2   @ Lusaka, Zambia
-[Sun Sep 3]
-  Algeria - Burkina Faso  1-1   @ Algiers, Algeria
-  Burundi - Angola  0-0   @ Bujumbura, Burundi
-  Congo - South Africa  1-2   @ Pointe-Noire, Congo
-  Kenya - Tunisia  0-0   @ Nairobi, Kenya
-  Lesotho - Ghana  3-3   @ Maseru, Lesotho
-  Liberia - Mauritius  4-0   @ Monrovia, Liberia
-  Togo - Sierra Leone  2-0   @ Lomé, Togo   [Togo wins on penalties]
-  Zimbabwe - DR Congo  3-2   @ Harare, Zimbabwe
-[Sun Sep 10]
-  Libya - Sudan  1-0   @ Tripoli, Libya
-[Sun Sep 24]
-  Senegal - Togo  0-0   @ Dakar, Senegal
-[Sat Oct 7]
-  Burkina Faso - Burundi  1-0   @ Ouagadougou, Burkina Faso
-  Madagascar - Nigeria  0-0   @ Antananarivo, Madagascar
-  Tunisia - Gabon  4-2   @ Tunis, Tunisia
-[Sun Oct 8]
-  Angola - Algeria  2-2   @ Luanda, Angola
-  Ghana - Zimbabwe  4-1   @ Accra, Ghana
-  Mauritius - Congo  1-2   @ Curepipe, Mauritius
-  Morocco - Kenya  1-0   @ Casablanca, Morocco
-  Namibia - Zambia  1-2   @ Windhoek, Namibia
-  Sudan - Egypt  0-1   @ Khartoum, Sudan
-  Togo - Uganda  3-0   @ Lomé, Togo
-[Tue Oct 10]
-  DR Congo - Lesotho  1-1   @ Kinshasa, DR Congo
-[Sun Nov 19]
-  Ivory Coast - Libya  2-1   @ Abidjan, Ivory Coast
-[Sat Dec 16]
-  South Africa - Liberia  2-1   @ Johannesburg, South Africa
+Fri Jun 30
+  Chad                 v Libya                 3-1   @ N'Djamena, Chad
+  Djibouti             v Burundi               1-3   @ Djibouti, Djibouti
+Sat Jul 1
+  Botswana             v Madagascar            1-0   @ Gaborone, Botswana
+  Gambia               v Guinea                2-2   @ Bakau, Gambia
+  São Tomé and Príncipe v Gabon                 1-1   @ São Tomé, São Tomé and Príncipe
+  Seychelles           v Zimbabwe              0-1   @ Victoria, Seychelles
+  Tanzania             v Mauritius             0-1   @ Dar es Salaam, Tanzania
+  Uganda               v Malawi                3-1   @ Kampala, Uganda
+Sun Jul 2
+  Benin                v Namibia               2-0   @ Cotonou, Benin
+  Central African Republic v DR Congo              1-1   @ Bangui, Central African Republic
+  Equatorial Guinea    v Angola                0-1   @ Malabo, Equatorial Guinea
+  Ethiopia             v Zambia                1-0   @ Addis Ababa, Ethiopia
+  Lesotho              v Mozambique            1-0   @ Maseru, Lesotho
+  Niger                v Ivory Coast           0-1   @ Niamey, Niger
+  Rwanda               v Congo                 2-1   @ Kigali, Rwanda
+  Sudan                v Eritrea               5-1   @ Khartoum, Sudan
+  Eswatini             v Kenya                 3-2   @ Mbabane, Swaziland
+Fri Jul 14
+  Libya                v Chad                  3-1   @ Tripoli, Libya   [Libya wins on penalties]
+Sat Jul 15
+  Burundi              v Djibouti              1-0   @ Bujumbura, Burundi
+  Eritrea              v Sudan                 2-1   @ Asmara, Eritrea
+  Gabon                v São Tomé and Príncipe  4-1   @ Libreville, Gabon
+  Kenya                v Eswatini              3-0   @ Nairobi, Kenya
+  Madagascar           v Botswana              2-0   @ Antananarivo, Madagascar
+  Malawi               v Uganda                1-2   @ Blantyre, Malawi
+  Namibia              v Benin                 8-2   @ Windhoek, Namibia
+  Zambia               v Ethiopia              2-0   @ Lusaka, Zambia
+Sun Jul 16
+  Angola               v Equatorial Guinea     4-1   @ Luanda, Angola
+  Congo                v Rwanda                5-1   @ Pointe-Noire, Congo
+  DR Congo             v Central African Republic  2-0   @ Kinshasa, DR Congo
+  Guinea               v Gambia                2-0   @ Conakry, Guinea
+  Ivory Coast          v Niger                 6-0   @ Abidjan, Ivory Coast
+  Mauritius            v Tanzania              3-2   @ Curepipe, Mauritius
+  Mozambique           v Lesotho               1-0   @ Maputo, Mozambique   [Lesotho wins on penalties]
+  Zimbabwe             v Seychelles            5-0   @ Bulawayo, Zimbabwe
+Sun Aug 20
+  Sierra Leone         v Togo                  2-0   @ Freetown, Sierra Leone
+Sat Sep 2
+  Egypt                v Ivory Coast           1-0   @ Alexandria, Egypt
+  Gabon                v Morocco               2-0   @ Libreville, Gabon
+  Nigeria              v Namibia               4-0   @ Lagos, Nigeria
+  Zambia               v Madagascar            1-2   @ Lusaka, Zambia
+Sun Sep 3
+  Algeria              v Burkina Faso          1-1   @ Algiers, Algeria
+  Burundi              v Angola                0-0   @ Bujumbura, Burundi
+  Congo                v South Africa          1-2   @ Pointe-Noire, Congo
+  Kenya                v Tunisia               0-0   @ Nairobi, Kenya
+  Lesotho              v Ghana                 3-3   @ Maseru, Lesotho
+  Liberia              v Mauritius             4-0   @ Monrovia, Liberia
+  Togo                 v Sierra Leone          2-0   @ Lomé, Togo   [Togo wins on penalties]
+  Zimbabwe             v DR Congo              3-2   @ Harare, Zimbabwe
+Sun Sep 10
+  Libya                v Sudan                 1-0   @ Tripoli, Libya
+Sun Sep 24
+  Senegal              v Togo                  0-0   @ Dakar, Senegal
+Sat Oct 7
+  Burkina Faso         v Burundi               1-0   @ Ouagadougou, Burkina Faso
+  Madagascar           v Nigeria               0-0   @ Antananarivo, Madagascar
+  Tunisia              v Gabon                 4-2   @ Tunis, Tunisia
+Sun Oct 8
+  Angola               v Algeria               2-2   @ Luanda, Angola
+  Ghana                v Zimbabwe              4-1   @ Accra, Ghana
+  Mauritius            v Congo                 1-2   @ Curepipe, Mauritius
+  Morocco              v Kenya                 1-0   @ Casablanca, Morocco
+  Namibia              v Zambia                1-2   @ Windhoek, Namibia
+  Sudan                v Egypt                 0-1   @ Khartoum, Sudan
+  Togo                 v Uganda                3-0   @ Lomé, Togo
+Tue Oct 10
+  DR Congo             v Lesotho               1-1   @ Kinshasa, DR Congo
+Sun Nov 19
+  Ivory Coast          v Libya                 2-1   @ Abidjan, Ivory Coast
+Sat Dec 16
+  South Africa         v Liberia               2-1   @ Johannesburg, South Africa
 

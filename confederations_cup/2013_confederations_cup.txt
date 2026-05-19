@@ -1,57 +1,57 @@
 = Confederations Cup 2013
 
-# Date       Sat Jun/15 - Sun Jun/30 2013 (15d)
+# Date       Sat Jun 15 - Sun Jun 30 2013 (15d)
 # Teams      8
 # Matches    16
 
-[Sat Jun 15]
-  Brazil - Japan  3-0   @ Brasília, Brazil
-     Neymar 3' Paulinho 48' Jô 90'
-[Sun Jun 16]
-  Mexico - Italy  1-2   @ Rio de Janeiro, Brazil
-     Javier Hernández 34' (pen.);
-     Andrea Pirlo 27' Mario Balotelli 78'
-  Spain - Uruguay  2-1   @ Recife, Brazil
-     Pedro 20' Roberto Soldado 32';
-     Luis Suárez 88'
-[Mon Jun 17]
-  Tahiti - Nigeria  1-6   @ Belo Horizonte, Brazil
-     Jonathan Tehau 54';
-     Nicolas Vallar 5' (o.g.) Nnamdi Oduamadi 10' Nnamdi Oduamadi 26' Jonathan Tehau 69' (o.g.) Nnamdi Oduamadi 76' Uwa Elderson Echiéjilé 80'
-[Wed Jun 19]
-  Brazil - Mexico  2-0   @ Fortaleza, Brazil
-     Neymar 9' Jô 90'
-  Italy - Japan  4-3   @ Recife, Brazil
-     Daniele De Rossi 41' Atsuto Uchida 50' (o.g.) Mario Balotelli 52' (pen.) Sebastian Giovinco 86';
-     Keisuke Honda 21' (pen.) Shinji Kagawa 33' Shinji Okazaki 69'
-[Thu Jun 20]
-  Nigeria - Uruguay  1-2   @ Salvador, Brazil
-     Mikel John Obi 37';
-     Diego Lugano 19' Diego Forlán 51'
-  Spain - Tahiti  10-0   @ Rio de Janeiro, Brazil
-     Fernando Torres 5' David Silva 31' Fernando Torres 33' David Villa 39' David Villa 49' Fernando Torres 57' David Villa 64' Juan Mata 66' Fernando Torres 78' David Silva 89'
-[Sat Jun 22]
-  Brazil - Italy  4-2   @ Salvador, Brazil
-     Dante 45' Neymar 55' Fred 66' Fred 89';
-     Emanuele Giaccherini 51' Giorgio Chiellini 71'
-  Japan - Mexico  1-2   @ Belo Horizonte, Brazil
-     Shinji Okazaki 86';
-     Javier Hernández 54' Javier Hernández 66'
-[Sun Jun 23]
-  Nigeria - Spain  0-3   @ Fortaleza, Brazil
-     -; Jordi Alba 3' Fernando Torres 62' Jordi Alba 88'
-  Uruguay - Tahiti  8-0   @ Recife, Brazil
-     Abel Hernández 2' Abel Hernández 24' Diego Pérez 27' Abel Hernández 45' Nicolás Lodeiro 61' Abel Hernández 67' (pen.) Luis Suárez 82' Luis Suárez 90'
-[Wed Jun 26]
-  Brazil - Uruguay  2-1   @ Belo Horizonte, Brazil
-     Fred 41' Paulinho 86';
-     Edinson Cavani 48'
-[Thu Jun 27]
-  Spain - Italy  0-0   @ Fortaleza, Brazil   [Spain wins on penalties]
-[Sun Jun 30]
-  Brazil - Spain  3-0   @ Rio de Janeiro, Brazil
-     Fred 2' Neymar 44' Fred 48'
-  Uruguay - Italy  2-2   @ Salvador, Brazil   [Italy wins on penalties]
-     Edinson Cavani 58' Edinson Cavani 78';
-     Davide Astori 24' Alessandro Diamanti 73'
+Sat Jun 15
+  Brazil               v Japan                 3-0   @ Brasília, Brazil
+     (Neymar 3' Paulinho 48' Jô 90')
+Sun Jun 16
+  Mexico               v Italy                 1-2   @ Rio de Janeiro, Brazil
+     (Javier Hernández 34'(p);
+      Andrea Pirlo 27' Mario Balotelli 78')
+  Spain                v Uruguay               2-1   @ Recife, Brazil
+     (Pedro 20' Roberto Soldado 32';
+      Luis Suárez 88')
+Mon Jun 17
+  Tahiti               v Nigeria               1-6   @ Belo Horizonte, Brazil
+     (Jonathan Tehau 54';
+      Nicolas Vallar 5'(og) Nnamdi Oduamadi 10' Nnamdi Oduamadi 26' Jonathan Tehau 69'(og) Nnamdi Oduamadi 76' Uwa Elderson Echiéjilé 80')
+Wed Jun 19
+  Brazil               v Mexico                2-0   @ Fortaleza, Brazil
+     (Neymar 9' Jô 90')
+  Italy                v Japan                 4-3   @ Recife, Brazil
+     (Daniele De Rossi 41' Atsuto Uchida 50'(og) Mario Balotelli 52'(p) Sebastian Giovinco 86';
+      Keisuke Honda 21'(p) Shinji Kagawa 33' Shinji Okazaki 69')
+Thu Jun 20
+  Nigeria              v Uruguay               1-2   @ Salvador, Brazil
+     (Mikel John Obi 37';
+      Diego Lugano 19' Diego Forlán 51')
+  Spain                v Tahiti                10-0   @ Rio de Janeiro, Brazil
+     (Fernando Torres 5' David Silva 31' Fernando Torres 33' David Villa 39' David Villa 49' Fernando Torres 57' David Villa 64' Juan Mata 66' Fernando Torres 78' David Silva 89')
+Sat Jun 22
+  Brazil               v Italy                 4-2   @ Salvador, Brazil
+     (Dante 45' Neymar 55' Fred 66' Fred 89';
+      Emanuele Giaccherini 51' Giorgio Chiellini 71')
+  Japan                v Mexico                1-2   @ Belo Horizonte, Brazil
+     (Shinji Okazaki 86';
+      Javier Hernández 54' Javier Hernández 66')
+Sun Jun 23
+  Nigeria              v Spain                 0-3   @ Fortaleza, Brazil
+     (Jordi Alba 3' Fernando Torres 62' Jordi Alba 88')
+  Uruguay              v Tahiti                8-0   @ Recife, Brazil
+     (Abel Hernández 2' Abel Hernández 24' Diego Pérez 27' Abel Hernández 45' Nicolás Lodeiro 61' Abel Hernández 67'(p) Luis Suárez 82' Luis Suárez 90')
+Wed Jun 26
+  Brazil               v Uruguay               2-1   @ Belo Horizonte, Brazil
+     (Fred 41' Paulinho 86';
+      Edinson Cavani 48')
+Thu Jun 27
+  Spain                v Italy                 0-0   @ Fortaleza, Brazil   [Spain wins on penalties]
+Sun Jun 30
+  Brazil               v Spain                 3-0   @ Rio de Janeiro, Brazil
+     (Fred 2' Neymar 44' Fred 48')
+  Uruguay              v Italy                 2-2   @ Salvador, Brazil   [Italy wins on penalties]
+     (Edinson Cavani 58' Edinson Cavani 78';
+      Davide Astori 24' Alessandro Diamanti 73')
 

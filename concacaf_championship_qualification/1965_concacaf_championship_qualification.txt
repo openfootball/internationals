@@ -1,17 +1,17 @@
 = CONCACAF Championship qualification 1965
 
-# Date       Sun Mar/7 - Sun Mar/14 1965 (7d)
+# Date       Sun Mar 7 - Sun Mar 14 1965 (7d)
 # Teams      3
 # Matches    3
 
-[Sun Mar 7]
-  El Salvador - Nicaragua  4-0   @ San Salvador, El Salvador
-     Mauricio Ernesto González 49' Juan Francisco Barraza 63' Mauricio Ernesto González 67' Mauricio Ernesto González 84'
-[Thu Mar 11]
-  Honduras - Nicaragua  0-2   @ San Salvador, El Salvador
-     -; Pedro Jirón 36' Gerardo Barrios Morales 87'
-[Sun Mar 14]
-  El Salvador - Honduras  3-1   @ San Salvador, El Salvador
-     Mario Monge 33' Sergio Méndez 48' Jorge Liévano 90';
-     Carlos Castillo 84'
+Sun Mar 7
+  El Salvador          v Nicaragua             4-0   @ San Salvador, El Salvador
+     (Mauricio Ernesto González 49' Juan Francisco Barraza 63' Mauricio Ernesto González 67' Mauricio Ernesto González 84')
+Thu Mar 11
+  Honduras             v Nicaragua             0-2   @ San Salvador, El Salvador
+     (Pedro Jirón 36' Gerardo Barrios Morales 87')
+Sun Mar 14
+  El Salvador          v Honduras              3-1   @ San Salvador, El Salvador
+     (Mario Monge 33' Sergio Méndez 48' Jorge Liévano 90';
+      Carlos Castillo 84')
 

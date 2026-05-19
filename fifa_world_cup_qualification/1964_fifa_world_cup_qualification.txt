@@ -1,53 +1,53 @@
 = FIFA World Cup qualification 1964
 
-# Date       Sun May/24 - Wed Dec/9 1964 (199d)
+# Date       Sun May 24 - Wed Dec 9 1964 (199d)
 # Teams      16
 # Matches    14
 
-[Sun May 24]
-  Netherlands - Albania  2-0   @ Rotterdam, Netherlands
-     Daan Schrijvers 48' (pen.) Bennie Muller 52'
-[Tue Sep 29]
-  Yugoslavia - Luxembourg  3-1   @ Belgrade, Yugoslavia
-     Vladica Kovačević 15' Dražan Jerković 25' Milan Galić 86';
-     Ady Schmit 71'
-[Sun Oct 4]
-  Luxembourg - France  0-2   @ Luxembourg, Luxembourg
-     -; André Guy 17' Marcel Artelesa 80'
-[Wed Oct 14]
-  Northern Ireland - Switzerland  1-0   @ Belfast, Northern Ireland
-     Jobby Crossan 64' (pen.)
-[Wed Oct 21]
-  Denmark - Wales  1-0   @ Copenhagen, Denmark
-     Ole Madsen 47'
-  Scotland - Finland  3-1   @ Glasgow, Scotland
-     Denis Law 2' Stevie Chalmers 38' Dave Gibson 42';
-     Juhani Peltonen 70'
-[Sun Oct 25]
-  Albania - Netherlands  0-2   @ Tirana, Albania
-     -; Hennie van Nee 2' Frans Geurtsen 87'
-[Wed Nov 4]
-  Germany - Sweden  1-1   @ Berlin, Germany
-     Rudolf Brunnenmeier 24';
-     Kurt Hamrin 86'
-  Italy - Finland  6-1   @ Genoa, Italy
-     Giacinto Facchetti 1' Stig Holmqvist 8' (o.g.) Gianni Rivera 16' Giacomo Bulgarelli 49' Sandro Mazzola 54' Sandro Mazzola 83';
-     Juhani Peltonen 88'
-[Sun Nov 8]
-  Luxembourg - Norway  0-2   @ Luxembourg, Luxembourg
-     -; Erik Johansen 28' Harald Berg 72'
-[Wed Nov 11]
-  France - Norway  1-0   @ Paris, France
-     Angel Rambert 17'
-[Sat Nov 14]
-  Switzerland - Northern Ireland  2-1   @ Lausanne, Switzerland
-     René-Pierre Quentin 29' Köbi Kuhn 34';
-     George Best 31'
-[Sun Nov 29]
-  Greece - Denmark  4-2   @ Athens, Greece
-     Giorgos Sideris 30' Giorgos Sideris 46' Mimis Papaioannou 71' Mimis Papaioannou 85';
-     Mogens Berg 60' Ole Madsen 70'
-[Wed Dec 9]
-  Greece - Wales  2-0   @ Athens, Greece
-     Mimis Papaioannou 4' Andreas Papaemmanouil 47'
+Sun May 24
+  Netherlands          v Albania               2-0   @ Rotterdam, Netherlands
+     (Daan Schrijvers 48'(p) Bennie Muller 52')
+Tue Sep 29
+  Yugoslavia           v Luxembourg            3-1   @ Belgrade, Yugoslavia
+     (Vladica Kovačević 15' Dražan Jerković 25' Milan Galić 86';
+      Ady Schmit 71')
+Sun Oct 4
+  Luxembourg           v France                0-2   @ Luxembourg, Luxembourg
+     (André Guy 17' Marcel Artelesa 80')
+Wed Oct 14
+  Northern Ireland     v Switzerland           1-0   @ Belfast, Northern Ireland
+     (Jobby Crossan 64'(p))
+Wed Oct 21
+  Denmark              v Wales                 1-0   @ Copenhagen, Denmark
+     (Ole Madsen 47')
+  Scotland             v Finland               3-1   @ Glasgow, Scotland
+     (Denis Law 2' Stevie Chalmers 38' Dave Gibson 42';
+      Juhani Peltonen 70')
+Sun Oct 25
+  Albania              v Netherlands           0-2   @ Tirana, Albania
+     (Hennie van Nee 2' Frans Geurtsen 87')
+Wed Nov 4
+  Germany              v Sweden                1-1   @ Berlin, Germany
+     (Rudolf Brunnenmeier 24';
+      Kurt Hamrin 86')
+  Italy                v Finland               6-1   @ Genoa, Italy
+     (Giacinto Facchetti 1' Stig Holmqvist 8'(og) Gianni Rivera 16' Giacomo Bulgarelli 49' Sandro Mazzola 54' Sandro Mazzola 83';
+      Juhani Peltonen 88')
+Sun Nov 8
+  Luxembourg           v Norway                0-2   @ Luxembourg, Luxembourg
+     (Erik Johansen 28' Harald Berg 72')
+Wed Nov 11
+  France               v Norway                1-0   @ Paris, France
+     (Angel Rambert 17')
+Sat Nov 14
+  Switzerland          v Northern Ireland      2-1   @ Lausanne, Switzerland
+     (René-Pierre Quentin 29' Köbi Kuhn 34';
+      George Best 31')
+Sun Nov 29
+  Greece               v Denmark               4-2   @ Athens, Greece
+     (Giorgos Sideris 30' Giorgos Sideris 46' Mimis Papaioannou 71' Mimis Papaioannou 85';
+      Mogens Berg 60' Ole Madsen 70')
+Wed Dec 9
+  Greece               v Wales                 2-0   @ Athens, Greece
+     (Mimis Papaioannou 4' Andreas Papaemmanouil 47')
 

@@ -1,23 +1,23 @@
 = Viva World Cup 2010
 
-# Date       Mon May/31 - Sat Jun/5 2010 (5d)
+# Date       Mon May 31 - Sat Jun 5 2010 (5d)
 # Teams      6
 # Matches    11
 
-[Mon May 31]
-  Gozo - Padania  1-2   @ Xewkija, Malta
-  Iraqi Kurdistan - Two Sicilies  4-1   @ Sannat, Malta
-[Tue Jun 1]
-  Occitania - Padania  0-1   @ Xewkija, Malta
-  Provence - Two Sicilies  0-1   @ Sannat, Malta
-[Wed Jun 2]
-  Gozo - Occitania  0-5   @ Xewkija, Malta
-  Iraqi Kurdistan - Provence  3-2   @ Sannat, Malta
-[Fri Jun 4]
-  Iraqi Kurdistan - Occitania  2-1   @ Sannat, Malta
-  Padania - Two Sicilies  2-0   @ Xewkija, Malta
-  Gozo - Provence  2-1   @ Xewkija, Malta
-[Sat Jun 5]
-  Occitania - Two Sicilies  2-0   @ Sannat, Malta
-  Iraqi Kurdistan - Padania  0-1   @ Xewkija, Malta
+Mon May 31
+  Gozo                 v Padania               1-2   @ Xewkija, Malta
+  Iraqi Kurdistan      v Two Sicilies          4-1   @ Sannat, Malta
+Tue Jun 1
+  Occitania            v Padania               0-1   @ Xewkija, Malta
+  Provence             v Two Sicilies          0-1   @ Sannat, Malta
+Wed Jun 2
+  Gozo                 v Occitania             0-5   @ Xewkija, Malta
+  Iraqi Kurdistan      v Provence              3-2   @ Sannat, Malta
+Fri Jun 4
+  Iraqi Kurdistan      v Occitania             2-1   @ Sannat, Malta
+  Padania              v Two Sicilies          2-0   @ Xewkija, Malta
+  Gozo                 v Provence              2-1   @ Xewkija, Malta
+Sat Jun 5
+  Occitania            v Two Sicilies          2-0   @ Sannat, Malta
+  Iraqi Kurdistan      v Padania               0-1   @ Xewkija, Malta
 

@@ -1,127 +1,127 @@
 = CONCACAF Nations League 2019
 
-# Date       Thu Sep/5 - Tue Nov/19 2019 (75d)
+# Date       Thu Sep 5 - Tue Nov 19 2019 (75d)
 # Teams      41
 # Matches    102
 
-[Thu Sep 5]
-  Bermuda - Panama  1-4   @ Hamilton, Bermuda
-  Grenada - Saint Kitts and Nevis  2-1   @ St. George's, Grenada
-  French Guiana - Belize  3-0   @ Cayenne, French Guiana
-  Dominica - Suriname  1-2   @ Roseau, Dominica
-  United States Virgin Islands - Cayman Islands  0-2   @ Saint Croix, United States Virgin Islands
-  Barbados - Saint Martin  4-0   @ Bridgetown, Barbados
-  Guatemala - Anguilla  10-0   @ Guatemala City, Guatemala
-[Fri Sep 6]
-  Martinique - Trinidad and Tobago  1-1   @ Fort-de-France, Martinique
-  Aruba - Guyana  0-1   @ Willemstad, Curaçao
-  Jamaica - Antigua and Barbuda  6-0   @ Montego Bay, Jamaica
-  Nicaragua - Saint Vincent and the Grenadines  1-1   @ Managua, Nicaragua
-  Bonaire - British Virgin Islands  4-2   @ Willemstad, Curaçao
-[Sat Sep 7]
-  Canada - Cuba  6-0   @ Toronto, Canada
-  Curaçao - Haiti  1-0   @ Willemstad, Curaçao
-  Montserrat - Dominican Republic  2-1   @ Lookout, Montserrat
-  El Salvador - Saint Lucia  3-0   @ San Salvador, El Salvador
-  Guadeloupe - Sint Maarten  5-1   @ Les Abymes, Guadeloupe
-[Sun Sep 8]
-  Panama - Bermuda  0-2   @ Panama City, Panama
-  Belize - Grenada  1-2   @ Belmopan, Belize
-  Saint Kitts and Nevis - French Guiana  2-2   @ Basseterre, Saint Kitts and Nevis
-  Saint Vincent and the Grenadines - Dominica  1-0   @ Arnos Vale, Saint Vincent and the Grenadines
-  Suriname - Nicaragua  6-0   @ Paramaribo, Suriname
-  Saint Martin - United States Virgin Islands  1-2   @ The Valley, Anguilla
-  Cayman Islands - Barbados  3-2   @ George Town, Cayman Islands
-[Mon Sep 9]
-  Trinidad and Tobago - Martinique  2-2   @ Couva, Trinidad and Tobago
-  Antigua and Barbuda - Aruba  2-1   @ North Sound, Antigua and Barbuda
-  Guyana - Jamaica  0-4   @ Georgetown, Guyana
-  Bahamas - Bonaire  2-1   @ Nassau, Bahamas
-[Tue Sep 10]
-  Cuba - Canada  0-1   @ George Town, Cayman Islands
-  Haiti - Curaçao  1-1   @ Port-au-Prince, Haiti
-  Montserrat - Saint Lucia  1-1   @ Lookout, Montserrat
-  Dominican Republic - El Salvador  1-0   @ Santiago de los Caballeros, Dominican Republic
-  Puerto Rico - Guatemala  0-5   @ Mayagüez, Puerto Rico
-  Turks and Caicos Islands - Guadeloupe  0-3   @ Providenciales, Turks and Caicos Islands
-[Thu Oct 10]
-  Trinidad and Tobago - Honduras  0-2   @ Port of Spain, Trinidad and Tobago
-  Haiti - Costa Rica  1-1   @ Port-au-Prince, Haiti
-  Belize - Saint Kitts and Nevis  0-4   @ Belmopan, Belize
-  French Guiana - Grenada  0-0   @ Cayenne, French Guiana
-  British Virgin Islands - Bahamas  0-4   @ Basseterre, Saint Kitts and Nevis
-  Sint Maarten - Turks and Caicos Islands  2-5   @ Willemstad, Curaçao
-[Fri Oct 11]
-  United States - Cuba  7-0   @ Washington, D.C., United States
-  Bermuda - Mexico  1-5   @ Hamilton, Bermuda
-  Antigua and Barbuda - Guyana  2-1   @ North Sound, Antigua and Barbuda
-  Saint Vincent and the Grenadines - Suriname  2-2   @ Arnos Vale, Saint Vincent and the Grenadines
-  Nicaragua - Dominica  3-1   @ Managua, Nicaragua
-[Sat Oct 12]
-  Dominican Republic - Saint Lucia  3-0   @ Santo Domingo, Dominican Republic
-  Montserrat - El Salvador  0-2   @ Lookout, Montserrat
-  Jamaica - Aruba  2-0   @ Kingston, Jamaica
-  Barbados - United States Virgin Islands  1-0   @ Bridgetown, Barbados
-  Saint Martin - Cayman Islands  3-0   @ The Valley, Anguilla
-  Anguilla - Guatemala  0-5   @ The Valley, Anguilla
-[Sun Oct 13]
-  Honduras - Martinique  1-0   @ San Pedro Sula, Honduras
-  Costa Rica - Curaçao  0-0   @ San José, Costa Rica
-  Saint Kitts and Nevis - Belize  0-1   @ Saint Kitts and Nevis, Saint Kitts and Nevis
-  Grenada - French Guiana  1-0   @ Grenada, Grenada
-  British Virgin Islands - Bonaire  3-4   @ Basseterre, Saint Kitts and Nevis
-[Mon Oct 14]
-  Guyana - Antigua and Barbuda  5-1   @ Leonora, Guyana
-  Dominica - Nicaragua  0-4   @ Roseau, Dominica
-  Suriname - Saint Vincent and the Grenadines  0-1   @ Paramaribo, Suriname
-  Sint Maarten - Guadeloupe  1-2   @ Willemstad, Curaçao
-[Tue Oct 15]
-  Canada - United States  2-0   @ Toronto, Canada
-  Mexico - Panama  3-1   @ Mexico City, Mexico
-  Dominican Republic - Montserrat  0-0   @ Santo Domingo, Dominican Republic
-  Saint Lucia - El Salvador  0-2   @ Gros Islet, Saint Lucia
-  Aruba - Jamaica  0-6   @ Willemstad, Curaçao
-  Cayman Islands - Saint Martin  1-0   @ George Town, Cayman Islands
-  United States Virgin Islands - Barbados  0-4   @ Saint Croix, United States Virgin Islands
-  Anguilla - Puerto Rico  2-3   @ The Valley, Anguilla
-[Thu Nov 14]
-  Martinique - Honduras  1-1   @ Fort-de-France, Martinique
-  Curaçao - Costa Rica  1-2   @ Willemstad, Curaçao
-  Saint Kitts and Nevis - Grenada  0-0   @ Basseterre, Saint Kitts and Nevis
-  Belize - French Guiana  2-0   @ Belmopan, Belize
-  Bahamas - British Virgin Islands  3-0   @ Nassau, Bahamas
-  Turks and Caicos Islands - Sint Maarten  3-2   @ Providenciales, Turks and Caicos Islands
-[Fri Nov 15]
-  United States - Canada  4-1   @ Orlando, United States
-  Panama - Mexico  0-3   @ Panama City, Panama
-  Antigua and Barbuda - Jamaica  0-2   @ North Sound, Antigua and Barbuda
-  Guyana - Aruba  4-2   @ Leonora, Guyana
-  Saint Vincent and the Grenadines - Nicaragua  1-0   @ Arnos Vale, Saint Vincent and the Grenadines
-  Suriname - Dominica  4-0   @ Paramaribo, Suriname
-[Sat Nov 16]
-  Saint Lucia - Dominican Republic  1-0   @ Gros Islet, Saint Lucia
-  El Salvador - Montserrat  1-0   @ San Salvador, El Salvador
-  Saint Martin - Barbados  1-0   @ The Valley, Anguilla
-  Cayman Islands - United States Virgin Islands  1-0   @ George Town, Cayman Islands
-  Guatemala - Puerto Rico  5-0   @ Guatemala City, Guatemala
-[Sun Nov 17]
-  Honduras - Trinidad and Tobago  4-0   @ San Pedro Sula, Honduras
-  Costa Rica - Haiti  1-1   @ San José, Costa Rica
-  Grenada - Belize  3-2   @ St. George's, Grenada
-  French Guiana - Saint Kitts and Nevis  3-1   @ Cayenne, French Guiana
-  Bonaire - Bahamas  1-1   @ Willemstad, Curaçao
-  Guadeloupe - Turks and Caicos Islands  10-0   @ Les Abymes, Guadeloupe
-[Mon Nov 18]
-  Jamaica - Guyana  1-1   @ Montego Bay, Jamaica
-  Aruba - Antigua and Barbuda  2-3   @ Willemstad, Curaçao
-  Nicaragua - Suriname  1-2   @ Managua, Nicaragua
-  Dominica - Saint Vincent and the Grenadines  1-0   @ Roseau, Dominica
-[Tue Nov 19]
-  Cuba - United States  0-4   @ George Town, Cayman Islands
-  Mexico - Bermuda  2-1   @ Mexico City, Mexico
-  El Salvador - Dominican Republic  2-0   @ San Salvador, El Salvador
-  Saint Lucia - Montserrat  0-1   @ Gros Islet, Saint Lucia
-  Barbados - Cayman Islands  3-0   @ Bridgetown, Barbados
-  United States Virgin Islands - Saint Martin  1-2   @ Upper Bethlehem, United States Virgin Islands
-  Puerto Rico - Anguilla  3-0   @ Bayamón, Puerto Rico
+Thu Sep 5
+  Bermuda              v Panama                1-4   @ Hamilton, Bermuda
+  Grenada              v Saint Kitts and Nevis  2-1   @ St. George's, Grenada
+  French Guiana        v Belize                3-0   @ Cayenne, French Guiana
+  Dominica             v Suriname              1-2   @ Roseau, Dominica
+  United States Virgin Islands v Cayman Islands        0-2   @ Saint Croix, United States Virgin Islands
+  Barbados             v Saint Martin          4-0   @ Bridgetown, Barbados
+  Guatemala            v Anguilla              10-0   @ Guatemala City, Guatemala
+Fri Sep 6
+  Martinique           v Trinidad and Tobago   1-1   @ Fort-de-France, Martinique
+  Aruba                v Guyana                0-1   @ Willemstad, Curaçao
+  Jamaica              v Antigua and Barbuda   6-0   @ Montego Bay, Jamaica
+  Nicaragua            v Saint Vincent and the Grenadines  1-1   @ Managua, Nicaragua
+  Bonaire              v British Virgin Islands  4-2   @ Willemstad, Curaçao
+Sat Sep 7
+  Canada               v Cuba                  6-0   @ Toronto, Canada
+  Curaçao              v Haiti                 1-0   @ Willemstad, Curaçao
+  Montserrat           v Dominican Republic    2-1   @ Lookout, Montserrat
+  El Salvador          v Saint Lucia           3-0   @ San Salvador, El Salvador
+  Guadeloupe           v Sint Maarten          5-1   @ Les Abymes, Guadeloupe
+Sun Sep 8
+  Panama               v Bermuda               0-2   @ Panama City, Panama
+  Belize               v Grenada               1-2   @ Belmopan, Belize
+  Saint Kitts and Nevis v French Guiana         2-2   @ Basseterre, Saint Kitts and Nevis
+  Saint Vincent and the Grenadines v Dominica              1-0   @ Arnos Vale, Saint Vincent and the Grenadines
+  Suriname             v Nicaragua             6-0   @ Paramaribo, Suriname
+  Saint Martin         v United States Virgin Islands  1-2   @ The Valley, Anguilla
+  Cayman Islands       v Barbados              3-2   @ George Town, Cayman Islands
+Mon Sep 9
+  Trinidad and Tobago  v Martinique            2-2   @ Couva, Trinidad and Tobago
+  Antigua and Barbuda  v Aruba                 2-1   @ North Sound, Antigua and Barbuda
+  Guyana               v Jamaica               0-4   @ Georgetown, Guyana
+  Bahamas              v Bonaire               2-1   @ Nassau, Bahamas
+Tue Sep 10
+  Cuba                 v Canada                0-1   @ George Town, Cayman Islands
+  Haiti                v Curaçao               1-1   @ Port-au-Prince, Haiti
+  Montserrat           v Saint Lucia           1-1   @ Lookout, Montserrat
+  Dominican Republic   v El Salvador           1-0   @ Santiago de los Caballeros, Dominican Republic
+  Puerto Rico          v Guatemala             0-5   @ Mayagüez, Puerto Rico
+  Turks and Caicos Islands v Guadeloupe            0-3   @ Providenciales, Turks and Caicos Islands
+Thu Oct 10
+  Trinidad and Tobago  v Honduras              0-2   @ Port of Spain, Trinidad and Tobago
+  Haiti                v Costa Rica            1-1   @ Port-au-Prince, Haiti
+  Belize               v Saint Kitts and Nevis  0-4   @ Belmopan, Belize
+  French Guiana        v Grenada               0-0   @ Cayenne, French Guiana
+  British Virgin Islands v Bahamas               0-4   @ Basseterre, Saint Kitts and Nevis
+  Sint Maarten         v Turks and Caicos Islands  2-5   @ Willemstad, Curaçao
+Fri Oct 11
+  United States        v Cuba                  7-0   @ Washington, D.C., United States
+  Bermuda              v Mexico                1-5   @ Hamilton, Bermuda
+  Antigua and Barbuda  v Guyana                2-1   @ North Sound, Antigua and Barbuda
+  Saint Vincent and the Grenadines v Suriname              2-2   @ Arnos Vale, Saint Vincent and the Grenadines
+  Nicaragua            v Dominica              3-1   @ Managua, Nicaragua
+Sat Oct 12
+  Dominican Republic   v Saint Lucia           3-0   @ Santo Domingo, Dominican Republic
+  Montserrat           v El Salvador           0-2   @ Lookout, Montserrat
+  Jamaica              v Aruba                 2-0   @ Kingston, Jamaica
+  Barbados             v United States Virgin Islands  1-0   @ Bridgetown, Barbados
+  Saint Martin         v Cayman Islands        3-0   @ The Valley, Anguilla
+  Anguilla             v Guatemala             0-5   @ The Valley, Anguilla
+Sun Oct 13
+  Honduras             v Martinique            1-0   @ San Pedro Sula, Honduras
+  Costa Rica           v Curaçao               0-0   @ San José, Costa Rica
+  Saint Kitts and Nevis v Belize                0-1   @ Saint Kitts and Nevis, Saint Kitts and Nevis
+  Grenada              v French Guiana         1-0   @ Grenada, Grenada
+  British Virgin Islands v Bonaire               3-4   @ Basseterre, Saint Kitts and Nevis
+Mon Oct 14
+  Guyana               v Antigua and Barbuda   5-1   @ Leonora, Guyana
+  Dominica             v Nicaragua             0-4   @ Roseau, Dominica
+  Suriname             v Saint Vincent and the Grenadines  0-1   @ Paramaribo, Suriname
+  Sint Maarten         v Guadeloupe            1-2   @ Willemstad, Curaçao
+Tue Oct 15
+  Canada               v United States         2-0   @ Toronto, Canada
+  Mexico               v Panama                3-1   @ Mexico City, Mexico
+  Dominican Republic   v Montserrat            0-0   @ Santo Domingo, Dominican Republic
+  Saint Lucia          v El Salvador           0-2   @ Gros Islet, Saint Lucia
+  Aruba                v Jamaica               0-6   @ Willemstad, Curaçao
+  Cayman Islands       v Saint Martin          1-0   @ George Town, Cayman Islands
+  United States Virgin Islands v Barbados              0-4   @ Saint Croix, United States Virgin Islands
+  Anguilla             v Puerto Rico           2-3   @ The Valley, Anguilla
+Thu Nov 14
+  Martinique           v Honduras              1-1   @ Fort-de-France, Martinique
+  Curaçao              v Costa Rica            1-2   @ Willemstad, Curaçao
+  Saint Kitts and Nevis v Grenada               0-0   @ Basseterre, Saint Kitts and Nevis
+  Belize               v French Guiana         2-0   @ Belmopan, Belize
+  Bahamas              v British Virgin Islands  3-0   @ Nassau, Bahamas
+  Turks and Caicos Islands v Sint Maarten          3-2   @ Providenciales, Turks and Caicos Islands
+Fri Nov 15
+  United States        v Canada                4-1   @ Orlando, United States
+  Panama               v Mexico                0-3   @ Panama City, Panama
+  Antigua and Barbuda  v Jamaica               0-2   @ North Sound, Antigua and Barbuda
+  Guyana               v Aruba                 4-2   @ Leonora, Guyana
+  Saint Vincent and the Grenadines v Nicaragua             1-0   @ Arnos Vale, Saint Vincent and the Grenadines
+  Suriname             v Dominica              4-0   @ Paramaribo, Suriname
+Sat Nov 16
+  Saint Lucia          v Dominican Republic    1-0   @ Gros Islet, Saint Lucia
+  El Salvador          v Montserrat            1-0   @ San Salvador, El Salvador
+  Saint Martin         v Barbados              1-0   @ The Valley, Anguilla
+  Cayman Islands       v United States Virgin Islands  1-0   @ George Town, Cayman Islands
+  Guatemala            v Puerto Rico           5-0   @ Guatemala City, Guatemala
+Sun Nov 17
+  Honduras             v Trinidad and Tobago   4-0   @ San Pedro Sula, Honduras
+  Costa Rica           v Haiti                 1-1   @ San José, Costa Rica
+  Grenada              v Belize                3-2   @ St. George's, Grenada
+  French Guiana        v Saint Kitts and Nevis  3-1   @ Cayenne, French Guiana
+  Bonaire              v Bahamas               1-1   @ Willemstad, Curaçao
+  Guadeloupe           v Turks and Caicos Islands  10-0   @ Les Abymes, Guadeloupe
+Mon Nov 18
+  Jamaica              v Guyana                1-1   @ Montego Bay, Jamaica
+  Aruba                v Antigua and Barbuda   2-3   @ Willemstad, Curaçao
+  Nicaragua            v Suriname              1-2   @ Managua, Nicaragua
+  Dominica             v Saint Vincent and the Grenadines  1-0   @ Roseau, Dominica
+Tue Nov 19
+  Cuba                 v United States         0-4   @ George Town, Cayman Islands
+  Mexico               v Bermuda               2-1   @ Mexico City, Mexico
+  El Salvador          v Dominican Republic    2-0   @ San Salvador, El Salvador
+  Saint Lucia          v Montserrat            0-1   @ Gros Islet, Saint Lucia
+  Barbados             v Cayman Islands        3-0   @ Bridgetown, Barbados
+  United States Virgin Islands v Saint Martin          1-2   @ Upper Bethlehem, United States Virgin Islands
+  Puerto Rico          v Anguilla              3-0   @ Bayamón, Puerto Rico
 

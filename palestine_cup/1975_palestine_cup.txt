@@ -1,26 +1,26 @@
 = Palestine Cup 1975
 
-# Date       Fri Dec/19 - Sun Dec/28 1975 (9d)
+# Date       Fri Dec 19 - Sun Dec 28 1975 (9d)
 # Teams      10
 # Matches    14
 
-[Fri Dec 19]
-  Egypt - Yemen DPR  5-0   @ Tunis, Tunisia
-  Palestine - Sudan  0-0   @ Tunis, Tunisia
-  Tunisia - United Arab Emirates  3-0   @ Tunis, Tunisia
-[Sun Dec 21]
-  Iraq - United Arab Emirates  5-0   @ Tunis, Tunisia
-  Libya - Syria  2-3   @ Tunis, Tunisia
-  Palestine - Sudan  0-1   @ Tunis, Tunisia
-  Saudi Arabia - Yemen DPR  0-1   @ Tunis, Tunisia
-[Tue Dec 23]
-  Egypt - Saudi Arabia  2-1   @ Tunis, Tunisia
-  Libya - Syria  1-0   @ Tunis, Tunisia   [Syria wins on penalties]
-  Tunisia - Iraq  1-1   @ Tunis, Tunisia
-[Fri Dec 26]
-  Egypt - Sudan  3-1   @ Tunis, Tunisia
-  Iraq - Syria  4-0   @ Tunis, Tunisia
-[Sun Dec 28]
-  Egypt - Iraq  1-0   @ Tunis, Tunisia
-  Sudan - Syria  1-0   @ Tunis, Tunisia
+Fri Dec 19
+  Egypt                v Yemen DPR             5-0   @ Tunis, Tunisia
+  Palestine            v Sudan                 0-0   @ Tunis, Tunisia
+  Tunisia              v United Arab Emirates  3-0   @ Tunis, Tunisia
+Sun Dec 21
+  Iraq                 v United Arab Emirates  5-0   @ Tunis, Tunisia
+  Libya                v Syria                 2-3   @ Tunis, Tunisia
+  Palestine            v Sudan                 0-1   @ Tunis, Tunisia
+  Saudi Arabia         v Yemen DPR             0-1   @ Tunis, Tunisia
+Tue Dec 23
+  Egypt                v Saudi Arabia          2-1   @ Tunis, Tunisia
+  Libya                v Syria                 1-0   @ Tunis, Tunisia   [Syria wins on penalties]
+  Tunisia              v Iraq                  1-1   @ Tunis, Tunisia
+Fri Dec 26
+  Egypt                v Sudan                 3-1   @ Tunis, Tunisia
+  Iraq                 v Syria                 4-0   @ Tunis, Tunisia
+Sun Dec 28
+  Egypt                v Iraq                  1-0   @ Tunis, Tunisia
+  Sudan                v Syria                 1-0   @ Tunis, Tunisia
 

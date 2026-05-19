@@ -1,19 +1,19 @@
 = Nehru Cup 1991
 
-# Date       Fri Jan/11 - Thu Jan/24 1991 (13d)
+# Date       Fri Jan 11 - Thu Jan 24 1991 (13d)
 # Teams      4
 # Matches    6
 
-[Fri Jan 11]
-  Russia - Zambia  4-0   @ Trivandrum, India
-[Mon Jan 14]
-  Hungary - Russia  1-1   @ Trivandrum, India
-[Thu Jan 17]
-  India - Hungary  1-2   @ Trivandrum, India
-[Sun Jan 20]
-  India - Zambia  1-0   @ Trivandrum, India
-[Wed Jan 23]
-  Hungary - Zambia  4-1   @ Trivandrum, India
-[Thu Jan 24]
-  India - Russia  1-3   @ Trivandrum, India
+Fri Jan 11
+  Russia               v Zambia                4-0   @ Trivandrum, India
+Mon Jan 14
+  Hungary              v Russia                1-1   @ Trivandrum, India
+Thu Jan 17
+  India                v Hungary               1-2   @ Trivandrum, India
+Sun Jan 20
+  India                v Zambia                1-0   @ Trivandrum, India
+Wed Jan 23
+  Hungary              v Zambia                4-1   @ Trivandrum, India
+Thu Jan 24
+  India                v Russia                1-3   @ Trivandrum, India
 

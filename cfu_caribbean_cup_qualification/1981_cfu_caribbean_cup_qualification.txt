@@ -1,32 +1,32 @@
 = CFU Caribbean Cup qualification 1981
 
-# Date       Sun Jun/7 - Sun Sep/27 1981 (112d)
+# Date       Sun Jun 7 - Sun Sep 27 1981 (112d)
 # Teams      8
 # Matches    15
 
-[Sun Jun 7]
-  Suriname - French Guiana  3-1   @ Paramaribo, Suriname
-[Sun Jun 21]
-  French Guiana - Suriname  3-1   @ Cayenne, French Guiana
-  Guadeloupe - Dominica  5-0   @ Basse-Terre, Guadeloupe
-[Sun Jul 5]
-  Barbados - Trinidad and Tobago  1-1   @ Bridgetown, Barbados
-  Dominica - Guadeloupe  2-3   @ Roseau, Dominica
-  Saint Vincent and the Grenadines - Martinique  2-1   @ Kingstown, Saint Vincent and the Grenadines
-[Fri Jul 17]
-  Trinidad and Tobago - Barbados  1-1   @ Port of Spain, Trinidad and Tobago
-[Sun Jul 19]
-  Martinique - Saint Vincent and the Grenadines  1-2   @ Fort-de-France, Martinique
-  Suriname - French Guiana  1-0   @ Paramaribo, Suriname
-[Sun Aug 2]
-  Guadeloupe - Saint Vincent and the Grenadines  3-0   @ Basse-Terre, Guadeloupe
-  Suriname - Trinidad and Tobago  1-1   @ Paramaribo, Suriname
-[Fri Aug 14]
-  Trinidad and Tobago - Suriname  3-2   @ San Fernando, Trinidad and Tobago
-[Sun Aug 16]
-  Saint Vincent and the Grenadines - Guadeloupe  3-1   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Sep 13]
-  Saint Vincent and the Grenadines - Suriname  2-1   @ Kingstown, Saint Vincent and the Grenadines
-[Sun Sep 27]
-  Suriname - Saint Vincent and the Grenadines  3-3   @ Paramaribo, Suriname
+Sun Jun 7
+  Suriname             v French Guiana         3-1   @ Paramaribo, Suriname
+Sun Jun 21
+  French Guiana        v Suriname              3-1   @ Cayenne, French Guiana
+  Guadeloupe           v Dominica              5-0   @ Basse-Terre, Guadeloupe
+Sun Jul 5
+  Barbados             v Trinidad and Tobago   1-1   @ Bridgetown, Barbados
+  Dominica             v Guadeloupe            2-3   @ Roseau, Dominica
+  Saint Vincent and the Grenadines v Martinique            2-1   @ Kingstown, Saint Vincent and the Grenadines
+Fri Jul 17
+  Trinidad and Tobago  v Barbados              1-1   @ Port of Spain, Trinidad and Tobago
+Sun Jul 19
+  Martinique           v Saint Vincent and the Grenadines  1-2   @ Fort-de-France, Martinique
+  Suriname             v French Guiana         1-0   @ Paramaribo, Suriname
+Sun Aug 2
+  Guadeloupe           v Saint Vincent and the Grenadines  3-0   @ Basse-Terre, Guadeloupe
+  Suriname             v Trinidad and Tobago   1-1   @ Paramaribo, Suriname
+Fri Aug 14
+  Trinidad and Tobago  v Suriname              3-2   @ San Fernando, Trinidad and Tobago
+Sun Aug 16
+  Saint Vincent and the Grenadines v Guadeloupe            3-1   @ Kingstown, Saint Vincent and the Grenadines
+Sun Sep 13
+  Saint Vincent and the Grenadines v Suriname              2-1   @ Kingstown, Saint Vincent and the Grenadines
+Sun Sep 27
+  Suriname             v Saint Vincent and the Grenadines  3-3   @ Paramaribo, Suriname
 

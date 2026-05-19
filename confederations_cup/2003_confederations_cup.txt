@@ -1,53 +1,53 @@
 = Confederations Cup 2003
 
-# Date       Wed Jun/18 - Sun Jun/29 2003 (11d)
+# Date       Wed Jun 18 - Sun Jun 29 2003 (11d)
 # Teams      8
 # Matches    16
 
-[Wed Jun 18]
-  France - Colombia  1-0   @ Lyon, France
-     Thierry Henry 39' (pen.)
-  New Zealand - Japan  0-3   @ Saint-Denis, France
-     -; Shunsuke Nakamura 12' Hidetoshi Nakata 65' Shunsuke Nakamura 75'
-[Thu Jun 19]
-  Brazil - Cameroon  0-1   @ Saint-Denis, France
-     -; Samuel Eto'o 83'
-  Turkey - United States  2-1   @ Saint-Étienne, France
-     Okan Yılmaz 40' (pen.) Tuncay Şanlı 71';
-     DaMarcus Beasley 37'
-[Fri Jun 20]
-  Colombia - New Zealand  3-1   @ Lyon, France
-     Jorge López Caballero 58' Mario Yepes 75' Giovanni Hernández 85';
-     Raf de Gregorio 27'
-  France - Japan  2-1   @ Saint-Étienne, France
-     Robert Pires 43' (pen.) Sidney Govou 65';
-     Shunsuke Nakamura 59'
-[Sat Jun 21]
-  Brazil - United States  1-0   @ Lyon, France
-     Adriano 22'
-  Cameroon - Turkey  1-0   @ Saint-Denis, France
-     Geremi 90' (pen.)
-[Sun Jun 22]
-  France - New Zealand  5-0   @ Saint-Denis, France
-     Olivier Kapo 17' Thierry Henry 20' Djibril Cissé 71' Ludovic Giuly 90' Robert Pires 90'
-  Japan - Colombia  0-1   @ Saint-Étienne, France
-     -; Giovanni Hernández 68'
-[Mon Jun 23]
-  Brazil - Turkey  2-2   @ Saint-Étienne, France
-     Adriano 23' Alexsandro de Souza 90';
-     Gökdeniz Karadeniz 53' Okan Yılmaz 81'
-  United States - Cameroon  0-0   @ Lyon, France
-[Thu Jun 26]
-  Cameroon - Colombia  1-0   @ Lyon, France
-     Pius Ndiefi 9'
-  France - Turkey  3-2   @ Saint-Denis, France
-     Thierry Henry 11' Robert Pires 26' Sylvain Wiltord 43';
-     Gökdeniz Karadeniz 42' Tuncay Şanlı 48'
-[Sat Jun 28]
-  Colombia - Turkey  1-2   @ Saint-Étienne, France
-     Giovanni Hernández 63';
-     Tuncay Şanlı 2' Okan Yılmaz 86'
-[Sun Jun 29]
-  France - Cameroon  1-0   @ Saint-Denis, France
-     Thierry Henry 97'
+Wed Jun 18
+  France               v Colombia              1-0   @ Lyon, France
+     (Thierry Henry 39'(p))
+  New Zealand          v Japan                 0-3   @ Saint-Denis, France
+     (Shunsuke Nakamura 12' Hidetoshi Nakata 65' Shunsuke Nakamura 75')
+Thu Jun 19
+  Brazil               v Cameroon              0-1   @ Saint-Denis, France
+     (Samuel Eto'o 83')
+  Turkey               v United States         2-1   @ Saint-Étienne, France
+     (Okan Yılmaz 40'(p) Tuncay Şanlı 71';
+      DaMarcus Beasley 37')
+Fri Jun 20
+  Colombia             v New Zealand           3-1   @ Lyon, France
+     (Jorge López Caballero 58' Mario Yepes 75' Giovanni Hernández 85';
+      Raf de Gregorio 27')
+  France               v Japan                 2-1   @ Saint-Étienne, France
+     (Robert Pires 43'(p) Sidney Govou 65';
+      Shunsuke Nakamura 59')
+Sat Jun 21
+  Brazil               v United States         1-0   @ Lyon, France
+     (Adriano 22')
+  Cameroon             v Turkey                1-0   @ Saint-Denis, France
+     (Geremi 90'(p))
+Sun Jun 22
+  France               v New Zealand           5-0   @ Saint-Denis, France
+     (Olivier Kapo 17' Thierry Henry 20' Djibril Cissé 71' Ludovic Giuly 90' Robert Pires 90')
+  Japan                v Colombia              0-1   @ Saint-Étienne, France
+     (Giovanni Hernández 68')
+Mon Jun 23
+  Brazil               v Turkey                2-2   @ Saint-Étienne, France
+     (Adriano 23' Alexsandro de Souza 90';
+      Gökdeniz Karadeniz 53' Okan Yılmaz 81')
+  United States        v Cameroon              0-0   @ Lyon, France
+Thu Jun 26
+  Cameroon             v Colombia              1-0   @ Lyon, France
+     (Pius Ndiefi 9')
+  France               v Turkey                3-2   @ Saint-Denis, France
+     (Thierry Henry 11' Robert Pires 26' Sylvain Wiltord 43';
+      Gökdeniz Karadeniz 42' Tuncay Şanlı 48')
+Sat Jun 28
+  Colombia             v Turkey                1-2   @ Saint-Étienne, France
+     (Giovanni Hernández 63';
+      Tuncay Şanlı 2' Okan Yılmaz 86')
+Sun Jun 29
+  France               v Cameroon              1-0   @ Saint-Denis, France
+     (Thierry Henry 97')
 

@@ -1,18 +1,18 @@
 = Nordic Championship 1962
 
-# Date       Mon Jun/11 - Sun Oct/28 1962 (139d)
+# Date       Mon Jun 11 - Sun Oct 28 1962 (139d)
 # Teams      4
 # Matches    6
 
-[Mon Jun 11]
-  Denmark - Norway  6-1   @ Copenhagen, Denmark
-[Tue Jun 19]
-  Finland - Sweden  0-3   @ Helsinki, Finland
-[Sun Aug 26]
-  Norway - Finland  2-1   @ Bergen, Norway
-[Sun Sep 16]
-  Finland - Denmark  1-6   @ Helsinki, Finland
-  Norway - Sweden  2-1   @ Oslo, Norway
-[Sun Oct 28]
-  Sweden - Denmark  4-2   @ Solna, Sweden
+Mon Jun 11
+  Denmark              v Norway                6-1   @ Copenhagen, Denmark
+Tue Jun 19
+  Finland              v Sweden                0-3   @ Helsinki, Finland
+Sun Aug 26
+  Norway               v Finland               2-1   @ Bergen, Norway
+Sun Sep 16
+  Finland              v Denmark               1-6   @ Helsinki, Finland
+  Norway               v Sweden                2-1   @ Oslo, Norway
+Sun Oct 28
+  Sweden               v Denmark               4-2   @ Solna, Sweden
 

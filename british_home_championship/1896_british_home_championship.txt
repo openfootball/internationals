@@ -1,19 +1,19 @@
 = British Home Championship 1896
 
-# Date       Sat Feb/29 - Sat Apr/4 1896 (35d)
+# Date       Sat Feb 29 - Sat Apr 4 1896 (35d)
 # Teams      4
 # Matches    6
 
-[Sat Feb 29]
-  Wales - Northern Ireland  6-1   @ Wrexham, Wales
-[Sat Mar 7]
-  Northern Ireland - England  0-2   @ Belfast, Ireland
-[Mon Mar 16]
-  Wales - England  1-9   @ Cardiff, Wales
-[Sat Mar 21]
-  Scotland - Wales  4-0   @ Dundee, Scotland
-[Sat Mar 28]
-  Northern Ireland - Scotland  3-3   @ Belfast, Ireland
-[Sat Apr 4]
-  Scotland - England  2-1   @ Glasgow, Scotland
+Sat Feb 29
+  Wales                v Northern Ireland      6-1   @ Wrexham, Wales
+Sat Mar 7
+  Northern Ireland     v England               0-2   @ Belfast, Ireland
+Mon Mar 16
+  Wales                v England               1-9   @ Cardiff, Wales
+Sat Mar 21
+  Scotland             v Wales                 4-0   @ Dundee, Scotland
+Sat Mar 28
+  Northern Ireland     v Scotland              3-3   @ Belfast, Ireland
+Sat Apr 4
+  Scotland             v England               2-1   @ Glasgow, Scotland
 

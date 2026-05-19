@@ -1,13 +1,13 @@
 = Kirin Cup 1992
 
-# Date       Sat May/30 - Sun Jun/7 1992 (8d)
+# Date       Sat May 30 - Sun Jun 7 1992 (8d)
 # Teams      3
 # Matches    3
 
-[Sat May 30]
-  Japan - Argentina  0-1   @ Tokyo, Japan
-[Wed Jun 3]
-  Argentina - Wales  1-0   @ Gifu, Japan
-[Sun Jun 7]
-  Japan - Wales  0-1   @ Matsuyama, Japan
+Sat May 30
+  Japan                v Argentina             0-1   @ Tokyo, Japan
+Wed Jun 3
+  Argentina            v Wales                 1-0   @ Gifu, Japan
+Sun Jun 7
+  Japan                v Wales                 0-1   @ Matsuyama, Japan
 

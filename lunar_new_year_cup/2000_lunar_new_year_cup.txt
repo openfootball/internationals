@@ -1,11 +1,11 @@
 = Lunar New Year Cup 2000
 
-# Date       Sat Feb/5 - Tue Feb/8 2000 (3d)
+# Date       Sat Feb 5 - Tue Feb 8 2000 (3d)
 # Teams      3
 # Matches    2
 
-[Sat Feb 5]
-  Japan - Mexico  0-1   @ So Kon Po, Hong Kong
-[Tue Feb 8]
-  Mexico - Czech Republic  1-2   @ So Kon Po, Hong Kong
+Sat Feb 5
+  Japan                v Mexico                0-1   @ So Kon Po, Hong Kong
+Tue Feb 8
+  Mexico               v Czech Republic        1-2   @ So Kon Po, Hong Kong
 

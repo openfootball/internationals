@@ -1,18 +1,18 @@
 = British Home Championship 1976
 
-# Date       Thu May/6 - Sat May/15 1976 (9d)
+# Date       Thu May 6 - Sat May 15 1976 (9d)
 # Teams      4
 # Matches    6
 
-[Thu May 6]
-  Scotland - Wales  3-1   @ Glasgow, Scotland
-[Sat May 8]
-  Scotland - Northern Ireland  3-0   @ Glasgow, Scotland
-  Wales - England  0-1   @ Cardiff, Wales
-[Tue May 11]
-  England - Northern Ireland  4-0   @ London, England
-[Fri May 14]
-  Wales - Northern Ireland  1-0   @ Swansea, Wales
-[Sat May 15]
-  Scotland - England  2-1   @ Glasgow, Scotland
+Thu May 6
+  Scotland             v Wales                 3-1   @ Glasgow, Scotland
+Sat May 8
+  Scotland             v Northern Ireland      3-0   @ Glasgow, Scotland
+  Wales                v England               0-1   @ Cardiff, Wales
+Tue May 11
+  England              v Northern Ireland      4-0   @ London, England
+Fri May 14
+  Wales                v Northern Ireland      1-0   @ Swansea, Wales
+Sat May 15
+  Scotland             v England               2-1   @ Glasgow, Scotland
 

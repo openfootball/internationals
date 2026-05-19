@@ -1,13 +1,13 @@
 = Far Eastern Championship Games 1917
 
-# Date       Wed May/9 - Fri May/11 1917 (2d)
+# Date       Wed May 9 - Fri May 11 1917 (2d)
 # Teams      3
 # Matches    3
 
-[Wed May 9]
-  Japan - China PR  0-5   @ Tokyo, Japan
-[Thu May 10]
-  Japan - Philippines  2-15   @ Tokyo, Japan
-[Fri May 11]
-  China PR - Philippines  3-0   @ Tokyo, Japan
+Wed May 9
+  Japan                v China PR              0-5   @ Tokyo, Japan
+Thu May 10
+  Japan                v Philippines           2-15   @ Tokyo, Japan
+Fri May 11
+  China PR             v Philippines           3-0   @ Tokyo, Japan
 

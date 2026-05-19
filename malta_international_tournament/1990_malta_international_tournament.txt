@@ -1,13 +1,13 @@
 = Malta International Tournament 1990
 
-# Date       Sun Feb/4 - Sat Feb/10 1990 (6d)
+# Date       Sun Feb 4 - Sat Feb 10 1990 (6d)
 # Teams      3
 # Matches    3
 
-[Sun Feb 4]
-  South Korea - Norway  2-3   @ Attard, Malta
-[Wed Feb 7]
-  Malta - Norway  1-1   @ Attard, Malta
-[Sat Feb 10]
-  Malta - South Korea  1-2   @ Attard, Malta
+Sun Feb 4
+  South Korea          v Norway                2-3   @ Attard, Malta
+Wed Feb 7
+  Malta                v Norway                1-1   @ Attard, Malta
+Sat Feb 10
+  Malta                v South Korea           1-2   @ Attard, Malta
 

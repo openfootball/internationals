@@ -1,17 +1,17 @@
 = Nordic Championship 1957
 
-# Date       Sun Jun/30 - Sun Oct/13 1957 (105d)
+# Date       Sun Jun 30 - Sun Oct 13 1957 (105d)
 # Teams      4
 # Matches    6
 
-[Sun Jun 30]
-  Denmark - Sweden  1-2   @ Copenhagen, Denmark
-[Sun Sep 1]
-  Finland - Norway  0-4   @ Helsinki, Finland
-[Sun Sep 22]
-  Norway - Denmark  2-2   @ Oslo, Norway
-  Sweden - Finland  5-1   @ Solna, Sweden
-[Sun Oct 13]
-  Denmark - Finland  3-0   @ Copenhagen, Denmark
-  Sweden - Norway  5-2   @ Solna, Sweden
+Sun Jun 30
+  Denmark              v Sweden                1-2   @ Copenhagen, Denmark
+Sun Sep 1
+  Finland              v Norway                0-4   @ Helsinki, Finland
+Sun Sep 22
+  Norway               v Denmark               2-2   @ Oslo, Norway
+  Sweden               v Finland               5-1   @ Solna, Sweden
+Sun Oct 13
+  Denmark              v Finland               3-0   @ Copenhagen, Denmark
+  Sweden               v Norway                5-2   @ Solna, Sweden
 
