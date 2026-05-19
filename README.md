@@ -2,13 +2,11 @@
 
 A mirror of the [40000+ International (men's) football match results from 1872 to 2026](https://github.com/martj42/international_results)
 dataset by Mart Jürisoo
-using the Football.TXT format and split by tournament and year e.g.
+using the Football.TXT format and split by tournament (major "top-level"/more)
+and year e.g.
 
 
 ```
-├───abcs_tournament
-│       2010_abcs_tournament.txt
-...
 ├───afc_asian_cup
 │       1956_afc_asian_cup.txt
 │       1960_afc_asian_cup.txt
@@ -29,54 +27,29 @@ using the Football.TXT format and split by tournament and year e.g.
 │       2019_afc_asian_cup.txt
 │       2024_afc_asian_cup.txt
 ...
-├───uefa_nations_league
-│       2018_uefa_nations_league.txt
-│       2019_uefa_nations_league.txt
-│       2020_uefa_nations_league.txt
-│       2021_uefa_nations_league.txt
-│       2022_uefa_nations_league.txt
-│       2023_uefa_nations_league.txt
-│       2024_uefa_nations_league.txt
-│       2025_uefa_nations_league.txt
-...
-└───zambian_independence_tournament
-        1964_zambian_independence_tournament.txt
+└───uefa_nations_league
+        2018_uefa_nations_league.txt
+        2019_uefa_nations_league.txt
+        2020_uefa_nations_league.txt
+        2021_uefa_nations_league.txt
+        2022_uefa_nations_league.txt
+        2023_uefa_nations_league.txt
+        2024_uefa_nations_league.txt
+        2025_uefa_nations_league.txt
 ```
 
-see [TREE.md »](TREE.md)
+Note - the [/more](more) directory incl. 180+ more tournaments, only the "major"
+tournaments (& qualifications) are listed on top-level.
 
+
+See [TREE.md »](TREE.md)
 
 
 
 ## Football.TXT Examples
 
-[fifi_wild_cup/2006_fifi_wild_cup.txt](fifi_wild_cup/2006_fifi_wild_cup.txt)
 
-```
-= FIFI Wild Cup 2006
-
-# Date       Mon May 29 - Sat Jun 3 2006 (5d)
-# Teams      6
-# Matches    10
-
-Mon May 29
-  Northern Cyprus       v Greenland           1-0   @ Hamburg, Germany
-  Republic of St. Pauli v Gibraltar           1-1   @ Hamburg, Germany
-Tue May 30
-  Zanzibar              v Northern Cyprus     1-3   @ Hamburg, Germany
-  Republic of St. Pauli v Tibet               7-0   @ Hamburg, Germany
-Wed May 31
-  Gibraltar             v Tibet               5-0   @ Hamburg, Germany
-  Greenland             v Zanzibar            2-4   @ Hamburg, Germany
-Thu Jun 1
-  Northern Cyprus       v Gibraltar           2-0   @ Hamburg, Germany
-  Republic of St. Pauli v Zanzibar            1-2   @ Hamburg, Germany
-Sat Jun 3
-  Republic of St. Pauli v Gibraltar           1-2   @ Hamburg, Germany
-  Northern Cyprus       v Zanzibar            0-0   @ Hamburg, Germany   [Northern Cyprus wins on penalties]
-```
-
-or [gold_cup/2025_gold_cup.txt](gold_cup/2025_gold_cup.txt)
+[gold_cup/2025_gold_cup.txt](gold_cup/2025_gold_cup.txt)
 
 ```
 = Gold Cup 2025
@@ -109,6 +82,33 @@ Sun Jul 6
   United States      v Mexico               1-2   @ Houston, United States
      (Chris Richards 4'; Raúl Jiménez 27' Edson Álvarez 77')
 ```
+
+or [fifi_wild_cup/2006_fifi_wild_cup.txt](more/fifi_wild_cup/2006_fifi_wild_cup.txt)
+
+```
+= FIFI Wild Cup 2006
+
+# Date       Mon May 29 - Sat Jun 3 2006 (5d)
+# Teams      6
+# Matches    10
+
+Mon May 29
+  Northern Cyprus       v Greenland           1-0   @ Hamburg, Germany
+  Republic of St. Pauli v Gibraltar           1-1   @ Hamburg, Germany
+Tue May 30
+  Zanzibar              v Northern Cyprus     1-3   @ Hamburg, Germany
+  Republic of St. Pauli v Tibet               7-0   @ Hamburg, Germany
+Wed May 31
+  Gibraltar             v Tibet               5-0   @ Hamburg, Germany
+  Greenland             v Zanzibar            2-4   @ Hamburg, Germany
+Thu Jun 1
+  Northern Cyprus       v Gibraltar           2-0   @ Hamburg, Germany
+  Republic of St. Pauli v Zanzibar            1-2   @ Hamburg, Germany
+Sat Jun 3
+  Republic of St. Pauli v Gibraltar           1-2   @ Hamburg, Germany
+  Northern Cyprus       v Zanzibar            0-0   @ Hamburg, Germany   [Northern Cyprus wins on penalties]
+```
+
 
 
 
