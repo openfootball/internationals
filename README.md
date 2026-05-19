@@ -42,14 +42,14 @@ Note - the [/more](more) directory incl. 180+ more tournaments, only the "major"
 tournaments (& qualifications) are listed on top-level.
 
 
-See [TREE.md »](TREE.md)
+See (DIRECTORY/FILE) [TREE.md »](TREE.md)
 
 
 
 ## Football.TXT Examples
 
 
-[gold_cup/2025_gold_cup.txt](gold_cup/2025_gold_cup.txt)
+[`gold_cup/2025_gold_cup.txt`](gold_cup/2025_gold_cup.txt)
 
 ```
 = Gold Cup 2025
@@ -83,7 +83,7 @@ Sun Jul 6
      (Chris Richards 4'; Raúl Jiménez 27' Edson Álvarez 77')
 ```
 
-or [fifi_wild_cup/2006_fifi_wild_cup.txt](more/fifi_wild_cup/2006_fifi_wild_cup.txt)
+or [`fifi_wild_cup/2006_fifi_wild_cup.txt`](more/fifi_wild_cup/2006_fifi_wild_cup.txt)
 
 ```
 = FIFI Wild Cup 2006
@@ -140,7 +140,7 @@ Sat Jun 3
 Tip - You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON.
 
 Let's try to convert the FIFI Wild Cup 2006
-in the Football.TXT format (see [`fifi_wild_cup/2006_fifi_wild_cup.txt`](https://github.com/openfootball/internationals/blob/master/fifi_wild_cup/2006_fifi_wild_cup.txt)) to JSON:
+in the Football.TXT format (see [`fifi_wild_cup/2006_fifi_wild_cup.txt`](more/fifi_wild_cup/2006_fifi_wild_cup.txt) to JSON:
 
 ```
 $ fbtxt2json fifi_wild_cup/2006_fifi-wild_cup.txt -o wild_cup.json
