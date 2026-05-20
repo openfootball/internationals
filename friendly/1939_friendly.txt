@@ -23,7 +23,7 @@ Thu Mar 16
 Sun Mar 19
   Belgium              v Netherlands           5-4   @ Antwerp, Belgium
   Haiti                v Panama                1-1   @ Port-au-Prince, Haiti
-  Republic of Ireland  v Hungary               2-2   @ Cork, Éire
+  Éire                 v Hungary               2-2   @ Cork, Éire
 Fri Mar 24
   Haiti                v Panama                3-0   @ Port-au-Prince, Haiti
 Sun Mar 26
@@ -43,13 +43,13 @@ Sun May 14
   Belgium              v Switzerland           1-2   @ Liège, Belgium
 Thu May 18
   Belgium              v France                1-3   @ Brussels, Belgium
-  Hungary              v Republic of Ireland   2-2   @ Budapest, Hungary
+  Hungary              v Éire                  2-2   @ Budapest, Hungary
   Romania              v Latvia                4-0   @ Bucharest, Romania
   Yugoslavia           v England               2-1   @ Belgrade, Yugoslavia
 Sat May 20
   France               v Wales                 2-1   @ Colombes, France
 Tue May 23
-  Germany              v Republic of Ireland   1-1   @ Bremen, Germany
+  Germany              v Éire                  1-1   @ Bremen, Germany
 Wed May 24
   Bulgaria             v Latvia                3-0   @ Sofia, Bulgaria
   Romania              v England               0-2   @ Bucharest, Romania
@@ -86,7 +86,7 @@ Fri Aug 4
 Sun Aug 6
   Panama               v Cuba                  0-4   @ Panama City, Panama
 Sun Aug 27
-  Czechoslovakia       v Yugoslavia            7-3   @ Prague, Bohemia and Moravia
+  Bohemia and Moravia  v Yugoslavia            7-3   @ Prague, Bohemia and Moravia
   Estonia              v Lithuania             0-1   @ Tallinn, Estonia
   Poland               v Hungary               4-2   @ Warsaw, Poland
   Slovakia             v Germany               2-0   @ Bratislava, Slovakia
@@ -102,8 +102,8 @@ Sun Oct 15
 Sun Oct 22
   Bulgaria             v Germany               1-2   @ Sofia, Bulgaria
 Sun Nov 12
-  Czechoslovakia       v Austria               4-4   @ Prague, Bohemia and Moravia
-  Germany              v Czechoslovakia        4-4   @ Breslau, Germany
+  Bohemia and Moravia  v Austria               4-4   @ Prague, Bohemia and Moravia
+  Germany              v Bohemia and Moravia   4-4   @ Breslau, Germany
   Switzerland          v Italy                 3-1   @ Zürich, Switzerland
   Yugoslavia           v Hungary               0-2   @ Belgrade, Yugoslavia
 Sun Nov 26

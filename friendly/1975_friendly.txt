@@ -1,14 +1,14 @@
 = Friendly 1975
 
 # Date       Wed Jan 1 - Tue Dec 30 1975 (363d)
-# Teams      92
+# Teams      93
 # Matches    136
 
 Wed Jan 1
   Cameroon             v Guinea                1-0   @ Yaoundé, Cameroon
   Iraq                 v Tunisia               0-0   @ Baghdad, Iraq
 Fri Jan 3
-  Bermuda              v Suriname              2-5   @ Hamilton, Bermuda
+  Bermuda              v Dutch Guyana          2-5   @ Hamilton, Bermuda
 Sun Jan 5
   Cuba                 v Canada                4-0   @ Havana, Cuba
 Thu Jan 9
@@ -44,7 +44,7 @@ Sat Feb 22
   Haiti                v Jamaica               0-1   @ Port-au-Prince, Haiti
   Nigeria              v Senegal               1-1   @ Lagos, Nigeria
 Sun Feb 23
-  Burkina Faso         v Niger                 4-1   @ Ouagadougou, Upper Volta
+  Upper Volta          v Niger                 4-1   @ Ouagadougou, Upper Volta
   Tanzania             v Malawi                3-1   @ Dar es Salaam, Tanzania
 Tue Feb 25
   Haiti                v Jamaica               3-2   @ Port-au-Prince, Haiti
@@ -62,15 +62,15 @@ Thu Mar 13
 Wed Mar 19
   Turkey               v Romania               1-1   @ Istanbul, Turkey
 Sun Mar 23
-  Ghana                v Burkina Faso          3-1   @ Accra, Ghana
+  Ghana                v Upper Volta           3-1   @ Accra, Ghana
 Wed Mar 26
   France               v Hungary               2-0   @ Paris, France
   German DR            v Bulgaria              0-0   @ Berlin, German DR
   Poland               v United States         7-0   @ Poznań, Poland
 Sun Mar 30
-  Guadeloupe           v Suriname              4-2   @ Basse-Terre, Guadeloupe
+  Guadeloupe           v Dutch Guyana          4-2   @ Basse-Terre, Guadeloupe
 Mon Mar 31
-  Barbados             v Suriname              1-0   @ Bridgetown, Barbados
+  Barbados             v Dutch Guyana          1-0   @ Bridgetown, Barbados
   Czechoslovakia       v Romania               1-1   @ Prague, Czechoslovakia
 Tue Apr 1
   Cyprus               v Greece                1-2   @ Nicosia, Cyprus
@@ -107,7 +107,7 @@ Sat Jun 7
   Austria              v Czechoslovakia        0-0   @ Vienna, Austria
 Sun Jun 8
   Guinea-Bissau        v Gambia                1-0   @ Bissau, Guinea-Bissau
-  Russia               v Italy                 1-0   @ Moscow, Soviet Union
+  Soviet Union         v Italy                 1-0   @ Moscow, Soviet Union
 Wed Jun 11
   Kenya                v Congo                 2-1   @ Nairobi, Kenya
 Fri Jun 13
@@ -146,7 +146,7 @@ Thu Jul 10
   Malawi               v Kenya                 3-1   @ Lilongwe, Malawi
   Peru                 v Paraguay              2-0   @ Lima, Peru
 Sat Jul 12
-  Egypt                v DR Congo              3-2   @ Tehran, Iran
+  Egypt                v Zaïre                 3-2   @ Tehran, Iran
 Sun Jul 20
   New Zealand          v China PR              2-1   @ Auckland, New Zealand
 Wed Jul 23
@@ -210,7 +210,7 @@ Sun Oct 5
 Wed Oct 8
   Poland               v Hungary               4-2   @ Łódź, Poland
 Thu Oct 9
-  Uganda               v DR Congo              1-2   @ Kampala, Uganda
+  Uganda               v Zaïre                 1-2   @ Kampala, Uganda
 Sun Oct 12
   Romania              v Turkey                2-2   @ Bucharest, Romania
 Wed Oct 15
@@ -229,16 +229,16 @@ Wed Nov 5
 Sun Nov 9
   Singapore            v New Zealand           2-2   @ Kallang, Singapore
 Wed Nov 19
-  Cameroon             v DR Congo              2-1   @ Yaoundé, Cameroon
+  Cameroon             v Zaïre                 2-1   @ Yaoundé, Cameroon
 Sat Nov 22
-  Cameroon             v DR Congo              2-2   @ Yaoundé, Cameroon
+  Cameroon             v Zaïre                 2-2   @ Yaoundé, Cameroon
 Sat Nov 29
-  Romania              v Russia                2-2   @ Bucharest, Romania
+  Romania              v Soviet Union          2-2   @ Bucharest, Romania
 Sat Dec 20
-  Malawi               v Eswatini              2-0   @ Blantyre, Malawi
+  Malawi               v Swaziland             2-0   @ Blantyre, Malawi
   Turkey               v Germany               0-5   @ Istanbul, Turkey
 Mon Dec 22
-  Malawi               v Eswatini              0-0   @ Blantyre, Malawi
+  Malawi               v Swaziland             0-0   @ Blantyre, Malawi
 Fri Dec 26
   Bermuda              v Suriname              1-5   @ Hamilton, Bermuda
 Tue Dec 30

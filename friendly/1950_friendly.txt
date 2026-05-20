@@ -5,7 +5,7 @@
 # Matches    89
 
 Tue Jan 24
-  Zambia               v DR Congo              1-0   @ Kitwe, Northern Rhodesia
+  Northern Rhodesia    v Belgian Congo         1-0   @ Kitwe, Northern Rhodesia
 Fri Feb 17
   Egypt                v Greece                2-0   @ Cairo, Egypt
 Sun Feb 26
@@ -16,13 +16,13 @@ Sun Mar 5
 Sun Mar 12
   Chile                v Bolivia               5-0   @ Santiago, Chile
 Wed Mar 22
-  Guyana               v Trinidad and Tobago   0-1   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   0-1   @ Georgetown, British Guiana
 Fri Mar 24
-  Guyana               v Trinidad and Tobago   1-4   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-4   @ Georgetown, British Guiana
 Mon Mar 27
-  Guyana               v Trinidad and Tobago   1-0   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-0   @ Georgetown, British Guiana
 Wed Mar 29
-  Guyana               v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
 Fri Apr 7
   Chile                v Uruguay               1-5   @ Santiago, Chile
 Sun Apr 9
@@ -40,7 +40,7 @@ Sun Apr 30
 Mon May 1
   Albania              v Poland                0-0   @ Tirana, Albania
 Wed May 10
-  Belgium              v Republic of Ireland   5-1   @ Brussels, Belgium
+  Belgium              v Éire                  5-1   @ Brussels, Belgium
 Sun May 14
   Austria              v Hungary               5-3   @ Vienna, Austria
   Poland               v Romania               3-3   @ Wrocław, Poland
@@ -53,7 +53,7 @@ Sun May 21
 Sat May 27
   France               v Scotland              0-1   @ Colombes, France
 Sun May 28
-  Ghana                v Nigeria               1-0   @ Accra, Gold Coast
+  Gold Coast           v Nigeria               1-0   @ Accra, Gold Coast
   Turkey               v Iran                  6-1   @ Istanbul, Turkey
   Yugoslavia           v Denmark               5-1   @ Belgrade, Yugoslavia
 Sun Jun 4
@@ -66,9 +66,9 @@ Sun Jun 11
   Finland              v Netherlands           4-1   @ Helsinki, Finland
   Switzerland          v Yugoslavia            0-4   @ Bern, Switzerland
 Wed Jun 14
-  Zimbabwe             v Australia             0-5   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Australia             0-5   @ Salisbury, Southern Rhodesia
 Sat Jun 17
-  Zimbabwe             v Australia             1-4   @ Bulawayo, Southern Rhodesia
+  Southern Rhodesia    v Australia             1-4   @ Bulawayo, Southern Rhodesia
 Sat Jun 24
   South Africa         v Australia             3-2   @ Durban, South Africa
 Sun Jun 25
@@ -81,20 +81,20 @@ Tue Jul 11
   Madagascar           v Réunion               2-3   @ Antananarivo, Madagascar
   Madagascar           v Mauritius             1-5   @ Antananarivo, Madagascar
 Sun Jul 16
-  Zambia               v Zimbabwe              3-2   @ Kitwe, Northern Rhodesia
+  Northern Rhodesia    v Southern Rhodesia     3-2   @ Kitwe, Northern Rhodesia
 Sun Jul 23
   South Africa         v Australia             0-2   @ Cape Town, South Africa
 Tue Aug 15
   Norway               v Luxembourg            2-2   @ Bergen, Norway
 Sun Aug 27
   Bulgaria             v Czechoslovakia        1-2   @ Sofia, Bulgaria
-  Suriname             v Guyana                0-1   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v British Guiana        0-1   @ Paramaribo, Dutch Guyana
 Thu Aug 31
-  Suriname             v Guyana                3-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v British Guiana        3-0   @ Paramaribo, Dutch Guyana
 Sat Sep 2
   El Salvador          v Guatemala             2-1   @ Willemstad, Curaçao
 Sun Sep 3
-  Suriname             v Guyana                4-1   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v British Guiana        4-1   @ Paramaribo, Dutch Guyana
   Sweden               v Yugoslavia            1-2   @ Solna, Sweden
 Wed Sep 6
   El Salvador          v Guatemala             2-0   @ Willemstad, Curaçao
@@ -108,16 +108,16 @@ Sun Oct 8
   Austria              v Yugoslavia            7-2   @ Vienna, Austria
   Romania              v Albania               6-0   @ Bucharest, Romania
 Tue Oct 10
-  Tanzania             v Zanzibar              4-0   @ Nairobi, Kenya
+  Tanganyika           v Zanzibar              4-0   @ Nairobi, Kenya
 Wed Oct 11
   Kenya                v Uganda                3-1   @ Nairobi, Kenya
 Sat Oct 14
   Jamaica              v Haiti                 2-1   @ Kingston, Jamaica
-  Kenya                v Tanzania              1-1   @ Nairobi, Kenya
+  Kenya                v Tanganyika            1-1   @ Nairobi, Kenya
 Sun Oct 15
   Switzerland          v Netherlands           7-5   @ Basel, Switzerland
 Mon Oct 16
-  Kenya                v Tanzania              1-2   @ Nairobi, Kenya
+  Kenya                v Tanganyika            1-2   @ Nairobi, Kenya
 Sun Oct 22
   Poland               v Czechoslovakia        1-4   @ Warsaw, Poland
 Thu Oct 26
@@ -138,19 +138,19 @@ Sun Nov 12
   Bulgaria             v Hungary               1-1   @ Sofia, Bulgaria
   Switzerland          v Sweden                4-2   @ Geneva, Switzerland
 Sat Nov 18
-  Curaçao              v Suriname              2-3   @ Port of Spain, Trinidad and Tobago
+  Curaçao              v Dutch Guyana          2-3   @ Port of Spain, Trinidad and Tobago
 Wed Nov 22
   England              v Yugoslavia            2-2   @ London, England
   Germany              v Switzerland           1-0   @ Stuttgart, Germany
   Trinidad and Tobago  v Curaçao               3-2   @ Port of Spain, Trinidad and Tobago
 Sat Nov 25
-  Trinidad and Tobago  v Suriname              5-0   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          5-0   @ Port of Spain, Trinidad and Tobago
 Sun Nov 26
-  Republic of Ireland  v Norway                2-2   @ Dublin, Éire
+  Éire                 v Norway                2-2   @ Dublin, Éire
 Tue Nov 28
-  Curaçao              v Suriname              3-0   @ Port of Spain, Trinidad and Tobago
+  Curaçao              v Dutch Guyana          3-0   @ Port of Spain, Trinidad and Tobago
 Thu Nov 30
-  Trinidad and Tobago  v Suriname              1-1   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-1   @ Port of Spain, Trinidad and Tobago
 Sat Dec 2
   Trinidad and Tobago  v Curaçao               5-1   @ Port of Spain, Trinidad and Tobago
 Sun Dec 3

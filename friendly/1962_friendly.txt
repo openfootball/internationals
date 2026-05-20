@@ -5,7 +5,7 @@
 # Matches    134
 
 Fri Jan 5
-  Egypt                v Austria               1-0   @ Cairo, Egypt
+  United Arab Republic v Austria               1-0   @ Cairo, Egypt
 Sun Jan 7
   Ethiopia             v Kenya                 6-1   @ Addis Ababa, Ethiopia
 Sun Feb 4
@@ -23,7 +23,7 @@ Tue Mar 13
 Sat Mar 17
   Ghana                v Mali                  0-0   @ Accra, Ghana
 Tue Mar 27
-  Curaçao              v Suriname              1-0   @ Willemstad, Curaçao
+  Netherlands Antilles v Dutch Guyana          1-0   @ Willemstad, Curaçao
 Wed Mar 28
   Argentina            v Mexico                1-0   @ Buenos Aires, Argentina
 Sun Apr 1
@@ -39,12 +39,12 @@ Sun Apr 8
 Wed Apr 11
   France               v Poland                1-3   @ Paris, France
   Germany              v Uruguay               3-0   @ Hamburg, Germany
-  Luxembourg           v Russia                1-3   @ Luxembourg, Luxembourg
+  Luxembourg           v Soviet Union          1-3   @ Luxembourg, Luxembourg
 Sun Apr 15
   Morocco              v Poland                1-3   @ Casablanca, Morocco
 Wed Apr 18
   Hungary              v Uruguay               1-1   @ Budapest, Hungary
-  Sweden               v Russia                0-2   @ Solna, Sweden
+  Sweden               v Soviet Union          0-2   @ Solna, Sweden
 Thu Apr 19
   Guadeloupe           v Martinique            1-0   @ Basse-Terre, Guadeloupe
 Sun Apr 22
@@ -52,13 +52,13 @@ Sun Apr 22
 Wed Apr 25
   Mexico               v Colombia              1-0   @ Mexico City, Mexico
 Fri Apr 27
-  Russia               v Uruguay               5-0   @ Moscow, Soviet Union
+  Soviet Union         v Uruguay               5-0   @ Moscow, Soviet Union
 Sun Apr 29
   Hungary              v Turkey                2-1   @ Budapest, Hungary
 Wed May 2
   Scotland             v Uruguay               2-3   @ Glasgow, Scotland
 Thu May 3
-  Russia               v German DR             2-1   @ Moscow, Soviet Union
+  Soviet Union         v German DR             2-1   @ Moscow, Soviet Union
 Sat May 5
   Italy                v France                2-1   @ Florence, Italy
 Sun May 6
@@ -107,12 +107,12 @@ Tue Jul 3
 Fri Jul 6
   Kenya                v Zanzibar              5-0   @ Mombasa, Kenya
 Sat Jul 7
-  Jamaica              v Curaçao               4-4   @ Kingston, Jamaica
+  Jamaica              v Netherlands Antilles  4-4   @ Kingston, Jamaica
 Mon Jul 9
   Iceland              v Norway                1-3   @ Reykjavík, Iceland
-  Jamaica              v Curaçao               2-1   @ Kingston, Jamaica
+  Jamaica              v Netherlands Antilles  2-1   @ Kingston, Jamaica
 Wed Jul 11
-  Jamaica              v Curaçao               1-2   @ Kingston, Jamaica
+  Jamaica              v Netherlands Antilles  1-2   @ Kingston, Jamaica
 Thu Jul 12
   Singapore            v Indonesia             1-2   @ Kallang, Singapore
 Sat Jul 14
@@ -123,34 +123,34 @@ Wed Jul 25
 Fri Jul 27
   Singapore            v Taiwan                2-2   @ Kallang, Singapore
 Sat Jul 28
-  Kenya                v Tanzania              4-3   @ Nairobi, Kenya
+  Kenya                v Tanganyika            4-3   @ Nairobi, Kenya
 Mon Aug 20
   Gabon                v Cameroon              1-1   @ Libreville, Gabon
 Fri Aug 31
-  Suriname             v Guadeloupe            3-1   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Guadeloupe            3-1   @ Paramaribo, Dutch Guyana
 Sat Sep 1
   Uganda               v Kenya                 3-1   @ Kampala, Uganda
 Sun Sep 2
   Poland               v Hungary               0-2   @ Poznań, Poland
 Wed Sep 5
-  Netherlands          v Curaçao               8-0   @ Amsterdam, Netherlands
+  Netherlands          v Netherlands Antilles  8-0   @ Amsterdam, Netherlands
 Tue Sep 11
-  Denmark              v Curaçao               3-1   @ Odense, Denmark
+  Denmark              v Netherlands Antilles  3-1   @ Odense, Denmark
 Sun Sep 16
   Austria              v Czechoslovakia        0-6   @ Vienna, Austria
   Congo                v Gabon                 3-1   @ Brazzaville, Congo
   German DR            v Yugoslavia            2-2   @ Leipzig, German DR
-  Trinidad and Tobago  v Suriname              1-1   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-1   @ Port of Spain, Trinidad and Tobago
 Tue Sep 18
-  Trinidad and Tobago  v Suriname              1-0   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-0   @ Port of Spain, Trinidad and Tobago
 Wed Sep 19
   Yugoslavia           v Ethiopia              5-2   @ Belgrade, Yugoslavia
 Thu Sep 20
-  Trinidad and Tobago  v Suriname              1-1   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-1   @ Port of Spain, Trinidad and Tobago
 Fri Sep 21
   Singapore            v Japan                 2-1   @ Kallang, Singapore
 Sat Sep 22
-  Trinidad and Tobago  v Suriname              1-1   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-1   @ Port of Spain, Trinidad and Tobago
 Wed Sep 26
   Denmark              v Netherlands           4-1   @ Copenhagen, Denmark
 Sat Sep 29
@@ -168,27 +168,27 @@ Fri Oct 12
   Kenya                v Ghana                 0-4   @ Nairobi, Kenya
   South Korea          v Indonesia             2-0   @ Seoul, South Korea
 Sat Oct 13
-  Suriname             v Guadeloupe            3-3   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Guadeloupe            3-3   @ Paramaribo, Dutch Guyana
 Sun Oct 14
   Belgium              v Netherlands           2-0   @ Antwerp, Belgium
   German DR            v Romania               3-2   @ Dresden, German DR
   Hungary              v Yugoslavia            0-1   @ Budapest, Hungary
   South Korea          v Indonesia             2-0   @ Seoul, South Korea
 Mon Oct 15
-  Malawi               v Ghana                 0-12   @ Blantyre, Nyasaland
-  Suriname             v French Guiana         4-2   @ Paramaribo, Dutch Guyana
+  Nyasaland            v Ghana                 0-12   @ Blantyre, Nyasaland
+  Dutch Guyana         v French Guiana         4-2   @ Paramaribo, Dutch Guyana
 Wed Oct 17
   Israel               v Austria               1-1   @ Ramat Gan, Israel
 Thu Oct 18
   Greece               v Ethiopia              3-2   @ Athens, Greece
-  Tanzania             v Ghana                 2-6   @ Dar es Salaam, Tanganyika
+  Tanganyika           v Ghana                 2-6   @ Dar es Salaam, Tanganyika
 Wed Oct 24
   Germany              v France                2-2   @ Stuttgart, Germany
 Sun Oct 28
   Czechoslovakia       v Poland                2-1   @ Bratislava, Czechoslovakia
   Hungary              v Austria               2-0   @ Budapest, Hungary
 Sun Nov 4
-  Tanzania             v Uganda                3-1   @ Dar es Salaam, Tanganyika
+  Tanganyika           v Uganda                3-1   @ Dar es Salaam, Tanganyika
 Mon Nov 5
   Kenya                v Uganda                4-1   @ Nairobi, Kenya
 Sat Nov 10
@@ -202,7 +202,7 @@ Fri Nov 16
 Tue Nov 20
   Puerto Rico          v Martinique            1-6   @ San Juan, Puerto Rico
 Thu Nov 22
-  Malaysia             v Sweden                0-1   @ Kuala Lumpur, Malaya
+  Malaya               v Sweden                0-1   @ Kuala Lumpur, Malaya
 Sat Nov 24
   Puerto Rico          v Guadeloupe            0-3   @ San Juan, Puerto Rico
 Sun Nov 25
@@ -216,13 +216,13 @@ Sun Dec 2
   Belgium              v Spain                 1-1   @ Brussels, Belgium
 Sat Dec 8
   Nigeria              v Cameroon              3-1   @ Lagos, Nigeria
-  Tanzania             v Malawi                6-2   @ Dar es Salaam, Tanganyika
+  Tanganyika           v Nyasaland             6-2   @ Dar es Salaam, Tanganyika
 Sun Dec 9
   Mali                 v German DR             1-2   @ Bamako, Mali
 Wed Dec 12
   Turkey               v Denmark               1-1   @ Istanbul, Turkey
 Sat Dec 15
-  Tanzania             v Zanzibar              6-0   @ Dar es Salaam, Tanganyika
+  Tanganyika           v Zanzibar              6-0   @ Dar es Salaam, Tanganyika
 Sun Dec 16
   Ethiopia             v Turkey                0-0   @ Addis Ababa, Ethiopia
   Guinea               v German DR             2-3   @ Conakry, Guinea

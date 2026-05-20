@@ -68,7 +68,7 @@ Wed Mar 5
   Kazakhstan           v Lithuania             1-1   @ Antalya, Turkey
   Kosovo               v Haiti                 0-0   @ Mitrovica, Kosovo
   Luxembourg           v Cape Verde            0-0   @ Luxembourg, Luxembourg
-  North Macedonia      v Latvia                2-1   @ Skopje, North Macedonia
+  Macedonia            v Latvia                2-1   @ Skopje, North Macedonia
   Malawi               v Zimbabwe              1-4   @ Blantyre, Malawi
   Mali                 v Senegal               1-1   @ Saint-Leu-la-Forêt, France
   Mauritania           v Niger                 1-1   @ Nouakchott, Mauritania
@@ -90,9 +90,9 @@ Wed Mar 5
   Wales                v Iceland               3-1   @ Cardiff, Wales
   Zambia               v Uganda                2-1   @ Ndola, Zambia
 Fri Mar 7
-  Lesotho              v Eswatini              0-1   @ Maseru, Lesotho
+  Lesotho              v Swaziland             0-1   @ Maseru, Lesotho
 Sun Mar 9
-  Lesotho              v Eswatini              0-0   @ Maseru, Lesotho
+  Lesotho              v Swaziland             0-0   @ Maseru, Lesotho
 Wed Mar 19
   Saint Lucia          v Martinique            0-0   @ Gros Islet, Saint Lucia
 Tue Mar 25
@@ -159,7 +159,7 @@ Mon May 26
   Belgium              v Luxembourg            5-1   @ Genk, Belgium
   Estonia              v Gibraltar             1-1   @ Tallinn, Estonia
   Jamaica              v Serbia                1-2   @ Harrison, United States
-  North Macedonia      v Cameroon              0-2   @ Kufstein, Austria
+  Macedonia            v Cameroon              0-2   @ Kufstein, Austria
   Montenegro           v Iran                  0-0   @ Hartberg, Austria
   Russia               v Slovakia              1-0   @ Saint Petersburg, Russia
 Tue May 27
@@ -185,7 +185,7 @@ Fri May 30
   Austria              v Iceland               1-1   @ Innsbruck, Austria
   Bosnia and Herzegovina v Ivory Coast           2-1   @ St. Louis, United States
   England              v Peru                  3-0   @ London, England
-  North Macedonia      v Qatar                 0-0   @ Rieti, Italy
+  Macedonia            v Qatar                 0-0   @ Rieti, Italy
   New Zealand          v South Africa          0-0   @ Auckland, New Zealand
   Spain                v Bolivia               2-0   @ Seville, Spain
   Switzerland          v Jamaica               1-0   @ Lucerne, Switzerland
@@ -256,11 +256,11 @@ Mon Jun 9
 Tue Jun 10
   Republic of Ireland  v Portugal              1-5   @ East Rutherford, United States
 Wed Jun 18
-  China PR             v North Macedonia       2-0   @ Shenyang, China PR
+  China PR             v Macedonia             2-0   @ Shenyang, China PR
 Sat Jun 21
   Indonesia            v Pakistan              4-0   @ Surabaya, Indonesia
 Sun Jun 22
-  China PR             v North Macedonia       0-0   @ Jinan, China PR
+  China PR             v Macedonia             0-0   @ Jinan, China PR
 Wed Jun 25
   Indonesia            v Nepal                 2-0   @ Malang, Indonesia
 Sun Jun 29
@@ -421,7 +421,7 @@ Tue Oct 14
   United States        v Honduras              1-1   @ Boca Raton, United States
   Peru                 v Guatemala             1-0   @ Lima, Peru
 Wed Oct 15
-  Eswatini             v Zimbabwe              0-2   @ Lobamba, Swaziland
+  Swaziland            v Zimbabwe              0-2   @ Lobamba, Swaziland
 Fri Oct 24
   Bangladesh           v Sri Lanka             1-1   @ Jessore, Bangladesh
 Sat Oct 25
@@ -470,7 +470,7 @@ Sat Nov 15
   Indonesia            v Syria                 0-2   @ Jakarta, Indonesia
 Sun Nov 16
   Morocco              v Zimbabwe              2-1   @ Agadir, Morocco
-  Eswatini             v Tanzania              1-1   @ Lobamba, Swaziland
+  Swaziland            v Tanzania              1-1   @ Lobamba, Swaziland
   Vietnam              v Malaysia              3-1   @ Hanoi, Vietnam
 Mon Nov 17
   Singapore            v Cambodia              4-2   @ Yishun, Singapore

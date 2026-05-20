@@ -49,7 +49,7 @@ Wed Feb 9
   Latvia               v Bolivia               2-1   @ Antalya, Turkey
   Libya                v Benin                 3-2   @ Tripoli, Libya
   Luxembourg           v Slovakia              2-1   @ Luxembourg, Luxembourg
-  North Macedonia      v Cameroon              0-1   @ Skopje, North Macedonia
+  Macedonia            v Cameroon              0-1   @ Skopje, North Macedonia
   Malaysia             v Hong Kong             2-0   @ Kuala Lumpur, Malaysia
   Malta                v Switzerland           0-0   @ Attard, Malta
   Mexico               v Bosnia and Herzegovina  2-0   @ Atlanta, United States
@@ -63,7 +63,7 @@ Wed Feb 9
   Senegal              v Guinea                3-0   @ Dakar, Senegal
   South Africa         v Kenya                 2-0   @ Rustenburg, South Africa
   Spain                v Colombia              1-0   @ Madrid, Spain
-  Eswatini             v Zambia                0-4   @ Manzini, Swaziland
+  Swaziland            v Zambia                0-4   @ Manzini, Swaziland
   Tanzania             v Palestine             1-0   @ Dar es Salaam, Tanzania
   Turkey               v South Korea           0-0   @ Trabzon, Turkey
   Venezuela            v Costa Rica            2-2   @ Puerto la Cruz, Venezuela
@@ -153,7 +153,7 @@ Sun May 22
   Guyana               v Barbados              3-2   @ Providence, Guyana
 Wed May 25
   Argentina            v Paraguay              4-2   @ Resistencia, Argentina
-  Eswatini             v Botswana              0-0   @ Manzini, Swaziland
+  Swaziland            v Botswana              0-0   @ Manzini, Swaziland
   Estonia              v Basque Country        1-2   @ Tallinn, Estonia
 Thu May 26
   Cuba                 v Nicaragua             1-1   @ Havana, Cuba
@@ -169,7 +169,7 @@ Sun May 29
   Ethiopia             v Sudan                 1-2   @ Addis Ababa, Ethiopia
   Germany              v Uruguay               2-1   @ Sinsheim, Germany
   Panama               v Grenada               2-0   @ Panama City, Panama
-  Eswatini             v Malawi                1-1   @ Mhlume, Swaziland
+  Swaziland            v Malawi                1-1   @ Mhlume, Swaziland
   Tunisia              v Central African Republic  3-0   @ Sousse, Tunisia
 Tue May 31
   Corsica              v Bulgaria              1-0   @ Ajaccio, France
@@ -274,13 +274,13 @@ Wed Jul 27
 Sat Jul 30
   Vanuatu              v Solomon Islands       2-0   @ Port Vila, Vanuatu
 Sun Jul 31
-  Eswatini             v Botswana              0-2   @ Pretoria, South Africa
+  Swaziland            v Botswana              0-2   @ Pretoria, South Africa
 Sun Aug 7
   El Salvador          v Venezuela             2-1   @ Washington, D.C., United States
 Wed Aug 10
   Albania              v Montenegro            3-2   @ Shkodër, Albania
   Austria              v Slovakia              1-2   @ Klagenfurt, Austria
-  Azerbaijan           v North Macedonia       0-1   @ Baku, Azerbaijan
+  Azerbaijan           v Macedonia             0-1   @ Baku, Azerbaijan
   Belarus              v Bulgaria              1-0   @ Minsk, Belarus
   Bolivia              v Panama                1-3   @ Santa Cruz, Bolivia
   Bosnia and Herzegovina v Greece                0-0   @ Sarajevo, Bosnia and Herzegovina
@@ -335,7 +335,7 @@ Fri Aug 19
   Qatar                v Iraq                  0-1   @ Doha, Qatar
 Sat Aug 20
   Dominican Republic   v Curaçao               1-0   @ San Cristóbal, Dominican Republic
-  Lesotho              v Eswatini              0-0   @ Maseru, Lesotho
+  Lesotho              v Swaziland             0-0   @ Maseru, Lesotho
 Sun Aug 21
   Barbados             v Saint Lucia           4-0   @ Bridgetown, Barbados
   Dominican Republic   v Curaçao               1-0   @ San Cristóbal, Dominican Republic
@@ -343,7 +343,7 @@ Sun Aug 21
 Mon Aug 22
   Indonesia            v Palestine             4-1   @ Surakarta, Indonesia
   Jordan               v Tunisia               3-3   @ Amman, Jordan
-  Lesotho              v Eswatini              0-1   @ Maseru, Lesotho
+  Lesotho              v Swaziland             0-1   @ Maseru, Lesotho
   Tuvalu               v Samoa                 3-0   @ Nausori, Fiji
 Wed Aug 24
   Guyana               v India                 2-1   @ Providence, Guyana
@@ -480,7 +480,7 @@ Tue Nov 15
   Guinea               v Burkina Faso          1-1   @ Viry-Châtillon, France
   Italy                v Uruguay               0-1   @ Rome, Italy
   Luxembourg           v Switzerland           0-1   @ Luxembourg, Luxembourg
-  North Macedonia      v Albania               0-0   @ Prilep, North Macedonia
+  Macedonia            v Albania               0-0   @ Prilep, North Macedonia
   Niger                v Botswana              1-1   @ Niamey, Niger
   Nigeria              v Zambia                2-0   @ Kaduna, Nigeria
   Poland               v Hungary               2-1   @ Poznań, Poland

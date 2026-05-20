@@ -7,17 +7,17 @@
 Sun Jan 3
   Uruguay              v German DR             0-2   @ Montevideo, Uruguay
 Sat Jan 9
-  Togo                 v DR Congo              0-3   @ Lomé, Togo
+  Togo                 v Congo-Kinshasa        0-3   @ Lomé, Togo
 Tue Jan 26
   Israel               v Netherlands           0-1   @ Jaffa, Israel
 Mon Feb 1
-  Congo                v DR Congo              0-3   @ Brazzaville, Congo
+  Congo                v Congo-Kinshasa        0-3   @ Brazzaville, Congo
 Mon Feb 22
   Costa Rica           v Trinidad and Tobago   1-0   @ San José, Costa Rica
 Sun Feb 28
   Tunisia              v Morocco               0-0   @ Tunis, Tunisia
 Tue Mar 9
-  Curaçao              v Costa Rica            1-2   @ Willemstad, Curaçao
+  Netherlands Antilles v Costa Rica            1-2   @ Willemstad, Curaçao
 Wed Mar 10
   Guatemala            v Paraguay              1-4   @ Guatemala City, Guatemala
 Thu Mar 11
@@ -40,7 +40,7 @@ Fri Mar 19
 Sat Mar 20
   Cyprus               v Lebanon               2-0   @ Nicosia, Cyprus
 Mon Mar 22
-  Myanmar              v Japan                 1-1   @ Yangon, Burma
+  Burma                v Japan                 1-1   @ Yangon, Burma
 Wed Mar 24
   France               v Austria               1-2   @ Paris, France
   Republic of Ireland  v Belgium               0-2   @ Dublin, Republic of Ireland
@@ -53,9 +53,9 @@ Sat Apr 3
 Wed Apr 7
   Belgium              v Poland                0-0   @ Brussels, Belgium
 Wed Apr 14
-  Ghana                v DR Congo              4-1   @ Accra, Ghana
+  Ghana                v Congo-Kinshasa        4-1   @ Accra, Ghana
 Thu Apr 29
-  Indonesia            v Sri Lanka             5-0   @ Jakarta, Indonesia
+  Indonesia            v Ceylon                5-0   @ Jakarta, Indonesia
 Sat May 1
   Italy                v Wales                 4-1   @ Florence, Italy
 Sun May 2
@@ -73,7 +73,7 @@ Wed May 12
   Germany              v England               0-1   @ Nuremberg, Germany
 Sun May 16
   Poland               v Bulgaria              1-1   @ Kraków, Poland
-  Russia               v Austria               0-0   @ Moscow, Soviet Union
+  Soviet Union         v Austria               0-0   @ Moscow, Soviet Union
   Sweden               v England               1-2   @ Gothenburg, Sweden
 Wed May 19
   Norway               v Thailand              7-0   @ Bergen, Norway
@@ -98,12 +98,12 @@ Thu Jun 17
 Thu Jun 24
   Portugal             v Brazil                0-0   @ Porto, Portugal
 Sun Jun 27
-  Congo                v Benin                 1-6   @ Brazzaville, Congo
+  Congo                v Dahomey               1-6   @ Brazzaville, Congo
   Hungary              v Italy                 2-1   @ Budapest, Hungary
 Wed Jun 30
   Sweden               v Brazil                1-2   @ Solna, Sweden
 Sun Jul 4
-  Russia               v Brazil                0-3   @ Moscow, Soviet Union
+  Soviet Union         v Brazil                0-3   @ Moscow, Soviet Union
 Mon Jul 5
   Iceland              v Denmark               1-3   @ Reykjavík, Iceland
 Sun Jul 11
@@ -114,9 +114,9 @@ Fri Jul 23
   Iran                 v Pakistan              4-1   @ Tehran, Iran
 Sun Jul 25
   Iran                 v Turkey                0-0   @ Tehran, Iran
-  Suriname             v French Guiana         7-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v French Guiana         7-0   @ Paramaribo, Dutch Guyana
 Mon Jul 26
-  Suriname             v French Guiana         5-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v French Guiana         5-0   @ Paramaribo, Dutch Guyana
 Fri Jul 30
   Jordan               v Iraq                  0-0   @ Amman, Jordan
 Mon Aug 2
@@ -152,7 +152,7 @@ Tue Aug 31
   Singapore            v India                 1-2   @ Kallang, Singapore
 Sat Sep 4
   Bulgaria             v German DR             3-2   @ Varna, Bulgaria
-  Russia               v Yugoslavia            0-0   @ Moscow, Soviet Union
+  Soviet Union         v Yugoslavia            0-0   @ Moscow, Soviet Union
 Tue Sep 7
   Brazil               v Uruguay               3-0   @ Belo Horizonte, Brazil
 Sat Sep 11
@@ -198,7 +198,7 @@ Sun Oct 31
 Sun Nov 7
   Ghana                v Nigeria               3-0   @ Accra, Ghana
 Sun Nov 21
-  Brazil               v Russia                2-2   @ Rio de Janeiro, Brazil
+  Brazil               v Soviet Union          2-2   @ Rio de Janeiro, Brazil
   Brazil               v Hungary               5-3   @ São Paulo, Brazil
 Tue Nov 23
   Congo                v Ivory Coast           0-1   @ Brazzaville, Congo
@@ -209,11 +209,11 @@ Fri Nov 26
 Mon Nov 29
   Hong Kong            v Australia             1-0   @ So Kon Po, Hong Kong
 Wed Dec 1
-  Argentina            v Russia                1-1   @ Buenos Aires, Argentina
+  Argentina            v Soviet Union          1-1   @ Buenos Aires, Argentina
 Fri Dec 3
   Australia            v Taiwan                3-1   @ So Kon Po, Hong Kong
 Sat Dec 4
-  Uruguay              v Russia                1-3   @ Montevideo, Uruguay
+  Uruguay              v Soviet Union          1-3   @ Montevideo, Uruguay
 Sun Dec 5
   Hong Kong            v Singapore             0-0   @ So Kon Po, Hong Kong
 Tue Dec 7
@@ -224,7 +224,7 @@ Wed Dec 8
   Spain                v England               0-2   @ Madrid, Spain
 Sat Dec 11
   Kenya                v Ghana                 2-13   @ Nairobi, Kenya
-  Nigeria              v Benin                 0-1   @ Lagos, Nigeria
+  Nigeria              v Dahomey               0-1   @ Lagos, Nigeria
 Mon Dec 13
   Kenya                v Ghana                 3-3   @ Nairobi, Kenya
 Tue Dec 28

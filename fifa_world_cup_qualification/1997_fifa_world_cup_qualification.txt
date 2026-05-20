@@ -1,7 +1,7 @@
 = FIFA World Cup qualification 1997
 
 # Date       Sat Jan 11 - Sat Nov 29 1997 (322d)
-# Teams      124
+# Teams      125
 # Matches    410
 
 Sat Jan 11
@@ -15,9 +15,7 @@ Sun Jan 12
   Burkina Faso         v Guinea                0-2   @ Ouagadougou, Burkina Faso
      (Souleymane Oularé 17' Momo Soumah 44')
   Cameroon             v Angola                0-0   @ Yaoundé, Cameroon
-  DR Congo             v Congo                 1-1   @ Kinshasa, Zaïre
-     (Nzelo Hervé Lembi 13';
-      Christ Bongo 4')
+  Zaïre                v Congo                 1-1   @ Kinshasa, Zaïre
   Ghana                v Morocco               2-2   @ Kumasi, Ghana
      (Samuel Johnson 77' Arthur Moses 89';
       Salaheddine Bassir 30' Mustapha Hadji 70')
@@ -167,14 +165,10 @@ Wed Apr 2
   Croatia              v Slovenia              3-3   @ Split, Croatia
      (Robert Prosinečki 33' Zvonimir Boban 43' Zvonimir Boban 60';
       Primož Gliha 45' Primož Gliha 65' Primož Gliha 66')
-  Czech Republic       v Serbia                1-2   @ Prague, Czech Republic
-     (Radek Bejbl 75';
-      Predrag Mijatović 28' Savo Milošević 90')
+  Czech Republic       v FR Yugoslavia         1-2   @ Prague, Czech Republic
   Lithuania            v Romania               0-1   @ Vilnius, Lithuania
      (Viorel Moldovan 73')
-  North Macedonia      v Republic of Ireland   3-2   @ Skopje, North Macedonia
-     (Mitko Stojkovski 28' Mitko Stojkovski 44'(p) Gjorgji Hristov 59';
-      Alan McLoughlin 8' David Kelly 78')
+  Macedonia            v Republic of Ireland   3-2   @ Skopje, North Macedonia
   Paraguay             v Colombia              2-1   @ Asunción, Paraguay
      (Hugo Galeano 30'(og) Derlis Soto 82';
       Mauricio Serna 80'(p))
@@ -223,9 +217,7 @@ Sun Apr 6
 Tue Apr 8
   Jordan               v United Arab Emirates  0-0   @ Manama, Bahrain
 Wed Apr 9
-  DR Congo             v Zambia                2-2   @ Harare, Zimbabwe
-     (Étienne N'tsunda 29' Epotele Bazamba 51';
-      Kenneth Malitoli 22' Andrew Tembo 81')
+  Zaïre                v Zambia                2-2   @ Harare, Zimbabwe
 Fri Apr 11
   Bahrain              v United Arab Emirates  1-2   @ Manama, Bahrain
      (Hameed Darwish 84';
@@ -273,9 +265,7 @@ Sun Apr 27
   Cameroon             v Togo                  2-0   @ Yaoundé, Cameroon
      (Bernard Tchoutang 87' Patrick M'Boma 90')
   Canada               v Jamaica               0-0   @ Burnaby, Canada
-  DR Congo             v South Africa          1-2   @ Lomé, Togo
-     (Zico Tumba 26';
-      Doctor Khumalo 21' Phil Masinga 66')
+  Zaïre                v South Africa          1-2   @ Lomé, Togo
   Ghana                v Gabon                 3-0   @ Accra, Ghana
      (Felix Aboagye 42' Mohammed Gargo 60' Mohammed Gargo 64'(p))
   Kenya                v Guinea                1-0   @ Nairobi, Kenya
@@ -328,9 +318,7 @@ Wed Apr 30
      (Valery Kechinov 20' Sergey Grishin 55' Igor Simutenkov 58')
   San Marino           v Netherlands           0-6   @ Serravalle, San Marino
      (Dennis Bergkamp 40' Aron Winter 62' Pierre van Hooijdonk 69' Frank de Boer 73' John Bosman 83' Dennis Bergkamp 88')
-  Serbia               v Spain                 1-1   @ Belgrade, FR Yugoslavia
-     (Predrag Mijatović 87'(p);
-      Fernando Hierro 19'(p))
+  FR Yugoslavia        v Spain                 1-1   @ Belgrade, FR Yugoslavia
   Sweden               v Scotland              2-1   @ Gothenburg, Sweden
      (Kennet Andersson 43' Kennet Andersson 63';
       Kevin Gallacher 83')
@@ -443,8 +431,7 @@ Sat Jun 7
      (Chris Jackson 80'(p))
   Georgia              v Moldova               2-0   @ Batumi, Georgia
      (Shota Arveladze 27' Georgi Kinkladze 51')
-  North Macedonia      v Iceland               1-0   @ Skopje, North Macedonia
-     (Gjorgji Hristov 54')
+  Macedonia            v Iceland               1-0   @ Skopje, North Macedonia
   Nigeria              v Kenya                 3-0   @ Lagos, Nigeria
      (Sunday Oliseh 13' Emmanuel Amunike 43' Wilson Oruma 83')
   Portugal             v Albania               2-0   @ Porto, Portugal
@@ -495,8 +482,7 @@ Sun Jun 8
       Eliphas Shivute 35' Gervatius Uri Khob 82')
   Russia               v Israel                2-0   @ Moscow, Russia
      (Vladislav Radimov 8' Alexei Kosolapov 38')
-  Serbia               v Slovakia              2-0   @ Belgrade, FR Yugoslavia
-     (Dejan Savićević 17' Predrag Mijatović 75')
+  FR Yugoslavia        v Slovakia              2-0   @ Belgrade, FR Yugoslavia
   South Africa         v Zambia                3-0   @ Johannesburg, South Africa
      (Helman Mkhalele 8' Phil Masinga 17' Mark Williams 54')
   Spain                v Czech Republic        1-0   @ Valladolid, Spain
@@ -695,9 +681,7 @@ Wed Aug 20
   Portugal             v Armenia               3-1   @ Setúbal, Portugal
      (Domingos Paciência 23' Luís Figo 31' Pedro Barbosa 55';
       Éric Assadourian 46')
-  Romania              v North Macedonia       4-2   @ Bucharest, Romania
-     (Viorel Moldovan 36' Constantin Gâlcă 40' Ilie Dumitrescu 66' Viorel Moldovan 68';
-      Miroslav Gjokić 52' Miroslav Gjokić 90')
+  Romania              v Macedonia             4-2   @ Bucharest, Romania
   Turkey               v Wales                 6-4   @ Istanbul, Turkey
      (Hakan Şükür 5' Saffet Akyüz 8' Hakan Şükür 37' Oğuz Çetin 61' Hakan Şükür 77' Hakan Şükür 82';
       Nathan Blake 18' Robbie Savage 20' Dean Saunders 31' Andy Melville 52')
@@ -739,8 +723,7 @@ Sat Sep 6
   Liechtenstein        v Romania               1-8   @ Eschen, Liechtenstein
      (Mario Frick 62';
       Viorel Moldovan 5' Gheorghe Craioveanu 10' Gheorghe Craioveanu 32' Anton Doboş 35' Dorinel Munteanu 43' Dorinel Munteanu 45' Constantin Barbu 53' Dorinel Munteanu 67')
-  Lithuania            v North Macedonia       2-0   @ Vilnius, Lithuania
-     (Valdas Ivanauskas 27' Aidas Preikšaitis 88')
+  Lithuania            v Macedonia             2-0   @ Vilnius, Lithuania
   Netherlands          v Belgium               3-1   @ Rotterdam, Netherlands
      (Jaap Stam 32' Patrick Kluivert 54' Dennis Bergkamp 84';
       Lorenzo Staelens 67'(p))
@@ -803,9 +786,7 @@ Wed Sep 10
      (Gheorghe Hagi 9' Dan Petrescu 41' Constantin Gâlcă 65' Gheorghe Hagi 82')
   San Marino           v Turkey                0-5   @ Serravalle, San Marino
      (Luca Gobbi 27'(og) Arif Erdem 30' Hakan Şükür 74' Hami Mandıralı 78' Arif Erdem 81')
-  Slovakia             v Serbia                1-1   @ Bratislava, Slovakia
-     (Jozef Majoroš 65';
-      Siniša Mihajlović 80')
+  Slovakia             v FR Yugoslavia         1-1   @ Bratislava, Slovakia
   Sweden               v Latvia                1-0   @ Solna, Sweden
      (Mattias Jonson 88')
 Fri Sep 12
@@ -915,11 +896,8 @@ Sat Oct 11
   Kazakhstan           v South Korea           1-1   @ Almaty, Kazakhstan
      (Pavel Yevteyev 50';
       Choi Yong-soo 5')
-  North Macedonia      v Lithuania             1-2   @ Skopje, North Macedonia
-     (Artim Šakiri 45';
-      Orestas Buitkus 70' Orestas Buitkus 81')
-  Malta                v Serbia                0-5   @ Attard, Malta
-     (Savo Milošević 8' Siniša Mihajlović 24' Dejan Savićević 44' Predrag Mijatović 55' Vladimir Jugović 76')
+  Macedonia            v Lithuania             1-2   @ Skopje, North Macedonia
+  Malta                v FR Yugoslavia         0-5   @ Attard, Malta
   Netherlands          v Turkey                0-0   @ Amsterdam, Netherlands
   Portugal             v Northern Ireland      1-0   @ Lisbon, Portugal
      (Sérgio Conceição 18')
@@ -982,9 +960,7 @@ Sun Oct 26
 Wed Oct 29
   Croatia              v Ukraine               2-0   @ Zagreb, Croatia
      (Slaven Bilić 11' Goran Vlaović 49')
-  Hungary              v Serbia                1-7   @ Budapest, Hungary
-     (Béla Illés 88';
-      Branko Brnovic 2' Miroslav Đukić 6' Dejan Savićević 10' Predrag Mijatović 26' Predrag Mijatović 41' Predrag Mijatović 51' Savo Milošević 63')
+  Hungary              v FR Yugoslavia         1-7   @ Budapest, Hungary
   Republic of Ireland  v Belgium               1-1   @ Dublin, Republic of Ireland
      (Denis Irwin 7';
       Luc Nilis 29')
@@ -1036,8 +1012,7 @@ Sat Nov 15
       Ray Houghton 58')
   Italy                v Russia                1-0   @ Naples, Italy
      (Pierluigi Casiraghi 53')
-  Serbia               v Hungary               5-0   @ Belgrade, FR Yugoslavia
-     (Savo Milošević 18' Predrag Mijatović 44' Predrag Mijatović 45'(p) Predrag Mijatović 71' Predrag Mijatović 88')
+  FR Yugoslavia        v Hungary               5-0   @ Belgrade, FR Yugoslavia
   Ukraine              v Croatia               1-1   @ Kyiv, Ukraine
      (Andriy Shevchenko 5';
       Alen Bokšić 27')

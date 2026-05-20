@@ -9,11 +9,11 @@ Fri Jan 1
 Sun Jan 3
   Tunisia              v Yugoslavia            1-5   @ Tunis, Tunisia
 Fri Jan 8
-  Egypt                v Yugoslavia            0-1   @ Cairo, United Arab Republic
+  United Arab Republic v Yugoslavia            0-1   @ Cairo, United Arab Republic
 Wed Jan 27
-  Guinea-Bissau        v Gambia                3-2   @ Bissau, Portuguese Guinea
+  Portuguese Guinea    v Gambia                3-2   @ Bissau, Portuguese Guinea
 Sun Jan 31
-  Guinea-Bissau        v Sierra Leone          3-4   @ Kumasi, Ghana
+  Portuguese Guinea    v Sierra Leone          3-4   @ Kumasi, Ghana
 Sun Feb 7
   Ghana                v Sierra Leone          6-2   @ Accra, Ghana
 Sat Feb 20
@@ -37,7 +37,7 @@ Wed Apr 6
 Wed Apr 13
   Belgium              v Chile                 1-1   @ Brussels, Belgium
 Wed Apr 20
-  Indonesia            v Malaysia              5-0   @ Surakarta, Indonesia
+  Indonesia            v Malaya                5-0   @ Surakarta, Indonesia
 Sun Apr 24
   Belgium              v Netherlands           2-1   @ Antwerp, Belgium
   Togo                 v Nigeria               1-1   @ Lomé, Togo
@@ -46,18 +46,18 @@ Tue Apr 26
 Wed Apr 27
   Germany              v Portugal              2-1   @ Ludwigshafen, Germany
 Fri Apr 29
-  Egypt                v Brazil                0-5   @ Cairo, United Arab Republic
+  United Arab Republic v Brazil                0-5   @ Cairo, United Arab Republic
 Sun May 1
   Czechoslovakia       v Austria               4-0   @ Prague, Czechoslovakia
-  Egypt                v Brazil                1-3   @ Alexandria, United Arab Republic
+  United Arab Republic v Brazil                1-3   @ Alexandria, United Arab Republic
   Togo                 v Ghana                 2-3   @ Lomé, Togo
 Wed May 4
   Scotland             v Poland                2-3   @ Glasgow, Scotland
 Thu May 5
   Singapore            v India                 3-0   @ Kallang, Singapore
 Fri May 6
-  Egypt                v Brazil                0-3   @ Cairo, United Arab Republic
-  Malaysia             v India                 0-0   @ Kuala Lumpur, Malaya
+  United Arab Republic v Brazil                0-3   @ Cairo, United Arab Republic
+  Malaya               v India                 0-0   @ Kuala Lumpur, Malaya
 Tue May 10
   Denmark              v Brazil                3-4   @ Esbjerg, Denmark
 Wed May 11
@@ -69,7 +69,7 @@ Wed May 18
   Sweden               v Republic of Ireland   4-1   @ Malmö, Sweden
   Switzerland          v Netherlands           3-1   @ Zürich, Switzerland
 Thu May 19
-  Russia               v Poland                7-1   @ Moscow, Soviet Union
+  Soviet Union         v Poland                7-1   @ Moscow, Soviet Union
 Sun May 22
   Bulgaria             v Belgium               4-1   @ Sofia, Bulgaria
   Hungary              v England               2-0   @ Budapest, Hungary
@@ -95,11 +95,11 @@ Sun Jun 26
   Poland               v Bulgaria              4-0   @ Chorzów, Poland
 Wed Jun 29
   Brazil               v Chile                 4-0   @ Rio de Janeiro, Brazil
-  Curaçao              v Netherlands           0-0   @ Willemstad, Curaçao
+  Netherlands Antilles v Netherlands           0-0   @ Willemstad, Curaçao
 Sun Jul 3
   Denmark              v Greece                7-2   @ Copenhagen, Denmark
-  Ghana                v Egypt                 2-2   @ Accra, Ghana
-  Suriname             v Netherlands           3-4   @ Paramaribo, Dutch Guyana
+  Ghana                v United Arab Republic  2-2   @ Accra, Ghana
+  Dutch Guyana         v Netherlands           3-4   @ Paramaribo, Dutch Guyana
 Sun Jul 10
   Bulgaria             v German DR             2-0   @ Sofia, Bulgaria
   Mali                 v Sierra Leone          1-0   @ Bamako, Mali
@@ -115,7 +115,7 @@ Wed Aug 3
 Sat Aug 6
   Yugoslavia           v Tunisia               7-0   @ Belgrade, Yugoslavia
 Wed Aug 17
-  German DR            v Russia                0-1   @ Leipzig, German DR
+  German DR            v Soviet Union          0-1   @ Leipzig, German DR
   Indonesia            v Vietnam Republic      1-1   @ Kallang, Singapore
 Thu Aug 18
   Pakistan             v Vietnam Republic      2-2   @ Kallang, Singapore
@@ -125,7 +125,7 @@ Sun Aug 21
   India                v Tunisia               2-2   @ Rome, Italy
   Indonesia            v Pakistan              5-2   @ Jakarta, Indonesia
 Sun Sep 4
-  Austria              v Russia                3-1   @ Vienna, Austria
+  Austria              v Soviet Union          3-1   @ Vienna, Austria
 Mon Sep 5
   Tahiti               v New Zealand           1-5   @ Pirae, Tahiti
 Mon Sep 12
@@ -144,7 +144,7 @@ Wed Sep 28
 Sun Oct 2
   Belgium              v Netherlands           1-4   @ Antwerp, Belgium
   Ghana                v Mali                  5-1   @ Ibadan, Nigeria
-  Nigeria              v Guinea-Bissau         4-1   @ Lagos, Nigeria
+  Nigeria              v Portuguese Guinea     4-1   @ Lagos, Nigeria
 Mon Oct 3
   North Vietnam        v Mongolia              3-1   @ Hanoi, North Vietnam
 Tue Oct 4
@@ -155,7 +155,7 @@ Fri Oct 7
   China PR             v Mongolia              6-1   @ Hanoi, North Vietnam
 Sat Oct 8
   North Vietnam        v North Korea           1-3   @ Hanoi, North Vietnam
-  Uganda               v Tanzania              1-0   @ Kampala, Uganda
+  Uganda               v Tanganyika            1-0   @ Kampala, Uganda
 Sun Oct 9
   Hungary              v Yugoslavia            1-1   @ Budapest, Hungary
   Nigeria              v Ghana                 0-3   @ Lagos, Nigeria
@@ -166,10 +166,10 @@ Tue Oct 11
   North Vietnam        v China PR              3-4   @ Hanoi, North Vietnam
   Uganda               v Zanzibar              3-0   @ Kampala, Uganda
 Wed Oct 12
-  Kenya                v Tanzania              5-0   @ Kampala, Uganda
+  Kenya                v Tanganyika            5-0   @ Kampala, Uganda
   Switzerland          v France                6-2   @ Basel, Switzerland
 Fri Oct 14
-  Tanzania             v Zanzibar              4-2   @ Kampala, Uganda
+  Tanganyika           v Zanzibar              4-2   @ Kampala, Uganda
 Sat Oct 15
   Uganda               v Kenya                 1-1   @ Kampala, Uganda
 Wed Oct 26

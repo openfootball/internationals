@@ -1,7 +1,7 @@
 = Friendly 2006
 
 # Date       Mon Jan 2 - Sat Dec 30 2006 (362d)
-# Teams      165
+# Teams      166
 # Matches    356
 
 Mon Jan 2
@@ -106,7 +106,7 @@ Wed Mar 1
   Italy                v Germany               4-1   @ Florence, Italy
   South Korea          v Angola                1-0   @ Seoul, South Korea
   Luxembourg           v Belgium               0-2   @ Luxembourg, Luxembourg
-  North Macedonia      v Bulgaria              0-1   @ Skopje, North Macedonia
+  Macedonia            v Bulgaria              0-1   @ Skopje, North Macedonia
   Mexico               v Ghana                 1-0   @ Frisco, United States
   Netherlands          v Ecuador               1-0   @ Amsterdam, Netherlands
   Northern Ireland     v Estonia               1-0   @ Belfast, Northern Ireland
@@ -116,7 +116,7 @@ Wed Mar 1
   Scotland             v Switzerland           1-3   @ Glasgow, Scotland
   Senegal              v Norway                2-1   @ Dakar, Senegal
   Spain                v Ivory Coast           3-2   @ Valladolid, Spain
-  Tunisia              v Serbia                0-1   @ Radès, Tunisia
+  Tunisia              v Serbia and Montenegro  0-1   @ Radès, Tunisia
   Turkey               v Czech Republic        2-2   @ İzmir, Turkey
   Venezuela            v Colombia              1-1   @ Maracaibo, Venezuela
   Wales                v Paraguay              0-0   @ Cardiff, Wales
@@ -141,9 +141,9 @@ Tue Apr 11
 Wed Apr 12
   Azerbaijan           v Turkey                1-1   @ Baku, Azerbaijan
 Fri Apr 14
-  Lesotho              v Eswatini              5-0   @ Maseru, Lesotho
+  Lesotho              v Swaziland             5-0   @ Maseru, Lesotho
 Sun Apr 16
-  Lesotho              v Eswatini              2-2   @ Maseru, Lesotho
+  Lesotho              v Swaziland             2-2   @ Maseru, Lesotho
 Sat Apr 22
   Kosovo               v Monaco                7-1   @ Cap-d'Ail, France
 Tue Apr 25
@@ -203,13 +203,13 @@ Sat May 27
   Netherlands          v Cameroon              1-0   @ Rotterdam, Netherlands
   Portugal             v Cape Verde            4-1   @ Évora, Portugal
   Romania              v Colombia              0-0   @ Chicago, United States
-  Serbia               v Uruguay               1-1   @ Belgrade, Serbia and Montenegro
+  Serbia and Montenegro v Uruguay               1-1   @ Belgrade, Serbia and Montenegro
   Spain                v Russia                0-0   @ Albacete, Spain
   Switzerland          v Ivory Coast           1-1   @ Basel, Switzerland
   Wales                v Trinidad and Tobago   2-1   @ Graz, Austria
 Sun May 28
   Croatia              v Iran                  2-2   @ Osijek, Croatia
-  North Macedonia      v Ecuador               2-1   @ Getafe, Spain
+  Macedonia            v Ecuador               2-1   @ Getafe, Spain
   Morocco              v Mali                  0-1   @ Colombes, France
   Turkey               v Estonia               1-1   @ Hamburg, Germany
   Ukraine              v Costa Rica            4-0   @ Kyiv, Ukraine
@@ -262,7 +262,7 @@ Sun Jun 4
   Japan                v Malta                 1-0   @ Düsseldorf, Germany
   Netherlands          v Australia             1-1   @ Rotterdam, Netherlands
   Slovenia             v Ivory Coast           0-3   @ Bondoufle, France
-  Turkey               v North Macedonia       0-1   @ Krefeld, Germany
+  Turkey               v Macedonia             0-1   @ Krefeld, Germany
 Mon Jun 5
   Ukraine              v Libya                 3-0   @ Gossau, Switzerland
 Wed Jun 7
@@ -273,10 +273,10 @@ Thu Jun 8
   Luxembourg           v Ukraine               0-3   @ Luxembourg, Luxembourg
 Sat Jun 24
   Malawi               v Zimbabwe              1-1   @ Maputo, Mozambique
-  Mozambique           v Eswatini              4-0   @ Maputo, Mozambique
+  Mozambique           v Swaziland             4-0   @ Maputo, Mozambique
 Sun Jun 25
   Mozambique           v Malawi                1-2   @ Maputo, Mozambique
-  Eswatini             v Zimbabwe              1-2   @ Maputo, Mozambique
+  Swaziland            v Zimbabwe              1-2   @ Maputo, Mozambique
 Mon Jun 26
   Mauritius            v Tanzania              1-2   @ Victoria, Seychelles
 Wed Jun 28
@@ -362,7 +362,7 @@ Wed Aug 16
   Tunisia              v Mali                  0-1   @ Narbonne, France
   Venezuela            v Honduras              0-0   @ Maracay, Venezuela
 Sat Aug 26
-  Eswatini             v Lesotho               3-1   @ Lobamba, Swaziland
+  Swaziland            v Lesotho               3-1   @ Lobamba, Swaziland
   Tanzania             v Zanzibar              1-0   @ Dar es Salaam, Tanzania
   Yemen                v Libya                 0-1   @ Sana'a, Yemen
 Sun Aug 27
@@ -406,7 +406,7 @@ Sun Oct 1
 Tue Oct 3
   Botswana             v Lesotho               1-0   @ Gaborone, Botswana
 Wed Oct 4
-  Ethiopia             v Eswatini              2-0   @ Addis Ababa, Ethiopia
+  Ethiopia             v Swaziland             2-0   @ Addis Ababa, Ethiopia
   Iran                 v Iraq                  2-0   @ Amman, Jordan
   Japan                v Ghana                 0-1   @ Yokohama, Japan
 Fri Oct 6
@@ -456,7 +456,7 @@ Wed Nov 15
   Algeria              v Burkina Faso          1-2   @ Aix-en-Provence, France
   Austria              v Trinidad and Tobago   4-1   @ Vienna, Austria
   Bolivia              v El Salvador           5-1   @ La Paz, Bolivia
-  Botswana             v Eswatini              1-0   @ Gaborone, Botswana
+  Botswana             v Swaziland             1-0   @ Gaborone, Botswana
   Chile                v Paraguay              3-2   @ Viña del Mar, Chile
   Czech Republic       v Denmark               1-1   @ Prague, Czech Republic
   Egypt                v South Africa          1-0   @ Brentford, England

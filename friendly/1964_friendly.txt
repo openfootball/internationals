@@ -1,7 +1,7 @@
 = Friendly 1964
 
 # Date       Wed Jan 1 - Sun Dec 20 1964 (354d)
-# Teams      76
+# Teams      77
 # Matches    109
 
 Wed Jan 1
@@ -9,20 +9,20 @@ Wed Jan 1
 Thu Jan 2
   Hong Kong            v Israel                0-3   @ So Kon Po, Hong Kong
 Sun Jan 12
-  Sri Lanka            v German DR             1-12   @ Colombo, Ceylon
+  Ceylon               v German DR             1-12   @ Colombo, Ceylon
 Fri Jan 31
-  Cameroon             v Benin                 2-4   @ Yaoundé, Cameroon
+  Cameroon             v Dahomey               2-4   @ Yaoundé, Cameroon
 Sun Feb 2
   Cameroon             v Congo                 7-1   @ Yaoundé, Cameroon
 Fri Feb 14
   Congo                v Cameroon              4-4   @ Brazzaville, Congo
 Sun Feb 23
   Ghana                v German DR             3-0   @ Accra, Ghana
-  Sri Lanka            v Indonesia             3-9   @ Colombo, Ceylon
+  Ceylon               v Indonesia             3-9   @ Colombo, Ceylon
 Mon Feb 24
-  Congo                v DR Congo              0-0   @ Brazzaville, Congo
+  Congo                v Congo-Léopoldville    0-0   @ Brazzaville, Congo
 Sat Feb 29
-  Sri Lanka            v Indonesia             1-4   @ Colombo, Ceylon
+  Ceylon               v Indonesia             1-4   @ Colombo, Ceylon
 Tue Mar 3
   Singapore            v Japan                 1-2   @ Kallang, Singapore
 Sun Mar 8
@@ -33,7 +33,7 @@ Sun Mar 15
 Wed Mar 18
   Bulgaria             v Yugoslavia            0-1   @ Sofia, Bulgaria
 Fri Mar 20
-  Egypt                v Algeria               1-0   @ Cairo, Egypt
+  United Arab Republic v Algeria               1-0   @ Cairo, Egypt
 Sun Mar 22
   Belgium              v Netherlands           0-0   @ Antwerp, Belgium
 Sat Mar 28
@@ -41,18 +41,18 @@ Sat Mar 28
 Wed Apr 1
   Yugoslavia           v Bulgaria              1-0   @ Niš, Yugoslavia
 Sun Apr 5
-  Guyana               v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
 Fri Apr 10
-  Guyana               v Trinidad and Tobago   1-6   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-6   @ Georgetown, British Guiana
 Sat Apr 11
   Italy                v Czechoslovakia        0-0   @ Florence, Italy
 Sun Apr 12
-  Guyana               v Trinidad and Tobago   1-4   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-4   @ Georgetown, British Guiana
   Netherlands          v Austria               1-1   @ Amsterdam, Netherlands
 Wed Apr 15
   Switzerland          v Belgium               2-0   @ Geneva, Switzerland
 Wed Apr 22
-  Cameroon             v DR Congo              2-2   @ Yaoundé, Cameroon
+  Cameroon             v Congo-Léopoldville    2-2   @ Yaoundé, Cameroon
 Wed Apr 29
   Germany              v Czechoslovakia        3-4   @ Ludwigshafen, Germany
   Netherlands          v Sweden                0-1   @ Rotterdam, Netherlands
@@ -78,7 +78,7 @@ Sun May 17
   Portugal             v England               3-4   @ Oeiras, Portugal
   Tunisia              v Ethiopia              3-2   @ Tunis, Tunisia
 Wed May 20
-  Russia               v Uruguay               1-0   @ Moscow, Soviet Union
+  Soviet Union         v Uruguay               1-0   @ Moscow, Soviet Union
 Sun May 24
   Republic of Ireland  v England               1-3   @ Dublin, Republic of Ireland
 Wed May 27
@@ -91,9 +91,9 @@ Wed Jun 3
   Brazil               v Argentina             0-3   @ São Paulo, Brazil
 Thu Jun 4
   England              v Portugal              1-1   @ São Paulo, Brazil
-  French Guiana        v Suriname              3-1   @ Cayenne, French Guiana
+  French Guiana        v Dutch Guyana          3-1   @ Cayenne, French Guiana
 Fri Jun 5
-  French Guiana        v Suriname              3-3   @ Cayenne, French Guiana
+  French Guiana        v Dutch Guyana          3-3   @ Cayenne, French Guiana
 Sat Jun 6
   Argentina            v England               1-0   @ Rio de Janeiro, Brazil
 Sun Jun 7
@@ -108,20 +108,20 @@ Tue Jun 30
 Wed Jul 1
   Norway               v Switzerland           3-2   @ Bergen, Norway
 Fri Jul 3
-  Zambia               v Tanzania              3-0   @ Zomba, Nyasaland
+  Northern Rhodesia    v Tanzania              3-0   @ Zomba, Nyasaland
 Sat Jul 4
-  Malawi               v Zambia                0-5   @ Blantyre, Nyasaland
+  Nyasaland            v Northern Rhodesia     0-5   @ Blantyre, Nyasaland
   Singapore            v Hong Kong             1-1   @ Kallang, Singapore
 Sun Jul 5
   Singapore            v Hong Kong             2-1   @ Kallang, Singapore
 Mon Jul 13
-  Cameroon             v DR Congo              1-1   @ Yaoundé, Cameroon
+  Cameroon             v Congo-Léopoldville    1-1   @ Yaoundé, Cameroon
 Tue Jul 14
   Cameroon             v Central African Republic  2-1   @ Yaoundé, Cameroon
 Fri Jul 17
   Cameroon             v Congo                 3-1   @ Yaoundé, Cameroon
 Sun Jul 19
-  Cameroon             v DR Congo              2-1   @ Yaoundé, Cameroon
+  Cameroon             v Congo-Léopoldville    2-1   @ Yaoundé, Cameroon
 Mon Aug 10
   Iceland              v Bermuda               4-3   @ Reykjavík, Iceland
 Sat Aug 15
@@ -129,9 +129,9 @@ Sat Aug 15
 Sun Aug 23
   Iceland              v Finland               0-2   @ Reykjavík, Iceland
 Fri Sep 4
-  Guyana               v Trinidad and Tobago   1-1   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-1   @ Georgetown, British Guiana
 Sat Sep 5
-  Guyana               v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-2   @ Georgetown, British Guiana
 Tue Sep 8
   India                v Taiwan                6-4   @ Kuala Lumpur, Malaysia
   Kenya                v Zanzibar              5-1   @ Dar es Salaam, Tanzania
@@ -168,7 +168,7 @@ Wed Oct 7
 Fri Oct 9
   Uganda               v Burundi               7-5   @ Kampala, Uganda
 Sun Oct 11
-  Austria              v Russia                1-0   @ Vienna, Austria
+  Austria              v Soviet Union          1-0   @ Vienna, Austria
   Hungary              v Czechoslovakia        2-2   @ Budapest, Hungary
 Wed Oct 21
   England              v Belgium               2-2   @ London, England
@@ -180,13 +180,13 @@ Wed Oct 28
 Sun Nov 1
   Turkey               v Tunisia               4-1   @ Ankara, Turkey
 Wed Nov 4
-  Algeria              v Russia                2-2   @ Algiers, Algeria
+  Algeria              v Soviet Union          2-2   @ Algiers, Algeria
 Sun Nov 15
   Portugal             v Spain                 2-1   @ Porto, Portugal
 Sun Nov 22
-  Yugoslavia           v Russia                1-1   @ Belgrade, Yugoslavia
+  Yugoslavia           v Soviet Union          1-1   @ Belgrade, Yugoslavia
 Sun Nov 29
-  Bulgaria             v Russia                0-0   @ Sofia, Bulgaria
+  Bulgaria             v Soviet Union          0-0   @ Sofia, Bulgaria
 Tue Dec 1
   Israel               v Denmark               0-1   @ Jaffa, Israel
 Wed Dec 2

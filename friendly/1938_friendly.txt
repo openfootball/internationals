@@ -33,11 +33,11 @@ Sun Mar 20
 Thu Mar 24
   France               v Bulgaria              6-1   @ Paris, France
 Mon Mar 28
-  Guyana               v Trinidad and Tobago   1-1   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   1-1   @ Georgetown, British Guiana
 Fri Apr 1
-  Guyana               v Trinidad and Tobago   0-3   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   0-3   @ Georgetown, British Guiana
 Thu Apr 7
-  Guyana               v Trinidad and Tobago   0-2   @ Georgetown, British Guiana
+  British Guiana       v Trinidad and Tobago   0-2   @ Georgetown, British Guiana
 Sun Apr 24
   Germany              v Portugal              1-1   @ Frankfurt am Main, Germany
 Sun May 8
@@ -50,13 +50,13 @@ Sun May 15
 Tue May 17
   Latvia               v Lithuania             2-0   @ Riga, Latvia
 Wed May 18
-  Czechoslovakia       v Republic of Ireland   2-2   @ Prague, Czechoslovakia
+  Czechoslovakia       v Éire                  2-2   @ Prague, Czechoslovakia
 Sat May 21
   Netherlands          v Scotland              1-3   @ Amsterdam, Netherlands
   Switzerland          v England               2-1   @ Zürich, Switzerland
 Sun May 22
   Italy                v Yugoslavia            4-0   @ Genoa, Italy
-  Poland               v Republic of Ireland   6-0   @ Warsaw, Poland
+  Poland               v Éire                  6-0   @ Warsaw, Poland
 Thu May 26
   France               v England               2-4   @ Colombes, France
 Sun May 29
@@ -77,22 +77,22 @@ Mon Jun 20
 Wed Jun 22
   Estonia              v Hungary               2-3   @ Tallinn, Estonia
 Sun Jun 26
-  Netherlands          v Indonesia             9-2   @ Amsterdam, Netherlands
+  Netherlands          v Dutch East Indies     9-2   @ Amsterdam, Netherlands
 Tue Jul 5
-  Curaçao              v Suriname              2-1   @ Willemstad, Curaçao
+  Curaçao              v Dutch Guyana          2-1   @ Willemstad, Curaçao
 Thu Jul 7
-  Curaçao              v Suriname              1-0   @ Willemstad, Curaçao
+  Curaçao              v Dutch Guyana          1-0   @ Willemstad, Curaçao
 Fri Jul 8
-  Aruba                v Suriname              5-0   @ Oranjestad, Aruba
+  Aruba                v Dutch Guyana          5-0   @ Oranjestad, Aruba
 Sun Jul 10
-  Curaçao              v Suriname              4-1   @ Willemstad, Curaçao
+  Curaçao              v Dutch Guyana          4-1   @ Willemstad, Curaçao
 Sat Jul 16
-  Trinidad and Tobago  v Suriname              1-2   @ Port of Spain, Trinidad and Tobago
+  Trinidad and Tobago  v Dutch Guyana          1-2   @ Port of Spain, Trinidad and Tobago
 Mon Jul 18
-  Suriname             v Trinidad and Tobago   3-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Trinidad and Tobago   3-0   @ Paramaribo, Dutch Guyana
 Wed Jul 20
   Estonia              v Latvia                0-2   @ Tallinn, Estonia
-  Suriname             v Trinidad and Tobago   0-1   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Trinidad and Tobago   0-1   @ Paramaribo, Dutch Guyana
 Sun Aug 7
   Sweden               v Czechoslovakia        2-6   @ Solna, Sweden
 Wed Aug 17
@@ -115,7 +115,7 @@ Sat Sep 17
 Sun Sep 18
   Finland              v Lithuania             3-1   @ Helsinki, Finland
   Germany              v Poland                4-1   @ Chemnitz, Germany
-  Republic of Ireland  v Switzerland           4-0   @ Dublin, Éire
+  Éire                 v Switzerland           4-0   @ Dublin, Éire
 Sat Sep 24
   Australia            v India                 5-4   @ Sydney, Australia
 Sun Sep 25
@@ -141,7 +141,7 @@ Sun Nov 6
 Wed Nov 9
   England              v Norway                4-0   @ Newcastle, England
 Sun Nov 13
-  Republic of Ireland  v Poland                3-2   @ Dublin, Éire
+  Éire                 v Poland                3-2   @ Dublin, Éire
 Sun Nov 20
   Italy                v Switzerland           2-0   @ Bologna, Italy
 Sun Dec 4

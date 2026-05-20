@@ -107,17 +107,17 @@ Wed Mar 27
   Guatemala            v Venezuela             3-0   @ Guatemala City, Guatemala
   Honduras             v Nicaragua             1-0   @ Danlí, Honduras
   Republic of Ireland  v Russia                0-2   @ Dublin, Republic of Ireland
-  North Macedonia      v Malta                 1-0   @ Prilep, North Macedonia
+  Macedonia            v Malta                 1-0   @ Prilep, North Macedonia
   Northern Ireland     v Norway                0-2   @ Belfast, Northern Ireland
   Poland               v Slovenia              0-0   @ Łódź, Poland
   Portugal             v Greece                1-0   @ Lisbon, Portugal
   Scotland             v Australia             1-0   @ Glasgow, Scotland
-  Serbia               v Romania               1-0   @ Belgrade, FR Yugoslavia
+  FR Yugoslavia        v Romania               1-0   @ Belgrade, FR Yugoslavia
   Slovakia             v Belarus               4-0   @ Nitra, Slovakia
 Thu Mar 28
   Colombia             v Bolivia               4-1   @ Medellín, Colombia
 Sun Apr 7
-  Congo                v DR Congo              2-1   @ Brazzaville, Congo
+  Congo                v Zaïre                 2-1   @ Brazzaville, Congo
 Tue Apr 9
   Azerbaijan           v Turkey                0-1   @ Baku, Azerbaijan
   Moldova              v Ukraine               2-2   @ Chișinău, Moldova
@@ -146,7 +146,7 @@ Wed Apr 24
 Fri Apr 26
   Turkmenistan         v Iran                  1-1   @ Ashgabat, Turkmenistan
 Sun Apr 28
-  DR Congo             v Congo                 3-1   @ Kinshasa, Zaïre
+  Zaïre                v Congo                 3-1   @ Kinshasa, Zaïre
   Turkmenistan         v Iran                  0-1   @ Ashgabat, Turkmenistan
 Tue Apr 30
   Israel               v South Korea           4-5   @ Jaffa, Israel
@@ -164,7 +164,7 @@ Sat May 11
 Sun May 12
   Burkina Faso         v Niger                 0-0   @ Ouagadougou, Burkina Faso
   Malawi               v Zambia                1-1   @ Blantyre, Malawi
-  Eswatini             v Mozambique            0-1   @ Mbabane, Swaziland
+  Swaziland            v Mozambique            0-1   @ Mbabane, Swaziland
 Thu May 16
   South Korea          v Sweden                0-2   @ Seoul, South Korea
 Fri May 17
@@ -197,7 +197,7 @@ Sun May 26
 Mon May 27
   Belarus              v Azerbaijan            2-2   @ Maladzečna, Belarus
 Tue May 28
-  Bulgaria             v North Macedonia       3-0   @ Sofia, Bulgaria
+  Bulgaria             v Macedonia             3-0   @ Sofia, Bulgaria
 Wed May 29
   Austria              v Czech Republic        1-0   @ Salzburg, Austria
   Colombia             v Scotland              1-0   @ Miami, United States
@@ -316,7 +316,7 @@ Wed Aug 28
   Oman                 v Sudan                 0-0   @ Muscat, Oman
   Russia               v Brazil                2-2   @ Moscow, Russia
 Thu Aug 29
-  Morocco              v DR Congo              7-0   @ Settat, Morocco
+  Morocco              v Zaïre                 7-0   @ Settat, Morocco
 Fri Aug 30
   Guatemala            v Cuba                  1-1   @ Guatemala City, Guatemala
   United States        v El Salvador           3-1   @ Los Angeles, United States
@@ -437,7 +437,7 @@ Tue Nov 26
   China PR             v South Korea           2-3   @ Guangzhou, China PR
   United Arab Emirates v Syria                 1-1   @ Abu Dhabi, United Arab Emirates
 Wed Nov 27
-  Malta                v North Macedonia       0-2   @ Attard, Malta
+  Malta                v Macedonia             0-2   @ Attard, Malta
 Thu Nov 28
   United Arab Emirates v Syria                 1-0   @ Abu Dhabi, United Arab Emirates
 Fri Nov 29
@@ -470,5 +470,5 @@ Thu Dec 26
 Fri Dec 27
   Benin                v Burkina Faso          0-0   @ Cotonou, Benin   [Benin wins on penalties]
 Sat Dec 28
-  Argentina            v Serbia                2-3   @ Mar del Plata, Argentina
+  Argentina            v FR Yugoslavia         2-3   @ Mar del Plata, Argentina
 

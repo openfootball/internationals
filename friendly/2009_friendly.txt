@@ -59,7 +59,7 @@ Wed Feb 11
   Latvia               v Armenia               0-0   @ Limassol, Cyprus
   Libya                v Uruguay               2-3   @ Tripoli, Libya
   Liechtenstein        v Iceland               0-2   @ Cartagena, Spain
-  North Macedonia      v Moldova               1-1   @ Antalya, Turkey
+  Macedonia            v Moldova               1-1   @ Antalya, Turkey
   Morocco              v Czech Republic        0-0   @ Casablanca, Morocco
   Mozambique           v Malawi                2-0   @ Maputo, Mozambique
   Nigeria              v Jamaica               0-0   @ London, England
@@ -196,9 +196,9 @@ Sun Jun 14
   Madagascar           v Mayotte               2-0   @ Mahajanga, Madagascar
 Fri Jun 19
   Haiti                v Panama                1-1   @ Port-au-Prince, Haiti
-  Eswatini             v Lesotho               1-1   @ Manzini, Swaziland
+  Swaziland            v Lesotho               1-1   @ Manzini, Swaziland
 Sun Jun 21
-  Eswatini             v Lesotho               1-1   @ Lobamba, Swaziland
+  Swaziland            v Lesotho               1-1   @ Lobamba, Swaziland
 Tue Jun 23
   Haiti                v Martinique            0-0   @ Saint-Marc, Haiti
 Wed Jun 24
@@ -216,7 +216,7 @@ Tue Jun 30
 Sun Jul 5
   Botswana             v Iran                  1-1   @ Gaborone, Botswana
 Mon Jul 6
-  Malawi               v Eswatini              3-1   @ Blantyre, Malawi
+  Malawi               v Swaziland             3-1   @ Blantyre, Malawi
 Fri Jul 10
   Iraq                 v Palestine             3-0   @ Erbil, Iraq
 Sun Jul 12
@@ -253,13 +253,13 @@ Wed Aug 12
   South Korea          v Paraguay              1-0   @ Seoul, South Korea
   Liechtenstein        v Portugal              0-3   @ Vaduz, Liechtenstein
   Luxembourg           v Lithuania             0-1   @ Luxembourg, Luxembourg
-  North Macedonia      v Spain                 2-3   @ Skopje, North Macedonia
+  Macedonia            v Spain                 2-3   @ Skopje, North Macedonia
   Malaysia             v Kenya                 0-0   @ Kuala Lumpur, Malaysia
   Mali                 v Burkina Faso          3-0   @ Le Petit-Quevilly, France
   Malta                v Georgia               2-0   @ Attard, Malta
   Montenegro           v Wales                 2-1   @ Podgorica, Montenegro
   Morocco              v Congo                 1-1   @ Rabat, Morocco
-  Mozambique           v Eswatini              1-0   @ Maputo, Mozambique
+  Mozambique           v Swaziland             1-0   @ Maputo, Mozambique
   Netherlands          v England               2-2   @ Amsterdam, Netherlands
   Northern Ireland     v Israel                1-1   @ Belfast, Northern Ireland
   Oman                 v Saudi Arabia          2-1   @ Salalah, Oman
@@ -292,7 +292,7 @@ Sat Sep 5
   Germany              v South Africa          2-0   @ Leverkusen, Germany
   Jordan               v Malaysia              0-0   @ Amman, Jordan
   South Korea          v Australia             3-1   @ Seoul, South Korea
-  Namibia              v Eswatini              1-1   @ Windhoek, Namibia
+  Namibia              v Swaziland             1-1   @ Windhoek, Namibia
   Netherlands          v Japan                 3-0   @ Enschede, Netherlands
   Saint Vincent and the Grenadines v Saint Kitts and Nevis  0-3   @ Kingstown, Saint Vincent and the Grenadines
   Uzbekistan           v Iran                  0-0   @ Tashkent, Uzbekistan
@@ -328,7 +328,7 @@ Sat Oct 10
   Norway               v South Africa          1-0   @ Oslo, Norway
   United Arab Emirates v Palestine             1-1   @ Dubai, United Arab Emirates
 Sun Oct 11
-  North Macedonia      v Qatar                 2-1   @ Skopje, North Macedonia
+  Macedonia            v Qatar                 2-1   @ Skopje, North Macedonia
 Tue Oct 13
   Congo                v North Korea           0-0   @ Le Mans, France
   Iceland              v South Africa          1-0   @ Reykjavík, Iceland
@@ -348,13 +348,13 @@ Sat Oct 24
 Mon Oct 26
   Kuwait               v Syria                 1-0   @ Al-Jahra, Kuwait
 Wed Oct 28
-  Curaçao              v French Guiana         1-4   @ Paramaribo, Suriname
+  Netherlands Antilles v French Guiana         1-4   @ Paramaribo, Suriname
 Fri Oct 30
-  Guyana               v Curaçao               1-0   @ Paramaribo, Suriname
+  Guyana               v Netherlands Antilles  1-0   @ Paramaribo, Suriname
   Suriname             v French Guiana         4-0   @ Paramaribo, Suriname
 Sun Nov 1
   French Guiana        v Guyana                0-1   @ Paramaribo, Suriname
-  Suriname             v Curaçao               1-1   @ Paramaribo, Suriname
+  Suriname             v Netherlands Antilles  1-1   @ Paramaribo, Suriname
 Tue Nov 3
   Kenya                v Kuwait                0-5   @ Cairo, Egypt
 Wed Nov 4
@@ -384,7 +384,7 @@ Sat Nov 14
   Honduras             v Latvia                2-1   @ Tegucigalpa, Honduras
   Italy                v Netherlands           0-0   @ Pescara, Italy
   Luxembourg           v Iceland               1-1   @ Luxembourg, Luxembourg
-  North Macedonia      v Canada                3-0   @ Strumica, North Macedonia
+  Macedonia            v Canada                3-0   @ Strumica, North Macedonia
   Northern Ireland     v Serbia                0-1   @ Belfast, Northern Ireland
   Poland               v Romania               0-1   @ Warsaw, Poland
   Saudi Arabia         v Belarus               1-1   @ Dammam, Saudi Arabia
@@ -408,7 +408,7 @@ Wed Nov 18
   Denmark              v United States         3-1   @ Aarhus, Denmark
   Germany              v Ivory Coast           2-2   @ Gelsenkirchen, Germany
   Honduras             v Peru                  1-2   @ Miami Gardens, United States
-  Iran                 v North Macedonia       1-1   @ Tehran, Iran
+  Iran                 v Macedonia             1-1   @ Tehran, Iran
   Italy                v Sweden                1-0   @ Cesena, Italy
   South Korea          v Serbia                0-1   @ London, England
   Malta                v Bulgaria              1-4   @ Paola, Malta

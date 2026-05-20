@@ -7,29 +7,29 @@
 Sat Jan 4
   Egypt                v Czechoslovakia        2-0   @ Cairo, Egypt
 Sun Jan 5
-  DR Congo             v Ivory Coast           2-0   @ Kinshasa, Zaïre
+  Zaïre                v Ivory Coast           2-0   @ Kinshasa, Zaïre
   Guyana               v Barbados              0-2   @ Georgetown, Guyana
 Tue Jan 7
   Egypt                v Norway                0-0   @ Cairo, Egypt
 Wed Jan 15
   Portugal             v Spain                 0-0   @ Torres Novas, Portugal
 Sat Jan 25
-  United States        v Russia                0-1   @ Miami Gardens, United States
+  United States        v CIS                   0-1   @ Miami Gardens, United States
 Sun Jan 26
   Australia            v Sweden                0-0   @ Sydney, Australia
 Wed Jan 29
   Albania              v Greece                1-0   @ Tirana, Albania
   Australia            v Sweden                1-0   @ Adelaide, Australia
-  El Salvador          v Russia                0-3   @ San Salvador, El Salvador
+  El Salvador          v CIS                   0-3   @ San Salvador, El Salvador
 Sun Feb 2
   Australia            v Sweden                1-0   @ Melbourne, Australia
-  United States        v Russia                2-1   @ Pontiac, United States
+  United States        v CIS                   2-1   @ Pontiac, United States
 Tue Feb 4
   Bermuda              v Norway                1-3   @ Hamilton, Bermuda
 Wed Feb 12
   Costa Rica           v United States         0-0   @ San José, Costa Rica
   Greece               v Romania               1-0   @ Ioannina, Greece
-  Israel               v Russia                1-2   @ Jerusalem, Israel
+  Israel               v CIS                   1-2   @ Jerusalem, Israel
   Portugal             v Netherlands           2-0   @ Faro, Portugal
   Turkey               v Finland               1-1   @ Adana, Turkey
 Tue Feb 18
@@ -39,7 +39,7 @@ Wed Feb 19
   Republic of Ireland  v Wales                 0-1   @ Dublin, Republic of Ireland
   Italy                v San Marino            4-0   @ Cesena, Italy
   Scotland             v Northern Ireland      1-0   @ Glasgow, Scotland
-  Spain                v Russia                1-1   @ Valencia, Spain
+  Spain                v CIS                   1-1   @ Valencia, Spain
 Sat Feb 22
   Tunisia              v Nigeria               1-1   @ Tunis, Tunisia
 Wed Feb 26
@@ -52,9 +52,9 @@ Tue Mar 3
 Wed Mar 4
   Costa Rica           v El Salvador           2-0   @ San José, Costa Rica
 Sun Mar 8
-  Mexico               v Russia                4-0   @ Mexico City, Mexico
+  Mexico               v CIS                   4-0   @ Mexico City, Mexico
 Wed Mar 11
-  Mexico               v Russia                1-1   @ Ciudad Madero, Mexico
+  Mexico               v CIS                   1-1   @ Ciudad Madero, Mexico
   Spain                v United States         2-0   @ Valladolid, Spain
 Tue Mar 17
   El Salvador          v Honduras              1-1   @ Los Angeles, United States
@@ -96,7 +96,7 @@ Wed Apr 29
   Denmark              v Norway                1-0   @ Aarhus, Denmark
   El Salvador          v Costa Rica            1-1   @ San Salvador, El Salvador
   Republic of Ireland  v United States         4-1   @ Dublin, Republic of Ireland
-  Russia               v England               2-2   @ Moscow, Russia
+  CIS                  v England               2-2   @ Moscow, Russia
   Ukraine              v Hungary               1-3   @ Uzhhorod, Ukraine
 Thu Apr 30
   Uruguay              v Brazil                1-0   @ Montevideo, Uruguay
@@ -144,7 +144,7 @@ Mon Jun 1
 Tue Jun 2
   Germany              v Northern Ireland      1-1   @ Bremen, Germany
 Wed Jun 3
-  Denmark              v Russia                1-1   @ Brøndby, Denmark
+  Denmark              v CIS                   1-1   @ Brøndby, Denmark
   Estonia              v Slovenia              1-1   @ Tallinn, Estonia
   Finland              v England               1-2   @ Helsinki, Finland
   Norway               v Scotland              0-0   @ Oslo, Norway
@@ -162,7 +162,7 @@ Wed Jun 17
 Thu Jun 18
   Argentina            v Australia             2-0   @ Buenos Aires, Argentina
 Sat Jun 20
-  Mozambique           v Eswatini              4-1   @ Maputo, Mozambique
+  Mozambique           v Swaziland             4-1   @ Maputo, Mozambique
 Sun Jun 21
   Gabon                v Burundi               0-1   @ Libreville, Gabon
   Uruguay              v Australia             2-0   @ Montevideo, Uruguay

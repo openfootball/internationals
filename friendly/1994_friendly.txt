@@ -89,11 +89,11 @@ Wed Mar 9
   Nigeria              v Ghana                 0-0   @ Lagos, Nigeria
   Wales                v Norway                1-3   @ Cardiff, Wales
 Sat Mar 12
-  Congo                v DR Congo              2-1   @ Brazzaville, Congo
+  Congo                v Zaïre                 2-1   @ Brazzaville, Congo
   United States        v South Korea           1-1   @ Fullerton, United States
   Zambia               v Zimbabwe              2-1   @ Lusaka, Zambia
 Tue Mar 15
-  Gabon                v DR Congo              2-1   @ Libreville, Gabon
+  Gabon                v Zaïre                 2-1   @ Libreville, Gabon
   Israel               v Ukraine               1-0   @ Haifa, Israel
 Wed Mar 16
   Egypt                v Cameroon              0-0   @ Cairo, Egypt
@@ -110,7 +110,7 @@ Wed Mar 23
   Greece               v Poland                0-0   @ Salonica, Greece
   Republic of Ireland  v Russia                0-0   @ Dublin, Republic of Ireland
   Luxembourg           v Morocco               1-2   @ Luxembourg, Luxembourg
-  North Macedonia      v Slovenia              2-0   @ Skopje, North Macedonia
+  Macedonia            v Slovenia              2-0   @ Skopje, North Macedonia
   Northern Ireland     v Romania               2-0   @ Belfast, Northern Ireland
   Scotland             v Netherlands           0-1   @ Glasgow, Scotland
   Spain                v Croatia               0-2   @ Valencia, Spain
@@ -161,7 +161,7 @@ Wed Apr 20
   United States        v Moldova               3-0   @ Davidson, United States
   Wales                v Sweden                0-2   @ Wrexham, Wales
 Fri Apr 22
-  Eswatini             v Mozambique            0-1   @ Mbabane, Swaziland
+  Swaziland            v Mozambique            0-1   @ Mbabane, Swaziland
 Sun Apr 24
   South Africa         v Zimbabwe              1-0   @ Mafikeng, South Africa
   United States        v Iceland               1-2   @ Chula Vista, United States
@@ -192,7 +192,7 @@ Wed May 11
 Fri May 13
   Greece               v Bolivia               0-0   @ Piraeus, Greece
 Sat May 14
-  North Macedonia      v Albania               5-1   @ Tetovo, North Macedonia
+  Macedonia            v Albania               5-1   @ Tetovo, North Macedonia
   Nigeria              v Suriname              2-1   @ Amsterdam, Netherlands
 Sun May 15
   United States        v Armenia               1-0   @ Fullerton, United States
@@ -234,7 +234,7 @@ Tue May 31
   Israel               v Argentina             0-3   @ Ramat Gan, Israel
 Wed Jun 1
   Canada               v Morocco               1-1   @ Montreal, Canada
-  North Macedonia      v Estonia               2-0   @ Skopje, North Macedonia
+  Macedonia            v Estonia               2-0   @ Skopje, North Macedonia
   Netherlands          v Hungary               7-1   @ Eindhoven, Netherlands
   Norway               v Denmark               2-1   @ Oslo, Norway
   Romania              v Slovenia              0-0   @ Bucharest, Romania
@@ -305,7 +305,7 @@ Wed Aug 17
   Poland               v Belarus               1-1   @ Radom, Poland
   Sweden               v Lithuania             4-2   @ Örebro, Sweden
 Fri Aug 19
-  Congo                v DR Congo              2-0   @ Brazzaville, Congo
+  Congo                v Zaïre                 2-0   @ Brazzaville, Congo
   Egypt                v Mali                  2-1   @ Cairo, Egypt
 Sun Aug 21
   Egypt                v Mali                  0-1   @ Cairo, Egypt
@@ -313,19 +313,19 @@ Tue Aug 23
   Burkina Faso         v Niger                 0-0   @ Ouagadougou, Burkina Faso
   Egypt                v Ghana                 2-0   @ Cairo, Egypt
 Wed Aug 24
-  DR Congo             v Congo                 2-0   @ Kinshasa, Zaïre
+  Zaïre                v Congo                 2-0   @ Kinshasa, Zaïre
 Thu Aug 25
   Ghana                v Zambia                1-0   @ Cairo, Egypt
   Namibia              v Botswana              2-3   @ Windhoek, Namibia
 Fri Aug 26
-  DR Congo             v Congo                 1-1   @ Kinshasa, Zaïre
+  Zaïre                v Congo                 1-1   @ Kinshasa, Zaïre
   Ukraine              v United Arab Emirates  1-1   @ Grassau, Austria
 Sat Aug 27
   Egypt                v Zambia                0-4   @ Cairo, Egypt
 Tue Aug 30
   Iceland              v United Arab Emirates  1-0   @ Reykjavík, Iceland
 Wed Aug 31
-  North Macedonia      v Turkey                0-2   @ Skopje, North Macedonia
+  Macedonia            v Turkey                0-2   @ Skopje, North Macedonia
 Fri Sep 2
   Solomon Islands      v Fiji                  1-0   @ Honiara, Solomon Islands
 Tue Sep 6
@@ -423,12 +423,12 @@ Sun Dec 18
 Wed Dec 21
   Italy                v Turkey                3-1   @ Pescara, Italy
 Fri Dec 23
-  Brazil               v Serbia                2-0   @ Porto Alegre, Brazil
+  Brazil               v FR Yugoslavia         2-0   @ Porto Alegre, Brazil
   Basque Country       v Russia                1-0   @ Bilbao, Spain
 Sun Dec 25
   Mali                 v Mauritania            0-0   @ Bamako, Mali
 Tue Dec 27
-  Argentina            v Serbia                1-0   @ Buenos Aires, Argentina
+  Argentina            v FR Yugoslavia         1-0   @ Buenos Aires, Argentina
 Thu Dec 29
   Liberia              v Guinea                0-0   @ Monrovia, Liberia
   Mali                 v Mauritania            0-0   @ Bamako, Mali

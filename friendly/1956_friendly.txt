@@ -5,7 +5,7 @@
 # Matches    122
 
 Mon Jan 2
-  DR Congo             v Cameroon              2-4   @ Léopoldville, Belgian Congo
+  Belgian Congo        v Cameroon              2-4   @ Léopoldville, Belgian Congo
 Fri Jan 13
   Curaçao              v Martinique            3-1   @ Willemstad, Curaçao
 Sun Jan 15
@@ -68,7 +68,7 @@ Sun May 20
   Finland              v England               1-5   @ Helsinki, Finland
   Guadeloupe           v Martinique            2-2   @ Basse-Terre, Guadeloupe
 Wed May 23
-  Russia               v Denmark               5-1   @ Moscow, Soviet Union
+  Soviet Union         v Denmark               5-1   @ Moscow, Soviet Union
 Sat May 26
   Germany              v England               1-3   @ Berlin, Germany
 Wed May 30
@@ -88,7 +88,7 @@ Sun Jun 17
 Sun Jun 24
   Argentina            v Italy                 1-0   @ Avellaneda, Argentina
 Mon Jun 25
-  Myanmar              v China PR              2-3   @ Yangon, Burma
+  Burma                v China PR              2-3   @ Yangon, Burma
 Thu Jun 28
   Romania              v Norway                2-0   @ Bucharest, Romania
 Fri Jun 29
@@ -98,7 +98,7 @@ Sat Jun 30
   Sweden               v Germany               2-2   @ Solna, Sweden
 Sun Jul 1
   Brazil               v Italy                 2-0   @ Rio de Janeiro, Brazil
-  Denmark              v Russia                2-5   @ Copenhagen, Denmark
+  Denmark              v Soviet Union          2-5   @ Copenhagen, Denmark
 Thu Jul 5
   Madagascar           v Réunion               4-2   @ Antananarivo, Madagascar
 Sun Jul 8
@@ -113,16 +113,16 @@ Fri Aug 3
   Estonia              v Lithuania             0-1   @ Moscow, Soviet Union
 Sun Aug 5
   Brazil               v Czechoslovakia        0-1   @ Rio de Janeiro, Brazil
-  Russia               v Lithuania             2-0   @ Moscow, Soviet Union
+  Soviet Union         v Lithuania             2-0   @ Moscow, Soviet Union
 Wed Aug 8
   Brazil               v Czechoslovakia        4-1   @ São Paulo, Brazil
 Thu Aug 9
-  Russia               v Belarus               5-1   @ Moscow, Soviet Union
+  Soviet Union         v Belarus               5-1   @ Moscow, Soviet Union
   Yugoslavia           v China PR              4-0   @ Belgrade, Yugoslavia
 Fri Aug 10
   Estonia              v Lithuania             0-2   @ Moscow, Soviet Union
 Sat Aug 11
-  Russia               v Belarus               4-2   @ Moscow, Soviet Union
+  Soviet Union         v Belarus               4-2   @ Moscow, Soviet Union
 Sun Aug 12
   Lithuania            v Moldova               1-4   @ Moscow, Soviet Union
   Uruguay              v Czechoslovakia        2-1   @ Montevideo, Uruguay
@@ -139,20 +139,20 @@ Wed Sep 12
   Croatia              v Indonesia             5-2   @ Zagreb, Yugoslavia
   Singapore            v Pakistan              1-1   @ Kallang, Singapore
 Sat Sep 15
-  Germany              v Russia                1-2   @ Hanover, Germany
+  Germany              v Soviet Union          1-2   @ Hanover, Germany
   Switzerland          v Netherlands           2-3   @ Lausanne, Switzerland
 Mon Sep 17
   Hong Kong            v South Korea           2-4   @ So Kon Po, Hong Kong
 Thu Sep 20
   German DR            v Indonesia             3-1   @ Karl-Marx-Stadt, German DR
 Sun Sep 23
-  Russia               v Hungary               0-1   @ Moscow, Soviet Union
+  Soviet Union         v Hungary               0-1   @ Moscow, Soviet Union
 Tue Sep 25
-  Guyana               v Suriname              1-1   @ Georgetown, British Guiana
+  British Guiana       v Dutch Guyana          1-1   @ Georgetown, British Guiana
 Fri Sep 28
-  Guyana               v Suriname              2-1   @ Georgetown, British Guiana
+  British Guiana       v Dutch Guyana          2-1   @ Georgetown, British Guiana
 Sun Sep 30
-  Guyana               v Suriname              1-2   @ Georgetown, British Guiana
+  British Guiana       v Dutch Guyana          1-2   @ Georgetown, British Guiana
 Thu Oct 4
   China PR             v North Vietnam         5-3   @ Beijing, China PR
 Sat Oct 6
@@ -170,13 +170,13 @@ Sun Oct 14
 Fri Oct 19
   Vietnam Republic     v Thailand              2-1   @ Saigon, Vietnam Republic
 Sat Oct 20
-  Togo                 v Ghana                 1-1   @ Lomé, Togo
+  Togo                 v Gold Coast            1-1   @ Lomé, Togo
 Sun Oct 21
-  France               v Russia                2-1   @ Colombes, France
+  France               v Soviet Union          2-1   @ Colombes, France
 Mon Oct 22
   Vietnam Republic     v Thailand              3-1   @ Saigon, Vietnam Republic
 Sat Oct 27
-  Nigeria              v Ghana                 3-0   @ Lagos, Nigeria
+  Nigeria              v Gold Coast            3-0   @ Lagos, Nigeria
 Sun Oct 28
   Poland               v Norway                5-3   @ Warsaw, Poland
 Wed Oct 31
@@ -200,12 +200,12 @@ Sun Nov 25
   Czechoslovakia       v Turkey                1-1   @ Prague, Czechoslovakia
   Republic of Ireland  v Germany               3-0   @ Dublin, Republic of Ireland
 Tue Nov 27
-  Tanzania             v Kenya                 0-9   @ Kampala, Uganda
+  Tanganyika           v Kenya                 0-9   @ Kampala, Uganda
 Wed Nov 28
   England              v Yugoslavia            3-0   @ London, England
   Uganda               v Zanzibar              5-2   @ Kampala, Uganda
 Fri Nov 30
-  Tanzania             v Zanzibar              2-3   @ Kampala, Uganda
+  Tanganyika           v Zanzibar              2-3   @ Kampala, Uganda
 Sat Dec 1
   Uganda               v Kenya                 3-2   @ Kampala, Uganda
 Wed Dec 12
@@ -213,7 +213,7 @@ Wed Dec 12
 Thu Dec 13
   Singapore            v Bulgaria              2-10   @ Kallang, Singapore
 Sun Dec 16
-  Ghana                v Sierra Leone          4-3   @ Accra, Gold Coast
+  Gold Coast           v Sierra Leone          4-3   @ Accra, Gold Coast
 Sun Dec 23
   Germany              v Belgium               4-1   @ Cologne, Germany
   Indonesia            v Yugoslavia            1-5   @ Jakarta, Indonesia

@@ -1,7 +1,7 @@
 = Friendly 1984
 
 # Date       Mon Jan 2 - Sun Dec 30 1984 (363d)
-# Teams      112
+# Teams      113
 # Matches    243
 
 Mon Jan 2
@@ -90,7 +90,7 @@ Tue Mar 27
 Wed Mar 28
   France               v Austria               1-0   @ Bordeaux, France
   German DR            v Czechoslovakia        2-1   @ Erfurt, German DR
-  Germany              v Russia                2-1   @ Hanover, Germany
+  Germany              v Soviet Union          2-1   @ Hanover, Germany
   Haiti                v Canada                0-1   @ Port-au-Prince, Haiti
 Sat Mar 31
   New Zealand          v Malaysia              2-0   @ Wellington, New Zealand
@@ -126,7 +126,7 @@ Tue May 1
 Wed May 2
   Switzerland          v Sweden                0-0   @ Bern, Switzerland
 Tue May 15
-  Finland              v Russia                1-3   @ Kouvola, Finland
+  Finland              v Soviet Union          1-3   @ Kouvola, Finland
 Wed May 16
   Czechoslovakia       v Denmark               1-0   @ Prague, Czechoslovakia
 Sat May 19
@@ -148,7 +148,7 @@ Thu May 31
 Fri Jun 1
   France               v Scotland              2-0   @ Marseille, France
 Sat Jun 2
-  England              v Russia                0-2   @ London, England
+  England              v Soviet Union          0-2   @ London, England
   Portugal             v Yugoslavia            2-3   @ Oeiras, Portugal
 Sun Jun 3
   Ethiopia             v Djibouti              2-0   @ Addis Ababa, Ethiopia
@@ -196,7 +196,7 @@ Wed Jun 27
 Sat Jun 30
   Kenya                v Cameroon              1-3   @ Nairobi, Kenya
 Sun Jul 1
-  Eswatini             v Lesotho               3-1   @ Lobamba, Swaziland
+  Swaziland            v Lesotho               3-1   @ Lobamba, Swaziland
   Zimbabwe             v Zambia                2-1   @ Harare, Zimbabwe
 Tue Jul 3
   Egypt                v Cameroon              2-1   @ Cairo, Egypt
@@ -236,13 +236,13 @@ Tue Jul 31
   Mauritania           v Guinea                0-2   @ Nouakchott, Mauritania
   Romania              v China PR              1-0   @ Buzău, Romania
 Wed Aug 1
-  Burkina Faso         v Benin                 3-1   @ Ouagadougou, Upper Volta
+  Upper Volta          v Benin                 3-1   @ Ouagadougou, Upper Volta
   Faroe Islands        v Iceland               0-0   @ Tórshavn, Faroe Islands
 Thu Aug 2
   Argentina            v Uruguay               0-0   @ Buenos Aires, Argentina
   Mauritania           v Guinea                0-0   @ Nouakchott, Mauritania
 Fri Aug 3
-  Burkina Faso         v Ghana                 0-2   @ Ouagadougou, Upper Volta
+  Upper Volta          v Ghana                 0-2   @ Ouagadougou, Upper Volta
   Greenland            v Iceland               0-1   @ Fuglafjørður, Faroe Islands
 Sun Aug 5
   Faroe Islands        v Greenland             1-0   @ Klaksvík, Faroe Islands
@@ -262,7 +262,7 @@ Sat Aug 18
   Iran                 v Syria                 1-0   @ Jakarta, Indonesia
   Singapore            v Malaysia              1-1   @ Kallang, Singapore
 Sun Aug 19
-  Russia               v Mexico                3-0   @ Leningrad, Soviet Union
+  Soviet Union         v Mexico                3-0   @ Leningrad, Soviet Union
 Wed Aug 22
   Hungary              v Switzerland           3-0   @ Budapest, Hungary
   Sweden               v Mexico                1-1   @ Malmö, Sweden

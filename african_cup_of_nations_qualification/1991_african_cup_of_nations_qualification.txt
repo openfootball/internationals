@@ -18,11 +18,11 @@ Sat Apr 13
   Nigeria              v Ghana                 0-0   @ Lagos, Nigeria
 Sun Apr 14
   Angola               v Zambia                1-2   @ Luanda, Angola
-  DR Congo             v Gabon                 2-1   @ Kinshasa, Zaïre
+  Zaïre                v Gabon                 2-1   @ Kinshasa, Zaïre
   Guinea               v Cameroon              0-0   @ Conakry, Guinea
   Mali                 v Sierra Leone          0-0   @ Bamako, Mali
   Sudan                v Kenya                 1-0   @ Khartoum, Sudan
-  Eswatini             v Madagascar            0-1   @ Mbabane, Swaziland
+  Swaziland            v Madagascar            0-1   @ Mbabane, Swaziland
   Tunisia              v Egypt                 2-2   @ Tunis, Tunisia
   Uganda               v Tanzania              3-2   @ Kampala, Uganda
   Zimbabwe             v Malawi                4-0   @ Harare, Zimbabwe
@@ -31,14 +31,14 @@ Sun Apr 21
 Sat Apr 27
   Nigeria              v Benin                 3-0   @ Lagos, Nigeria
   Uganda               v Gabon                 0-0   @ Kampala, Uganda
-  Tanzania             v DR Congo              1-0   @ Dar es Salaam, Tanzania
+  Tanzania             v Zaïre                 1-0   @ Dar es Salaam, Tanzania
 Sun Apr 28
   Chad                 v Tunisia               0-0   @ N'Djamena, Chad
   Congo                v Malawi                2-1   @ Brazzaville, Congo
   Mali                 v Cameroon              0-2   @ Bamako, Mali
   Mozambique           v Sudan                 1-0   @ Maputo, Mozambique
   Sierra Leone         v Guinea                0-1   @ Freetown, Sierra Leone
-  Eswatini             v Zambia                2-1   @ Mbabane, Swaziland
+  Swaziland            v Zambia                2-1   @ Mbabane, Swaziland
 Mon Apr 29
   Ghana                v Togo                  2-0   @ Accra, Ghana
 Tue Apr 30
@@ -51,7 +51,7 @@ Sat Jul 13
   Burkina Faso         v Ghana                 2-1   @ Ouagadougou, Burkina Faso
 Sun Jul 14
   Cameroon             v Sierra Leone          1-0   @ Yaoundé, Cameroon
-  DR Congo             v Uganda                1-0   @ Kinshasa, Zaïre
+  Zaïre                v Uganda                1-0   @ Kinshasa, Zaïre
   Gabon                v Tanzania              1-0   @ Libreville, Gabon
   Guinea               v Mali                  2-1   @ Conakry, Guinea
   Kenya                v Mozambique            1-0   @ Nairobi, Kenya
@@ -59,7 +59,7 @@ Sun Jul 14
   Zambia               v Madagascar            2-1   @ Lusaka, Zambia
   Zimbabwe             v Congo                 2-2   @ Harare, Zimbabwe
 Mon Jul 15
-  Angola               v Eswatini              1-1   @ Luanda, Angola
+  Angola               v Swaziland             1-1   @ Luanda, Angola
 Fri Jul 26
   Egypt                v Tunisia               2-2   @ Cairo, Egypt
   Mauritania           v Niger                 0-1   @ Nouakchott, Mauritania
@@ -70,7 +70,7 @@ Sun Jul 28
   Benin                v Ghana                 0-0   @ Cotonou, Benin
   Zambia               v Angola                1-0   @ Lusaka, Zambia
   Cameroon             v Guinea                1-0   @ Yaoundé, Cameroon
-  Gabon                v DR Congo              0-0   @ Libreville, Gabon
+  Gabon                v Zaïre                 0-0   @ Libreville, Gabon
   Kenya                v Sudan                 2-1   @ Nairobi, Kenya
   Ivory Coast          v Morocco               2-0   @ Abidjan, Ivory Coast
   Sierra Leone         v Mali                  2-0   @ Freetown, Sierra Leone

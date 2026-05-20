@@ -5,32 +5,32 @@
 # Matches    139
 
 Wed Jan 4
-  Gabon                v DR Congo              1-0   @ Libreville, Gabon
+  Gabon                v Congo-Kinshasa        1-0   @ Libreville, Gabon
   Uruguay              v Romania               1-1   @ Montevideo, Uruguay
 Thu Jan 5
   Mexico               v Switzerland           3-0   @ Mexico City, Mexico
 Sun Jan 8
   Mexico               v Switzerland           0-2   @ Guadalajara, Mexico
 Tue Jan 17
-  Egypt                v German DR             1-2   @ Cairo, United Arab Republic
+  United Arab Republic v German DR             1-2   @ Cairo, United Arab Republic
 Wed Jan 18
   Guatemala            v Honduras              3-1   @ Guatemala City, Guatemala
 Fri Jan 20
-  Egypt                v German DR             0-3   @ Cairo, United Arab Republic
+  United Arab Republic v German DR             0-3   @ Cairo, United Arab Republic
 Sat Jan 21
   Martinique           v Guadeloupe            2-1   @ Fort-de-France, Martinique
 Sun Jan 22
-  DR Congo             v Congo                 4-1   @ Kinshasa, Congo-Kinshasa
+  Congo-Kinshasa       v Congo                 4-1   @ Kinshasa, Congo-Kinshasa
   Honduras             v Guatemala             1-1   @ Tegucigalpa, Honduras
   Tunisia              v Turkey                0-0   @ Tunis, Tunisia
 Mon Jan 23
   Martinique           v French Guiana         2-1   @ Fort-de-France, Martinique
 Tue Jan 24
-  Egypt                v German DR             2-2   @ Alexandria, United Arab Republic
+  United Arab Republic v German DR             2-2   @ Alexandria, United Arab Republic
 Sat Jan 28
   Nigeria              v Ghana                 2-2   @ Lagos, Nigeria
 Sun Jan 29
-  Burkina Faso         v Niger                 3-2   @ Ouagadougou, Upper Volta
+  Upper Volta          v Niger                 3-2   @ Ouagadougou, Upper Volta
   Sudan                v German DR             1-2   @ Khartoum, Sudan
 Tue Jan 31
   Niger                v Congo                 1-3   @ Niamey, Niger
@@ -42,7 +42,7 @@ Sun Feb 12
 Wed Feb 15
   Greece               v Libya                 4-0   @ Athens, Greece
 Sat Feb 18
-  Togo                 v DR Congo              2-4   @ Lomé, Togo
+  Togo                 v Congo-Kinshasa        2-4   @ Lomé, Togo
 Sun Feb 19
   Ethiopia             v Kenya                 2-0   @ Khartoum, Sudan
   Ghana                v Ivory Coast           2-2   @ Accra, Ghana
@@ -54,14 +54,14 @@ Thu Feb 23
   Kenya                v Tanzania              2-0   @ Khartoum, Sudan
 Fri Feb 24
   Sudan                v Ethiopia              1-1   @ Khartoum, Sudan
-  Uganda               v DR Congo              0-5   @ Kampala, Uganda
+  Uganda               v Congo-Kinshasa        0-5   @ Kampala, Uganda
 Sun Feb 26
   Sudan                v Ethiopia              5-3   @ Khartoum, Sudan
 Tue Feb 28
   Ethiopia             v Sudan                 2-1   @ Addis Ababa, Ethiopia
   France               v Corsica               0-2   @ Marseille, France
 Sun Mar 5
-  Benin                v Congo                 1-1   @ Cotonou, Dahomey
+  Dahomey              v Congo                 1-1   @ Cotonou, Dahomey
   Ivory Coast          v Liberia               1-1   @ Abidjan, Ivory Coast
 Tue Mar 7
   Libya                v Sudan                 1-1   @ Tripoli, Libya
@@ -84,17 +84,17 @@ Tue Mar 28
 Sun Apr 16
   Belgium              v Netherlands           1-0   @ Antwerp, Belgium
 Wed Apr 19
-  Congo                v DR Congo              3-1   @ Brazzaville, Congo
+  Congo                v Congo-Kinshasa        3-1   @ Brazzaville, Congo
 Sun Apr 23
   Hungary              v Yugoslavia            1-0   @ Budapest, Hungary
 Wed May 3
   Switzerland          v Czechoslovakia        1-2   @ Basel, Switzerland
 Wed May 10
-  Scotland             v Russia                0-2   @ Glasgow, Scotland
+  Scotland             v Soviet Union          0-2   @ Glasgow, Scotland
 Sun May 14
-  Suriname             v French Guiana         6-1   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v French Guiana         6-1   @ Paramaribo, Dutch Guyana
 Mon May 15
-  Suriname             v French Guiana         3-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v French Guiana         3-0   @ Paramaribo, Dutch Guyana
 Tue May 16
   Israel               v Scotland              1-2   @ Ramat Gan, Israel
 Wed May 17
@@ -102,13 +102,13 @@ Wed May 17
   Sweden               v German DR             0-1   @ Helsingborg, Sweden
 Wed May 24
   England              v Spain                 2-0   @ London, England
-  Ghana                v DR Congo              2-0   @ Accra, Ghana
+  Ghana                v Congo-Kinshasa        2-0   @ Accra, Ghana
 Sat May 27
   Austria              v England               0-1   @ Vienna, Austria
 Sun May 28
-  Russia               v Mexico                2-0   @ Leningrad, Soviet Union
+  Soviet Union         v Mexico                2-0   @ Leningrad, Soviet Union
 Sat Jun 3
-  France               v Russia                2-4   @ Paris, France
+  France               v Soviet Union          2-4   @ Paris, France
 Sun Jun 4
   Belarus              v Mexico                2-1   @ Minsk, Soviet Union
 Thu Jun 22
@@ -116,31 +116,31 @@ Thu Jun 22
 Thu Jul 6
   Tanzania             v Zambia                2-2   @ Dar es Salaam, Tanzania
 Sat Jul 8
-  Benin                v Ghana                 2-1   @ Cotonou, Dahomey
+  Dahomey              v Ghana                 2-1   @ Cotonou, Dahomey
   Tanzania             v Zambia                2-1   @ Dar es Salaam, Tanzania
 Fri Jul 28
   Peru                 v Uruguay               0-1   @ Lima, Peru
   Peru                 v Japan                 1-0   @ Lima, Peru
 Sun Jul 30
-  Guyana               v Suriname              2-2   @ Georgetown, Guyana
+  British Guiana       v Dutch Guyana          2-2   @ Georgetown, Guyana
   Peru                 v Uruguay               1-2   @ Lima, Peru
   Peru                 v Japan                 0-0   @ Lima, Peru
 Mon Jul 31
-  Guyana               v Suriname              0-1   @ Georgetown, Guyana
+  British Guiana       v Dutch Guyana          0-1   @ Georgetown, Guyana
 Tue Aug 1
   Mauritania           v Tanzania              1-1   @ Nouakchott, Mauritania
-  Niger                v Burkina Faso          2-3   @ Niamey, Niger
+  Niger                v Upper Volta           2-3   @ Niamey, Niger
 Wed Aug 2
-  DR Congo             v Ethiopia              1-0   @ Kinshasa, Congo-Kinshasa
-  Guyana               v Suriname              0-2   @ Georgetown, Guyana
+  Congo-Kinshasa       v Ethiopia              1-0   @ Kinshasa, Congo-Kinshasa
+  British Guiana       v Dutch Guyana          0-2   @ Georgetown, Guyana
 Thu Aug 10
-  DR Congo             v Mali                  2-2   @ Kinshasa, Congo-Kinshasa
+  Congo-Kinshasa       v Mali                  2-2   @ Kinshasa, Congo-Kinshasa
 Tue Aug 15
   Chile                v Argentina             1-0   @ Santiago, Chile
 Sat Aug 19
-  Kenya                v DR Congo              5-4   @ Nairobi, Kenya
+  Kenya                v Congo-Kinshasa        5-4   @ Nairobi, Kenya
 Sun Aug 20
-  Kenya                v DR Congo              1-1   @ Nairobi, Kenya
+  Kenya                v Congo-Kinshasa        1-1   @ Nairobi, Kenya
 Tue Aug 22
   Mexico               v Argentina             2-1   @ Mexico City, Mexico
 Wed Aug 23
@@ -148,7 +148,7 @@ Wed Aug 23
 Mon Aug 28
   Singapore            v Vietnam Republic      1-0   @ Kallang, Singapore
 Fri Sep 1
-  DR Congo             v Ghana                 0-2   @ Kinshasa, Congo-Kinshasa
+  Congo-Kinshasa       v Ghana                 0-2   @ Kinshasa, Congo-Kinshasa
 Wed Sep 6
   Austria              v Hungary               1-3   @ Vienna, Austria
 Tue Sep 19
@@ -160,8 +160,8 @@ Thu Sep 28
 Sat Sep 30
   Kenya                v Uganda                3-1   @ Nairobi, Kenya
 Sun Oct 1
-  Ghana                v Burkina Faso          5-2   @ Accra, Ghana
-  Russia               v Switzerland           2-2   @ Moscow, Soviet Union
+  Ghana                v Upper Volta           5-2   @ Accra, Ghana
+  Soviet Union         v Switzerland           2-2   @ Moscow, Soviet Union
 Tue Oct 3
   Tanzania             v Uganda                1-2   @ Nairobi, Kenya
 Wed Oct 4
@@ -173,7 +173,7 @@ Fri Oct 6
 Sat Oct 7
   Singapore            v Hong Kong             4-0   @ Kallang, Singapore
 Sun Oct 8
-  Bulgaria             v Russia                1-2   @ Sofia, Bulgaria
+  Bulgaria             v Soviet Union          1-2   @ Sofia, Bulgaria
 Mon Oct 9
   Kenya                v Tanzania              5-3   @ Nairobi, Kenya
 Tue Oct 10
@@ -184,7 +184,7 @@ Fri Oct 13
 Sat Oct 14
   Sierra Leone         v Nigeria               1-1   @ Freetown, Sierra Leone
 Fri Oct 20
-  Liberia              v DR Congo              1-4   @ Monrovia, Liberia
+  Liberia              v Congo-Kinshasa        1-4   @ Monrovia, Liberia
 Sat Oct 21
   Ghana                v Nigeria               2-1   @ Accra, Ghana
 Sun Oct 22
@@ -207,31 +207,31 @@ Wed Nov 8
 Sat Nov 11
   Guadeloupe           v Martinique            0-1   @ San Juan, Puerto Rico
 Sun Nov 12
-  Zimbabwe             v Malawi                1-0   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Malawi                1-0   @ Salisbury, Southern Rhodesia
 Thu Nov 16
   Malaysia             v New Zealand           2-8   @ Kuala Lumpur, Malaysia
 Wed Nov 22
   Romania              v Germany               1-0   @ Bucharest, Romania
 Fri Nov 24
-  Benin                v DR Congo              2-5   @ Cotonou, Dahomey
+  Dahomey              v Congo-Kinshasa        2-5   @ Cotonou, Dahomey
 Sat Nov 25
-  Zimbabwe             v Mauritius             1-2   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Mauritius             1-2   @ Salisbury, Southern Rhodesia
 Sun Nov 26
-  Burkina Faso         v Ivory Coast           3-2   @ Ouagadougou, Upper Volta
+  Upper Volta          v Ivory Coast           3-2   @ Ouagadougou, Upper Volta
   Iran                 v Turkey                0-1   @ Dhaka, Pakistan
   Trinidad and Tobago  v Jamaica               1-0   @ San Fernando, Trinidad and Tobago
-  Zimbabwe             v Mauritius             2-3   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Mauritius             2-3   @ Salisbury, Southern Rhodesia
 Tue Nov 28
   Pakistan             v Turkey                4-7   @ Dhaka, Pakistan
 Wed Nov 29
-  Netherlands          v Russia                3-1   @ Rotterdam, Netherlands
+  Netherlands          v Soviet Union          3-1   @ Rotterdam, Netherlands
 Sat Dec 2
   Sierra Leone         v Guinea                2-1   @ Freetown, Sierra Leone
   Trinidad and Tobago  v Jamaica               1-0   @ Port of Spain, Trinidad and Tobago
 Sun Dec 3
   Mali                 v Congo                 1-1   @ Bamako, Mali
 Wed Dec 6
-  England              v Russia                2-2   @ London, England
+  England              v Soviet Union          2-2   @ London, England
   Mauritius            v Ethiopia              0-2   @ Port Louis, Mauritius
   Mexico               v Hungary               2-1   @ Mexico City, Mexico
 Fri Dec 8
@@ -241,13 +241,13 @@ Sun Dec 10
 Wed Dec 13
   Chile                v Hungary               4-5   @ Santiago, Chile
 Sat Dec 16
-  Chile                v Russia                1-4   @ Santiago, Chile
+  Chile                v Soviet Union          1-4   @ Santiago, Chile
 Sun Dec 17
   Kenya                v Zambia                1-5   @ Nairobi, Kenya
 Sat Dec 23
   Nigeria              v Ghana                 2-2   @ Lagos, Nigeria
 Sun Dec 24
-  DR Congo             v Romania               1-1   @ Kinshasa, Congo-Kinshasa
+  Congo-Kinshasa       v Romania               1-1   @ Kinshasa, Congo-Kinshasa
 Sun Dec 31
   Ethiopia             v Kenya                 2-0   @ Addis Ababa, Ethiopia
 

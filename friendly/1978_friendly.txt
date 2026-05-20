@@ -22,17 +22,17 @@ Mon Jan 30
   Sudan                v Congo                 2-1   @ Khartoum, Sudan
 Sun Feb 5
   Gabon                v Nigeria               0-1   @ Libreville, Gabon
-  Zambia               v Eswatini              11-2   @ Lusaka, Zambia
+  Zambia               v Swaziland             11-2   @ Lusaka, Zambia
 Wed Feb 8
   Israel               v Denmark               2-0   @ Jaffa, Israel
   Italy                v France                2-2   @ Naples, Italy
 Sun Feb 12
-  Benin                v Burkina Faso          0-2   @ Porto-Novo, Benin
+  Benin                v Upper Volta           0-2   @ Porto-Novo, Benin
 Wed Feb 15
   El Salvador          v Mexico                1-5   @ San Salvador, El Salvador
   Greece               v Austria               1-1   @ Athens, Greece
 Sun Feb 19
-  Gabon                v Burkina Faso          2-2   @ Libreville, Gabon
+  Gabon                v Upper Volta           2-2   @ Libreville, Gabon
   Ghana                v Ivory Coast           3-1   @ Accra, Ghana
 Tue Feb 21
   Iraq                 v Algeria               3-0   @ Baghdad, Iraq
@@ -43,19 +43,19 @@ Wed Feb 22
 Thu Feb 23
   Iraq                 v Algeria               1-0   @ Baghdad, Iraq
 Sun Feb 26
-  Burkina Faso         v Benin                 3-0   @ Ouagadougou, Upper Volta
-  Morocco              v Russia                2-3   @ Marrakech, Morocco
+  Upper Volta          v Benin                 3-0   @ Ouagadougou, Upper Volta
+  Morocco              v Soviet Union          2-3   @ Marrakech, Morocco
   Syria                v Algeria               0-1   @ Damascus, Syria
 Mon Feb 27
   Iraq                 v North Korea           1-0   @ Baghdad, Iraq
 Tue Feb 28
   Martinique           v Antigua and Barbuda   5-0   @ Saint-Pierre, Martinique
 Thu Mar 2
-  Basque Country       v Russia                0-0   @ Bilbao, Spain
+  Basque Country       v Soviet Union          0-0   @ Bilbao, Spain
 Wed Mar 8
   France               v Portugal              2-0   @ Paris, France
   German DR            v Switzerland           3-1   @ Karl-Marx-Stadt, German DR
-  Germany              v Russia                1-0   @ Frankfurt am Main, Germany
+  Germany              v Soviet Union          1-0   @ Frankfurt am Main, Germany
 Sun Mar 12
   Lesotho              v Kenya                 0-1   @ Maseru, Lesotho
   Libya                v Algeria               1-0   @ Tripoli, Libya
@@ -82,7 +82,7 @@ Wed Apr 5
   Iran                 v Yugoslavia            0-0   @ Tehran, Iran
   Republic of Ireland  v Turkey                4-2   @ Dublin, Republic of Ireland
   Poland               v Greece                5-2   @ Poznań, Poland
-  Russia               v Finland               10-2   @ Yerevan, Soviet Union
+  Soviet Union         v Finland               10-2   @ Yerevan, Soviet Union
   Tunisia              v Netherlands           0-4   @ Tunis, Tunisia
 Tue Apr 11
   Mexico               v Peru                  0-1   @ Los Angeles, United States
@@ -128,7 +128,7 @@ Sat May 13
   Réunion              v Seychelles            4-1   @ Saint-Pierre, Réunion
 Sun May 14
   Libya                v Malta                 1-0   @ Tripoli, Libya
-  Romania              v Russia                0-1   @ Bucharest, Romania
+  Romania              v Soviet Union          0-1   @ Bucharest, Romania
 Mon May 15
   Mauritius            v Seychelles            2-0   @ Saint-Pierre, Réunion
 Wed May 17
@@ -169,7 +169,7 @@ Sun Jul 9
 Sun Jul 30
   Grenada              v Trinidad and Tobago   1-1   @ St. George's, Grenada
 Mon Aug 7
-  Vanuatu              v Tahiti                2-4   @ Port Vila, New Hebrides
+  New Hebrides         v Tahiti                2-4   @ Port Vila, New Hebrides
 Sun Aug 13
   New Caledonia        v Tahiti                2-0   @ Nouméa, New Caledonia
 Wed Aug 16
@@ -183,11 +183,11 @@ Sun Sep 3
   Iceland              v United States         0-0   @ Reykjavík, Iceland
 Wed Sep 6
   German DR            v Czechoslovakia        2-1   @ Leipzig, German DR
-  Iran                 v Russia                0-1   @ Tehran, Iran
-  Eswatini             v Zambia                1-6   @ Lobamba, Swaziland
+  Iran                 v Soviet Union          0-1   @ Tehran, Iran
+  Swaziland            v Zambia                1-6   @ Lobamba, Swaziland
   Switzerland          v United States         2-0   @ Lucerne, Switzerland
 Thu Sep 7
-  Eswatini             v Zambia                2-5   @ Lobamba, Swaziland
+  Swaziland            v Zambia                2-5   @ Lobamba, Swaziland
 Sat Sep 9
   French Guiana        v Martinique            4-2   @ Cayenne, French Guiana
 Sun Sep 17
@@ -205,7 +205,7 @@ Sun Oct 1
   Botswana             v Mozambique            0-2   @ Gaborone, Botswana
   Singapore            v New Zealand           0-2   @ Kallang, Singapore
 Thu Oct 5
-  Turkey               v Russia                0-2   @ Ankara, Turkey
+  Turkey               v Soviet Union          0-2   @ Ankara, Turkey
 Wed Oct 11
   Czechoslovakia       v Germany               3-4   @ Prague, Czechoslovakia
   Romania              v Poland                1-0   @ Bucharest, Romania
@@ -223,21 +223,21 @@ Wed Nov 8
   Czechoslovakia       v Italy                 3-0   @ Bratislava, Czechoslovakia
   France               v Spain                 1-0   @ Paris, France
 Sat Nov 11
-  Burkina Faso         v Mali                  3-1   @ Ouagadougou, Upper Volta
+  Upper Volta          v Mali                  3-1   @ Ouagadougou, Upper Volta
 Wed Nov 15
   Germany              v Hungary               0-0   @ Frankfurt am Main, Germany
   Israel               v Belgium               1-0   @ Jaffa, Israel
 Fri Nov 17
   Algeria              v Congo                 3-0   @ Constantine, Algeria
 Sun Nov 19
-  Japan                v Russia                1-4   @ Tokyo, Japan
+  Japan                v Soviet Union          1-4   @ Tokyo, Japan
 Thu Nov 23
-  Japan                v Russia                1-4   @ Tokyo, Japan
+  Japan                v Soviet Union          1-4   @ Tokyo, Japan
 Sat Nov 25
   Grenada              v Barbados              2-0   @ St. George's, Grenada
 Sun Nov 26
   Grenada              v Barbados              0-0   @ St. George's, Grenada
-  Japan                v Russia                0-3   @ Osaka, Japan
+  Japan                v Soviet Union          0-3   @ Osaka, Japan
 Wed Nov 29
   England              v Czechoslovakia        1-0   @ London, England
 Tue Dec 12

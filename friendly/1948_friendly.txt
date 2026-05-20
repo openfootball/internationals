@@ -5,12 +5,12 @@
 # Matches    67
 
 Fri Mar 12
-  Suriname             v Trinidad and Tobago   0-2   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Trinidad and Tobago   0-2   @ Paramaribo, Dutch Guyana
 Sun Mar 14
   Belgium              v Netherlands           1-1   @ Antwerp, Belgium
-  Suriname             v Trinidad and Tobago   0-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Trinidad and Tobago   0-0   @ Paramaribo, Dutch Guyana
 Tue Mar 16
-  Suriname             v Trinidad and Tobago   1-0   @ Paramaribo, Dutch Guyana
+  Dutch Guyana         v Trinidad and Tobago   1-0   @ Paramaribo, Dutch Guyana
 Sun Mar 21
   Spain                v Portugal              2-0   @ Madrid, Spain
 Sun Apr 4
@@ -30,16 +30,16 @@ Mon May 17
   Switzerland          v Scotland              2-1   @ Bern, Switzerland
 Sun May 23
   France               v Scotland              3-0   @ Colombes, France
-  Portugal             v Republic of Ireland   2-0   @ Oeiras, Portugal
+  Portugal             v Éire                  2-0   @ Oeiras, Portugal
 Tue May 25
-  DR Congo             v Zambia                2-3   @ Brazzaville, Belgian Congo
+  Belgian Congo        v Northern Rhodesia     2-3   @ Brazzaville, Belgian Congo
 Wed May 26
   Norway               v Netherlands           1-2   @ Oslo, Norway
 Sun May 30
-  Spain                v Republic of Ireland   2-1   @ Barcelona, Spain
+  Spain                v Éire                  2-1   @ Barcelona, Spain
   Turkey               v Austria               0-1   @ Istanbul, Turkey
 Tue Jun 1
-  Djibouti             v Ethiopia              1-2   @ Djibouti, French Somaliland
+  French Somaliland    v Ethiopia              1-2   @ Djibouti, French Somaliland
 Sun Jun 6
   Belgium              v France                4-2   @ Brussels, Belgium
 Wed Jun 9
@@ -67,9 +67,9 @@ Mon Aug 2
 Fri Aug 6
   Norway               v United States         11-0   @ Oslo, Norway
 Wed Aug 11
-  Northern Ireland     v United States         5-0   @ Belfast, Northern Ireland
+  Ireland              v United States         5-0   @ Belfast, Northern Ireland
 Fri Aug 27
-  Zimbabwe             v Zambia                4-0   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Northern Rhodesia     4-0   @ Salisbury, Southern Rhodesia
 Wed Sep 1
   Martinique           v Dominica              5-0   @ Fort-de-France, Martinique
 Sat Sep 11
@@ -77,19 +77,19 @@ Sat Sep 11
 Wed Sep 22
   Kenya                v Zanzibar              3-1   @ Kampala, Uganda
 Thu Sep 23
-  Uganda               v Tanzania              6-0   @ Kampala, Uganda
+  Uganda               v Tanganyika            6-0   @ Kampala, Uganda
 Sat Sep 25
   Uganda               v Kenya                 2-1   @ Kampala, Uganda
 Sun Sep 26
   Denmark              v England               0-0   @ Copenhagen, Denmark
-  French Guiana        v Suriname              2-4   @ Cayenne, French Guiana
+  French Guiana        v Dutch Guyana          2-4   @ Cayenne, French Guiana
   United States        v Israel                3-1   @ East Rutherford, United States
 Fri Oct 1
-  Suriname             v Guyana                3-0   @ Cayenne, French Guiana
+  Dutch Guyana         v British Guiana        3-0   @ Cayenne, French Guiana
 Sun Oct 3
   Hungary              v Austria               2-1   @ Budapest, Hungary
 Sun Oct 10
-  French Guiana        v Guyana                3-2   @ Cayenne, French Guiana
+  French Guiana        v British Guiana        3-2   @ Cayenne, French Guiana
 Mon Oct 11
   Jamaica              v Haiti                 1-0   @ Kingston, Jamaica
 Wed Oct 13
@@ -116,13 +116,13 @@ Sun Nov 28
 Thu Dec 2
   England              v Switzerland           6-0   @ London, England
 Sun Dec 5
-  Republic of Ireland  v Switzerland           0-1   @ Dublin, Éire
+  Éire                 v Switzerland           0-1   @ Dublin, Éire
 Thu Dec 16
   Dominica             v Martinique            0-6   @ Basse-Terre, Guadeloupe
   Guadeloupe           v Haiti                 1-0   @ Pointe-à-Pitre, Guadeloupe
 Sat Dec 18
   Guadeloupe           v French Guiana         7-2   @ Pointe-à-Pitre, Guadeloupe
-  Martinique           v Suriname              4-3   @ Basse-Terre, Guadeloupe
+  Martinique           v Dutch Guyana          4-3   @ Basse-Terre, Guadeloupe
 Mon Dec 20
   Guadeloupe           v Martinique            3-0   @ Pointe-à-Pitre, Guadeloupe
 Fri Dec 24

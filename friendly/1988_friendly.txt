@@ -56,7 +56,7 @@ Wed Feb 17
 Thu Feb 18
   Bermuda              v Canada                0-0   @ Hamilton, Bermuda
 Sat Feb 20
-  Italy                v Russia                4-1   @ Bari, Italy
+  Italy                v Soviet Union          4-1   @ Bari, Italy
 Tue Feb 23
   United Arab Emirates v Egypt                 1-2   @ Dubai, United Arab Emirates
 Wed Feb 24
@@ -85,7 +85,7 @@ Wed Mar 23
   Bulgaria             v Czechoslovakia        2-0   @ Sofia, Bulgaria
   England              v Netherlands           2-2   @ London, England
   France               v Spain                 2-1   @ Bordeaux, France
-  Greece               v Russia                0-4   @ Athens, Greece
+  Greece               v Soviet Union          0-4   @ Athens, Greece
   Republic of Ireland  v Romania               2-0   @ Dublin, Republic of Ireland
   Northern Ireland     v Poland                1-1   @ Belfast, Northern Ireland
   Wales                v Yugoslavia            1-2   @ Swansea, Wales
@@ -115,7 +115,7 @@ Tue Apr 26
   Mexico               v Honduras              4-1   @ Ciudad Victoria, Mexico
 Wed Apr 27
   Austria              v Denmark               1-0   @ Vienna, Austria
-  Czechoslovakia       v Russia                1-1   @ Trnava, Czechoslovakia
+  Czechoslovakia       v Soviet Union          1-1   @ Trnava, Czechoslovakia
   Germany              v Switzerland           1-0   @ Kaiserslautern, Germany
   Hungary              v England               0-0   @ Budapest, Hungary
   Republic of Ireland  v Yugoslavia            2-0   @ Dublin, Republic of Ireland
@@ -153,7 +153,7 @@ Wed Jun 1
   Malta                v Wales                 2-3   @ Attard, Malta
   Netherlands          v Romania               2-0   @ Amsterdam, Netherlands
   Norway               v Republic of Ireland   0-0   @ Oslo, Norway
-  Russia               v Poland                2-1   @ Moscow, Soviet Union
+  Soviet Union         v Poland                2-1   @ Moscow, Soviet Union
   Spain                v Sweden                1-3   @ Salamanca, Spain
   United States        v Chile                 1-1   @ Stockton, United States
 Fri Jun 3
@@ -190,10 +190,10 @@ Thu Jun 23
 Wed Jun 29
   Hong Kong            v Saudi Arabia          0-3   @ Melbourne, Australia
 Fri Jul 1
-  Curaçao              v Costa Rica            1-1   @ Willemstad, Curaçao
+  Netherlands Antilles v Costa Rica            1-1   @ Willemstad, Curaçao
   Hong Kong            v Saudi Arabia          0-1   @ Melbourne, Australia
 Sun Jul 3
-  Curaçao              v Costa Rica            1-0   @ Willemstad, Curaçao
+  Netherlands Antilles v Costa Rica            1-0   @ Willemstad, Curaçao
 Wed Jul 6
   Argentina            v Saudi Arabia          2-2   @ Adelaide, Australia
   Malawi               v Zambia                1-0   @ Blantyre, Malawi
@@ -235,7 +235,7 @@ Sun Aug 7
 Tue Aug 9
   Norway               v Bulgaria              1-1   @ Oslo, Norway
 Wed Aug 17
-  Finland              v Russia                0-0   @ Turku, Finland
+  Finland              v Soviet Union          0-0   @ Turku, Finland
 Wed Aug 24
   France               v Czechoslovakia        1-1   @ Paris, France
   Iceland              v Faroe Islands         1-0   @ Akranes, Iceland
@@ -261,14 +261,14 @@ Tue Sep 20
   Romania              v Albania               3-0   @ Constanţa, Romania
 Wed Sep 21
   German DR            v Poland                1-2   @ Cottbus, German DR
-  Germany              v Russia                1-0   @ Düsseldorf, Germany
+  Germany              v Soviet Union          1-0   @ Düsseldorf, Germany
   Iceland              v Hungary               0-3   @ Reykjavík, Iceland
   Peru                 v Paraguay              0-1   @ Lima, Peru
   Turkey               v Greece                3-1   @ Istanbul, Turkey
 Sun Sep 25
   El Salvador          v Honduras              0-0   @ Los Angeles, United States
 Mon Sep 26
-  Curaçao              v Venezuela             0-0   @ Willemstad, Curaçao
+  Netherlands Antilles v Venezuela             0-0   @ Willemstad, Curaçao
   Malawi               v Mozambique            1-1   @ Blantyre, Malawi
 Tue Sep 27
   Ecuador              v Uruguay               1-2   @ Asunción, Paraguay
@@ -314,7 +314,7 @@ Wed Nov 9
   Indonesia            v Qatar                 0-1   @ Jakarta, Indonesia
 Sun Nov 13
   Algeria              v Mali                  7-0   @ Algiers, Algeria
-  DR Congo             v Congo                 1-0   @ Kinshasa, Zaïre
+  Zaïre                v Congo                 1-0   @ Kinshasa, Zaïre
 Mon Nov 14
   Fiji                 v New Zealand           1-1   @ Suva, Fiji
   Saudi Arabia         v Egypt                 0-0   @ Riyadh, Saudi Arabia
@@ -336,9 +336,9 @@ Sat Nov 19
 Sun Nov 20
   United Arab Emirates v Jordan                3-2   @ Dubai, United Arab Emirates
 Mon Nov 21
-  Syria                v Russia                0-2   @ Damascus, Syria
+  Syria                v Soviet Union          0-2   @ Damascus, Syria
 Wed Nov 23
-  Kuwait               v Russia                0-1   @ Kuwait City, Kuwait
+  Kuwait               v Soviet Union          0-1   @ Kuwait City, Kuwait
   Malta                v Cyprus                1-1   @ Attard, Malta
   Romania              v Israel                3-0   @ Sibiu, Romania
 Thu Nov 24
@@ -348,7 +348,7 @@ Fri Nov 25
 Sat Nov 26
   Liberia              v Sierra Leone          0-0   @ Monrovia, Liberia
 Sun Nov 27
-  Kuwait               v Russia                0-2   @ Kuwait City, Kuwait
+  Kuwait               v Soviet Union          0-2   @ Kuwait City, Kuwait
   Liberia              v Guinea                0-1   @ Monrovia, Liberia
 Tue Nov 29
   Saudi Arabia         v Tunisia               1-0   @ Khobar, Saudi Arabia
@@ -370,5 +370,5 @@ Thu Dec 22
   Italy                v Scotland              2-0   @ Perugia, Italy
   Morocco              v Guinea                1-0   @ Rabat, Morocco
 Fri Dec 30
-  DR Congo             v Angola                0-0   @ Kinshasa, Zaïre
+  Zaïre                v Angola                0-0   @ Kinshasa, Zaïre
 

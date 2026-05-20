@@ -19,9 +19,9 @@ Wed Jan 25
   Greece               v Portugal              1-2   @ Athens, Greece
 Sun Jan 29
   Ecuador              v Chile                 1-0   @ Guayaquil, Ecuador
-  Senegal              v DR Congo              1-1   @ Dakar, Senegal
+  Senegal              v Zaïre                 1-1   @ Dakar, Senegal
 Tue Jan 31
-  Senegal              v DR Congo              2-1   @ Dakar, Senegal
+  Senegal              v Zaïre                 2-1   @ Dakar, Senegal
 Wed Feb 1
   Chile                v Peru                  0-0   @ Armenia, Colombia
 Fri Feb 3
@@ -41,7 +41,7 @@ Mon Feb 13
 Tue Feb 14
   Mexico               v Poland                3-1   @ Puebla, Mexico
 Tue Feb 21
-  Bulgaria             v Russia                1-2   @ Sofia, Bulgaria
+  Bulgaria             v Soviet Union          1-2   @ Sofia, Bulgaria
   Costa Rica           v El Salvador           1-1   @ Los Angeles, United States
   Guatemala            v Mexico                1-2   @ Los Angeles, United States
 Wed Feb 22
@@ -70,7 +70,7 @@ Wed Mar 22
   Algeria              v Morocco               1-1   @ Bejaia, Algeria
   Bulgaria             v Germany               1-2   @ Sofia, Bulgaria
   German DR            v Finland               1-1   @ Dresden, German DR
-  Netherlands          v Russia                2-0   @ Eindhoven, Netherlands
+  Netherlands          v Soviet Union          2-0   @ Eindhoven, Netherlands
   Trinidad and Tobago  v Paraguay              1-1   @ Arima, Trinidad and Tobago
 Sat Mar 25
   Austria              v Italy                 0-1   @ Vienna, Austria
@@ -93,9 +93,9 @@ Fri Mar 31
   Aruba                v Trinidad and Tobago   0-7   @ Willemstad, Curaçao
   Ethiopia             v Zambia                0-1   @ Addis Ababa, Ethiopia
 Sat Apr 1
-  Curaçao              v Trinidad and Tobago   1-1   @ Willemstad, Curaçao
+  Netherlands Antilles v Trinidad and Tobago   1-1   @ Willemstad, Curaçao
 Sun Apr 2
-  Curaçao              v Aruba                 1-0   @ Willemstad, Curaçao
+  Netherlands Antilles v Aruba                 1-0   @ Willemstad, Curaçao
   Ethiopia             v Zambia                2-2   @ Addis Ababa, Ethiopia
 Tue Apr 4
   Algeria              v Tunisia               2-0   @ Algiers, Algeria
@@ -166,13 +166,13 @@ Wed May 31
   Norway               v Austria               4-1   @ Oslo, Norway
   Sweden               v Algeria               2-0   @ Örebro, Sweden
 Thu Jun 1
-  Ivory Coast          v DR Congo              1-1   @ Abidjan, Ivory Coast
+  Ivory Coast          v Zaïre                 1-1   @ Abidjan, Ivory Coast
   Paraguay             v Bolivia               2-0   @ Asunción, Paraguay
 Sat Jun 3
   Egypt                v Chile                 2-0   @ Cairo, Egypt
   Malawi               v Tunisia               1-0   @ Lilongwe, Malawi
 Sun Jun 4
-  Gabon                v DR Congo              0-0   @ Libreville, Gabon
+  Gabon                v Zaïre                 0-0   @ Libreville, Gabon
 Wed Jun 7
   Denmark              v England               1-1   @ Copenhagen, Denmark
 Thu Jun 8
@@ -210,7 +210,7 @@ Fri Jul 7
 Sun Jul 9
   Malawi               v Mozambique            0-1   @ Blantyre, Malawi
 Mon Jul 10
-  Kenya                v DR Congo              0-1   @ Nairobi, Kenya
+  Kenya                v Zaïre                 0-1   @ Nairobi, Kenya
 Tue Jul 11
   Malawi               v Mozambique            0-2   @ Mzuzu, Malawi
 Sun Jul 23
@@ -230,7 +230,7 @@ Wed Aug 23
   Finland              v Yugoslavia            2-2   @ Kuopio, Finland
   German DR            v Bulgaria              1-1   @ Erfurt, German DR
   Norway               v Greece                0-0   @ Oslo, Norway
-  Poland               v Russia                1-1   @ Lubin, Poland
+  Poland               v Soviet Union          1-1   @ Lubin, Poland
 Thu Aug 31
   Portugal             v Romania               0-0   @ Setúbal, Portugal
 Fri Sep 1

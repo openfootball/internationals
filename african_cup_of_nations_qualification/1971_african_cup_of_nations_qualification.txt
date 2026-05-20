@@ -1,11 +1,11 @@
 = African Cup of Nations qualification 1971
 
 # Date       Sun Jan 3 - Wed Oct 27 1971 (297d)
-# Teams      14
+# Teams      15
 # Matches    15
 
 Sun Jan 3
-  Egypt                v Libya                 2-1   @ Cairo, Egypt
+  United Arab Republic v Libya                 2-1   @ Cairo, Egypt
 Sun Jul 4
   Kenya                v Mauritius             2-1   @ Nairobi, Kenya
 Sun Jul 18
@@ -16,14 +16,14 @@ Wed Sep 1
   Senegal              v Guinea                0-0   @ Dakar, Senegal
 Wed Oct 13
   Morocco              v Egypt                 3-0   @ Casablanca, Morocco
-  Zambia               v DR Congo              2-1   @ Ndola, Zambia
+  Zambia               v Zaïre                 2-1   @ Ndola, Zambia
   Togo                 v Ghana                 0-0   @ Lomé, Togo
   Ivory Coast          v Congo                 3-2   @ Abidjan, Ivory Coast
   Guinea               v Mali                  0-0   @ Conakry, Guinea
 Wed Oct 27
   Egypt                v Morocco               3-2   @ Cairo, Egypt
   Ghana                v Togo                  0-1   @ Accra, Ghana
-  DR Congo             v Zambia                3-0   @ Kinshasa, Zaïre
+  Zaïre                v Zambia                3-0   @ Kinshasa, Zaïre
   Congo                v Ivory Coast           2-0   @ Brazzaville, Congo
   Mali                 v Guinea                3-1   @ Bamako, Mali
 

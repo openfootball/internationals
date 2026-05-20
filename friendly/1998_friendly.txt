@@ -15,7 +15,7 @@ Wed Jan 7
   Burkina Faso         v Mozambique            4-2   @ Ouagadougou, Burkina Faso
   Trinidad and Tobago  v Jamaica               0-0   @ Port of Spain, Trinidad and Tobago
 Sat Jan 10
-  Eswatini             v Botswana              1-1   @ Mbabane, Swaziland
+  Swaziland            v Botswana              1-1   @ Mbabane, Swaziland
 Sun Jan 11
   Burkina Faso         v Mali                  0-0   @ Ouagadougou, Burkina Faso
   Togo                 v Mozambique            1-2   @ Lomé, Togo
@@ -40,7 +40,7 @@ Wed Jan 28
   Cameroon             v Angola                1-0   @ Garoua, Cameroon
   France               v Spain                 1-0   @ Saint-Denis, France
   Italy                v Slovakia              3-0   @ Catania, Italy
-  Tunisia              v Serbia                0-3   @ Tunis, Tunisia
+  Tunisia              v FR Yugoslavia         0-3   @ Tunis, Tunisia
 Thu Jan 29
   Ivory Coast          v Mozambique            4-1   @ Bouaké, Ivory Coast
   Jamaica              v Sweden                0-0   @ Kingston, Jamaica
@@ -79,7 +79,7 @@ Sun Feb 22
   Jamaica              v Nigeria               2-2   @ Kingston, Jamaica
   Saudi Arabia         v Germany               0-3   @ Riyadh, Saudi Arabia
 Tue Feb 24
-  Argentina            v Serbia                3-1   @ Mar del Plata, Argentina
+  Argentina            v FR Yugoslavia         3-1   @ Mar del Plata, Argentina
   Mexico               v Netherlands           2-3   @ Miami Gardens, United States
 Wed Feb 25
   Belgium              v United States         2-0   @ Brussels, Belgium
@@ -104,10 +104,10 @@ Sun Mar 22
 Wed Mar 25
   Austria              v Hungary               2-3   @ Vienna, Austria
   Belgium              v Norway                2-2   @ Brussels, Belgium
-  Colombia             v Serbia                0-0   @ Bogotá, Colombia
+  Colombia             v FR Yugoslavia         0-0   @ Bogotá, Colombia
   Czech Republic       v Republic of Ireland   2-1   @ Olomouc, Czech Republic
   Germany              v Brazil                1-2   @ Stuttgart, Germany
-  North Macedonia      v Bulgaria              1-0   @ Skopje, North Macedonia
+  Macedonia            v Bulgaria              1-0   @ Skopje, North Macedonia
   Malta                v Finland               0-2   @ Attard, Malta
   Northern Ireland     v Slovakia              1-0   @ Belfast, Northern Ireland
   Poland               v Slovenia              2-0   @ Warsaw, Poland
@@ -130,10 +130,10 @@ Wed Apr 15
   Mexico               v Peru                  1-0   @ Los Angeles, United States
   Slovakia             v South Korea           0-0   @ Bratislava, Slovakia
 Sat Apr 18
-  North Macedonia      v South Korea           2-2   @ Skopje, North Macedonia
+  Macedonia            v South Korea           2-2   @ Skopje, North Macedonia
 Mon Apr 20
   Iran                 v Hungary               0-2   @ Tehran, Iran
-  Jamaica              v North Macedonia       1-2   @ Tehran, Iran
+  Jamaica              v Macedonia             1-2   @ Tehran, Iran
 Wed Apr 22
   Austria              v United States         0-3   @ Vienna, Austria
   Belgium              v Romania               1-1   @ Brussels, Belgium
@@ -143,14 +143,14 @@ Wed Apr 22
   Denmark              v Norway                0-2   @ Copenhagen, Denmark
   England              v Portugal              3-0   @ London, England
   Germany              v Nigeria               1-0   @ Cologne, Germany
-  Hungary              v North Macedonia       0-0   @ Tehran, Iran   [Hungary wins on penalties]
+  Hungary              v Macedonia             0-0   @ Tehran, Iran
   Iran                 v Jamaica               1-0   @ Tehran, Iran
   Republic of Ireland  v Argentina             0-2   @ Dublin, Republic of Ireland
   Italy                v Paraguay              3-1   @ Parma, Italy
   Northern Ireland     v Switzerland           1-0   @ Belfast, Northern Ireland
   Russia               v Turkey                1-0   @ Moscow, Russia
   Scotland             v Finland               1-1   @ Edinburgh, Scotland
-  Serbia               v South Korea           3-1   @ Belgrade, FR Yugoslavia
+  FR Yugoslavia        v South Korea           3-1   @ Belgrade, FR Yugoslavia
   Slovenia             v Czech Republic        1-3   @ Murska Sobota, Slovenia
   Sweden               v France                0-0   @ Solna, Sweden
 Fri Apr 24
@@ -173,12 +173,12 @@ Thu May 14
 Sat May 16
   Estonia              v Azerbaijan            0-0   @ Viljandi, Estonia
   South Korea          v Jamaica               2-1   @ Seoul, South Korea
-  United States        v North Macedonia       0-0   @ San Jose, United States
+  United States        v Macedonia             0-0   @ San Jose, United States
 Sun May 17
   Latvia               v Israel                1-5   @ Riga, Latvia
   Saudi Arabia         v Namibia               2-1   @ Cannes, France
 Mon May 18
-  Canada               v North Macedonia       1-0   @ Toronto, Canada
+  Canada               v Macedonia             1-0   @ Toronto, Canada
 Tue May 19
   Argentina            v Chile                 1-0   @ Mendoza, Argentina
   Cameroon             v Burkina Faso          2-0   @ Yaoundé, Cameroon
@@ -207,7 +207,7 @@ Wed May 27
 Thu May 28
   Sweden               v Denmark               3-0   @ Malmö, Sweden
 Fri May 29
-  Serbia               v Nigeria               3-0   @ Belgrade, FR Yugoslavia
+  FR Yugoslavia        v Nigeria               3-0   @ Belgrade, FR Yugoslavia
 Sat May 30
   Georgia              v Russia                1-1   @ Tbilisi, Georgia
   Germany              v Colombia              3-1   @ Frankfurt am Main, Germany
@@ -225,11 +225,11 @@ Wed Jun 3
   Andorra              v Brazil                0-3   @ Saint-Ouen, France
   Belgium              v Colombia              2-0   @ Brussels, Belgium
   Croatia              v Iran                  2-0   @ Rijeka, Croatia
-  North Macedonia      v Bosnia and Herzegovina  1-1   @ Skopje, North Macedonia
+  Macedonia            v Bosnia and Herzegovina  1-1   @ Skopje, North Macedonia
   Malta                v Wales                 0-3   @ Attard, Malta
   Romania              v Paraguay              3-2   @ Bucharest, Romania
   Saudi Arabia         v Mexico                0-0   @ Créteil, France
-  Serbia               v Japan                 1-0   @ Lausanne, Switzerland
+  FR Yugoslavia        v Japan                 1-0   @ Lausanne, Switzerland
   Spain                v Northern Ireland      4-1   @ Santander, Spain
 Thu Jun 4
   Chile                v Morocco               1-1   @ Avignon, France
@@ -246,7 +246,7 @@ Sat Jun 6
   Iceland              v South Africa          1-1   @ Baiersbronn, Germany
   Kenya                v Seychelles            1-1   @ Nairobi, Kenya
   Romania              v Moldova               5-1   @ Ploiești, Romania
-  Switzerland          v Serbia                1-1   @ Basel, Switzerland
+  Switzerland          v FR Yugoslavia         1-1   @ Basel, Switzerland
   Tunisia              v Wales                 4-0   @ Tunis, Tunisia
 Sun Jun 7
   Belarus              v Lithuania             5-0   @ Minsk, Belarus
@@ -332,11 +332,11 @@ Mon Aug 31
 Wed Sep 2
   Malta                v Germany               1-2   @ Attard, Malta
   Morocco              v Senegal               2-0   @ Tangier, Morocco
-  Serbia               v Switzerland           1-1   @ Niš, FR Yugoslavia
+  FR Yugoslavia        v Switzerland           1-1   @ Niš, FR Yugoslavia
 Sat Sep 5
   Germany              v Romania               1-1   @ Attard, Malta
 Sun Sep 6
-  Eswatini             v Ghana                 0-1   @ Mbabane, Swaziland
+  Swaziland            v Ghana                 0-1   @ Mbabane, Swaziland
   Togo                 v Benin                 0-1   @ Lomé, Togo
 Wed Sep 9
   Kuwait               v Lebanon               0-0   @ Kuwait City, Kuwait
@@ -366,7 +366,7 @@ Sun Sep 20
 Tue Sep 22
   Oman                 v Zambia                2-0   @ Muscat, Oman
 Wed Sep 23
-  Brazil               v Serbia                1-1   @ São Luís, Brazil
+  Brazil               v FR Yugoslavia         1-1   @ São Luís, Brazil
   Estonia              v Egypt                 2-2   @ Tallinn, Estonia
   Spain                v Russia                1-0   @ Granada, Spain
 Thu Sep 24
@@ -374,7 +374,7 @@ Thu Sep 24
 Sun Sep 27
   Mali                 v Burkina Faso          1-0   @ Bamako, Mali
 Tue Sep 29
-  North Macedonia      v Egypt                 2-2   @ Kumanovo, North Macedonia
+  Macedonia            v Egypt                 2-2   @ Kumanovo, North Macedonia
 Sat Oct 3
   Bahrain              v Sudan                 2-3   @ Manama, Bahrain
 Sat Oct 10
@@ -448,7 +448,7 @@ Tue Dec 22
   Catalonia            v Nigeria               5-0   @ Barcelona, Spain
   Canary Islands       v Latvia                4-0   @ Las Palmas, Spain
 Wed Dec 23
-  Israel               v Serbia                2-0   @ Ramat Gan, Israel
+  Israel               v FR Yugoslavia         2-0   @ Ramat Gan, Israel
 Sun Dec 27
   Kuwait               v Egypt                 1-1   @ Kuwait City, Kuwait
 

@@ -97,7 +97,7 @@ Wed Feb 29
   Italy                v United States         0-1   @ Genoa, Italy
   Ivory Coast          v Guinea                0-0   @ Abidjan, Ivory Coast
   Latvia               v Kazakhstan            0-0   @ Antalya, Turkey
-  Luxembourg           v North Macedonia       2-1   @ Luxembourg, Luxembourg
+  Luxembourg           v Macedonia             2-1   @ Luxembourg, Luxembourg
   Malta                v Liechtenstein         2-1   @ Attard, Malta
   Mexico               v Colombia              0-2   @ Miami Gardens, United States
   Moldova              v Belarus               0-0   @ Antalya, Turkey
@@ -202,7 +202,7 @@ Sat May 26
   Netherlands          v Bulgaria              1-2   @ Amsterdam, Netherlands
   Norway               v England               0-1   @ Oslo, Norway
   Poland               v Slovakia              1-0   @ Klagenfurt, Austria
-  Portugal             v North Macedonia       0-0   @ Leiria, Portugal
+  Portugal             v Macedonia             0-0   @ Leiria, Portugal
   Spain                v Serbia                2-0   @ St. Gallen, Switzerland
   Switzerland          v Germany               5-3   @ Basel, Switzerland
   Tanzania             v Malawi                0-0   @ Dar es Salaam, Tanzania
@@ -220,7 +220,7 @@ Mon May 28
   Qatar                v Palestine             0-0   @ Doha, Qatar
   Ukraine              v Estonia               4-0   @ Kufstein, Austria
 Tue May 29
-  Angola               v North Macedonia       0-0   @ Cascais, Portugal
+  Angola               v Macedonia             0-0   @ Cascais, Portugal
   Bulgaria             v Turkey                0-2   @ Salzburg, Austria
   Lithuania            v Russia                0-0   @ Nyon, Switzerland
 Wed May 30
@@ -344,7 +344,7 @@ Wed Aug 15
   Jordan               v Uzbekistan            2-0   @ Amman, Jordan
   South Korea          v Zambia                2-1   @ Anyang, South Korea
   Luxembourg           v Georgia               1-2   @ Differdange, Luxembourg
-  North Macedonia      v Lithuania             1-0   @ Skopje, North Macedonia
+  Macedonia            v Lithuania             1-0   @ Skopje, North Macedonia
   Mexico               v United States         0-1   @ Mexico City, Mexico
   Montenegro           v Latvia                2-0   @ Podgorica, Montenegro
   Morocco              v Guinea                1-2   @ Rabat, Morocco
@@ -419,13 +419,13 @@ Fri Oct 12
   Bahrain              v Philippines           0-0   @ Arad, Bahrain
   Egypt                v Congo                 3-0   @ Sharjah, United Arab Emirates
   France               v Japan                 0-1   @ Saint-Denis, France
-  Lesotho              v Eswatini              2-1   @ Maseru, Lesotho
+  Lesotho              v Swaziland             2-1   @ Maseru, Lesotho
   Poland               v South Africa          1-0   @ Warsaw, Poland
   United Arab Emirates v Uzbekistan            2-2   @ Dubai, United Arab Emirates
 Sat Oct 13
   Namibia              v Rwanda                0-0   @ Windhoek, Namibia
 Sun Oct 14
-  Lesotho              v Eswatini              0-1   @ Maseru, Lesotho
+  Lesotho              v Swaziland             0-1   @ Maseru, Lesotho
   Saudi Arabia         v Congo                 3-2   @ Al Hofuf, Saudi Arabia
 Tue Oct 16
   Colombia             v Cameroon              3-0   @ Barranquilla, Colombia
@@ -450,7 +450,7 @@ Thu Nov 8
   Bahrain              v Jordan                3-0   @ Arad, Bahrain
   Oman                 v Estonia               1-2   @ Muscat, Oman
 Sun Nov 11
-  Eswatini             v Lesotho               0-0   @ Lobamba, Swaziland
+  Swaziland            v Lesotho               0-0   @ Lobamba, Swaziland
 Wed Nov 14
   Albania              v Cameroon              0-0   @ Geneva, Switzerland
   Algeria              v Bosnia and Herzegovina  0-1   @ Algiers, Algeria
@@ -478,7 +478,7 @@ Wed Nov 14
   Kuwait               v Bahrain               1-1   @ Kuwait City, Kuwait
   Liechtenstein        v Malta                 0-1   @ Vaduz, Liechtenstein
   Luxembourg           v Scotland              1-2   @ Luxembourg, Luxembourg
-  North Macedonia      v Slovenia              3-2   @ Skopje, North Macedonia
+  Macedonia            v Slovenia              3-2   @ Skopje, North Macedonia
   Malaysia             v Hong Kong             1-1   @ Shah Alam, Malaysia
   Morocco              v Togo                  0-1   @ Casablanca, Morocco
   Netherlands          v Germany               0-0   @ Amsterdam, Netherlands
@@ -515,7 +515,7 @@ Sat Nov 24
 Thu Nov 29
   Palestine            v Bahrain               0-2   @ Al Wakrah, Qatar
 Fri Dec 14
-  North Macedonia      v Poland                1-4   @ Antalya, Turkey
+  Macedonia            v Poland                1-4   @ Antalya, Turkey
 Sat Dec 15
   Angola               v Gambia                1-1   @ Benguela, Angola
 Wed Dec 19

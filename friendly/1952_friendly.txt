@@ -9,9 +9,9 @@ Sat Feb 2
 Sun Feb 3
   Curaçao              v Aruba                 3-1   @ Willemstad, Curaçao
 Thu Feb 14
-  Aruba                v Suriname              2-1   @ Oranjestad, Aruba
+  Aruba                v Dutch Guyana          2-1   @ Oranjestad, Aruba
 Sun Feb 17
-  Guyana               v Suriname              0-9   @ Oranjestad, Aruba
+  British Guiana       v Dutch Guyana          0-9   @ Oranjestad, Aruba
 Sun Feb 24
   Belgium              v Italy                 2-0   @ Brussels, Belgium
 Wed Mar 12
@@ -19,18 +19,18 @@ Wed Mar 12
 Thu Mar 13
   Martinique           v Guadeloupe            1-2   @ Fort-de-France, Martinique
 Fri Mar 14
-  Myanmar              v India                 0-4   @ Colombo, Ceylon
+  Burma                v India                 0-4   @ Colombo, Ceylon
 Tue Mar 18
-  Myanmar              v Pakistan              0-1   @ Colombo, Ceylon
+  Burma                v Pakistan              0-1   @ Colombo, Ceylon
 Sun Mar 23
   Austria              v Belgium               2-0   @ Vienna, Austria
   India                v Pakistan              0-0   @ Colombo, Ceylon
 Mon Mar 24
-  Sri Lanka            v India                 1-2   @ Colombo, Ceylon
+  Ceylon               v India                 1-2   @ Colombo, Ceylon
 Wed Mar 26
   France               v Sweden                0-1   @ Paris, France
 Fri Mar 28
-  Sri Lanka            v Pakistan              0-2   @ Colombo, Ceylon
+  Ceylon               v Pakistan              0-2   @ Colombo, Ceylon
 Sun Apr 6
   Belgium              v Netherlands           4-2   @ Antwerp, Belgium
 Sun Apr 20
@@ -39,9 +39,9 @@ Sun Apr 20
 Wed Apr 30
   Scotland             v United States         6-0   @ Glasgow, Scotland
 Sun May 4
-  Germany              v Republic of Ireland   3-0   @ Cologne, Germany
+  Germany              v Éire                  3-0   @ Cologne, Germany
 Wed May 7
-  Austria              v Republic of Ireland   6-0   @ Vienna, Austria
+  Austria              v Éire                  6-0   @ Vienna, Austria
 Sun May 11
   Romania              v Czechoslovakia        3-1   @ Bucharest, Romania
 Wed May 14
@@ -53,19 +53,19 @@ Sun May 18
 Thu May 22
   Belgium              v France                1-2   @ Brussels, Belgium
 Sat May 24
-  Russia               v Hungary               1-1   @ Moscow, Soviet Union
+  Soviet Union         v Hungary               1-1   @ Moscow, Soviet Union
 Sun May 25
   Austria              v England               2-3   @ Vienna, Austria
   Denmark              v Scotland              1-2   @ Copenhagen, Denmark
   Romania              v Poland                1-0   @ Bucharest, Romania
 Tue May 27
-  Russia               v Hungary               2-1   @ Moscow, Soviet Union
+  Soviet Union         v Hungary               2-1   @ Moscow, Soviet Union
 Wed May 28
   Switzerland          v England               0-3   @ Zürich, Switzerland
 Fri May 30
   Sweden               v Scotland              3-1   @ Solna, Sweden
 Sun Jun 1
-  Spain                v Republic of Ireland   6-0   @ Madrid, Spain
+  Spain                v Éire                  6-0   @ Madrid, Spain
   Turkey               v Switzerland           1-5   @ Ankara, Turkey
 Sun Jun 8
   Turkey               v Spain                 0-0   @ Istanbul, Turkey
@@ -104,11 +104,11 @@ Sun Aug 10
 Sun Aug 24
   Silesia              v China PR              5-1   @ Chorzów, Poland
 Sat Sep 6
-  Zambia               v Zimbabwe              1-4   @ Kitwe, Northern Rhodesia
+  Northern Rhodesia    v Southern Rhodesia     1-4   @ Kitwe, Northern Rhodesia
 Sun Sep 7
   Fiji                 v New Zealand           0-2   @ Suva, Fiji
 Thu Sep 11
-  Zambia               v Zimbabwe              3-2   @ Kitwe, Northern Rhodesia
+  Northern Rhodesia    v Southern Rhodesia     3-2   @ Kitwe, Northern Rhodesia
 Sun Sep 14
   Czechoslovakia       v Poland                2-2   @ Prague, Czechoslovakia
   Fiji                 v New Zealand           0-9   @ Lautoka, Fiji
@@ -120,11 +120,11 @@ Sun Sep 21
   Tahiti               v New Zealand           2-2   @ Papeete, Tahiti
   Yugoslavia           v Austria               4-2   @ Belgrade, Yugoslavia
 Tue Sep 23
-  Uganda               v Tanzania              4-0   @ Kampala, Uganda
+  Uganda               v Tanganyika            4-0   @ Kampala, Uganda
 Wed Sep 24
   Kenya                v Zanzibar              7-1   @ Kampala, Uganda
 Fri Sep 26
-  Tanzania             v Zanzibar              1-3   @ Kampala, Uganda
+  Tanganyika           v Zanzibar              1-3   @ Kampala, Uganda
 Sat Sep 27
   Uganda               v Kenya                 6-3   @ Kampala, Uganda
 Sun Sep 28
@@ -143,9 +143,9 @@ Sun Nov 2
 Sun Nov 9
   Germany              v Switzerland           5-1   @ Augsburg, Germany
 Tue Nov 11
-  France               v Northern Ireland      3-1   @ Colombes, France
+  France               v Ireland               3-1   @ Colombes, France
 Sun Nov 16
-  Republic of Ireland  v France                1-1   @ Dublin, Éire
+  Éire                 v France                1-1   @ Dublin, Éire
 Sun Nov 23
   Portugal             v Austria               1-1   @ Porto, Portugal
 Wed Nov 26

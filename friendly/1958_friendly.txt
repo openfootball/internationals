@@ -13,10 +13,10 @@ Thu Feb 20
 Tue Feb 25
   Hong Kong            v South Korea           1-1   @ So Kon Po, Hong Kong
 Sat Mar 1
-  Malaysia             v Singapore             5-2   @ Kuala Lumpur, Malaya
+  Malaya               v Singapore             5-2   @ Kuala Lumpur, Malaya
 Sun Mar 2
   Belgium              v Germany               0-2   @ Brussels, Belgium
-  Malaysia             v Singapore             3-1   @ Kuala Lumpur, Malaya
+  Malaya               v Singapore             3-1   @ Kuala Lumpur, Malaya
 Thu Mar 13
   France               v Spain                 2-2   @ Paris, France
 Wed Mar 19
@@ -38,19 +38,19 @@ Sun Apr 20
   Hungary              v Yugoslavia            2-0   @ Budapest, Hungary
   Paraguay             v Argentina             1-0   @ Asunción, Paraguay
 Tue Apr 22
-  Zimbabwe             v Zambia                0-2   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Northern Rhodesia     0-2   @ Salisbury, Southern Rhodesia
 Wed Apr 23
-  Netherlands          v Curaçao               8-1   @ Rotterdam, Netherlands
+  Netherlands          v Netherlands Antilles  8-1   @ Rotterdam, Netherlands
 Sat Apr 26
   Argentina            v Paraguay              2-0   @ Avellaneda, Argentina
 Wed Apr 30
   Argentina            v Uruguay               2-0   @ Buenos Aires, Argentina
 Sat May 3
-  Singapore            v Malaysia              3-3   @ Kallang, Singapore
+  Singapore            v Malaya                3-3   @ Kallang, Singapore
 Sun May 4
   Albania              v German DR             1-1   @ Tirana, Albania
   Netherlands          v Turkey                1-2   @ Amsterdam, Netherlands
-  Singapore            v Malaysia              0-3   @ Kallang, Singapore
+  Singapore            v Malaya                0-3   @ Kallang, Singapore
   Trinidad and Tobago  v Jamaica               1-0   @ Port of Spain, Trinidad and Tobago
 Wed May 7
   England              v Portugal              2-1   @ London, England
@@ -70,14 +70,14 @@ Wed May 14
   Austria              v Republic of Ireland   3-1   @ Vienna, Austria
   Brazil               v Bulgaria              4-0   @ Rio de Janeiro, Brazil
   Hong Kong            v Taiwan                2-1   @ Victoria, Hong Kong
-  Malaysia             v Pakistan              4-2   @ Kuala Lumpur, Malaya
+  Malaya               v Pakistan              4-2   @ Kuala Lumpur, Malaya
 Thu May 15
-  Denmark              v Curaçao               3-2   @ Aarhus, Denmark
+  Denmark              v Netherlands Antilles  3-2   @ Aarhus, Denmark
 Sat May 17
   Singapore            v Pakistan              4-4   @ Kallang, Singapore
 Sun May 18
   Brazil               v Bulgaria              3-1   @ São Paulo, Brazil
-  Russia               v England               1-1   @ Moscow, Soviet Union
+  Soviet Union         v England               1-1   @ Moscow, Soviet Union
 Sun May 25
   Denmark              v Poland                3-2   @ Copenhagen, Denmark
 Mon May 26
@@ -87,13 +87,13 @@ Wed May 28
 Sun Jun 1
   Poland               v Scotland              1-2   @ Warsaw, Poland
 Wed Jun 4
-  Hong Kong            v Malaysia              2-2   @ Victoria, Hong Kong
+  Hong Kong            v Malaya                2-2   @ Victoria, Hong Kong
 Sat Jun 28
   German DR            v Poland                1-1   @ Rostock, German DR
 Wed Jul 2
   Singapore            v Indonesia             0-5   @ Kallang, Singapore
 Thu Jul 3
-  Malaysia             v Indonesia             2-4   @ Kallang, Singapore
+  Malaya               v Indonesia             2-4   @ Kallang, Singapore
 Wed Aug 13
   Norway               v German DR             6-5   @ Oslo, Norway
 Sat Aug 16
@@ -101,13 +101,13 @@ Sat Aug 16
 Sat Aug 23
   New Zealand          v Australia             2-2   @ Auckland, New Zealand
 Sat Aug 30
-  Czechoslovakia       v Russia                1-2   @ Prague, Czechoslovakia
+  Czechoslovakia       v Soviet Union          1-2   @ Prague, Czechoslovakia
 Sun Aug 31
   New Caledonia        v New Zealand           1-2   @ Nouméa, New Caledonia
 Sun Sep 7
   New Caledonia        v New Zealand           1-5   @ Nouméa, New Caledonia
 Tue Sep 9
-  Zimbabwe             v Zambia                4-2   @ Salisbury, Southern Rhodesia
+  Southern Rhodesia    v Northern Rhodesia     4-2   @ Salisbury, Southern Rhodesia
 Sun Sep 14
   Austria              v Yugoslavia            3-4   @ Vienna, Austria
   German DR            v Romania               3-2   @ Leipzig, German DR
@@ -123,14 +123,14 @@ Sun Oct 5
   Austria              v France                1-2   @ Vienna, Austria
   German DR            v Bulgaria              1-1   @ Berlin, German DR
   Republic of Ireland  v Poland                2-2   @ Dublin, Republic of Ireland
-  Kenya                v Tanzania              3-1   @ Nairobi, Kenya
+  Kenya                v Tanganyika            3-1   @ Nairobi, Kenya
   Yugoslavia           v Hungary               4-4   @ Zagreb, Yugoslavia
 Tue Oct 7
-  Uganda               v Tanzania              2-0   @ Nairobi, Kenya
+  Uganda               v Tanganyika            2-0   @ Nairobi, Kenya
 Wed Oct 8
   Kenya                v Zanzibar              4-0   @ Nairobi, Kenya
 Fri Oct 10
-  Tanzania             v Zanzibar              3-2   @ Nairobi, Kenya
+  Tanganyika           v Zanzibar              3-2   @ Nairobi, Kenya
 Sat Oct 11
   Kenya                v Uganda                2-0   @ Nairobi, Kenya
 Sun Oct 12
@@ -143,7 +143,7 @@ Thu Oct 16
 Sun Oct 19
   Réunion              v Madagascar            1-3   @ Saint-Pierre, Réunion
 Wed Oct 22
-  England              v Russia                5-0   @ London, England
+  England              v Soviet Union          5-0   @ London, England
 Thu Oct 23
   Madagascar           v Mauritius             3-2   @ Saint-Pierre, Réunion
 Sat Oct 25
@@ -172,6 +172,6 @@ Sun Dec 21
 Thu Dec 25
   Hong Kong            v Japan                 5-2   @ So Kon Po, Hong Kong
 Sun Dec 28
-  Egypt                v Germany               2-1   @ Cairo, United Arab Republic
-  Malaysia             v Japan                 6-2   @ Kuala Lumpur, Malaya
+  United Arab Republic v Germany               2-1   @ Cairo, United Arab Republic
+  Malaya               v Japan                 6-2   @ Kuala Lumpur, Malaya
 
