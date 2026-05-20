@@ -4,6 +4,8 @@
 # Teams      24
 # Matches    51
 
+
+▪ Group A
 Fri Jun 10
   France               v Romania               2-1   @ Saint-Denis, France
      (Olivier Giroud 57' Dimitri Payet 89';
@@ -11,39 +13,26 @@ Fri Jun 10
 Sat Jun 11
   Albania              v Switzerland           0-1   @ Lens, France
      (Fabian Schär 5')
+Wed Jun 15
+  Romania              v Switzerland           1-1   @ Paris, France
+     (Bogdan Stancu 18'(p);
+      Admir Mehmedi 57')
+  France               v Albania               2-0   @ Marseille, France
+     (Antoine Griezmann 90' Dimitri Payet 90')
+Sun Jun 19
+  France               v Switzerland           0-0   @ Villeneuve-d'Ascq, France
+  Romania              v Albania               0-1   @ Lyon, France
+     (Armando Sadiku 43')
+
+▪ Group B
+Sat Jun 11
   England              v Russia                1-1   @ Marseille, France
      (Eric Dier 73';
       Vasili Berezutski 90')
   Wales                v Slovakia              2-1   @ Bordeaux, France
      (Gareth Bale 10' Hal Robson-Kanu 81';
       Ondrej Duda 61')
-Sun Jun 12
-  Germany              v Ukraine               2-0   @ Villeneuve-d'Ascq, France
-     (Shkodran Mustafi 19' Bastian Schweinsteiger 90')
-  Poland               v Northern Ireland      1-0   @ Nice, France
-     (Arkadiusz Milik 51')
-  Turkey               v Croatia               0-1   @ Paris, France
-     (Luka Modrić 41')
-Mon Jun 13
-  Belgium              v Italy                 0-2   @ Lyon, France
-     (Emanuele Giaccherini 32' Graziano Pellè 90')
-  Republic of Ireland  v Sweden                1-1   @ Saint-Denis, France
-     (Wes Hoolahan 48';
-      Ciaran Clark 71'(og))
-  Spain                v Czech Republic        1-0   @ Toulouse, France
-     (Gerard Piqué 87')
-Tue Jun 14
-  Austria              v Hungary               0-2   @ Bordeaux, France
-     (Ádám Szalai 62' Zoltán Stieber 87')
-  Portugal             v Iceland               1-1   @ Saint-Étienne, France
-     (Nani 31';
-      Birkir Bjarnason 50')
 Wed Jun 15
-  France               v Albania               2-0   @ Marseille, France
-     (Antoine Griezmann 90' Dimitri Payet 90')
-  Romania              v Switzerland           1-1   @ Paris, France
-     (Bogdan Stancu 18'(p);
-      Admir Mehmedi 57')
   Russia               v Slovakia              1-2   @ Villeneuve-d'Ascq, France
      (Denis Glushakov 80';
       Vladimír Weiss 32' Marek Hamšík 45')
@@ -51,42 +40,78 @@ Thu Jun 16
   England              v Wales                 2-1   @ Lens, France
      (Jamie Vardy 56' Daniel Sturridge 90';
       Gareth Bale 42')
-  Germany              v Poland                0-0   @ Saint-Denis, France
-  Ukraine              v Northern Ireland      0-2   @ Lyon, France
-     (Gareth McAuley 49' Niall McGinn 90')
-Fri Jun 17
-  Czech Republic       v Croatia               2-2   @ Saint-Étienne, France
-     (Milan Škoda 76' Tomáš Necid 89'(p);
-      Ivan Perišić 37' Ivan Rakitić 59')
-  Italy                v Sweden                1-0   @ Toulouse, France
-     (Éder 88')
-  Spain                v Turkey                3-0   @ Nice, France
-     (Álvaro Morata 34' Nolito 37' Álvaro Morata 48')
-Sat Jun 18
-  Belgium              v Republic of Ireland   3-0   @ Bordeaux, France
-     (Romelu Lukaku 48' Axel Witsel 61' Romelu Lukaku 70')
-  Iceland              v Hungary               1-1   @ Marseille, France
-     (Gylfi Sigurðsson 40'(p);
-      Birkir Már Sævarsson 88'(og))
-  Portugal             v Austria               0-0   @ Lyon, France
-Sun Jun 19
-  France               v Switzerland           0-0   @ Villeneuve-d'Ascq, France
-  Romania              v Albania               0-1   @ Lyon, France
-     (Armando Sadiku 43')
 Mon Jun 20
   Russia               v Wales                 0-3   @ Toulouse, France
      (Aaron Ramsey 11' Neil Taylor 20' Gareth Bale 67')
   Slovakia             v England               0-0   @ Saint-Étienne, France
+
+▪ Group C
+Sun Jun 12
+  Germany              v Ukraine               2-0   @ Villeneuve-d'Ascq, France
+     (Shkodran Mustafi 19' Bastian Schweinsteiger 90')
+  Poland               v Northern Ireland      1-0   @ Nice, France
+     (Arkadiusz Milik 51')
+Thu Jun 16
+  Germany              v Poland                0-0   @ Saint-Denis, France
+  Ukraine              v Northern Ireland      0-2   @ Lyon, France
+     (Gareth McAuley 49' Niall McGinn 90')
 Tue Jun 21
-  Croatia              v Spain                 2-1   @ Bordeaux, France
-     (Nikola Kalinić 45' Ivan Perišić 87';
-      Álvaro Morata 7')
-  Czech Republic       v Turkey                0-2   @ Lens, France
-     (Burak Yılmaz 10' Ozan Tufan 65')
   Northern Ireland     v Germany               0-1   @ Paris, France
      (Mario Gómez 30')
   Ukraine              v Poland                0-1   @ Marseille, France
      (Jakub Błaszczykowski 54')
+
+▪ Group D
+Sun Jun 12
+  Turkey               v Croatia               0-1   @ Paris, France
+     (Luka Modrić 41')
+Mon Jun 13
+  Spain                v Czech Republic        1-0   @ Toulouse, France
+     (Gerard Piqué 87')
+Fri Jun 17
+  Spain                v Turkey                3-0   @ Nice, France
+     (Álvaro Morata 34' Nolito 37' Álvaro Morata 48')
+  Czech Republic       v Croatia               2-2   @ Saint-Étienne, France
+     (Milan Škoda 76' Tomáš Necid 89'(p);
+      Ivan Perišić 37' Ivan Rakitić 59')
+Tue Jun 21
+  Czech Republic       v Turkey                0-2   @ Lens, France
+     (Burak Yılmaz 10' Ozan Tufan 65')
+  Croatia              v Spain                 2-1   @ Bordeaux, France
+     (Nikola Kalinić 45' Ivan Perišić 87';
+      Álvaro Morata 7')
+
+▪ Group E
+Mon Jun 13
+  Belgium              v Italy                 0-2   @ Lyon, France
+     (Emanuele Giaccherini 32' Graziano Pellè 90')
+  Republic of Ireland  v Sweden                1-1   @ Saint-Denis, France
+     (Wes Hoolahan 48';
+      Ciaran Clark 71'(og))
+Fri Jun 17
+  Italy                v Sweden                1-0   @ Toulouse, France
+     (Éder 88')
+Sat Jun 18
+  Belgium              v Republic of Ireland   3-0   @ Bordeaux, France
+     (Romelu Lukaku 48' Axel Witsel 61' Romelu Lukaku 70')
+Wed Jun 22
+  Sweden               v Belgium               0-1   @ Nice, France
+     (Radja Nainggolan 84')
+  Italy                v Republic of Ireland   0-1   @ Villeneuve-d'Ascq, France
+     (Robbie Brady 85')
+
+▪ Group F
+Tue Jun 14
+  Portugal             v Iceland               1-1   @ Saint-Étienne, France
+     (Nani 31';
+      Birkir Bjarnason 50')
+  Austria              v Hungary               0-2   @ Bordeaux, France
+     (Ádám Szalai 62' Zoltán Stieber 87')
+Sat Jun 18
+  Iceland              v Hungary               1-1   @ Marseille, France
+     (Gylfi Sigurðsson 40'(p);
+      Birkir Már Sævarsson 88'(og))
+  Portugal             v Austria               0-0   @ Lyon, France
 Wed Jun 22
   Hungary              v Portugal              3-3   @ Lyon, France
      (Zoltán Gera 19' Balázs Dzsudzsák 47' Balázs Dzsudzsák 55';
@@ -94,10 +119,8 @@ Wed Jun 22
   Iceland              v Austria               2-1   @ Saint-Denis, France
      (Jón Daði Böðvarsson 18' Arnór Ingvi Traustason 90';
       Alessandro Schöpf 60')
-  Italy                v Republic of Ireland   0-1   @ Villeneuve-d'Ascq, France
-     (Robbie Brady 85')
-  Sweden               v Belgium               0-1   @ Nice, France
-     (Radja Nainggolan 84')
+
+▪ Round of 16
 Sat Jun 25
   Croatia              v Portugal              0-1   @ Lens, France
      (Ricardo Quaresma 117')
@@ -120,6 +143,8 @@ Mon Jun 27
       Ragnar Sigurðsson 6' Kolbeinn Sigþórsson 18')
   Italy                v Spain                 2-0   @ Saint-Denis, France
      (Giorgio Chiellini 33' Graziano Pellè 90')
+
+▪ Quarter-final
 Thu Jun 30
   Poland               v Portugal              1-1   @ Marseille, France   [Portugal wins on penalties]
      (Robert Lewandowski 2';
@@ -136,12 +161,16 @@ Sun Jul 3
   France               v Iceland               5-2   @ Saint-Denis, France
      (Olivier Giroud 12' Paul Pogba 20' Dimitri Payet 43' Antoine Griezmann 45' Olivier Giroud 59';
       Kolbeinn Sigþórsson 56' Birkir Bjarnason 84')
+
+▪ Semi-final
 Wed Jul 6
   Portugal             v Wales                 2-0   @ Lyon, France
      (Cristiano Ronaldo 50' Nani 53')
 Thu Jul 7
   France               v Germany               2-0   @ Marseille, France
      (Antoine Griezmann 45'(p) Antoine Griezmann 72')
+
+▪ Final
 Sun Jul 10
   France               v Portugal              0-1   @ Saint-Denis, France
      (Eder 109')

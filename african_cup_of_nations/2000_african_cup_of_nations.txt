@@ -4,54 +4,63 @@
 # Teams      16
 # Matches    32
 
+
+▪ Group A
 Sat Jan 22
   Ghana                v Cameroon              1-1   @ Accra, Ghana
      (Kwame Ayew 57';
       Marc-Vivien Foé 19')
-Sun Jan 23
-  Egypt                v Zambia                2-0   @ Kano, Nigeria
-     (Yasser Radwan 37' Hossam Hassan 50')
-  Nigeria              v Tunisia               4-2   @ Lagos, Nigeria
-     (Jay-Jay Okocha 28' Jay-Jay Okocha 58' Victor Ikpeba 71' Victor Ikpeba 77';
-      Adel Sellimi 49' Zoubeir Baya 90')
-  South Africa         v Gabon                 3-1   @ Kumasi, Ghana
-     (Dumisa Ngobe 43' Shaun Bartlett 55' Shaun Bartlett 78';
-      Shiva N'Zigou 21')
 Mon Jan 24
-  DR Congo             v Algeria               0-0   @ Kumasi, Ghana
   Ivory Coast          v Togo                  1-1   @ Accra, Ghana
      (Tchiressoua Guel 38'(p);
       Lantame Ouadja 19')
-Tue Jan 25
-  Burkina Faso         v Senegal               1-3   @ Kano, Nigeria
-     (Ousmane Sanou 65';
-      Henri Camara 4' Pape Sarr 45' Salif Keita 86')
-  Morocco              v Congo                 1-0   @ Lagos, Nigeria
-     (Salaheddine Bassir 85')
 Thu Jan 27
   Ghana                v Togo                  2-0   @ Accra, Ghana
      (Kwame Ayew 28' Otto Addo 37')
-  South Africa         v DR Congo              1-0   @ Kumasi, Ghana
-     (Shaun Bartlett 44')
 Fri Jan 28
   Cameroon             v Ivory Coast           3-0   @ Accra, Ghana
      (Raymond Kalla 29' Samuel Eto'o 45' Patrick M'Boma 90')
-  Egypt                v Senegal               1-0   @ Kano, Nigeria
-     (Hossam Hassan 39')
-  Nigeria              v Congo                 0-0   @ Lagos, Nigeria
-Sat Jan 29
-  Algeria              v Gabon                 3-1   @ Kumasi, Ghana
-     (Farid Ghazi 12' Abdelhafid Tasfaout 41' Billel Dziri 89';
-      Bruno Zita Mbanangoyé 89')
-  Tunisia              v Morocco               0-0   @ Lagos, Nigeria
-  Zambia               v Burkina Faso          1-1   @ Kano, Nigeria
-     (Dennis Lota 16';
-      Alassane Ouédraogo 90')
 Mon Jan 31
   Cameroon             v Togo                  0-1   @ Kumasi, Ghana
      (Massamasso Tchangai 18')
   Ghana                v Ivory Coast           0-2   @ Accra, Ghana
      (Bonaventure Kalou 45' Donald-Olivier Sié 84')
+
+▪ Group B
+Sun Jan 23
+  South Africa         v Gabon                 3-1   @ Kumasi, Ghana
+     (Dumisa Ngobe 43' Shaun Bartlett 55' Shaun Bartlett 78';
+      Shiva N'Zigou 21')
+Mon Jan 24
+  DR Congo             v Algeria               0-0   @ Kumasi, Ghana
+Thu Jan 27
+  South Africa         v DR Congo              1-0   @ Kumasi, Ghana
+     (Shaun Bartlett 44')
+Sat Jan 29
+  Algeria              v Gabon                 3-1   @ Kumasi, Ghana
+     (Farid Ghazi 12' Abdelhafid Tasfaout 41' Billel Dziri 89';
+      Bruno Zita Mbanangoyé 89')
+Wed Feb 2
+  South Africa         v Algeria               1-1   @ Kumasi, Ghana
+     (Shaun Bartlett 2';
+      Fawzi Moussouni 53')
+  DR Congo             v Gabon                 0-0   @ Accra, Ghana
+
+▪ Group C
+Sun Jan 23
+  Egypt                v Zambia                2-0   @ Kano, Nigeria
+     (Yasser Radwan 37' Hossam Hassan 50')
+Tue Jan 25
+  Burkina Faso         v Senegal               1-3   @ Kano, Nigeria
+     (Ousmane Sanou 65';
+      Henri Camara 4' Pape Sarr 45' Salif Keita 86')
+Fri Jan 28
+  Egypt                v Senegal               1-0   @ Kano, Nigeria
+     (Hossam Hassan 39')
+Sat Jan 29
+  Zambia               v Burkina Faso          1-1   @ Kano, Nigeria
+     (Dennis Lota 16';
+      Alassane Ouédraogo 90')
 Tue Feb 1
   Egypt                v Burkina Faso          4-2   @ Kano, Nigeria
      (Ahmed Salah Hosny 30' Hossam Hassan 75'(p) Hany Ramzy 85' Abdel Halim Ali 90';
@@ -59,16 +68,26 @@ Tue Feb 1
   Zambia               v Senegal               2-2   @ Lagos, Nigeria
      (Laughter Chilembe 52' Kalusha Bwalya 87'(p);
       Henri Camara 47' Abdoulaye M'Baye 80')
-Wed Feb 2
-  DR Congo             v Gabon                 0-0   @ Accra, Ghana
-  South Africa         v Algeria               1-1   @ Kumasi, Ghana
-     (Shaun Bartlett 2';
-      Fawzi Moussouni 53')
+
+▪ Group D
+Sun Jan 23
+  Nigeria              v Tunisia               4-2   @ Lagos, Nigeria
+     (Jay-Jay Okocha 28' Jay-Jay Okocha 58' Victor Ikpeba 71' Victor Ikpeba 77';
+      Adel Sellimi 49' Zoubeir Baya 90')
+Tue Jan 25
+  Morocco              v Congo                 1-0   @ Lagos, Nigeria
+     (Salaheddine Bassir 85')
+Fri Jan 28
+  Nigeria              v Congo                 0-0   @ Lagos, Nigeria
+Sat Jan 29
+  Tunisia              v Morocco               0-0   @ Lagos, Nigeria
 Thu Feb 3
-  Nigeria              v Morocco               2-0   @ Lagos, Nigeria
-     (Finidi George 28' Julius Aghahowa 81')
   Tunisia              v Congo                 1-0   @ Kano, Nigeria
      (Radhi Jaïdi 18')
+  Nigeria              v Morocco               2-0   @ Lagos, Nigeria
+     (Finidi George 28' Julius Aghahowa 81')
+
+▪ Quarter-final
 Sun Feb 6
   Cameroon             v Algeria               2-1   @ Accra, Ghana
      (Samuel Eto'o 7' Marc-Vivien Foé 24';
@@ -81,15 +100,21 @@ Mon Feb 7
   Nigeria              v Senegal               2-1   @ Lagos, Nigeria
      (Julius Aghahowa 85' Julius Aghahowa 92';
       Khalilou Fadiga 7')
+
+▪ Semi-final
 Thu Feb 10
   Cameroon             v Tunisia               3-0   @ Accra, Ghana
      (Patrick M'Boma 49' Samuel Eto'o 81' Patrick M'Boma 85')
   Nigeria              v South Africa          2-0   @ Lagos, Nigeria
      (Tijani Babangida 1' Tijani Babangida 34')
+
+▪ Third place playoff
 Sat Feb 12
   South Africa         v Tunisia               2-2   @ Accra, Ghana   [South Africa wins on penalties]
      (Shaun Bartlett 11' Siyabonga Nomvethe 62';
       Ali Zitouni 27' Ali Zitouni 89')
+
+▪ Final
 Sun Feb 13
   Nigeria              v Cameroon              2-2   @ Lagos, Nigeria   [Cameroon wins on penalties]
      (Raphael Chukwu 45' Jay-Jay Okocha 47';

@@ -4,32 +4,15 @@
 # Teams      16
 # Matches    31
 
+
+▪ Group A
 Fri Jun 8
-  Poland               v Greece                1-1   @ Warsaw, Poland
-     (Robert Lewandowski 17';
-      Dimitris Salpingidis 51')
   Russia               v Czech Republic        4-1   @ Wrocław, Poland
      (Alan Dzagoev 15' Roman Shirokov 24' Alan Dzagoev 79' Roman Pavlyuchenko 82';
       Václav Pilař 52')
-Sat Jun 9
-  Germany              v Portugal              1-0   @ Lviv, Ukraine
-     (Mario Gómez 72')
-  Netherlands          v Denmark               0-1   @ Kharkiv, Ukraine
-     (Michael Krohn-Dehli 24')
-Sun Jun 10
-  Republic of Ireland  v Croatia               1-3   @ Poznań, Poland
-     (Sean St Ledger 19';
-      Mario Mandžukić 3' Nikica Jelavić 43' Mario Mandžukić 49')
-  Spain                v Italy                 1-1   @ Gdańsk, Poland
-     (Cesc Fàbregas 64';
-      Antonio Di Natale 61')
-Mon Jun 11
-  France               v England               1-1   @ Donetsk, Ukraine
-     (Samir Nasri 39';
-      Joleon Lescott 30')
-  Ukraine              v Sweden                2-1   @ Kyiv, Ukraine
-     (Andriy Shevchenko 55' Andriy Shevchenko 62';
-      Zlatan Ibrahimović 52')
+  Poland               v Greece                1-1   @ Warsaw, Poland
+     (Robert Lewandowski 17';
+      Dimitris Salpingidis 51')
 Tue Jun 12
   Greece               v Czech Republic        1-2   @ Wrocław, Poland
      (Theofanis Gekas 53';
@@ -37,6 +20,18 @@ Tue Jun 12
   Poland               v Russia                1-1   @ Warsaw, Poland
      (Jakub Błaszczykowski 57';
       Alan Dzagoev 37')
+Sat Jun 16
+  Greece               v Russia                1-0   @ Warsaw, Poland
+     (Giorgos Karagounis 45')
+  Poland               v Czech Republic        0-1   @ Wrocław, Poland
+     (Petr Jiráček 72')
+
+▪ Group B
+Sat Jun 9
+  Germany              v Portugal              1-0   @ Lviv, Ukraine
+     (Mario Gómez 72')
+  Netherlands          v Denmark               0-1   @ Kharkiv, Ukraine
+     (Michael Krohn-Dehli 24')
 Wed Jun 13
   Denmark              v Portugal              2-3   @ Lviv, Ukraine
      (Nicklas Bendtner 41' Nicklas Bendtner 80';
@@ -44,23 +39,6 @@ Wed Jun 13
   Netherlands          v Germany               1-2   @ Kharkiv, Ukraine
      (Robin van Persie 73';
       Mario Gómez 24' Mario Gómez 38')
-Thu Jun 14
-  Italy                v Croatia               1-1   @ Poznań, Poland
-     (Andrea Pirlo 39';
-      Mario Mandžukić 72')
-  Spain                v Republic of Ireland   4-0   @ Gdańsk, Poland
-     (Fernando Torres 4' David Silva 49' Fernando Torres 70' Cesc Fàbregas 83')
-Fri Jun 15
-  Sweden               v England               2-3   @ Kyiv, Ukraine
-     (Glen Johnson 49'(og) Olof Mellberg 59';
-      Andy Carroll 23' Theo Walcott 64' Danny Welbeck 78')
-  Ukraine              v France                0-2   @ Donetsk, Ukraine
-     (Jérémy Ménez 53' Yohan Cabaye 56')
-Sat Jun 16
-  Greece               v Russia                1-0   @ Warsaw, Poland
-     (Giorgos Karagounis 45')
-  Poland               v Czech Republic        0-1   @ Wrocław, Poland
-     (Petr Jiráček 72')
 Sun Jun 17
   Denmark              v Germany               1-2   @ Lviv, Ukraine
      (Michael Krohn-Dehli 24';
@@ -68,16 +46,48 @@ Sun Jun 17
   Portugal             v Netherlands           2-1   @ Kharkiv, Ukraine
      (Cristiano Ronaldo 28' Cristiano Ronaldo 74';
       Rafael van der Vaart 11')
+
+▪ Group C
+Sun Jun 10
+  Republic of Ireland  v Croatia               1-3   @ Poznań, Poland
+     (Sean St Ledger 19';
+      Mario Mandžukić 3' Nikica Jelavić 43' Mario Mandžukić 49')
+  Spain                v Italy                 1-1   @ Gdańsk, Poland
+     (Cesc Fàbregas 64';
+      Antonio Di Natale 61')
+Thu Jun 14
+  Spain                v Republic of Ireland   4-0   @ Gdańsk, Poland
+     (Fernando Torres 4' David Silva 49' Fernando Torres 70' Cesc Fàbregas 83')
+  Italy                v Croatia               1-1   @ Poznań, Poland
+     (Andrea Pirlo 39';
+      Mario Mandžukić 72')
 Mon Jun 18
-  Croatia              v Spain                 0-1   @ Gdańsk, Poland
-     (Jesús Navas 88')
   Italy                v Republic of Ireland   2-0   @ Poznań, Poland
      (Antonio Cassano 35' Mario Balotelli 90')
+  Croatia              v Spain                 0-1   @ Gdańsk, Poland
+     (Jesús Navas 88')
+
+▪ Group D
+Mon Jun 11
+  France               v England               1-1   @ Donetsk, Ukraine
+     (Samir Nasri 39';
+      Joleon Lescott 30')
+  Ukraine              v Sweden                2-1   @ Kyiv, Ukraine
+     (Andriy Shevchenko 55' Andriy Shevchenko 62';
+      Zlatan Ibrahimović 52')
+Fri Jun 15
+  Sweden               v England               2-3   @ Kyiv, Ukraine
+     (Glen Johnson 49'(og) Olof Mellberg 59';
+      Andy Carroll 23' Theo Walcott 64' Danny Welbeck 78')
+  Ukraine              v France                0-2   @ Donetsk, Ukraine
+     (Jérémy Ménez 53' Yohan Cabaye 56')
 Tue Jun 19
-  Sweden               v France                2-0   @ Kyiv, Ukraine
-     (Zlatan Ibrahimović 54' Seb Larsson 90')
   Ukraine              v England               0-1   @ Donetsk, Ukraine
      (Wayne Rooney 48')
+  Sweden               v France                2-0   @ Kyiv, Ukraine
+     (Zlatan Ibrahimović 54' Seb Larsson 90')
+
+▪ Quarter-final
 Thu Jun 21
   Czech Republic       v Portugal              0-1   @ Warsaw, Poland
      (Cristiano Ronaldo 79')
@@ -90,12 +100,16 @@ Sat Jun 23
      (Xabi Alonso 19' Xabi Alonso 90'(p))
 Sun Jun 24
   England              v Italy                 0-0   @ Kyiv, Ukraine   [Italy wins on penalties]
+
+▪ Semi-final
 Wed Jun 27
   Portugal             v Spain                 0-0   @ Donetsk, Ukraine   [Spain wins on penalties]
 Thu Jun 28
   Germany              v Italy                 1-2   @ Warsaw, Poland
      (Mesut Özil 90'(p);
       Mario Balotelli 20' Mario Balotelli 36')
+
+▪ Final
 Sun Jul 1
   Spain                v Italy                 4-0   @ Kyiv, Ukraine
      (David Silva 14' Jordi Alba 41' Fernando Torres 84' Juan Mata 88')

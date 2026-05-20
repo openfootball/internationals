@@ -4,33 +4,32 @@
 # Teams      16
 # Matches    31
 
+
+▪ Group A
 Sat Jul 10
   Mexico               v Trinidad and Tobago   0-0   @ Arlington, United States
 Sun Jul 11
   El Salvador          v Guatemala             2-0   @ Frisco, United States
      (Alex Roldan 81' Joaquín Rivas 90')
-  Canada               v Martinique            4-1   @ Kansas City, United States
-     (Cyle Larin 16' Jonathan Osorio 20' Stephen Eustáquio 26' Theo Corbeanu 89';
-      Emmanuel Rivière 10')
-  United States        v Haiti                 1-0   @ Kansas City, United States
-     (Sam Vines 8')
-Mon Jul 12
-  Jamaica              v Suriname              2-0   @ Orlando, United States
-     (Shamar Nicholson 6' Bobby Decordova-Reid 26')
-  Costa Rica           v Guadeloupe            3-1   @ Orlando, United States
-     (Joel Campbell 6' Ariel Lassiter 21' Celso Borges 70';
-      Raphaël Mirval 45')
-Tue Jul 13
-  Qatar                v Panama                3-3   @ Houston, United States
-     (Akram Afif 48' Almoez Ali 53' Hassan Al-Haydos 63'(p);
-      Rolando Blackburn 51' Rolando Blackburn 58' Eric Davis 79'(p))
-  Honduras             v Grenada               4-0   @ Houston, United States
-     (Jerry Bengtson 28' Edwin Solano 52' Johnny Leverón 86' Romell Quioto 88')
 Wed Jul 14
   Trinidad and Tobago  v El Salvador           0-2   @ Frisco, United States
      (Jairo Henríquez 30' Walmer Martinez 90')
   Guatemala            v Mexico                0-3   @ Dallas, United States
      (Rogelio Funes Mori 29' Rogelio Funes Mori 55' Orbelín Pineda 79')
+Sun Jul 18
+  Guatemala            v Trinidad and Tobago   1-1   @ Frisco, United States
+     (Gerardo Gordillo 78';
+      Reon Moore 12')
+  Mexico               v El Salvador           1-0   @ Dallas, United States
+     (Luis Alfonso Rodríguez 26')
+
+▪ Group B
+Sun Jul 11
+  Canada               v Martinique            4-1   @ Kansas City, United States
+     (Cyle Larin 16' Jonathan Osorio 20' Stephen Eustáquio 26' Theo Corbeanu 89';
+      Emmanuel Rivière 10')
+  United States        v Haiti                 1-0   @ Kansas City, United States
+     (Sam Vines 8')
 Thu Jul 15
   Haiti                v Canada                1-4   @ Kansas City, United States
      (Stéphane Lambese 56';
@@ -38,41 +37,55 @@ Thu Jul 15
   United States        v Martinique            6-1   @ Kansas City, United States
      (Daryl Dike 14' Samuel Camille 23'(og) Miles Robinson 50' Daryl Dike 59' Gyasi Zardes 70' Nicholas Gioacchini 90';
       Emmanuel Rivière 64'(p))
+Sun Jul 18
+  Martinique           v Haiti                 1-2   @ Frisco, United States
+     (Kévin Fortuné 53';
+      Carnejy Antoine 3' Ricardo Adé 61')
+  United States        v Canada                1-0   @ Kansas City, United States
+     (Shaq Moore 1')
+
+▪ Group C
+Mon Jul 12
+  Jamaica              v Suriname              2-0   @ Orlando, United States
+     (Shamar Nicholson 6' Bobby Decordova-Reid 26')
+  Costa Rica           v Guadeloupe            3-1   @ Orlando, United States
+     (Joel Campbell 6' Ariel Lassiter 21' Celso Borges 70';
+      Raphaël Mirval 45')
 Fri Jul 16
-  Guadeloupe           v Jamaica               1-2   @ Orlando, United States
-     (Dimitri Ramothe 4';
-      Cory Burke 14' Junior Flemmings 87')
   Suriname             v Costa Rica            1-2   @ Orlando, United States
      (Gleofilo Vlijter 52';
       Joel Campbell 58' Celso Borges 59')
+  Guadeloupe           v Jamaica               1-2   @ Orlando, United States
+     (Dimitri Ramothe 4';
+      Cory Burke 14' Junior Flemmings 87')
+Tue Jul 20
+  Costa Rica           v Jamaica               1-0   @ Orlando, United States
+     (Bryan Ruiz 53')
+  Suriname             v Guadeloupe            2-1   @ Houston, United States
+     (Gleofilo Vlijter 14' Nigel Hasselbaink 79';
+      Matthias Phaëton 20')
+
+▪ Group D
+Tue Jul 13
+  Qatar                v Panama                3-3   @ Houston, United States
+     (Akram Afif 48' Almoez Ali 53' Hassan Al-Haydos 63'(p);
+      Rolando Blackburn 51' Rolando Blackburn 58' Eric Davis 79'(p))
+  Honduras             v Grenada               4-0   @ Houston, United States
+     (Jerry Bengtson 28' Edwin Solano 52' Johnny Leverón 86' Romell Quioto 88')
 Sat Jul 17
   Grenada              v Qatar                 0-4   @ Houston, United States
      (Abdulaziz Hatem 11' Akram Afif 22' Mohammed Muntari 36' Almoez Ali 46')
   Panama               v Honduras              2-3   @ Houston, United States
      (Eric Davis 32'(p) César Yanis 45';
       Romell Quioto 22' Alexander López 61' Romell Quioto 65')
-Sun Jul 18
-  Guatemala            v Trinidad and Tobago   1-1   @ Frisco, United States
-     (Gerardo Gordillo 78';
-      Reon Moore 12')
-  Mexico               v El Salvador           1-0   @ Dallas, United States
-     (Luis Alfonso Rodríguez 26')
-  Martinique           v Haiti                 1-2   @ Frisco, United States
-     (Kévin Fortuné 53';
-      Carnejy Antoine 3' Ricardo Adé 61')
-  United States        v Canada                1-0   @ Kansas City, United States
-     (Shaq Moore 1')
 Tue Jul 20
-  Suriname             v Guadeloupe            2-1   @ Houston, United States
-     (Gleofilo Vlijter 14' Nigel Hasselbaink 79';
-      Matthias Phaëton 20')
-  Costa Rica           v Jamaica               1-0   @ Orlando, United States
-     (Bryan Ruiz 53')
+  Honduras             v Qatar                 0-2   @ Houston, United States
+     (Homam Ahmed 25' Abdulaziz Hatem 90')
   Panama               v Grenada               3-1   @ Orlando, United States
      (Alberto Quintero 7' José Luis Rodríguez 27' José Luis Rodríguez 64';
       Romar Frank 76')
-  Honduras             v Qatar                 0-2   @ Houston, United States
-     (Homam Ahmed 25' Abdulaziz Hatem 90')
+
+▪ Quarter-final
 Sat Jul 24
   Mexico               v Honduras              3-0   @ Glendale, United States
      (Rogelio Funes Mori 26' Jonathan dos Santos 31' Orbelín Pineda 38')
@@ -84,12 +97,16 @@ Sun Jul 25
      (Junior Hoilett 18' Stephen Eustáquio 69')
   United States        v Jamaica               1-0   @ Arlington, United States
      (Matthew Hoppe 83')
+
+▪ Semi-final
 Thu Jul 29
   Mexico               v Canada                2-1   @ Houston, United States
      (Orbelín Pineda 45'(p) Héctor Herrera 90';
       Tajon Buchanan 57')
   United States        v Qatar                 1-0   @ Austin, United States
      (Gyasi Zardes 86')
+
+▪ Final
 Sun Aug 1
   United States        v Mexico                1-0   @ Las Vegas, United States
      (Miles Robinson 117')

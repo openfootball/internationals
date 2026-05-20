@@ -4,26 +4,13 @@
 # Teams      16
 # Matches    31
 
+
+▪ Group A
 Sat Jun 7
-  Portugal             v Turkey                2-0   @ Geneva, Switzerland
-     (Pepe 61' Raul Meireles 90')
   Switzerland          v Czech Republic        0-1   @ Basel, Switzerland
      (Václav Svěrkoš 71')
-Sun Jun 8
-  Austria              v Croatia               0-1   @ Vienna, Austria
-     (Luka Modrić 4'(p))
-  Germany              v Poland                2-0   @ Klagenfurt, Austria
-     (Lukas Podolski 20' Lukas Podolski 72')
-Mon Jun 9
-  Netherlands          v Italy                 3-0   @ Bern, Switzerland
-     (Ruud van Nistelrooy 26' Wesley Sneijder 31' Giovanni van Bronckhorst 79')
-  Romania              v France                0-0   @ Zürich, Switzerland
-Tue Jun 10
-  Greece               v Sweden                0-2   @ Salzburg, Austria
-     (Zlatan Ibrahimović 67' Petter Hansson 72')
-  Spain                v Russia                4-1   @ Innsbruck, Austria
-     (David Villa 20' David Villa 44' David Villa 75' Cesc Fàbregas 90';
-      Roman Pavlyuchenko 86')
+  Portugal             v Turkey                2-0   @ Geneva, Switzerland
+     (Pepe 61' Raul Meireles 90')
 Wed Jun 11
   Czech Republic       v Portugal              1-3   @ Geneva, Switzerland
      (Libor Sionko 17';
@@ -31,6 +18,19 @@ Wed Jun 11
   Switzerland          v Turkey                1-2   @ Basel, Switzerland
      (Hakan Yakin 32';
       Semih Şentürk 57' Arda Turan 90')
+Sun Jun 15
+  Switzerland          v Portugal              2-0   @ Basel, Switzerland
+     (Hakan Yakin 71' Hakan Yakin 83'(p))
+  Turkey               v Czech Republic        3-2   @ Geneva, Switzerland
+     (Arda Turan 75' Nihat Kahveci 87' Nihat Kahveci 89';
+      Jan Koller 34' Jaroslav Plašil 62')
+
+▪ Group B
+Sun Jun 8
+  Austria              v Croatia               0-1   @ Vienna, Austria
+     (Luka Modrić 4'(p))
+  Germany              v Poland                2-0   @ Klagenfurt, Austria
+     (Lukas Podolski 20' Lukas Podolski 72')
 Thu Jun 12
   Austria              v Poland                1-1   @ Vienna, Austria
      (Ivica Vastić 90'(p);
@@ -38,41 +38,51 @@ Thu Jun 12
   Croatia              v Germany               2-1   @ Klagenfurt, Austria
      (Darijo Srna 24' Ivica Olić 62';
       Lukas Podolski 79')
+Mon Jun 16
+  Austria              v Germany               0-1   @ Vienna, Austria
+     (Michael Ballack 49')
+  Poland               v Croatia               0-1   @ Klagenfurt, Austria
+     (Ivan Klasnić 53')
+
+▪ Group C
+Mon Jun 9
+  Netherlands          v Italy                 3-0   @ Bern, Switzerland
+     (Ruud van Nistelrooy 26' Wesley Sneijder 31' Giovanni van Bronckhorst 79')
+  Romania              v France                0-0   @ Zürich, Switzerland
 Fri Jun 13
-  Italy                v Romania               1-1   @ Zürich, Switzerland
-     (Christian Panucci 56';
-      Adrian Mutu 55')
   Netherlands          v France                4-1   @ Bern, Switzerland
      (Dirk Kuyt 9' Robin van Persie 59' Arjen Robben 72' Wesley Sneijder 90';
       Thierry Henry 71')
+  Italy                v Romania               1-1   @ Zürich, Switzerland
+     (Christian Panucci 56';
+      Adrian Mutu 55')
+Tue Jun 17
+  Netherlands          v Romania               2-0   @ Bern, Switzerland
+     (Klaas-Jan Huntelaar 54' Robin van Persie 87')
+  France               v Italy                 0-2   @ Zürich, Switzerland
+     (Andrea Pirlo 25'(p) Daniele De Rossi 62')
+
+▪ Group D
+Tue Jun 10
+  Greece               v Sweden                0-2   @ Salzburg, Austria
+     (Zlatan Ibrahimović 67' Petter Hansson 72')
+  Spain                v Russia                4-1   @ Innsbruck, Austria
+     (David Villa 20' David Villa 44' David Villa 75' Cesc Fàbregas 90';
+      Roman Pavlyuchenko 86')
 Sat Jun 14
   Greece               v Russia                0-1   @ Salzburg, Austria
      (Konstantin Zyryanov 33')
   Sweden               v Spain                 1-2   @ Innsbruck, Austria
      (Zlatan Ibrahimović 34';
       Fernando Torres 15' David Villa 90')
-Sun Jun 15
-  Switzerland          v Portugal              2-0   @ Basel, Switzerland
-     (Hakan Yakin 71' Hakan Yakin 83'(p))
-  Turkey               v Czech Republic        3-2   @ Geneva, Switzerland
-     (Arda Turan 75' Nihat Kahveci 87' Nihat Kahveci 89';
-      Jan Koller 34' Jaroslav Plašil 62')
-Mon Jun 16
-  Austria              v Germany               0-1   @ Vienna, Austria
-     (Michael Ballack 49')
-  Poland               v Croatia               0-1   @ Klagenfurt, Austria
-     (Ivan Klasnić 53')
-Tue Jun 17
-  France               v Italy                 0-2   @ Zürich, Switzerland
-     (Andrea Pirlo 25'(p) Daniele De Rossi 62')
-  Netherlands          v Romania               2-0   @ Bern, Switzerland
-     (Klaas-Jan Huntelaar 54' Robin van Persie 87')
 Wed Jun 18
+  Russia               v Sweden                2-0   @ Innsbruck, Austria
+     (Roman Pavlyuchenko 24' Andrey Arshavin 50')
   Greece               v Spain                 1-2   @ Salzburg, Austria
      (Angelos Charisteas 42';
       Rubén de la Red 61' Dani Güiza 88')
-  Russia               v Sweden                2-0   @ Innsbruck, Austria
-     (Roman Pavlyuchenko 24' Andrey Arshavin 50')
+
+▪ Quarter-final
 Thu Jun 19
   Portugal             v Germany               2-3   @ Basel, Switzerland
      (Nuno Gomes 40' Hélder Postiga 87';
@@ -87,6 +97,8 @@ Sat Jun 21
       Roman Pavlyuchenko 56' Dmitri Torbinski 112' Andrey Arshavin 116')
 Sun Jun 22
   Spain                v Italy                 0-0   @ Vienna, Austria   [Spain wins on penalties]
+
+▪ Semi-final
 Wed Jun 25
   Germany              v Turkey                3-2   @ Basel, Switzerland
      (Bastian Schweinsteiger 26' Miroslav Klose 79' Philipp Lahm 90';
@@ -94,6 +106,8 @@ Wed Jun 25
 Thu Jun 26
   Russia               v Spain                 0-3   @ Vienna, Austria
      (Xavi 50' Dani Güiza 73' David Silva 82')
+
+▪ Final
 Sun Jun 29
   Germany              v Spain                 0-1   @ Vienna, Austria
      (Fernando Torres 33')
