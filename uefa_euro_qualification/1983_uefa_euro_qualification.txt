@@ -17,7 +17,7 @@ Sun Mar 27
       Přemysl Bičovský 60')
   Luxembourg           v Hungary               2-6   @ Luxembourg, Luxembourg
      (Jeannot Reiter 4' Romain Schreiner 55';
-      József Póczik 30' Tibor Nyilasi 40' Gábor Pölöskei 50' Péter Hannich 56' József Póczik 59' József Póczik 69')
+      József Póczik 30',59',69' Tibor Nyilasi 40' Gábor Pölöskei 50' Péter Hannich 56')
 Wed Mar 30
   Albania              v Germany               1-2   @ Tirana, Albania
      (Muhedin Targaj 82'(p);
@@ -36,19 +36,19 @@ Wed Mar 30
       Andy Egli 14' Heinz Hermann 57')
 Sat Apr 16
   Czechoslovakia       v Cyprus                6-0   @ Prague, Czechoslovakia
-     (Václav Daněk 4' Ladislav Vízek 29' Zdeněk Prokeš 37' Ladislav Vízek 48' Ladislav Jurkemik 57' Václav Daněk 70')
+     (Václav Daněk 4',70' Ladislav Vízek 29',48' Zdeněk Prokeš 37' Ladislav Jurkemik 57')
   Romania              v Italy                 1-0   @ Bucharest, Romania
      (László Bölöni 24')
 Sun Apr 17
   Hungary              v Luxembourg            6-2   @ Budapest, Hungary
-     (Gyula Hajszán 21' Tibor Nyilasi 33' László Kiss 35' Lázár Szentes 61' Tibor Nyilasi 63' Győző Burcsa 65';
+     (Gyula Hajszán 21' Tibor Nyilasi 33',63' László Kiss 35' Lázár Szentes 61' Győző Burcsa 65';
       Jeannot Reiter 56' Théo Malget 57')
   Poland               v Finland               1-1   @ Warsaw, Poland
      (Włodzimierz Smolarek 2'(p);
       Pawel Janas 5'(og))
 Sat Apr 23
   Turkey               v Germany               0-3   @ İzmir, Turkey
-     (Karl-Heinz Rummenigge 30'(p) Wolfgang Dremmler 36' Karl-Heinz Rummenigge 71')
+     (Karl-Heinz Rummenigge 30'(p),71' Wolfgang Dremmler 36')
 Wed Apr 27
   Austria              v Germany               0-0   @ Vienna, Austria
   Belgium              v German DR             2-1   @ Brussels, Belgium
@@ -61,7 +61,7 @@ Wed Apr 27
   Northern Ireland     v Albania               1-0   @ Belfast, Northern Ireland
      (Ian Stewart 54')
   Soviet Union         v Portugal              5-0   @ Moscow, Soviet Union
-     (Fyodor Cherenkov 16' Sergey Rodionov 40' Anatoliy Demyanenko 53' Fyodor Cherenkov 63' Nikolay Larionov 86')
+     (Fyodor Cherenkov 16',63' Sergey Rodionov 40' Anatoliy Demyanenko 53' Nikolay Larionov 86')
   Spain                v Republic of Ireland   2-0   @ Zaragoza, Spain
      (Santillana 51' Hipólito Rincón 89')
   Wales                v Bulgaria              1-0   @ Wrexham, Wales
@@ -77,12 +77,12 @@ Sun May 15
      (Tibor Nyilasi 24' Gyula Hajszán 88';
       Nikos Anastopoulos 15' Georgios Kostikos 32' Lakis Papaioannou 56')
   Malta                v Spain                 2-3   @ Attard, Malta
-     (Carmel Busuttil 30' Carmel Busuttil 47';
+     (Carmel Busuttil 30',47';
       Juan Antonio Señor 21' Francisco José Carrasco 60' Rafael Gordillo 84')
   Romania              v Czechoslovakia        0-1   @ Bucharest, Romania
      (Ladislav Vízek 40'(p))
   Sweden               v Cyprus                5-0   @ Malmö, Sweden
-     (Robert Prytz 54' Dan Corneliusson 58' Glenn Hysén 62' Andreas Ravelli 73' Robert Prytz 77')
+     (Robert Prytz 54',77' Dan Corneliusson 58' Glenn Hysén 62' Andreas Ravelli 73')
 Sun May 22
   Poland               v Soviet Union          1-1   @ Chorzów, Poland
      (Zbigniew Boniek 16';
@@ -104,7 +104,7 @@ Sun Jun 5
 Wed Jun 8
   Albania              v Austria               1-2   @ Tirana, Albania
      (Muhedin Targaj 84';
-      Walter Schachner 5' Walter Schachner 58')
+      Walter Schachner 5',58')
 Thu Jun 9
   Sweden               v Romania               0-1   @ Solna, Sweden
      (Rodion Cămătaru 30')
@@ -129,20 +129,20 @@ Wed Sep 21
      (Dan Corneliusson 17')
 Wed Oct 5
   Germany              v Austria               3-0   @ Gelsenkirchen, Germany
-     (Karl-Heinz Rummenigge 3' Rudi Völler 18' Rudi Völler 20')
+     (Karl-Heinz Rummenigge 3' Rudi Völler 18',20')
 Sun Oct 9
   Soviet Union         v Poland                2-0   @ Moscow, Soviet Union
      (Anatoliy Demyanenko 10' Oleg Blokhin 62')
 Wed Oct 12
   Denmark              v Luxembourg            6-0   @ Copenhagen, Denmark
-     (Michael Laudrup 16' Michael Laudrup 23' Preben Elkjær 35' Allan Simonsen 41' Preben Elkjær 58' Michael Laudrup 69')
+     (Michael Laudrup 16',23',69' Preben Elkjær 35',58' Allan Simonsen 41')
   German DR            v Switzerland           3-0   @ Berlin, German DR
      (Hans Richter 45' Rainer Ernst 73' Joachim Streich 90')
   Hungary              v England               0-3   @ Budapest, Hungary
      (Glenn Hoddle 13' Sammy Lee 19' Paul Mariner 42')
   Republic of Ireland  v Netherlands           2-3   @ Dublin, Republic of Ireland
      (Gary Waddock 7' Liam Brady 35'(p);
-      Ruud Gullit 51' Marco van Basten 66' Ruud Gullit 76')
+      Ruud Gullit 51',76' Marco van Basten 66')
   Scotland             v Belgium               1-1   @ Glasgow, Scotland
      (Charlie Nicholas 55';
       Franky Vercauteren 30')
@@ -153,10 +153,10 @@ Wed Oct 12
       Hallvar Thoresen 89')
 Sat Oct 15
   Italy                v Sweden                0-3   @ Naples, Italy
-     (Glenn Strömberg 20' Glenn Strömberg 27' Thomas Sunesson 71')
+     (Glenn Strömberg 20',27' Thomas Sunesson 71')
 Wed Oct 26
   Germany              v Turkey                5-1   @ Berlin, Germany
-     (Rudi Völler 44' Karl-Heinz Rummenigge 60' Rudi Völler 65' Uli Stielike 66' Karl-Heinz Rummenigge 74'(p);
+     (Rudi Völler 44',65' Karl-Heinz Rummenigge 60',74'(p) Uli Stielike 66';
       Hasan Şengün 69')
   Hungary              v Denmark               1-0   @ Budapest, Hungary
      (Sándor Kiss 57')
@@ -177,7 +177,7 @@ Wed Nov 16
   Bulgaria             v Wales                 1-0   @ Sofia, Bulgaria
      (Rusi Gochev 54')
   Czechoslovakia       v Italy                 2-0   @ Prague, Czechoslovakia
-     (Petr Rada 63' Petr Rada 76'(p))
+     (Petr Rada 63',76'(p))
   German DR            v Scotland              2-1   @ Halle, German DR
      (Ronald Kreer 34' Joachim Streich 43';
       Eamonn Bannon 77')
@@ -186,14 +186,14 @@ Wed Nov 16
   Greece               v Denmark               0-2   @ Athens, Greece
      (Preben Elkjær 16' Allan Simonsen 47')
   Republic of Ireland  v Malta                 8-0   @ Dublin, Republic of Ireland
-     (Mark Lawrenson 25' Frank Stapleton 28'(p) Kevin O'Callaghan 35' Mark Lawrenson 63' Kevin Sheedy 74' Liam Brady 76' Liam Brady 84' Gerry Daly 86')
+     (Mark Lawrenson 25',63' Frank Stapleton 28'(p) Kevin O'Callaghan 35' Kevin Sheedy 74' Liam Brady 76',84' Gerry Daly 86')
   Luxembourg           v England               0-4   @ Luxembourg, Luxembourg
-     (Bryan Robson 10' Paul Mariner 38' Bryan Robson 56' Terry Butcher 80')
+     (Bryan Robson 10',56' Paul Mariner 38' Terry Butcher 80')
   Netherlands          v Spain                 2-1   @ Rotterdam, Netherlands
      (Peter Houtman 26' Ruud Gullit 63';
       Santillana 41')
   Turkey               v Austria               3-1   @ Istanbul, Turkey
-     (İlyas Tüfekçi 62' Selçuk Yula 69' Selçuk Yula 76'(p);
+     (İlyas Tüfekçi 62' Selçuk Yula 69',76'(p);
       Ernst Baumeister 71')
 Sun Nov 20
   Germany              v Albania               2-1   @ Saarbrücken, Germany
@@ -205,7 +205,7 @@ Wed Nov 30
       Ion Geolgău 68')
 Sat Dec 3
   Greece               v Hungary               2-2   @ Salonica, Greece
-     (Nikos Anastopoulos 9' Nikos Anastopoulos 55';
+     (Nikos Anastopoulos 9',55';
       József Kardos 12' András Törőcsik 40')
 Wed Dec 14
   Greece               v Luxembourg            1-0   @ Piraeus, Greece
@@ -215,13 +215,13 @@ Wed Dec 14
       Mehmed Baždarević 81')
 Sat Dec 17
   Netherlands          v Malta                 5-0   @ Rotterdam, Netherlands
-     (Gerald Vanenburg 19' Ben Wijnstekers 30' Frank Rijkaard 74' Peter Houtman 79' Frank Rijkaard 90')
+     (Gerald Vanenburg 19' Ben Wijnstekers 30' Frank Rijkaard 74',90' Peter Houtman 79')
 Wed Dec 21
   Spain                v Malta                 12-1   @ Seville, Spain
-     (Santillana 15' Santillana 26' Santillana 28' Hipólito Rincón 46' Hipólito Rincón 55' Antonio Maceda 60' Antonio Maceda 62' Hipólito Rincón 63' Santillana 75' Hipólito Rincón 78' Manuel Sarabia 79' Juan Antonio Señor 84';
+     (Santillana 15',26',28',75' Hipólito Rincón 46',55',63',78' Antonio Maceda 60',62' Manuel Sarabia 79' Juan Antonio Señor 84';
       Michael Degiorgio 24')
   Yugoslavia           v Bulgaria              3-2   @ Split, Yugoslavia
-     (Safet Sušić 31' Safet Sušić 53' Ljubomir Radanović 90';
+     (Safet Sušić 31',53' Ljubomir Radanović 90';
       Bozhidar Iskrenov 28' Georgi Dimitrov 60')
 Thu Dec 22
   Italy                v Cyprus                3-1   @ Perugia, Italy

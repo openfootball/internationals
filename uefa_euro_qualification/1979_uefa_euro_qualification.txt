@@ -6,7 +6,7 @@
 
 Wed Feb 7
   England              v Northern Ireland      4-0   @ London, England
-     (Kevin Keegan 24' Bob Latchford 46' David Watson 49' Bob Latchford 63')
+     (Kevin Keegan 24' Bob Latchford 46',63' David Watson 49')
 Sun Feb 25
   France               v Luxembourg            3-0   @ Paris, France
      (Jean Petit 38' Albert Emon 62' Jean-François Larios 80')
@@ -23,14 +23,14 @@ Wed Mar 28
      (Kees Kist 55' John Metgod 84' Jan Peters 89')
 Sun Apr 1
   Cyprus               v Yugoslavia            0-3   @ Nicosia, Cyprus
-     (Zlatko Vujović 40' Zlatko Vujović 79' Ivica Šurjak 82'(p))
+     (Zlatko Vujović 40',79' Ivica Šurjak 82'(p))
   Turkey               v Germany               0-0   @ İzmir, Turkey
 Wed Apr 4
   Czechoslovakia       v France                2-0   @ Bratislava, Czechoslovakia
      (Antonín Panenka 67'(p) František Štambachr 72')
   Romania              v Spain                 2-2   @ Craiova, Romania
-     (Dudu Georgescu 57'(p) Dudu Georgescu 65';
-      Daniel Ruiz 59' Daniel Ruiz 70')
+     (Dudu Georgescu 57'(p),65';
+      Daniel Ruiz 59',70')
 Wed Apr 18
   German DR            v Poland                2-1   @ Leipzig, German DR
      (Joachim Streich 59' Lutz Lindemann 63';
@@ -75,7 +75,7 @@ Wed Jun 6
   Bulgaria             v England               0-3   @ Sofia, Bulgaria
      (Kevin Keegan 7' David Watson 53' Peter Barnes 54')
   Denmark              v Northern Ireland      4-0   @ Copenhagen, Denmark
-     (Preben Elkjær 13' Preben Elkjær 33' Allan Simonsen 64' Preben Elkjær 83')
+     (Preben Elkjær 13',33',83' Allan Simonsen 64')
 Thu Jun 7
   Norway               v Scotland              0-4   @ Oslo, Norway
      (Joe Jordan 32' Kenny Dalglish 39' John Robertson 43' Gordon McQueen 54')
@@ -94,7 +94,7 @@ Wed Aug 29
      (Kurt Jara 42' Herbert Prohaska 46'(p) Wilhelm Kreuz 75' Hans Krankl 86')
 Wed Sep 5
   Iceland              v Netherlands           0-4   @ Reykjavík, Iceland
-     (John Metgod 48' Willy van de Kerkhof 71' Dick Nanninga 73' Dick Nanninga 87')
+     (John Metgod 48' Willy van de Kerkhof 71' Dick Nanninga 73',87')
   Sweden               v France                1-3   @ Solna, Sweden
      (Rutger Backe 24';
       Bernard Lacombe 14' Michel Platini 55' Patrick Battiston 71')
@@ -104,36 +104,36 @@ Wed Sep 12
   Greece               v Soviet Union          1-0   @ Athens, Greece
      (Takis Nikoloudis 25')
   Iceland              v German DR             0-3   @ Reykjavík, Iceland
-     (Gerd Weber 66'(p) Gerd Weber 73' Joachim Streich 80')
+     (Gerd Weber 66'(p),73' Joachim Streich 80')
   Norway               v Belgium               1-2   @ Oslo, Norway
      (Pål Jacobsen 7';
       Jean Janssens 31' François Van der Elst 75')
   Switzerland          v Poland                0-2   @ Lausanne, Switzerland
-     (Stanisław Terlecki 34' Stanisław Terlecki 63')
+     (Stanisław Terlecki 34',63')
 Wed Sep 26
   Poland               v German DR             1-1   @ Chorzów, Poland
      (Henryk Wieczorek 77';
       Reinhard Häfner 62')
 Wed Oct 10
   Czechoslovakia       v Sweden                4-1   @ Prague, Czechoslovakia
-     (Zdeněk Nehoda 20' Ján Kozák 34' Ladislav Vízek 41' Ladislav Vízek 78';
+     (Zdeněk Nehoda 20' Ján Kozák 34' Ladislav Vízek 41',78';
       Jan Svensson 61')
   Poland               v Iceland               2-0   @ Kraków, Poland
-     (Roman Ogaza 55' Roman Ogaza 74'(p))
+     (Roman Ogaza 55',74'(p))
   Spain                v Yugoslavia            0-1   @ Valencia, Spain
      (Ivica Šurjak 5')
 Sat Oct 13
   German DR            v Switzerland           5-2   @ Berlin, German DR
-     (Gerd Weber 1' Martin Hoffmann 11' Rüdiger Schnuphase 26' Martin Hoffmann 75' Martin Hoffmann 80';
+     (Gerd Weber 1' Martin Hoffmann 11',75',80' Rüdiger Schnuphase 26';
       Umberto Barberis 19' Hans-Jörg Pfister 72')
 Wed Oct 17
   Belgium              v Portugal              2-0   @ Brussels, Belgium
      (Wilfried Van Moer 46' François Van der Elst 56')
   Germany              v Wales                 5-1   @ Cologne, Germany
-     (Klaus Fischer 21' Manfred Kaltz 32' Klaus Fischer 38' Karl-Heinz Rummenigge 42' Karlheinz Förster 83';
+     (Klaus Fischer 21',38' Manfred Kaltz 32' Karl-Heinz Rummenigge 42' Karlheinz Förster 83';
       Alan Curtis 84')
   Hungary              v Finland               3-1   @ Debrecen, Hungary
-     (László Fekete 11' László Fekete 42' György Tatar 57';
+     (László Fekete 11',42' György Tatar 57';
       Miikka Toivola 47')
   Republic of Ireland  v Bulgaria              3-0   @ Dublin, Republic of Ireland
      (Mick Martin 39' Tony Grealish 46' Frank Stapleton 83')
@@ -142,7 +142,7 @@ Wed Oct 17
       Wojciech Rudy 4')
   Northern Ireland     v England               1-5   @ Belfast, Northern Ireland
      (Victor Moreland 50'(p);
-      Trevor Francis 18' Tony Woodcock 34' Tony Woodcock 57' Trevor Francis 62' Jimmy Nicholl 74'(og))
+      Trevor Francis 18',62' Tony Woodcock 34',57' Jimmy Nicholl 74'(og))
   Scotland             v Austria               1-1   @ Glasgow, Scotland
      (Archie Gemmill 75';
       Hans Krankl 11')
@@ -156,7 +156,7 @@ Sun Oct 28
       Sedat Özden 20' Mustafa Denizli 25')
 Wed Oct 31
   Bulgaria             v Denmark               3-0   @ Sofia, Bulgaria
-     (Andrey Zhelyazkov 21' Chavdar Tsvetkov 51' Chavdar Tsvetkov 88')
+     (Andrey Zhelyazkov 21' Chavdar Tsvetkov 51',88')
   Soviet Union         v Finland               2-2   @ Moscow, Soviet Union
      (Sergey Andreyev 50' Yuri Gavrilov 67';
       Kai Haaskivi 76' Tuomo Hakala 82')
@@ -165,11 +165,11 @@ Wed Oct 31
       Marcel Răducanu 79')
 Thu Nov 1
   Portugal             v Norway                3-1   @ Oeiras, Portugal
-     (Artur Correia 37' Nené 59' Nené 71';
+     (Artur Correia 37' Nené 59',71';
       Georg Hammer 10')
 Wed Nov 14
   Yugoslavia           v Cyprus                5-0   @ Novi Sad, Yugoslavia
-     (Zlatko Kranjčar 32' Zlatko Kranjčar 50' Zlatko Vujović 60' Vladimir Petrović 75' Dušan Savić 87')
+     (Zlatko Kranjčar 32',50' Zlatko Vujović 60' Vladimir Petrović 75' Dušan Savić 87')
 Sat Nov 17
   France               v Czechoslovakia        2-1   @ Paris, France
      (Éric Pécout 67' Gilles Rampillon 75';
@@ -195,7 +195,7 @@ Thu Nov 22
      (David Watson 9' Glenn Hoddle 68')
 Sat Nov 24
   Czechoslovakia       v Luxembourg            4-0   @ Prague, Czechoslovakia
-     (Antonín Panenka 37' Marián Masný 39' Marián Masný 45' Ladislav Vízek 61')
+     (Antonín Panenka 37' Marián Masný 39',45' Ladislav Vízek 61')
 Sun Dec 9
   Cyprus               v Spain                 1-3   @ Limassol, Cyprus
      (Fivos Vrahimis 69';
@@ -203,7 +203,7 @@ Sun Dec 9
 Wed Dec 19
   Scotland             v Belgium               1-3   @ Glasgow, Scotland
      (John Robertson 55';
-      Erwin Vandenbergh 18' François Van der Elst 23' François Van der Elst 28')
+      Erwin Vandenbergh 18' François Van der Elst 23',28')
 Sat Dec 22
   Germany              v Turkey                2-0   @ Gelsenkirchen, Germany
      (Klaus Fischer 15' Herbert Zimmermann 89')

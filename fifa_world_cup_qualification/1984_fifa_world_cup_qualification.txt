@@ -10,7 +10,7 @@ Wed May 2
       Martin Gisinger 37' Herbert Prohaska 75')
 Wed May 23
   Sweden               v Malta                 4-0   @ Norrköping, Sweden
-     (Thomas Sunesson 4' Dan Corneliusson 37' Ingemar Erlandsson 70'(p) Thomas Sunesson 75')
+     (Thomas Sunesson 4',75' Dan Corneliusson 37' Ingemar Erlandsson 70'(p))
 Sun May 27
   Finland              v Northern Ireland      1-0   @ Pori, Finland
      (Ari Valvee 55')
@@ -24,12 +24,12 @@ Sun Jul 15
   Mauritius            v Malawi                0-1   @ Curepipe, Mauritius
      (Ricky Phuka 44')
   Morocco              v Sierra Leone          4-0   @ Rabat, Morocco
-     (Mustapha Merry 34' Saad Dahane 51'(p) Mustapha Merry 77' Khalid Labied 81')
+     (Mustapha Merry 34',77' Saad Dahane 51'(p) Khalid Labied 81')
   Senegal              v Angola                1-0   @ Dakar, Senegal   [Angola wins on penalties]
      (Abdou Karim Sèye 24')
 Sat Jul 28
   Malawi               v Mauritius             4-0   @ Lilongwe, Malawi
-     (Frank Sinalo 2' Bernard Leclézio 48'(og) Harry Waya 84' Frank Sinalo 89')
+     (Frank Sinalo 2',89' Bernard Leclézio 48'(og) Harry Waya 84')
 Sun Jul 29
   Zambia               v Uganda                3-0   @ Ndola, Zambia
      (Fanny Hangunyu 44' Lucky Msiska 51' Kalusha Bwalya 89')
@@ -72,7 +72,7 @@ Sat Oct 13
      (Joe Masiga 16' Sam Tabu 57';
       Mulugeta Kebede 19')
   Luxembourg           v France                0-4   @ Luxembourg, Luxembourg
-     (Patrick Battiston 2' Michel Platini 13' Yannick Stopyra 24' Yannick Stopyra 33')
+     (Patrick Battiston 2' Michel Platini 13' Yannick Stopyra 24',33')
   Tanzania             v Sudan                 1-1   @ Mwanza, Tanzania
      (Peter Tino 28';
       Mohamed Abdallah 68')
@@ -85,7 +85,7 @@ Wed Oct 17
      (Nico Claesen 59' Enzo Scifo 84' Eddy Voordeckers 88';
       Bedri Omuri 71')
   England              v Finland               5-0   @ London, England
-     (Mark Hateley 29' Tony Woodcock 41' Mark Hateley 50' Bryan Robson 70' Kenny Sansom 88')
+     (Mark Hateley 29',50' Tony Woodcock 41' Bryan Robson 70' Kenny Sansom 88')
   Germany              v Sweden                2-0   @ Cologne, Germany
      (Uwe Rahn 75' Karl-Heinz Rummenigge 88')
   Netherlands          v Hungary               1-2   @ Rotterdam, Netherlands
@@ -94,10 +94,10 @@ Wed Oct 17
   Norway               v Republic of Ireland   1-0   @ Oslo, Norway
      (Pål Jacobsen 42')
   Poland               v Greece                3-1   @ Zabrze, Poland
-     (Włodzimierz Smolarek 62' Dariusz Dziekanowski 65' Dariusz Dziekanowski 79';
+     (Włodzimierz Smolarek 62' Dariusz Dziekanowski 65',79';
       Tasos Mitropoulos 35')
   Scotland             v Iceland               3-0   @ Glasgow, Scotland
-     (Paul McStay 26' Paul McStay 40' Charlie Nicholas 74')
+     (Paul McStay 26',40' Charlie Nicholas 74')
   Spain                v Wales                 3-0   @ Seville, Spain
      (Hipólito Rincón 7' Francisco José Carrasco 83' Emilio Butragueño 89')
   Switzerland          v Denmark               1-0   @ Bern, Switzerland
@@ -107,10 +107,10 @@ Sat Oct 20
      (Michael Glowatzky 11' Rainer Ernst 50';
       Mehmed Baždarević 30' Fadil Vokrri 48' Miloš Šestić 80')
   Nigeria              v Liberia               3-0   @ Lagos, Nigeria
-     (Humphrey Edobor 7' Humphrey Edobor 15' Ademola Adeshina 78')
+     (Humphrey Edobor 7',15' Ademola Adeshina 78')
 Sun Oct 21
   Ivory Coast          v Gambia                4-0   @ Abidjan, Ivory Coast
-     (Abdoulaye Traoré 47' Abdoulaye Traoré 62' Kouassi N'Dri 66' Oumar Ben Salah 84')
+     (Abdoulaye Traoré 47',62' Kouassi N'Dri 66' Oumar Ben Salah 84')
 Sat Oct 27
   Sudan                v Tanzania              0-0   @ Khartoum, Sudan
 Sun Oct 28
@@ -121,7 +121,7 @@ Sun Oct 28
       Sammy Ayoyi 48' Joe Masiga 56' Sammy Onyango 88')
 Wed Oct 31
   Czechoslovakia       v Malta                 4-0   @ Prague, Czechoslovakia
-     (Petr Janečka 4' Karel Jarolím 35' Petr Janečka 71' Jan Berger 77'(p))
+     (Petr Janečka 4',71' Karel Jarolím 35' Jan Berger 77'(p))
   Poland               v Albania               2-2   @ Mielec, Poland
      (Włodzimierz Smolarek 23' Andrzej Pałasz 80';
       Bedri Omuri 55' Agustin Kola 75')
@@ -136,23 +136,23 @@ Sun Nov 4
      (Clement Temile 42')
 Tue Nov 13
   Tunisia              v Benin                 4-0   @ Tunis, Tunisia
-     (Bassam Jeridi 5' Bassam Jeridi 16' Abdelkader Rakbaoui 56' Mohamed Gasri 74')
+     (Bassam Jeridi 5',16' Abdelkader Rakbaoui 56' Mohamed Gasri 74')
 Wed Nov 14
   Austria              v Netherlands           1-0   @ Vienna, Austria
      (Michel Valke 15'(og))
   Denmark              v Republic of Ireland   3-0   @ Copenhagen, Denmark
-     (Preben Elkjær 26' Preben Elkjær 46' Søren Lerby 55')
+     (Preben Elkjær 26',46' Søren Lerby 55')
   Northern Ireland     v Finland               2-1   @ Belfast, Northern Ireland
      (John O'Neill 44' Gerry Armstrong 51'(p);
       Mika Lipponen 22')
   Portugal             v Sweden                1-3   @ Lisbon, Portugal
      (Rui Jordão 11';
-      Robert Prytz 29'(p) Robert Prytz 35' Torbjörn Nilsson 38')
+      Robert Prytz 29'(p),35' Torbjörn Nilsson 38')
   Scotland             v Spain                 3-1   @ Glasgow, Scotland
-     (Mo Johnston 33' Mo Johnston 42' Kenny Dalglish 71';
+     (Mo Johnston 33',42' Kenny Dalglish 71';
       Andoni Goikoetxea 65')
   Turkey               v England               0-8   @ Istanbul, Turkey
-     (Bryan Robson 13' Tony Woodcock 17' Tony Woodcock 43' John Barnes 47' John Barnes 53' Bryan Robson 59' Bryan Robson 61' Viv Anderson 86')
+     (Bryan Robson 13',59',61' Tony Woodcock 17',43' John Barnes 47',53' Viv Anderson 86')
   Wales                v Iceland               2-1   @ Cardiff, Wales
      (Mickey Thomas 36' Mark Hughes 62';
       Pétur Pétursson 56')
@@ -161,7 +161,7 @@ Sat Nov 17
      (Kostas Foti 25';
       Antal Róth 49' Tibor Nyilasi 86')
   Luxembourg           v German DR             0-5   @ Esch-sur-Alzette, Luxembourg
-     (Rainer Ernst 60' Ralf Minge 63' Rainer Ernst 76' Ralf Minge 78' Rainer Ernst 81')
+     (Rainer Ernst 60',76',81' Ralf Minge 63',78')
 Wed Nov 21
   France               v Bulgaria              1-0   @ Paris, France
      (Michel Platini 62'(p))
@@ -174,7 +174,7 @@ Sat Dec 8
 Sun Dec 16
   Malta                v Germany               2-3   @ Attard, Malta
      (Carmel Busuttil 10' Raymond Xuereb 84';
-      Karlheinz Förster 43' Klaus Allofs 68' Klaus Allofs 83')
+      Karlheinz Förster 43' Klaus Allofs 68',83')
 Wed Dec 19
   Greece               v Belgium               0-0   @ Athens, Greece
 Sat Dec 22

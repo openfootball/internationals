@@ -12,16 +12,16 @@ Thu Sep 7
      (Lionel Messi 78')
 Fri Sep 8
   Uruguay              v Chile                 3-1   @ Montevideo, Uruguay
-     (Nicolás de la Cruz 38' Federico Valverde 45' Nicolás de la Cruz 71';
+     (Nicolás de la Cruz 38',71' Federico Valverde 45';
       Arturo Vidal 74')
   Brazil               v Bolivia               5-1   @ Belém, Brazil
-     (Rodrygo 24' Raphinha 47' Rodrygo 53' Neymar 61' Neymar 90';
+     (Rodrygo 24',53' Raphinha 47' Neymar 61',90';
       Víctor Ábrego 78')
 Tue Sep 12
   Bolivia              v Argentina             0-3   @ La Paz, Bolivia
      (Enzo Fernández 31' Nicolás Tagliafico 42' Nicolás González 83')
   Ecuador              v Uruguay               2-1   @ Quito, Ecuador
-     (Félix Torres 45' Félix Torres 61';
+     (Félix Torres 45',61';
       Agustín Canobbio 38')
   Venezuela            v Paraguay              1-0   @ Maturín, Venezuela
      (Salomón Rondón 90'(p))
@@ -46,16 +46,16 @@ Thu Oct 12
      (Jabar Sharza 60')
   Cambodia             v Pakistan              0-0   @ Phnom Penh, Cambodia
   Taiwan               v Timor-Leste           4-0   @ Kaohsiung, Taiwan
-     (Yu Yao-hsing 4' Chen Ting-yang 57' Yu Yao-hsing 60' Ko Yu-ting 88')
+     (Yu Yao-hsing 4',60' Chen Ting-yang 57' Ko Yu-ting 88')
   Hong Kong            v Bhutan                4-0   @ Hong Kong, Hong Kong
-     (Michael Udebuluzor 10' Michael Udebuluzor 16' Shinichi Chan 28' Tenzin Norbu 35'(og))
+     (Michael Udebuluzor 10',16' Shinichi Chan 28' Tenzin Norbu 35'(og))
   Indonesia            v Brunei                6-0   @ Jakarta, Indonesia
-     (Dimas Drajad 7' Rizky Ridho 12' Ramadhan Sananta 63'(p) Ramadhan Sananta 67' Dimas Drajad 72' Dimas Drajad 90')
+     (Dimas Drajad 7',72',90' Rizky Ridho 12' Ramadhan Sananta 63'(p),67')
   Maldives             v Bangladesh            1-1   @ Malé, Maldives
      (Hassan Nazeem 87';
       Md Saad Uddin 90')
   Myanmar              v Macau                 5-1   @ Yangon, Myanmar
-     (Lwin Moe Aung 39' Soe Moe Kyaw 62' Aung Kaung Mann 81' Lwin Moe Aung 90' Nay Moe Naing 90';
+     (Lwin Moe Aung 39',90' Soe Moe Kyaw 62' Aung Kaung Mann 81' Nay Moe Naing 90';
       Niki Torrão 55')
   Nepal                v Laos                  1-1   @ Kathmandu, Nepal
      (Anjan Bista 48';
@@ -72,7 +72,7 @@ Tue Oct 17
   Paraguay             v Bolivia               1-0   @ Asunción, Paraguay
      (Antonio Sanabria 69')
   Peru                 v Argentina             0-2   @ Lima, Peru
-     (Lionel Messi 32' Lionel Messi 42')
+     (Lionel Messi 32',42')
   Uruguay              v Brazil                2-0   @ Montevideo, Uruguay
      (Darwin Núñez 42' Nicolás de la Cruz 77')
   Bangladesh           v Maldives              2-1   @ Dhaka, Bangladesh
@@ -81,7 +81,7 @@ Tue Oct 17
   Bhutan               v Hong Kong             2-0   @ Thimphu, Bhutan
      (Chencho Gyeltshen 28' Lobzang Chogyal 47')
   Brunei               v Indonesia             0-6   @ Bandar Seri Begawan, Brunei
-     (Hokky Caraka 6' Egy Maulana Vikri 42' Hokky Caraka 44' Witan Sulaeman 47'(p) Rizky Ridho 63' Ramadhan Sananta 82')
+     (Hokky Caraka 6',44' Egy Maulana Vikri 42' Witan Sulaeman 47'(p) Rizky Ridho 63' Ramadhan Sananta 82')
   Guam                 v Singapore             0-1   @ Dededo, Guam
      (Shawal Anuar 81')
   Laos                 v Nepal                 0-1   @ Vientiane, Laos
@@ -107,18 +107,18 @@ Thu Nov 16
      (Henry Vaca 20' Ramiro Vaca 87')
   Venezuela            v Ecuador               0-0   @ Maturín, Venezuela
   Colombia             v Brazil                2-1   @ Barranquilla, Colombia
-     (Luis Díaz 75' Luis Díaz 79';
+     (Luis Díaz 75',79';
       Gabriel Martinelli 4')
   Argentina            v Uruguay               0-2   @ Buenos Aires, Argentina
      (Ronald Araújo 41' Darwin Núñez 87')
   Chile                v Paraguay              0-0   @ Santiago, Chile
   Qatar                v Afghanistan           8-1   @ Al Rayyan, Qatar
-     (Hassan Al-Haydos 11' Almoez Ali 15' Mostafa Meshaal 18' Almoez Ali 26' Almoez Ali 33'(p) Almoez Ali 45'(p) Ahmed Alaaeldin 53'(p) Tameem Al-Abdullah 90';
+     (Hassan Al-Haydos 11' Almoez Ali 15',26',33'(p),45'(p) Mostafa Meshaal 18' Ahmed Alaaeldin 53'(p) Tameem Al-Abdullah 90';
       Amredin Sharifi 13')
   Kuwait               v India                 0-1   @ Kuwait City, Kuwait
      (Manvir Singh 75')
   Japan                v Myanmar               5-0   @ Suita, Japan
-     (Ayase Ueda 11' Daichi Kamada 28' Ayase Ueda 45' Ayase Ueda 50' Ritsu Dōan 86')
+     (Ayase Ueda 11',45',50' Daichi Kamada 28' Ritsu Dōan 86')
   Syria                v North Korea           1-0   @ Jeddah, Saudi Arabia
      (Omar Al Somah 37'(p))
   Thailand             v China PR              1-2   @ Bangkok, Thailand
@@ -129,13 +129,13 @@ Thu Nov 16
   Oman                 v Taiwan                3-0   @ Muscat, Oman
      (Omar Al-Malki 17' Pan Wen-chieh 41'(og) Mataz Saleh 90')
   Malaysia             v Kyrgyzstan            4-3   @ Kuala Lumpur, Malaysia
-     (Dion Cools 7' Khristiyan Brauzman 72'(og) Dion Cools 77' Faisal Halim 90';
+     (Dion Cools 7',77' Khristiyan Brauzman 72'(og) Faisal Halim 90';
       Kayrat Zhyrgalbek uulu 42' Ernist Batyrkanov 44' Kai Merk 57')
   Iran                 v Hong Kong             4-0   @ Tehran, Iran
-     (Sardar Azmoun 12' Sardar Azmoun 15' Mehdi Taremi 87' Ramin Rezaeian 90')
+     (Sardar Azmoun 12',15' Mehdi Taremi 87' Ramin Rezaeian 90')
   Turkmenistan         v Uzbekistan            1-3   @ Ashgabat, Turkmenistan
      (Meýlis Durdyýew 44';
-      Otabek Shukurov 57' Otabek Shukurov 77' Eldor Shomurodov 90')
+      Otabek Shukurov 57',77' Eldor Shomurodov 90')
   Iraq                 v Indonesia             5-1   @ Basra, Iraq
      (Bashar Resan 20' Jordi Amat 35'(og) Osama Rashid 60' Youssef Amyn 81' Ali Al-Hamadi 88';
       Shayne Pattynama 45')
@@ -145,16 +145,16 @@ Thu Nov 16
      (Shahrom Samiev 89';
       Yazan Al-Naimat 90')
   Saudi Arabia         v Pakistan              4-0   @ Al Hofuf, Saudi Arabia
-     (Saleh Al-Shehri 6' Saleh Al-Shehri 48'(p) Abdulrahman Ghareeb 90' Abdullah Radif 90')
+     (Saleh Al-Shehri 6',48'(p) Abdulrahman Ghareeb 90' Abdullah Radif 90')
   United Arab Emirates v Nepal                 4-0   @ Dubai, United Arab Emirates
-     (Khalifa Al Hammadi 11' Ali Mabkhout 36'(p) Ali Mabkhout 44' Fábio Lima 45')
+     (Khalifa Al Hammadi 11' Ali Mabkhout 36'(p),44' Fábio Lima 45')
   Yemen                v Bahrain               0-2   @ Abha, Saudi Arabia
      (Mohamed Marhoon 38' Harwan Al-Zubaidi 48'(og))
   Lebanon              v Palestine             0-0   @ Sharjah, United Arab Emirates
   Australia            v Bangladesh            7-0   @ Melbourne, Australia
-     (Harry Souttar 4' Brandon Borrello 20' Mitchell Duke 37' Mitchell Duke 40' Jamie Maclaren 48' Jamie Maclaren 70' Jamie Maclaren 84')
+     (Harry Souttar 4' Brandon Borrello 20' Mitchell Duke 37',40' Jamie Maclaren 48',70',84')
   Egypt                v Djibouti              6-0   @ Cairo, Egypt
-     (Mohamed Salah 17' Mohamed Salah 22'(p) Mohamed Salah 48' Mohamed Salah 69' Mostafa Mohamed 73' Trézéguet 89')
+     (Mohamed Salah 17',22'(p),48',69' Mostafa Mohamed 73' Trézéguet 89')
   Sudan                v Togo                  1-1   @ Benghazi, Libya
      (Mohamed Eisa 17'(p);
       Kévin Denkey 43')
@@ -183,10 +183,10 @@ Fri Nov 17
   Cameroon             v Mauritius             3-0   @ Douala, Cameroon
      (Bryan Mbeumo 45' Georges-Kévin Nkoudou 87' Frank Magri 90')
   Zambia               v Congo                 4-2   @ Ndola, Zambia
-     (Patson Daka 5' Lameck Banda 43' Fashion Sakala 69' Patson Daka 90';
+     (Patson Daka 5',90' Lameck Banda 43' Fashion Sakala 69';
       Silvère Ganvoula 13' Mons Bassouamina 15')
   Ivory Coast          v Seychelles            9-0   @ Abidjan, Ivory Coast
-     (Sébastien Haller 20'(p) Ibrahim Sangaré 24' Simon Adingra 36' Karim Konaté 40'(p) Seko Fofana 60' Hamed Traorè 77' Jean-Philippe Krasso 84'(p) Karim Konaté 90' Hamed Traorè 90')
+     (Sébastien Haller 20'(p) Ibrahim Sangaré 24' Simon Adingra 36' Karim Konaté 40'(p),90' Seko Fofana 60' Hamed Traorè 77',90' Jean-Philippe Krasso 84'(p))
   Guinea               v Uganda                2-1   @ Berkane, Morocco
      (Aguibou Camara 10' Seydouba Cissé 90';
       Fahad Bayo 30')
@@ -204,7 +204,7 @@ Fri Nov 17
       Marius Mouandilmadji 53')
 Sat Nov 18
   Senegal              v South Sudan           4-0   @ Diamniadio, Senegal
-     (Pape Matar Sarr 1' Sadio Mané 5' Lamine Camara 45' Sadio Mané 56'(p))
+     (Pape Matar Sarr 1' Sadio Mané 5',56'(p) Lamine Camara 45')
   South Africa         v Benin                 2-1   @ Durban, South Africa
      (Percy Tau 2' Khuliso Mudau 45';
       Steve Mounié 70')
@@ -212,7 +212,7 @@ Sat Nov 18
      (Charles M'Mombwa 56')
 Sun Nov 19
   Sierra Leone         v Egypt                 0-2   @ Monrovia, Liberia
-     (Trézéguet 18' Trézéguet 62')
+     (Trézéguet 18',62')
   Sudan                v DR Congo              1-0   @ Benghazi, Libya
      (Charles Pickel 79'(og))
   Zimbabwe             v Nigeria               1-1   @ Butare, Rwanda
@@ -229,20 +229,20 @@ Mon Nov 20
   Gambia               v Ivory Coast           0-2   @ Dar es Salaam, Tanzania
      (Christian Kouamé 45' Seko Fofana 85')
   Seychelles           v Kenya                 0-5   @ Abidjan, Ivory Coast
-     (Michael Olunga 3' Michael Olunga 6' Masoud Juma 45' Rooney Onyango 62' Benson Omala 73')
+     (Michael Olunga 3',6' Masoud Juma 45' Rooney Onyango 62' Benson Omala 73')
   Liberia              v Equatorial Guinea     3-0   @ Monrovia, Liberia
   Mali                 v Central African Republic  1-1   @ Bamako, Mali
      (Kamory Doumbia 76';
       Geoffrey Kondogbia 79')
   Chad                 v Madagascar            0-3   @ Oujda, Morocco
-     (Njiva Rakotoharimalala 10' Njiva Rakotoharimalala 84' Loïc Lapoussin 90')
+     (Njiva Rakotoharimalala 10',84' Loïc Lapoussin 90')
 Tue Nov 21
   Ecuador              v Chile                 1-0   @ Quito, Ecuador
      (Ángel Mena 21')
   Paraguay             v Colombia              0-1   @ Asunción, Paraguay
      (Rafael Santos Borré 11'(p))
   Uruguay              v Bolivia               3-0   @ Montevideo, Uruguay
-     (Darwin Núñez 15' Gabriel Villamíl 39'(og) Darwin Núñez 71')
+     (Darwin Núñez 15',71' Gabriel Villamíl 39'(og))
   Peru                 v Venezuela             1-1   @ Lima, Peru
      (Yoshimar Yotún 17';
       Jefferson Savarino 54')
@@ -251,17 +251,17 @@ Tue Nov 21
   India                v Qatar                 0-3   @ Bhubaneswar, India
      (Mostafa Meshaal 4' Almoez Ali 47' Yusuf Abdurisag 86')
   Afghanistan          v Kuwait                0-4   @ Dammam, Saudi Arabia
-     (Shabaib Al-Khaldi 18'(p) Mohammad Daham 69' Shabaib Al-Khaldi 80' Athbi Saleh 82')
+     (Shabaib Al-Khaldi 18'(p),80' Mohammad Daham 69' Athbi Saleh 82')
   Myanmar              v North Korea           1-6   @ Yangon, Myanmar
      (Win Naing Tun 77';
-      Jong Il-gwan 30' Choe Ju-song 34'(p) Han Kwang-song 38' Jong Il-gwan 54' Jong Il-gwan 56' Ri Hyong-jin 70')
+      Jong Il-gwan 30',54',56' Choe Ju-song 34'(p) Han Kwang-song 38' Ri Hyong-jin 70')
   Syria                v Japan                 0-5   @ Jeddah, Saudi Arabia
-     (Takefusa Kubo 32' Ayase Ueda 37' Ayase Ueda 40' Yukinari Sugawara 47' Mao Hosoya 82')
+     (Takefusa Kubo 32' Ayase Ueda 37',40' Yukinari Sugawara 47' Mao Hosoya 82')
   China PR             v South Korea           0-3   @ Shenzhen, China PR
-     (Son Heung-min 11'(p) Son Heung-min 45' Jung Seung-hyun 87')
+     (Son Heung-min 11'(p),45' Jung Seung-hyun 87')
   Singapore            v Thailand              1-3   @ Kallang, Singapore
      (Shawal Anuar 41';
-      Supachok Sarachat 5' Suphanat Mueanta 66' Suphanat Mueanta 87')
+      Supachok Sarachat 5' Suphanat Mueanta 66',87')
   Taiwan               v Malaysia              0-1   @ Taipei, Taiwan
      (Darren Lok 72')
   Kyrgyzstan           v Oman                  1-0   @ Bishkek, Kyrgyzstan
@@ -271,7 +271,7 @@ Tue Nov 21
       Ramin Rezaeian 14' Mehdi Taremi 38')
   Hong Kong            v Turkmenistan          2-2   @ Hong Kong, Hong Kong
      (Wong Wai 12' Everton Camargo 65';
-      Ruslan Mingazow 4' Ruslan Mingazow 36')
+      Ruslan Mingazow 4',36')
   Philippines          v Indonesia             1-1   @ Manila, Philippines
      (Patrick Reichelt 23';
       Saddil Ramdani 70')
@@ -279,9 +279,9 @@ Tue Nov 21
      (Mohanad Ali 90')
   Pakistan             v Tajikistan            1-6   @ Islamabad, Pakistan
      (Rahis Nabi 21';
-      Amadoni Kamolov 9' Rustam Soirov 13' Parvizdzhon Umarbayev 26' Ehson Panjshanbe 45' Amadoni Kamolov 66' Shahrom Samiev 90')
+      Amadoni Kamolov 9',66' Rustam Soirov 13' Parvizdzhon Umarbayev 26' Ehson Panjshanbe 45' Shahrom Samiev 90')
   Jordan               v Saudi Arabia          0-2   @ Amman, Jordan
-     (Saleh Al-Shehri 8' Saleh Al-Shehri 30')
+     (Saleh Al-Shehri 8',30')
   Bahrain              v United Arab Emirates  0-2   @ Riffa, Bahrain
      (Abdullah Ramadan 36' Ali Mabkhout 90'(p))
   Nepal                v Yemen                 0-2   @ Kathmandu, Nepal

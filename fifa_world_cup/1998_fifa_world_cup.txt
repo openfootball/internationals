@@ -24,19 +24,19 @@ Tue Jun 23
      (Bebeto 78';
       Tore André Flo 83' Kjetil Rekdal 89'(p))
   Scotland             v Morocco               0-3   @ Saint-Étienne, France
-     (Salaheddine Bassir 23' Abdeljalil Hadda 46' Salaheddine Bassir 85')
+     (Salaheddine Bassir 23',85' Abdeljalil Hadda 46')
 
 ▪ Group B
 Thu Jun 11
   Italy                v Chile                 2-2   @ Bordeaux, France
      (Christian Vieri 10' Roberto Baggio 84'(p);
-      Marcelo Salas 45' Marcelo Salas 50')
+      Marcelo Salas 45',50')
   Cameroon             v Austria               1-1   @ Toulouse, France
      (Pierre Njanka 77';
       Toni Polster 90')
 Wed Jun 17
   Italy                v Cameroon              3-0   @ Montpellier, France
-     (Luigi Di Biagio 7' Christian Vieri 75' Christian Vieri 89')
+     (Luigi Di Biagio 7' Christian Vieri 75',89')
   Chile                v Austria               1-1   @ Saint-Étienne, France
      (Marcelo Salas 70';
       Ivica Vastić 90')
@@ -59,10 +59,10 @@ Thu Jun 18
      (Benni McCarthy 51';
       Allan Nielsen 12')
   France               v Saudi Arabia          4-0   @ Saint-Denis, France
-     (Thierry Henry 37' David Trezeguet 68' Thierry Henry 78' Bixente Lizarazu 85')
+     (Thierry Henry 37',78' David Trezeguet 68' Bixente Lizarazu 85')
 Wed Jun 24
   South Africa         v Saudi Arabia          2-2   @ Bordeaux, France
-     (Shaun Bartlett 18' Shaun Bartlett 90'(p);
+     (Shaun Bartlett 18',90'(p);
       Sami Al-Jaber 45'(p) Yousuf Al-Thunayan 74'(p))
   France               v Denmark               2-1   @ Lyon, France
      (Youri Djorkaeff 12'(p) Emmanuel Petit 56';
@@ -84,20 +84,20 @@ Wed Jun 24
      (Wilson Oruma 11';
       Celso Ayala 1' Miguel Ángel Benítez 58' José Cardozo 86')
   Spain                v Bulgaria              6-1   @ Lens, France
-     (Fernando Hierro 6'(p) Luis Enrique 18' Fernando Morientes 55' Fernando Morientes 81' Georgi Bachev 88'(og) Kiko 90';
+     (Fernando Hierro 6'(p) Luis Enrique 18' Fernando Morientes 55',81' Georgi Bachev 88'(og) Kiko 90';
       Emil Kostadinov 58')
 
 ▪ Group E
 Sat Jun 13
   South Korea          v Mexico                1-3   @ Lyon, France
      (Ha Seok-ju 27';
-      Ricardo Peláez 50' Luis Hernández 75' Luis Hernández 84')
+      Ricardo Peláez 50' Luis Hernández 75',84')
   Netherlands          v Belgium               0-0   @ Saint-Denis, France
 Sat Jun 20
   Netherlands          v South Korea           5-0   @ Marseille, France
      (Phillip Cocu 37' Marc Overmars 41' Dennis Bergkamp 71' Pierre van Hooijdonk 80' Ronald de Boer 83')
   Belgium              v Mexico                2-2   @ Bordeaux, France
-     (Marc Wilmots 42' Marc Wilmots 47';
+     (Marc Wilmots 42',47';
       Alberto García Aspe 55'(p) Cuauhtémoc Blanco 62')
 Thu Jun 25
   Netherlands          v Mexico                2-2   @ Saint-Étienne, France
@@ -158,18 +158,18 @@ Sat Jun 20
      (Davor Šuker 77')
 Sun Jun 21
   Argentina            v Jamaica               5-0   @ Paris, France
-     (Ariel Ortega 31' Ariel Ortega 55' Gabriel Batistuta 73' Gabriel Batistuta 78' Gabriel Batistuta 83'(p))
+     (Ariel Ortega 31',55' Gabriel Batistuta 73',78',83'(p))
 Fri Jun 26
   Japan                v Jamaica               1-2   @ Lyon, France
      (Masashi Nakayama 74';
-      Theodore Whitmore 39' Theodore Whitmore 54')
+      Theodore Whitmore 39',54')
   Argentina            v Croatia               1-0   @ Bordeaux, France
      (Mauricio Pineda 36')
 
 ▪ Round of 16
 Sat Jun 27
   Brazil               v Chile                 4-1   @ Paris, France
-     (César Sampaio 11' César Sampaio 26' Ronaldo 45'(p) Ronaldo 72';
+     (César Sampaio 11',26' Ronaldo 45'(p),72';
       Marcelo Salas 70')
   Italy                v Norway                1-0   @ Marseille, France
      (Christian Vieri 18')
@@ -196,7 +196,7 @@ Tue Jun 30
 ▪ Quarter-final
 Fri Jul 3
   Brazil               v Denmark               3-2   @ Nantes, France
-     (Bebeto 10' Rivaldo 25' Rivaldo 59';
+     (Bebeto 10' Rivaldo 25',59';
       Martin Jørgensen 2' Brian Laudrup 50')
   France               v Italy                 0-0   @ Saint-Denis, France   [France wins on penalties]
 Sat Jul 4
@@ -213,7 +213,7 @@ Tue Jul 7
       Patrick Kluivert 87')
 Wed Jul 8
   France               v Croatia               2-1   @ Saint-Denis, France
-     (Lilian Thuram 47' Lilian Thuram 70';
+     (Lilian Thuram 47',70';
       Davor Šuker 46')
 
 ▪ Third place playoff
@@ -225,5 +225,5 @@ Sat Jul 11
 ▪ Final
 Sun Jul 12
   France               v Brazil                3-0   @ Saint-Denis, France
-     (Zinedine Zidane 27' Zinedine Zidane 45' Emmanuel Petit 90')
+     (Zinedine Zidane 27',45' Emmanuel Petit 90')
 

@@ -7,7 +7,7 @@
 Sun Mar 10
   Dominica             v Antigua and Barbuda   3-3   @ Roseau, Dominica
      (Anthony Dominique 8' George Dangler 42' Shane Marshall 89';
-      Quentin Clarke 15' Derrick Edwards 28' Derrick Edwards 75')
+      Quentin Clarke 15' Derrick Edwards 28',75')
 Sun Mar 24
   Dominican Republic   v Aruba                 3-2   @ Santo Domingo, Dominican Republic
      (Dinardo Rodríguez 28' Ramón Mariano 50' Nelson Peña 73';
@@ -27,25 +27,25 @@ Sun Mar 31
      (Theodore Whitmore 56')
 Sun Apr 7
   Grenada              v Guyana                6-0   @ St. George's, Grenada
-     (Ricky Charles 33' Jason François 40' Jason François 47' Keith Fletcher 48' Keith Fletcher 71' Keith Fletcher 82')
+     (Ricky Charles 33' Jason François 40',47' Keith Fletcher 48',71',82')
 Sun Apr 21
   Jamaica              v Suriname              1-0   @ Kingston, Jamaica
      (Paul Davis 73')
 Wed Apr 24
   Argentina            v Bolivia               3-1   @ Buenos Aires, Argentina
-     (Ariel Ortega 8' Ariel Ortega 18' Gabriel Batistuta 49';
+     (Ariel Ortega 8',18' Gabriel Batistuta 49';
       Julio César Baldivieso 42')
   Colombia             v Paraguay              1-0   @ Barranquilla, Colombia
      (Faustino Asprilla 53')
   Ecuador              v Peru                  4-1   @ Guayaquil, Ecuador
-     (Eduardo Hurtado 54' Máximo Tenorio 65' José Gavica 78' Eduardo Hurtado 88';
+     (Eduardo Hurtado 54',88' Máximo Tenorio 65' José Gavica 78';
       Roberto Palacios 62')
   Greece               v Slovenia              2-0   @ Athens, Greece
      (Daniel Batista Lima 55' Demis Nikolaidis 65')
   Macedonia            v Liechtenstein         3-0   @ Skopje, North Macedonia
      (Sašo Miloševski 6' Boban Babunski 49'(p) Srgjan Zaharievski 78')
   FR Yugoslavia        v Faroe Islands         3-1   @ Belgrade, FR Yugoslavia
-     (Dejan Savićević 3' Dejan Savićević 29' Savo Milošević 37';
+     (Dejan Savićević 3',29' Savo Milošević 37';
       John Petersen 53')
   Venezuela            v Uruguay               0-2   @ Caracas, Venezuela
      (Marcelo Otero 54' Gustavo Poyet 77')
@@ -60,25 +60,25 @@ Sun May 5
   Nicaragua            v Guatemala             0-1   @ Diriamba, Nicaragua
      (Juan Carlos Plata 27')
   Saint Kitts and Nevis v Saint Lucia           5-1   @ Basseterre, Saint Kitts and Nevis
-     (Dwight Allers Kelley 5' Vernon Sargeant 22' Keith Gumbs 41' Vernon Sargeant 44' Dwight Allers Kelley 86';
+     (Dwight Allers Kelley 5',86' Vernon Sargeant 22',44' Keith Gumbs 41';
       Earl Jean 51')
 Fri May 10
   Guatemala            v Nicaragua             2-1   @ Guatemala City, Guatemala
-     (Juan Carlos Plata 62' Juan Carlos Plata 67';
+     (Juan Carlos Plata 62',67';
       Ezequiel Jerez 87')
 Sat May 11
   Netherlands Antilles v Dominican Republic    0-0   @ Willemstad, Curaçao
 Sun May 12
   Saint Vincent and the Grenadines v Puerto Rico           7-0   @ Kingstown, Saint Vincent and the Grenadines
-     (Rodney Jack 3' Rodney Jack 13' Rodney Jack 25' Angel Mussenden 35'(og) Andre Hinds 37' Andre Hinds 59' Wesley Charles 64')
+     (Rodney Jack 3',13',25' Angel Mussenden 35'(og) Andre Hinds 37',59' Wesley Charles 64')
   Cayman Islands       v Cuba                  0-1   @ George Town, Cayman Islands
      (Lázaro Darcourt 10')
   Haiti                v Grenada               6-1   @ Port-au-Prince, Haiti
-     (Wilson Chevalier 11' Golman Pierre 35' Golman Pierre 58' Isaac Chauvet 62' Isaac Chauvet 64' Isaac Chauvet 73';
+     (Wilson Chevalier 11' Golman Pierre 35',58' Isaac Chauvet 62',64',73';
       Patrick Modeste 85')
 Tue May 14
   Cayman Islands       v Cuba                  0-5   @ George Town, Cayman Islands
-     (Alexander Cruzata 19' Eduardo Sebrango 63' Lázaro Darcourt 68' Lázaro Darcourt 81' Lester Moré 83')
+     (Alexander Cruzata 19' Eduardo Sebrango 63' Lázaro Darcourt 68',81' Lester Moré 83')
   Dominica             v Barbados              0-1   @ Roseau, Dominica
      (Roger Proverbs 63')
 Sat May 18
@@ -96,8 +96,8 @@ Sat Jun 1
      (Abdul Aziz Corr 18'(p) Ebrima Ebou Sillah 58';
       James Debbah 35'(p))
   Guinea-Bissau        v Guinea                3-2   @ Bissau, Guinea-Bissau
-     (Pereira Tavares 11' Pereira Tavares 36' Cipriano Co 60'(p);
-      Titi Camara 53' Titi Camara 54')
+     (Pereira Tavares 11',36' Cipriano Co 60'(p);
+      Titi Camara 53',54')
   Iceland              v Macedonia             1-1   @ Reykjavík, Iceland
      (Arnór Guðjohnsen 63';
       Nedžmedin Memedi 60')
@@ -108,7 +108,7 @@ Sat Jun 1
   Sudan                v Zambia                2-0   @ Khartoum, Sudan
      (Khalid Ahmed Elmustafa 12' Anas Elnour 52')
   Sweden               v Belarus               5-1   @ Solna, Sweden
-     (Kennet Andersson 20' Martin Dahlin 30' Kennet Andersson 62'(p) Patrik Andersson 77' Henrik Larsson 87';
+     (Kennet Andersson 20',62'(p) Martin Dahlin 30' Patrik Andersson 77' Henrik Larsson 87';
       Valyantsin Byalkevich 75')
   Uganda               v Angola                0-2   @ Kampala, Uganda
      (Paulo Jorge Da Silva 35'(p) Paulo António Alves 60'(p))
@@ -130,19 +130,19 @@ Sun Jun 2
       Agent Sawu 79' Vitalis Takawira 89')
   Mauritius            v Zaïre                 1-5   @ Curepipe, Mauritius
      (Antoine Mocude 64';
-      Emeka Mamale 1' Michel Ngonge 15' Mbuleya Tondelva 60' Elos Elonga-Ekakia 77' Elos Elonga-Ekakia 82')
+      Emeka Mamale 1' Michel Ngonge 15' Mbuleya Tondelva 60' Elos Elonga-Ekakia 77',82')
   Norway               v Azerbaijan            5-0   @ Oslo, Norway
-     (Ståle Solbakken 7' Ole Gunnar Solskjær 37' Ståle Solbakken 46' Frank Strandli 59' Ole Gunnar Solskjær 89')
+     (Ståle Solbakken 7',46' Ole Gunnar Solskjær 37',89' Frank Strandli 59')
   Peru                 v Colombia              1-1   @ Lima, Peru
      (Juan Reynoso Guzmán 47';
       Víctor Aristizábal 60')
   Rwanda               v Tunisia               1-3   @ Kigali, Rwanda
      (Leon Mupenzi 48';
-      Adel Sellimi 43'(p) Adel Sellimi 47' Mehdi Ben Slimane 60')
+      Adel Sellimi 43'(p),47' Mehdi Ben Slimane 60')
   San Marino           v Wales                 0-5   @ Serravalle, San Marino
-     (Andy Melville 20' Mark Hughes 32' Mark Hughes 43' Ryan Giggs 50' Mark Pembridge 85')
+     (Andy Melville 20' Mark Hughes 32',43' Ryan Giggs 50' Mark Pembridge 85')
   FR Yugoslavia        v Malta                 6-0   @ Belgrade, FR Yugoslavia
-     (Zoran Mirković 2' Predrag Mijatović 39' Dragan Stojković 45' Savo Milošević 68' Dejan Savićević 70'(p) Dejan Savićević 73')
+     (Zoran Mirković 2' Predrag Mijatović 39' Dragan Stojković 45' Savo Milošević 68' Dejan Savićević 70'(p),73')
   Swaziland            v Gabon                 0-1   @ Mbabane, Swaziland
      (Jonas Ogandaga 5')
   Togo                 v Senegal               2-1   @ Lomé, Togo
@@ -157,7 +157,7 @@ Sat Jun 8
   Tanzania             v Ghana                 0-0   @ Dar es Salaam, Tanzania
 Sun Jun 9
   Panama               v Belize                4-1   @ Panama City, Panama
-     (Julio Dely Valdés 14' Julio Dely Valdés 46' Julio Dely Valdés 61' Víctor René Mendieta Ocampo 88';
+     (Julio Dely Valdés 14',46',61' Víctor René Mendieta Ocampo 88';
       Denmark Casey 60')
 Fri Jun 14
   Algeria              v Kenya                 1-0   @ Algiers, Algeria
@@ -165,15 +165,15 @@ Fri Jun 14
 Sat Jun 15
   Dominican Republic   v Trinidad and Tobago   1-4   @ Santo Domingo, Dominican Republic
      (Alberto Jiménez 59';
-      Russell Latapy 37' Pedro Aquino 39' Russell Latapy 67' Angus Eve 84')
+      Russell Latapy 37',67' Pedro Aquino 39' Angus Eve 84')
   South Africa         v Malawi                3-0   @ Johannesburg, South Africa
-     (Shaun Bartlett 4' Mark Fish 38' Shaun Bartlett 42')
+     (Shaun Bartlett 4',42' Mark Fish 38')
 Sun Jun 16
   Senegal              v Togo                  1-1   @ Dakar, Senegal
      (Mamadou Diallo 30';
       Kokouni Akpalo Gnavor 85')
   Angola               v Uganda                3-1   @ Luanda, Angola
-     (Paulo António Alves 1' Paulo Jorge Da Silva 7' Paulo António Alves 58';
+     (Paulo António Alves 1',58' Paulo Jorge Da Silva 7';
       Robert Kizito 3')
   Burkina Faso         v Mauritania            2-0   @ Ouagadougou, Burkina Faso
      (Kassoum Ouédraogo 44' Brahima Traore 81')
@@ -182,7 +182,7 @@ Sun Jun 16
   Gabon                v Swaziland             2-0   @ Libreville, Gabon
      (Brice Mackaya 28' Anicet Yala Ngoukou 56')
   Guinea               v Guinea-Bissau         3-1   @ Conakry, Guinea
-     (Momo Soumah 33' Momo Soumah 59' Tibou Bangoura 61';
+     (Momo Soumah 33',59' Tibou Bangoura 61';
       Fernando Manuel Co 47')
   Ivory Coast          v Congo                 1-1   @ Abidjan, Ivory Coast
      (Lassina Dao 29';
@@ -205,7 +205,7 @@ Mon Jun 17
       Mohamed Daima 71')
 Sun Jun 23
   Cuba                 v Haiti                 6-1   @ Port of Spain, Trinidad and Tobago
-     (Eduardo Sebrango 18' Mario Pedraza 44' Lázaro Darcourt 61' Lázaro Darcourt 70' Lázaro Darcourt 71' Lester Moré 81';
+     (Eduardo Sebrango 18' Mario Pedraza 44' Lázaro Darcourt 61',70',71' Lester Moré 81';
       Rosemond Pierre 84')
   Barbados             v Jamaica               0-1   @ Bridgetown, Barbados
      (Walter Boyd 90')
@@ -215,7 +215,7 @@ Sun Jun 23
      (Keith Gumbs 38' Larrymore Bedford 88';
       Andre Hinds 12' Kendall Velox 35')
   Trinidad and Tobago  v Dominican Republic    8-0   @ Port of Spain, Trinidad and Tobago
-     (Stern John 1' Dwight Yorke 8' Angus Eve 16' Anthony Rougier 19' Stern John 23' Angus Eve 42' Stern John 80' Russell Latapy 89')
+     (Stern John 1',23',80' Dwight Yorke 8' Angus Eve 16',42' Anthony Rougier 19' Russell Latapy 89')
 Sun Jun 30
   Haiti                v Cuba                  1-1   @ Cap-Haïtien, Haiti
      (Isaac Chauvet 21';
@@ -225,7 +225,7 @@ Sun Jun 30
   Saint Vincent and the Grenadines v Saint Kitts and Nevis  0-0   @ Kingstown, Saint Vincent and the Grenadines
 Sat Jul 6
   Chile                v Ecuador               4-1   @ Santiago, Chile
-     (Iván Zamorano 25' Marcelo Salas 75' Fabián Estay 83' Iván Zamorano 86';
+     (Iván Zamorano 25',86' Marcelo Salas 75' Fabián Estay 83';
       Álex Aguinaga 73')
 Sun Jul 7
   Bolivia              v Venezuela             6-1   @ La Paz, Bolivia
@@ -253,20 +253,20 @@ Sat Aug 31
      (Jan Allan Müller 60';
       Ľubomír Moravčík 13' Peter Dubovský 88')
   Liechtenstein        v Republic of Ireland   0-5   @ Eschen, Liechtenstein
-     (Andy Townsend 5' Keith O'Neill 9' Niall Quinn 12' Ian Harte 20' Niall Quinn 61')
+     (Andy Townsend 5' Keith O'Neill 9' Niall Quinn 12',61' Ian Harte 20')
   Northern Ireland     v Ukraine               0-1   @ Belfast, Northern Ireland
      (Serhii Rebrov 79')
   Romania              v Lithuania             3-0   @ Bucharest, Romania
      (Viorel Moldovan 20' Dan Petrescu 65' Constantin Gâlcă 77')
   Wales                v San Marino            6-0   @ Cardiff, Wales
-     (Dean Saunders 1' Mark Hughes 25' Andy Melville 34' John Robinson 45' Mark Hughes 54' Dean Saunders 74')
+     (Dean Saunders 1',74' Mark Hughes 25',54' Andy Melville 34' John Robinson 45')
 Sun Sep 1
   Argentina            v Paraguay              1-1   @ Buenos Aires, Argentina
      (Gabriel Batistuta 27';
       José Luis Chilavert 42')
   Bolivia              v Peru                  0-0   @ La Paz, Bolivia
   Colombia             v Chile                 4-1   @ Barranquilla, Colombia
-     (Faustino Asprilla 3' Faustino Asprilla 31' Jorge Bermúdez 43' Faustino Asprilla 47';
+     (Faustino Asprilla 3',31',47' Jorge Bermúdez 43';
       Iván Zamorano 56'(p))
   Ecuador              v Venezuela             1-0   @ Quito, Ecuador
      (Álex Aguinaga 4')
@@ -283,7 +283,7 @@ Sun Sep 1
   Moldova              v England               0-3   @ Chișinău, Moldova
      (Nicky Barmby 24' Paul Gascoigne 26' Alan Shearer 61')
   Russia               v Cyprus                4-0   @ Moscow, Russia
-     (Yuriy Nikiforov 8' Igor Kolyvanov 34' Yuriy Nikiforov 50' Vladimir Beschastnykh 81')
+     (Yuriy Nikiforov 8',50' Igor Kolyvanov 34' Vladimir Beschastnykh 81')
   Slovenia             v Denmark               0-2   @ Ljubljana, Slovenia
      (Allan Nielsen 78' Michael Schjønberg 89')
   Trinidad and Tobago  v Costa Rica            0-1   @ Port of Spain, Trinidad and Tobago
@@ -291,22 +291,22 @@ Sun Sep 1
 Wed Sep 4
   Faroe Islands        v Spain                 2-6   @ Toftir, Faroe Islands
      (Todi Jónsson 46' Uni Arge 90';
-      Luis Enrique 37' Alfonso Pérez 63' Óli Johannesen 70'(og) Alfonso Pérez 83' Fernando Hierro 85' Alfonso Pérez 86')
+      Luis Enrique 37' Alfonso Pérez 63',83',86' Óli Johannesen 70'(og) Fernando Hierro 85')
 Sun Sep 8
   El Salvador          v Cuba                  5-0   @ San Salvador, El Salvador
-     (Guillermo Rivera 22' Raúl Díaz Arce 49' Raúl Díaz Arce 72' Guillermo Rivera 80' Mauricio Cienfuegos 83')
+     (Guillermo Rivera 22',80' Raúl Díaz Arce 49',72' Mauricio Cienfuegos 83')
 Sun Sep 15
   Saint Vincent and the Grenadines v Mexico                0-3   @ Kingstown, Saint Vincent and the Grenadines
-     (Ricardo Peláez 15' Ricardo Peláez 51' Damián Ariel Álvarez 89')
+     (Ricardo Peláez 15',51' Damián Ariel Álvarez 89')
   Jamaica              v Honduras              3-0   @ Kingston, Jamaica
-     (Walter Boyd 14' Theodore Whitmore 42' Walter Boyd 53')
+     (Walter Boyd 14',53' Theodore Whitmore 42')
 Mon Sep 16
   Papua New Guinea     v Solomon Islands       1-1   @ Lae, Papua New Guinea
      (Richard Daniel 15';
       Eddie Rukumana 71')
 Wed Sep 18
   Czech Republic       v Malta                 6-0   @ Teplice, Czech Republic
-     (Patrik Berger 11' Pavel Nedvěd 29' Patrik Berger 63'(p) Luboš Kubík 77' Vladimír Šmicer 83' Martin Frýdek 86')
+     (Patrik Berger 11',63'(p) Pavel Nedvěd 29' Luboš Kubík 77' Vladimír Šmicer 83' Martin Frýdek 86')
   Solomon Islands      v Vanuatu               1-1   @ Lae, Papua New Guinea
      (Noel Berry 16';
       Iau Tuan Naukoot 37')
@@ -325,25 +325,25 @@ Sat Sep 21
 Sun Sep 22
   Panama               v Cuba                  1-3   @ Panama City, Panama
      (Jorge Dely Valdés 55';
-      Eduardo Sebrango 42' Eduardo Sebrango 70' Manuel Bobadilla 88')
+      Eduardo Sebrango 42',70' Manuel Bobadilla 88')
   Slovakia             v Malta                 6-0   @ Bratislava, Slovakia
-     (Dušan Tittel 13' Július Šimon 15' Marian Zeman 37' Jaroslav Timko 56' Peter Dubovský 59' Dušan Tittel 90')
+     (Dušan Tittel 13',90' Július Šimon 15' Marian Zeman 37' Jaroslav Timko 56' Peter Dubovský 59')
 Mon Sep 23
   Saint Vincent and the Grenadines v Jamaica               1-2   @ Kingstown, Saint Vincent and the Grenadines
      (Christopher Harry 82'(p);
-      Paul Young 20' Paul Young 41')
+      Paul Young 20',41')
   Qatar                v Philippines           5-0   @ Doha, Qatar
-     (Mohammed Salem Al-Enazi 19' Mahmoud Soufi 29' Adel Khamis Al Noobi 30' Abdul Jaloof 38' Mohammed Salem Al-Enazi 41')
+     (Mohammed Salem Al-Enazi 19',41' Mahmoud Soufi 29' Adel Khamis Al Noobi 30' Abdul Jaloof 38')
 Tue Sep 24
   Sri Lanka            v India                 1-1   @ Doha, Qatar
      (Anton Silva 14';
       Carlton Chapman 39')
 Thu Sep 26
   Philippines          v Sri Lanka             0-3   @ Doha, Qatar
-     (Chaminda Steinwall 28' Roshan Pereta 55' Roshan Pereta 80')
+     (Chaminda Steinwall 28' Roshan Pereta 55',80')
 Fri Sep 27
   Qatar                v India                 6-0   @ Doha, Qatar
-     (Mohammed Salem Al-Enazi 27' Mohammed Salem Al-Enazi 40' Zamel Al Kuwari 42' Waleed Bakhit Maayof 47' Mahmoud Soufi 52' Mubarak Mustafa 61')
+     (Mohammed Salem Al-Enazi 27',40' Zamel Al Kuwari 42' Waleed Bakhit Maayof 47' Mahmoud Soufi 52' Mubarak Mustafa 61')
 Sat Oct 5
   Estonia              v Belarus               1-0   @ Tallinn, Estonia
      (Sergei Hohlov-Simson 52')
@@ -353,7 +353,7 @@ Sat Oct 5
      (Edgaras Jankauskas 22'(p) Vaidotas Šlekys 74')
   Moldova              v Italy                 1-3   @ Chișinău, Moldova
      (Alexandru Curtianu 12';
-      Fabrizio Ravanelli 8' Pierluigi Casiraghi 67' Fabrizio Ravanelli 87')
+      Fabrizio Ravanelli 8',87' Pierluigi Casiraghi 67')
   Northern Ireland     v Armenia               1-1   @ Belfast, Northern Ireland
      (Neil Lennon 29';
       Éric Assadourian 8')
@@ -362,11 +362,11 @@ Sat Oct 5
       João Vieira Pinto 83')
   Wales                v Netherlands           1-3   @ Cardiff, Wales
      (Dean Saunders 17';
-      Pierre van Hooijdonk 72' Pierre van Hooijdonk 75' Ronald de Boer 79')
+      Pierre van Hooijdonk 72',75' Ronald de Boer 79')
 Sun Oct 6
   Faroe Islands        v FR Yugoslavia         1-8   @ Toftir, Faroe Islands
      (Jan Allan Müller 28';
-      Savo Milošević 6' Slaviša Jokanović 11' Predrag Mijatović 29' Savo Milošević 37' Savo Milošević 45' Slaviša Jokanović 57' Vladimir Jugović 57' Dragan Stojković 90'(p))
+      Savo Milošević 6',37',45' Slaviša Jokanović 11',57' Predrag Mijatović 29' Vladimir Jugović 57' Dragan Stojković 90'(p))
   Finland              v Switzerland           2-3   @ Helsinki, Finland
      (Antti Sumiala 41'(p) Joonas Kolkka 77';
       Massimo Lombardo 14' Ciriaco Sforza 34' Murat Yakin 54')
@@ -379,7 +379,7 @@ Sun Oct 6
 Tue Oct 8
   Bosnia and Herzegovina v Croatia               1-4   @ Bologna, Italy
      (Hasan Salihamidžić 25';
-      Slaven Bilić 13' Goran Vlaović 32' Alen Bokšić 64' Alen Bokšić 85')
+      Slaven Bilić 13' Goran Vlaović 32' Alen Bokšić 64',85')
   Luxembourg           v Bulgaria              1-2   @ Luxembourg, Luxembourg
      (Robby Langers 20';
       Krasimir Balakov 14'(p) Emil Kostadinov 37')
@@ -390,7 +390,7 @@ Wed Oct 9
      (Luís Figo 10' Hélder Cristóvão 75' Rui Costa 88')
   Armenia              v Germany               1-5   @ Yerevan, Armenia
      (Karapet Mikaelyan 85';
-      Thomas Häßler 20' Jürgen Klinsmann 26' Thomas Häßler 39' Fredi Bobić 69' Stefan Kuntz 81')
+      Thomas Häßler 20',39' Jürgen Klinsmann 26' Fredi Bobić 69' Stefan Kuntz 81')
   Belarus              v Latvia                1-1   @ Minsk, Belarus
      (Uladzimir Makowski 78';
       Mihails Zemļinskis 16')
@@ -401,12 +401,12 @@ Wed Oct 9
   Ecuador              v Colombia              0-1   @ Quito, Ecuador
      (Faustino Asprilla 72')
   England              v Poland                2-1   @ London, England
-     (Alan Shearer 25' Alan Shearer 38';
+     (Alan Shearer 25',38';
       Marek Citko 7')
   Iceland              v Romania               0-4   @ Reykjavík, Iceland
      (Dorinel Munteanu 21' Gheorghe Hagi 60' Gheorghe Popescu 75' Dan Petrescu 81')
   Republic of Ireland  v Macedonia             3-0   @ Dublin, Republic of Ireland
-     (Jason McAteer 8' Tony Cascarino 46' Tony Cascarino 70')
+     (Jason McAteer 8' Tony Cascarino 46',70')
   Israel               v Russia                1-1   @ Ramat Gan, Israel
      (Gadi Brumer 65';
       Igor Kolyvanov 82')
@@ -416,12 +416,12 @@ Wed Oct 9
      (Edgaras Jankauskas 43' Arminas Narbekovas 55';
       Harry Zech 53')
   Norway               v Hungary               3-0   @ Oslo, Norway
-     (Kjetil Rekdal 83' Kjetil Rekdal 89' Kjetil Rekdal 90'(p))
+     (Kjetil Rekdal 83',89',90'(p))
   Paraguay             v Chile                 2-1   @ Asunción, Paraguay
      (Carlos Gamarra 24' Catalino Rivarola 63';
       Javier Margas 22')
   San Marino           v Belgium               0-3   @ Serravalle, San Marino
-     (Gert Verheyen 11' Luc Nilis 20' Luc Nilis 49')
+     (Gert Verheyen 11' Luc Nilis 20',49')
   Sweden               v Austria               0-1   @ Solna, Sweden
      (Andreas Herzog 11')
   Venezuela            v Argentina             2-5   @ San Cristóbal, Venezuela
@@ -433,7 +433,7 @@ Thu Oct 10
 Sun Oct 13
   Saint Vincent and the Grenadines v Honduras              1-4   @ Kingstown, Saint Vincent and the Grenadines
      (James Chewitt 62';
-      Nicolás Suazo 7' Christian Santamaría 23' Christian Santamaría 42' Nicolás Suazo 62')
+      Nicolás Suazo 7',62' Christian Santamaría 23',42')
   Canada               v Cuba                  2-0   @ Edmonton, Canada
      (Paul Peschisolido 15' Nick Dasovic 79')
 Wed Oct 16
@@ -449,7 +449,7 @@ Sun Oct 27
   Panama               v Canada                0-0   @ Panama City, Panama
 Wed Oct 30
   Mexico               v Saint Vincent and the Grenadines  5-1   @ Mexico City, Mexico
-     (Benjamín Galindo 20' Benjamín Galindo 29' Luís Roberto Alves 48' Carlos Hermosillo 70' Dexter Walker 88';
+     (Benjamín Galindo 20',29' Luís Roberto Alves 48' Carlos Hermosillo 70' Dexter Walker 88';
       Kendall Velox 88')
 Sun Nov 3
   Canada               v El Salvador           1-0   @ Burnaby, Canada
@@ -462,7 +462,7 @@ Wed Nov 6
       Enrique Reneau 69')
 Fri Nov 8
   Egypt                v Namibia               7-1   @ Cairo, Egypt
-     (Ali Maher 1' Ahmed Hassan 11' Ali Maher 15' Ibrahim Hassan 34' Ali Maher 69' Hossam Hassan 72' Hossam Hassan 83';
+     (Ali Maher 1',15',69' Ahmed Hassan 11' Ibrahim Hassan 34' Hossam Hassan 72',83';
       Eliphas Shivute 24')
 Sat Nov 9
   Albania              v Armenia               1-1   @ Tirana, Albania
@@ -478,14 +478,14 @@ Sat Nov 9
       Gerry Taggart 38')
   Liechtenstein        v Macedonia             1-11   @ Eschen, Liechtenstein
      (Franz Schädler 78';
-      Dejvi Glavevski 8' Dejvi Glavevski 12' Gjorgji Hristov 23' Mitko Stojkovski 30' Mitko Stojkovski 43' Toni Micevski 45' Toni Micevski 49' Saša Ćirić 53' Dejvi Glavevski 60' Saša Ćirić 87' Vančo Micevski 90')
+      Dejvi Glavevski 8',12',60' Gjorgji Hristov 23' Mitko Stojkovski 30',43' Toni Micevski 45',49' Saša Ćirić 53',87' Vančo Micevski 90')
   Morocco              v Sierra Leone          4-0   @ Rabat, Morocco
-     (El Arbi Hababi 16' Khalid Raghib 50' Khalid Raghib 55' Youssef Fertout 57')
+     (El Arbi Hababi 16' Khalid Raghib 50',55' Youssef Fertout 57')
   Netherlands          v Wales                 7-1   @ Eindhoven, Netherlands
-     (Dennis Bergkamp 21' Ronald de Boer 32' Wim Jonk 33' Frank de Boer 43' Phillip Cocu 60' Dennis Bergkamp 72' Dennis Bergkamp 78';
+     (Dennis Bergkamp 21',72',78' Ronald de Boer 32' Wim Jonk 33' Frank de Boer 43' Phillip Cocu 60';
       Dean Saunders 38')
   Nigeria              v Burkina Faso          2-0   @ Lagos, Nigeria
-     (Daniel Amokachi 46' Daniel Amokachi 77')
+     (Daniel Amokachi 46',77')
   Portugal             v Ukraine               1-0   @ Porto, Portugal
      (Fernando Couto 58')
   South Africa         v Zaïre                 1-0   @ Johannesburg, South Africa
@@ -494,12 +494,12 @@ Sun Nov 10
   Costa Rica           v Guatemala             3-0   @ San José, Costa Rica
      (Javier Delgado 53' Hernán Medford 74' Rónald Gómez 78')
   Jamaica              v Saint Vincent and the Grenadines  5-0   @ Kingston, Jamaica
-     (Theodore Whitmore 10' Theodore Whitmore 13' Paul Young 64' Peter Cargill 66' Stephen Malcolm 84')
+     (Theodore Whitmore 10',13' Paul Young 64' Peter Cargill 66' Stephen Malcolm 84')
   Angola               v Zimbabwe              2-1   @ Luanda, Angola
      (Akwá 43' Paulo António Alves 51';
       Adam Ndlovu 60')
   Azerbaijan           v Hungary               0-3   @ Baku, Azerbaijan
-     (Elek Nyilas 42' Elek Nyilas 67'(p) Flórián Urbán 77')
+     (Elek Nyilas 42',67'(p) Flórián Urbán 77')
   Bolivia              v Colombia              2-2   @ La Paz, Bolivia
      (Marco Sandy 15' Jaime Moreno 44';
       Mauricio Serna 40'(p) Freddy Rincón 54')
@@ -509,10 +509,10 @@ Sun Nov 10
      (Davor Šuker 44';
       Demis Nikolaidis 9')
   Cyprus               v Israel                2-0   @ Limassol, Cyprus
-     (Siniša Gogić 9' Siniša Gogić 15'(p))
+     (Siniša Gogić 9',15'(p))
   El Salvador          v Panama                3-2   @ San Salvador, El Salvador
      (Raúl Díaz Arce 43' Wilfredo Iraheta Sanabria 68' Giovanni Trigueros 88';
-      Jorge Dely Valdés 11' Jorge Dely Valdés 86')
+      Jorge Dely Valdés 11',86')
   Gabon                v Ghana                 1-1   @ Libreville, Gabon
      (Théodore Nzue Nguema 65';
       Abedi Pele 66')
@@ -527,7 +527,7 @@ Sun Nov 10
   Paraguay             v Ecuador               1-0   @ Asunción, Paraguay
      (Miguel Ángel Benítez 24')
   Peru                 v Venezuela             4-1   @ Lima, Peru
-     (Juan Reynoso Guzmán 4' Julio César de Andrade Moura 21' Roberto Palacios 49' Roberto Palacios 83';
+     (Juan Reynoso Guzmán 4' Julio César de Andrade Moura 21' Roberto Palacios 49',83';
       Gerson Díaz 78')
   Poland               v Moldova               2-1   @ Katowice, Poland
      (Henryk Bałuszyński 4' Krzysztof Warzycha 77'(p);
@@ -543,14 +543,14 @@ Sun Nov 10
      (Øyvind Leonhardsen 32')
   Togo                 v Cameroon              2-4   @ Lomé, Togo
      (Kossi Noutsoudje 50' Tadjou Salou 83'(p);
-      Alphonse Tchami 10' Alphonse Tchami 24' Alphonse Tchami 55' Jean-Jacques Missé-Missé 63')
+      Alphonse Tchami 10',24',55' Jean-Jacques Missé-Missé 63')
   Turkey               v San Marino            7-0   @ Istanbul, Turkey
-     (Oktay Derelioğlu 25' Oktay Derelioğlu 38' Oktay Derelioğlu 51' Hakan Şükür 56' Oktay Derelioğlu 59' Hakan Şükür 63' Ertuğrul Sağlam 81')
+     (Oktay Derelioğlu 25',38',51',59' Hakan Şükür 56',63' Ertuğrul Sağlam 81')
   United States        v Trinidad and Tobago   2-0   @ Richmond, United States
      (Thomas Dooley 53' Eric Wynalda 84')
 Mon Nov 11
   Tonga                v Cook Islands          2-0   @ Nuku'alofa, Tonga
-     (Timote Moleni 20' Timote Moleni 67')
+     (Timote Moleni 20',67')
 Tue Nov 12
   Chile                v Uruguay               1-0   @ Santiago, Chile
      (Marcelo Salas 60')
@@ -566,7 +566,7 @@ Fri Nov 15
      (Tolutau Vane 29')
 Sun Nov 17
   Honduras             v Saint Vincent and the Grenadines  11-3   @ San Pedro Sula, Honduras
-     (Barrios Zapata 3' Nicolás Suazo 11' Arnold Cruz 19' Carlos Pavón 30' Nicolás Suazo 38' Enrique Reneau 48' Nicolás Suazo 50' Merlyn Membreño 65' Milton Núñez 67' Eduardo Bennett 77'(p) Milton Núñez 84';
+     (Barrios Zapata 3' Nicolás Suazo 11',38',50' Arnold Cruz 19' Carlos Pavón 30' Enrique Reneau 48' Merlyn Membreño 65' Milton Núñez 67',84' Eduardo Bennett 77'(p);
       Rodney Jack 37' Alwyn Guy 62' Everad Sam 75')
   Jamaica              v Mexico                1-0   @ Kingston, Jamaica
      (Ian Goodison 82')
@@ -583,7 +583,7 @@ Sun Dec 1
      (William Renderos Iraheta 3' Raúl Díaz Arce 30' Jorge Rodríguez 49')
 Sun Dec 8
   Guatemala            v Trinidad and Tobago   2-1   @ Los Angeles, United States
-     (Julio Rodas 26' Julio Rodas 67';
+     (Julio Rodas 26',67';
       Angus Eve 30')
 Sat Dec 14
   Belgium              v Netherlands           0-3   @ Brussels, Belgium
@@ -592,9 +592,9 @@ Sat Dec 14
      (Pambos Pittas 29';
       Emil Kostadinov 23' Krasimir Balakov 34' Ilian Iliev 70')
   Macedonia            v Romania               0-3   @ Skopje, North Macedonia
-     (Gheorghe Popescu 36' Gheorghe Popescu 45' Gheorghe Popescu 90'(p))
+     (Gheorghe Popescu 36',45',90'(p))
   Northern Ireland     v Albania               2-0   @ Belfast, Northern Ireland
-     (Iain Dowie 12' Iain Dowie 21')
+     (Iain Dowie 12',21')
   Portugal             v Germany               0-0   @ Lisbon, Portugal
   Spain                v FR Yugoslavia         2-0   @ Valencia, Spain
      (Pep Guardiola 19' Raúl 37')
@@ -620,10 +620,10 @@ Sun Dec 15
      (Jorge Bermúdez 7' Iván Valenciano 50')
 Wed Dec 18
   Malta                v Spain                 0-3   @ Attard, Malta
-     (Julen Guerrero 8' Julen Guerrero 26' Julen Guerrero 33')
+     (Julen Guerrero 8',26',33')
 Sat Dec 21
   Costa Rica           v Trinidad and Tobago   2-1   @ Cartago, Costa Rica
-     (Paulo Wanchope 44' Paulo Wanchope 60';
+     (Paulo Wanchope 44',60';
       Jerren Nixon 7')
   Guatemala            v United States         2-2   @ San Salvador, El Salvador
      (Juan Manuel Funes 9' Juan Carlos Plata 44';

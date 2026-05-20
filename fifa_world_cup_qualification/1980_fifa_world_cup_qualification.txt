@@ -7,7 +7,7 @@
 Wed Mar 26
   Cyprus               v Republic of Ireland   2-3   @ Nicosia, Cyprus
      (Nikos Pantziaras 29' Sotiris Kaiafas 74'(p);
-      Paul McGee 8' Mark Lawrenson 23' Paul McGee 38')
+      Paul McGee 8',38' Mark Lawrenson 23')
   Israel               v Northern Ireland      0-0   @ Ramat Gan, Israel
 Thu May 8
   Libya                v Gambia                2-1   @ Tripoli, Libya
@@ -21,10 +21,10 @@ Sat May 31
       Tedj Bensaoula 72' Lakhdar Belloumi 85')
 Sun Jun 1
   Zambia               v Ethiopia              4-0   @ Ndola, Zambia
-     (Alex Chola 4' Godfrey Chitalu 16' Pele Kaimana 69' Godfrey Chitalu 89')
+     (Alex Chola 4' Godfrey Chitalu 16',89' Pele Kaimana 69')
 Mon Jun 2
   Iceland              v Wales                 0-4   @ Reykjavík, Iceland
-     (Ian Walsh 45' David Giles 53' Brian Flynn 61'(p) Ian Walsh 75')
+     (Ian Walsh 45',75' David Giles 53' Brian Flynn 61'(p))
 Wed Jun 4
   Finland              v Bulgaria              0-2   @ Helsinki, Finland
      (Plamen Markov 28' Kostadin Kostadinov 81')
@@ -49,7 +49,7 @@ Sun Jun 29
      (Néjib Liman 31' Témime Lahzami 52')
 Sat Jul 5
   Kenya                v Tanzania              3-1   @ Nairobi, Kenya
-     (Elly Adero 30' Sammy Owino 57' Sammy Owino 80'(p);
+     (Elly Adero 30' Sammy Owino 57',80'(p);
       Thuwein Ali ??')
 Sun Jul 6
   Gambia               v Libya                 0-0   @ Banjul, Gambia
@@ -62,13 +62,13 @@ Sat Jul 12
      (Leotis Boateng 11' Emmanuel Osigwe 74')
 Sun Jul 13
   Zaïre                v Mozambique            5-2   @ Kinshasa, Zaïre
-     (Kiyika Tokodi 30'(p) Muteba N'Daye 67' Kiyika Tokodi 82'(p) Masengo Ilunga 85' Muteba N'Daye 87';
-      Gil Guiambe 23' Gil Guiambe 50')
+     (Kiyika Tokodi 30'(p),82'(p) Muteba N'Daye 67',87' Masengo Ilunga 85';
+      Gil Guiambe 23',50')
 Wed Jul 16
   Niger                v Somalia               0-0   @ Niamey, Niger
 Sat Jul 19
   Tanzania             v Kenya                 5-0   @ Dar es Salaam, Tanzania
-     (Peter Tino 44' Peter Tino 70' Mohammed Adolf Rishard 70' Thuwein Ali 72' Thuwein Ali 80')
+     (Peter Tino 44',70' Mohammed Adolf Rishard 70' Thuwein Ali 72',80')
 Sun Jul 20
   Malawi               v Cameroon              1-1   @ Blantyre, Malawi
      (Stock Dandize 71';
@@ -88,12 +88,12 @@ Wed Sep 3
       Yuri Gavrilov 35' Sergey Andreyev 80')
 Wed Sep 10
   England              v Norway                4-0   @ London, England
-     (Terry McDermott 37' Tony Woodcock 69' Terry McDermott 78' Paul Mariner 85')
+     (Terry McDermott 37',78' Tony Woodcock 69' Paul Mariner 85')
   Republic of Ireland  v Netherlands           2-1   @ Dublin, Republic of Ireland
      (Gerry Daly 78' Mark Lawrenson 85';
       Simon Tahamata 57')
   Luxembourg           v Yugoslavia            0-5   @ Luxembourg, Luxembourg
-     (Safet Sušić 50' Zlatko Vujović 64' Vladimir Petrović 70' Zlatko Vujović 81' Ivan Buljan 90')
+     (Safet Sušić 50' Zlatko Vujović 64',81' Vladimir Petrović 70' Ivan Buljan 90')
   Sweden               v Scotland              0-1   @ Solna, Sweden
      (Gordon Strachan 72')
 Wed Sep 24
@@ -111,7 +111,7 @@ Sat Sep 27
       Frank Arnesen 5'(p))
 Sat Oct 11
   Cyprus               v France                0-7   @ Limassol, Cyprus
-     (Bernard Lacombe 4' Michel Platini 14' Michel Platini 23' Jean-François Larios 40'(p) Jean-François Larios 76'(p) Didier Six 82' Jacques Zimako 87')
+     (Bernard Lacombe 4' Michel Platini 14',23' Jean-François Larios 40'(p),76'(p) Didier Six 82' Jacques Zimako 87')
   Luxembourg           v Italy                 0-2   @ Luxembourg, Luxembourg
      (Fulvio Collovati 33' Roberto Bettega 77')
 Sun Oct 12
@@ -129,10 +129,10 @@ Wed Oct 15
      (Marcel Răducanu 35' Anghel Iordănescu 75'(p);
       Tony Woodcock 64')
   Soviet Union         v Iceland               5-0   @ Moscow, Soviet Union
-     (Sergey Andreyev 9' Khoren Oganesian 39' Khoren Oganesian 58' Sergey Andreyev 78' Volodymyr Bezsonov 84')
+     (Sergey Andreyev 9',78' Khoren Oganesian 39',58' Volodymyr Bezsonov 84')
   Scotland             v Portugal              0-0   @ Glasgow, Scotland
   Wales                v Turkey                4-0   @ Cardiff, Wales
-     (Brian Flynn 19' Leighton James 37'(p) Ian Walsh 79' Leighton James 85')
+     (Brian Flynn 19' Leighton James 37'(p),85' Ian Walsh 79')
 Sun Oct 19
   Bulgaria             v Albania               2-1   @ Sofia, Bulgaria
      (Andrey Zhelyazkov 14' Georgi Slavkov 51';
@@ -146,12 +146,12 @@ Wed Oct 29
       Åge Hareide 5' Svein Mathisen 79')
 Sat Nov 1
   Italy                v Denmark               2-0   @ Rome, Italy
-     (Francesco Graziani 7' Francesco Graziani 51')
+     (Francesco Graziani 7',51')
 Wed Nov 12
   Israel               v Sweden                0-0   @ Ramat Gan, Israel
 Sat Nov 15
   Austria              v Albania               5-0   @ Vienna, Austria
-     (Bruno Pezzey 20' Walter Schachner 26' Walter Schachner 35' Kurt Welzl 57' Hans Krankl 85')
+     (Bruno Pezzey 20' Walter Schachner 26',35' Kurt Welzl 57' Hans Krankl 85')
   Italy                v Yugoslavia            2-0   @ Turin, Italy
      (Antonio Cabrini 40'(p) Bruno Conti 75')
 Sun Nov 16
@@ -166,12 +166,12 @@ Wed Nov 19
   Belgium              v Netherlands           1-0   @ Brussels, Belgium
      (Erwin Vandenbergh 48'(p))
   Denmark              v Luxembourg            4-0   @ Copenhagen, Denmark
-     (Frank Arnesen 13' Frank Arnesen 41'(p) Preben Elkjær 57' Allan Simonsen 71')
+     (Frank Arnesen 13',41'(p) Preben Elkjær 57' Allan Simonsen 71')
   England              v Switzerland           2-1   @ London, England
      (Markus Tanner 23'(og) Paul Mariner 31';
       Hans-Jörg Pfister 76')
   Republic of Ireland  v Cyprus                6-0   @ Dublin, Republic of Ireland
-     (Gerry Daly 10'(p) Gerry Daly 23' Tony Grealish 24' Michael Robinson 28' Frank Stapleton 46' Chris Hughton 65')
+     (Gerry Daly 10'(p),23' Tony Grealish 24' Michael Robinson 28' Frank Stapleton 46' Chris Hughton 65')
   Portugal             v Northern Ireland      1-0   @ Lisbon, Portugal
      (Rui Jordão 60')
   Wales                v Czechoslovakia        1-0   @ Cardiff, Wales
@@ -182,9 +182,9 @@ Sun Nov 30
 Wed Dec 3
   Bulgaria             v Germany               1-3   @ Sofia, Bulgaria
      (Tsvetan Yonchev 66';
-      Manfred Kaltz 14' Manfred Kaltz 36'(p) Karl-Heinz Rummenigge 54')
+      Manfred Kaltz 14',36'(p) Karl-Heinz Rummenigge 54')
   Czechoslovakia       v Turkey                2-0   @ Prague, Czechoslovakia
-     (Zdeněk Nehoda 13' Zdeněk Nehoda 15')
+     (Zdeněk Nehoda 13',15')
 Sat Dec 6
   Albania              v Austria               0-1   @ Tirana, Albania
      (Kurt Welzl 38')
@@ -205,7 +205,7 @@ Sun Dec 14
      (Djogou Akoulassi 53')
 Wed Dec 17
   Portugal             v Israel                3-0   @ Lisbon, Portugal
-     (Humberto Coelho 33' Rui Jordão 36' Humberto Coelho 72')
+     (Humberto Coelho 33',72' Rui Jordão 36')
 Sat Dec 20
   Tanzania             v Nigeria               0-2   @ Dar es Salaam, Tanzania
      (John Chiedozie 5' Christian M'Wokozhi 79')

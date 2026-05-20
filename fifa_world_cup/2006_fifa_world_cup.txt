@@ -10,8 +10,8 @@ Fri Jun 9
   Poland               v Ecuador               0-2   @ Gelsenkirchen, Germany
      (Carlos Tenorio 24' Agustín Delgado 80')
   Germany              v Costa Rica            4-2   @ Munich, Germany
-     (Philipp Lahm 6' Miroslav Klose 17' Miroslav Klose 61' Torsten Frings 87';
-      Paulo Wanchope 12' Paulo Wanchope 73')
+     (Philipp Lahm 6' Miroslav Klose 17',61' Torsten Frings 87';
+      Paulo Wanchope 12',73')
 Wed Jun 14
   Germany              v Poland                1-0   @ Dortmund, Germany
      (Oliver Neuville 90')
@@ -21,9 +21,9 @@ Thu Jun 15
 Tue Jun 20
   Costa Rica           v Poland                1-2   @ Hanover, Germany
      (Rónald Gómez 25';
-      Bartosz Bosacki 33' Bartosz Bosacki 65')
+      Bartosz Bosacki 33',65')
   Germany              v Ecuador               3-0   @ Berlin, Germany
-     (Miroslav Klose 4' Miroslav Klose 44' Lukas Podolski 57')
+     (Miroslav Klose 4',44' Lukas Podolski 57')
 
 ▪ Group B
 Sat Jun 10
@@ -52,20 +52,20 @@ Sun Jun 11
      (Arjen Robben 18')
 Fri Jun 16
   Argentina            v Serbia and Montenegro  6-0   @ Gelsenkirchen, Germany
-     (Maxi Rodríguez 6' Esteban Cambiasso 31' Maxi Rodríguez 41' Hernán Crespo 78' Carlos Tevez 84' Lionel Messi 88')
+     (Maxi Rodríguez 6',41' Esteban Cambiasso 31' Hernán Crespo 78' Carlos Tevez 84' Lionel Messi 88')
   Netherlands          v Ivory Coast           2-1   @ Stuttgart, Germany
      (Robin van Persie 23' Ruud van Nistelrooy 27';
       Bakari Koné 38')
 Wed Jun 21
   Netherlands          v Argentina             0-0   @ Frankfurt am Main, Germany
   Ivory Coast          v Serbia and Montenegro  3-2   @ Munich, Germany
-     (Aruna Dindane 37'(p) Aruna Dindane 67' Bonaventure Kalou 86'(p);
+     (Aruna Dindane 37'(p),67' Bonaventure Kalou 86'(p);
       Nikola Žigić 10' Saša Ilić 20')
 
 ▪ Group D
 Sun Jun 11
   Mexico               v Iran                  3-1   @ Nuremberg, Germany
-     (Omar Bravo 28' Omar Bravo 76' Sinha 79';
+     (Omar Bravo 28',76' Sinha 79';
       Yahya Golmohammadi 36')
   Angola               v Portugal              0-1   @ Cologne, Germany
      (Pauleta 4')
@@ -85,7 +85,7 @@ Wed Jun 21
 ▪ Group E
 Mon Jun 12
   United States        v Czech Republic        0-3   @ Gelsenkirchen, Germany
-     (Jan Koller 5' Tomáš Rosický 36' Tomáš Rosický 76')
+     (Jan Koller 5' Tomáš Rosický 36',76')
   Italy                v Ghana                 2-0   @ Hanover, Germany
      (Andrea Pirlo 40' Vincenzo Iaquinta 83')
 Sat Jun 17
@@ -104,7 +104,7 @@ Thu Jun 22
 ▪ Group F
 Mon Jun 12
   Australia            v Japan                 3-1   @ Kaiserslautern, Germany
-     (Tim Cahill 84' Tim Cahill 89' John Aloisi 90';
+     (Tim Cahill 84',89' John Aloisi 90';
       Shunsuke Nakamura 26')
 Tue Jun 13
   Brazil               v Croatia               1-0   @ Berlin, Germany
@@ -116,7 +116,7 @@ Sun Jun 18
 Thu Jun 22
   Japan                v Brazil                1-4   @ Dortmund, Germany
      (Keiji Tamada 34';
-      Ronaldo 45' Juninho Pernambucano 53' Gilberto 59' Ronaldo 81')
+      Ronaldo 45',81' Juninho Pernambucano 53' Gilberto 59')
   Croatia              v Australia             2-2   @ Stuttgart, Germany
      (Darijo Srna 2' Niko Kovač 56';
       Craig Moore 38'(p) Harry Kewell 79')
@@ -146,10 +146,10 @@ Wed Jun 14
      (Ziad Jaziri 23' Radhi Jaïdi 90';
       Yasser Al-Qahtani 57' Sami Al-Jaber 84')
   Spain                v Ukraine               4-0   @ Leipzig, Germany
-     (Xabi Alonso 13' David Villa 17' David Villa 48'(p) Fernando Torres 81')
+     (Xabi Alonso 13' David Villa 17',48'(p) Fernando Torres 81')
 Mon Jun 19
   Spain                v Tunisia               3-1   @ Stuttgart, Germany
-     (Raúl 71' Fernando Torres 76' Fernando Torres 90'(p);
+     (Raúl 71' Fernando Torres 76',90'(p);
       Jawhar Mnari 8')
   Saudi Arabia         v Ukraine               0-4   @ Hamburg, Germany
      (Andriy Rusol 4' Serhii Rebrov 36' Andriy Shevchenko 46' Maksym Kalynychenko 84')
@@ -165,7 +165,7 @@ Sat Jun 24
      (Hernán Crespo 10' Maxi Rodríguez 98';
       Rafael Márquez 6')
   Germany              v Sweden                2-0   @ Munich, Germany
-     (Lukas Podolski 4' Lukas Podolski 12')
+     (Lukas Podolski 4',12')
 Sun Jun 25
   England              v Ecuador               1-0   @ Stuttgart, Germany
      (David Beckham 60')
@@ -188,7 +188,7 @@ Fri Jun 30
      (Miroslav Klose 80';
       Roberto Ayala 49')
   Italy                v Ukraine               3-0   @ Hamburg, Germany
-     (Gianluca Zambrotta 6' Luca Toni 59' Luca Toni 69')
+     (Gianluca Zambrotta 6' Luca Toni 59',69')
 Sat Jul 1
   Brazil               v France                0-1   @ Frankfurt am Main, Germany
      (Thierry Henry 57')
@@ -205,7 +205,7 @@ Wed Jul 5
 ▪ Third place playoff
 Sat Jul 8
   Germany              v Portugal              3-1   @ Stuttgart, Germany
-     (Bastian Schweinsteiger 56' Petit 60'(og) Bastian Schweinsteiger 78';
+     (Bastian Schweinsteiger 56',78' Petit 60'(og);
       Nuno Gomes 88')
 
 ▪ Final

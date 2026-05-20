@@ -37,11 +37,11 @@ Wed Mar 27
      (John Collins 83';
       Emil Kostadinov 89')
   Yugoslavia           v Northern Ireland      4-1   @ Belgrade, Yugoslavia
-     (Dragiša Binić 35' Darko Pančev 47' Darko Pančev 60' Darko Pančev 62';
+     (Dragiša Binić 35' Darko Pančev 47',60',62';
       Colin Hill 44')
 Sat Mar 30
   France               v Albania               5-0   @ Paris, France
-     (Franck Sauzée 1' Franck Sauzée 9' Jean-Pierre Papin 33'(p) Jean-Pierre Papin 42' Hysen Zmijani 81'(og))
+     (Franck Sauzée 1',9' Jean-Pierre Papin 33'(p),42' Hysen Zmijani 81'(og))
 Wed Apr 3
   Cyprus               v Hungary               0-2   @ Limassol, Cyprus
      (József Szalma 15' József Kiprich 40')
@@ -52,18 +52,18 @@ Wed Apr 17
   Netherlands          v Finland               2-0   @ Rotterdam, Netherlands
      (Marco van Basten 9' Ruud Gullit 76')
   Poland               v Turkey                3-0   @ Warsaw, Poland
-     (Ryszard Tarasiewicz 72' Ryszard Tarasiewicz 80' Roman Kosecki 87')
+     (Ryszard Tarasiewicz 72',80' Roman Kosecki 87')
 Wed May 1
   Albania              v Czechoslovakia        0-2   @ Tirana, Albania
      (Luboš Kubík 25' Pavel Kuka 66')
   Bulgaria             v Switzerland           2-3   @ Sofia, Bulgaria
      (Emil Kostadinov 12' Nasko Sirakov 27';
-      Adrian Knup 59' Adrian Knup 85' Kubilay Türkyilmaz 90')
+      Adrian Knup 59',85' Kubilay Türkyilmaz 90')
   Germany              v Belgium               1-0   @ Hanover, Germany
      (Lothar Matthäus 3')
   Republic of Ireland  v Poland                0-0   @ Dublin, Republic of Ireland
   Italy                v Hungary               3-1   @ Salerno, Italy
-     (Roberto Donadoni 4' Roberto Donadoni 16' Gianluca Vialli 56';
+     (Roberto Donadoni 4',16' Gianluca Vialli 56';
       György Bognár 65'(p))
   Northern Ireland     v Faroe Islands         1-1   @ Belfast, Northern Ireland
      (Colin Clarke 45';
@@ -76,12 +76,12 @@ Wed May 1
      (Dennis Wise 32')
   Yugoslavia           v Denmark               1-2   @ Belgrade, Yugoslavia
      (Darko Pančev 50';
-      Bent Christensen Arensøe 31' Bent Christensen Arensøe 63')
+      Bent Christensen Arensøe 31',63')
 Thu May 16
   Finland              v Malta                 2-0   @ Helsinki, Finland
      (Petri Järvinen 51' Jari Litmanen 87')
   Yugoslavia           v Faroe Islands         7-0   @ Belgrade, Yugoslavia
-     (Ilija Najdoski 21' Robert Prosinečki 24' Darko Pančev 51' Zoran Vulić 65' Zvonimir Boban 68' Darko Pančev 72' Davor Šuker 85')
+     (Ilija Najdoski 21' Robert Prosinečki 24' Darko Pančev 51',72' Zoran Vulić 65' Zvonimir Boban 68' Davor Šuker 85')
 Wed May 22
   Austria              v Faroe Islands         3-0   @ Salzburg, Austria
      (Heimo Pfeifenberger 13' Michael Streiter 48' Arnold Wetl 69')
@@ -95,7 +95,7 @@ Wed May 29
      (Aleksandr Mostovoi 10' Oleksiy Mykhaylychenko 51' Igor Korneev 87' Sergei Aleinikov 89')
 Wed Jun 5
   Denmark              v Austria               2-1   @ Odense, Denmark
-     (Bent Christensen Arensøe 2' Bent Christensen Arensøe 33';
+     (Bent Christensen Arensøe 2',33';
       Ernst Ogris 83')
   Finland              v Netherlands           1-1   @ Helsinki, Finland
      (Erik Holmgren 77';
@@ -106,7 +106,7 @@ Wed Jun 5
      (Tore André Dahlum 4' Lars Bohinen 25';
       Salvatore Schillaci 77')
   Switzerland          v San Marino            7-0   @ St. Gallen, Switzerland
-     (Adrian Knup 3' Marc Hottiger 13' Alain Sutter 29' Heinz Hermann 55' Christophe Ohrel 78' Adrian Knup 87' Kubilay Türkyilmaz 90')
+     (Adrian Knup 3',87' Marc Hottiger 13' Alain Sutter 29' Heinz Hermann 55' Christophe Ohrel 78' Kubilay Türkyilmaz 90')
   Wales                v Germany               1-0   @ Cardiff, Wales
      (Ian Rush 66')
 Wed Aug 28
@@ -115,10 +115,10 @@ Wed Aug 28
 Wed Sep 4
   Czechoslovakia       v France                1-2   @ Bratislava, Czechoslovakia
      (Václav Němeček 19';
-      Jean-Pierre Papin 53' Jean-Pierre Papin 89')
+      Jean-Pierre Papin 53',89')
 Wed Sep 11
   Faroe Islands        v Northern Ireland      0-5   @ Landskrona, Sweden
-     (Kevin Wilson 8' Colin Clarke 12' Alan McDonald 14' Colin Clarke 51' Colin Clarke 68'(p))
+     (Kevin Wilson 8' Colin Clarke 12',51',68'(p) Alan McDonald 14')
   Luxembourg           v Belgium               0-2   @ Luxembourg, Luxembourg
      (Enzo Scifo 25' Marc Degryse 49')
   Portugal             v Finland               1-0   @ Porto, Portugal
@@ -133,7 +133,7 @@ Wed Sep 25
      (Þorvaldur Örlygsson 71' Eyjólfur Sverrisson 79')
   Soviet Union         v Hungary               2-2   @ Moscow, Soviet Union
      (Igor Shalimov 37'(p) Andrei Kanchelskis 50';
-      József Kiprich 16' József Kiprich 84')
+      József Kiprich 16',84')
 Wed Oct 9
   Austria              v Denmark               0-3   @ Vienna, Austria
      (Peter Artner 9'(og) Flemming Povlsen 15' Bent Christensen Arensøe 37')
@@ -178,7 +178,7 @@ Wed Nov 13
   Cyprus               v Soviet Union          0-3   @ Larnaca, Cyprus
      (Oleh Protasov 26' Sergei Yuran 78' Andrei Kanchelskis 81')
   Denmark              v Northern Ireland      2-1   @ Odense, Denmark
-     (Flemming Povlsen 22' Flemming Povlsen 36';
+     (Flemming Povlsen 22',36';
       Gerry Taggart 71')
   Italy                v Norway                1-1   @ Genoa, Italy
      (Ruggiero Rizzitelli 83';
@@ -195,7 +195,7 @@ Wed Nov 13
       Václav Němeček 60')
   Turkey               v Republic of Ireland   1-3   @ Istanbul, Turkey
      (Rıza Çalımbay 13'(p);
-      John Byrne 8' Tony Cascarino 55' John Byrne 58')
+      John Byrne 8',58' Tony Cascarino 55')
   Wales                v Luxembourg            1-0   @ Cardiff, Wales
      (Paul Bodin 82'(p))
 Wed Nov 20
@@ -205,7 +205,7 @@ Wed Nov 20
      (Nasko Sirakov 55';
       Adrian Popescu 31')
   France               v Iceland               3-1   @ Paris, France
-     (Amara Simba 41' Eric Cantona 59' Eric Cantona 67';
+     (Amara Simba 41' Eric Cantona 59',67';
       Eyjólfur Sverrisson 70')
   Portugal             v Greece                1-0   @ Lisbon, Portugal
      (João Vieira Pinto 17')

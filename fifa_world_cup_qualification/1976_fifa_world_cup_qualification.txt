@@ -6,7 +6,7 @@
 
 Sun Mar 7
   Sierra Leone         v Niger                 5-1   @ Freetown, Sierra Leone
-     (Kama Dumbuya 37' Wasieu Sounmonu 57' Wasieu Sounmonu 66' Kama Dumbuya 68' Samuel Tray 70';
+     (Kama Dumbuya 37',68' Wasieu Sounmonu 57',66' Samuel Tray 70';
       Boukari Adamou 17')
 Sat Mar 13
   Upper Volta          v Mauritania            1-1   @ Ouagadougou, Upper Volta
@@ -26,18 +26,18 @@ Fri Apr 16
   Libya                v Algeria               0-0   @ Tripoli, Libya
 Sun May 9
   Zambia               v Malawi                4-0   @ Lusaka, Zambia
-     (Bernard Chanda 4' Willie Phiri 12' Willie Phiri 75' Jack Chamangwana 88'(og))
+     (Bernard Chanda 4' Willie Phiri 12',75' Jack Chamangwana 88'(og))
 Sun May 23
   Cyprus               v Denmark               1-5   @ Limassol, Cyprus
      (Stefanis Michael 10';
-      Allan Simonsen 14' Niels Tune-Hansen 19' Ole Rasmussen 21' Lars Bastrup 51' Lars Bastrup 76')
+      Allan Simonsen 14' Niels Tune-Hansen 19' Ole Rasmussen 21' Lars Bastrup 51',76')
 Sun May 30
   Malawi               v Zambia                0-1   @ Blantyre, Malawi
      (Obby Kapita 48')
 Sun Jun 13
   Finland              v England               1-4   @ Helsinki, Finland
      (Matti Paatelainen 27';
-      Stuart Pearson 14' Kevin Keegan 30' Mick Channon 56' Kevin Keegan 60')
+      Stuart Pearson 14' Kevin Keegan 30',60' Mick Channon 56')
 Wed Jun 16
   Sweden               v Norway                2-0   @ Solna, Sweden
      (Björn Andersson 27' Thomas Sjöberg 42')
@@ -55,7 +55,7 @@ Wed Sep 8
      (Tom Lund 75')
 Wed Sep 22
   Finland              v Luxembourg            7-1   @ Helsinki, Finland
-     (Aki Heiskanen 15' Esa Heiskanen 22' Esa Heiskanen 27' Olavi Rissanen 51' Teppo Heikkinen 54' Olavi Rissanen 61' Ari Mäkynen 82'(p);
+     (Aki Heiskanen 15' Esa Heiskanen 22',27' Olavi Rissanen 51',61' Teppo Heikkinen 54' Ari Mäkynen 82'(p);
       Gilbert Zender 52')
 Sun Sep 26
   Ivory Coast          v Upper Volta           2-0   @ Abidjan, Ivory Coast
@@ -88,9 +88,9 @@ Wed Oct 13
 Sat Oct 16
   Luxembourg           v Italy                 1-4   @ Luxembourg, Luxembourg
      (Nico Braun 86';
-      Francesco Graziani 24' Roberto Bettega 44' Giancarlo Antognoni 50' Roberto Bettega 81')
+      Francesco Graziani 24' Roberto Bettega 44',81' Giancarlo Antognoni 50')
   Portugal             v Poland                0-2   @ Porto, Portugal
-     (Grzegorz Lato 49' Grzegorz Lato 77')
+     (Grzegorz Lato 49',77')
   Sierra Leone         v Nigeria               0-0   @ Freetown, Sierra Leone
 Sun Oct 17
   Congo                v Cameroon              2-2   @ Brazzaville, Congo
@@ -100,13 +100,13 @@ Sun Oct 17
      (Alirou Rachidou 87')
 Wed Oct 27
   Denmark              v Cyprus                5-0   @ Copenhagen, Denmark
-     (Benny Nielsen 54' Henning Munk Jensen 60'(p) Henning Munk Jensen 64' Per Røntved 68'(p) Jørgen Kristensen 75')
+     (Benny Nielsen 54' Henning Munk Jensen 60'(p),64' Per Røntved 68'(p) Jørgen Kristensen 75')
 Fri Oct 29
   Egypt                v Ethiopia              3-0   @ Cairo, Egypt
-     (Mahmoud El Khatib 4' Mahmoud El Khatib 19' Mahmoud El Khatib 77')
+     (Mahmoud El Khatib 4',19',77')
 Sat Oct 30
   Nigeria              v Sierra Leone          6-2   @ Lagos, Nigeria
-     (Segun Odegbami 25' Alloysius Atuegbu 31' Alloysius Atuegbu 34' Thompson Usiyan 40' Kelechi Emeteole 63' Kunle Awesu 77';
+     (Segun Odegbami 25' Alloysius Atuegbu 31',34' Thompson Usiyan 40' Kelechi Emeteole 63' Kunle Awesu 77';
       Ismael Dyfan 74' Mohammed Sama 88'(p))
 Sun Oct 31
   Cameroon             v Congo                 1-2   @ Yaoundé, Cameroon
@@ -116,12 +116,12 @@ Sun Oct 31
      (Papa Camara 51' Mamadou Aliou Keita 56';
       Emmanuel Ofei Ansah 59')
   Poland               v Cyprus                5-0   @ Warsaw, Poland
-     (Kazimierz Deyna 24'(p) Andrzej Szarmach 25' Kazimierz Deyna 40' Zbigniew Boniek 58' Stanisław Terlecki 76')
+     (Kazimierz Deyna 24'(p),40' Andrzej Szarmach 25' Zbigniew Boniek 58' Stanisław Terlecki 76')
   Senegal              v Togo                  1-1   @ Dakar, Senegal
      (Abdoulaye Ba 63';
       Anani Afanou 58')
   Turkey               v Malta                 4-0   @ İzmir, Turkey
-     (Mehmet Özgül 22' Cemil Turan 54' Cemil Turan 57' Cemil Turan 75')
+     (Mehmet Özgül 22' Cemil Turan 54',57',75')
 Wed Nov 10
   Belgium              v Northern Ireland      2-0   @ Liège, Belgium
      (Roger Van Gool 29' Raoul Lambert 52')
@@ -131,7 +131,7 @@ Fri Nov 12
 Sun Nov 14
   Ethiopia             v Egypt                 1-2   @ Addis Ababa, Ethiopia
      (Tekalinge Kassahun 40';
-      Mahmoud El Khatib 12' Mahmoud El Khatib 73')
+      Mahmoud El Khatib 12',73')
 Wed Nov 17
   France               v Republic of Ireland   2-0   @ Paris, France
      (Michel Platini 47' Dominique Bathenay 88')

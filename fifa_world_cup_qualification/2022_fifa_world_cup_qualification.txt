@@ -38,7 +38,7 @@ Fri Jan 28
   Colombia             v Peru                  0-1   @ Barranquilla, Colombia
      (Edison Flores 85')
   Venezuela            v Bolivia               4-1   @ Barinas, Venezuela
-     (Salomón Rondón 24' Salomón Rondón 34' Darwin Machís 55' Salomón Rondón 67';
+     (Salomón Rondón 24',34',67' Darwin Machís 55';
       Bruno Miranda 38')
 Sun Jan 30
   Canada               v United States         2-0   @ Hamilton, Canada
@@ -63,11 +63,11 @@ Tue Feb 1
   Japan                v Saudi Arabia          2-0   @ Saitama, Japan
      (Takumi Minamino 32' Junya Ito 50')
   Oman                 v Australia             2-2   @ Muscat, Oman
-     (Abdullah Fawaz 54' Abdullah Fawaz 89'(p);
+     (Abdullah Fawaz 54',89'(p);
       Jamie Maclaren 15'(p) Aaron Mooy 79')
   Bolivia              v Chile                 2-3   @ La Paz, Bolivia
      (Marc Enoumba 37' Marcelo Martins Moreno 88';
-      Alexis Sánchez 14' Marcelino Núñez 77' Alexis Sánchez 86')
+      Alexis Sánchez 14',86' Marcelino Núñez 77')
   Uruguay              v Venezuela             4-1   @ Montevideo, Uruguay
      (Rodrigo Bentancur 1' Giorgian de Arrascaeta 23' Edinson Cavani 45' Luis Suárez 53'(p);
       Josef Martínez 65')
@@ -95,12 +95,12 @@ Fri Mar 18
      (Ben Waine 75')
   New Caledonia        v Fiji                  1-2   @ Doha, Qatar
      (Jordan Wetria 78';
-      Sairusi Nalaubu 11' Sairusi Nalaubu 89')
+      Sairusi Nalaubu 11',89')
 Mon Mar 21
   Papua New Guinea     v New Caledonia         1-0   @ Doha, Qatar
      (Tommy Semmy 8')
   New Zealand          v Fiji                  4-0   @ Doha, Qatar
-     (Chris Wood 45' Elijah Just 71' Chris Wood 73' Clayton Lewis 90'(p))
+     (Chris Wood 45',73' Elijah Just 71' Clayton Lewis 90'(p))
 Thu Mar 24
   Jamaica              v El Salvador           1-1   @ Kingston, Jamaica
      (Andre Gray 72';
@@ -123,15 +123,15 @@ Thu Mar 24
   Vietnam              v Oman                  0-1   @ Hanoi, Vietnam
      (Khalid Al-Hajri 65')
   Australia            v Japan                 0-2   @ Sydney, Australia
-     (Kaoru Mitoma 89' Kaoru Mitoma 90')
+     (Kaoru Mitoma 89',90')
   Solomon Islands      v Tahiti                3-1   @ Doha, Qatar
-     (Raphael Lea'i 20' Raphael Lea'i 52' Raphael Lea'i 90';
+     (Raphael Lea'i 20',52',90';
       Alvin Tehau 26')
   Fiji                 v Papua New Guinea      1-2   @ Doha, Qatar
      (Tevita Waranaivalu 12';
       Ati Kepo 45' Tommy Semmy 63')
   New Zealand          v New Caledonia         7-1   @ Doha, Qatar
-     (Alex Greive 8' Logan Rogerson 36'(p) Alex Greive 45' Andre de Jong 75' Bill Tuiloma 81' Chris Wood 83' Chris Wood 89';
+     (Alex Greive 8',45' Logan Rogerson 36'(p) Andre de Jong 75' Bill Tuiloma 81' Chris Wood 83',89';
       Jean-Philippe Saïko 12')
   Colombia             v Bolivia               3-0   @ Barranquilla, Colombia
      (Luis Díaz 39' Miguel Borja 72' Mateus Uribe 90')
@@ -150,7 +150,7 @@ Thu Mar 24
   Sweden               v Czech Republic        1-0   @ Stockholm, Sweden
      (Robin Quaison 110')
   Wales                v Austria               2-1   @ Cardiff, Wales
-     (Gareth Bale 25' Gareth Bale 51';
+     (Gareth Bale 25',51';
       Marcel Sabitzer 65')
 Fri Mar 25
   Cameroon             v Algeria               0-1   @ Douala, Cameroon
@@ -174,19 +174,19 @@ Sun Mar 27
   Honduras             v Mexico                0-1   @ San Pedro Sula, Honduras
      (Edson Álvarez 70')
   United States        v Panama                5-1   @ Orlando, United States
-     (Christian Pulisic 17'(p) Paul Arriola 23' Jesús Ferreira 27' Christian Pulisic 45'(p) Christian Pulisic 65';
+     (Christian Pulisic 17'(p),45'(p),65' Paul Arriola 23' Jesús Ferreira 27';
       Aníbal Godoy 86')
   New Zealand          v Tahiti                1-0   @ Doha, Qatar
      (Liberato Cacace 71')
   Solomon Islands      v Papua New Guinea      3-2   @ Doha, Qatar
-     (Alwin Hou 33' Alwin Hou 66' Raphael Lea'i 71';
+     (Alwin Hou 33',66' Raphael Lea'i 71';
       Alwin Komolong 24' Ati Kepo 88')
 Tue Mar 29
   Algeria              v Cameroon              1-2   @ Blida, Algeria
      (Ahmed Touba 118';
       Eric Maxim Choupo-Moting 22' Karl Toko Ekambi 120')
   Morocco              v DR Congo              4-1   @ Casablanca, Morocco
-     (Azzedine Ounahi 21' Tarik Tissoudali 45' Azzedine Ounahi 54' Achraf Hakimi 69';
+     (Azzedine Ounahi 21',54' Tarik Tissoudali 45' Achraf Hakimi 69';
       Ben Malango 77')
   Nigeria              v Ghana                 1-1   @ Abuja, Nigeria
      (William Troost-Ekong 22'(p);
@@ -214,7 +214,7 @@ Tue Mar 29
   Peru                 v Paraguay              2-0   @ Lima, Peru
      (Gianluca Lapadula 5' Yoshimar Yotún 42')
   Bolivia              v Brazil                0-4   @ La Paz, Bolivia
-     (Lucas Paquetá 24' Richarlison 45' Bruno Guimarães 66' Richarlison 90')
+     (Lucas Paquetá 24' Richarlison 45',90' Bruno Guimarães 66')
   Venezuela            v Colombia              0-1   @ Guayana, Venezuela
      (James Rodríguez 45'(p))
   Chile                v Uruguay               0-2   @ Santiago, Chile
@@ -222,7 +222,7 @@ Tue Mar 29
   Poland               v Sweden                2-0   @ Chorzów, Poland
      (Robert Lewandowski 49'(p) Piotr Zieliński 72')
   Portugal             v North Macedonia       2-0   @ Porto, Portugal
-     (Bruno Fernandes 32' Bruno Fernandes 65')
+     (Bruno Fernandes 32',65')
 Wed Mar 30
   Mexico               v El Salvador           2-0   @ Mexico City, Mexico
      (Uriel Antuna 17' Raúl Jiménez 43'(p))
@@ -234,7 +234,7 @@ Wed Mar 30
      (Leon Bailey 39'(p) Ravel Morrison 45';
       Ángel Tejeda 18'(p))
   Solomon Islands      v New Zealand           0-5   @ Doha, Qatar
-     (Bill Tuiloma 23' Chris Wood 39' Joe Bell 50' Bill Tuiloma 70' Matthew Garbett 90')
+     (Bill Tuiloma 23',70' Chris Wood 39' Joe Bell 50' Matthew Garbett 90')
 Wed Jun 1
   Scotland             v Ukraine               1-3   @ Glasgow, Scotland
      (Callum McGregor 79';

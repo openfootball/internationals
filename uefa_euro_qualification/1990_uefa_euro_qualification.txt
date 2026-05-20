@@ -29,7 +29,7 @@ Wed Sep 26
      (Václav Daněk 43')
 Wed Oct 10
   Denmark              v Faroe Islands         4-1   @ Copenhagen, Denmark
-     (Michael Laudrup 8' Lars Elstrup 37' Michael Laudrup 48' Flemming Povlsen 89';
+     (Michael Laudrup 8',48' Lars Elstrup 37' Flemming Povlsen 89';
       Allan Mørkøre 21')
   Norway               v Hungary               0-0   @ Bergen, Norway
   Spain                v Iceland               2-1   @ Seville, Spain
@@ -37,7 +37,7 @@ Wed Oct 10
       Sigurður Jónsson 66')
 Sat Oct 13
   France               v Czechoslovakia        2-1   @ Paris, France
-     (Jean-Pierre Papin 60' Jean-Pierre Papin 83';
+     (Jean-Pierre Papin 60',83';
       Tomáš Skuhravý 89')
 Wed Oct 17
   England              v Poland                2-0   @ London, England
@@ -46,14 +46,14 @@ Wed Oct 17
      (László Disztl 16';
       Roberto Baggio 54'(p))
   Republic of Ireland  v Turkey                5-0   @ Dublin, Republic of Ireland
-     (John Aldridge 15' David O'Leary 40' John Aldridge 58' Niall Quinn 66' John Aldridge 73')
+     (John Aldridge 15',58',73' David O'Leary 40' Niall Quinn 66')
   Northern Ireland     v Denmark               1-1   @ Belfast, Northern Ireland
      (Colin Clarke 58';
       Jan Bartram 11'(p))
   Portugal             v Netherlands           1-0   @ Porto, Portugal
      (Rui Águas 54')
   Romania              v Bulgaria              0-3   @ Bucharest, Romania
-     (Nasko Sirakov 28' Nikolay Todorov 48' Nikolay Todorov 76')
+     (Nasko Sirakov 28' Nikolay Todorov 48',76')
   Scotland             v Switzerland           2-1   @ Glasgow, Scotland
      (John Robertson 34'(p) Gary McAllister 53';
       Adrian Knup 65'(p))
@@ -64,13 +64,13 @@ Wed Oct 31
   Greece               v Malta                 4-0   @ Athens, Greece
      (Nikos Tsiantakis 37' Vassilis Karapialis 40' Dimitris Saravakos 59' Stefanos Borbokis 88')
   Hungary              v Cyprus                4-2   @ Budapest, Hungary
-     (Emil Lőrincz 1' Emil Lőrincz 19' József Kiprich 20'(p) József Kiprich 67'(p);
+     (Emil Lőrincz 1',19' József Kiprich 20'(p),67'(p);
       Panayiotis Xiourouppas 13' Angelos Tsolakis 89')
   Luxembourg           v Germany               2-3   @ Luxembourg, Luxembourg
      (Jean-Paul Girres 57' Robby Langers 65';
       Jürgen Klinsmann 16' Uwe Bein 30' Rudi Völler 49')
   Yugoslavia           v Austria               4-1   @ Belgrade, Yugoslavia
-     (Darko Pančev 32' Srečko Katanec 43' Darko Pančev 52' Darko Pančev 85';
+     (Darko Pančev 32',52',85' Srečko Katanec 43';
       Andreas Ogris 15')
 Sat Nov 3
   Italy                v Soviet Union          0-0   @ Rome, Italy
@@ -82,7 +82,7 @@ Wed Nov 14
   Cyprus               v Norway                0-3   @ Nicosia, Cyprus
      (Gøran Sørloth 39' Lars Bohinen 50' Sverre Brandhaug 64')
   Czechoslovakia       v Spain                 3-2   @ Prague, Czechoslovakia
-     (Václav Daněk 16' Václav Daněk 67' Ľubomír Moravčík 77';
+     (Václav Daněk 16',67' Ľubomír Moravčík 77';
       Roberto Fernández Bonillo 30' Carlos Muñoz Cobo 54')
   Denmark              v Yugoslavia            0-2   @ Copenhagen, Denmark
      (Mehmed Baždarević 77' Robert Jarni 84')
@@ -110,10 +110,10 @@ Wed Dec 5
      (Ioan Sabău 2' Dorin Mateuț 18' Florin Răducioiu 43' Ioan Lupescu 56' Pavel Badea 77' Dan Petrescu 85')
 Wed Dec 19
   Malta                v Netherlands           0-8   @ Attard, Malta
-     (Marco van Basten 9' Marco van Basten 20' Marco van Basten 23' Aron Winter 53' Dennis Bergkamp 60' Marco van Basten 64' Dennis Bergkamp 66' Marco van Basten 80'(p))
+     (Marco van Basten 9',20',23',64',80'(p) Aron Winter 53' Dennis Bergkamp 60',66')
   Spain                v Albania               9-0   @ Seville, Spain
-     (Guillermo Amor 21' Carlos Muñoz Cobo 24' Emilio Butragueño 31' Fernando Hierro 40' Emilio Butragueño 57' Carlos Muñoz Cobo 65' Emilio Butragueño 68' José Mari Bakero 76' Emilio Butragueño 88')
+     (Guillermo Amor 21' Carlos Muñoz Cobo 24',65' Emilio Butragueño 31',57',68',88' Fernando Hierro 40' José Mari Bakero 76')
 Sat Dec 22
   Cyprus               v Italy                 0-4   @ Limassol, Cyprus
-     (Pietro Vierchowod 15' Aldo Serena 22' Attilio Lombardo 44' Aldo Serena 50')
+     (Pietro Vierchowod 15' Aldo Serena 22',50' Attilio Lombardo 44')
 

@@ -35,14 +35,14 @@ Thu Jun 17
      (Walter Schachner 22')
 Sun Jun 20
   Germany              v Chile                 4-1   @ Gijón, Spain
-     (Karl-Heinz Rummenigge 9' Karl-Heinz Rummenigge 57' Karl-Heinz Rummenigge 66' Uwe Reinders 83';
+     (Karl-Heinz Rummenigge 9',57',66' Uwe Reinders 83';
       Gustavo Moscoso 90')
 Mon Jun 21
   Algeria              v Austria               0-2   @ Oviedo, Spain
      (Walter Schachner 55' Hans Krankl 67')
 Thu Jun 24
   Algeria              v Chile                 3-2   @ Oviedo, Spain
-     (Salah Assad 7' Salah Assad 31' Tedj Bensaoula 35';
+     (Salah Assad 7',31' Tedj Bensaoula 35';
       Miguel Ángel Neira 59'(p) Juan Carlos Letelier 73')
 Fri Jun 25
   Germany              v Austria               1-0   @ Gijón, Spain
@@ -54,11 +54,11 @@ Sun Jun 13
      (Erwin Vandenbergh 62')
 Tue Jun 15
   Hungary              v El Salvador           10-1   @ Elche, Spain
-     (Tibor Nyilasi 4' Gábor Pölöskei 11' László Fazekas 23' József Tóth 50' László Fazekas 54' László Kiss 69' Lázár Szentes 70' László Kiss 72' László Kiss 76' Tibor Nyilasi 83';
+     (Tibor Nyilasi 4',83' Gábor Pölöskei 11' László Fazekas 23',54' József Tóth 50' László Kiss 69',72',76' Lázár Szentes 70';
       Luis Ramírez Zapata 64')
 Fri Jun 18
   Argentina            v Hungary               4-1   @ Alicante, Spain
-     (Daniel Bertoni 26' Diego Maradona 28' Diego Maradona 57' Osvaldo Ardiles 60';
+     (Daniel Bertoni 26' Diego Maradona 28',57' Osvaldo Ardiles 60';
       Gábor Pölöskei 76')
 Sat Jun 19
   Belgium              v El Salvador           1-0   @ Elche, Spain
@@ -74,7 +74,7 @@ Wed Jun 23
 ▪ Group 4
 Wed Jun 16
   England              v France                3-1   @ Bilbao, Spain
-     (Bryan Robson 1' Bryan Robson 67' Paul Mariner 83';
+     (Bryan Robson 1',67' Paul Mariner 83';
       Gérard Soler 24')
 Thu Jun 17
   Czechoslovakia       v Kuwait                1-1   @ Valladolid, Spain
@@ -124,7 +124,7 @@ Mon Jun 14
       Andriy Bal 34')
 Tue Jun 15
   Scotland             v New Zealand           5-2   @ Málaga, Spain
-     (Kenny Dalglish 18' John Wark 29' John Wark 32' John Robertson 73' Steve Archibald 79';
+     (Kenny Dalglish 18' John Wark 29',32' John Robertson 73' Steve Archibald 79';
       Steve Sumner 54' Steve Wooddin 64')
 Fri Jun 18
   Brazil               v Scotland              4-1   @ Seville, Spain
@@ -139,12 +139,12 @@ Tue Jun 22
       Joe Jordan 15' Graeme Souness 86')
 Wed Jun 23
   Brazil               v New Zealand           4-0   @ Seville, Spain
-     (Zico 28' Zico 31' Paulo Roberto Falcão 64' Serginho Chulapa 70')
+     (Zico 28',31' Paulo Roberto Falcão 64' Serginho Chulapa 70')
 
 ▪ Group A
 Mon Jun 28
   Poland               v Belgium               3-0   @ Barcelona, Spain
-     (Zbigniew Boniek 4' Zbigniew Boniek 26' Zbigniew Boniek 53')
+     (Zbigniew Boniek 4',26',53')
 Thu Jul 1
   Belgium              v Soviet Union          0-1   @ Barcelona, Spain
      (Khoren Oganesian 48')
@@ -172,7 +172,7 @@ Fri Jul 2
       Zico 11' Serginho Chulapa 66' Leovegildo Lins da Gama Júnior 75')
 Mon Jul 5
   Italy                v Brazil                3-2   @ Barcelona, Spain
-     (Paolo Rossi 5' Paolo Rossi 25' Paolo Rossi 74';
+     (Paolo Rossi 5',25',74';
       Sócrates 12' Paulo Roberto Falcão 68')
 
 ▪ Group D
@@ -182,10 +182,10 @@ Mon Jun 28
 Thu Jul 1
   Austria              v Northern Ireland      2-2   @ Madrid, Spain
      (Bruno Pezzey 50' Reinhold Hintermaier 68';
-      Billy Hamilton 27' Billy Hamilton 75')
+      Billy Hamilton 27',75')
 Sun Jul 4
   France               v Northern Ireland      4-1   @ Madrid, Spain
-     (Alain Giresse 33' Dominique Rocheteau 46' Dominique Rocheteau 68' Alain Giresse 80';
+     (Alain Giresse 33',80' Dominique Rocheteau 46',68';
       Gerry Armstrong 75')
 
 ▪ Semi-final
@@ -194,7 +194,7 @@ Thu Jul 8
      (Pierre Littbarski 17' Karl-Heinz Rummenigge 102' Klaus Fischer 108';
       Michel Platini 26'(p) Marius Trésor 92' Alain Giresse 98')
   Poland               v Italy                 0-2   @ Barcelona, Spain
-     (Paolo Rossi 22' Paolo Rossi 73')
+     (Paolo Rossi 22',73')
 
 ▪ Third place playoff
 Sat Jul 10

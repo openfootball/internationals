@@ -16,7 +16,7 @@ Wed Mar 29
      (Humberto Coelho 7' Nené 17' Artur Jorge 46' Rui Jordão 81')
 Sun Apr 30
   Austria              v Malta                 4-0   @ Vienna, Austria
-     (Josef Hickersberger 29' Josef Hickersberger 34' Josef Hickersberger 36' Norbert Hof 85')
+     (Josef Hickersberger 29',34',36' Norbert Hof 85')
   Lesotho              v Zambia                0-0   @ Maseru, Lesotho
 Sat May 6
   Hungary              v Malta                 3-0   @ Budapest, Hungary
@@ -26,15 +26,15 @@ Wed May 10
      (Chico Faria 36')
 Thu May 18
   Belgium              v Iceland               4-0   @ Liège, Belgium
-     (Paul Van Himst 12' Odilon Polleunis 34' Odilon Polleunis 57' Einar Gunnarsson 89'(og))
+     (Paul Van Himst 12' Odilon Polleunis 34',57' Einar Gunnarsson 89'(og))
 Mon May 22
   Belgium              v Iceland               4-0   @ Bruges, Belgium
-     (Frans Janssens 28' Raoul Lambert 30'(p) Raoul Lambert 49'(p) Jean Dockx 60')
+     (Frans Janssens 28' Raoul Lambert 30'(p),49'(p) Jean Dockx 60')
 Thu May 25
   Sweden               v Hungary               0-0   @ Solna, Sweden
 Sun Jun 4
   Zambia               v Lesotho               6-1   @ Ndola, Zambia
-     (Joseph Mapulanga 25' Godfrey Chitalu 35' Freddie Mwila 40' Freddie Mwila 67' Freddie Mwila 72' Godfrey Chitalu 80';
+     (Joseph Mapulanga 25' Godfrey Chitalu 35',80' Freddie Mwila 40',67',72';
       Ramoseli Thietsi 30')
 Tue Jun 6
   Togo                 v Zaïre                 0-0   @ Lomé, Togo
@@ -43,16 +43,16 @@ Sat Jun 10
      (Thomas Parits 65' Peter Pumm 78')
 Sun Jun 18
   Dahomey              v Ghana                 0-5   @ Cotonou, Dahomey
-     (Ibrahim Sunday 21' Kwasi Owusu 26' Joseph Ghartey 40' Abukari Gariba 65' Abukari Gariba 75')
+     (Ibrahim Sunday 21' Kwasi Owusu 26' Joseph Ghartey 40' Abukari Gariba 65',75')
 Tue Jun 20
   Zaïre                v Togo                  4-0   @ Kinshasa, Zaïre
-     (Kembo Uba Kembo 27' Jean Kalala N'Tumba 37' Jean Kalala N'Tumba 73' Kakoko Etepé 79')
+     (Kembo Uba Kembo 27' Jean Kalala N'Tumba 37',73' Kakoko Etepé 79')
 Wed Jun 21
   Finland              v Albania               1-0   @ Helsinki, Finland
      (Miikka Toivola 13')
 Sun Jul 2
   Ghana                v Dahomey               5-1   @ Kumasi, Ghana
-     (Osei Kofi 20' Osei Kofi 44' Ibrahim Sunday 64' Kwasi Owusu 66' Clifford Odame 72'(p);
+     (Osei Kofi 20',44' Ibrahim Sunday 64' Kwasi Owusu 66' Clifford Odame 72'(p);
       Damien Kamilou ??')
 Sun Jul 16
   Kenya                v Sudan                 2-0   @ Nairobi, Kenya
@@ -81,9 +81,9 @@ Wed Oct 4
      (Léon Dolmans 58'(p) Raoul Lambert 60')
 Sat Oct 7
   German DR            v Finland               5-0   @ Dresden, German DR
-     (Hans-Jürgen Kreische 26' Jürgen Sparwasser 68' Joachim Streich 70' Joachim Streich 76' Jürgen Sparwasser 86')
+     (Hans-Jürgen Kreische 26' Jürgen Sparwasser 68',86' Joachim Streich 70',76')
   Luxembourg           v Italy                 0-4   @ Luxembourg, Luxembourg
-     (Giorgio Chinaglia 3' Gigi Riva 6' Gigi Riva 36' Fabio Capello 62')
+     (Giorgio Chinaglia 3' Gigi Riva 6',36' Fabio Capello 62')
 Fri Oct 13
   France               v Soviet Union          1-0   @ Paris, France
      (Georges Bereta 61')
@@ -94,10 +94,10 @@ Sun Oct 15
   Sierra Leone         v Ivory Coast           0-1   @ Freetown, Sierra Leone
      (Mama Ouattara 32')
   Sweden               v Malta                 7-0   @ Gothenburg, Sweden
-     (Ralf Edström 2' Bo Larsson 18' Ralf Edström 32' Bo Larsson 35'(p) Roland Sandberg 44' Dag Szepanski 57'(p) Ralf Edström 64')
+     (Ralf Edström 2',32',64' Bo Larsson 18',35'(p) Roland Sandberg 44' Dag Szepanski 57'(p))
 Wed Oct 18
   Bulgaria             v Northern Ireland      3-0   @ Sofia, Bulgaria
-     (Hristo Bonev 18'(p) Bozhil Kolev 53' Hristo Bonev 85'(p))
+     (Hristo Bonev 18'(p),85'(p) Bozhil Kolev 53')
   Denmark              v Scotland              1-4   @ Copenhagen, Denmark
      (Finn Laudrup 28';
       Lou Macari 18' Jimmy Bone 20' Joe Harper 80' Willie Morgan 83')
@@ -107,7 +107,7 @@ Wed Oct 18
 Thu Oct 19
   Spain                v Yugoslavia            2-2   @ Las Palmas, Spain
      (Amancio Amaro 30' Juan Manuel Asensi 89';
-      Dušan Bajević 52' Dušan Bajević 60')
+      Dušan Bajević 52',60')
 Sat Oct 21
   Switzerland          v Italy                 0-0   @ Bern, Switzerland
 Sun Oct 22
@@ -120,7 +120,7 @@ Sun Oct 29
      (Nicolae Dobrin 38' Emerich Dembrovschi 41')
 Wed Nov 1
   Netherlands          v Norway                9-0   @ Rotterdam, Netherlands
-     (Johan Neeskens 31' Johan Neeskens 51' Johan Cruyff 55' Johan Neeskens 63' Theo de Jong 70' Willy Brokamp 76' Piet Keizer 80'(p) Johan Cruyff 82' Willy Brokamp 87')
+     (Johan Neeskens 31',51',63' Johan Cruyff 55',82' Theo de Jong 70' Willy Brokamp 76',87' Piet Keizer 80'(p))
 Wed Nov 15
   Republic of Ireland  v France                2-1   @ Dublin, Republic of Ireland
      (Terry Conroy 27' Ray Treacy 77';
@@ -135,7 +135,7 @@ Sat Nov 18
 Sun Nov 19
   Belgium              v Netherlands           0-0   @ Antwerp, Belgium
   Cyprus               v Bulgaria              0-4   @ Akdoğan, Cyprus
-     (Atanas Mihaylov 2' Georgi Denev 15' Hristo Bonev 17' Hristo Bonev 80')
+     (Atanas Mihaylov 2' Georgi Denev 15' Hristo Bonev 17',80')
   Morocco              v Senegal               0-0   @ Rabat, Morocco
 Sat Nov 25
   Malta                v Austria               0-2   @ Gżira, Malta
@@ -154,15 +154,15 @@ Fri Dec 8
       Ezzedine Chakroun 61')
 Sun Dec 10
   Ethiopia             v Tanzania              3-0   @ Addis Ababa, Ethiopia
-     (Tariku Ingdawerk 5' Tariku Ingdawerk 12' Seyoum Tesfaye 44')
+     (Tariku Ingdawerk 5',12' Seyoum Tesfaye 44')
   Mauritius            v Kenya                 1-3   @ Curepipe, Mauritius
      (Daniel Imbert 37';
-      William Ouma 42' John Shore 82' William Ouma 84')
+      William Ouma 42',84' John Shore 82')
   Turkey               v Luxembourg            3-0   @ Istanbul, Turkey
-     (Osman Arpacıoğlu 6' Osman Arpacıoğlu 39' Köksal Mesçi 79'(p))
+     (Osman Arpacıoğlu 6',39' Köksal Mesçi 79'(p))
 Sun Dec 17
   Kenya                v Mauritius             2-2   @ Nairobi, Kenya
-     (William Ouma 56' William Ouma 65';
+     (William Ouma 56',65';
       Anwar Jackaria 17' Daniel Imbert 42')
   Tunisia              v Egypt                 2-0   @ Tunis, Tunisia
      (Ezzedine Chakroun 16' Mohieddine Habita 71')

@@ -8,7 +8,7 @@
 ▪ Group A
 Sat Jul 1
   Paraguay             v Peru                  5-2   @ Salvador, Brazil
-     (Adolfino Cañete 38' Gustavo Neffa 41' Alfredo Mendoza 51' José del Solar 75'(og) Adolfino Cañete 84';
+     (Adolfino Cañete 38',84' Gustavo Neffa 41' Alfredo Mendoza 51' José del Solar 75'(og);
       Jorge Hirano 30' Juan Reynoso Guzmán 80')
   Brazil               v Venezuela             3-1   @ Salvador, Brazil
      (Bebeto 2' Geovani Faria da Silva 36'(p) Baltazar Maria de Morais Júnior 57';
@@ -16,8 +16,8 @@ Sat Jul 1
 Mon Jul 3
   Brazil               v Peru                  0-0   @ Salvador, Brazil
   Venezuela            v Colombia              2-4   @ Salvador, Brazil
-     (Carlos Maldonado 73' Carlos Maldonado 88';
-      René Higuita 36'(p) Arnoldo Iguarán 46' Antony de Ávila 71' Arnoldo Iguarán 75')
+     (Carlos Maldonado 73',88';
+      René Higuita 36'(p) Arnoldo Iguarán 46',75' Antony de Ávila 71')
 Wed Jul 5
   Peru                 v Venezuela             1-1   @ Salvador, Brazil
      (Franco Navarro 30';
@@ -27,10 +27,10 @@ Wed Jul 5
 Fri Jul 7
   Brazil               v Colombia              0-0   @ Salvador, Brazil
   Paraguay             v Venezuela             3-0   @ Salvador, Brazil
-     (Gustavo Neffa 41' Buenaventura Ferreira 50' Buenaventura Ferreira 73')
+     (Gustavo Neffa 41' Buenaventura Ferreira 50',73')
 Sun Jul 9
   Brazil               v Paraguay              2-0   @ Recife, Brazil
-     (Bebeto 47' Bebeto 82')
+     (Bebeto 47',82')
   Colombia             v Peru                  1-1   @ Recife, Brazil
      (Arnoldo Iguarán 32';
       Jorge Hirano 43')
@@ -43,7 +43,7 @@ Sun Jul 2
      (Claudio Caniggia 55')
 Tue Jul 4
   Uruguay              v Bolivia               3-0   @ Goiânia, Brazil
-     (Santiago Ostolaza 30' Rubén Sosa 33' Santiago Ostolaza 60')
+     (Santiago Ostolaza 30',60' Rubén Sosa 33')
   Argentina            v Ecuador               0-0   @ Goiânia, Brazil
 Thu Jul 6
   Ecuador              v Bolivia               0-0   @ Goiânia, Brazil
@@ -68,9 +68,9 @@ Wed Jul 12
      (Enzo Francescoli 28' Antonio Alzamendi 82' Rubén Paz 89')
 Fri Jul 14
   Argentina            v Uruguay               0-2   @ Rio de Janeiro, Brazil
-     (Rubén Sosa 38' Rubén Sosa 81')
+     (Rubén Sosa 38',81')
   Brazil               v Paraguay              3-0   @ Rio de Janeiro, Brazil
-     (Bebeto 16' Bebeto 52' Romário 58')
+     (Bebeto 16',52' Romário 58')
 Sun Jul 16
   Brazil               v Uruguay               1-0   @ Rio de Janeiro, Brazil
      (Romário 49')

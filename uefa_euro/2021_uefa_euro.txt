@@ -15,14 +15,14 @@ Sat Jun 12
       Breel Embolo 49')
 Wed Jun 16
   Italy                v Switzerland           3-0   @ Rome, Italy
-     (Manuel Locatelli 26' Manuel Locatelli 52' Ciro Immobile 89')
+     (Manuel Locatelli 26',52' Ciro Immobile 89')
   Turkey               v Wales                 0-2   @ Baku, Azerbaijan
      (Aaron Ramsey 42' Connor Roberts 90')
 Sun Jun 20
   Italy                v Wales                 1-0   @ Rome, Italy
      (Matteo Pessina 39')
   Switzerland          v Turkey                3-1   @ Baku, Azerbaijan
-     (Haris Seferovic 6' Xherdan Shaqiri 26' Xherdan Shaqiri 68';
+     (Haris Seferovic 6' Xherdan Shaqiri 26',68';
       İrfan Kahveci 62')
 
 ▪ Group B
@@ -30,7 +30,7 @@ Sat Jun 12
   Denmark              v Finland               0-1   @ Copenhagen, Denmark
      (Joel Pohjanpalo 60')
   Russia               v Belgium               0-3   @ Saint Petersburg, Russia
-     (Romelu Lukaku 10' Thomas Meunier 34' Romelu Lukaku 88')
+     (Romelu Lukaku 10',88' Thomas Meunier 34')
 Wed Jun 16
   Russia               v Finland               1-0   @ Saint Petersburg, Russia
      (Aleksei Miranchuk 45')
@@ -63,7 +63,7 @@ Mon Jun 21
   Ukraine              v Austria               0-1   @ Bucharest, Romania
      (Christoph Baumgartner 21')
   Netherlands          v North Macedonia       3-0   @ Amsterdam, Netherlands
-     (Memphis Depay 24' Georginio Wijnaldum 50' Georginio Wijnaldum 58')
+     (Memphis Depay 24' Georginio Wijnaldum 50',58')
 
 ▪ Group D
 Sun Jun 13
@@ -71,7 +71,7 @@ Sun Jun 13
      (Raheem Sterling 57')
 Mon Jun 14
   Scotland             v Czech Republic        0-2   @ Glasgow, Scotland
-     (Patrik Schick 42' Patrik Schick 52')
+     (Patrik Schick 42',52')
 Fri Jun 18
   Croatia              v Czech Republic        1-1   @ Glasgow, Scotland
      (Ivan Perišić 47';
@@ -99,15 +99,15 @@ Sat Jun 19
       Robert Lewandowski 54')
 Wed Jun 23
   Sweden               v Poland                3-2   @ Saint Petersburg, Russia
-     (Emil Forsberg 2' Emil Forsberg 59' Viktor Claesson 90';
-      Robert Lewandowski 61' Robert Lewandowski 84')
+     (Emil Forsberg 2',59' Viktor Claesson 90';
+      Robert Lewandowski 61',84')
   Spain                v Slovakia              5-0   @ Seville, Spain
      (Martin Dúbravka 30'(og) Aymeric Laporte 45' Pablo Sarabia 56' Ferran Torres 67' Juraj Kucka 71'(og))
 
 ▪ Group F
 Tue Jun 15
   Hungary              v Portugal              0-3   @ Budapest, Hungary
-     (Raphaël Guerreiro 84' Cristiano Ronaldo 87'(p) Cristiano Ronaldo 90')
+     (Raphaël Guerreiro 84' Cristiano Ronaldo 87'(p),90')
   Germany              v France                0-1   @ Munich, Germany
      (Mats Hummels 20'(og))
 Sat Jun 19
@@ -122,8 +122,8 @@ Wed Jun 23
      (Kai Havertz 66' Leon Goretzka 84';
       Ádám Szalai 11' András Schäfer 68')
   Portugal             v France                2-2   @ Budapest, Hungary
-     (Cristiano Ronaldo 31'(p) Cristiano Ronaldo 60'(p);
-      Karim Benzema 45'(p) Karim Benzema 47')
+     (Cristiano Ronaldo 31'(p),60'(p);
+      Karim Benzema 45'(p),47')
 
 ▪ Round of 16
 Sat Jun 26
@@ -131,7 +131,7 @@ Sat Jun 26
      (Federico Chiesa 95' Matteo Pessina 105';
       Saša Kalajdžić 114')
   Wales                v Denmark               0-4   @ Amsterdam, Netherlands
-     (Kasper Dolberg 27' Kasper Dolberg 48' Joakim Mæhle 88' Martin Braithwaite 90')
+     (Kasper Dolberg 27',48' Joakim Mæhle 88' Martin Braithwaite 90')
 Sun Jun 27
   Netherlands          v Czech Republic        0-2   @ Budapest, Hungary
      (Tomáš Holeš 68' Patrik Schick 80')
@@ -142,8 +142,8 @@ Mon Jun 28
      (Pedri 20'(og) Mislav Oršić 85' Mario Pašalić 90';
       Pablo Sarabia 38' César Azpilicueta 57' Ferran Torres 77' Álvaro Morata 100' Mikel Oyarzabal 103')
   France               v Switzerland           3-3   @ Bucharest, Romania   [Switzerland wins on penalties]
-     (Karim Benzema 57' Karim Benzema 59' Paul Pogba 75';
-      Haris Seferovic 15' Haris Seferovic 81' Mario Gavranović 90')
+     (Karim Benzema 57',59' Paul Pogba 75';
+      Haris Seferovic 15',81' Mario Gavranović 90')
 Tue Jun 29
   England              v Germany               2-0   @ London, England
      (Raheem Sterling 75' Harry Kane 86')
@@ -164,7 +164,7 @@ Sat Jul 3
      (Patrik Schick 49';
       Thomas Delaney 5' Kasper Dolberg 42')
   Ukraine              v England               0-4   @ Rome, Italy
-     (Harry Kane 4' Harry Maguire 46' Harry Kane 50' Jordan Henderson 63')
+     (Harry Kane 4',50' Harry Maguire 46' Jordan Henderson 63')
 
 ▪ Semi-final
 Tue Jul 6

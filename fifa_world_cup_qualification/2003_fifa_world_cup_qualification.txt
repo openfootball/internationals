@@ -18,7 +18,7 @@ Sun Sep 7
      (Juan Pablo Ángel 38';
       Ronaldo 22' Kaká 60')
   Uruguay              v Bolivia               5-0   @ Montevideo, Uruguay
-     (Diego Forlán 18' Javier Chevantón 40' Javier Chevantón 61' Nelson Abeijon 83' Carlos Bueno 88')
+     (Diego Forlán 18' Javier Chevantón 40',61' Nelson Abeijon 83' Carlos Bueno 88')
 Tue Sep 9
   Chile                v Peru                  2-1   @ Santiago, Chile
      (Mauricio Pinilla 35' Arturo Norambuena 70';
@@ -27,11 +27,11 @@ Tue Sep 9
      (Pablo Aimar 7' Hernán Crespo 25' César Delgado 32')
 Wed Sep 10
   Bolivia              v Colombia              4-0   @ La Paz, Bolivia
-     (Julio César Baldivieso 11'(p) Joaquín Botero 27' Joaquín Botero 49' Joaquín Botero 59')
+     (Julio César Baldivieso 11'(p) Joaquín Botero 27',49',59')
   Brazil               v Ecuador               1-0   @ Manaus, Brazil
      (Ronaldinho 13')
   Paraguay             v Uruguay               4-1   @ Asunción, Paraguay
-     (José Cardozo 26' Carlos Humberto Paredes 53' José Cardozo 58' José Cardozo 72';
+     (José Cardozo 26',58',72' Carlos Humberto Paredes 53';
       Javier Chevantón 24')
 Fri Oct 10
   Guinea-Bissau        v Mali                  1-2   @ Bissau, Guinea-Bissau
@@ -39,7 +39,7 @@ Fri Oct 10
       Seydou Keita 8' Soumaïla Coulibaly 69')
 Sat Oct 11
   Botswana             v Lesotho               4-1   @ Gaborone, Botswana
-     (Tshepiso Molwantwa 7' Nelson Gabolwelwe 44' Diphetogo Selolwane 50' Diphetogo Selolwane 53';
+     (Tshepiso Molwantwa 7' Nelson Gabolwelwe 44' Diphetogo Selolwane 50',53';
       Moses Ramafole 64')
   Equatorial Guinea    v Togo                  1-0   @ Bata, Equatorial Guinea
      (Sergio Barila 25'(p))
@@ -60,13 +60,13 @@ Sat Oct 11
 Sun Oct 12
   Burundi              v Gabon                 0-0   @ Bujumbura, Burundi
   Chad                 v Angola                3-1   @ N'Djamena, Chad
-     (Francis Oumar 53' Francis Oumar 74' Francis Oumar 83';
+     (Francis Oumar 53',74',83';
       Bruno Mauro 49')
   Congo                v Sierra Leone          1-0   @ Brazzaville, Congo
      (Mbiamcie Mvoubi 89'(p))
   Ethiopia             v Malawi                1-3   @ Addis Ababa, Ethiopia
      (Teshome Getu 81'(p);
-      Essau Kanyenda 39' Essau Kanyenda 55' Peter Mgangira 88')
+      Essau Kanyenda 39',55' Peter Mgangira 88')
   Gambia               v Liberia               2-0   @ Bakau, Gambia
      (Abdou-Rahman Njie 64' Edrissa Sonko 79')
   Guinea               v Mozambique            1-0   @ Conakry, Guinea
@@ -80,7 +80,7 @@ Sun Oct 12
      (Adam Ndlovu 23' Kaitano Tembo 47' Peter Ndlovu 57')
 Fri Nov 14
   Algeria              v Niger                 6-0   @ Algiers, Algeria
-     (Abdelmalek Cherrad 16' Abdelmalek Cherrad 22' Nassim Akrour 42' Nassim Akrour 45' Mansour Boutabout 77' Nassim Akrour 82')
+     (Abdelmalek Cherrad 16',22' Nassim Akrour 42',45',82' Mansour Boutabout 77')
   Mali                 v Guinea-Bissau         2-0   @ Bamako, Mali
      (Soumaïla Coulibaly 15' Djibril Sidibé 84'(p))
   Mauritania           v Zimbabwe              2-1   @ Nouakchott, Mauritania
@@ -92,10 +92,10 @@ Sat Nov 15
   Colombia             v Venezuela             0-1   @ Barranquilla, Colombia
      (Juan Arango 9')
   Gabon                v Burundi               4-1   @ Libreville, Gabon
-     (Shiva N'Zigou 2' Rajabu Mwinyi 16'(og) Stéphane N'Guéma 38' Stéphane N'Guéma 80';
+     (Shiva N'Zigou 2' Rajabu Mwinyi 16'(og) Stéphane N'Guéma 38',80';
       Gabriel Nzeyimana 90')
   Kenya                v Tanzania              3-0   @ Nairobi, Kenya
-     (Dennis Oliech 9' Mike Okoth Origi 30' Dennis Oliech 32')
+     (Dennis Oliech 9',32' Mike Okoth Origi 30')
   Malawi               v Ethiopia              0-0   @ Blantyre, Malawi
   Namibia              v Rwanda                1-1   @ Windhoek, Namibia
      (Paulus Shipanga 39';
@@ -113,24 +113,24 @@ Sun Nov 16
   Angola               v Chad                  2-0   @ Luanda, Angola
      (Akwá 42' Bruno Mauro 57')
   Benin                v Madagascar            3-2   @ Cotonou, Benin
-     (Oumar Tchomogo 33'(p) Oumar Tchomogo 62' Oumar Tchomogo 90';
+     (Oumar Tchomogo 33'(p),62',90';
       Jean Jacques Radonamahafalison 15' Alain Rakotondramanana 23')
   Cape Verde           v Swaziland             3-0   @ Praia, Cape Verde
-     (Arlindo Gomes Semedo 51' Arlindo Gomes Semedo 65' Carlos Pedro Silva Morais 90')
+     (Arlindo Gomes Semedo 51',65' Carlos Pedro Silva Morais 90')
   Eritrea              v Sudan                 0-0   @ Asmara, Eritrea
   Ghana                v Somalia               5-0   @ Accra, Ghana
-     (Nana Arhin Duah 25' Nana Arhin Duah 56' Isaac Boakye 69' Asamoah Gyan 82' Isaac Boakye 89')
+     (Nana Arhin Duah 25',56' Isaac Boakye 69',89' Asamoah Gyan 82')
   Lesotho              v Botswana              0-0   @ Maseru, Lesotho
   Liberia              v Gambia                3-0   @ Monrovia, Liberia
-     (Zizi Roberts 10' Isaac Tondo 76' Isaac Tondo 83')
+     (Zizi Roberts 10' Isaac Tondo 76',83')
   Libya                v São Tomé and Príncipe  8-0   @ Benghazi, Libya
-     (Ahmed Al Masli 8' Ahmed Al Masli 17' Ahmed Al Masli 20' Tarik El Taib 45' Marei Suliman 54' Tarik El Taib 63' Ahmed Osman 74' Mohamed El Rabty 88')
+     (Ahmed Al Masli 8',17',20' Tarik El Taib 45',63' Marei Suliman 54' Ahmed Osman 74' Mohamed El Rabty 88')
   Mauritius            v Uganda                3-1   @ Curepipe, Mauritius
      (Richardo Nabuth 18' Cyril Mourgine 32' Jerry Louis 89';
       David Obua 112')
   Mozambique           v Guinea                3-4   @ Maputo, Mozambique
-     (Dário Monteiro 75' Dário Monteiro 80' Dário Monteiro 89';
-      Souleymane Youla 14' Sambégou Bangoura 21' Sambégou Bangoura 35' Sambégou Bangoura 54')
+     (Dário Monteiro 75',80',89';
+      Souleymane Youla 14' Sambégou Bangoura 21',35',54')
   Peru                 v Brazil                1-1   @ Lima, Peru
      (Nolberto Solano 57';
       Rivaldo 20'(p))
@@ -147,8 +147,8 @@ Tue Nov 18
       Joaquín Botero 60')
 Wed Nov 19
   Brazil               v Uruguay               3-3   @ Curitiba, Brazil
-     (Kaká 20' Ronaldo 28' Ronaldo 87';
-      Diego Forlán 57' Diego Forlán 76' Gilberto Silva 78'(og))
+     (Kaká 20' Ronaldo 28',87';
+      Diego Forlán 57',76' Gilberto Silva 78'(og))
   Colombia             v Argentina             1-1   @ Barranquilla, Colombia
      (Juan Pablo Ángel 47';
       Hernán Crespo 27')
@@ -156,10 +156,10 @@ Wed Nov 19
   Ghana                v Somalia               2-0   @ Kumasi, Ghana
      (Stephen Appiah 27' Lawrence Adjei 90')
   Turkmenistan         v Afghanistan           11-0   @ Ashgabat, Turkmenistan
-     (Guwançmuhammet Öwekow 6' Begençmuhammet Kulyýew 8' Begençmuhammet Kulyýew 22' Nazar Baýramow 27' Guwançmuhammet Öwekow 35' Omar Berdiýew 42' Rejepmyrat Agabaýew 49' Rejepmyrat Agabaýew 65' Rejepmyrat Agabaýew 67' Begençmuhammet Kulyýew 81' Didargylyç Urazow 90')
+     (Guwançmuhammet Öwekow 6',35' Begençmuhammet Kulyýew 8',22',81' Nazar Baýramow 27' Omar Berdiýew 42' Rejepmyrat Agabaýew 49',65',67' Didargylyç Urazow 90')
 Sun Nov 23
   Afghanistan          v Turkmenistan          0-2   @ Kabul, Afghanistan
-     (Begençmuhammet Kulyýew 85' Begençmuhammet Kulyýew 91')
+     (Begençmuhammet Kulyýew 85',91')
   Taiwan               v Macau                 3-0   @ Taipei, Taiwan
      (Chuang Yao-tsung 23' Chen Jui-te 52' Chang Wu-yeh 57')
 Wed Nov 26
@@ -169,7 +169,7 @@ Sat Nov 29
   Laos                 v Sri Lanka             0-0   @ Vientiane, Laos
   Macau                v Taiwan                1-3   @ Macau, Macau
      (Fu Weng Lei 87';
-      Chen Jui-te 14' Chiang Shih-lu 66' Chen Jui-te 69')
+      Chen Jui-te 14',69' Chiang Shih-lu 66')
   Mongolia             v Maldives              0-1   @ Ulaanbaatar, Mongolia
      (Mohamed Nizam 24')
   Pakistan             v Kyrgyzstan            0-2   @ Karachi, Pakistan
@@ -181,7 +181,7 @@ Wed Dec 3
   Kyrgyzstan           v Pakistan              4-0   @ Bishkek, Kyrgyzstan
      (Sergey Chikishev 18' Vladimir Chertkov 28' Evgeny Boldygin 67' Andrey Krasnov 92')
   Maldives             v Mongolia              12-0   @ Malé, Maldives
-     (Ali Ashfaq 4' Mohamed Nizam 42' Ibrahim Fazeel 45' Ibrahim Fazeel 45' Ali Ashfaq 61' Ali Ashfaq 63' Assad Ghani 65' Ali Ashfaq 68' Ahmed Thoriq 74' Khishigdalai Battulga 75'(og) Ahmed Thoriq 78' Mohamed Nazeeh 80')
+     (Ali Ashfaq 4',61',63',68' Mohamed Nizam 42' Ibrahim Fazeel 45',45' Assad Ghani 65' Ahmed Thoriq 74',78' Khishigdalai Battulga 75'(og) Mohamed Nazeeh 80')
   Sri Lanka            v Laos                  3-0   @ Colombo, Sri Lanka
      (Channa Ediri Bandanage 35' Kasun Jayasuriya 59' Mohamed Hameed 90')
 

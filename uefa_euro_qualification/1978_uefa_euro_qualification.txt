@@ -9,7 +9,7 @@ Wed May 24
      (Henning Jensen 32' Benny Nielsen 79'(p) Søren Lerby 80';
       Frank Stapleton 11' Tony Grealish 25' Gerry Daly 65')
   Finland              v Greece                3-0   @ Helsinki, Finland
-     (Atik Ismail 35' Jyrki Nieminen 80' Atik Ismail 82')
+     (Atik Ismail 35',82' Jyrki Nieminen 80')
 Wed Aug 30
   Norway               v Austria               0-2   @ Oslo, Norway
      (Bruno Pezzey 23' Hans Krankl 43')
@@ -29,7 +29,7 @@ Wed Sep 20
       Arne Larsen Økland 8')
   Denmark              v England               3-4   @ Copenhagen, Denmark
      (Allan Simonsen 25'(p) Frank Arnesen 28' Per Røntved 86';
-      Kevin Keegan 17' Kevin Keegan 23' Bob Latchford 50' Phil Neal 85')
+      Kevin Keegan 17',23' Bob Latchford 50' Phil Neal 85')
   Finland              v Hungary               2-1   @ Helsinki, Finland
      (Atik Ismail 30' Seppo Pyykkö 53';
       László Tieber 74')
@@ -44,7 +44,7 @@ Wed Oct 4
       Pétur Pétursson 14'(p))
   Sweden               v Czechoslovakia        1-3   @ Solna, Sweden
      (Hasse Borg 15'(p);
-      Marián Masný 17' Marián Masný 47' Zdeněk Nehoda 85')
+      Marián Masný 17',47' Zdeněk Nehoda 85')
   Yugoslavia           v Spain                 1-2   @ Zagreb, Yugoslavia
      (Vahid Halilhodžić 44';
       Juanito 20' Santillana 32')
@@ -57,7 +57,7 @@ Wed Oct 11
      (Benny Nielsen 17' Søren Lerby 63';
       Pavel Panov 34' Ivan Iliev 84')
   Greece               v Finland               8-1   @ Athens, Greece
-     (Takis Nikoloudis 15' Georgios Delikaris 23' Takis Nikoloudis 25' Thomas Mavros 38' Thomas Mavros 44' Georgios Delikaris 47' Thomas Mavros 75'(p) Maik Galakos 81';
+     (Takis Nikoloudis 15',25' Georgios Delikaris 23',47' Thomas Mavros 38',44',75'(p) Maik Galakos 81';
       Aki Heiskanen 61')
   Hungary              v Soviet Union          2-0   @ Budapest, Hungary
      (Béla Várady 26' László Szokolai 60')
@@ -75,23 +75,23 @@ Wed Oct 25
      (Derek Spence 63' Trevor Anderson 85';
       Henning Jensen 51')
   Romania              v Yugoslavia            3-2   @ Bucharest, Romania
-     (Ştefan Sameş 62' Ştefan Sameş 68' Anghel Iordănescu 75'(p);
+     (Ştefan Sameş 62',68' Anghel Iordănescu 75'(p);
       Vladimir Petrović 22'(p) Damir Desnica 90')
   Scotland             v Norway                3-2   @ Glasgow, Scotland
-     (Kenny Dalglish 30' Kenny Dalglish 81' Archie Gemmill 87'(p);
+     (Kenny Dalglish 30',81' Archie Gemmill 87'(p);
       Einar Jan Aas 3' Arne Larsen Økland 64')
   Wales                v Malta                 7-0   @ Wrexham, Wales
-     (Peter O'Sullivan 18' Ian Edwards 20' Ian Edwards 45' Ian Edwards 48' Ian Edwards 51' Mickey Thomas 71' Brian Flynn 82')
+     (Peter O'Sullivan 18' Ian Edwards 20',45',48',51' Mickey Thomas 71' Brian Flynn 82')
 Sat Oct 28
   Greece               v Hungary               4-1   @ Salonica, Greece
-     (Maik Galakos 58' Maik Galakos 67' Christos Ardizoglou 71' Thomas Mavros 89';
+     (Maik Galakos 58',67' Christos Ardizoglou 71' Thomas Mavros 89';
       Béla Várady 90')
 Wed Nov 15
   Austria              v Portugal              1-2   @ Vienna, Austria
      (Walter Schachner 71';
       Nené 30' Alberto Fonseca 90')
   Netherlands          v German DR             3-0   @ Rotterdam, Netherlands
-     (Gerd Kische 18' Ruud Geels 72'(p) Ruud Geels 88')
+     (Gerd Kische 18' Ruud Geels 72'(p),88')
   Poland               v Switzerland           2-0   @ Wrocław, Poland
      (Zbigniew Boniek 39' Roman Ogaza 56')
   Spain                v Romania               1-0   @ Valencia, Spain
@@ -105,5 +105,5 @@ Wed Nov 29
      (Nick Deacy 70')
 Wed Dec 13
   Spain                v Cyprus                5-0   @ Salamanca, Spain
-     (Juan Manuel Asensi 9' Vicente del Bosque 10' Santillana 52' Rubén Cano 65' Santillana 77')
+     (Juan Manuel Asensi 9' Vicente del Bosque 10' Santillana 52',77' Rubén Cano 65')
 
