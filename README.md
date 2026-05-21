@@ -55,17 +55,17 @@ For example, the entry for England reads:
 1872 to 2026  - 146 years <br>
 <details><summary>1091 match(es) in 11 tournament(s)</summary>
 
-- Friendly (111 years/429 matches) 1872 1873 1874 ... 2024 2025 2026
-- British Home Championship (91/263) 1884 1885 1886 ... 1982 1983 1984
-- FIFA World Cup qualification (32/127) 1949 1950 1956 ... 2017 2021 2025
-- FIFA World Cup (17/77) 1950 1954 1958 ... 2018 2022 2026
-- UEFA Euro qualification (28/110) 1962 1963 1968 ... 2015 2019 2023
-- UEFA Euro (11/45) 1968 1980 1988 1992 1996 2000 2004 2012 2016 2021 2024
-- Rous Cup (5/8) 1985 1986 1987 1988 1989
-- USA Cup (1/3) 1993
-- Tournoi de France (1/3) 1997
-- King Hassan II Tournament (1/2) 1998
-- UEFA Nations League (5/24) 2018 2019 2020 2022 2024
+- Friendly (111 years/429 matches) [1872](friendly/1872_friendly.txt) [1873](friendly/1873_friendly.txt) [1874](friendly/1874_friendly.txt) ... [2024](friendly/2024_friendly.txt) [2025](friendly/2025_friendly.txt) [2026](friendly/2026_friendly.txt)
+- British Home Championship (91/263) [1884](more/british_home_championship/1884_british_home_championship.txt) [1885](more/british_home_championship/1885_british_home_championship.txt) [1886](more/british_home_championship/1886_british_home_championship.txt) ... [1982](more/british_home_championship/1982_british_home_championship.txt) [1983](more/british_home_championship/1983_british_home_championship.txt) [1984](more/british_home_championship/1984_british_home_championship.txt)
+- FIFA World Cup qualification (32/127) [1949](fifa_world_cup_qualification/1949_fifa_world_cup_qualification.txt) [1950](fifa_world_cup_qualification/1950_fifa_world_cup_qualification.txt) [1956](fifa_world_cup_qualification/1956_fifa_world_cup_qualification.txt) ... [2017](fifa_world_cup_qualification/2017_fifa_world_cup_qualification.txt) [2021](fifa_world_cup_qualification/2021_fifa_world_cup_qualification.txt) [2025](fifa_world_cup_qualification/2025_fifa_world_cup_qualification.txt)
+- FIFA World Cup (17/77) [1950](fifa_world_cup/1950_fifa_world_cup.txt) [1954](fifa_world_cup/1954_fifa_world_cup.txt) [1958](fifa_world_cup/1958_fifa_world_cup.txt) ... [2018](fifa_world_cup/2018_fifa_world_cup.txt) [2022](fifa_world_cup/2022_fifa_world_cup.txt) [2026](fifa_world_cup/2026_fifa_world_cup.txt)
+- UEFA Euro qualification (28/110) [1962](uefa_euro_qualification/1962_uefa_euro_qualification.txt) [1963](uefa_euro_qualification/1963_uefa_euro_qualification.txt) [1968](uefa_euro_qualification/1968_uefa_euro_qualification.txt) ... [2015](uefa_euro_qualification/2015_uefa_euro_qualification.txt) [2019](uefa_euro_qualification/2019_uefa_euro_qualification.txt) [2023](uefa_euro_qualification/2023_uefa_euro_qualification.txt)
+- UEFA Euro (11/45) [1968](uefa_euro/1968_uefa_euro.txt) [1980](uefa_euro/1980_uefa_euro.txt) [1988](uefa_euro/1988_uefa_euro.txt) [1992](uefa_euro/1992_uefa_euro.txt) [1996](uefa_euro/1996_uefa_euro.txt) [2000](uefa_euro/2000_uefa_euro.txt) [2004](uefa_euro/2004_uefa_euro.txt) [2012](uefa_euro/2012_uefa_euro.txt) [2016](uefa_euro/2016_uefa_euro.txt) [2021](uefa_euro/2021_uefa_euro.txt) [2024](uefa_euro/2024_uefa_euro.txt)
+- Rous Cup (5/8) [1985](more/rous_cup/1985_rous_cup.txt) [1986](more/rous_cup/1986_rous_cup.txt) [1987](more/rous_cup/1987_rous_cup.txt) [1988](more/rous_cup/1988_rous_cup.txt) [1989](more/rous_cup/1989_rous_cup.txt)
+- USA Cup (1/3) [1993](more/usa_cup/1993_usa_cup.txt)
+- Tournoi de France (1/3) [1997](more/tournoi_de_france/1997_tournoi_de_france.txt)
+- King Hassan II Tournament (1/2) [1998](more/king_hassan_ii_tournament/1998_king_hassan_ii_tournament.txt)
+- UEFA Nations League (5/24) [2018](uefa_nations_league/2018_uefa_nations_league.txt) [2019](uefa_nations_league/2019_uefa_nations_league.txt) [2020](uefa_nations_league/2020_uefa_nations_league.txt) [2022](uefa_nations_league/2022_uefa_nations_league.txt) [2024](uefa_nations_league/2024_uefa_nations_league.txt)
 
 </details>
 
@@ -75,16 +75,16 @@ and for Austria:
 1902 to 2026  - 119 years <br>
 <details><summary>862 match(es) in 10 tournament(s)</summary>
 
-- Friendly (116 years/475 matches) 1902 1903 1904 ... 2023 2024 2026
-- Olympic Games (1/5) 1912
-- Central European International Cup (16/48) 1927 1928 1929 ... 1956 1957 1958
-- FIFA World Cup qualification (35/142) 1934 1937 1953 ... 2021 2022 2025
-- FIFA World Cup (8/32) 1934 1954 1958 1978 1982 1990 1998 2026
-- UEFA Euro qualification (29/118) 1959 1960 1963 ... 2015 2019 2023
-- Tournoi de France (1/2) 1988
-- Cyprus International Tournament (1/2) 2005
-- UEFA Euro (4/14) 2008 2016 2021 2024
-- UEFA Nations League (5/24) 2018 2020 2022 2024 2025
+- Friendly (116 years/475 matches) [1902](friendly/1902_friendly.txt) [1903](friendly/1903_friendly.txt) [1904](friendly/1904_friendly.txt) ... [2023](friendly/2023_friendly.txt) [2024](friendly/2024_friendly.txt) [2026](friendly/2026_friendly.txt)
+- Olympic Games (1/5) [1912](more/olympic_games/1912_olympic_games.txt)
+- Central European International Cup (16/48) [1927](more/central_european_international_cup/1927_central_european_international_cup.txt) [1928](more/central_european_international_cup/1928_central_european_international_cup.txt) [1929](more/central_european_international_cup/1929_central_european_international_cup.txt) ... [1956](more/central_european_international_cup/1956_central_european_international_cup.txt) [1957](more/central_european_international_cup/1957_central_european_international_cup.txt) [1958](more/central_european_international_cup/1958_central_european_international_cup.txt)
+- FIFA World Cup qualification (35/142) [1934](fifa_world_cup_qualification/1934_fifa_world_cup_qualification.txt) [1937](fifa_world_cup_qualification/1937_fifa_world_cup_qualification.txt) [1953](fifa_world_cup_qualification/1953_fifa_world_cup_qualification.txt) ... [2021](fifa_world_cup_qualification/2021_fifa_world_cup_qualification.txt) [2022](fifa_world_cup_qualification/2022_fifa_world_cup_qualification.txt) [2025](fifa_world_cup_qualification/2025_fifa_world_cup_qualification.txt)
+- FIFA World Cup (8/32) [1934](fifa_world_cup/1934_fifa_world_cup.txt) [1954](fifa_world_cup/1954_fifa_world_cup.txt) [1958](fifa_world_cup/1958_fifa_world_cup.txt) [1978](fifa_world_cup/1978_fifa_world_cup.txt) [1982](fifa_world_cup/1982_fifa_world_cup.txt) [1990](fifa_world_cup/1990_fifa_world_cup.txt) [1998](fifa_world_cup/1998_fifa_world_cup.txt) [2026](fifa_world_cup/2026_fifa_world_cup.txt)
+- UEFA Euro qualification (29/118) [1959](uefa_euro_qualification/1959_uefa_euro_qualification.txt) [1960](uefa_euro_qualification/1960_uefa_euro_qualification.txt) [1963](uefa_euro_qualification/1963_uefa_euro_qualification.txt) ... [2015](uefa_euro_qualification/2015_uefa_euro_qualification.txt) [2019](uefa_euro_qualification/2019_uefa_euro_qualification.txt) [2023](uefa_euro_qualification/2023_uefa_euro_qualification.txt)
+- Tournoi de France (1/2) [1988](more/tournoi_de_france/1988_tournoi_de_france.txt)
+- Cyprus International Tournament (1/2) [2005](more/cyprus_international_tournament/2005_cyprus_international_tournament.txt)
+- UEFA Euro (4/14) [2008](uefa_euro/2008_uefa_euro.txt) [2016](uefa_euro/2016_uefa_euro.txt) [2021](uefa_euro/2021_uefa_euro.txt) [2024](uefa_euro/2024_uefa_euro.txt)
+- UEFA Nations League (5/24) [2018](uefa_nations_league/2018_uefa_nations_league.txt) [2020](uefa_nations_league/2020_uefa_nations_league.txt) [2022](uefa_nations_league/2022_uefa_nations_league.txt) [2024](uefa_nations_league/2024_uefa_nations_league.txt) [2025](uefa_nations_league/2025_uefa_nations_league.txt)
 
 </details>
 
