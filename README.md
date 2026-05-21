@@ -46,6 +46,62 @@ See (DIRECTORY/FILE) [TREE.md »](TREE.md)
 
 
 
+For a list of all 330+ teams by year (with tournaments and match counts),
+see [TEAMS.md »](TEAMS.md)
+
+For example, the entry for England reads:
+
+**England** <br>
+1872 to 2026  - 146 years <br>
+<details><summary>1091 match(es) in 11 tournament(s)</summary>
+
+- Friendly (111 years/429 matches) 1872 1873 1874 ... 2024 2025 2026
+- British Home Championship (91/263) 1884 1885 1886 ... 1982 1983 1984
+- FIFA World Cup qualification (32/127) 1949 1950 1956 ... 2017 2021 2025
+- FIFA World Cup (17/77) 1950 1954 1958 ... 2018 2022 2026
+- UEFA Euro qualification (28/110) 1962 1963 1968 ... 2015 2019 2023
+- UEFA Euro (11/45) 1968 1980 1988 1992 1996 2000 2004 2012 2016 2021 2024
+- Rous Cup (5/8) 1985 1986 1987 1988 1989
+- USA Cup (1/3) 1993
+- Tournoi de France (1/3) 1997
+- King Hassan II Tournament (1/2) 1998
+- UEFA Nations League (5/24) 2018 2019 2020 2022 2024
+
+</details>
+
+and for Austria:
+
+**Austria** <br>
+1902 to 2026  - 119 years <br>
+<details><summary>862 match(es) in 10 tournament(s)</summary>
+
+- Friendly (116 years/475 matches) 1902 1903 1904 ... 2023 2024 2026
+- Olympic Games (1/5) 1912
+- Central European International Cup (16/48) 1927 1928 1929 ... 1956 1957 1958
+- FIFA World Cup qualification (35/142) 1934 1937 1953 ... 2021 2022 2025
+- FIFA World Cup (8/32) 1934 1954 1958 1978 1982 1990 1998 2026
+- UEFA Euro qualification (29/118) 1959 1960 1963 ... 2015 2019 2023
+- Tournoi de France (1/2) 1988
+- Cyprus International Tournament (1/2) 2005
+- UEFA Euro (4/14) 2008 2016 2021 2024
+- UEFA Nations League (5/24) 2018 2020 2022 2024 2025
+
+</details>
+
+
+
+> The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches.
+> The matches are strictly men's full internationals and the data does not include
+> Olympic Games or matches where at least one of the teams
+> was the nation's B-team, U-23 or a league select team.
+
+For a list of all tournaments a-z, see [TOURNAMENTS.md »](TOURNAMENTS.md)
+
+and for a list of all tournaments by year, see [TOURNAMENTS_BY_YEAR.md »](TOURNAMENTS_BY_YEAR.md)
+
+
+
+
 ## Football.TXT Examples
 
 
@@ -111,13 +167,6 @@ Sat Jun 3
 
 
 
-
-
-<!--
-> This dataset includes 47,960 results of international football matches starting from the very first official match in 1872 up to 2024.
-> The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches.
-> The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
--->
 
 
 
