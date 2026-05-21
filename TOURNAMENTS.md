@@ -1,596 +1,596 @@
 # Tournament Index A-Z
 
-## ABCS Tournament (5)
-2010 (4/4) 2011 (4/4) 2012 (4/4) 2013 (4/4) 2015 (4/4)
+## [ABCS Tournament](more/abcs_tournament) (5)
+[2010](more/abcs_tournament/2010_abcs_tournament.txt) (4/4) [2011](more/abcs_tournament/2011_abcs_tournament.txt) (4/4) [2012](more/abcs_tournament/2012_abcs_tournament.txt) (4/4) [2013](more/abcs_tournament/2013_abcs_tournament.txt) (4/4) [2015](more/abcs_tournament/2015_abcs_tournament.txt) (4/4)
 
-## AFC Asian Cup (18)
-1956 (6/4) 1960 (6/4) 1964 (6/4) 1968 (10/5) 1972 (13/6) 1976 (10/6) 1980 (24/10) 1984 (24/10) 1988 (24/10) 1992 (16/8) 1996 (26/12) 2000 (26/12) 2004 (32/16) 2007 (32/16) 2011 (32/16) 2015 (32/16) 2019 (51/24) 2024 (51/24)
+## [AFC Asian Cup](afc_asian_cup) (18)
+[1956](afc_asian_cup/1956_afc_asian_cup.txt) (6/4) [1960](afc_asian_cup/1960_afc_asian_cup.txt) (6/4) [1964](afc_asian_cup/1964_afc_asian_cup.txt) (6/4) [1968](afc_asian_cup/1968_afc_asian_cup.txt) (10/5) [1972](afc_asian_cup/1972_afc_asian_cup.txt) (13/6) [1976](afc_asian_cup/1976_afc_asian_cup.txt) (10/6) [1980](afc_asian_cup/1980_afc_asian_cup.txt) (24/10) [1984](afc_asian_cup/1984_afc_asian_cup.txt) (24/10) [1988](afc_asian_cup/1988_afc_asian_cup.txt) (24/10) [1992](afc_asian_cup/1992_afc_asian_cup.txt) (16/8) [1996](afc_asian_cup/1996_afc_asian_cup.txt) (26/12) [2000](afc_asian_cup/2000_afc_asian_cup.txt) (26/12) [2004](afc_asian_cup/2004_afc_asian_cup.txt) (32/16) [2007](afc_asian_cup/2007_afc_asian_cup.txt) (32/16) [2011](afc_asian_cup/2011_afc_asian_cup.txt) (32/16) [2015](afc_asian_cup/2015_afc_asian_cup.txt) (32/16) [2019](afc_asian_cup/2019_afc_asian_cup.txt) (51/24) [2024](afc_asian_cup/2024_afc_asian_cup.txt) (51/24)
 
-## AFC Asian Cup qualification (29)
-1956 (7/6) 1959 (11/10) 1963 (6/4) 1967 (14/13) 1971 (29/13) 1975 (31/15) 1978 (5/4) 1979 (8/8) 1984 (45/21) 1988 (41/20) 1992 (19/17) 1996 (61/33) 1999 (22/12) 2000 (60/30) 2003 (100/41) 2005 (2/2) 2006 (62/24) 2008 (2/2) 2009 (35/19) 2010 (19/19) 2013 (48/20) 2014 (12/20) 2016 (14/11) 2017 (58/24) 2018 (13/24) 2021 (4/4) 2022 (36/24) 2024 (6/6) 2025 (59/24)
+## [AFC Asian Cup qualification](afc_asian_cup_qualification) (29)
+[1956](afc_asian_cup_qualification/1956_afc_asian_cup_qualification.txt) (7/6) [1959](afc_asian_cup_qualification/1959_afc_asian_cup_qualification.txt) (11/10) [1963](afc_asian_cup_qualification/1963_afc_asian_cup_qualification.txt) (6/4) [1967](afc_asian_cup_qualification/1967_afc_asian_cup_qualification.txt) (14/13) [1971](afc_asian_cup_qualification/1971_afc_asian_cup_qualification.txt) (29/13) [1975](afc_asian_cup_qualification/1975_afc_asian_cup_qualification.txt) (31/15) [1978](afc_asian_cup_qualification/1978_afc_asian_cup_qualification.txt) (5/4) [1979](afc_asian_cup_qualification/1979_afc_asian_cup_qualification.txt) (8/8) [1984](afc_asian_cup_qualification/1984_afc_asian_cup_qualification.txt) (45/21) [1988](afc_asian_cup_qualification/1988_afc_asian_cup_qualification.txt) (41/20) [1992](afc_asian_cup_qualification/1992_afc_asian_cup_qualification.txt) (19/17) [1996](afc_asian_cup_qualification/1996_afc_asian_cup_qualification.txt) (61/33) [1999](afc_asian_cup_qualification/1999_afc_asian_cup_qualification.txt) (22/12) [2000](afc_asian_cup_qualification/2000_afc_asian_cup_qualification.txt) (60/30) [2003](afc_asian_cup_qualification/2003_afc_asian_cup_qualification.txt) (100/41) [2005](afc_asian_cup_qualification/2005_afc_asian_cup_qualification.txt) (2/2) [2006](afc_asian_cup_qualification/2006_afc_asian_cup_qualification.txt) (62/24) [2008](afc_asian_cup_qualification/2008_afc_asian_cup_qualification.txt) (2/2) [2009](afc_asian_cup_qualification/2009_afc_asian_cup_qualification.txt) (35/19) [2010](afc_asian_cup_qualification/2010_afc_asian_cup_qualification.txt) (19/19) [2013](afc_asian_cup_qualification/2013_afc_asian_cup_qualification.txt) (48/20) [2014](afc_asian_cup_qualification/2014_afc_asian_cup_qualification.txt) (12/20) [2016](afc_asian_cup_qualification/2016_afc_asian_cup_qualification.txt) (14/11) [2017](afc_asian_cup_qualification/2017_afc_asian_cup_qualification.txt) (58/24) [2018](afc_asian_cup_qualification/2018_afc_asian_cup_qualification.txt) (13/24) [2021](afc_asian_cup_qualification/2021_afc_asian_cup_qualification.txt) (4/4) [2022](afc_asian_cup_qualification/2022_afc_asian_cup_qualification.txt) (36/24) [2024](afc_asian_cup_qualification/2024_afc_asian_cup_qualification.txt) (6/6) [2025](afc_asian_cup_qualification/2025_afc_asian_cup_qualification.txt) (59/24)
 
-## AFC Challenge Cup (5)
-2006 (26/15) 2008 (16/8) 2010 (13/7) 2012 (16/8) 2014 (16/8)
+## [AFC Challenge Cup](more/afc_challenge_cup) (5)
+[2006](more/afc_challenge_cup/2006_afc_challenge_cup.txt) (26/15) [2008](more/afc_challenge_cup/2008_afc_challenge_cup.txt) (16/8) [2010](more/afc_challenge_cup/2010_afc_challenge_cup.txt) (13/7) [2012](more/afc_challenge_cup/2012_afc_challenge_cup.txt) (16/8) [2014](more/afc_challenge_cup/2014_afc_challenge_cup.txt) (16/8)
 
-## AFC Challenge Cup qualification (4)
-2008 (17/14) 2009 (21/16) 2011 (29/20) 2013 (25/19)
+## [AFC Challenge Cup qualification](more/afc_challenge_cup_qualification) (4)
+[2008](more/afc_challenge_cup_qualification/2008_afc_challenge_cup_qualification.txt) (17/14) [2009](more/afc_challenge_cup_qualification/2009_afc_challenge_cup_qualification.txt) (21/16) [2011](more/afc_challenge_cup_qualification/2011_afc_challenge_cup_qualification.txt) (29/20) [2013](more/afc_challenge_cup_qualification/2013_afc_challenge_cup_qualification.txt) (25/19)
 
-## AFC Solidarity Cup (1)
-2016 (13/7)
+## [AFC Solidarity Cup](more/afc_solidarity_cup) (1)
+[2016](more/afc_solidarity_cup/2016_afc_solidarity_cup.txt) (13/7)
 
-## AFF Championship (16)
-1996 (24/10) 1998 (16/8) 2000 (20/9) 2002 (20/9) 2004 (22/10) 2005 (5/4) 2007 (18/8) 2008 (16/8) 2010 (18/8) 2012 (18/8) 2014 (18/8) 2016 (18/8) 2018 (26/10) 2021 (25/10) 2022 (17/10) 2023 (10/8)
+## [AFF Championship](more/aff_championship) (16)
+[1996](more/aff_championship/1996_aff_championship.txt) (24/10) [1998](more/aff_championship/1998_aff_championship.txt) (16/8) [2000](more/aff_championship/2000_aff_championship.txt) (20/9) [2002](more/aff_championship/2002_aff_championship.txt) (20/9) [2004](more/aff_championship/2004_aff_championship.txt) (22/10) [2005](more/aff_championship/2005_aff_championship.txt) (5/4) [2007](more/aff_championship/2007_aff_championship.txt) (18/8) [2008](more/aff_championship/2008_aff_championship.txt) (16/8) [2010](more/aff_championship/2010_aff_championship.txt) (18/8) [2012](more/aff_championship/2012_aff_championship.txt) (18/8) [2014](more/aff_championship/2014_aff_championship.txt) (18/8) [2016](more/aff_championship/2016_aff_championship.txt) (18/8) [2018](more/aff_championship/2018_aff_championship.txt) (26/10) [2021](more/aff_championship/2021_aff_championship.txt) (25/10) [2022](more/aff_championship/2022_aff_championship.txt) (17/10) [2023](more/aff_championship/2023_aff_championship.txt) (10/8)
 
-## AFF Championship qualification (9)
-1998 (6/6) 2006 (10/5) 2008 (10/5) 2010 (6/4) 2012 (10/5) 2014 (10/5) 2016 (6/4) 2018 (2/2) 2022 (2/2)
+## [AFF Championship qualification](more/aff_championship_qualification) (9)
+[1998](more/aff_championship_qualification/1998_aff_championship_qualification.txt) (6/6) [2006](more/aff_championship_qualification/2006_aff_championship_qualification.txt) (10/5) [2008](more/aff_championship_qualification/2008_aff_championship_qualification.txt) (10/5) [2010](more/aff_championship_qualification/2010_aff_championship_qualification.txt) (6/4) [2012](more/aff_championship_qualification/2012_aff_championship_qualification.txt) (10/5) [2014](more/aff_championship_qualification/2014_aff_championship_qualification.txt) (10/5) [2016](more/aff_championship_qualification/2016_aff_championship_qualification.txt) (6/4) [2018](more/aff_championship_qualification/2018_aff_championship_qualification.txt) (2/2) [2022](more/aff_championship_qualification/2022_aff_championship_qualification.txt) (2/2)
 
-## ASEAN Championship (2)
-2024 (24/10) 2025 (2/2)
+## [ASEAN Championship](more/asean_championship) (2)
+[2024](more/asean_championship/2024_asean_championship.txt) (24/10) [2025](more/asean_championship/2025_asean_championship.txt) (2/2)
 
-## ASEAN Championship qualification (1)
-2024 (2/2)
+## [ASEAN Championship qualification](more/asean_championship_qualification) (1)
+[2024](more/asean_championship_qualification/2024_asean_championship_qualification.txt) (2/2)
 
-## African Cup of Nations (36)
-1957 (2/3) 1959 (3/3) 1962 (4/4) 1963 (8/6) 1965 (8/6) 1968 (16/8) 1970 (16/8) 1972 (16/8) 1974 (17/8) 1976 (18/8) 1978 (15/8) 1980 (16/8) 1982 (16/8) 1984 (16/8) 1986 (16/8) 1988 (16/8) 1990 (16/8) 1992 (20/12) 1994 (20/12) 1996 (29/15) 1998 (32/16) 2000 (32/16) 2002 (32/16) 2004 (32/16) 2006 (32/16) 2008 (32/16) 2010 (29/15) 2012 (32/16) 2013 (32/16) 2015 (32/16) 2017 (32/16) 2019 (52/24) 2022 (52/24) 2024 (52/24) 2025 (36/24) 2026 (16/16)
+## [African Cup of Nations](african_cup_of_nations) (36)
+[1957](african_cup_of_nations/1957_african_cup_of_nations.txt) (2/3) [1959](african_cup_of_nations/1959_african_cup_of_nations.txt) (3/3) [1962](african_cup_of_nations/1962_african_cup_of_nations.txt) (4/4) [1963](african_cup_of_nations/1963_african_cup_of_nations.txt) (8/6) [1965](african_cup_of_nations/1965_african_cup_of_nations.txt) (8/6) [1968](african_cup_of_nations/1968_african_cup_of_nations.txt) (16/8) [1970](african_cup_of_nations/1970_african_cup_of_nations.txt) (16/8) [1972](african_cup_of_nations/1972_african_cup_of_nations.txt) (16/8) [1974](african_cup_of_nations/1974_african_cup_of_nations.txt) (17/8) [1976](african_cup_of_nations/1976_african_cup_of_nations.txt) (18/8) [1978](african_cup_of_nations/1978_african_cup_of_nations.txt) (15/8) [1980](african_cup_of_nations/1980_african_cup_of_nations.txt) (16/8) [1982](african_cup_of_nations/1982_african_cup_of_nations.txt) (16/8) [1984](african_cup_of_nations/1984_african_cup_of_nations.txt) (16/8) [1986](african_cup_of_nations/1986_african_cup_of_nations.txt) (16/8) [1988](african_cup_of_nations/1988_african_cup_of_nations.txt) (16/8) [1990](african_cup_of_nations/1990_african_cup_of_nations.txt) (16/8) [1992](african_cup_of_nations/1992_african_cup_of_nations.txt) (20/12) [1994](african_cup_of_nations/1994_african_cup_of_nations.txt) (20/12) [1996](african_cup_of_nations/1996_african_cup_of_nations.txt) (29/15) [1998](african_cup_of_nations/1998_african_cup_of_nations.txt) (32/16) [2000](african_cup_of_nations/2000_african_cup_of_nations.txt) (32/16) [2002](african_cup_of_nations/2002_african_cup_of_nations.txt) (32/16) [2004](african_cup_of_nations/2004_african_cup_of_nations.txt) (32/16) [2006](african_cup_of_nations/2006_african_cup_of_nations.txt) (32/16) [2008](african_cup_of_nations/2008_african_cup_of_nations.txt) (32/16) [2010](african_cup_of_nations/2010_african_cup_of_nations.txt) (29/15) [2012](african_cup_of_nations/2012_african_cup_of_nations.txt) (32/16) [2013](african_cup_of_nations/2013_african_cup_of_nations.txt) (32/16) [2015](african_cup_of_nations/2015_african_cup_of_nations.txt) (32/16) [2017](african_cup_of_nations/2017_african_cup_of_nations.txt) (32/16) [2019](african_cup_of_nations/2019_african_cup_of_nations.txt) (52/24) [2022](african_cup_of_nations/2022_african_cup_of_nations.txt) (52/24) [2024](african_cup_of_nations/2024_african_cup_of_nations.txt) (52/24) [2025](african_cup_of_nations/2025_african_cup_of_nations.txt) (36/24) [2026](african_cup_of_nations/2026_african_cup_of_nations.txt) (16/16)
 
-## African Cup of Nations qualification (56)
-1961 (6/5) 1963 (5/6) 1965 (18/9) 1966 (1/2) 1967 (34/21) 1968 (2/2) 1969 (20/16) 1970 (19/20) 1971 (15/14) 1973 (30/21) 1974 (8/8) 1975 (30/21) 1976 (1/2) 1977 (27/20) 1978 (4/4) 1979 (28/20) 1980 (14/14) 1981 (28/21) 1982 (13/14) 1983 (34/23) 1984 (16/16) 1985 (28/20) 1986 (11/12) 1987 (30/21) 1988 (10/10) 1989 (30/21) 1990 (35/32) 1991 (53/30) 1992 (32/29) 1993 (54/29) 1994 (34/30) 1995 (76/30) 1996 (20/26) 1997 (51/26) 1998 (38/36) 1999 (56/26) 2000 (62/46) 2001 (52/27) 2002 (40/46) 2003 (80/46) 2006 (42/45) 2007 (88/46) 2010 (50/44) 2011 (84/44) 2012 (60/45) 2014 (125/49) 2015 (48/50) 2016 (96/50) 2017 (29/49) 2018 (92/47) 2019 (79/52) 2020 (48/48) 2021 (48/48) 2022 (54/51) 2023 (88/46) 2024 (151/52)
+## [African Cup of Nations qualification](african_cup_of_nations_qualification) (56)
+[1961](african_cup_of_nations_qualification/1961_african_cup_of_nations_qualification.txt) (6/5) [1963](african_cup_of_nations_qualification/1963_african_cup_of_nations_qualification.txt) (5/6) [1965](african_cup_of_nations_qualification/1965_african_cup_of_nations_qualification.txt) (18/9) [1966](african_cup_of_nations_qualification/1966_african_cup_of_nations_qualification.txt) (1/2) [1967](african_cup_of_nations_qualification/1967_african_cup_of_nations_qualification.txt) (34/21) [1968](african_cup_of_nations_qualification/1968_african_cup_of_nations_qualification.txt) (2/2) [1969](african_cup_of_nations_qualification/1969_african_cup_of_nations_qualification.txt) (20/16) [1970](african_cup_of_nations_qualification/1970_african_cup_of_nations_qualification.txt) (19/20) [1971](african_cup_of_nations_qualification/1971_african_cup_of_nations_qualification.txt) (15/14) [1973](african_cup_of_nations_qualification/1973_african_cup_of_nations_qualification.txt) (30/21) [1974](african_cup_of_nations_qualification/1974_african_cup_of_nations_qualification.txt) (8/8) [1975](african_cup_of_nations_qualification/1975_african_cup_of_nations_qualification.txt) (30/21) [1976](african_cup_of_nations_qualification/1976_african_cup_of_nations_qualification.txt) (1/2) [1977](african_cup_of_nations_qualification/1977_african_cup_of_nations_qualification.txt) (27/20) [1978](african_cup_of_nations_qualification/1978_african_cup_of_nations_qualification.txt) (4/4) [1979](african_cup_of_nations_qualification/1979_african_cup_of_nations_qualification.txt) (28/20) [1980](african_cup_of_nations_qualification/1980_african_cup_of_nations_qualification.txt) (14/14) [1981](african_cup_of_nations_qualification/1981_african_cup_of_nations_qualification.txt) (28/21) [1982](african_cup_of_nations_qualification/1982_african_cup_of_nations_qualification.txt) (13/14) [1983](african_cup_of_nations_qualification/1983_african_cup_of_nations_qualification.txt) (34/23) [1984](african_cup_of_nations_qualification/1984_african_cup_of_nations_qualification.txt) (16/16) [1985](african_cup_of_nations_qualification/1985_african_cup_of_nations_qualification.txt) (28/20) [1986](african_cup_of_nations_qualification/1986_african_cup_of_nations_qualification.txt) (11/12) [1987](african_cup_of_nations_qualification/1987_african_cup_of_nations_qualification.txt) (30/21) [1988](african_cup_of_nations_qualification/1988_african_cup_of_nations_qualification.txt) (10/10) [1989](african_cup_of_nations_qualification/1989_african_cup_of_nations_qualification.txt) (30/21) [1990](african_cup_of_nations_qualification/1990_african_cup_of_nations_qualification.txt) (35/32) [1991](african_cup_of_nations_qualification/1991_african_cup_of_nations_qualification.txt) (53/30) [1992](african_cup_of_nations_qualification/1992_african_cup_of_nations_qualification.txt) (32/29) [1993](african_cup_of_nations_qualification/1993_african_cup_of_nations_qualification.txt) (54/29) [1994](african_cup_of_nations_qualification/1994_african_cup_of_nations_qualification.txt) (34/30) [1995](african_cup_of_nations_qualification/1995_african_cup_of_nations_qualification.txt) (76/30) [1996](african_cup_of_nations_qualification/1996_african_cup_of_nations_qualification.txt) (20/26) [1997](african_cup_of_nations_qualification/1997_african_cup_of_nations_qualification.txt) (51/26) [1998](african_cup_of_nations_qualification/1998_african_cup_of_nations_qualification.txt) (38/36) [1999](african_cup_of_nations_qualification/1999_african_cup_of_nations_qualification.txt) (56/26) [2000](african_cup_of_nations_qualification/2000_african_cup_of_nations_qualification.txt) (62/46) [2001](african_cup_of_nations_qualification/2001_african_cup_of_nations_qualification.txt) (52/27) [2002](african_cup_of_nations_qualification/2002_african_cup_of_nations_qualification.txt) (40/46) [2003](african_cup_of_nations_qualification/2003_african_cup_of_nations_qualification.txt) (80/46) [2006](african_cup_of_nations_qualification/2006_african_cup_of_nations_qualification.txt) (42/45) [2007](african_cup_of_nations_qualification/2007_african_cup_of_nations_qualification.txt) (88/46) [2010](african_cup_of_nations_qualification/2010_african_cup_of_nations_qualification.txt) (50/44) [2011](african_cup_of_nations_qualification/2011_african_cup_of_nations_qualification.txt) (84/44) [2012](african_cup_of_nations_qualification/2012_african_cup_of_nations_qualification.txt) (60/45) [2014](african_cup_of_nations_qualification/2014_african_cup_of_nations_qualification.txt) (125/49) [2015](african_cup_of_nations_qualification/2015_african_cup_of_nations_qualification.txt) (48/50) [2016](african_cup_of_nations_qualification/2016_african_cup_of_nations_qualification.txt) (96/50) [2017](african_cup_of_nations_qualification/2017_african_cup_of_nations_qualification.txt) (29/49) [2018](african_cup_of_nations_qualification/2018_african_cup_of_nations_qualification.txt) (92/47) [2019](african_cup_of_nations_qualification/2019_african_cup_of_nations_qualification.txt) (79/52) [2020](african_cup_of_nations_qualification/2020_african_cup_of_nations_qualification.txt) (48/48) [2021](african_cup_of_nations_qualification/2021_african_cup_of_nations_qualification.txt) (48/48) [2022](african_cup_of_nations_qualification/2022_african_cup_of_nations_qualification.txt) (54/51) [2023](african_cup_of_nations_qualification/2023_african_cup_of_nations_qualification.txt) (88/46) [2024](african_cup_of_nations_qualification/2024_african_cup_of_nations_qualification.txt) (151/52)
 
-## African Friendship Games (3)
-1960 (10/11) 1961 (14/12) 1963 (31/17)
+## [African Friendship Games](more/african_friendship_games) (3)
+[1960](more/african_friendship_games/1960_african_friendship_games.txt) (10/11) [1961](more/african_friendship_games/1961_african_friendship_games.txt) (14/12) [1963](more/african_friendship_games/1963_african_friendship_games.txt) (31/17)
 
-## Afro-Asian Games (1)
-2003 (4/4)
+## [Afro-Asian Games](more/afro-asian_games) (1)
+[2003](more/afro-asian_games/2003_afro-asian_games.txt) (4/4)
 
-## Al Ain International Cup (1)
-2025 (4/4)
+## [Al Ain International Cup](more/al_ain_international_cup) (1)
+[2025](more/al_ain_international_cup/2025_al_ain_international_cup.txt) (4/4)
 
-## All-African Games (4)
-1965 (20/8) 1973 (16/8) 1978 (16/8) 1987 (18/8)
+## [All-African Games](more/all-african_games) (4)
+[1965](more/all-african_games/1965_all-african_games.txt) (20/8) [1973](more/all-african_games/1973_all-african_games.txt) (16/8) [1978](more/all-african_games/1978_all-african_games.txt) (16/8) [1987](more/all-african_games/1987_all-african_games.txt) (18/8)
 
-## Amílcar Cabral Cup (19)
-1979 (13/7) 1980 (10/6) 1981 (13/7) 1982 (16/8) 1983 (13/7) 1984 (16/8) 1985 (16/8) 1986 (12/7) 1987 (13/7) 1988 (16/8) 1989 (12/7) 1991 (12/7) 1993 (13/7) 1995 (14/8) 1997 (16/8) 2000 (15/8) 2001 (9/6) 2005 (3/3) 2007 (3/4)
+## [Amílcar Cabral Cup](more/amilcar_cabral_cup) (19)
+[1979](more/amilcar_cabral_cup/1979_amilcar_cabral_cup.txt) (13/7) [1980](more/amilcar_cabral_cup/1980_amilcar_cabral_cup.txt) (10/6) [1981](more/amilcar_cabral_cup/1981_amilcar_cabral_cup.txt) (13/7) [1982](more/amilcar_cabral_cup/1982_amilcar_cabral_cup.txt) (16/8) [1983](more/amilcar_cabral_cup/1983_amilcar_cabral_cup.txt) (13/7) [1984](more/amilcar_cabral_cup/1984_amilcar_cabral_cup.txt) (16/8) [1985](more/amilcar_cabral_cup/1985_amilcar_cabral_cup.txt) (16/8) [1986](more/amilcar_cabral_cup/1986_amilcar_cabral_cup.txt) (12/7) [1987](more/amilcar_cabral_cup/1987_amilcar_cabral_cup.txt) (13/7) [1988](more/amilcar_cabral_cup/1988_amilcar_cabral_cup.txt) (16/8) [1989](more/amilcar_cabral_cup/1989_amilcar_cabral_cup.txt) (12/7) [1991](more/amilcar_cabral_cup/1991_amilcar_cabral_cup.txt) (12/7) [1993](more/amilcar_cabral_cup/1993_amilcar_cabral_cup.txt) (13/7) [1995](more/amilcar_cabral_cup/1995_amilcar_cabral_cup.txt) (14/8) [1997](more/amilcar_cabral_cup/1997_amilcar_cabral_cup.txt) (16/8) [2000](more/amilcar_cabral_cup/2000_amilcar_cabral_cup.txt) (15/8) [2001](more/amilcar_cabral_cup/2001_amilcar_cabral_cup.txt) (9/6) [2005](more/amilcar_cabral_cup/2005_amilcar_cabral_cup.txt) (3/3) [2007](more/amilcar_cabral_cup/2007_amilcar_cabral_cup.txt) (3/4)
 
-## Arab Cup (11)
-1963 (10/5) 1964 (9/5) 1966 (21/10) 1985 (10/6) 1988 (13/7) 1992 (10/6) 1998 (10/9) 2002 (18/9) 2012 (11/9) 2021 (32/16) 2025 (31/16)
+## [Arab Cup](more/arab_cup) (11)
+[1963](more/arab_cup/1963_arab_cup.txt) (10/5) [1964](more/arab_cup/1964_arab_cup.txt) (9/5) [1966](more/arab_cup/1966_arab_cup.txt) (21/10) [1985](more/arab_cup/1985_arab_cup.txt) (10/6) [1988](more/arab_cup/1988_arab_cup.txt) (13/7) [1992](more/arab_cup/1992_arab_cup.txt) (10/6) [1998](more/arab_cup/1998_arab_cup.txt) (10/9) [2002](more/arab_cup/2002_arab_cup.txt) (18/9) [2012](more/arab_cup/2012_arab_cup.txt) (11/9) [2021](more/arab_cup/2021_arab_cup.txt) (32/16) [2025](more/arab_cup/2025_arab_cup.txt) (31/16)
 
-## Arab Cup qualification (5)
-1987 (3/3) 1998 (6/4) 2006 (9/7) 2021 (6/12) 2025 (7/14)
+## [Arab Cup qualification](more/arab_cup_qualification) (5)
+[1987](more/arab_cup_qualification/1987_arab_cup_qualification.txt) (3/3) [1998](more/arab_cup_qualification/1998_arab_cup_qualification.txt) (6/4) [2006](more/arab_cup_qualification/2006_arab_cup_qualification.txt) (9/7) [2021](more/arab_cup_qualification/2021_arab_cup_qualification.txt) (6/12) [2025](more/arab_cup_qualification/2025_arab_cup_qualification.txt) (7/14)
 
-## Asian Games (13)
-1951 (7/6) 1954 (16/12) 1958 (22/14) 1962 (16/8) 1966 (25/11) 1970 (23/10) 1974 (35/15) 1978 (32/14) 1982 (32/16) 1986 (40/18) 1990 (26/14) 1994 (40/18) 1998 (54/23)
+## [Asian Games](more/asian_games) (13)
+[1951](more/asian_games/1951_asian_games.txt) (7/6) [1954](more/asian_games/1954_asian_games.txt) (16/12) [1958](more/asian_games/1958_asian_games.txt) (22/14) [1962](more/asian_games/1962_asian_games.txt) (16/8) [1966](more/asian_games/1966_asian_games.txt) (25/11) [1970](more/asian_games/1970_asian_games.txt) (23/10) [1974](more/asian_games/1974_asian_games.txt) (35/15) [1978](more/asian_games/1978_asian_games.txt) (32/14) [1982](more/asian_games/1982_asian_games.txt) (32/16) [1986](more/asian_games/1986_asian_games.txt) (40/18) [1990](more/asian_games/1990_asian_games.txt) (26/14) [1994](more/asian_games/1994_asian_games.txt) (40/18) [1998](more/asian_games/1998_asian_games.txt) (54/23)
 
-## Atlantic Cup (3)
-1956 (3/3) 1960 (6/4) 1976 (2/2)
+## [Atlantic Cup](more/atlantic_cup) (3)
+[1956](more/atlantic_cup/1956_atlantic_cup.txt) (3/3) [1960](more/atlantic_cup/1960_atlantic_cup.txt) (6/4) [1976](more/atlantic_cup/1976_atlantic_cup.txt) (2/2)
 
-## Atlantic Heritage Cup (1)
-2019 (2/3)
+## [Atlantic Heritage Cup](more/atlantic_heritage_cup) (1)
+[2019](more/atlantic_heritage_cup/2019_atlantic_heritage_cup.txt) (2/3)
 
-## Balkan Cup (18)
-1929 (1/2) 1930 (5/4) 1931 (9/5) 1932 (6/4) 1933 (5/4) 1934 (4/4) 1935 (8/4) 1936 (3/3) 1946 (5/4) 1947 (10/5) 1948 (15/7) 1973 (1/2) 1974 (2/4) 1975 (1/2) 1976 (2/2) 1977 (4/5) 1978 (4/5) 1980 (2/2)
+## [Balkan Cup](more/balkan_cup) (18)
+[1929](more/balkan_cup/1929_balkan_cup.txt) (1/2) [1930](more/balkan_cup/1930_balkan_cup.txt) (5/4) [1931](more/balkan_cup/1931_balkan_cup.txt) (9/5) [1932](more/balkan_cup/1932_balkan_cup.txt) (6/4) [1933](more/balkan_cup/1933_balkan_cup.txt) (5/4) [1934](more/balkan_cup/1934_balkan_cup.txt) (4/4) [1935](more/balkan_cup/1935_balkan_cup.txt) (8/4) [1936](more/balkan_cup/1936_balkan_cup.txt) (3/3) [1946](more/balkan_cup/1946_balkan_cup.txt) (5/4) [1947](more/balkan_cup/1947_balkan_cup.txt) (10/5) [1948](more/balkan_cup/1948_balkan_cup.txt) (15/7) [1973](more/balkan_cup/1973_balkan_cup.txt) (1/2) [1974](more/balkan_cup/1974_balkan_cup.txt) (2/4) [1975](more/balkan_cup/1975_balkan_cup.txt) (1/2) [1976](more/balkan_cup/1976_balkan_cup.txt) (2/2) [1977](more/balkan_cup/1977_balkan_cup.txt) (4/5) [1978](more/balkan_cup/1978_balkan_cup.txt) (4/5) [1980](more/balkan_cup/1980_balkan_cup.txt) (2/2)
 
-## Baltic Cup (34)
-1928 (3/3) 1929 (3/3) 1930 (3/3) 1931 (3/3) 1932 (3/3) 1933 (3/3) 1935 (3/3) 1936 (3/3) 1937 (3/3) 1938 (3/3) 1940 (3/3) 1948 (3/3) 1949 (3/3) 1991 (3/3) 1992 (3/3) 1993 (3/3) 1994 (3/3) 1995 (3/3) 1996 (3/3) 1997 (3/3) 1998 (3/3) 2000 (1/2) 2001 (3/3) 2003 (3/3) 2005 (1/2) 2008 (3/3) 2010 (3/3) 2012 (4/4) 2014 (4/4) 2016 (3/3) 2018 (3/3) 2021 (3/3) 2022 (4/4) 2024 (4/4)
+## [Baltic Cup](more/baltic_cup) (34)
+[1928](more/baltic_cup/1928_baltic_cup.txt) (3/3) [1929](more/baltic_cup/1929_baltic_cup.txt) (3/3) [1930](more/baltic_cup/1930_baltic_cup.txt) (3/3) [1931](more/baltic_cup/1931_baltic_cup.txt) (3/3) [1932](more/baltic_cup/1932_baltic_cup.txt) (3/3) [1933](more/baltic_cup/1933_baltic_cup.txt) (3/3) [1935](more/baltic_cup/1935_baltic_cup.txt) (3/3) [1936](more/baltic_cup/1936_baltic_cup.txt) (3/3) [1937](more/baltic_cup/1937_baltic_cup.txt) (3/3) [1938](more/baltic_cup/1938_baltic_cup.txt) (3/3) [1940](more/baltic_cup/1940_baltic_cup.txt) (3/3) [1948](more/baltic_cup/1948_baltic_cup.txt) (3/3) [1949](more/baltic_cup/1949_baltic_cup.txt) (3/3) [1991](more/baltic_cup/1991_baltic_cup.txt) (3/3) [1992](more/baltic_cup/1992_baltic_cup.txt) (3/3) [1993](more/baltic_cup/1993_baltic_cup.txt) (3/3) [1994](more/baltic_cup/1994_baltic_cup.txt) (3/3) [1995](more/baltic_cup/1995_baltic_cup.txt) (3/3) [1996](more/baltic_cup/1996_baltic_cup.txt) (3/3) [1997](more/baltic_cup/1997_baltic_cup.txt) (3/3) [1998](more/baltic_cup/1998_baltic_cup.txt) (3/3) [2000](more/baltic_cup/2000_baltic_cup.txt) (1/2) [2001](more/baltic_cup/2001_baltic_cup.txt) (3/3) [2003](more/baltic_cup/2003_baltic_cup.txt) (3/3) [2005](more/baltic_cup/2005_baltic_cup.txt) (1/2) [2008](more/baltic_cup/2008_baltic_cup.txt) (3/3) [2010](more/baltic_cup/2010_baltic_cup.txt) (3/3) [2012](more/baltic_cup/2012_baltic_cup.txt) (4/4) [2014](more/baltic_cup/2014_baltic_cup.txt) (4/4) [2016](more/baltic_cup/2016_baltic_cup.txt) (3/3) [2018](more/baltic_cup/2018_baltic_cup.txt) (3/3) [2021](more/baltic_cup/2021_baltic_cup.txt) (3/3) [2022](more/baltic_cup/2022_baltic_cup.txt) (4/4) [2024](more/baltic_cup/2024_baltic_cup.txt) (4/4)
 
-## Beijing International Friendship Tournament (3)
-1977 (6/5) 1978 (1/2) 1982 (3/3)
+## [Beijing International Friendship Tournament](more/beijing_international_friendship_tournament) (3)
+[1977](more/beijing_international_friendship_tournament/1977_beijing_international_friendship_tournament.txt) (6/5) [1978](more/beijing_international_friendship_tournament/1978_beijing_international_friendship_tournament.txt) (1/2) [1982](more/beijing_international_friendship_tournament/1982_beijing_international_friendship_tournament.txt) (3/3)
 
-## Benedikt Fontana Cup (1)
-2015 (1/2)
+## [Benedikt Fontana Cup](more/benedikt_fontana_cup) (1)
+[2015](more/benedikt_fontana_cup/2015_benedikt_fontana_cup.txt) (1/2)
 
-## Bolivarian Games (2)
-1938 (11/5) 1947 (1/2)
+## [Bolivarian Games](more/bolivarian_games) (2)
+[1938](more/bolivarian_games/1938_bolivarian_games.txt) (11/5) [1947](more/bolivarian_games/1947_bolivarian_games.txt) (1/2)
 
-## Brazil Independence Cup (1)
-1972 (37/18)
+## [Brazil Independence Cup](more/brazil_independence_cup) (1)
+[1972](more/brazil_independence_cup/1972_brazil_independence_cup.txt) (37/18)
 
-## British Home Championship (91)
-1884 (6/4) 1885 (6/4) 1886 (6/4) 1887 (6/4) 1888 (6/4) 1889 (6/4) 1890 (6/4) 1891 (6/4) 1892 (6/4) 1893 (5/4) 1894 (6/4) 1895 (6/4) 1896 (6/4) 1897 (6/4) 1898 (6/4) 1899 (6/4) 1900 (6/4) 1901 (6/4) 1902 (6/4) 1903 (6/4) 1904 (6/4) 1905 (6/4) 1906 (6/4) 1907 (6/4) 1908 (6/4) 1909 (6/4) 1910 (6/4) 1911 (6/4) 1912 (6/4) 1913 (6/4) 1914 (6/4) 1919 (1/2) 1920 (6/4) 1921 (6/4) 1922 (5/4) 1923 (6/4) 1924 (6/4) 1925 (7/4) 1926 (6/4) 1927 (7/4) 1928 (6/4) 1929 (6/4) 1930 (6/4) 1931 (8/4) 1932 (6/4) 1933 (6/4) 1934 (4/4) 1935 (6/4) 1936 (7/4) 1937 (6/4) 1938 (6/4) 1939 (2/4) 1946 (4/4) 1947 (6/4) 1948 (6/4) 1949 (2/4) 1950 (4/4) 1951 (6/4) 1952 (6/4) 1953 (6/4) 1954 (6/4) 1955 (6/4) 1956 (6/4) 1957 (6/4) 1958 (6/4) 1959 (5/4) 1960 (6/4) 1961 (6/4) 1962 (6/4) 1963 (6/4) 1964 (6/4) 1965 (6/4) 1966 (6/4) 1967 (6/4) 1968 (2/4) 1969 (6/4) 1970 (6/4) 1971 (6/4) 1972 (6/4) 1973 (6/4) 1974 (6/4) 1975 (6/4) 1976 (6/4) 1977 (6/4) 1978 (6/4) 1979 (6/4) 1980 (6/4) 1981 (4/4) 1982 (6/4) 1983 (7/4) 1984 (5/4)
+## [British Home Championship](more/british_home_championship) (91)
+[1884](more/british_home_championship/1884_british_home_championship.txt) (6/4) [1885](more/british_home_championship/1885_british_home_championship.txt) (6/4) [1886](more/british_home_championship/1886_british_home_championship.txt) (6/4) [1887](more/british_home_championship/1887_british_home_championship.txt) (6/4) [1888](more/british_home_championship/1888_british_home_championship.txt) (6/4) [1889](more/british_home_championship/1889_british_home_championship.txt) (6/4) [1890](more/british_home_championship/1890_british_home_championship.txt) (6/4) [1891](more/british_home_championship/1891_british_home_championship.txt) (6/4) [1892](more/british_home_championship/1892_british_home_championship.txt) (6/4) [1893](more/british_home_championship/1893_british_home_championship.txt) (5/4) [1894](more/british_home_championship/1894_british_home_championship.txt) (6/4) [1895](more/british_home_championship/1895_british_home_championship.txt) (6/4) [1896](more/british_home_championship/1896_british_home_championship.txt) (6/4) [1897](more/british_home_championship/1897_british_home_championship.txt) (6/4) [1898](more/british_home_championship/1898_british_home_championship.txt) (6/4) [1899](more/british_home_championship/1899_british_home_championship.txt) (6/4) [1900](more/british_home_championship/1900_british_home_championship.txt) (6/4) [1901](more/british_home_championship/1901_british_home_championship.txt) (6/4) [1902](more/british_home_championship/1902_british_home_championship.txt) (6/4) [1903](more/british_home_championship/1903_british_home_championship.txt) (6/4) [1904](more/british_home_championship/1904_british_home_championship.txt) (6/4) [1905](more/british_home_championship/1905_british_home_championship.txt) (6/4) [1906](more/british_home_championship/1906_british_home_championship.txt) (6/4) [1907](more/british_home_championship/1907_british_home_championship.txt) (6/4) [1908](more/british_home_championship/1908_british_home_championship.txt) (6/4) [1909](more/british_home_championship/1909_british_home_championship.txt) (6/4) [1910](more/british_home_championship/1910_british_home_championship.txt) (6/4) [1911](more/british_home_championship/1911_british_home_championship.txt) (6/4) [1912](more/british_home_championship/1912_british_home_championship.txt) (6/4) [1913](more/british_home_championship/1913_british_home_championship.txt) (6/4) [1914](more/british_home_championship/1914_british_home_championship.txt) (6/4) [1919](more/british_home_championship/1919_british_home_championship.txt) (1/2) [1920](more/british_home_championship/1920_british_home_championship.txt) (6/4) [1921](more/british_home_championship/1921_british_home_championship.txt) (6/4) [1922](more/british_home_championship/1922_british_home_championship.txt) (5/4) [1923](more/british_home_championship/1923_british_home_championship.txt) (6/4) [1924](more/british_home_championship/1924_british_home_championship.txt) (6/4) [1925](more/british_home_championship/1925_british_home_championship.txt) (7/4) [1926](more/british_home_championship/1926_british_home_championship.txt) (6/4) [1927](more/british_home_championship/1927_british_home_championship.txt) (7/4) [1928](more/british_home_championship/1928_british_home_championship.txt) (6/4) [1929](more/british_home_championship/1929_british_home_championship.txt) (6/4) [1930](more/british_home_championship/1930_british_home_championship.txt) (6/4) [1931](more/british_home_championship/1931_british_home_championship.txt) (8/4) [1932](more/british_home_championship/1932_british_home_championship.txt) (6/4) [1933](more/british_home_championship/1933_british_home_championship.txt) (6/4) [1934](more/british_home_championship/1934_british_home_championship.txt) (4/4) [1935](more/british_home_championship/1935_british_home_championship.txt) (6/4) [1936](more/british_home_championship/1936_british_home_championship.txt) (7/4) [1937](more/british_home_championship/1937_british_home_championship.txt) (6/4) [1938](more/british_home_championship/1938_british_home_championship.txt) (6/4) [1939](more/british_home_championship/1939_british_home_championship.txt) (2/4) [1946](more/british_home_championship/1946_british_home_championship.txt) (4/4) [1947](more/british_home_championship/1947_british_home_championship.txt) (6/4) [1948](more/british_home_championship/1948_british_home_championship.txt) (6/4) [1949](more/british_home_championship/1949_british_home_championship.txt) (2/4) [1950](more/british_home_championship/1950_british_home_championship.txt) (4/4) [1951](more/british_home_championship/1951_british_home_championship.txt) (6/4) [1952](more/british_home_championship/1952_british_home_championship.txt) (6/4) [1953](more/british_home_championship/1953_british_home_championship.txt) (6/4) [1954](more/british_home_championship/1954_british_home_championship.txt) (6/4) [1955](more/british_home_championship/1955_british_home_championship.txt) (6/4) [1956](more/british_home_championship/1956_british_home_championship.txt) (6/4) [1957](more/british_home_championship/1957_british_home_championship.txt) (6/4) [1958](more/british_home_championship/1958_british_home_championship.txt) (6/4) [1959](more/british_home_championship/1959_british_home_championship.txt) (5/4) [1960](more/british_home_championship/1960_british_home_championship.txt) (6/4) [1961](more/british_home_championship/1961_british_home_championship.txt) (6/4) [1962](more/british_home_championship/1962_british_home_championship.txt) (6/4) [1963](more/british_home_championship/1963_british_home_championship.txt) (6/4) [1964](more/british_home_championship/1964_british_home_championship.txt) (6/4) [1965](more/british_home_championship/1965_british_home_championship.txt) (6/4) [1966](more/british_home_championship/1966_british_home_championship.txt) (6/4) [1967](more/british_home_championship/1967_british_home_championship.txt) (6/4) [1968](more/british_home_championship/1968_british_home_championship.txt) (2/4) [1969](more/british_home_championship/1969_british_home_championship.txt) (6/4) [1970](more/british_home_championship/1970_british_home_championship.txt) (6/4) [1971](more/british_home_championship/1971_british_home_championship.txt) (6/4) [1972](more/british_home_championship/1972_british_home_championship.txt) (6/4) [1973](more/british_home_championship/1973_british_home_championship.txt) (6/4) [1974](more/british_home_championship/1974_british_home_championship.txt) (6/4) [1975](more/british_home_championship/1975_british_home_championship.txt) (6/4) [1976](more/british_home_championship/1976_british_home_championship.txt) (6/4) [1977](more/british_home_championship/1977_british_home_championship.txt) (6/4) [1978](more/british_home_championship/1978_british_home_championship.txt) (6/4) [1979](more/british_home_championship/1979_british_home_championship.txt) (6/4) [1980](more/british_home_championship/1980_british_home_championship.txt) (6/4) [1981](more/british_home_championship/1981_british_home_championship.txt) (4/4) [1982](more/british_home_championship/1982_british_home_championship.txt) (6/4) [1983](more/british_home_championship/1983_british_home_championship.txt) (7/4) [1984](more/british_home_championship/1984_british_home_championship.txt) (5/4)
 
-## CAFA Nations Cup (1)
-2023 (10/7)
+## [CAFA Nations Cup](more/cafa_nations_cup) (1)
+[2023](more/cafa_nations_cup/2023_cafa_nations_cup.txt) (10/7)
 
-## CCCF Championship (10)
-1941 (10/5) 1943 (12/4) 1946 (15/6) 1948 (19/5) 1951 (6/3) 1953 (21/7) 1955 (18/7) 1957 (7/5) 1960 (5/5) 1961 (10/9)
+## [CCCF Championship](more/cccf_championship) (10)
+[1941](more/cccf_championship/1941_cccf_championship.txt) (10/5) [1943](more/cccf_championship/1943_cccf_championship.txt) (12/4) [1946](more/cccf_championship/1946_cccf_championship.txt) (15/6) [1948](more/cccf_championship/1948_cccf_championship.txt) (19/5) [1951](more/cccf_championship/1951_cccf_championship.txt) (6/3) [1953](more/cccf_championship/1953_cccf_championship.txt) (21/7) [1955](more/cccf_championship/1955_cccf_championship.txt) (18/7) [1957](more/cccf_championship/1957_cccf_championship.txt) (7/5) [1960](more/cccf_championship/1960_cccf_championship.txt) (5/5) [1961](more/cccf_championship/1961_cccf_championship.txt) (10/9)
 
-## CECAFA Cup (39)
-1973 (8/6) 1974 (5/6) 1975 (9/6) 1976 (12/7) 1977 (11/7) 1978 (14/5) 1979 (14/7) 1980 (8/6) 1981 (15/8) 1982 (13/7) 1983 (20/9) 1984 (16/8) 1985 (10/6) 1987 (15/8) 1988 (15/8) 1989 (13/7) 1990 (12/7) 1991 (13/7) 1992 (14/8) 1994 (11/7) 1995 (11/7) 1996 (7/6) 1999 (13/11) 2000 (12/8) 2001 (17/10) 2002 (24/10) 2003 (10/6) 2004 (20/9) 2005 (24/10) 2006 (23/11) 2007 (23/11) 2008 (2/4) 2009 (44/12) 2010 (18/11) 2011 (26/12) 2012 (26/12) 2013 (26/12) 2015 (26/12) 2017 (20/9)
+## [CECAFA Cup](more/cecafa_cup) (39)
+[1973](more/cecafa_cup/1973_cecafa_cup.txt) (8/6) [1974](more/cecafa_cup/1974_cecafa_cup.txt) (5/6) [1975](more/cecafa_cup/1975_cecafa_cup.txt) (9/6) [1976](more/cecafa_cup/1976_cecafa_cup.txt) (12/7) [1977](more/cecafa_cup/1977_cecafa_cup.txt) (11/7) [1978](more/cecafa_cup/1978_cecafa_cup.txt) (14/5) [1979](more/cecafa_cup/1979_cecafa_cup.txt) (14/7) [1980](more/cecafa_cup/1980_cecafa_cup.txt) (8/6) [1981](more/cecafa_cup/1981_cecafa_cup.txt) (15/8) [1982](more/cecafa_cup/1982_cecafa_cup.txt) (13/7) [1983](more/cecafa_cup/1983_cecafa_cup.txt) (20/9) [1984](more/cecafa_cup/1984_cecafa_cup.txt) (16/8) [1985](more/cecafa_cup/1985_cecafa_cup.txt) (10/6) [1987](more/cecafa_cup/1987_cecafa_cup.txt) (15/8) [1988](more/cecafa_cup/1988_cecafa_cup.txt) (15/8) [1989](more/cecafa_cup/1989_cecafa_cup.txt) (13/7) [1990](more/cecafa_cup/1990_cecafa_cup.txt) (12/7) [1991](more/cecafa_cup/1991_cecafa_cup.txt) (13/7) [1992](more/cecafa_cup/1992_cecafa_cup.txt) (14/8) [1994](more/cecafa_cup/1994_cecafa_cup.txt) (11/7) [1995](more/cecafa_cup/1995_cecafa_cup.txt) (11/7) [1996](more/cecafa_cup/1996_cecafa_cup.txt) (7/6) [1999](more/cecafa_cup/1999_cecafa_cup.txt) (13/11) [2000](more/cecafa_cup/2000_cecafa_cup.txt) (12/8) [2001](more/cecafa_cup/2001_cecafa_cup.txt) (17/10) [2002](more/cecafa_cup/2002_cecafa_cup.txt) (24/10) [2003](more/cecafa_cup/2003_cecafa_cup.txt) (10/6) [2004](more/cecafa_cup/2004_cecafa_cup.txt) (20/9) [2005](more/cecafa_cup/2005_cecafa_cup.txt) (24/10) [2006](more/cecafa_cup/2006_cecafa_cup.txt) (23/11) [2007](more/cecafa_cup/2007_cecafa_cup.txt) (23/11) [2008](more/cecafa_cup/2008_cecafa_cup.txt) (2/4) [2009](more/cecafa_cup/2009_cecafa_cup.txt) (44/12) [2010](more/cecafa_cup/2010_cecafa_cup.txt) (18/11) [2011](more/cecafa_cup/2011_cecafa_cup.txt) (26/12) [2012](more/cecafa_cup/2012_cecafa_cup.txt) (26/12) [2013](more/cecafa_cup/2013_cecafa_cup.txt) (26/12) [2015](more/cecafa_cup/2015_cecafa_cup.txt) (26/12) [2017](more/cecafa_cup/2017_cecafa_cup.txt) (20/9)
 
-## CFU Caribbean Cup (25)
-1978 (6/4) 1979 (5/4) 1981 (5/4) 1983 (6/4) 1985 (6/4) 1988 (6/4) 1989 (7/6) 1990 (2/4) 1991 (13/7) 1992 (8/7) 1993 (14/8) 1994 (10/6) 1995 (13/8) 1996 (14/8) 1997 (10/6) 1998 (16/8) 1999 (12/7) 2001 (16/8) 2005 (6/4) 2007 (14/8) 2008 (16/8) 2010 (16/8) 2012 (16/8) 2014 (10/8) 2017 (4/4)
+## [CFU Caribbean Cup](more/cfu_caribbean_cup) (25)
+[1978](more/cfu_caribbean_cup/1978_cfu_caribbean_cup.txt) (6/4) [1979](more/cfu_caribbean_cup/1979_cfu_caribbean_cup.txt) (5/4) [1981](more/cfu_caribbean_cup/1981_cfu_caribbean_cup.txt) (5/4) [1983](more/cfu_caribbean_cup/1983_cfu_caribbean_cup.txt) (6/4) [1985](more/cfu_caribbean_cup/1985_cfu_caribbean_cup.txt) (6/4) [1988](more/cfu_caribbean_cup/1988_cfu_caribbean_cup.txt) (6/4) [1989](more/cfu_caribbean_cup/1989_cfu_caribbean_cup.txt) (7/6) [1990](more/cfu_caribbean_cup/1990_cfu_caribbean_cup.txt) (2/4) [1991](more/cfu_caribbean_cup/1991_cfu_caribbean_cup.txt) (13/7) [1992](more/cfu_caribbean_cup/1992_cfu_caribbean_cup.txt) (8/7) [1993](more/cfu_caribbean_cup/1993_cfu_caribbean_cup.txt) (14/8) [1994](more/cfu_caribbean_cup/1994_cfu_caribbean_cup.txt) (10/6) [1995](more/cfu_caribbean_cup/1995_cfu_caribbean_cup.txt) (13/8) [1996](more/cfu_caribbean_cup/1996_cfu_caribbean_cup.txt) (14/8) [1997](more/cfu_caribbean_cup/1997_cfu_caribbean_cup.txt) (10/6) [1998](more/cfu_caribbean_cup/1998_cfu_caribbean_cup.txt) (16/8) [1999](more/cfu_caribbean_cup/1999_cfu_caribbean_cup.txt) (12/7) [2001](more/cfu_caribbean_cup/2001_cfu_caribbean_cup.txt) (16/8) [2005](more/cfu_caribbean_cup/2005_cfu_caribbean_cup.txt) (6/4) [2007](more/cfu_caribbean_cup/2007_cfu_caribbean_cup.txt) (14/8) [2008](more/cfu_caribbean_cup/2008_cfu_caribbean_cup.txt) (16/8) [2010](more/cfu_caribbean_cup/2010_cfu_caribbean_cup.txt) (16/8) [2012](more/cfu_caribbean_cup/2012_cfu_caribbean_cup.txt) (16/8) [2014](more/cfu_caribbean_cup/2014_cfu_caribbean_cup.txt) (10/8) [2017](more/cfu_caribbean_cup/2017_cfu_caribbean_cup.txt) (4/4)
 
-## CFU Caribbean Cup qualification (29)
-1978 (14/11) 1979 (12/9) 1981 (15/8) 1983 (13/9) 1985 (12/10) 1987 (4/4) 1988 (4/4) 1989 (24/15) 1990 (24/19) 1991 (15/15) 1992 (16/19) 1993 (20/17) 1994 (19/19) 1995 (26/18) 1996 (17/17) 1997 (19/15) 1998 (25/22) 1999 (34/24) 2001 (29/21) 2004 (34/20) 2005 (4/4) 2006 (46/23) 2007 (2/2) 2008 (34/18) 2010 (34/21) 2012 (37/23) 2014 (34/24) 2016 (36/24) 2017 (3/3)
+## [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification) (29)
+[1978](more/cfu_caribbean_cup_qualification/1978_cfu_caribbean_cup_qualification.txt) (14/11) [1979](more/cfu_caribbean_cup_qualification/1979_cfu_caribbean_cup_qualification.txt) (12/9) [1981](more/cfu_caribbean_cup_qualification/1981_cfu_caribbean_cup_qualification.txt) (15/8) [1983](more/cfu_caribbean_cup_qualification/1983_cfu_caribbean_cup_qualification.txt) (13/9) [1985](more/cfu_caribbean_cup_qualification/1985_cfu_caribbean_cup_qualification.txt) (12/10) [1987](more/cfu_caribbean_cup_qualification/1987_cfu_caribbean_cup_qualification.txt) (4/4) [1988](more/cfu_caribbean_cup_qualification/1988_cfu_caribbean_cup_qualification.txt) (4/4) [1989](more/cfu_caribbean_cup_qualification/1989_cfu_caribbean_cup_qualification.txt) (24/15) [1990](more/cfu_caribbean_cup_qualification/1990_cfu_caribbean_cup_qualification.txt) (24/19) [1991](more/cfu_caribbean_cup_qualification/1991_cfu_caribbean_cup_qualification.txt) (15/15) [1992](more/cfu_caribbean_cup_qualification/1992_cfu_caribbean_cup_qualification.txt) (16/19) [1993](more/cfu_caribbean_cup_qualification/1993_cfu_caribbean_cup_qualification.txt) (20/17) [1994](more/cfu_caribbean_cup_qualification/1994_cfu_caribbean_cup_qualification.txt) (19/19) [1995](more/cfu_caribbean_cup_qualification/1995_cfu_caribbean_cup_qualification.txt) (26/18) [1996](more/cfu_caribbean_cup_qualification/1996_cfu_caribbean_cup_qualification.txt) (17/17) [1997](more/cfu_caribbean_cup_qualification/1997_cfu_caribbean_cup_qualification.txt) (19/15) [1998](more/cfu_caribbean_cup_qualification/1998_cfu_caribbean_cup_qualification.txt) (25/22) [1999](more/cfu_caribbean_cup_qualification/1999_cfu_caribbean_cup_qualification.txt) (34/24) [2001](more/cfu_caribbean_cup_qualification/2001_cfu_caribbean_cup_qualification.txt) (29/21) [2004](more/cfu_caribbean_cup_qualification/2004_cfu_caribbean_cup_qualification.txt) (34/20) [2005](more/cfu_caribbean_cup_qualification/2005_cfu_caribbean_cup_qualification.txt) (4/4) [2006](more/cfu_caribbean_cup_qualification/2006_cfu_caribbean_cup_qualification.txt) (46/23) [2007](more/cfu_caribbean_cup_qualification/2007_cfu_caribbean_cup_qualification.txt) (2/2) [2008](more/cfu_caribbean_cup_qualification/2008_cfu_caribbean_cup_qualification.txt) (34/18) [2010](more/cfu_caribbean_cup_qualification/2010_cfu_caribbean_cup_qualification.txt) (34/21) [2012](more/cfu_caribbean_cup_qualification/2012_cfu_caribbean_cup_qualification.txt) (37/23) [2014](more/cfu_caribbean_cup_qualification/2014_cfu_caribbean_cup_qualification.txt) (34/24) [2016](more/cfu_caribbean_cup_qualification/2016_cfu_caribbean_cup_qualification.txt) (36/24) [2017](more/cfu_caribbean_cup_qualification/2017_cfu_caribbean_cup_qualification.txt) (3/3)
 
-## CONCACAF Championship (10)
-1963 (22/9) 1965 (15/6) 1967 (15/6) 1969 (15/6) 1971 (15/6) 1973 (15/6) 1977 (15/6) 1981 (15/6) 1985 (24/9) 1989 (18/5)
+## [CONCACAF Championship](more/concacaf_championship) (10)
+[1963](more/concacaf_championship/1963_concacaf_championship.txt) (22/9) [1965](more/concacaf_championship/1965_concacaf_championship.txt) (15/6) [1967](more/concacaf_championship/1967_concacaf_championship.txt) (15/6) [1969](more/concacaf_championship/1969_concacaf_championship.txt) (15/6) [1971](more/concacaf_championship/1971_concacaf_championship.txt) (15/6) [1973](more/concacaf_championship/1973_concacaf_championship.txt) (15/6) [1977](more/concacaf_championship/1977_concacaf_championship.txt) (15/6) [1981](more/concacaf_championship/1981_concacaf_championship.txt) (15/6) [1985](more/concacaf_championship/1985_concacaf_championship.txt) (24/9) [1989](more/concacaf_championship/1989_concacaf_championship.txt) (18/5)
 
-## CONCACAF Championship qualification (9)
-1965 (3/3) 1967 (13/8) 1969 (4/4) 1971 (10/10) 1972 (18/12) 1976 (36/16) 1980 (39/15) 1984 (10/10) 1988 (18/14)
+## [CONCACAF Championship qualification](more/concacaf_championship_qualification) (9)
+[1965](more/concacaf_championship_qualification/1965_concacaf_championship_qualification.txt) (3/3) [1967](more/concacaf_championship_qualification/1967_concacaf_championship_qualification.txt) (13/8) [1969](more/concacaf_championship_qualification/1969_concacaf_championship_qualification.txt) (4/4) [1971](more/concacaf_championship_qualification/1971_concacaf_championship_qualification.txt) (10/10) [1972](more/concacaf_championship_qualification/1972_concacaf_championship_qualification.txt) (18/12) [1976](more/concacaf_championship_qualification/1976_concacaf_championship_qualification.txt) (36/16) [1980](more/concacaf_championship_qualification/1980_concacaf_championship_qualification.txt) (39/15) [1984](more/concacaf_championship_qualification/1984_concacaf_championship_qualification.txt) (10/10) [1988](more/concacaf_championship_qualification/1988_concacaf_championship_qualification.txt) (18/14)
 
-## CONCACAF Nations League (6)
-2019 (102/41) 2021 (4/4) 2022 (67/41) 2023 (135/41) 2024 (110/41) 2025 (4/4)
+## [CONCACAF Nations League](concacaf_nations_league) (6)
+[2019](concacaf_nations_league/2019_concacaf_nations_league.txt) (102/41) [2021](concacaf_nations_league/2021_concacaf_nations_league.txt) (4/4) [2022](concacaf_nations_league/2022_concacaf_nations_league.txt) (67/41) [2023](concacaf_nations_league/2023_concacaf_nations_league.txt) (135/41) [2024](concacaf_nations_league/2024_concacaf_nations_league.txt) (110/41) [2025](concacaf_nations_league/2025_concacaf_nations_league.txt) (4/4)
 
-## CONCACAF Nations League qualification (2)
-2018 (50/34) 2019 (18/34)
+## [CONCACAF Nations League qualification](concacaf_nations_league_qualification) (2)
+[2018](concacaf_nations_league_qualification/2018_concacaf_nations_league_qualification.txt) (50/34) [2019](concacaf_nations_league_qualification/2019_concacaf_nations_league_qualification.txt) (18/34)
 
-## CONCACAF Series (2)
-2025 (19/19) 2026 (16/16)
+## [CONCACAF Series](more/concacaf_series) (2)
+[2025](more/concacaf_series/2025_concacaf_series.txt) (19/19) [2026](more/concacaf_series/2026_concacaf_series.txt) (16/16)
 
-## CONIFA Africa Football Cup (1)
-2022 (4/3)
+## [CONIFA Africa Football Cup](more/conifa_africa_football_cup) (1)
+[2022](more/conifa_africa_football_cup/2022_conifa_africa_football_cup.txt) (4/3)
 
-## CONIFA Asia Cup (2)
-2023 (4/3) 2025 (4/3)
+## [CONIFA Asia Cup](more/conifa_asia_cup) (2)
+[2023](more/conifa_asia_cup/2023_conifa_asia_cup.txt) (4/3) [2025](more/conifa_asia_cup/2025_conifa_asia_cup.txt) (4/3)
 
-## CONIFA European Football Cup (3)
-2015 (11/6) 2017 (18/8) 2019 (20/8)
+## [CONIFA European Football Cup](more/conifa_european_football_cup) (3)
+[2015](more/conifa_european_football_cup/2015_conifa_european_football_cup.txt) (11/6) [2017](more/conifa_european_football_cup/2017_conifa_european_football_cup.txt) (18/8) [2019](more/conifa_european_football_cup/2019_conifa_european_football_cup.txt) (20/8)
 
-## CONIFA South America Football Cup (1)
-2022 (3/3)
+## [CONIFA South America Football Cup](more/conifa_south_america_football_cup) (1)
+[2022](more/conifa_south_america_football_cup/2022_conifa_south_america_football_cup.txt) (3/3)
 
-## CONIFA World Cup qualification (1)
-2019 (1/2)
+## [CONIFA World Cup qualification](more/conifa_world_cup_qualification) (1)
+[2019](more/conifa_world_cup_qualification/2019_conifa_world_cup_qualification.txt) (1/2)
 
-## CONIFA World Football Cup (3)
-2014 (28/12) 2016 (28/12) 2018 (45/16)
+## [CONIFA World Football Cup](more/conifa_world_football_cup) (3)
+[2014](more/conifa_world_football_cup/2014_conifa_world_football_cup.txt) (28/12) [2016](more/conifa_world_football_cup/2016_conifa_world_football_cup.txt) (28/12) [2018](more/conifa_world_football_cup/2018_conifa_world_football_cup.txt) (45/16)
 
-## CONIFA World Football Cup qualification (1)
-2023 (5/7)
+## [CONIFA World Football Cup qualification](more/conifa_world_football_cup_qualification) (1)
+[2023](more/conifa_world_football_cup_qualification/2023_conifa_world_football_cup_qualification.txt) (5/7)
 
-## CONMEBOL–UEFA Cup of Champions (3)
-1985 (1/2) 1993 (1/2) 2022 (1/2)
+## [CONMEBOL–UEFA Cup of Champions](more/conmeboluefa_cup_of_champions) (3)
+[1985](more/conmeboluefa_cup_of_champions/1985_conmeboluefa_cup_of_champions.txt) (1/2) [1993](more/conmeboluefa_cup_of_champions/1993_conmeboluefa_cup_of_champions.txt) (1/2) [2022](more/conmeboluefa_cup_of_champions/2022_conmeboluefa_cup_of_champions.txt) (1/2)
 
-## COSAFA Cup (22)
-1997 (10/5) 1998 (10/5) 1999 (8/8) 2000 (12/11) 2001 (12/11) 2002 (12/12) 2003 (12/12) 2004 (11/12) 2005 (12/13) 2006 (15/13) 2007 (15/13) 2008 (7/7) 2009 (17/13) 2013 (20/13) 2015 (23/14) 2016 (23/14) 2017 (23/14) 2018 (23/14) 2019 (20/13) 2021 (24/10) 2022 (23/14) 2023 (22/12)
+## [COSAFA Cup](more/cosafa_cup) (22)
+[1997](more/cosafa_cup/1997_cosafa_cup.txt) (10/5) [1998](more/cosafa_cup/1998_cosafa_cup.txt) (10/5) [1999](more/cosafa_cup/1999_cosafa_cup.txt) (8/8) [2000](more/cosafa_cup/2000_cosafa_cup.txt) (12/11) [2001](more/cosafa_cup/2001_cosafa_cup.txt) (12/11) [2002](more/cosafa_cup/2002_cosafa_cup.txt) (12/12) [2003](more/cosafa_cup/2003_cosafa_cup.txt) (12/12) [2004](more/cosafa_cup/2004_cosafa_cup.txt) (11/12) [2005](more/cosafa_cup/2005_cosafa_cup.txt) (12/13) [2006](more/cosafa_cup/2006_cosafa_cup.txt) (15/13) [2007](more/cosafa_cup/2007_cosafa_cup.txt) (15/13) [2008](more/cosafa_cup/2008_cosafa_cup.txt) (7/7) [2009](more/cosafa_cup/2009_cosafa_cup.txt) (17/13) [2013](more/cosafa_cup/2013_cosafa_cup.txt) (20/13) [2015](more/cosafa_cup/2015_cosafa_cup.txt) (23/14) [2016](more/cosafa_cup/2016_cosafa_cup.txt) (23/14) [2017](more/cosafa_cup/2017_cosafa_cup.txt) (23/14) [2018](more/cosafa_cup/2018_cosafa_cup.txt) (23/14) [2019](more/cosafa_cup/2019_cosafa_cup.txt) (20/13) [2021](more/cosafa_cup/2021_cosafa_cup.txt) (24/10) [2022](more/cosafa_cup/2022_cosafa_cup.txt) (23/14) [2023](more/cosafa_cup/2023_cosafa_cup.txt) (22/12)
 
-## COSAFA Cup qualification (4)
-1997 (4/8) 1998 (5/10) 1999 (6/8) 2008 (12/8)
+## [COSAFA Cup qualification](more/cosafa_cup_qualification) (4)
+[1997](more/cosafa_cup_qualification/1997_cosafa_cup_qualification.txt) (4/8) [1998](more/cosafa_cup_qualification/1998_cosafa_cup_qualification.txt) (5/10) [1999](more/cosafa_cup_qualification/1999_cosafa_cup_qualification.txt) (6/8) [2008](more/cosafa_cup_qualification/2008_cosafa_cup_qualification.txt) (12/8)
 
-## Canadian Shield (1)
-2025 (4/4)
+## [Canadian Shield](more/canadian_shield) (1)
+[2025](more/canadian_shield/2025_canadian_shield.txt) (4/4)
 
-## Central American and Caribbean Games (4)
-1930 (12/6) 1935 (15/6) 1938 (15/6) 1946 (21/7)
+## [Central American and Caribbean Games](more/central_american_and_caribbean_games) (4)
+[1930](more/central_american_and_caribbean_games/1930_central_american_and_caribbean_games.txt) (12/6) [1935](more/central_american_and_caribbean_games/1935_central_american_and_caribbean_games.txt) (15/6) [1938](more/central_american_and_caribbean_games/1938_central_american_and_caribbean_games.txt) (15/6) [1946](more/central_american_and_caribbean_games/1946_central_american_and_caribbean_games.txt) (21/7)
 
-## Central European International Cup (24)
-1927 (4/4) 1928 (8/5) 1929 (7/5) 1930 (1/2) 1931 (11/5) 1932 (9/5) 1933 (5/4) 1934 (7/5) 1935 (8/5) 1936 (5/5) 1937 (10/5) 1938 (1/2) 1948 (5/4) 1949 (6/5) 1950 (2/3) 1951 (1/2) 1952 (2/3) 1953 (4/4) 1955 (10/6) 1956 (8/6) 1957 (4/5) 1958 (3/4) 1959 (4/5) 1960 (1/2)
+## [Central European International Cup](more/central_european_international_cup) (24)
+[1927](more/central_european_international_cup/1927_central_european_international_cup.txt) (4/4) [1928](more/central_european_international_cup/1928_central_european_international_cup.txt) (8/5) [1929](more/central_european_international_cup/1929_central_european_international_cup.txt) (7/5) [1930](more/central_european_international_cup/1930_central_european_international_cup.txt) (1/2) [1931](more/central_european_international_cup/1931_central_european_international_cup.txt) (11/5) [1932](more/central_european_international_cup/1932_central_european_international_cup.txt) (9/5) [1933](more/central_european_international_cup/1933_central_european_international_cup.txt) (5/4) [1934](more/central_european_international_cup/1934_central_european_international_cup.txt) (7/5) [1935](more/central_european_international_cup/1935_central_european_international_cup.txt) (8/5) [1936](more/central_european_international_cup/1936_central_european_international_cup.txt) (5/5) [1937](more/central_european_international_cup/1937_central_european_international_cup.txt) (10/5) [1938](more/central_european_international_cup/1938_central_european_international_cup.txt) (1/2) [1948](more/central_european_international_cup/1948_central_european_international_cup.txt) (5/4) [1949](more/central_european_international_cup/1949_central_european_international_cup.txt) (6/5) [1950](more/central_european_international_cup/1950_central_european_international_cup.txt) (2/3) [1951](more/central_european_international_cup/1951_central_european_international_cup.txt) (1/2) [1952](more/central_european_international_cup/1952_central_european_international_cup.txt) (2/3) [1953](more/central_european_international_cup/1953_central_european_international_cup.txt) (4/4) [1955](more/central_european_international_cup/1955_central_european_international_cup.txt) (10/6) [1956](more/central_european_international_cup/1956_central_european_international_cup.txt) (8/6) [1957](more/central_european_international_cup/1957_central_european_international_cup.txt) (4/5) [1958](more/central_european_international_cup/1958_central_european_international_cup.txt) (3/4) [1959](more/central_european_international_cup/1959_central_european_international_cup.txt) (4/5) [1960](more/central_european_international_cup/1960_central_european_international_cup.txt) (1/2)
 
-## ConIFA Challenger Cup (1)
-2016 (1/2)
+## [ConIFA Challenger Cup](more/conifa_challenger_cup) (1)
+[2016](more/conifa_challenger_cup/2016_conifa_challenger_cup.txt) (1/2)
 
-## Confederations Cup (10)
-1992 (4/4) 1995 (8/6) 1997 (16/8) 1999 (16/8) 2001 (16/8) 2003 (16/8) 2005 (16/8) 2009 (16/8) 2013 (16/8) 2017 (16/8)
+## [Confederations Cup](more/confederations_cup) (10)
+[1992](more/confederations_cup/1992_confederations_cup.txt) (4/4) [1995](more/confederations_cup/1995_confederations_cup.txt) (8/6) [1997](more/confederations_cup/1997_confederations_cup.txt) (16/8) [1999](more/confederations_cup/1999_confederations_cup.txt) (16/8) [2001](more/confederations_cup/2001_confederations_cup.txt) (16/8) [2003](more/confederations_cup/2003_confederations_cup.txt) (16/8) [2005](more/confederations_cup/2005_confederations_cup.txt) (16/8) [2009](more/confederations_cup/2009_confederations_cup.txt) (16/8) [2013](more/confederations_cup/2013_confederations_cup.txt) (16/8) [2017](more/confederations_cup/2017_confederations_cup.txt) (16/8)
 
-## Copa América (48)
-1916 (6/4) 1917 (6/4) 1919 (7/4) 1920 (6/4) 1921 (6/4) 1922 (11/5) 1923 (6/4) 1924 (6/4) 1925 (6/3) 1926 (10/5) 1927 (6/4) 1929 (6/4) 1935 (6/4) 1936 (2/4) 1937 (14/6) 1939 (10/5) 1941 (10/5) 1942 (21/7) 1945 (21/7) 1946 (15/6) 1947 (28/8) 1949 (29/8) 1953 (22/7) 1955 (15/6) 1956 (15/6) 1957 (21/7) 1959 (31/8) 1963 (21/7) 1967 (15/6) 1975 (25/10) 1979 (25/10) 1983 (24/10) 1987 (13/10) 1989 (26/10) 1991 (26/10) 1993 (26/12) 1995 (26/12) 1997 (26/12) 1999 (26/12) 2001 (26/12) 2004 (26/12) 2007 (26/12) 2011 (26/12) 2015 (26/12) 2016 (32/16) 2019 (26/12) 2021 (28/10) 2024 (32/16)
+## [Copa América](copa_america) (48)
+[1916](copa_america/1916_copa_america.txt) (6/4) [1917](copa_america/1917_copa_america.txt) (6/4) [1919](copa_america/1919_copa_america.txt) (7/4) [1920](copa_america/1920_copa_america.txt) (6/4) [1921](copa_america/1921_copa_america.txt) (6/4) [1922](copa_america/1922_copa_america.txt) (11/5) [1923](copa_america/1923_copa_america.txt) (6/4) [1924](copa_america/1924_copa_america.txt) (6/4) [1925](copa_america/1925_copa_america.txt) (6/3) [1926](copa_america/1926_copa_america.txt) (10/5) [1927](copa_america/1927_copa_america.txt) (6/4) [1929](copa_america/1929_copa_america.txt) (6/4) [1935](copa_america/1935_copa_america.txt) (6/4) [1936](copa_america/1936_copa_america.txt) (2/4) [1937](copa_america/1937_copa_america.txt) (14/6) [1939](copa_america/1939_copa_america.txt) (10/5) [1941](copa_america/1941_copa_america.txt) (10/5) [1942](copa_america/1942_copa_america.txt) (21/7) [1945](copa_america/1945_copa_america.txt) (21/7) [1946](copa_america/1946_copa_america.txt) (15/6) [1947](copa_america/1947_copa_america.txt) (28/8) [1949](copa_america/1949_copa_america.txt) (29/8) [1953](copa_america/1953_copa_america.txt) (22/7) [1955](copa_america/1955_copa_america.txt) (15/6) [1956](copa_america/1956_copa_america.txt) (15/6) [1957](copa_america/1957_copa_america.txt) (21/7) [1959](copa_america/1959_copa_america.txt) (31/8) [1963](copa_america/1963_copa_america.txt) (21/7) [1967](copa_america/1967_copa_america.txt) (15/6) [1975](copa_america/1975_copa_america.txt) (25/10) [1979](copa_america/1979_copa_america.txt) (25/10) [1983](copa_america/1983_copa_america.txt) (24/10) [1987](copa_america/1987_copa_america.txt) (13/10) [1989](copa_america/1989_copa_america.txt) (26/10) [1991](copa_america/1991_copa_america.txt) (26/10) [1993](copa_america/1993_copa_america.txt) (26/12) [1995](copa_america/1995_copa_america.txt) (26/12) [1997](copa_america/1997_copa_america.txt) (26/12) [1999](copa_america/1999_copa_america.txt) (26/12) [2001](copa_america/2001_copa_america.txt) (26/12) [2004](copa_america/2004_copa_america.txt) (26/12) [2007](copa_america/2007_copa_america.txt) (26/12) [2011](copa_america/2011_copa_america.txt) (26/12) [2015](copa_america/2015_copa_america.txt) (26/12) [2016](copa_america/2016_copa_america.txt) (32/16) [2019](copa_america/2019_copa_america.txt) (26/12) [2021](copa_america/2021_copa_america.txt) (28/10) [2024](copa_america/2024_copa_america.txt) (32/16)
 
-## Copa América qualification (3)
-1966 (4/4) 2016 (2/4) 2024 (2/4)
+## [Copa América qualification](copa_america_qualification) (3)
+[1966](copa_america_qualification/1966_copa_america_qualification.txt) (4/4) [2016](copa_america_qualification/2016_copa_america_qualification.txt) (2/4) [2024](copa_america_qualification/2024_copa_america_qualification.txt) (2/4)
 
-## Copa Artigas (7)
-1965 (2/2) 1966 (2/2) 1968 (1/2) 1975 (2/2) 1977 (2/2) 1983 (2/2) 1985 (2/2)
+## [Copa Artigas](more/copa_artigas) (7)
+[1965](more/copa_artigas/1965_copa_artigas.txt) (2/2) [1966](more/copa_artigas/1966_copa_artigas.txt) (2/2) [1968](more/copa_artigas/1968_copa_artigas.txt) (1/2) [1975](more/copa_artigas/1975_copa_artigas.txt) (2/2) [1977](more/copa_artigas/1977_copa_artigas.txt) (2/2) [1983](more/copa_artigas/1983_copa_artigas.txt) (2/2) [1985](more/copa_artigas/1985_copa_artigas.txt) (2/2)
 
-## Copa Bernardo O'Higgins (5)
-1955 (2/2) 1957 (2/2) 1959 (2/2) 1961 (2/2) 1966 (2/2)
+## [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins) (5)
+[1955](more/copa_bernardo_ohiggins/1955_copa_bernardo_ohiggins.txt) (2/2) [1957](more/copa_bernardo_ohiggins/1957_copa_bernardo_ohiggins.txt) (2/2) [1959](more/copa_bernardo_ohiggins/1959_copa_bernardo_ohiggins.txt) (2/2) [1961](more/copa_bernardo_ohiggins/1961_copa_bernardo_ohiggins.txt) (2/2) [1966](more/copa_bernardo_ohiggins/1966_copa_bernardo_ohiggins.txt) (2/2)
 
-## Copa Carlos Dittborn (9)
-1962 (2/2) 1964 (2/2) 1965 (2/2) 1968 (2/2) 1971 (2/2) 1972 (1/2) 1973 (2/2) 1974 (2/2) 1976 (1/2)
+## [Copa Carlos Dittborn](more/copa_carlos_dittborn) (9)
+[1962](more/copa_carlos_dittborn/1962_copa_carlos_dittborn.txt) (2/2) [1964](more/copa_carlos_dittborn/1964_copa_carlos_dittborn.txt) (2/2) [1965](more/copa_carlos_dittborn/1965_copa_carlos_dittborn.txt) (2/2) [1968](more/copa_carlos_dittborn/1968_copa_carlos_dittborn.txt) (2/2) [1971](more/copa_carlos_dittborn/1971_copa_carlos_dittborn.txt) (2/2) [1972](more/copa_carlos_dittborn/1972_copa_carlos_dittborn.txt) (1/2) [1973](more/copa_carlos_dittborn/1973_copa_carlos_dittborn.txt) (2/2) [1974](more/copa_carlos_dittborn/1974_copa_carlos_dittborn.txt) (2/2) [1976](more/copa_carlos_dittborn/1976_copa_carlos_dittborn.txt) (1/2)
 
-## Copa Chevallier Boutell (14)
-1923 (2/2) 1924 (2/2) 1925 (2/2) 1926 (2/2) 1931 (2/2) 1939 (2/2) 1940 (2/2) 1943 (2/2) 1945 (4/2) 1950 (2/2) 1956 (1/2) 1963 (2/2) 1964 (2/2) 1971 (2/2)
+## [Copa Chevallier Boutell](more/copa_chevallier_boutell) (14)
+[1923](more/copa_chevallier_boutell/1923_copa_chevallier_boutell.txt) (2/2) [1924](more/copa_chevallier_boutell/1924_copa_chevallier_boutell.txt) (2/2) [1925](more/copa_chevallier_boutell/1925_copa_chevallier_boutell.txt) (2/2) [1926](more/copa_chevallier_boutell/1926_copa_chevallier_boutell.txt) (2/2) [1931](more/copa_chevallier_boutell/1931_copa_chevallier_boutell.txt) (2/2) [1939](more/copa_chevallier_boutell/1939_copa_chevallier_boutell.txt) (2/2) [1940](more/copa_chevallier_boutell/1940_copa_chevallier_boutell.txt) (2/2) [1943](more/copa_chevallier_boutell/1943_copa_chevallier_boutell.txt) (2/2) [1945](more/copa_chevallier_boutell/1945_copa_chevallier_boutell.txt) (4/2) [1950](more/copa_chevallier_boutell/1950_copa_chevallier_boutell.txt) (2/2) [1956](more/copa_chevallier_boutell/1956_copa_chevallier_boutell.txt) (1/2) [1963](more/copa_chevallier_boutell/1963_copa_chevallier_boutell.txt) (2/2) [1964](more/copa_chevallier_boutell/1964_copa_chevallier_boutell.txt) (2/2) [1971](more/copa_chevallier_boutell/1971_copa_chevallier_boutell.txt) (2/2)
 
-## Copa Confraternidad (1)
-2011 (1/2)
+## [Copa Confraternidad](more/copa_confraternidad) (1)
+[2011](more/copa_confraternidad/2011_copa_confraternidad.txt) (1/2)
 
-## Copa Félix Bogado (3)
-1976 (2/2) 1977 (2/2) 1983 (2/2)
+## [Copa Félix Bogado](more/copa_felix_bogado) (3)
+[1976](more/copa_felix_bogado/1976_copa_felix_bogado.txt) (2/2) [1977](more/copa_felix_bogado/1977_copa_felix_bogado.txt) (2/2) [1983](more/copa_felix_bogado/1983_copa_felix_bogado.txt) (2/2)
 
-## Copa Juan Pinto Durán (9)
-1963 (2/2) 1965 (2/2) 1971 (2/2) 1975 (2/2) 1976 (1/2) 1977 (1/2) 1979 (2/2) 1981 (2/2) 1988 (2/2)
+## [Copa Juan Pinto Durán](more/copa_juan_pinto_duran) (9)
+[1963](more/copa_juan_pinto_duran/1963_copa_juan_pinto_duran.txt) (2/2) [1965](more/copa_juan_pinto_duran/1965_copa_juan_pinto_duran.txt) (2/2) [1971](more/copa_juan_pinto_duran/1971_copa_juan_pinto_duran.txt) (2/2) [1975](more/copa_juan_pinto_duran/1975_copa_juan_pinto_duran.txt) (2/2) [1976](more/copa_juan_pinto_duran/1976_copa_juan_pinto_duran.txt) (1/2) [1977](more/copa_juan_pinto_duran/1977_copa_juan_pinto_duran.txt) (1/2) [1979](more/copa_juan_pinto_duran/1979_copa_juan_pinto_duran.txt) (2/2) [1981](more/copa_juan_pinto_duran/1981_copa_juan_pinto_duran.txt) (2/2) [1988](more/copa_juan_pinto_duran/1988_copa_juan_pinto_duran.txt) (2/2)
 
-## Copa Lipton (28)
-1905 (1/2) 1906 (1/2) 1908 (1/2) 1909 (1/2) 1910 (1/2) 1911 (1/2) 1912 (1/2) 1913 (1/2) 1915 (1/2) 1916 (1/2) 1917 (1/2) 1918 (1/2) 1919 (1/2) 1922 (1/2) 1923 (1/2) 1924 (1/2) 1927 (1/2) 1928 (1/2) 1929 (1/2) 1937 (1/2) 1942 (1/2) 1945 (1/2) 1957 (1/2) 1962 (1/2) 1968 (1/2) 1973 (1/2) 1976 (1/2) 1992 (1/2)
+## [Copa Lipton](more/copa_lipton) (28)
+[1905](more/copa_lipton/1905_copa_lipton.txt) (1/2) [1906](more/copa_lipton/1906_copa_lipton.txt) (1/2) [1908](more/copa_lipton/1908_copa_lipton.txt) (1/2) [1909](more/copa_lipton/1909_copa_lipton.txt) (1/2) [1910](more/copa_lipton/1910_copa_lipton.txt) (1/2) [1911](more/copa_lipton/1911_copa_lipton.txt) (1/2) [1912](more/copa_lipton/1912_copa_lipton.txt) (1/2) [1913](more/copa_lipton/1913_copa_lipton.txt) (1/2) [1915](more/copa_lipton/1915_copa_lipton.txt) (1/2) [1916](more/copa_lipton/1916_copa_lipton.txt) (1/2) [1917](more/copa_lipton/1917_copa_lipton.txt) (1/2) [1918](more/copa_lipton/1918_copa_lipton.txt) (1/2) [1919](more/copa_lipton/1919_copa_lipton.txt) (1/2) [1922](more/copa_lipton/1922_copa_lipton.txt) (1/2) [1923](more/copa_lipton/1923_copa_lipton.txt) (1/2) [1924](more/copa_lipton/1924_copa_lipton.txt) (1/2) [1927](more/copa_lipton/1927_copa_lipton.txt) (1/2) [1928](more/copa_lipton/1928_copa_lipton.txt) (1/2) [1929](more/copa_lipton/1929_copa_lipton.txt) (1/2) [1937](more/copa_lipton/1937_copa_lipton.txt) (1/2) [1942](more/copa_lipton/1942_copa_lipton.txt) (1/2) [1945](more/copa_lipton/1945_copa_lipton.txt) (1/2) [1957](more/copa_lipton/1957_copa_lipton.txt) (1/2) [1962](more/copa_lipton/1962_copa_lipton.txt) (1/2) [1968](more/copa_lipton/1968_copa_lipton.txt) (1/2) [1973](more/copa_lipton/1973_copa_lipton.txt) (1/2) [1976](more/copa_lipton/1976_copa_lipton.txt) (1/2) [1992](more/copa_lipton/1992_copa_lipton.txt) (1/2)
 
-## Copa Newton (26)
-1906 (1/2) 1908 (1/2) 1909 (1/2) 1911 (1/2) 1912 (1/2) 1913 (1/2) 1915 (1/2) 1916 (1/2) 1917 (1/2) 1918 (1/2) 1919 (1/2) 1920 (1/2) 1922 (1/2) 1924 (1/2) 1927 (1/2) 1928 (1/2) 1929 (1/2) 1930 (1/2) 1937 (1/2) 1942 (1/2) 1945 (1/2) 1957 (1/2) 1968 (1/2) 1973 (1/2) 1975 (1/2) 1976 (1/2)
+## [Copa Newton](more/copa_newton) (26)
+[1906](more/copa_newton/1906_copa_newton.txt) (1/2) [1908](more/copa_newton/1908_copa_newton.txt) (1/2) [1909](more/copa_newton/1909_copa_newton.txt) (1/2) [1911](more/copa_newton/1911_copa_newton.txt) (1/2) [1912](more/copa_newton/1912_copa_newton.txt) (1/2) [1913](more/copa_newton/1913_copa_newton.txt) (1/2) [1915](more/copa_newton/1915_copa_newton.txt) (1/2) [1916](more/copa_newton/1916_copa_newton.txt) (1/2) [1917](more/copa_newton/1917_copa_newton.txt) (1/2) [1918](more/copa_newton/1918_copa_newton.txt) (1/2) [1919](more/copa_newton/1919_copa_newton.txt) (1/2) [1920](more/copa_newton/1920_copa_newton.txt) (1/2) [1922](more/copa_newton/1922_copa_newton.txt) (1/2) [1924](more/copa_newton/1924_copa_newton.txt) (1/2) [1927](more/copa_newton/1927_copa_newton.txt) (1/2) [1928](more/copa_newton/1928_copa_newton.txt) (1/2) [1929](more/copa_newton/1929_copa_newton.txt) (1/2) [1930](more/copa_newton/1930_copa_newton.txt) (1/2) [1937](more/copa_newton/1937_copa_newton.txt) (1/2) [1942](more/copa_newton/1942_copa_newton.txt) (1/2) [1945](more/copa_newton/1945_copa_newton.txt) (1/2) [1957](more/copa_newton/1957_copa_newton.txt) (1/2) [1968](more/copa_newton/1968_copa_newton.txt) (1/2) [1973](more/copa_newton/1973_copa_newton.txt) (1/2) [1975](more/copa_newton/1975_copa_newton.txt) (1/2) [1976](more/copa_newton/1976_copa_newton.txt) (1/2)
 
-## Copa Oswaldo Cruz (8)
-1950 (2/2) 1955 (2/2) 1956 (2/2) 1958 (2/2) 1961 (2/2) 1962 (2/2) 1968 (2/2) 1976 (2/2)
+## [Copa Oswaldo Cruz](more/copa_oswaldo_cruz) (8)
+[1950](more/copa_oswaldo_cruz/1950_copa_oswaldo_cruz.txt) (2/2) [1955](more/copa_oswaldo_cruz/1955_copa_oswaldo_cruz.txt) (2/2) [1956](more/copa_oswaldo_cruz/1956_copa_oswaldo_cruz.txt) (2/2) [1958](more/copa_oswaldo_cruz/1958_copa_oswaldo_cruz.txt) (2/2) [1961](more/copa_oswaldo_cruz/1961_copa_oswaldo_cruz.txt) (2/2) [1962](more/copa_oswaldo_cruz/1962_copa_oswaldo_cruz.txt) (2/2) [1968](more/copa_oswaldo_cruz/1968_copa_oswaldo_cruz.txt) (2/2) [1976](more/copa_oswaldo_cruz/1976_copa_oswaldo_cruz.txt) (2/2)
 
-## Copa Paz del Chaco (11)
-1957 (4/2) 1962 (2/2) 1963 (2/2) 1977 (2/2) 1979 (2/2) 1980 (2/2) 1991 (2/2) 1993 (2/2) 1995 (2/2) 1999 (1/2) 2011 (2/2)
+## [Copa Paz del Chaco](more/copa_paz_del_chaco) (11)
+[1957](more/copa_paz_del_chaco/1957_copa_paz_del_chaco.txt) (4/2) [1962](more/copa_paz_del_chaco/1962_copa_paz_del_chaco.txt) (2/2) [1963](more/copa_paz_del_chaco/1963_copa_paz_del_chaco.txt) (2/2) [1977](more/copa_paz_del_chaco/1977_copa_paz_del_chaco.txt) (2/2) [1979](more/copa_paz_del_chaco/1979_copa_paz_del_chaco.txt) (2/2) [1980](more/copa_paz_del_chaco/1980_copa_paz_del_chaco.txt) (2/2) [1991](more/copa_paz_del_chaco/1991_copa_paz_del_chaco.txt) (2/2) [1993](more/copa_paz_del_chaco/1993_copa_paz_del_chaco.txt) (2/2) [1995](more/copa_paz_del_chaco/1995_copa_paz_del_chaco.txt) (2/2) [1999](more/copa_paz_del_chaco/1999_copa_paz_del_chaco.txt) (1/2) [2011](more/copa_paz_del_chaco/2011_copa_paz_del_chaco.txt) (2/2)
 
-## Copa Premio Honor Argentino (10)
-1908 (1/2) 1909 (1/2) 1910 (2/2) 1911 (1/2) 1912 (1/2) 1913 (1/2) 1914 (1/2) 1918 (2/2) 1919 (1/2) 1920 (1/2)
+## [Copa Premio Honor Argentino](more/copa_premio_honor_argentino) (10)
+[1908](more/copa_premio_honor_argentino/1908_copa_premio_honor_argentino.txt) (1/2) [1909](more/copa_premio_honor_argentino/1909_copa_premio_honor_argentino.txt) (1/2) [1910](more/copa_premio_honor_argentino/1910_copa_premio_honor_argentino.txt) (2/2) [1911](more/copa_premio_honor_argentino/1911_copa_premio_honor_argentino.txt) (1/2) [1912](more/copa_premio_honor_argentino/1912_copa_premio_honor_argentino.txt) (1/2) [1913](more/copa_premio_honor_argentino/1913_copa_premio_honor_argentino.txt) (1/2) [1914](more/copa_premio_honor_argentino/1914_copa_premio_honor_argentino.txt) (1/2) [1918](more/copa_premio_honor_argentino/1918_copa_premio_honor_argentino.txt) (2/2) [1919](more/copa_premio_honor_argentino/1919_copa_premio_honor_argentino.txt) (1/2) [1920](more/copa_premio_honor_argentino/1920_copa_premio_honor_argentino.txt) (1/2)
 
-## Copa Premio Honor Uruguayo (12)
-1911 (2/2) 1912 (1/2) 1913 (1/2) 1914 (1/2) 1915 (1/2) 1916 (1/2) 1917 (1/2) 1918 (2/2) 1919 (1/2) 1920 (1/2) 1922 (1/2) 1923 (2/2)
+## [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo) (12)
+[1911](more/copa_premio_honor_uruguayo/1911_copa_premio_honor_uruguayo.txt) (2/2) [1912](more/copa_premio_honor_uruguayo/1912_copa_premio_honor_uruguayo.txt) (1/2) [1913](more/copa_premio_honor_uruguayo/1913_copa_premio_honor_uruguayo.txt) (1/2) [1914](more/copa_premio_honor_uruguayo/1914_copa_premio_honor_uruguayo.txt) (1/2) [1915](more/copa_premio_honor_uruguayo/1915_copa_premio_honor_uruguayo.txt) (1/2) [1916](more/copa_premio_honor_uruguayo/1916_copa_premio_honor_uruguayo.txt) (1/2) [1917](more/copa_premio_honor_uruguayo/1917_copa_premio_honor_uruguayo.txt) (1/2) [1918](more/copa_premio_honor_uruguayo/1918_copa_premio_honor_uruguayo.txt) (2/2) [1919](more/copa_premio_honor_uruguayo/1919_copa_premio_honor_uruguayo.txt) (1/2) [1920](more/copa_premio_honor_uruguayo/1920_copa_premio_honor_uruguayo.txt) (1/2) [1922](more/copa_premio_honor_uruguayo/1922_copa_premio_honor_uruguayo.txt) (1/2) [1923](more/copa_premio_honor_uruguayo/1923_copa_premio_honor_uruguayo.txt) (2/2)
 
-## Copa Ramón Castilla (4)
-1972 (1/2) 1973 (1/2) 1976 (2/2) 1978 (2/2)
+## [Copa Ramón Castilla](more/copa_ramon_castilla) (4)
+[1972](more/copa_ramon_castilla/1972_copa_ramon_castilla.txt) (1/2) [1973](more/copa_ramon_castilla/1973_copa_ramon_castilla.txt) (1/2) [1976](more/copa_ramon_castilla/1976_copa_ramon_castilla.txt) (2/2) [1978](more/copa_ramon_castilla/1978_copa_ramon_castilla.txt) (2/2)
 
-## Copa Rio Branco (10)
-1931 (1/2) 1932 (1/2) 1940 (2/2) 1946 (1/2) 1947 (2/2) 1948 (2/2) 1950 (2/2) 1967 (3/2) 1968 (2/2) 1976 (2/2)
+## [Copa Rio Branco](more/copa_rio_branco) (10)
+[1931](more/copa_rio_branco/1931_copa_rio_branco.txt) (1/2) [1932](more/copa_rio_branco/1932_copa_rio_branco.txt) (1/2) [1940](more/copa_rio_branco/1940_copa_rio_branco.txt) (2/2) [1946](more/copa_rio_branco/1946_copa_rio_branco.txt) (1/2) [1947](more/copa_rio_branco/1947_copa_rio_branco.txt) (2/2) [1948](more/copa_rio_branco/1948_copa_rio_branco.txt) (2/2) [1950](more/copa_rio_branco/1950_copa_rio_branco.txt) (2/2) [1967](more/copa_rio_branco/1967_copa_rio_branco.txt) (3/2) [1968](more/copa_rio_branco/1968_copa_rio_branco.txt) (2/2) [1976](more/copa_rio_branco/1976_copa_rio_branco.txt) (2/2)
 
-## Copa Roca (11)
-1914 (1/2) 1922 (1/2) 1923 (1/2) 1939 (2/2) 1940 (5/2) 1945 (3/2) 1957 (2/2) 1960 (2/2) 1963 (2/2) 1971 (2/2) 1976 (2/2)
+## [Copa Roca](more/copa_roca) (11)
+[1914](more/copa_roca/1914_copa_roca.txt) (1/2) [1922](more/copa_roca/1922_copa_roca.txt) (1/2) [1923](more/copa_roca/1923_copa_roca.txt) (1/2) [1939](more/copa_roca/1939_copa_roca.txt) (2/2) [1940](more/copa_roca/1940_copa_roca.txt) (5/2) [1945](more/copa_roca/1945_copa_roca.txt) (3/2) [1957](more/copa_roca/1957_copa_roca.txt) (2/2) [1960](more/copa_roca/1960_copa_roca.txt) (2/2) [1963](more/copa_roca/1963_copa_roca.txt) (2/2) [1971](more/copa_roca/1971_copa_roca.txt) (2/2) [1976](more/copa_roca/1976_copa_roca.txt) (2/2)
 
-## Copa del Pacífico (10)
-1953 (2/2) 1954 (2/2) 1965 (2/2) 1968 (2/2) 1971 (2/2) 1982 (1/2) 1983 (2/2) 1988 (2/2) 2006 (2/2) 2012 (2/2)
+## [Copa del Pacífico](more/copa_del_pacifico) (10)
+[1953](more/copa_del_pacifico/1953_copa_del_pacifico.txt) (2/2) [1954](more/copa_del_pacifico/1954_copa_del_pacifico.txt) (2/2) [1965](more/copa_del_pacifico/1965_copa_del_pacifico.txt) (2/2) [1968](more/copa_del_pacifico/1968_copa_del_pacifico.txt) (2/2) [1971](more/copa_del_pacifico/1971_copa_del_pacifico.txt) (2/2) [1982](more/copa_del_pacifico/1982_copa_del_pacifico.txt) (1/2) [1983](more/copa_del_pacifico/1983_copa_del_pacifico.txt) (2/2) [1988](more/copa_del_pacifico/1988_copa_del_pacifico.txt) (2/2) [2006](more/copa_del_pacifico/2006_copa_del_pacifico.txt) (2/2) [2012](more/copa_del_pacifico/2012_copa_del_pacifico.txt) (2/2)
 
-## Corsica Cup (1)
-2010 (4/4)
+## [Corsica Cup](more/corsica_cup) (1)
+[2010](more/corsica_cup/2010_corsica_cup.txt) (4/4)
 
-## Coupe de l'Outre-Mer (3)
-2008 (12/7) 2010 (14/8) 2012 (16/8)
+## [Coupe de l'Outre-Mer](more/coupe_de_loutre-mer) (3)
+[2008](more/coupe_de_loutre-mer/2008_coupe_de_loutre-mer.txt) (12/7) [2010](more/coupe_de_loutre-mer/2010_coupe_de_loutre-mer.txt) (14/8) [2012](more/coupe_de_loutre-mer/2012_coupe_de_loutre-mer.txt) (16/8)
 
-## Cup of Ancient Civilizations (1)
-2001 (2/3)
+## [Cup of Ancient Civilizations](more/cup_of_ancient_civilizations) (1)
+[2001](more/cup_of_ancient_civilizations/2001_cup_of_ancient_civilizations.txt) (2/3)
 
-## Cyprus International Tournament (13)
-1997 (6/4) 1998 (6/5) 1999 (4/4) 2000 (9/7) 2001 (4/4) 2002 (4/4) 2003 (3/4) 2004 (10/8) 2005 (4/4) 2006 (8/8) 2007 (4/4) 2009 (4/4) 2011 (4/4)
+## [Cyprus International Tournament](more/cyprus_international_tournament) (13)
+[1997](more/cyprus_international_tournament/1997_cyprus_international_tournament.txt) (6/4) [1998](more/cyprus_international_tournament/1998_cyprus_international_tournament.txt) (6/5) [1999](more/cyprus_international_tournament/1999_cyprus_international_tournament.txt) (4/4) [2000](more/cyprus_international_tournament/2000_cyprus_international_tournament.txt) (9/7) [2001](more/cyprus_international_tournament/2001_cyprus_international_tournament.txt) (4/4) [2002](more/cyprus_international_tournament/2002_cyprus_international_tournament.txt) (4/4) [2003](more/cyprus_international_tournament/2003_cyprus_international_tournament.txt) (3/4) [2004](more/cyprus_international_tournament/2004_cyprus_international_tournament.txt) (10/8) [2005](more/cyprus_international_tournament/2005_cyprus_international_tournament.txt) (4/4) [2006](more/cyprus_international_tournament/2006_cyprus_international_tournament.txt) (8/8) [2007](more/cyprus_international_tournament/2007_cyprus_international_tournament.txt) (4/4) [2009](more/cyprus_international_tournament/2009_cyprus_international_tournament.txt) (4/4) [2011](more/cyprus_international_tournament/2011_cyprus_international_tournament.txt) (4/4)
 
-## Dakar Tournament (1)
-1991 (4/4)
+## [Dakar Tournament](more/dakar_tournament) (1)
+[1991](more/dakar_tournament/1991_dakar_tournament.txt) (4/4)
 
-## Dragon Cup (2)
-2010 (3/3) 2011 (6/4)
+## [Dragon Cup](more/dragon_cup) (2)
+[2010](more/dragon_cup/2010_dragon_cup.txt) (3/3) [2011](more/dragon_cup/2011_dragon_cup.txt) (6/4)
 
-## Dunhill Cup (1)
-1997 (15/8)
+## [Dunhill Cup](more/dunhill_cup) (1)
+[1997](more/dunhill_cup/1997_dunhill_cup.txt) (15/8)
 
-## Dynasty Cup (4)
-1990 (7/4) 1992 (8/4) 1995 (8/4) 1998 (6/4)
+## [Dynasty Cup](more/dynasty_cup) (4)
+[1990](more/dynasty_cup/1990_dynasty_cup.txt) (7/4) [1992](more/dynasty_cup/1992_dynasty_cup.txt) (8/4) [1995](more/dynasty_cup/1995_dynasty_cup.txt) (8/4) [1998](more/dynasty_cup/1998_dynasty_cup.txt) (6/4)
 
-## EAFF Championship (15)
-2003 (14/8) 2005 (12/7) 2007 (10/7) 2008 (6/4) 2009 (9/6) 2010 (6/4) 2012 (13/7) 2013 (6/4) 2014 (9/6) 2015 (6/4) 2016 (9/7) 2017 (6/4) 2018 (12/7) 2019 (6/4) 2022 (6/4)
+## [EAFF Championship](more/eaff_championship) (15)
+[2003](more/eaff_championship/2003_eaff_championship.txt) (14/8) [2005](more/eaff_championship/2005_eaff_championship.txt) (12/7) [2007](more/eaff_championship/2007_eaff_championship.txt) (10/7) [2008](more/eaff_championship/2008_eaff_championship.txt) (6/4) [2009](more/eaff_championship/2009_eaff_championship.txt) (9/6) [2010](more/eaff_championship/2010_eaff_championship.txt) (6/4) [2012](more/eaff_championship/2012_eaff_championship.txt) (13/7) [2013](more/eaff_championship/2013_eaff_championship.txt) (6/4) [2014](more/eaff_championship/2014_eaff_championship.txt) (9/6) [2015](more/eaff_championship/2015_eaff_championship.txt) (6/4) [2016](more/eaff_championship/2016_eaff_championship.txt) (9/7) [2017](more/eaff_championship/2017_eaff_championship.txt) (6/4) [2018](more/eaff_championship/2018_eaff_championship.txt) (12/7) [2019](more/eaff_championship/2019_eaff_championship.txt) (6/4) [2022](more/eaff_championship/2022_eaff_championship.txt) (6/4)
 
-## EAFF Championship qualification (1)
-2024 (5/5)
+## [EAFF Championship qualification](more/eaff_championship_qualification) (1)
+[2024](more/eaff_championship_qualification/2024_eaff_championship_qualification.txt) (5/5)
 
-## ELF Cup (1)
-2006 (16/8)
+## [ELF Cup](more/elf_cup) (1)
+[2006](more/elf_cup/2006_elf_cup.txt) (16/8)
 
-## East Asian Games (3)
-1993 (6/4) 1997 (10/5) 2009 (1/2)
+## [East Asian Games](more/east_asian_games) (3)
+[1993](more/east_asian_games/1993_east_asian_games.txt) (6/4) [1997](more/east_asian_games/1997_east_asian_games.txt) (10/5) [2009](more/east_asian_games/2009_east_asian_games.txt) (1/2)
 
-## FIFA 75th Anniversary Cup (1)
-1979 (1/2)
+## [FIFA 75th Anniversary Cup](more/fifa_75th_anniversary_cup) (1)
+[1979](more/fifa_75th_anniversary_cup/1979_fifa_75th_anniversary_cup.txt) (1/2)
 
-## FIFA Series (2)
-2024 (24/24) 2026 (33/34)
+## [FIFA Series](more/fifa_series) (2)
+[2024](more/fifa_series/2024_fifa_series.txt) (24/24) [2026](more/fifa_series/2026_fifa_series.txt) (33/34)
 
-## FIFA World Cup (23)
-1930 (18/13) 1934 (17/16) 1938 (18/15) 1950 (22/13) 1954 (26/16) 1958 (35/16) 1962 (32/16) 1966 (32/16) 1970 (32/16) 1974 (38/16) 1978 (38/16) 1982 (52/24) 1986 (52/24) 1990 (52/24) 1994 (52/24) 1998 (64/32) 2002 (64/32) 2006 (64/32) 2010 (64/32) 2014 (64/32) 2018 (64/32) 2022 (64/32) 2026 (72/48)
+## [FIFA World Cup](fifa_world_cup) (23)
+[1930](fifa_world_cup/1930_fifa_world_cup.txt) (18/13) [1934](fifa_world_cup/1934_fifa_world_cup.txt) (17/16) [1938](fifa_world_cup/1938_fifa_world_cup.txt) (18/15) [1950](fifa_world_cup/1950_fifa_world_cup.txt) (22/13) [1954](fifa_world_cup/1954_fifa_world_cup.txt) (26/16) [1958](fifa_world_cup/1958_fifa_world_cup.txt) (35/16) [1962](fifa_world_cup/1962_fifa_world_cup.txt) (32/16) [1966](fifa_world_cup/1966_fifa_world_cup.txt) (32/16) [1970](fifa_world_cup/1970_fifa_world_cup.txt) (32/16) [1974](fifa_world_cup/1974_fifa_world_cup.txt) (38/16) [1978](fifa_world_cup/1978_fifa_world_cup.txt) (38/16) [1982](fifa_world_cup/1982_fifa_world_cup.txt) (52/24) [1986](fifa_world_cup/1986_fifa_world_cup.txt) (52/24) [1990](fifa_world_cup/1990_fifa_world_cup.txt) (52/24) [1994](fifa_world_cup/1994_fifa_world_cup.txt) (52/24) [1998](fifa_world_cup/1998_fifa_world_cup.txt) (64/32) [2002](fifa_world_cup/2002_fifa_world_cup.txt) (64/32) [2006](fifa_world_cup/2006_fifa_world_cup.txt) (64/32) [2010](fifa_world_cup/2010_fifa_world_cup.txt) (64/32) [2014](fifa_world_cup/2014_fifa_world_cup.txt) (64/32) [2018](fifa_world_cup/2018_fifa_world_cup.txt) (64/32) [2022](fifa_world_cup/2022_fifa_world_cup.txt) (64/32) [2026](fifa_world_cup/2026_fifa_world_cup.txt) (72/48)
 
-## FIFA World Cup qualification (56)
-1933 (5/8) 1934 (21/21) 1937 (14/15) 1938 (8/12) 1949 (19/17) 1950 (4/6) 1953 (30/21) 1954 (21/19) 1956 (4/7) 1957 (82/45) 1958 (3/4) 1960 (25/28) 1961 (66/42) 1964 (14/16) 1965 (113/51) 1968 (54/44) 1969 (118/58) 1971 (1/2) 1972 (56/51) 1973 (134/66) 1974 (1/2) 1976 (50/51) 1977 (150/70) 1980 (89/62) 1981 (159/66) 1982 (1/2) 1984 (63/52) 1985 (211/86) 1988 (49/46) 1989 (229/82) 1992 (156/93) 1993 (339/108) 1996 (232/132) 1997 (410/124) 2000 (283/147) 2001 (491/138) 2003 (72/62) 2004 (408/167) 2005 (352/107) 2007 (66/51) 2008 (414/164) 2009 (332/100) 2011 (216/107) 2012 (241/138) 2013 (347/122) 2015 (280/147) 2016 (260/137) 2017 (311/108) 2019 (136/74) 2020 (21/12) 2021 (609/178) 2022 (100/58) 2023 (138/109) 2024 (255/141) 2025 (492/169) 2026 (16/22)
+## [FIFA World Cup qualification](fifa_world_cup_qualification) (56)
+[1933](fifa_world_cup_qualification/1933_fifa_world_cup_qualification.txt) (5/8) [1934](fifa_world_cup_qualification/1934_fifa_world_cup_qualification.txt) (21/21) [1937](fifa_world_cup_qualification/1937_fifa_world_cup_qualification.txt) (14/15) [1938](fifa_world_cup_qualification/1938_fifa_world_cup_qualification.txt) (8/12) [1949](fifa_world_cup_qualification/1949_fifa_world_cup_qualification.txt) (19/17) [1950](fifa_world_cup_qualification/1950_fifa_world_cup_qualification.txt) (4/6) [1953](fifa_world_cup_qualification/1953_fifa_world_cup_qualification.txt) (30/21) [1954](fifa_world_cup_qualification/1954_fifa_world_cup_qualification.txt) (21/19) [1956](fifa_world_cup_qualification/1956_fifa_world_cup_qualification.txt) (4/7) [1957](fifa_world_cup_qualification/1957_fifa_world_cup_qualification.txt) (82/45) [1958](fifa_world_cup_qualification/1958_fifa_world_cup_qualification.txt) (3/4) [1960](fifa_world_cup_qualification/1960_fifa_world_cup_qualification.txt) (25/28) [1961](fifa_world_cup_qualification/1961_fifa_world_cup_qualification.txt) (66/42) [1964](fifa_world_cup_qualification/1964_fifa_world_cup_qualification.txt) (14/16) [1965](fifa_world_cup_qualification/1965_fifa_world_cup_qualification.txt) (113/51) [1968](fifa_world_cup_qualification/1968_fifa_world_cup_qualification.txt) (54/44) [1969](fifa_world_cup_qualification/1969_fifa_world_cup_qualification.txt) (118/58) [1971](fifa_world_cup_qualification/1971_fifa_world_cup_qualification.txt) (1/2) [1972](fifa_world_cup_qualification/1972_fifa_world_cup_qualification.txt) (56/51) [1973](fifa_world_cup_qualification/1973_fifa_world_cup_qualification.txt) (134/66) [1974](fifa_world_cup_qualification/1974_fifa_world_cup_qualification.txt) (1/2) [1976](fifa_world_cup_qualification/1976_fifa_world_cup_qualification.txt) (50/51) [1977](fifa_world_cup_qualification/1977_fifa_world_cup_qualification.txt) (150/70) [1980](fifa_world_cup_qualification/1980_fifa_world_cup_qualification.txt) (89/62) [1981](fifa_world_cup_qualification/1981_fifa_world_cup_qualification.txt) (159/66) [1982](fifa_world_cup_qualification/1982_fifa_world_cup_qualification.txt) (1/2) [1984](fifa_world_cup_qualification/1984_fifa_world_cup_qualification.txt) (63/52) [1985](fifa_world_cup_qualification/1985_fifa_world_cup_qualification.txt) (211/86) [1988](fifa_world_cup_qualification/1988_fifa_world_cup_qualification.txt) (49/46) [1989](fifa_world_cup_qualification/1989_fifa_world_cup_qualification.txt) (229/82) [1992](fifa_world_cup_qualification/1992_fifa_world_cup_qualification.txt) (156/93) [1993](fifa_world_cup_qualification/1993_fifa_world_cup_qualification.txt) (339/108) [1996](fifa_world_cup_qualification/1996_fifa_world_cup_qualification.txt) (232/132) [1997](fifa_world_cup_qualification/1997_fifa_world_cup_qualification.txt) (410/124) [2000](fifa_world_cup_qualification/2000_fifa_world_cup_qualification.txt) (283/147) [2001](fifa_world_cup_qualification/2001_fifa_world_cup_qualification.txt) (491/138) [2003](fifa_world_cup_qualification/2003_fifa_world_cup_qualification.txt) (72/62) [2004](fifa_world_cup_qualification/2004_fifa_world_cup_qualification.txt) (408/167) [2005](fifa_world_cup_qualification/2005_fifa_world_cup_qualification.txt) (352/107) [2007](fifa_world_cup_qualification/2007_fifa_world_cup_qualification.txt) (66/51) [2008](fifa_world_cup_qualification/2008_fifa_world_cup_qualification.txt) (414/164) [2009](fifa_world_cup_qualification/2009_fifa_world_cup_qualification.txt) (332/100) [2011](fifa_world_cup_qualification/2011_fifa_world_cup_qualification.txt) (216/107) [2012](fifa_world_cup_qualification/2012_fifa_world_cup_qualification.txt) (241/138) [2013](fifa_world_cup_qualification/2013_fifa_world_cup_qualification.txt) (347/122) [2015](fifa_world_cup_qualification/2015_fifa_world_cup_qualification.txt) (280/147) [2016](fifa_world_cup_qualification/2016_fifa_world_cup_qualification.txt) (260/137) [2017](fifa_world_cup_qualification/2017_fifa_world_cup_qualification.txt) (311/108) [2019](fifa_world_cup_qualification/2019_fifa_world_cup_qualification.txt) (136/74) [2020](fifa_world_cup_qualification/2020_fifa_world_cup_qualification.txt) (21/12) [2021](fifa_world_cup_qualification/2021_fifa_world_cup_qualification.txt) (609/178) [2022](fifa_world_cup_qualification/2022_fifa_world_cup_qualification.txt) (100/58) [2023](fifa_world_cup_qualification/2023_fifa_world_cup_qualification.txt) (138/109) [2024](fifa_world_cup_qualification/2024_fifa_world_cup_qualification.txt) (255/141) [2025](fifa_world_cup_qualification/2025_fifa_world_cup_qualification.txt) (492/169) [2026](fifa_world_cup_qualification/2026_fifa_world_cup_qualification.txt) (16/22)
 
-## FIFI Wild Cup (1)
-2006 (10/6)
+## [FIFI Wild Cup](more/fifi_wild_cup) (1)
+[2006](more/fifi_wild_cup/2006_fifi_wild_cup.txt) (10/6)
 
-## Far Eastern Championship Games (10)
-1913 (1/2) 1915 (2/2) 1917 (3/3) 1919 (3/2) 1921 (3/3) 1923 (3/3) 1925 (3/3) 1927 (3/3) 1930 (3/3) 1934 (6/4)
+## [Far Eastern Championship Games](more/far_eastern_championship_games) (10)
+[1913](more/far_eastern_championship_games/1913_far_eastern_championship_games.txt) (1/2) [1915](more/far_eastern_championship_games/1915_far_eastern_championship_games.txt) (2/2) [1917](more/far_eastern_championship_games/1917_far_eastern_championship_games.txt) (3/3) [1919](more/far_eastern_championship_games/1919_far_eastern_championship_games.txt) (3/2) [1921](more/far_eastern_championship_games/1921_far_eastern_championship_games.txt) (3/3) [1923](more/far_eastern_championship_games/1923_far_eastern_championship_games.txt) (3/3) [1925](more/far_eastern_championship_games/1925_far_eastern_championship_games.txt) (3/3) [1927](more/far_eastern_championship_games/1927_far_eastern_championship_games.txt) (3/3) [1930](more/far_eastern_championship_games/1930_far_eastern_championship_games.txt) (3/3) [1934](more/far_eastern_championship_games/1934_far_eastern_championship_games.txt) (6/4)
 
-## Four Nations Tournament (2)
-1988 (4/4) 1993 (4/4)
+## [Four Nations Tournament](more/four_nations_tournament) (2)
+[1988](more/four_nations_tournament/1988_four_nations_tournament.txt) (4/4) [1993](more/four_nations_tournament/1993_four_nations_tournament.txt) (4/4)
 
-## Four Nations' Cup (1)
-1999 (2/3)
+## [Four Nations' Cup](more/four_nations_cup) (1)
+[1999](more/four_nations_cup/1999_four_nations_cup.txt) (2/3)
 
-## Friendly (140)
-1872 (1/2) 1873 (1/2) 1874 (1/2) 1875 (1/2) 1876 (2/3) 1877 (2/3) 1878 (2/3) 1879 (3/3) 1880 (3/3) 1881 (3/3) 1882 (5/4) 1883 (5/4) 1885 (1/2) 1886 (1/2) 1888 (1/2) 1902 (2/4) 1903 (4/5) 1904 (2/2) 1905 (6/8) 1906 (6/6) 1907 (7/6) 1908 (17/11) 1909 (11/8) 1910 (19/15) 1911 (22/12) 1912 (26/16) 1913 (25/16) 1914 (22/16) 1915 (13/9) 1916 (20/12) 1917 (15/10) 1918 (11/6) 1919 (21/13) 1920 (21/15) 1921 (41/33) 1922 (47/31) 1923 (67/38) 1924 (64/38) 1925 (62/36) 1926 (65/33) 1927 (55/31) 1928 (53/39) 1929 (51/32) 1930 (58/36) 1931 (58/36) 1932 (60/39) 1933 (60/32) 1934 (44/32) 1935 (65/36) 1936 (54/35) 1937 (64/40) 1938 (82/46) 1939 (64/39) 1940 (45/33) 1941 (32/24) 1942 (34/27) 1943 (21/17) 1944 (30/16) 1945 (35/27) 1946 (52/33) 1947 (84/51) 1948 (67/51) 1949 (83/59) 1950 (89/60) 1951 (78/55) 1952 (87/57) 1953 (87/71) 1954 (86/62) 1955 (91/57) 1956 (122/78) 1957 (68/64) 1958 (99/65) 1959 (93/73) 1960 (116/68) 1961 (88/63) 1962 (134/79) 1963 (140/87) 1964 (109/76) 1965 (122/82) 1966 (174/85) 1967 (139/88) 1968 (144/85) 1969 (145/90) 1970 (136/85) 1971 (141/98) 1972 (145/94) 1973 (148/92) 1974 (159/91) 1975 (136/92) 1976 (163/106) 1977 (181/111) 1978 (148/94) 1979 (158/102) 1980 (215/107) 1981 (158/100) 1982 (152/96) 1983 (195/108) 1984 (243/112) 1985 (220/116) 1986 (186/106) 1987 (147/105) 1988 (226/106) 1989 (191/95) 1990 (210/107) 1991 (177/102) 1992 (231/127) 1993 (192/118) 1994 (278/124) 1995 (201/107) 1996 (304/131) 1997 (209/132) 1998 (295/146) 1999 (284/140) 2000 (376/175) 2001 (261/153) 2002 (355/175) 2003 (322/157) 2004 (376/167) 2005 (274/161) 2006 (356/165) 2007 (326/178) 2008 (410/184) 2009 (319/162) 2010 (422/176) 2011 (383/190) 2012 (409/186) 2013 (326/174) 2014 (384/182) 2015 (290/187) 2016 (295/172) 2017 (295/184) 2018 (431/195) 2019 (249/172) 2020 (104/108) 2021 (215/143) 2022 (348/182) 2023 (252/163) 2024 (243/173) 2025 (221/161) 2026 (76/86)
+## [Friendly](friendly) (140)
+[1872](friendly/1872_friendly.txt) (1/2) [1873](friendly/1873_friendly.txt) (1/2) [1874](friendly/1874_friendly.txt) (1/2) [1875](friendly/1875_friendly.txt) (1/2) [1876](friendly/1876_friendly.txt) (2/3) [1877](friendly/1877_friendly.txt) (2/3) [1878](friendly/1878_friendly.txt) (2/3) [1879](friendly/1879_friendly.txt) (3/3) [1880](friendly/1880_friendly.txt) (3/3) [1881](friendly/1881_friendly.txt) (3/3) [1882](friendly/1882_friendly.txt) (5/4) [1883](friendly/1883_friendly.txt) (5/4) [1885](friendly/1885_friendly.txt) (1/2) [1886](friendly/1886_friendly.txt) (1/2) [1888](friendly/1888_friendly.txt) (1/2) [1902](friendly/1902_friendly.txt) (2/4) [1903](friendly/1903_friendly.txt) (4/5) [1904](friendly/1904_friendly.txt) (2/2) [1905](friendly/1905_friendly.txt) (6/8) [1906](friendly/1906_friendly.txt) (6/6) [1907](friendly/1907_friendly.txt) (7/6) [1908](friendly/1908_friendly.txt) (17/11) [1909](friendly/1909_friendly.txt) (11/8) [1910](friendly/1910_friendly.txt) (19/15) [1911](friendly/1911_friendly.txt) (22/12) [1912](friendly/1912_friendly.txt) (26/16) [1913](friendly/1913_friendly.txt) (25/16) [1914](friendly/1914_friendly.txt) (22/16) [1915](friendly/1915_friendly.txt) (13/9) [1916](friendly/1916_friendly.txt) (20/12) [1917](friendly/1917_friendly.txt) (15/10) [1918](friendly/1918_friendly.txt) (11/6) [1919](friendly/1919_friendly.txt) (21/13) [1920](friendly/1920_friendly.txt) (21/15) [1921](friendly/1921_friendly.txt) (41/33) [1922](friendly/1922_friendly.txt) (47/31) [1923](friendly/1923_friendly.txt) (67/38) [1924](friendly/1924_friendly.txt) (64/38) [1925](friendly/1925_friendly.txt) (62/36) [1926](friendly/1926_friendly.txt) (65/33) [1927](friendly/1927_friendly.txt) (55/31) [1928](friendly/1928_friendly.txt) (53/39) [1929](friendly/1929_friendly.txt) (51/32) [1930](friendly/1930_friendly.txt) (58/36) [1931](friendly/1931_friendly.txt) (58/36) [1932](friendly/1932_friendly.txt) (60/39) [1933](friendly/1933_friendly.txt) (60/32) [1934](friendly/1934_friendly.txt) (44/32) [1935](friendly/1935_friendly.txt) (65/36) [1936](friendly/1936_friendly.txt) (54/35) [1937](friendly/1937_friendly.txt) (64/40) [1938](friendly/1938_friendly.txt) (82/46) [1939](friendly/1939_friendly.txt) (64/39) [1940](friendly/1940_friendly.txt) (45/33) [1941](friendly/1941_friendly.txt) (32/24) [1942](friendly/1942_friendly.txt) (34/27) [1943](friendly/1943_friendly.txt) (21/17) [1944](friendly/1944_friendly.txt) (30/16) [1945](friendly/1945_friendly.txt) (35/27) [1946](friendly/1946_friendly.txt) (52/33) [1947](friendly/1947_friendly.txt) (84/51) [1948](friendly/1948_friendly.txt) (67/51) [1949](friendly/1949_friendly.txt) (83/59) [1950](friendly/1950_friendly.txt) (89/60) [1951](friendly/1951_friendly.txt) (78/55) [1952](friendly/1952_friendly.txt) (87/57) [1953](friendly/1953_friendly.txt) (87/71) [1954](friendly/1954_friendly.txt) (86/62) [1955](friendly/1955_friendly.txt) (91/57) [1956](friendly/1956_friendly.txt) (122/78) [1957](friendly/1957_friendly.txt) (68/64) [1958](friendly/1958_friendly.txt) (99/65) [1959](friendly/1959_friendly.txt) (93/73) [1960](friendly/1960_friendly.txt) (116/68) [1961](friendly/1961_friendly.txt) (88/63) [1962](friendly/1962_friendly.txt) (134/79) [1963](friendly/1963_friendly.txt) (140/87) [1964](friendly/1964_friendly.txt) (109/76) [1965](friendly/1965_friendly.txt) (122/82) [1966](friendly/1966_friendly.txt) (174/85) [1967](friendly/1967_friendly.txt) (139/88) [1968](friendly/1968_friendly.txt) (144/85) [1969](friendly/1969_friendly.txt) (145/90) [1970](friendly/1970_friendly.txt) (136/85) [1971](friendly/1971_friendly.txt) (141/98) [1972](friendly/1972_friendly.txt) (145/94) [1973](friendly/1973_friendly.txt) (148/92) [1974](friendly/1974_friendly.txt) (159/91) [1975](friendly/1975_friendly.txt) (136/92) [1976](friendly/1976_friendly.txt) (163/106) [1977](friendly/1977_friendly.txt) (181/111) [1978](friendly/1978_friendly.txt) (148/94) [1979](friendly/1979_friendly.txt) (158/102) [1980](friendly/1980_friendly.txt) (215/107) [1981](friendly/1981_friendly.txt) (158/100) [1982](friendly/1982_friendly.txt) (152/96) [1983](friendly/1983_friendly.txt) (195/108) [1984](friendly/1984_friendly.txt) (243/112) [1985](friendly/1985_friendly.txt) (220/116) [1986](friendly/1986_friendly.txt) (186/106) [1987](friendly/1987_friendly.txt) (147/105) [1988](friendly/1988_friendly.txt) (226/106) [1989](friendly/1989_friendly.txt) (191/95) [1990](friendly/1990_friendly.txt) (210/107) [1991](friendly/1991_friendly.txt) (177/102) [1992](friendly/1992_friendly.txt) (231/127) [1993](friendly/1993_friendly.txt) (192/118) [1994](friendly/1994_friendly.txt) (278/124) [1995](friendly/1995_friendly.txt) (201/107) [1996](friendly/1996_friendly.txt) (304/131) [1997](friendly/1997_friendly.txt) (209/132) [1998](friendly/1998_friendly.txt) (295/146) [1999](friendly/1999_friendly.txt) (284/140) [2000](friendly/2000_friendly.txt) (376/175) [2001](friendly/2001_friendly.txt) (261/153) [2002](friendly/2002_friendly.txt) (355/175) [2003](friendly/2003_friendly.txt) (322/157) [2004](friendly/2004_friendly.txt) (376/167) [2005](friendly/2005_friendly.txt) (274/161) [2006](friendly/2006_friendly.txt) (356/165) [2007](friendly/2007_friendly.txt) (326/178) [2008](friendly/2008_friendly.txt) (410/184) [2009](friendly/2009_friendly.txt) (319/162) [2010](friendly/2010_friendly.txt) (422/176) [2011](friendly/2011_friendly.txt) (383/190) [2012](friendly/2012_friendly.txt) (409/186) [2013](friendly/2013_friendly.txt) (326/174) [2014](friendly/2014_friendly.txt) (384/182) [2015](friendly/2015_friendly.txt) (290/187) [2016](friendly/2016_friendly.txt) (295/172) [2017](friendly/2017_friendly.txt) (295/184) [2018](friendly/2018_friendly.txt) (431/195) [2019](friendly/2019_friendly.txt) (249/172) [2020](friendly/2020_friendly.txt) (104/108) [2021](friendly/2021_friendly.txt) (215/143) [2022](friendly/2022_friendly.txt) (348/182) [2023](friendly/2023_friendly.txt) (252/163) [2024](friendly/2024_friendly.txt) (243/173) [2025](friendly/2025_friendly.txt) (221/161) [2026](friendly/2026_friendly.txt) (76/86)
 
-## GaNEFo (1)
-1966 (14/6)
+## [GaNEFo](more/ganefo) (1)
+[1966](more/ganefo/1966_ganefo.txt) (14/6)
 
-## Gold Cup (18)
-1991 (16/8) 1993 (16/8) 1996 (13/9) 1998 (16/10) 2000 (19/12) 2002 (20/12) 2003 (20/12) 2005 (25/12) 2007 (25/12) 2009 (25/12) 2011 (25/12) 2013 (25/12) 2015 (26/12) 2017 (25/12) 2019 (31/16) 2021 (31/16) 2023 (31/16) 2025 (31/16)
+## [Gold Cup](gold_cup) (18)
+[1991](gold_cup/1991_gold_cup.txt) (16/8) [1993](gold_cup/1993_gold_cup.txt) (16/8) [1996](gold_cup/1996_gold_cup.txt) (13/9) [1998](gold_cup/1998_gold_cup.txt) (16/10) [2000](gold_cup/2000_gold_cup.txt) (19/12) [2002](gold_cup/2002_gold_cup.txt) (20/12) [2003](gold_cup/2003_gold_cup.txt) (20/12) [2005](gold_cup/2005_gold_cup.txt) (25/12) [2007](gold_cup/2007_gold_cup.txt) (25/12) [2009](gold_cup/2009_gold_cup.txt) (25/12) [2011](gold_cup/2011_gold_cup.txt) (25/12) [2013](gold_cup/2013_gold_cup.txt) (25/12) [2015](gold_cup/2015_gold_cup.txt) (26/12) [2017](gold_cup/2017_gold_cup.txt) (25/12) [2019](gold_cup/2019_gold_cup.txt) (31/16) [2021](gold_cup/2021_gold_cup.txt) (31/16) [2023](gold_cup/2023_gold_cup.txt) (31/16) [2025](gold_cup/2025_gold_cup.txt) (31/16)
 
-## Gold Cup qualification (9)
-1997 (1/2) 1999 (6/4) 2001 (2/2) 2002 (30/21) 2003 (15/9) 2015 (2/2) 2021 (9/12) 2023 (9/12) 2025 (14/14)
+## [Gold Cup qualification](gold_cup_qualification) (9)
+[1997](gold_cup_qualification/1997_gold_cup_qualification.txt) (1/2) [1999](gold_cup_qualification/1999_gold_cup_qualification.txt) (6/4) [2001](gold_cup_qualification/2001_gold_cup_qualification.txt) (2/2) [2002](gold_cup_qualification/2002_gold_cup_qualification.txt) (30/21) [2003](gold_cup_qualification/2003_gold_cup_qualification.txt) (15/9) [2015](gold_cup_qualification/2015_gold_cup_qualification.txt) (2/2) [2021](gold_cup_qualification/2021_gold_cup_qualification.txt) (9/12) [2023](gold_cup_qualification/2023_gold_cup_qualification.txt) (9/12) [2025](gold_cup_qualification/2025_gold_cup_qualification.txt) (14/14)
 
-## Great Wall Cup (3)
-1983 (2/3) 1984 (1/2) 1986 (1/2)
+## [Great Wall Cup](more/great_wall_cup) (3)
+[1983](more/great_wall_cup/1983_great_wall_cup.txt) (2/3) [1984](more/great_wall_cup/1984_great_wall_cup.txt) (1/2) [1986](more/great_wall_cup/1986_great_wall_cup.txt) (1/2)
 
-## Guangzhou International Friendship Tournament (1)
-1980 (4/3)
+## [Guangzhou International Friendship Tournament](more/guangzhou_international_friendship_tournament) (1)
+[1980](more/guangzhou_international_friendship_tournament/1980_guangzhou_international_friendship_tournament.txt) (4/3)
 
-## Gulf Cup (28)
-1970 (6/4) 1972 (10/5) 1974 (13/6) 1976 (22/7) 1979 (21/7) 1982 (15/6) 1984 (22/7) 1986 (21/7) 1988 (21/7) 1990 (10/5) 1992 (15/6) 1994 (15/6) 1996 (15/6) 1998 (15/6) 2002 (15/6) 2003 (8/7) 2004 (29/8) 2007 (15/8) 2009 (15/8) 2010 (15/8) 2013 (16/8) 2014 (16/8) 2017 (12/8) 2018 (3/4) 2019 (15/8) 2023 (15/8) 2024 (14/8) 2025 (1/2)
+## [Gulf Cup](more/gulf_cup) (28)
+[1970](more/gulf_cup/1970_gulf_cup.txt) (6/4) [1972](more/gulf_cup/1972_gulf_cup.txt) (10/5) [1974](more/gulf_cup/1974_gulf_cup.txt) (13/6) [1976](more/gulf_cup/1976_gulf_cup.txt) (22/7) [1979](more/gulf_cup/1979_gulf_cup.txt) (21/7) [1982](more/gulf_cup/1982_gulf_cup.txt) (15/6) [1984](more/gulf_cup/1984_gulf_cup.txt) (22/7) [1986](more/gulf_cup/1986_gulf_cup.txt) (21/7) [1988](more/gulf_cup/1988_gulf_cup.txt) (21/7) [1990](more/gulf_cup/1990_gulf_cup.txt) (10/5) [1992](more/gulf_cup/1992_gulf_cup.txt) (15/6) [1994](more/gulf_cup/1994_gulf_cup.txt) (15/6) [1996](more/gulf_cup/1996_gulf_cup.txt) (15/6) [1998](more/gulf_cup/1998_gulf_cup.txt) (15/6) [2002](more/gulf_cup/2002_gulf_cup.txt) (15/6) [2003](more/gulf_cup/2003_gulf_cup.txt) (8/7) [2004](more/gulf_cup/2004_gulf_cup.txt) (29/8) [2007](more/gulf_cup/2007_gulf_cup.txt) (15/8) [2009](more/gulf_cup/2009_gulf_cup.txt) (15/8) [2010](more/gulf_cup/2010_gulf_cup.txt) (15/8) [2013](more/gulf_cup/2013_gulf_cup.txt) (16/8) [2014](more/gulf_cup/2014_gulf_cup.txt) (16/8) [2017](more/gulf_cup/2017_gulf_cup.txt) (12/8) [2018](more/gulf_cup/2018_gulf_cup.txt) (3/4) [2019](more/gulf_cup/2019_gulf_cup.txt) (15/8) [2023](more/gulf_cup/2023_gulf_cup.txt) (15/8) [2024](more/gulf_cup/2024_gulf_cup.txt) (14/8) [2025](more/gulf_cup/2025_gulf_cup.txt) (1/2)
 
-## Hungary Heritage Cup (1)
-2016 (3/4)
+## [Hungary Heritage Cup](more/hungary_heritage_cup) (1)
+[2016](more/hungary_heritage_cup/2016_hungary_heritage_cup.txt) (3/4)
 
-## Indian Ocean Island Games (11)
-1979 (9/5) 1985 (7/6) 1990 (8/5) 1993 (9/5) 1998 (9/5) 2003 (9/5) 2007 (10/6) 2011 (13/7) 2015 (13/7) 2019 (13/7) 2023 (10/6)
+## [Indian Ocean Island Games](more/indian_ocean_island_games) (11)
+[1979](more/indian_ocean_island_games/1979_indian_ocean_island_games.txt) (9/5) [1985](more/indian_ocean_island_games/1985_indian_ocean_island_games.txt) (7/6) [1990](more/indian_ocean_island_games/1990_indian_ocean_island_games.txt) (8/5) [1993](more/indian_ocean_island_games/1993_indian_ocean_island_games.txt) (9/5) [1998](more/indian_ocean_island_games/1998_indian_ocean_island_games.txt) (9/5) [2003](more/indian_ocean_island_games/2003_indian_ocean_island_games.txt) (9/5) [2007](more/indian_ocean_island_games/2007_indian_ocean_island_games.txt) (10/6) [2011](more/indian_ocean_island_games/2011_indian_ocean_island_games.txt) (13/7) [2015](more/indian_ocean_island_games/2015_indian_ocean_island_games.txt) (13/7) [2019](more/indian_ocean_island_games/2019_indian_ocean_island_games.txt) (13/7) [2023](more/indian_ocean_island_games/2023_indian_ocean_island_games.txt) (10/6)
 
-## Indonesia Tournament (13)
-1970 (10/6) 1971 (19/9) 1972 (11/9) 1973 (3/3) 1974 (4/4) 1975 (8/5) 1976 (3/3) 1978 (8/5) 1981 (2/3) 1985 (1/2) 1986 (1/2) 1987 (4/3) 1988 (1/2)
+## [Indonesia Tournament](more/indonesia_tournament) (13)
+[1970](more/indonesia_tournament/1970_indonesia_tournament.txt) (10/6) [1971](more/indonesia_tournament/1971_indonesia_tournament.txt) (19/9) [1972](more/indonesia_tournament/1972_indonesia_tournament.txt) (11/9) [1973](more/indonesia_tournament/1973_indonesia_tournament.txt) (3/3) [1974](more/indonesia_tournament/1974_indonesia_tournament.txt) (4/4) [1975](more/indonesia_tournament/1975_indonesia_tournament.txt) (8/5) [1976](more/indonesia_tournament/1976_indonesia_tournament.txt) (3/3) [1978](more/indonesia_tournament/1978_indonesia_tournament.txt) (8/5) [1981](more/indonesia_tournament/1981_indonesia_tournament.txt) (2/3) [1985](more/indonesia_tournament/1985_indonesia_tournament.txt) (1/2) [1986](more/indonesia_tournament/1986_indonesia_tournament.txt) (1/2) [1987](more/indonesia_tournament/1987_indonesia_tournament.txt) (4/3) [1988](more/indonesia_tournament/1988_indonesia_tournament.txt) (1/2)
 
-## Inter Games (1)
-2019 (19/10)
+## [Inter Games](more/inter_games) (1)
+[2019](more/inter_games/2019_inter_games.txt) (19/10)
 
-## Inter-Allied Games (1)
-1919 (13/8)
+## [Inter-Allied Games](more/inter-allied_games) (1)
+[1919](more/inter-allied_games/1919_inter-allied_games.txt) (13/8)
 
-## Intercontinental Cup (3)
-2018 (7/4) 2019 (7/4) 2024 (3/3)
+## [Intercontinental Cup](more/intercontinental_cup) (3)
+[2018](more/intercontinental_cup/2018_intercontinental_cup.txt) (7/4) [2019](more/intercontinental_cup/2019_intercontinental_cup.txt) (7/4) [2024](more/intercontinental_cup/2024_intercontinental_cup.txt) (3/3)
 
-## International Tournament of Peoples, Cultures and Tribes (1)
-2013 (7/5)
+## [International Tournament of Peoples, Cultures and Tribes](more/international_tournament_of_peoples_cultures_and_tribes) (1)
+[2013](more/international_tournament_of_peoples_cultures_and_tribes/2013_international_tournament_of_peoples_cultures_and_tribes.txt) (7/5)
 
-## Island Games (17)
-1989 (10/5) 1991 (16/8) 1993 (16/8) 1995 (18/8) 1997 (20/9) 1999 (31/14) 2001 (24/12) 2003 (30/14) 2005 (25/10) 2007 (21/11) 2009 (34/16) 2011 (29/15) 2013 (8/4) 2015 (34/16) 2017 (34/16) 2023 (29/15) 2025 (15/9)
+## [Island Games](more/island_games) (17)
+[1989](more/island_games/1989_island_games.txt) (10/5) [1991](more/island_games/1991_island_games.txt) (16/8) [1993](more/island_games/1993_island_games.txt) (16/8) [1995](more/island_games/1995_island_games.txt) (18/8) [1997](more/island_games/1997_island_games.txt) (20/9) [1999](more/island_games/1999_island_games.txt) (31/14) [2001](more/island_games/2001_island_games.txt) (24/12) [2003](more/island_games/2003_island_games.txt) (30/14) [2005](more/island_games/2005_island_games.txt) (25/10) [2007](more/island_games/2007_island_games.txt) (21/11) [2009](more/island_games/2009_island_games.txt) (34/16) [2011](more/island_games/2011_island_games.txt) (29/15) [2013](more/island_games/2013_island_games.txt) (8/4) [2015](more/island_games/2015_island_games.txt) (34/16) [2017](more/island_games/2017_island_games.txt) (34/16) [2023](more/island_games/2023_island_games.txt) (29/15) [2025](more/island_games/2025_island_games.txt) (15/9)
 
-## Joe Robbie Cup (1)
-1994 (4/4)
+## [Joe Robbie Cup](more/joe_robbie_cup) (1)
+[1994](more/joe_robbie_cup/1994_joe_robbie_cup.txt) (4/4)
 
-## Jordan International Tournament (2)
-1992 (13/7) 2022 (4/4)
+## [Jordan International Tournament](more/jordan_international_tournament) (2)
+[1992](more/jordan_international_tournament/1992_jordan_international_tournament.txt) (13/7) [2022](more/jordan_international_tournament/2022_jordan_international_tournament.txt) (4/4)
 
-## King Hassan II Tournament (3)
-1996 (4/4) 1998 (4/4) 2000 (4/4)
+## [King Hassan II Tournament](more/king_hassan_ii_tournament) (3)
+[1996](more/king_hassan_ii_tournament/1996_king_hassan_ii_tournament.txt) (4/4) [1998](more/king_hassan_ii_tournament/1998_king_hassan_ii_tournament.txt) (4/4) [2000](more/king_hassan_ii_tournament/2000_king_hassan_ii_tournament.txt) (4/4)
 
-## King's Cup (44)
-1968 (13/6) 1969 (16/8) 1970 (20/9) 1971 (9/6) 1972 (12/5) 1973 (14/8) 1974 (15/7) 1975 (8/5) 1976 (9/6) 1977 (6/4) 1978 (2/3) 1979 (3/3) 1980 (3/3) 1981 (6/4) 1982 (8/6) 1986 (1/2) 1987 (2/4) 1988 (4/5) 1989 (5/5) 1990 (3/3) 1993 (2/2) 1995 (1/2) 1996 (2/2) 1997 (4/3) 1998 (4/3) 1999 (1/2) 2000 (5/4) 2001 (8/4) 2002 (8/4) 2003 (8/4) 2004 (4/4) 2005 (4/3) 2006 (7/4) 2007 (3/3) 2009 (2/3) 2010 (3/3) 2012 (1/2) 2013 (4/4) 2016 (4/4) 2017 (3/4) 2022 (4/4) 2023 (4/4) 2024 (4/4) 2025 (4/4)
+## [King's Cup](more/kings_cup) (44)
+[1968](more/kings_cup/1968_kings_cup.txt) (13/6) [1969](more/kings_cup/1969_kings_cup.txt) (16/8) [1970](more/kings_cup/1970_kings_cup.txt) (20/9) [1971](more/kings_cup/1971_kings_cup.txt) (9/6) [1972](more/kings_cup/1972_kings_cup.txt) (12/5) [1973](more/kings_cup/1973_kings_cup.txt) (14/8) [1974](more/kings_cup/1974_kings_cup.txt) (15/7) [1975](more/kings_cup/1975_kings_cup.txt) (8/5) [1976](more/kings_cup/1976_kings_cup.txt) (9/6) [1977](more/kings_cup/1977_kings_cup.txt) (6/4) [1978](more/kings_cup/1978_kings_cup.txt) (2/3) [1979](more/kings_cup/1979_kings_cup.txt) (3/3) [1980](more/kings_cup/1980_kings_cup.txt) (3/3) [1981](more/kings_cup/1981_kings_cup.txt) (6/4) [1982](more/kings_cup/1982_kings_cup.txt) (8/6) [1986](more/kings_cup/1986_kings_cup.txt) (1/2) [1987](more/kings_cup/1987_kings_cup.txt) (2/4) [1988](more/kings_cup/1988_kings_cup.txt) (4/5) [1989](more/kings_cup/1989_kings_cup.txt) (5/5) [1990](more/kings_cup/1990_kings_cup.txt) (3/3) [1993](more/kings_cup/1993_kings_cup.txt) (2/2) [1995](more/kings_cup/1995_kings_cup.txt) (1/2) [1996](more/kings_cup/1996_kings_cup.txt) (2/2) [1997](more/kings_cup/1997_kings_cup.txt) (4/3) [1998](more/kings_cup/1998_kings_cup.txt) (4/3) [1999](more/kings_cup/1999_kings_cup.txt) (1/2) [2000](more/kings_cup/2000_kings_cup.txt) (5/4) [2001](more/kings_cup/2001_kings_cup.txt) (8/4) [2002](more/kings_cup/2002_kings_cup.txt) (8/4) [2003](more/kings_cup/2003_kings_cup.txt) (8/4) [2004](more/kings_cup/2004_kings_cup.txt) (4/4) [2005](more/kings_cup/2005_kings_cup.txt) (4/3) [2006](more/kings_cup/2006_kings_cup.txt) (7/4) [2007](more/kings_cup/2007_kings_cup.txt) (3/3) [2009](more/kings_cup/2009_kings_cup.txt) (2/3) [2010](more/kings_cup/2010_kings_cup.txt) (3/3) [2012](more/kings_cup/2012_kings_cup.txt) (1/2) [2013](more/kings_cup/2013_kings_cup.txt) (4/4) [2016](more/kings_cup/2016_kings_cup.txt) (4/4) [2017](more/kings_cup/2017_kings_cup.txt) (3/4) [2022](more/kings_cup/2022_kings_cup.txt) (4/4) [2023](more/kings_cup/2023_kings_cup.txt) (4/4) [2024](more/kings_cup/2024_kings_cup.txt) (4/4) [2025](more/kings_cup/2025_kings_cup.txt) (4/4)
 
-## Kirin Challenge Cup (9)
-2013 (1/2) 2014 (1/2) 2015 (2/3) 2016 (1/2) 2017 (3/4) 2018 (5/6) 2019 (6/7) 2021 (1/2) 2022 (2/3)
+## [Kirin Challenge Cup](more/kirin_challenge_cup) (9)
+[2013](more/kirin_challenge_cup/2013_kirin_challenge_cup.txt) (1/2) [2014](more/kirin_challenge_cup/2014_kirin_challenge_cup.txt) (1/2) [2015](more/kirin_challenge_cup/2015_kirin_challenge_cup.txt) (2/3) [2016](more/kirin_challenge_cup/2016_kirin_challenge_cup.txt) (1/2) [2017](more/kirin_challenge_cup/2017_kirin_challenge_cup.txt) (3/4) [2018](more/kirin_challenge_cup/2018_kirin_challenge_cup.txt) (5/6) [2019](more/kirin_challenge_cup/2019_kirin_challenge_cup.txt) (6/7) [2021](more/kirin_challenge_cup/2021_kirin_challenge_cup.txt) (1/2) [2022](more/kirin_challenge_cup/2022_kirin_challenge_cup.txt) (2/3)
 
-## Kirin Cup (33)
-1978 (1/2) 1979 (1/2) 1981 (1/2) 1982 (1/2) 1983 (1/2) 1984 (2/3) 1985 (1/2) 1986 (1/2) 1987 (1/2) 1988 (1/2) 1991 (1/2) 1992 (3/3) 1993 (3/3) 1994 (3/3) 1995 (3/3) 1996 (3/3) 1997 (3/3) 1998 (3/3) 1999 (3/3) 2000 (3/3) 2001 (3/3) 2002 (2/3) 2003 (2/3) 2004 (3/3) 2005 (3/3) 2006 (3/3) 2007 (3/3) 2008 (3/3) 2009 (3/3) 2011 (3/3) 2016 (4/4) 2022 (4/4) 2025 (4/5)
+## [Kirin Cup](more/kirin_cup) (33)
+[1978](more/kirin_cup/1978_kirin_cup.txt) (1/2) [1979](more/kirin_cup/1979_kirin_cup.txt) (1/2) [1981](more/kirin_cup/1981_kirin_cup.txt) (1/2) [1982](more/kirin_cup/1982_kirin_cup.txt) (1/2) [1983](more/kirin_cup/1983_kirin_cup.txt) (1/2) [1984](more/kirin_cup/1984_kirin_cup.txt) (2/3) [1985](more/kirin_cup/1985_kirin_cup.txt) (1/2) [1986](more/kirin_cup/1986_kirin_cup.txt) (1/2) [1987](more/kirin_cup/1987_kirin_cup.txt) (1/2) [1988](more/kirin_cup/1988_kirin_cup.txt) (1/2) [1991](more/kirin_cup/1991_kirin_cup.txt) (1/2) [1992](more/kirin_cup/1992_kirin_cup.txt) (3/3) [1993](more/kirin_cup/1993_kirin_cup.txt) (3/3) [1994](more/kirin_cup/1994_kirin_cup.txt) (3/3) [1995](more/kirin_cup/1995_kirin_cup.txt) (3/3) [1996](more/kirin_cup/1996_kirin_cup.txt) (3/3) [1997](more/kirin_cup/1997_kirin_cup.txt) (3/3) [1998](more/kirin_cup/1998_kirin_cup.txt) (3/3) [1999](more/kirin_cup/1999_kirin_cup.txt) (3/3) [2000](more/kirin_cup/2000_kirin_cup.txt) (3/3) [2001](more/kirin_cup/2001_kirin_cup.txt) (3/3) [2002](more/kirin_cup/2002_kirin_cup.txt) (2/3) [2003](more/kirin_cup/2003_kirin_cup.txt) (2/3) [2004](more/kirin_cup/2004_kirin_cup.txt) (3/3) [2005](more/kirin_cup/2005_kirin_cup.txt) (3/3) [2006](more/kirin_cup/2006_kirin_cup.txt) (3/3) [2007](more/kirin_cup/2007_kirin_cup.txt) (3/3) [2008](more/kirin_cup/2008_kirin_cup.txt) (3/3) [2009](more/kirin_cup/2009_kirin_cup.txt) (3/3) [2011](more/kirin_cup/2011_kirin_cup.txt) (3/3) [2016](more/kirin_cup/2016_kirin_cup.txt) (4/4) [2022](more/kirin_cup/2022_kirin_cup.txt) (4/4) [2025](more/kirin_cup/2025_kirin_cup.txt) (4/5)
 
-## Korea Cup (23)
-1971 (15/8) 1972 (16/8) 1973 (10/6) 1974 (4/4) 1975 (3/4) 1976 (10/7) 1977 (6/5) 1978 (5/7) 1979 (7/7) 1980 (11/5) 1981 (9/7) 1982 (4/5) 1983 (10/7) 1984 (1/2) 1985 (6/7) 1987 (9/6) 1988 (1/2) 1989 (1/2) 1991 (8/5) 1993 (2/2) 1995 (5/4) 1997 (6/4) 1999 (6/4)
+## [Korea Cup](more/korea_cup) (23)
+[1971](more/korea_cup/1971_korea_cup.txt) (15/8) [1972](more/korea_cup/1972_korea_cup.txt) (16/8) [1973](more/korea_cup/1973_korea_cup.txt) (10/6) [1974](more/korea_cup/1974_korea_cup.txt) (4/4) [1975](more/korea_cup/1975_korea_cup.txt) (3/4) [1976](more/korea_cup/1976_korea_cup.txt) (10/7) [1977](more/korea_cup/1977_korea_cup.txt) (6/5) [1978](more/korea_cup/1978_korea_cup.txt) (5/7) [1979](more/korea_cup/1979_korea_cup.txt) (7/7) [1980](more/korea_cup/1980_korea_cup.txt) (11/5) [1981](more/korea_cup/1981_korea_cup.txt) (9/7) [1982](more/korea_cup/1982_korea_cup.txt) (4/5) [1983](more/korea_cup/1983_korea_cup.txt) (10/7) [1984](more/korea_cup/1984_korea_cup.txt) (1/2) [1985](more/korea_cup/1985_korea_cup.txt) (6/7) [1987](more/korea_cup/1987_korea_cup.txt) (9/6) [1988](more/korea_cup/1988_korea_cup.txt) (1/2) [1989](more/korea_cup/1989_korea_cup.txt) (1/2) [1991](more/korea_cup/1991_korea_cup.txt) (8/5) [1993](more/korea_cup/1993_korea_cup.txt) (2/2) [1995](more/korea_cup/1995_korea_cup.txt) (5/4) [1997](more/korea_cup/1997_korea_cup.txt) (6/4) [1999](more/korea_cup/1999_korea_cup.txt) (6/4)
 
-## Kuneitra Cup (1)
-1974 (15/10)
+## [Kuneitra Cup](more/kuneitra_cup) (1)
+[1974](more/kuneitra_cup/1974_kuneitra_cup.txt) (15/10)
 
-## Lunar New Year Cup (15)
-1986 (1/2) 1989 (1/2) 1994 (1/2) 1995 (2/3) 1996 (2/3) 1997 (2/3) 1998 (2/3) 1999 (2/3) 2000 (2/3) 2001 (2/3) 2002 (2/3) 2003 (1/2) 2004 (2/3) 2005 (1/2) 2006 (2/3)
+## [Lunar New Year Cup](more/lunar_new_year_cup) (15)
+[1986](more/lunar_new_year_cup/1986_lunar_new_year_cup.txt) (1/2) [1989](more/lunar_new_year_cup/1989_lunar_new_year_cup.txt) (1/2) [1994](more/lunar_new_year_cup/1994_lunar_new_year_cup.txt) (1/2) [1995](more/lunar_new_year_cup/1995_lunar_new_year_cup.txt) (2/3) [1996](more/lunar_new_year_cup/1996_lunar_new_year_cup.txt) (2/3) [1997](more/lunar_new_year_cup/1997_lunar_new_year_cup.txt) (2/3) [1998](more/lunar_new_year_cup/1998_lunar_new_year_cup.txt) (2/3) [1999](more/lunar_new_year_cup/1999_lunar_new_year_cup.txt) (2/3) [2000](more/lunar_new_year_cup/2000_lunar_new_year_cup.txt) (2/3) [2001](more/lunar_new_year_cup/2001_lunar_new_year_cup.txt) (2/3) [2002](more/lunar_new_year_cup/2002_lunar_new_year_cup.txt) (2/3) [2003](more/lunar_new_year_cup/2003_lunar_new_year_cup.txt) (1/2) [2004](more/lunar_new_year_cup/2004_lunar_new_year_cup.txt) (2/3) [2005](more/lunar_new_year_cup/2005_lunar_new_year_cup.txt) (1/2) [2006](more/lunar_new_year_cup/2006_lunar_new_year_cup.txt) (2/3)
 
-## MSG Prime Minister's Cup (4)
-2022 (6/5) 2023 (6/4) 2024 (6/4) 2025 (5/4)
+## [MSG Prime Minister's Cup](more/msg_prime_ministers_cup) (4)
+[2022](more/msg_prime_ministers_cup/2022_msg_prime_ministers_cup.txt) (6/5) [2023](more/msg_prime_ministers_cup/2023_msg_prime_ministers_cup.txt) (6/4) [2024](more/msg_prime_ministers_cup/2024_msg_prime_ministers_cup.txt) (6/4) [2025](more/msg_prime_ministers_cup/2025_msg_prime_ministers_cup.txt) (5/4)
 
-## Mahinda Rajapaksa Cup (1)
-2021 (7/4)
+## [Mahinda Rajapaksa Cup](more/mahinda_rajapaksa_cup) (1)
+[2021](more/mahinda_rajapaksa_cup/2021_mahinda_rajapaksa_cup.txt) (7/4)
 
-## Malta International Tournament (12)
-1988 (3/3) 1989 (6/4) 1990 (3/3) 1992 (1/2) 1994 (6/4) 1996 (6/4) 1998 (6/4) 2000 (6/4) 2002 (6/4) 2004 (3/3) 2006 (1/2) 2008 (6/4)
+## [Malta International Tournament](more/malta_international_tournament) (12)
+[1988](more/malta_international_tournament/1988_malta_international_tournament.txt) (3/3) [1989](more/malta_international_tournament/1989_malta_international_tournament.txt) (6/4) [1990](more/malta_international_tournament/1990_malta_international_tournament.txt) (3/3) [1992](more/malta_international_tournament/1992_malta_international_tournament.txt) (1/2) [1994](more/malta_international_tournament/1994_malta_international_tournament.txt) (6/4) [1996](more/malta_international_tournament/1996_malta_international_tournament.txt) (6/4) [1998](more/malta_international_tournament/1998_malta_international_tournament.txt) (6/4) [2000](more/malta_international_tournament/2000_malta_international_tournament.txt) (6/4) [2002](more/malta_international_tournament/2002_malta_international_tournament.txt) (6/4) [2004](more/malta_international_tournament/2004_malta_international_tournament.txt) (3/3) [2006](more/malta_international_tournament/2006_malta_international_tournament.txt) (1/2) [2008](more/malta_international_tournament/2008_malta_international_tournament.txt) (6/4)
 
-## Mapinduzi Cup (1)
-2025 (7/4)
+## [Mapinduzi Cup](more/mapinduzi_cup) (1)
+[2025](more/mapinduzi_cup/2025_mapinduzi_cup.txt) (7/4)
 
-## Marianas Cup (1)
-2024 (2/2)
+## [Marianas Cup](more/marianas_cup) (1)
+[2024](more/marianas_cup/2024_marianas_cup.txt) (2/2)
 
-## Marlboro Cup (3)
-1988 (1/2) 1989 (3/4) 1990 (4/4)
+## [Marlboro Cup](more/marlboro_cup) (3)
+[1988](more/marlboro_cup/1988_marlboro_cup.txt) (1/2) [1989](more/marlboro_cup/1989_marlboro_cup.txt) (3/4) [1990](more/marlboro_cup/1990_marlboro_cup.txt) (4/4)
 
-## Matthews Cup (1)
-1988 (4/3)
+## [Matthews Cup](more/matthews_cup) (1)
+[1988](more/matthews_cup/1988_matthews_cup.txt) (4/3)
 
-## Mauritius Four Nations Cup (1)
-2023 (5/4)
+## [Mauritius Four Nations Cup](more/mauritius_four_nations_cup) (1)
+[2023](more/mauritius_four_nations_cup/2023_mauritius_four_nations_cup.txt) (5/4)
 
-## Melanesia Cup (7)
-1988 (8/4) 1989 (10/5) 1990 (10/5) 1992 (6/4) 1994 (10/5) 1998 (10/5) 2000 (10/5)
+## [Melanesia Cup](more/melanesia_cup) (7)
+[1988](more/melanesia_cup/1988_melanesia_cup.txt) (8/4) [1989](more/melanesia_cup/1989_melanesia_cup.txt) (10/5) [1990](more/melanesia_cup/1990_melanesia_cup.txt) (10/5) [1992](more/melanesia_cup/1992_melanesia_cup.txt) (6/4) [1994](more/melanesia_cup/1994_melanesia_cup.txt) (10/5) [1998](more/melanesia_cup/1998_melanesia_cup.txt) (10/5) [2000](more/melanesia_cup/2000_melanesia_cup.txt) (10/5)
 
-## Merdeka Tournament (40)
-1957 (13/7) 1958 (6/4) 1959 (9/6) 1960 (14/8) 1961 (12/8) 1962 (13/8) 1963 (15/6) 1964 (14/7) 1965 (25/9) 1966 (27/10) 1967 (34/11) 1968 (31/11) 1969 (19/8) 1970 (38/12) 1971 (25/10) 1972 (25/10) 1973 (32/10) 1974 (10/6) 1975 (29/8) 1976 (22/7) 1977 (16/6) 1978 (29/8) 1979 (15/6) 1980 (28/8) 1981 (22/10) 1982 (17/9) 1983 (4/5) 1984 (6/4) 1986 (5/5) 1987 (1/2) 1988 (4/5) 1991 (1/2) 1993 (4/5) 1995 (1/2) 2000 (4/3) 2001 (9/6) 2006 (4/3) 2007 (7/6) 2008 (5/5) 2024 (4/4)
+## [Merdeka Tournament](more/merdeka_tournament) (40)
+[1957](more/merdeka_tournament/1957_merdeka_tournament.txt) (13/7) [1958](more/merdeka_tournament/1958_merdeka_tournament.txt) (6/4) [1959](more/merdeka_tournament/1959_merdeka_tournament.txt) (9/6) [1960](more/merdeka_tournament/1960_merdeka_tournament.txt) (14/8) [1961](more/merdeka_tournament/1961_merdeka_tournament.txt) (12/8) [1962](more/merdeka_tournament/1962_merdeka_tournament.txt) (13/8) [1963](more/merdeka_tournament/1963_merdeka_tournament.txt) (15/6) [1964](more/merdeka_tournament/1964_merdeka_tournament.txt) (14/7) [1965](more/merdeka_tournament/1965_merdeka_tournament.txt) (25/9) [1966](more/merdeka_tournament/1966_merdeka_tournament.txt) (27/10) [1967](more/merdeka_tournament/1967_merdeka_tournament.txt) (34/11) [1968](more/merdeka_tournament/1968_merdeka_tournament.txt) (31/11) [1969](more/merdeka_tournament/1969_merdeka_tournament.txt) (19/8) [1970](more/merdeka_tournament/1970_merdeka_tournament.txt) (38/12) [1971](more/merdeka_tournament/1971_merdeka_tournament.txt) (25/10) [1972](more/merdeka_tournament/1972_merdeka_tournament.txt) (25/10) [1973](more/merdeka_tournament/1973_merdeka_tournament.txt) (32/10) [1974](more/merdeka_tournament/1974_merdeka_tournament.txt) (10/6) [1975](more/merdeka_tournament/1975_merdeka_tournament.txt) (29/8) [1976](more/merdeka_tournament/1976_merdeka_tournament.txt) (22/7) [1977](more/merdeka_tournament/1977_merdeka_tournament.txt) (16/6) [1978](more/merdeka_tournament/1978_merdeka_tournament.txt) (29/8) [1979](more/merdeka_tournament/1979_merdeka_tournament.txt) (15/6) [1980](more/merdeka_tournament/1980_merdeka_tournament.txt) (28/8) [1981](more/merdeka_tournament/1981_merdeka_tournament.txt) (22/10) [1982](more/merdeka_tournament/1982_merdeka_tournament.txt) (17/9) [1983](more/merdeka_tournament/1983_merdeka_tournament.txt) (4/5) [1984](more/merdeka_tournament/1984_merdeka_tournament.txt) (6/4) [1986](more/merdeka_tournament/1986_merdeka_tournament.txt) (5/5) [1987](more/merdeka_tournament/1987_merdeka_tournament.txt) (1/2) [1988](more/merdeka_tournament/1988_merdeka_tournament.txt) (4/5) [1991](more/merdeka_tournament/1991_merdeka_tournament.txt) (1/2) [1993](more/merdeka_tournament/1993_merdeka_tournament.txt) (4/5) [1995](more/merdeka_tournament/1995_merdeka_tournament.txt) (1/2) [2000](more/merdeka_tournament/2000_merdeka_tournament.txt) (4/3) [2001](more/merdeka_tournament/2001_merdeka_tournament.txt) (9/6) [2006](more/merdeka_tournament/2006_merdeka_tournament.txt) (4/3) [2007](more/merdeka_tournament/2007_merdeka_tournament.txt) (7/6) [2008](more/merdeka_tournament/2008_merdeka_tournament.txt) (5/5) [2024](more/merdeka_tournament/2024_merdeka_tournament.txt) (4/4)
 
-## Merlion Cup (5)
-1982 (6/5) 1983 (4/4) 1985 (4/3) 1986 (10/4) 1992 (1/2)
+## [Merlion Cup](more/merlion_cup) (5)
+[1982](more/merlion_cup/1982_merlion_cup.txt) (6/5) [1983](more/merlion_cup/1983_merlion_cup.txt) (4/4) [1985](more/merlion_cup/1985_merlion_cup.txt) (4/3) [1986](more/merlion_cup/1986_merlion_cup.txt) (10/4) [1992](more/merlion_cup/1992_merlion_cup.txt) (1/2)
 
-## Miami Cup (4)
-1986 (2/4) 1990 (4/4) 1991 (2/3) 1994 (4/4)
+## [Miami Cup](more/miami_cup) (4)
+[1986](more/miami_cup/1986_miami_cup.txt) (2/4) [1990](more/miami_cup/1990_miami_cup.txt) (4/4) [1991](more/miami_cup/1991_miami_cup.txt) (2/3) [1994](more/miami_cup/1994_miami_cup.txt) (4/4)
 
-## Millennium Cup (1)
-2001 (15/12)
+## [Millennium Cup](more/millennium_cup) (1)
+[2001](more/millennium_cup/2001_millennium_cup.txt) (15/12)
 
-## Morocco, Capital of African Football (1)
-2026 (6/6)
+## [Morocco, Capital of African Football](more/morocco_capital_of_african_football) (1)
+[2026](more/morocco_capital_of_african_football/2026_morocco_capital_of_african_football.txt) (6/6)
 
-## Mukuru 4 Nations (1)
-2026 (2/3)
+## [Mukuru 4 Nations](more/mukuru_4_nations) (1)
+[2026](more/mukuru_4_nations/2026_mukuru_4_nations.txt) (2/3)
 
-## Mundialito (2)
-1980 (1/2) 1981 (6/6)
+## [Mundialito](more/mundialito) (2)
+[1980](more/mundialito/1980_mundialito.txt) (1/2) [1981](more/mundialito/1981_mundialito.txt) (6/6)
 
-## Muratti Vase (106)
-1905 (2/3) 1906 (2/3) 1907 (2/3) 1908 (2/3) 1909 (2/3) 1910 (2/3) 1911 (2/3) 1912 (3/3) 1913 (2/3) 1914 (2/3) 1919 (1/2) 1920 (2/3) 1921 (2/3) 1922 (2/3) 1923 (2/3) 1924 (2/3) 1925 (2/3) 1926 (2/3) 1927 (2/3) 1928 (2/3) 1929 (2/3) 1930 (2/3) 1931 (2/3) 1932 (2/3) 1933 (2/3) 1934 (2/3) 1935 (2/3) 1936 (2/3) 1937 (3/3) 1938 (2/3) 1939 (2/3) 1946 (2/2) 1947 (1/2) 1948 (2/3) 1949 (2/3) 1950 (2/3) 1951 (2/3) 1952 (2/3) 1953 (2/3) 1954 (2/3) 1955 (3/3) 1956 (2/3) 1957 (2/3) 1958 (2/3) 1959 (2/3) 1960 (2/3) 1961 (2/3) 1962 (2/3) 1963 (2/3) 1964 (2/3) 1965 (2/3) 1966 (3/3) 1967 (2/3) 1968 (2/3) 1969 (2/3) 1970 (2/3) 1971 (2/3) 1972 (2/3) 1973 (2/3) 1974 (2/3) 1975 (3/3) 1976 (2/3) 1977 (2/3) 1978 (2/3) 1979 (2/3) 1980 (2/3) 1981 (2/3) 1982 (2/3) 1983 (2/3) 1984 (2/3) 1985 (2/3) 1986 (2/3) 1987 (2/3) 1988 (2/3) 1989 (2/3) 1990 (2/3) 1991 (2/3) 1992 (2/3) 1993 (2/3) 1994 (2/3) 1995 (2/3) 1996 (3/3) 1997 (2/3) 1998 (2/3) 1999 (2/3) 2000 (2/3) 2001 (2/3) 2002 (2/3) 2003 (3/3) 2004 (2/3) 2005 (3/3) 2006 (2/3) 2007 (2/3) 2008 (2/3) 2009 (2/3) 2010 (2/3) 2011 (2/3) 2012 (2/3) 2013 (2/3) 2014 (2/3) 2015 (2/3) 2016 (2/3) 2017 (2/3) 2018 (2/3) 2019 (2/3) 2022 (4/3)
+## [Muratti Vase](more/muratti_vase) (106)
+[1905](more/muratti_vase/1905_muratti_vase.txt) (2/3) [1906](more/muratti_vase/1906_muratti_vase.txt) (2/3) [1907](more/muratti_vase/1907_muratti_vase.txt) (2/3) [1908](more/muratti_vase/1908_muratti_vase.txt) (2/3) [1909](more/muratti_vase/1909_muratti_vase.txt) (2/3) [1910](more/muratti_vase/1910_muratti_vase.txt) (2/3) [1911](more/muratti_vase/1911_muratti_vase.txt) (2/3) [1912](more/muratti_vase/1912_muratti_vase.txt) (3/3) [1913](more/muratti_vase/1913_muratti_vase.txt) (2/3) [1914](more/muratti_vase/1914_muratti_vase.txt) (2/3) [1919](more/muratti_vase/1919_muratti_vase.txt) (1/2) [1920](more/muratti_vase/1920_muratti_vase.txt) (2/3) [1921](more/muratti_vase/1921_muratti_vase.txt) (2/3) [1922](more/muratti_vase/1922_muratti_vase.txt) (2/3) [1923](more/muratti_vase/1923_muratti_vase.txt) (2/3) [1924](more/muratti_vase/1924_muratti_vase.txt) (2/3) [1925](more/muratti_vase/1925_muratti_vase.txt) (2/3) [1926](more/muratti_vase/1926_muratti_vase.txt) (2/3) [1927](more/muratti_vase/1927_muratti_vase.txt) (2/3) [1928](more/muratti_vase/1928_muratti_vase.txt) (2/3) [1929](more/muratti_vase/1929_muratti_vase.txt) (2/3) [1930](more/muratti_vase/1930_muratti_vase.txt) (2/3) [1931](more/muratti_vase/1931_muratti_vase.txt) (2/3) [1932](more/muratti_vase/1932_muratti_vase.txt) (2/3) [1933](more/muratti_vase/1933_muratti_vase.txt) (2/3) [1934](more/muratti_vase/1934_muratti_vase.txt) (2/3) [1935](more/muratti_vase/1935_muratti_vase.txt) (2/3) [1936](more/muratti_vase/1936_muratti_vase.txt) (2/3) [1937](more/muratti_vase/1937_muratti_vase.txt) (3/3) [1938](more/muratti_vase/1938_muratti_vase.txt) (2/3) [1939](more/muratti_vase/1939_muratti_vase.txt) (2/3) [1946](more/muratti_vase/1946_muratti_vase.txt) (2/2) [1947](more/muratti_vase/1947_muratti_vase.txt) (1/2) [1948](more/muratti_vase/1948_muratti_vase.txt) (2/3) [1949](more/muratti_vase/1949_muratti_vase.txt) (2/3) [1950](more/muratti_vase/1950_muratti_vase.txt) (2/3) [1951](more/muratti_vase/1951_muratti_vase.txt) (2/3) [1952](more/muratti_vase/1952_muratti_vase.txt) (2/3) [1953](more/muratti_vase/1953_muratti_vase.txt) (2/3) [1954](more/muratti_vase/1954_muratti_vase.txt) (2/3) [1955](more/muratti_vase/1955_muratti_vase.txt) (3/3) [1956](more/muratti_vase/1956_muratti_vase.txt) (2/3) [1957](more/muratti_vase/1957_muratti_vase.txt) (2/3) [1958](more/muratti_vase/1958_muratti_vase.txt) (2/3) [1959](more/muratti_vase/1959_muratti_vase.txt) (2/3) [1960](more/muratti_vase/1960_muratti_vase.txt) (2/3) [1961](more/muratti_vase/1961_muratti_vase.txt) (2/3) [1962](more/muratti_vase/1962_muratti_vase.txt) (2/3) [1963](more/muratti_vase/1963_muratti_vase.txt) (2/3) [1964](more/muratti_vase/1964_muratti_vase.txt) (2/3) [1965](more/muratti_vase/1965_muratti_vase.txt) (2/3) [1966](more/muratti_vase/1966_muratti_vase.txt) (3/3) [1967](more/muratti_vase/1967_muratti_vase.txt) (2/3) [1968](more/muratti_vase/1968_muratti_vase.txt) (2/3) [1969](more/muratti_vase/1969_muratti_vase.txt) (2/3) [1970](more/muratti_vase/1970_muratti_vase.txt) (2/3) [1971](more/muratti_vase/1971_muratti_vase.txt) (2/3) [1972](more/muratti_vase/1972_muratti_vase.txt) (2/3) [1973](more/muratti_vase/1973_muratti_vase.txt) (2/3) [1974](more/muratti_vase/1974_muratti_vase.txt) (2/3) [1975](more/muratti_vase/1975_muratti_vase.txt) (3/3) [1976](more/muratti_vase/1976_muratti_vase.txt) (2/3) [1977](more/muratti_vase/1977_muratti_vase.txt) (2/3) [1978](more/muratti_vase/1978_muratti_vase.txt) (2/3) [1979](more/muratti_vase/1979_muratti_vase.txt) (2/3) [1980](more/muratti_vase/1980_muratti_vase.txt) (2/3) [1981](more/muratti_vase/1981_muratti_vase.txt) (2/3) [1982](more/muratti_vase/1982_muratti_vase.txt) (2/3) [1983](more/muratti_vase/1983_muratti_vase.txt) (2/3) [1984](more/muratti_vase/1984_muratti_vase.txt) (2/3) [1985](more/muratti_vase/1985_muratti_vase.txt) (2/3) [1986](more/muratti_vase/1986_muratti_vase.txt) (2/3) [1987](more/muratti_vase/1987_muratti_vase.txt) (2/3) [1988](more/muratti_vase/1988_muratti_vase.txt) (2/3) [1989](more/muratti_vase/1989_muratti_vase.txt) (2/3) [1990](more/muratti_vase/1990_muratti_vase.txt) (2/3) [1991](more/muratti_vase/1991_muratti_vase.txt) (2/3) [1992](more/muratti_vase/1992_muratti_vase.txt) (2/3) [1993](more/muratti_vase/1993_muratti_vase.txt) (2/3) [1994](more/muratti_vase/1994_muratti_vase.txt) (2/3) [1995](more/muratti_vase/1995_muratti_vase.txt) (2/3) [1996](more/muratti_vase/1996_muratti_vase.txt) (3/3) [1997](more/muratti_vase/1997_muratti_vase.txt) (2/3) [1998](more/muratti_vase/1998_muratti_vase.txt) (2/3) [1999](more/muratti_vase/1999_muratti_vase.txt) (2/3) [2000](more/muratti_vase/2000_muratti_vase.txt) (2/3) [2001](more/muratti_vase/2001_muratti_vase.txt) (2/3) [2002](more/muratti_vase/2002_muratti_vase.txt) (2/3) [2003](more/muratti_vase/2003_muratti_vase.txt) (3/3) [2004](more/muratti_vase/2004_muratti_vase.txt) (2/3) [2005](more/muratti_vase/2005_muratti_vase.txt) (3/3) [2006](more/muratti_vase/2006_muratti_vase.txt) (2/3) [2007](more/muratti_vase/2007_muratti_vase.txt) (2/3) [2008](more/muratti_vase/2008_muratti_vase.txt) (2/3) [2009](more/muratti_vase/2009_muratti_vase.txt) (2/3) [2010](more/muratti_vase/2010_muratti_vase.txt) (2/3) [2011](more/muratti_vase/2011_muratti_vase.txt) (2/3) [2012](more/muratti_vase/2012_muratti_vase.txt) (2/3) [2013](more/muratti_vase/2013_muratti_vase.txt) (2/3) [2014](more/muratti_vase/2014_muratti_vase.txt) (2/3) [2015](more/muratti_vase/2015_muratti_vase.txt) (2/3) [2016](more/muratti_vase/2016_muratti_vase.txt) (2/3) [2017](more/muratti_vase/2017_muratti_vase.txt) (2/3) [2018](more/muratti_vase/2018_muratti_vase.txt) (2/3) [2019](more/muratti_vase/2019_muratti_vase.txt) (2/3) [2022](more/muratti_vase/2022_muratti_vase.txt) (4/3)
 
-## NAFC Championship (2)
-1947 (3/3) 1949 (3/3)
+## [NAFC Championship](more/nafc_championship) (2)
+[1947](more/nafc_championship/1947_nafc_championship.txt) (3/3) [1949](more/nafc_championship/1949_nafc_championship.txt) (3/3)
 
-## NAFU Championship (2)
-1990 (1/2) 1991 (3/3)
+## [NAFU Championship](more/nafu_championship) (2)
+[1990](more/nafu_championship/1990_nafu_championship.txt) (1/2) [1991](more/nafu_championship/1991_nafu_championship.txt) (3/3)
 
-## Nations Cup (1)
-2011 (6/4)
+## [Nations Cup](more/nations_cup) (1)
+[2011](more/nations_cup/2011_nations_cup.txt) (6/4)
 
-## Navruz Cup (1)
-2022 (4/4)
+## [Navruz Cup](more/navruz_cup) (1)
+[2022](more/navruz_cup/2022_navruz_cup.txt) (4/4)
 
-## Nehru Cup (13)
-1982 (7/4) 1984 (7/4) 1985 (8/6) 1986 (3/3) 1987 (2/4) 1989 (1/2) 1991 (6/4) 1993 (9/6) 1995 (6/4) 1997 (7/4) 2007 (11/5) 2009 (11/5) 2012 (11/5)
+## [Nehru Cup](more/nehru_cup) (13)
+[1982](more/nehru_cup/1982_nehru_cup.txt) (7/4) [1984](more/nehru_cup/1984_nehru_cup.txt) (7/4) [1985](more/nehru_cup/1985_nehru_cup.txt) (8/6) [1986](more/nehru_cup/1986_nehru_cup.txt) (3/3) [1987](more/nehru_cup/1987_nehru_cup.txt) (2/4) [1989](more/nehru_cup/1989_nehru_cup.txt) (1/2) [1991](more/nehru_cup/1991_nehru_cup.txt) (6/4) [1993](more/nehru_cup/1993_nehru_cup.txt) (9/6) [1995](more/nehru_cup/1995_nehru_cup.txt) (6/4) [1997](more/nehru_cup/1997_nehru_cup.txt) (7/4) [2007](more/nehru_cup/2007_nehru_cup.txt) (11/5) [2009](more/nehru_cup/2009_nehru_cup.txt) (11/5) [2012](more/nehru_cup/2012_nehru_cup.txt) (11/5)
 
-## Niamh Challenge Cup (1)
-2015 (3/4)
+## [Niamh Challenge Cup](more/niamh_challenge_cup) (1)
+[2015](more/niamh_challenge_cup/2015_niamh_challenge_cup.txt) (3/4)
 
-## Nile Basin Tournament (1)
-2011 (14/7)
+## [Nile Basin Tournament](more/nile_basin_tournament) (1)
+[2011](more/nile_basin_tournament/2011_nile_basin_tournament.txt) (14/7)
 
-## Nordic Championship (55)
-1924 (3/3) 1925 (3/3) 1926 (3/3) 1927 (3/3) 1928 (3/3) 1929 (6/4) 1930 (6/4) 1931 (6/4) 1932 (6/4) 1933 (6/4) 1934 (6/4) 1935 (6/4) 1936 (6/4) 1937 (5/4) 1938 (6/4) 1939 (6/4) 1947 (6/4) 1948 (6/4) 1949 (6/4) 1950 (6/4) 1951 (6/4) 1952 (6/4) 1953 (5/4) 1954 (6/4) 1955 (6/4) 1956 (6/4) 1957 (6/4) 1958 (6/4) 1959 (5/4) 1960 (6/4) 1961 (6/4) 1962 (6/4) 1963 (6/4) 1964 (6/4) 1965 (6/4) 1966 (6/4) 1967 (5/4) 1968 (6/4) 1969 (6/4) 1970 (5/4) 1971 (6/4) 1972 (4/4) 1973 (4/4) 1974 (4/4) 1975 (3/4) 1976 (5/4) 1977 (4/4) 1978 (4/4) 1979 (4/4) 1980 (4/4) 1981 (5/4) 1982 (5/4) 1983 (1/2) 2000 (8/6) 2001 (2/3)
+## [Nordic Championship](more/nordic_championship) (55)
+[1924](more/nordic_championship/1924_nordic_championship.txt) (3/3) [1925](more/nordic_championship/1925_nordic_championship.txt) (3/3) [1926](more/nordic_championship/1926_nordic_championship.txt) (3/3) [1927](more/nordic_championship/1927_nordic_championship.txt) (3/3) [1928](more/nordic_championship/1928_nordic_championship.txt) (3/3) [1929](more/nordic_championship/1929_nordic_championship.txt) (6/4) [1930](more/nordic_championship/1930_nordic_championship.txt) (6/4) [1931](more/nordic_championship/1931_nordic_championship.txt) (6/4) [1932](more/nordic_championship/1932_nordic_championship.txt) (6/4) [1933](more/nordic_championship/1933_nordic_championship.txt) (6/4) [1934](more/nordic_championship/1934_nordic_championship.txt) (6/4) [1935](more/nordic_championship/1935_nordic_championship.txt) (6/4) [1936](more/nordic_championship/1936_nordic_championship.txt) (6/4) [1937](more/nordic_championship/1937_nordic_championship.txt) (5/4) [1938](more/nordic_championship/1938_nordic_championship.txt) (6/4) [1939](more/nordic_championship/1939_nordic_championship.txt) (6/4) [1947](more/nordic_championship/1947_nordic_championship.txt) (6/4) [1948](more/nordic_championship/1948_nordic_championship.txt) (6/4) [1949](more/nordic_championship/1949_nordic_championship.txt) (6/4) [1950](more/nordic_championship/1950_nordic_championship.txt) (6/4) [1951](more/nordic_championship/1951_nordic_championship.txt) (6/4) [1952](more/nordic_championship/1952_nordic_championship.txt) (6/4) [1953](more/nordic_championship/1953_nordic_championship.txt) (5/4) [1954](more/nordic_championship/1954_nordic_championship.txt) (6/4) [1955](more/nordic_championship/1955_nordic_championship.txt) (6/4) [1956](more/nordic_championship/1956_nordic_championship.txt) (6/4) [1957](more/nordic_championship/1957_nordic_championship.txt) (6/4) [1958](more/nordic_championship/1958_nordic_championship.txt) (6/4) [1959](more/nordic_championship/1959_nordic_championship.txt) (5/4) [1960](more/nordic_championship/1960_nordic_championship.txt) (6/4) [1961](more/nordic_championship/1961_nordic_championship.txt) (6/4) [1962](more/nordic_championship/1962_nordic_championship.txt) (6/4) [1963](more/nordic_championship/1963_nordic_championship.txt) (6/4) [1964](more/nordic_championship/1964_nordic_championship.txt) (6/4) [1965](more/nordic_championship/1965_nordic_championship.txt) (6/4) [1966](more/nordic_championship/1966_nordic_championship.txt) (6/4) [1967](more/nordic_championship/1967_nordic_championship.txt) (5/4) [1968](more/nordic_championship/1968_nordic_championship.txt) (6/4) [1969](more/nordic_championship/1969_nordic_championship.txt) (6/4) [1970](more/nordic_championship/1970_nordic_championship.txt) (5/4) [1971](more/nordic_championship/1971_nordic_championship.txt) (6/4) [1972](more/nordic_championship/1972_nordic_championship.txt) (4/4) [1973](more/nordic_championship/1973_nordic_championship.txt) (4/4) [1974](more/nordic_championship/1974_nordic_championship.txt) (4/4) [1975](more/nordic_championship/1975_nordic_championship.txt) (3/4) [1976](more/nordic_championship/1976_nordic_championship.txt) (5/4) [1977](more/nordic_championship/1977_nordic_championship.txt) (4/4) [1978](more/nordic_championship/1978_nordic_championship.txt) (4/4) [1979](more/nordic_championship/1979_nordic_championship.txt) (4/4) [1980](more/nordic_championship/1980_nordic_championship.txt) (4/4) [1981](more/nordic_championship/1981_nordic_championship.txt) (5/4) [1982](more/nordic_championship/1982_nordic_championship.txt) (5/4) [1983](more/nordic_championship/1983_nordic_championship.txt) (1/2) [2000](more/nordic_championship/2000_nordic_championship.txt) (8/6) [2001](more/nordic_championship/2001_nordic_championship.txt) (2/3)
 
-## OSN Cup (1)
-2013 (4/4)
+## [OSN Cup](more/osn_cup) (1)
+[2013](more/osn_cup/2013_osn_cup.txt) (4/4)
 
-## Oceania Nations Cup (13)
-1973 (12/5) 1980 (14/8) 1995 (1/2) 1996 (3/3) 1998 (10/6) 2000 (10/6) 2002 (16/8) 2004 (17/6) 2007 (5/4) 2008 (7/4) 2012 (16/8) 2016 (15/8) 2024 (13/7)
+## [Oceania Nations Cup](oceania_nations_cup) (13)
+[1973](oceania_nations_cup/1973_oceania_nations_cup.txt) (12/5) [1980](oceania_nations_cup/1980_oceania_nations_cup.txt) (14/8) [1995](oceania_nations_cup/1995_oceania_nations_cup.txt) (1/2) [1996](oceania_nations_cup/1996_oceania_nations_cup.txt) (3/3) [1998](oceania_nations_cup/1998_oceania_nations_cup.txt) (10/6) [2000](oceania_nations_cup/2000_oceania_nations_cup.txt) (10/6) [2002](oceania_nations_cup/2002_oceania_nations_cup.txt) (16/8) [2004](oceania_nations_cup/2004_oceania_nations_cup.txt) (17/6) [2007](oceania_nations_cup/2007_oceania_nations_cup.txt) (5/4) [2008](oceania_nations_cup/2008_oceania_nations_cup.txt) (7/4) [2012](oceania_nations_cup/2012_oceania_nations_cup.txt) (16/8) [2016](oceania_nations_cup/2016_oceania_nations_cup.txt) (15/8) [2024](oceania_nations_cup/2024_oceania_nations_cup.txt) (13/7)
 
-## Oceania Nations Cup qualification (5)
-1994 (6/4) 1998 (10/5) 2000 (2/3) 2002 (10/5) 2024 (3/3)
+## [Oceania Nations Cup qualification](oceania_nations_cup_qualification) (5)
+[1994](oceania_nations_cup_qualification/1994_oceania_nations_cup_qualification.txt) (6/4) [1998](oceania_nations_cup_qualification/1998_oceania_nations_cup_qualification.txt) (10/5) [2000](oceania_nations_cup_qualification/2000_oceania_nations_cup_qualification.txt) (2/3) [2002](oceania_nations_cup_qualification/2002_oceania_nations_cup_qualification.txt) (10/5) [2024](oceania_nations_cup_qualification/2024_oceania_nations_cup_qualification.txt) (3/3)
 
-## Olympic Games (5)
-1908 (2/4) 1912 (14/10) 1920 (16/13) 1924 (24/22) 1928 (22/17)
+## [Olympic Games](more/olympic_games) (5)
+[1908](more/olympic_games/1908_olympic_games.txt) (2/4) [1912](more/olympic_games/1912_olympic_games.txt) (14/10) [1920](more/olympic_games/1920_olympic_games.txt) (16/13) [1924](more/olympic_games/1924_olympic_games.txt) (24/22) [1928](more/olympic_games/1928_olympic_games.txt) (22/17)
 
-## Open International Championship (1)
-1921 (1/2)
+## [Open International Championship](more/open_international_championship) (1)
+[1921](more/open_international_championship/1921_open_international_championship.txt) (1/2)
 
-## Outrigger Challenge Cup (1)
-2025 (3/3)
+## [Outrigger Challenge Cup](more/outrigger_challenge_cup) (1)
+[2025](more/outrigger_challenge_cup/2025_outrigger_challenge_cup.txt) (3/3)
 
-## Pacific Games (3)
-2011 (29/11) 2019 (22/10) 2023 (24/12)
+## [Pacific Games](more/pacific_games) (3)
+[2011](more/pacific_games/2011_pacific_games.txt) (29/11) [2019](more/pacific_games/2019_pacific_games.txt) (22/10) [2023](more/pacific_games/2023_pacific_games.txt) (24/12)
 
-## Pacific Mini Games (1)
-2017 (15/6)
+## [Pacific Mini Games](more/pacific_mini_games) (1)
+[2017](more/pacific_mini_games/2017_pacific_mini_games.txt) (15/6)
 
-## Palestine Cup (3)
-1972 (20/9) 1973 (24/10) 1975 (14/10)
+## [Palestine Cup](more/palestine_cup) (3)
+[1972](more/palestine_cup/1972_palestine_cup.txt) (20/9) [1973](more/palestine_cup/1973_palestine_cup.txt) (24/10) [1975](more/palestine_cup/1975_palestine_cup.txt) (14/10)
 
-## Palestine International Championship (2)
-2012 (4/4) 2014 (7/4)
+## [Palestine International Championship](more/palestine_international_championship) (2)
+[2012](more/palestine_international_championship/2012_palestine_international_championship.txt) (4/4) [2014](more/palestine_international_championship/2014_palestine_international_championship.txt) (7/4)
 
-## Pan American Championship (3)
-1952 (15/6) 1956 (14/6) 1960 (10/4)
+## [Pan American Championship](more/pan_american_championship) (3)
+[1952](more/pan_american_championship/1952_pan_american_championship.txt) (15/6) [1956](more/pan_american_championship/1956_pan_american_championship.txt) (14/6) [1960](more/pan_american_championship/1960_pan_american_championship.txt) (10/4)
 
-## Peace Cup (5)
-1921 (1/2) 1922 (1/2) 1923 (1/2) 1924 (1/2) 1925 (2/2)
+## [Peace Cup](more/peace_cup) (5)
+[1921](more/peace_cup/1921_peace_cup.txt) (1/2) [1922](more/peace_cup/1922_peace_cup.txt) (1/2) [1923](more/peace_cup/1923_peace_cup.txt) (1/2) [1924](more/peace_cup/1924_peace_cup.txt) (1/2) [1925](more/peace_cup/1925_peace_cup.txt) (2/2)
 
-## Philippine Peace Cup (3)
-2012 (3/4) 2013 (3/3) 2014 (3/4)
+## [Philippine Peace Cup](more/philippine_peace_cup) (3)
+[2012](more/philippine_peace_cup/2012_philippine_peace_cup.txt) (3/4) [2013](more/philippine_peace_cup/2013_philippine_peace_cup.txt) (3/3) [2014](more/philippine_peace_cup/2014_philippine_peace_cup.txt) (3/4)
 
-## Phillip Seaga Cup (1)
-1963 (3/3)
+## [Phillip Seaga Cup](more/phillip_seaga_cup) (1)
+[1963](more/phillip_seaga_cup/1963_phillip_seaga_cup.txt) (3/3)
 
-## Prime Minister's Cup (3)
-2002 (12/7) 2003 (6/4) 2004 (4/4)
+## [Prime Minister's Cup](more/prime_ministers_cup) (3)
+[2002](more/prime_ministers_cup/2002_prime_ministers_cup.txt) (12/7) [2003](more/prime_ministers_cup/2003_prime_ministers_cup.txt) (6/4) [2004](more/prime_ministers_cup/2004_prime_ministers_cup.txt) (4/4)
 
-## Real Madrid 75th Anniversary Cup (1)
-1977 (1/2)
+## [Real Madrid 75th Anniversary Cup](more/real_madrid_75th_anniversary_cup) (1)
+[1977](more/real_madrid_75th_anniversary_cup/1977_real_madrid_75th_anniversary_cup.txt) (1/2)
 
-## Rous Cup (5)
-1985 (1/2) 1986 (1/2) 1987 (3/3) 1988 (3/3) 1989 (3/3)
+## [Rous Cup](more/rous_cup) (5)
+[1985](more/rous_cup/1985_rous_cup.txt) (1/2) [1986](more/rous_cup/1986_rous_cup.txt) (1/2) [1987](more/rous_cup/1987_rous_cup.txt) (3/3) [1988](more/rous_cup/1988_rous_cup.txt) (3/3) [1989](more/rous_cup/1989_rous_cup.txt) (3/3)
 
-## SAFF Cup (14)
-1995 (7/5) 1997 (10/6) 1999 (10/6) 2003 (16/8) 2005 (15/8) 2008 (15/8) 2009 (10/7) 2011 (15/8) 2013 (14/8) 2015 (11/7) 2016 (1/2) 2018 (12/7) 2021 (11/5) 2023 (15/8)
+## [SAFF Cup](more/saff_cup) (14)
+[1995](more/saff_cup/1995_saff_cup.txt) (7/5) [1997](more/saff_cup/1997_saff_cup.txt) (10/6) [1999](more/saff_cup/1999_saff_cup.txt) (10/6) [2003](more/saff_cup/2003_saff_cup.txt) (16/8) [2005](more/saff_cup/2005_saff_cup.txt) (15/8) [2008](more/saff_cup/2008_saff_cup.txt) (15/8) [2009](more/saff_cup/2009_saff_cup.txt) (10/7) [2011](more/saff_cup/2011_saff_cup.txt) (15/8) [2013](more/saff_cup/2013_saff_cup.txt) (14/8) [2015](more/saff_cup/2015_saff_cup.txt) (11/7) [2016](more/saff_cup/2016_saff_cup.txt) (1/2) [2018](more/saff_cup/2018_saff_cup.txt) (12/7) [2021](more/saff_cup/2021_saff_cup.txt) (11/5) [2023](more/saff_cup/2023_saff_cup.txt) (15/8)
 
-## SKN Football Festival (4)
-1998 (1/2) 2001 (3/3) 2002 (4/4) 2003 (3/3)
+## [SKN Football Festival](more/skn_football_festival) (4)
+[1998](more/skn_football_festival/1998_skn_football_festival.txt) (1/2) [2001](more/skn_football_festival/2001_skn_football_festival.txt) (3/3) [2002](more/skn_football_festival/2002_skn_football_festival.txt) (4/4) [2003](more/skn_football_festival/2003_skn_football_festival.txt) (3/3)
 
-## Scania 100 Tournament (1)
-1991 (4/4)
+## [Scania 100 Tournament](more/scania_100_tournament) (1)
+[1991](more/scania_100_tournament/1991_scania_100_tournament.txt) (4/4)
 
-## Simba Tournament (3)
-1994 (5/4) 1995 (6/4) 1996 (6/4)
+## [Simba Tournament](more/simba_tournament) (3)
+[1994](more/simba_tournament/1994_simba_tournament.txt) (5/4) [1995](more/simba_tournament/1995_simba_tournament.txt) (6/4) [1996](more/simba_tournament/1996_simba_tournament.txt) (6/4)
 
-## Soccer Ashes (8)
-1922 (3/2) 1923 (3/2) 1933 (3/2) 1936 (3/2) 1948 (3/2) 1954 (3/2) 2023 (1/2) 2025 (2/2)
+## [Soccer Ashes](more/soccer_ashes) (8)
+[1922](more/soccer_ashes/1922_soccer_ashes.txt) (3/2) [1923](more/soccer_ashes/1923_soccer_ashes.txt) (3/2) [1933](more/soccer_ashes/1933_soccer_ashes.txt) (3/2) [1936](more/soccer_ashes/1936_soccer_ashes.txt) (3/2) [1948](more/soccer_ashes/1948_soccer_ashes.txt) (3/2) [1954](more/soccer_ashes/1954_soccer_ashes.txt) (3/2) [2023](more/soccer_ashes/2023_soccer_ashes.txt) (1/2) [2025](more/soccer_ashes/2025_soccer_ashes.txt) (2/2)
 
-## South Asian Games (8)
-1984 (7/4) 1985 (8/6) 1987 (8/6) 1989 (8/6) 1991 (8/6) 1993 (8/6) 1995 (8/5) 1999 (13/7)
+## [South Asian Games](more/south_asian_games) (8)
+[1984](more/south_asian_games/1984_south_asian_games.txt) (7/4) [1985](more/south_asian_games/1985_south_asian_games.txt) (8/6) [1987](more/south_asian_games/1987_south_asian_games.txt) (8/6) [1989](more/south_asian_games/1989_south_asian_games.txt) (8/6) [1991](more/south_asian_games/1991_south_asian_games.txt) (8/6) [1993](more/south_asian_games/1993_south_asian_games.txt) (8/6) [1995](more/south_asian_games/1995_south_asian_games.txt) (8/5) [1999](more/south_asian_games/1999_south_asian_games.txt) (13/7)
 
-## South Asian Super Cup (1)
-2025 (1/2)
+## [South Asian Super Cup](more/south_asian_super_cup) (1)
+[2025](more/south_asian_super_cup/2025_south_asian_super_cup.txt) (1/2)
 
-## South Pacific Games (12)
-1963 (6/6) 1966 (10/6) 1969 (16/6) 1971 (11/6) 1975 (13/7) 1979 (26/12) 1983 (21/11) 1987 (16/6) 1991 (18/8) 1995 (20/9) 2003 (24/10) 2007 (24/10)
+## [South Pacific Games](more/south_pacific_games) (12)
+[1963](more/south_pacific_games/1963_south_pacific_games.txt) (6/6) [1966](more/south_pacific_games/1966_south_pacific_games.txt) (10/6) [1969](more/south_pacific_games/1969_south_pacific_games.txt) (16/6) [1971](more/south_pacific_games/1971_south_pacific_games.txt) (11/6) [1975](more/south_pacific_games/1975_south_pacific_games.txt) (13/7) [1979](more/south_pacific_games/1979_south_pacific_games.txt) (26/12) [1983](more/south_pacific_games/1983_south_pacific_games.txt) (21/11) [1987](more/south_pacific_games/1987_south_pacific_games.txt) (16/6) [1991](more/south_pacific_games/1991_south_pacific_games.txt) (18/8) [1995](more/south_pacific_games/1995_south_pacific_games.txt) (20/9) [2003](more/south_pacific_games/2003_south_pacific_games.txt) (24/10) [2007](more/south_pacific_games/2007_south_pacific_games.txt) (24/10)
 
-## South Pacific Mini Games (2)
-1981 (23/7) 1993 (16/8)
+## [South Pacific Mini Games](more/south_pacific_mini_games) (2)
+[1981](more/south_pacific_mini_games/1981_south_pacific_mini_games.txt) (23/7) [1993](more/south_pacific_mini_games/1993_south_pacific_mini_games.txt) (16/8)
 
-## Southeast Asian Games (12)
-1977 (13/7) 1979 (12/5) 1981 (10/6) 1983 (13/7) 1985 (10/6) 1987 (6/5) 1989 (13/7) 1991 (13/7) 1993 (20/9) 1995 (24/10) 1997 (24/10) 1999 (24/10)
+## [Southeast Asian Games](more/southeast_asian_games) (12)
+[1977](more/southeast_asian_games/1977_southeast_asian_games.txt) (13/7) [1979](more/southeast_asian_games/1979_southeast_asian_games.txt) (12/5) [1981](more/southeast_asian_games/1981_southeast_asian_games.txt) (10/6) [1983](more/southeast_asian_games/1983_southeast_asian_games.txt) (13/7) [1985](more/southeast_asian_games/1985_southeast_asian_games.txt) (10/6) [1987](more/southeast_asian_games/1987_southeast_asian_games.txt) (6/5) [1989](more/southeast_asian_games/1989_southeast_asian_games.txt) (13/7) [1991](more/southeast_asian_games/1991_southeast_asian_games.txt) (13/7) [1993](more/southeast_asian_games/1993_southeast_asian_games.txt) (20/9) [1995](more/southeast_asian_games/1995_southeast_asian_games.txt) (24/10) [1997](more/southeast_asian_games/1997_southeast_asian_games.txt) (24/10) [1999](more/southeast_asian_games/1999_southeast_asian_games.txt) (24/10)
 
-## Southeast Asian Peninsular Games (8)
-1959 (7/4) 1961 (10/6) 1965 (7/5) 1967 (8/5) 1969 (7/5) 1971 (13/7) 1973 (10/6) 1975 (6/4)
+## [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games) (8)
+[1959](more/southeast_asian_peninsular_games/1959_southeast_asian_peninsular_games.txt) (7/4) [1961](more/southeast_asian_peninsular_games/1961_southeast_asian_peninsular_games.txt) (10/6) [1965](more/southeast_asian_peninsular_games/1965_southeast_asian_peninsular_games.txt) (7/5) [1967](more/southeast_asian_peninsular_games/1967_southeast_asian_peninsular_games.txt) (8/5) [1969](more/southeast_asian_peninsular_games/1969_southeast_asian_peninsular_games.txt) (7/5) [1971](more/southeast_asian_peninsular_games/1971_southeast_asian_peninsular_games.txt) (13/7) [1973](more/southeast_asian_peninsular_games/1973_southeast_asian_peninsular_games.txt) (10/6) [1975](more/southeast_asian_peninsular_games/1975_southeast_asian_peninsular_games.txt) (6/4)
 
-## Superclásico de las Américas (6)
-2011 (2/2) 2012 (2/2) 2014 (1/2) 2017 (1/2) 2018 (1/2) 2019 (1/2)
+## [Superclásico de las Américas](more/superclasico_de_las_americas) (6)
+[2011](more/superclasico_de_las_americas/2011_superclasico_de_las_americas.txt) (2/2) [2012](more/superclasico_de_las_americas/2012_superclasico_de_las_americas.txt) (2/2) [2014](more/superclasico_de_las_americas/2014_superclasico_de_las_americas.txt) (1/2) [2017](more/superclasico_de_las_americas/2017_superclasico_de_las_americas.txt) (1/2) [2018](more/superclasico_de_las_americas/2018_superclasico_de_las_americas.txt) (1/2) [2019](more/superclasico_de_las_americas/2019_superclasico_de_las_americas.txt) (1/2)
 
-## TIFOCO Tournament (1)
-2003 (1/2)
+## [TIFOCO Tournament](more/tifoco_tournament) (1)
+[2003](more/tifoco_tournament/2003_tifoco_tournament.txt) (1/2)
 
-## The Other Final (1)
-2002 (1/2)
+## [The Other Final](more/the_other_final) (1)
+[2002](more/the_other_final/2002_the_other_final.txt) (1/2)
 
-## Three Nations Cup (1)
-2021 (3/3)
+## [Three Nations Cup](more/three_nations_cup) (1)
+[2021](more/three_nations_cup/2021_three_nations_cup.txt) (3/3)
 
-## Tournament Burkina Faso (1)
-1988 (11/5)
+## [Tournament Burkina Faso](more/tournament_burkina_faso) (1)
+[1988](more/tournament_burkina_faso/1988_tournament_burkina_faso.txt) (11/5)
 
-## Tournoi de France (2)
-1988 (4/4) 1997 (6/4)
+## [Tournoi de France](more/tournoi_de_france) (2)
+[1988](more/tournoi_de_france/1988_tournoi_de_france.txt) (4/4) [1997](more/tournoi_de_france/1997_tournoi_de_france.txt) (6/4)
 
-## Trans-Tasman Cup (6)
-1983 (2/2) 1986 (2/2) 1987 (2/2) 1988 (2/2) 1991 (2/2) 1995 (2/2)
+## [Trans-Tasman Cup](more/trans-tasman_cup) (6)
+[1983](more/trans-tasman_cup/1983_trans-tasman_cup.txt) (2/2) [1986](more/trans-tasman_cup/1986_trans-tasman_cup.txt) (2/2) [1987](more/trans-tasman_cup/1987_trans-tasman_cup.txt) (2/2) [1988](more/trans-tasman_cup/1988_trans-tasman_cup.txt) (2/2) [1991](more/trans-tasman_cup/1991_trans-tasman_cup.txt) (2/2) [1995](more/trans-tasman_cup/1995_trans-tasman_cup.txt) (2/2)
 
-## Tri Nation Tournament (1)
-2023 (7/6)
+## [Tri Nation Tournament](more/tri_nation_tournament) (1)
+[2023](more/tri_nation_tournament/2023_tri_nation_tournament.txt) (7/6)
 
-## Tri-Nations Series (1)
-2024 (3/3)
+## [Tri-Nations Series](more/tri-nations_series) (1)
+[2024](more/tri-nations_series/2024_tri-nations_series.txt) (3/3)
 
-## Tynwald Hill Tournament (1)
-2013 (6/5)
+## [Tynwald Hill Tournament](more/tynwald_hill_tournament) (1)
+[2013](more/tynwald_hill_tournament/2013_tynwald_hill_tournament.txt) (6/5)
 
-## UDEAC Cup (7)
-1984 (11/6) 1985 (10/6) 1986 (9/6) 1987 (9/5) 1988 (10/6) 1989 (10/5) 1990 (11/6)
+## [UDEAC Cup](more/udeac_cup) (7)
+[1984](more/udeac_cup/1984_udeac_cup.txt) (11/6) [1985](more/udeac_cup/1985_udeac_cup.txt) (10/6) [1986](more/udeac_cup/1986_udeac_cup.txt) (9/6) [1987](more/udeac_cup/1987_udeac_cup.txt) (9/5) [1988](more/udeac_cup/1988_udeac_cup.txt) (10/6) [1989](more/udeac_cup/1989_udeac_cup.txt) (10/5) [1990](more/udeac_cup/1990_udeac_cup.txt) (11/6)
 
-## UEFA Euro (17)
-1960 (4/4) 1964 (4/4) 1968 (5/4) 1972 (4/4) 1976 (4/4) 1980 (14/8) 1984 (15/8) 1988 (15/8) 1992 (15/8) 1996 (31/16) 2000 (31/16) 2004 (31/16) 2008 (31/16) 2012 (31/16) 2016 (51/24) 2021 (51/24) 2024 (51/24)
+## [UEFA Euro](uefa_euro) (17)
+[1960](uefa_euro/1960_uefa_euro.txt) (4/4) [1964](uefa_euro/1964_uefa_euro.txt) (4/4) [1968](uefa_euro/1968_uefa_euro.txt) (5/4) [1972](uefa_euro/1972_uefa_euro.txt) (4/4) [1976](uefa_euro/1976_uefa_euro.txt) (4/4) [1980](uefa_euro/1980_uefa_euro.txt) (14/8) [1984](uefa_euro/1984_uefa_euro.txt) (15/8) [1988](uefa_euro/1988_uefa_euro.txt) (15/8) [1992](uefa_euro/1992_uefa_euro.txt) (15/8) [1996](uefa_euro/1996_uefa_euro.txt) (31/16) [2000](uefa_euro/2000_uefa_euro.txt) (31/16) [2004](uefa_euro/2004_uefa_euro.txt) (31/16) [2008](uefa_euro/2008_uefa_euro.txt) (31/16) [2012](uefa_euro/2012_uefa_euro.txt) (31/16) [2016](uefa_euro/2016_uefa_euro.txt) (51/24) [2021](uefa_euro/2021_uefa_euro.txt) (51/24) [2024](uefa_euro/2024_uefa_euro.txt) (51/24)
 
-## UEFA Euro qualification (40)
-1958 (4/6) 1959 (15/16) 1960 (5/6) 1962 (18/24) 1963 (26/23) 1964 (6/6) 1966 (17/21) 1967 (60/27) 1968 (9/10) 1970 (25/31) 1971 (70/32) 1972 (10/10) 1974 (28/31) 1975 (67/32) 1976 (9/9) 1978 (35/30) 1979 (70/31) 1980 (3/6) 1982 (37/31) 1983 (79/32) 1986 (37/32) 1987 (80/32) 1990 (42/33) 1991 (81/33) 1994 (80/47) 1995 (151/47) 1998 (71/49) 1999 (157/49) 2002 (60/50) 2003 (150/50) 2006 (94/50) 2007 (212/50) 2010 (94/51) 2011 (154/51) 2014 (103/53) 2015 (164/53) 2019 (250/55) 2020 (12/16) 2023 (230/53) 2024 (9/12)
+## [UEFA Euro qualification](uefa_euro_qualification) (40)
+[1958](uefa_euro_qualification/1958_uefa_euro_qualification.txt) (4/6) [1959](uefa_euro_qualification/1959_uefa_euro_qualification.txt) (15/16) [1960](uefa_euro_qualification/1960_uefa_euro_qualification.txt) (5/6) [1962](uefa_euro_qualification/1962_uefa_euro_qualification.txt) (18/24) [1963](uefa_euro_qualification/1963_uefa_euro_qualification.txt) (26/23) [1964](uefa_euro_qualification/1964_uefa_euro_qualification.txt) (6/6) [1966](uefa_euro_qualification/1966_uefa_euro_qualification.txt) (17/21) [1967](uefa_euro_qualification/1967_uefa_euro_qualification.txt) (60/27) [1968](uefa_euro_qualification/1968_uefa_euro_qualification.txt) (9/10) [1970](uefa_euro_qualification/1970_uefa_euro_qualification.txt) (25/31) [1971](uefa_euro_qualification/1971_uefa_euro_qualification.txt) (70/32) [1972](uefa_euro_qualification/1972_uefa_euro_qualification.txt) (10/10) [1974](uefa_euro_qualification/1974_uefa_euro_qualification.txt) (28/31) [1975](uefa_euro_qualification/1975_uefa_euro_qualification.txt) (67/32) [1976](uefa_euro_qualification/1976_uefa_euro_qualification.txt) (9/9) [1978](uefa_euro_qualification/1978_uefa_euro_qualification.txt) (35/30) [1979](uefa_euro_qualification/1979_uefa_euro_qualification.txt) (70/31) [1980](uefa_euro_qualification/1980_uefa_euro_qualification.txt) (3/6) [1982](uefa_euro_qualification/1982_uefa_euro_qualification.txt) (37/31) [1983](uefa_euro_qualification/1983_uefa_euro_qualification.txt) (79/32) [1986](uefa_euro_qualification/1986_uefa_euro_qualification.txt) (37/32) [1987](uefa_euro_qualification/1987_uefa_euro_qualification.txt) (80/32) [1990](uefa_euro_qualification/1990_uefa_euro_qualification.txt) (42/33) [1991](uefa_euro_qualification/1991_uefa_euro_qualification.txt) (81/33) [1994](uefa_euro_qualification/1994_uefa_euro_qualification.txt) (80/47) [1995](uefa_euro_qualification/1995_uefa_euro_qualification.txt) (151/47) [1998](uefa_euro_qualification/1998_uefa_euro_qualification.txt) (71/49) [1999](uefa_euro_qualification/1999_uefa_euro_qualification.txt) (157/49) [2002](uefa_euro_qualification/2002_uefa_euro_qualification.txt) (60/50) [2003](uefa_euro_qualification/2003_uefa_euro_qualification.txt) (150/50) [2006](uefa_euro_qualification/2006_uefa_euro_qualification.txt) (94/50) [2007](uefa_euro_qualification/2007_uefa_euro_qualification.txt) (212/50) [2010](uefa_euro_qualification/2010_uefa_euro_qualification.txt) (94/51) [2011](uefa_euro_qualification/2011_uefa_euro_qualification.txt) (154/51) [2014](uefa_euro_qualification/2014_uefa_euro_qualification.txt) (103/53) [2015](uefa_euro_qualification/2015_uefa_euro_qualification.txt) (164/53) [2019](uefa_euro_qualification/2019_uefa_euro_qualification.txt) (250/55) [2020](uefa_euro_qualification/2020_uefa_euro_qualification.txt) (12/16) [2023](uefa_euro_qualification/2023_uefa_euro_qualification.txt) (230/53) [2024](uefa_euro_qualification/2024_uefa_euro_qualification.txt) (9/12)
 
-## UEFA Nations League (8)
-2018 (138/55) 2019 (4/4) 2020 (162/55) 2021 (4/4) 2022 (160/54) 2023 (4/4) 2024 (158/54) 2025 (28/24)
+## [UEFA Nations League](uefa_nations_league) (8)
+[2018](uefa_nations_league/2018_uefa_nations_league.txt) (138/55) [2019](uefa_nations_league/2019_uefa_nations_league.txt) (4/4) [2020](uefa_nations_league/2020_uefa_nations_league.txt) (162/55) [2021](uefa_nations_league/2021_uefa_nations_league.txt) (4/4) [2022](uefa_nations_league/2022_uefa_nations_league.txt) (160/54) [2023](uefa_nations_league/2023_uefa_nations_league.txt) (4/4) [2024](uefa_nations_league/2024_uefa_nations_league.txt) (158/54) [2025](uefa_nations_league/2025_uefa_nations_league.txt) (28/24)
 
-## UNCAF Cup (14)
-1991 (9/6) 1993 (8/5) 1995 (12/7) 1997 (14/7) 1999 (12/6) 2001 (15/7) 2003 (15/6) 2005 (13/7) 2007 (14/7) 2009 (14/7) 2011 (14/7) 2013 (14/7) 2014 (2/3) 2017 (8/6)
+## [UNCAF Cup](more/uncaf_cup) (14)
+[1991](more/uncaf_cup/1991_uncaf_cup.txt) (9/6) [1993](more/uncaf_cup/1993_uncaf_cup.txt) (8/5) [1995](more/uncaf_cup/1995_uncaf_cup.txt) (12/7) [1997](more/uncaf_cup/1997_uncaf_cup.txt) (14/7) [1999](more/uncaf_cup/1999_uncaf_cup.txt) (12/6) [2001](more/uncaf_cup/2001_uncaf_cup.txt) (15/7) [2003](more/uncaf_cup/2003_uncaf_cup.txt) (15/6) [2005](more/uncaf_cup/2005_uncaf_cup.txt) (13/7) [2007](more/uncaf_cup/2007_uncaf_cup.txt) (14/7) [2009](more/uncaf_cup/2009_uncaf_cup.txt) (14/7) [2011](more/uncaf_cup/2011_uncaf_cup.txt) (14/7) [2013](more/uncaf_cup/2013_uncaf_cup.txt) (14/7) [2014](more/uncaf_cup/2014_uncaf_cup.txt) (2/3) [2017](more/uncaf_cup/2017_uncaf_cup.txt) (8/6)
 
-## UNIFFAC Cup (1)
-1999 (15/6)
+## [UNIFFAC Cup](more/uniffac_cup) (1)
+[1999](more/uniffac_cup/1999_uniffac_cup.txt) (15/6)
 
-## USA Cup (7)
-1992 (6/4) 1993 (6/4) 1995 (6/4) 1996 (6/4) 1997 (3/3) 1999 (4/4) 2000 (6/4)
+## [USA Cup](more/usa_cup) (7)
+[1992](more/usa_cup/1992_usa_cup.txt) (6/4) [1993](more/usa_cup/1993_usa_cup.txt) (6/4) [1995](more/usa_cup/1995_usa_cup.txt) (6/4) [1996](more/usa_cup/1996_usa_cup.txt) (6/4) [1997](more/usa_cup/1997_usa_cup.txt) (3/3) [1999](more/usa_cup/1999_usa_cup.txt) (4/4) [2000](more/usa_cup/2000_usa_cup.txt) (6/4)
 
-## United Arab Emirates Friendship Tournament (6)
-1994 (6/4) 1996 (6/4) 1998 (6/4) 1999 (6/4) 2000 (4/4) 2001 (3/3)
+## [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament) (6)
+[1994](more/united_arab_emirates_friendship_tournament/1994_united_arab_emirates_friendship_tournament.txt) (6/4) [1996](more/united_arab_emirates_friendship_tournament/1996_united_arab_emirates_friendship_tournament.txt) (6/4) [1998](more/united_arab_emirates_friendship_tournament/1998_united_arab_emirates_friendship_tournament.txt) (6/4) [1999](more/united_arab_emirates_friendship_tournament/1999_united_arab_emirates_friendship_tournament.txt) (6/4) [2000](more/united_arab_emirates_friendship_tournament/2000_united_arab_emirates_friendship_tournament.txt) (4/4) [2001](more/united_arab_emirates_friendship_tournament/2001_united_arab_emirates_friendship_tournament.txt) (3/3)
 
-## Unity Cup (3)
-2002 (1/2) 2004 (3/3) 2025 (4/4)
+## [Unity Cup](more/unity_cup) (3)
+[2002](more/unity_cup/2002_unity_cup.txt) (1/2) [2004](more/unity_cup/2004_unity_cup.txt) (3/3) [2025](more/unity_cup/2025_unity_cup.txt) (4/4)
 
-## VFF Cup (3)
-2008 (3/3) 2010 (3/3) 2012 (3/3)
+## [VFF Cup](more/vff_cup) (3)
+[2008](more/vff_cup/2008_vff_cup.txt) (3/3) [2010](more/vff_cup/2010_vff_cup.txt) (3/3) [2012](more/vff_cup/2012_vff_cup.txt) (3/3)
 
-## Vietnam Independence Cup (10)
-1961 (3/3) 1962 (7/4) 1965 (2/3) 1966 (3/3) 1967 (16/8) 1970 (6/4) 1971 (6/4) 1972 (6/4) 1973 (3/3) 1974 (8/6)
+## [Vietnam Independence Cup](more/vietnam_independence_cup) (10)
+[1961](more/vietnam_independence_cup/1961_vietnam_independence_cup.txt) (3/3) [1962](more/vietnam_independence_cup/1962_vietnam_independence_cup.txt) (7/4) [1965](more/vietnam_independence_cup/1965_vietnam_independence_cup.txt) (2/3) [1966](more/vietnam_independence_cup/1966_vietnam_independence_cup.txt) (3/3) [1967](more/vietnam_independence_cup/1967_vietnam_independence_cup.txt) (16/8) [1970](more/vietnam_independence_cup/1970_vietnam_independence_cup.txt) (6/4) [1971](more/vietnam_independence_cup/1971_vietnam_independence_cup.txt) (6/4) [1972](more/vietnam_independence_cup/1972_vietnam_independence_cup.txt) (6/4) [1973](more/vietnam_independence_cup/1973_vietnam_independence_cup.txt) (3/3) [1974](more/vietnam_independence_cup/1974_vietnam_independence_cup.txt) (8/6)
 
-## Viva World Cup (5)
-2006 (8/4) 2008 (12/5) 2009 (11/6) 2010 (11/6) 2012 (18/9)
+## [Viva World Cup](more/viva_world_cup) (5)
+[2006](more/viva_world_cup/2006_viva_world_cup.txt) (8/4) [2008](more/viva_world_cup/2008_viva_world_cup.txt) (12/5) [2009](more/viva_world_cup/2009_viva_world_cup.txt) (11/6) [2010](more/viva_world_cup/2010_viva_world_cup.txt) (11/6) [2012](more/viva_world_cup/2012_viva_world_cup.txt) (18/9)
 
-## WAFF Championship (10)
-2000 (16/8) 2002 (10/6) 2004 (10/6) 2007 (9/6) 2008 (8/6) 2010 (12/9) 2012 (19/11) 2013 (8/9) 2014 (5/4) 2019 (17/9)
+## [WAFF Championship](more/waff_championship) (10)
+[2000](more/waff_championship/2000_waff_championship.txt) (16/8) [2002](more/waff_championship/2002_waff_championship.txt) (10/6) [2004](more/waff_championship/2004_waff_championship.txt) (10/6) [2007](more/waff_championship/2007_waff_championship.txt) (9/6) [2008](more/waff_championship/2008_waff_championship.txt) (8/6) [2010](more/waff_championship/2010_waff_championship.txt) (12/9) [2012](more/waff_championship/2012_waff_championship.txt) (19/11) [2013](more/waff_championship/2013_waff_championship.txt) (8/9) [2014](more/waff_championship/2014_waff_championship.txt) (5/4) [2019](more/waff_championship/2019_waff_championship.txt) (17/9)
 
-## West African Cup (5)
-1982 (13/7) 1983 (8/4) 1984 (12/5) 1986 (14/5) 1987 (7/6)
+## [West African Cup](more/west_african_cup) (5)
+[1982](more/west_african_cup/1982_west_african_cup.txt) (13/7) [1983](more/west_african_cup/1983_west_african_cup.txt) (8/4) [1984](more/west_african_cup/1984_west_african_cup.txt) (12/5) [1986](more/west_african_cup/1986_west_african_cup.txt) (14/5) [1987](more/west_african_cup/1987_west_african_cup.txt) (7/6)
 
-## Windward Islands Tournament (22)
-1961 (6/4) 1962 (1/2) 1964 (6/3) 1965 (4/4) 1966 (6/4) 1967 (6/4) 1968 (3/4) 1969 (6/4) 1970 (5/4) 1971 (5/4) 1972 (6/4) 1973 (11/4) 1974 (6/4) 1984 (2/4) 1985 (3/4) 1986 (1/2) 1995 (6/5) 2001 (6/4) 2013 (1/2) 2014 (2/3) 2015 (3/4) 2017 (6/5)
+## [Windward Islands Tournament](more/windward_islands_tournament) (22)
+[1961](more/windward_islands_tournament/1961_windward_islands_tournament.txt) (6/4) [1962](more/windward_islands_tournament/1962_windward_islands_tournament.txt) (1/2) [1964](more/windward_islands_tournament/1964_windward_islands_tournament.txt) (6/3) [1965](more/windward_islands_tournament/1965_windward_islands_tournament.txt) (4/4) [1966](more/windward_islands_tournament/1966_windward_islands_tournament.txt) (6/4) [1967](more/windward_islands_tournament/1967_windward_islands_tournament.txt) (6/4) [1968](more/windward_islands_tournament/1968_windward_islands_tournament.txt) (3/4) [1969](more/windward_islands_tournament/1969_windward_islands_tournament.txt) (6/4) [1970](more/windward_islands_tournament/1970_windward_islands_tournament.txt) (5/4) [1971](more/windward_islands_tournament/1971_windward_islands_tournament.txt) (5/4) [1972](more/windward_islands_tournament/1972_windward_islands_tournament.txt) (6/4) [1973](more/windward_islands_tournament/1973_windward_islands_tournament.txt) (11/4) [1974](more/windward_islands_tournament/1974_windward_islands_tournament.txt) (6/4) [1984](more/windward_islands_tournament/1984_windward_islands_tournament.txt) (2/4) [1985](more/windward_islands_tournament/1985_windward_islands_tournament.txt) (3/4) [1986](more/windward_islands_tournament/1986_windward_islands_tournament.txt) (1/2) [1995](more/windward_islands_tournament/1995_windward_islands_tournament.txt) (6/5) [2001](more/windward_islands_tournament/2001_windward_islands_tournament.txt) (6/4) [2013](more/windward_islands_tournament/2013_windward_islands_tournament.txt) (1/2) [2014](more/windward_islands_tournament/2014_windward_islands_tournament.txt) (2/3) [2015](more/windward_islands_tournament/2015_windward_islands_tournament.txt) (3/4) [2017](more/windward_islands_tournament/2017_windward_islands_tournament.txt) (6/5)
 
-## World Unity Cup (1)
-2016 (3/3)
+## [World Unity Cup](more/world_unity_cup) (1)
+[2016](more/world_unity_cup/2016_world_unity_cup.txt) (3/3)
 
-## Zambian Independence Tournament (1)
-1964 (3/3)
+## [Zambian Independence Tournament](more/zambian_independence_tournament) (1)
+[1964](more/zambian_independence_tournament/1964_zambian_independence_tournament.txt) (3/3)
 
-## Évence Coppée Trophy (1)
-1904 (1/2)
+## [Évence Coppée Trophy](more/evence_coppee_trophy) (1)
+[1904](more/evence_coppee_trophy/1904_evence_coppee_trophy.txt) (1/2)
 
