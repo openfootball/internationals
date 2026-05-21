@@ -59,27 +59,27 @@ See (DIRECTORY/FILE) [TREE.md »](TREE.md)
 # Matches    31
 
 Sat Jun 14
-  Mexico             v Dominican Republic   3-2   @ Inglewood, United States
+  Mexico                 3-2 Dominican Republic       @ Inglewood, United States
      (Edson Álvarez 44' Raúl Jiménez 47' César Montes 53';
       Peter González 51' Edison Azcona 67')
 Sun Jun 15
-  Costa Rica         v Suriname             4-3   @ San Diego, United States
-     (Alonso Martínez 14' Manfred Ugalde 19'(p), 90'(p) Josimar Alcócer 76';
+  Costa Rica             4-3 Suriname                 @ San Diego, United States
+     (Alonso Martínez 14' Manfred Ugalde 19'(p),90'(p) Josimar Alcócer 76';
       Gyrano Kerk 34' Richonell Margaret 59' Shaquille Pinas 64'(p))
-  United States      v Trinidad and Tobago  5-0   @ San Jose, United States
-     (Malik Tillman 16', 41' Patrick Agyemang 44' Brenden Aaronson 82' Haji Wright 84')
-  Haiti              v Saudi Arabia         0-1   @ San Diego, United States
+  United States          5-0 Trinidad and Tobago      @ San Jose, United States
+     (Malik Tillman 16',41' Patrick Agyemang 44' Brenden Aaronson 82' Haji Wright 84')
+  Haiti                  0-1 Saudi Arabia             @ San Diego, United States
      (Saleh Al-Shehri 21'(p))
 
 ...
 
 Wed Jul 2
-  United States      v Guatemala            2-1   @ St. Louis, United States
-     (Diego Luna 4', 15'; Olger Escobar 80')
-  Mexico             v Honduras             1-0   @ Santa Clara, United States
+  United States          2-1 Guatemala                @ St. Louis, United States
+     (Diego Luna 4',15'; Olger Escobar 80')
+  Mexico                 1-0 Honduras                 @ Santa Clara, United States
      (Raúl Jiménez 50')
 Sun Jul 6
-  United States      v Mexico               1-2   @ Houston, United States
+  United States          1-2 Mexico                   @ Houston, United States
      (Chris Richards 4'; Raúl Jiménez 27' Edson Álvarez 77')
 ```
 
@@ -93,20 +93,20 @@ or [`fifi_wild_cup/2006_fifi_wild_cup.txt`](more/fifi_wild_cup/2006_fifi_wild_cu
 # Matches    10
 
 Mon May 29
-  Northern Cyprus       v Greenland           1-0   @ Hamburg, Germany
-  Republic of St. Pauli v Gibraltar           1-1   @ Hamburg, Germany
+  Northern Cyprus        1-0 Greenland                @ Hamburg, Germany
+  Republic of St. Pauli  1-1 Gibraltar                @ Hamburg, Germany
 Tue May 30
-  Zanzibar              v Northern Cyprus     1-3   @ Hamburg, Germany
-  Republic of St. Pauli v Tibet               7-0   @ Hamburg, Germany
+  Zanzibar               1-3 Northern Cyprus          @ Hamburg, Germany
+  Republic of St. Pauli  7-0 Tibet                    @ Hamburg, Germany
 Wed May 31
-  Gibraltar             v Tibet               5-0   @ Hamburg, Germany
-  Greenland             v Zanzibar            2-4   @ Hamburg, Germany
+  Gibraltar              5-0 Tibet                    @ Hamburg, Germany
+  Greenland              2-4 Zanzibar                 @ Hamburg, Germany
 Thu Jun 1
-  Northern Cyprus       v Gibraltar           2-0   @ Hamburg, Germany
-  Republic of St. Pauli v Zanzibar            1-2   @ Hamburg, Germany
+  Northern Cyprus        2-0 Gibraltar                @ Hamburg, Germany
+  Republic of St. Pauli  1-2 Zanzibar                 @ Hamburg, Germany
 Sat Jun 3
-  Republic of St. Pauli v Gibraltar           1-2   @ Hamburg, Germany
-  Northern Cyprus       v Zanzibar            0-0   @ Hamburg, Germany   [Northern Cyprus wins on penalties]
+  Republic of St. Pauli  1-2 Gibraltar                @ Hamburg, Germany
+  Northern Cyprus        0-0 Zanzibar                 @ Hamburg, Germany   [Northern Cyprus wins on penalties]
 ```
 
 
