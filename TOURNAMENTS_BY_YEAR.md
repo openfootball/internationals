@@ -1,467 +1,778 @@
 # Tournament Index by Year
 
-## 1872 (1)
+[1872](#1872 "1 match") · 
+[1873](#1873 "1 match") · 
+[1874](#1874 "1 match") · 
+[1875](#1875 "1 match") · 
+[1876](#1876 "2 matches") · 
+[1877](#1877 "2 matches") · 
+[1878](#1878 "2 matches") · 
+[1879](#1879 "3 matches") · 
+[1880](#1880 "3 matches") · 
+[1881](#1881 "3 matches") · 
+[1882](#1882 "5 matches") · 
+[1883](#1883 "5 matches") · 
+[1884](#1884 "6 matches") · 
+[1885](#1885 "7 matches") · 
+[1886](#1886 "7 matches") · 
+[1887](#1887 "6 matches") · 
+[1888](#1888 "7 matches") · 
+[1889](#1889 "6 matches") · 
+[1890](#1890 "6 matches") · 
+[1891](#1891 "6 matches") · 
+[1892](#1892 "6 matches") · 
+[1893](#1893 "5 matches") · 
+[1894](#1894 "6 matches") · 
+[1895](#1895 "6 matches") · 
+[1896](#1896 "6 matches") · 
+[1897](#1897 "6 matches") · 
+[1898](#1898 "6 matches") · 
+[1899](#1899 "6 matches") · 
+[1900](#1900 "6 matches") · 
+[1901](#1901 "6 matches") · 
+[1902](#1902 "8 matches") · 
+[1903](#1903 "10 matches") · 
+[1904](#1904 "9 matches") · 
+[1905](#1905 "15 matches") · 
+[1906](#1906 "16 matches") · 
+[1907](#1907 "15 matches") · 
+[1908](#1908 "30 matches") · 
+[1909](#1909 "22 matches") · 
+[1910](#1910 "30 matches") · 
+[1911](#1911 "35 matches") · 
+[1912](#1912 "53 matches") · 
+[1913](#1913 "38 matches") · 
+[1914](#1914 "33 matches") · 
+[1915](#1915 "18 matches") · 
+[1916](#1916 "29 matches") · 
+[1917](#1917 "27 matches") · 
+[1918](#1918 "17 matches") · 
+[1919](#1919 "50 matches") · 
+[1920](#1920 "54 matches") · 
+[1921](#1921 "60 matches") · 
+[1922](#1922 "73 matches") · 
+[1923](#1923 "94 matches") · 
+[1924](#1924 "110 matches") · 
+[1925](#1925 "87 matches") · 
+[1926](#1926 "88 matches") · 
+[1927](#1927 "82 matches") · 
+[1928](#1928 "99 matches") · 
+[1929](#1929 "84 matches") · 
+[1930](#1930 "115 matches") · 
+[1931](#1931 "100 matches") · 
+[1932](#1932 "93 matches") · 
+[1933](#1933 "95 matches") · 
+[1934](#1934 "111 matches") · 
+[1935](#1935 "119 matches") · 
+[1936](#1936 "85 matches") · 
+[1937](#1937 "121 matches") · 
+[1938](#1938 "152 matches") · 
+[1939](#1939 "88 matches") · 
+[1940](#1940 "57 matches") · 
+[1941](#1941 "52 matches") · 
+[1942](#1942 "57 matches") · 
+[1943](#1943 "35 matches") · 
+[1944](#1944 "30 matches") · 
+[1945](#1945 "65 matches") · 
+[1946](#1946 "115 matches") · 
+[1947](#1947 "141 matches") · 
+[1948](#1948 "128 matches") · 
+[1949](#1949 "153 matches") · 
+[1950](#1950 "135 matches") · 
+[1951](#1951 "106 matches") · 
+[1952](#1952 "118 matches") · 
+[1953](#1953 "179 matches") · 
+[1954](#1954 "168 matches") · 
+[1955](#1955 "153 matches") · 
+[1956](#1956 "196 matches") · 
+[1957](#1957 "221 matches") · 
+[1958](#1958 "188 matches") · 
+[1959](#1959 "187 matches") · 
+[1960](#1960 "218 matches") · 
+[1961](#1961 "233 matches") · 
+[1962](#1962 "246 matches") · 
+[1963](#1963 "315 matches") · 
+[1964](#1964 "189 matches") · 
+[1965](#1965 "359 matches") · 
+[1966](#1966 "353 matches") · 
+[1967](#1967 "370 matches") · 
+[1968](#1968 "308 matches") · 
+[1969](#1969 "380 matches") · 
+[1970](#1970 "349 matches") · 
+[1971](#1971 "408 matches") · 
+[1972](#1972 "419 matches") · 
+[1973](#1973 "488 matches") · 
+[1974](#1974 "382 matches") · 
+[1975](#1975 "397 matches") · 
+[1976](#1976 "400 matches") · 
+[1977](#1977 "455 matches") · 
+[1978](#1978 "391 matches") · 
+[1979](#1979 "444 matches") · 
+[1980](#1980 "509 matches") · 
+[1981](#1981 "500 matches") · 
+[1982](#1982 "420 matches") · 
+[1983](#1983 "465 matches") · 
+[1984](#1984 "542 matches") · 
+[1985](#1985 "601 matches") · 
+[1986](#1986 "429 matches") · 
+[1987](#1987 "395 matches") · 
+[1988](#1988 "541 matches") · 
+[1989](#1989 "623 matches") · 
+[1990](#1990 "482 matches") · 
+[1991](#1991 "508 matches") · 
+[1992](#1992 "600 matches") · 
+[1993](#1993 "795 matches") · 
+[1994](#1994 "609 matches") · 
+[1995](#1995 "669 matches") · 
+[1996](#1996 "837 matches") · 
+[1997](#1997 "907 matches") · 
+[1998](#1998 "761 matches") · 
+[1999](#1999 "776 matches") · 
+[2000](#2000 "1040 matches") · 
+[2001](#2001 "1032 matches") · 
+[2002](#2002 "768 matches") · 
+[2003](#2003 "947 matches") · 
+[2004](#2004 "1079 matches") · 
+[2005](#2005 "804 matches") · 
+[2006](#2006 "842 matches") · 
+[2007](#2007 "988 matches") · 
+[2008](#2008 "1101 matches") · 
+[2009](#2009 "925 matches") · 
+[2010](#2010 "863 matches") · 
+[2011](#2011 "1119 matches") · 
+[2012](#2012 "1025 matches") · 
+[2013](#2013 "963 matches") · 
+[2014](#2014 "856 matches") · 
+[2015](#2015 "1039 matches") · 
+[2016](#2016 "920 matches") · 
+[2017](#2017 "924 matches") · 
+[2018](#2018 "929 matches") · 
+[2019](#2019 "1149 matches") · 
+[2020](#2020 "347 matches") · 
+[2021](#2021 "1115 matches") · 
+[2022](#2022 "969 matches") · 
+[2023](#2023 "1054 matches") · 
+[2024](#2024 "1231 matches") · 
+[2025](#2025 "1002 matches") · 
+[2026](#2026 "237 matches")
+
+## 1872
+1 match(es) <br>
 [Friendly](friendly/1872_friendly.txt) (1/2)
 
-## 1873 (1)
+## 1873
+1 match(es) <br>
 [Friendly](friendly/1873_friendly.txt) (1/2)
 
-## 1874 (1)
+## 1874
+1 match(es) <br>
 [Friendly](friendly/1874_friendly.txt) (1/2)
 
-## 1875 (1)
+## 1875
+1 match(es) <br>
 [Friendly](friendly/1875_friendly.txt) (1/2)
 
-## 1876 (2)
+## 1876
+2 match(es) <br>
 [Friendly](friendly/1876_friendly.txt) (2/3)
 
-## 1877 (2)
+## 1877
+2 match(es) <br>
 [Friendly](friendly/1877_friendly.txt) (2/3)
 
-## 1878 (2)
+## 1878
+2 match(es) <br>
 [Friendly](friendly/1878_friendly.txt) (2/3)
 
-## 1879 (3)
+## 1879
+3 match(es) <br>
 [Friendly](friendly/1879_friendly.txt) (3/3)
 
-## 1880 (3)
+## 1880
+3 match(es) <br>
 [Friendly](friendly/1880_friendly.txt) (3/3)
 
-## 1881 (3)
+## 1881
+3 match(es) <br>
 [Friendly](friendly/1881_friendly.txt) (3/3)
 
-## 1882 (5)
+## 1882
+5 match(es) <br>
 [Friendly](friendly/1882_friendly.txt) (5/4)
 
-## 1883 (5)
+## 1883
+5 match(es) <br>
 [Friendly](friendly/1883_friendly.txt) (5/4)
 
-## 1884 (6)
+## 1884
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1884_british_home_championship.txt) (6/4)
 
-## 1885 (7)
+## 1885
+7 match(es) <br>
 [Friendly](friendly/1885_friendly.txt) (1/2) · [British Home Championship](more/british_home_championship/1885_british_home_championship.txt) (6/4)
 
-## 1886 (7)
+## 1886
+7 match(es) <br>
 [Friendly](friendly/1886_friendly.txt) (1/2) · [British Home Championship](more/british_home_championship/1886_british_home_championship.txt) (6/4)
 
-## 1887 (6)
+## 1887
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1887_british_home_championship.txt) (6/4)
 
-## 1888 (7)
+## 1888
+7 match(es) <br>
 [Friendly](friendly/1888_friendly.txt) (1/2) · [British Home Championship](more/british_home_championship/1888_british_home_championship.txt) (6/4)
 
-## 1889 (6)
+## 1889
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1889_british_home_championship.txt) (6/4)
 
-## 1890 (6)
+## 1890
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1890_british_home_championship.txt) (6/4)
 
-## 1891 (6)
+## 1891
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1891_british_home_championship.txt) (6/4)
 
-## 1892 (6)
+## 1892
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1892_british_home_championship.txt) (6/4)
 
-## 1893 (5)
+## 1893
+5 match(es) <br>
 [British Home Championship](more/british_home_championship/1893_british_home_championship.txt) (5/4)
 
-## 1894 (6)
+## 1894
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1894_british_home_championship.txt) (6/4)
 
-## 1895 (6)
+## 1895
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1895_british_home_championship.txt) (6/4)
 
-## 1896 (6)
+## 1896
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1896_british_home_championship.txt) (6/4)
 
-## 1897 (6)
+## 1897
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1897_british_home_championship.txt) (6/4)
 
-## 1898 (6)
+## 1898
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1898_british_home_championship.txt) (6/4)
 
-## 1899 (6)
+## 1899
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1899_british_home_championship.txt) (6/4)
 
-## 1900 (6)
+## 1900
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1900_british_home_championship.txt) (6/4)
 
-## 1901 (6)
+## 1901
+6 match(es) <br>
 [British Home Championship](more/british_home_championship/1901_british_home_championship.txt) (6/4)
 
-## 1902 (8)
+## 1902
+8 match(es) <br>
 [Friendly](friendly/1902_friendly.txt) (2/4) · [British Home Championship](more/british_home_championship/1902_british_home_championship.txt) (6/4)
 
-## 1903 (10)
+## 1903
+10 match(es) <br>
 [Friendly](friendly/1903_friendly.txt) (4/5) · [British Home Championship](more/british_home_championship/1903_british_home_championship.txt) (6/4)
 
-## 1904 (9)
+## 1904
+9 match(es) <br>
 [Friendly](friendly/1904_friendly.txt) (2/2) · [British Home Championship](more/british_home_championship/1904_british_home_championship.txt) (6/4) · [Évence Coppée Trophy](more/evence_coppee_trophy/1904_evence_coppee_trophy.txt) (1/2)
 
-## 1905 (15)
+## 1905
+15 match(es) <br>
 [Friendly](friendly/1905_friendly.txt) (6/8) · [British Home Championship](more/british_home_championship/1905_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1905_copa_lipton.txt) (1/2) · [Muratti Vase](more/muratti_vase/1905_muratti_vase.txt) (2/3)
 
-## 1906 (16)
+## 1906
+16 match(es) <br>
 [Friendly](friendly/1906_friendly.txt) (6/6) · [British Home Championship](more/british_home_championship/1906_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1906_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1906_copa_newton.txt) (1/2) · [Muratti Vase](more/muratti_vase/1906_muratti_vase.txt) (2/3)
 
-## 1907 (15)
+## 1907
+15 match(es) <br>
 [Friendly](friendly/1907_friendly.txt) (7/6) · [British Home Championship](more/british_home_championship/1907_british_home_championship.txt) (6/4) · [Muratti Vase](more/muratti_vase/1907_muratti_vase.txt) (2/3)
 
-## 1908 (30)
+## 1908
+30 match(es) <br>
 [Friendly](friendly/1908_friendly.txt) (17/11) · [British Home Championship](more/british_home_championship/1908_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1908_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1908_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1908_copa_premio_honor_argentino.txt) (1/2) · [Muratti Vase](more/muratti_vase/1908_muratti_vase.txt) (2/3) · [Olympic Games](more/olympic_games/1908_olympic_games.txt) (2/4)
 
-## 1909 (22)
+## 1909
+22 match(es) <br>
 [Friendly](friendly/1909_friendly.txt) (11/8) · [British Home Championship](more/british_home_championship/1909_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1909_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1909_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1909_copa_premio_honor_argentino.txt) (1/2) · [Muratti Vase](more/muratti_vase/1909_muratti_vase.txt) (2/3)
 
-## 1910 (30)
+## 1910
+30 match(es) <br>
 [Friendly](friendly/1910_friendly.txt) (19/15) · [British Home Championship](more/british_home_championship/1910_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1910_copa_lipton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1910_copa_premio_honor_argentino.txt) (2/2) · [Muratti Vase](more/muratti_vase/1910_muratti_vase.txt) (2/3)
 
-## 1911 (35)
+## 1911
+35 match(es) <br>
 [Friendly](friendly/1911_friendly.txt) (22/12) · [British Home Championship](more/british_home_championship/1911_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1911_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1911_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1911_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1911_copa_premio_honor_uruguayo.txt) (2/2) · [Muratti Vase](more/muratti_vase/1911_muratti_vase.txt) (2/3)
 
-## 1912 (53)
+## 1912
+53 match(es) <br>
 [Friendly](friendly/1912_friendly.txt) (26/16) · [British Home Championship](more/british_home_championship/1912_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1912_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1912_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1912_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1912_copa_premio_honor_uruguayo.txt) (1/2) · [Muratti Vase](more/muratti_vase/1912_muratti_vase.txt) (3/3) · [Olympic Games](more/olympic_games/1912_olympic_games.txt) (14/10)
 
-## 1913 (38)
+## 1913
+38 match(es) <br>
 [Friendly](friendly/1913_friendly.txt) (25/16) · [British Home Championship](more/british_home_championship/1913_british_home_championship.txt) (6/4) · [Copa Lipton](more/copa_lipton/1913_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1913_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1913_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1913_copa_premio_honor_uruguayo.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1913_far_eastern_championship_games.txt) (1/2) · [Muratti Vase](more/muratti_vase/1913_muratti_vase.txt) (2/3)
 
-## 1914 (33)
+## 1914
+33 match(es) <br>
 [Friendly](friendly/1914_friendly.txt) (22/16) · [British Home Championship](more/british_home_championship/1914_british_home_championship.txt) (6/4) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1914_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1914_copa_premio_honor_uruguayo.txt) (1/2) · [Copa Roca](more/copa_roca/1914_copa_roca.txt) (1/2) · [Muratti Vase](more/muratti_vase/1914_muratti_vase.txt) (2/3)
 
-## 1915 (18)
+## 1915
+18 match(es) <br>
 [Friendly](friendly/1915_friendly.txt) (13/9) · [Copa Lipton](more/copa_lipton/1915_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1915_copa_newton.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1915_copa_premio_honor_uruguayo.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1915_far_eastern_championship_games.txt) (2/2)
 
-## 1916 (29)
+## 1916
+29 match(es) <br>
 [Friendly](friendly/1916_friendly.txt) (20/12) · [Copa América](copa_america/1916_copa_america.txt) (6/4) · [Copa Lipton](more/copa_lipton/1916_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1916_copa_newton.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1916_copa_premio_honor_uruguayo.txt) (1/2)
 
-## 1917 (27)
+## 1917
+27 match(es) <br>
 [Friendly](friendly/1917_friendly.txt) (15/10) · [Copa América](copa_america/1917_copa_america.txt) (6/4) · [Copa Lipton](more/copa_lipton/1917_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1917_copa_newton.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1917_copa_premio_honor_uruguayo.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1917_far_eastern_championship_games.txt) (3/3)
 
-## 1918 (17)
+## 1918
+17 match(es) <br>
 [Friendly](friendly/1918_friendly.txt) (11/6) · [Copa Lipton](more/copa_lipton/1918_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1918_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1918_copa_premio_honor_argentino.txt) (2/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1918_copa_premio_honor_uruguayo.txt) (2/2)
 
-## 1919 (50)
+## 1919
+50 match(es) <br>
 [Friendly](friendly/1919_friendly.txt) (21/13) · [British Home Championship](more/british_home_championship/1919_british_home_championship.txt) (1/2) · [Copa América](copa_america/1919_copa_america.txt) (7/4) · [Copa Lipton](more/copa_lipton/1919_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1919_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1919_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1919_copa_premio_honor_uruguayo.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1919_far_eastern_championship_games.txt) (3/2) · [Inter-Allied Games](more/inter-allied_games/1919_inter-allied_games.txt) (13/8) · [Muratti Vase](more/muratti_vase/1919_muratti_vase.txt) (1/2)
 
-## 1920 (54)
+## 1920
+54 match(es) <br>
 [Friendly](friendly/1920_friendly.txt) (21/15) · [British Home Championship](more/british_home_championship/1920_british_home_championship.txt) (6/4) · [Copa América](copa_america/1920_copa_america.txt) (6/4) · [Copa Newton](more/copa_newton/1920_copa_newton.txt) (1/2) · [Copa Premio Honor Argentino](more/copa_premio_honor_argentino/1920_copa_premio_honor_argentino.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1920_copa_premio_honor_uruguayo.txt) (1/2) · [Muratti Vase](more/muratti_vase/1920_muratti_vase.txt) (2/3) · [Olympic Games](more/olympic_games/1920_olympic_games.txt) (16/13)
 
-## 1921 (60)
+## 1921
+60 match(es) <br>
 [Friendly](friendly/1921_friendly.txt) (41/33) · [British Home Championship](more/british_home_championship/1921_british_home_championship.txt) (6/4) · [Copa América](copa_america/1921_copa_america.txt) (6/4) · [Far Eastern Championship Games](more/far_eastern_championship_games/1921_far_eastern_championship_games.txt) (3/3) · [Muratti Vase](more/muratti_vase/1921_muratti_vase.txt) (2/3) · [Open International Championship](more/open_international_championship/1921_open_international_championship.txt) (1/2) · [Peace Cup](more/peace_cup/1921_peace_cup.txt) (1/2)
 
-## 1922 (73)
+## 1922
+73 match(es) <br>
 [Friendly](friendly/1922_friendly.txt) (47/31) · [British Home Championship](more/british_home_championship/1922_british_home_championship.txt) (5/4) · [Copa América](copa_america/1922_copa_america.txt) (11/5) · [Copa Lipton](more/copa_lipton/1922_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1922_copa_newton.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1922_copa_premio_honor_uruguayo.txt) (1/2) · [Copa Roca](more/copa_roca/1922_copa_roca.txt) (1/2) · [Muratti Vase](more/muratti_vase/1922_muratti_vase.txt) (2/3) · [Peace Cup](more/peace_cup/1922_peace_cup.txt) (1/2) · [Soccer Ashes](more/soccer_ashes/1922_soccer_ashes.txt) (3/2)
 
-## 1923 (94)
+## 1923
+94 match(es) <br>
 [Friendly](friendly/1923_friendly.txt) (67/38) · [British Home Championship](more/british_home_championship/1923_british_home_championship.txt) (6/4) · [Copa América](copa_america/1923_copa_america.txt) (6/4) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1923_copa_chevallier_boutell.txt) (2/2) · [Copa Lipton](more/copa_lipton/1923_copa_lipton.txt) (1/2) · [Copa Premio Honor Uruguayo](more/copa_premio_honor_uruguayo/1923_copa_premio_honor_uruguayo.txt) (2/2) · [Copa Roca](more/copa_roca/1923_copa_roca.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1923_far_eastern_championship_games.txt) (3/3) · [Muratti Vase](more/muratti_vase/1923_muratti_vase.txt) (2/3) · [Peace Cup](more/peace_cup/1923_peace_cup.txt) (1/2) · [Soccer Ashes](more/soccer_ashes/1923_soccer_ashes.txt) (3/2)
 
-## 1924 (110)
+## 1924
+110 match(es) <br>
 [Friendly](friendly/1924_friendly.txt) (64/38) · [British Home Championship](more/british_home_championship/1924_british_home_championship.txt) (6/4) · [Copa América](copa_america/1924_copa_america.txt) (6/4) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1924_copa_chevallier_boutell.txt) (2/2) · [Copa Lipton](more/copa_lipton/1924_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1924_copa_newton.txt) (1/2) · [Muratti Vase](more/muratti_vase/1924_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1924_nordic_championship.txt) (3/3) · [Olympic Games](more/olympic_games/1924_olympic_games.txt) (24/22) · [Peace Cup](more/peace_cup/1924_peace_cup.txt) (1/2)
 
-## 1925 (87)
+## 1925
+87 match(es) <br>
 [Friendly](friendly/1925_friendly.txt) (62/36) · [British Home Championship](more/british_home_championship/1925_british_home_championship.txt) (7/4) · [Copa América](copa_america/1925_copa_america.txt) (6/3) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1925_copa_chevallier_boutell.txt) (2/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1925_far_eastern_championship_games.txt) (3/3) · [Muratti Vase](more/muratti_vase/1925_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1925_nordic_championship.txt) (3/3) · [Peace Cup](more/peace_cup/1925_peace_cup.txt) (2/2)
 
-## 1926 (88)
+## 1926
+88 match(es) <br>
 [Friendly](friendly/1926_friendly.txt) (65/33) · [British Home Championship](more/british_home_championship/1926_british_home_championship.txt) (6/4) · [Copa América](copa_america/1926_copa_america.txt) (10/5) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1926_copa_chevallier_boutell.txt) (2/2) · [Muratti Vase](more/muratti_vase/1926_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1926_nordic_championship.txt) (3/3)
 
-## 1927 (82)
+## 1927
+82 match(es) <br>
 [Friendly](friendly/1927_friendly.txt) (55/31) · [British Home Championship](more/british_home_championship/1927_british_home_championship.txt) (7/4) · [Central European International Cup](more/central_european_international_cup/1927_central_european_international_cup.txt) (4/4) · [Copa América](copa_america/1927_copa_america.txt) (6/4) · [Copa Lipton](more/copa_lipton/1927_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1927_copa_newton.txt) (1/2) · [Far Eastern Championship Games](more/far_eastern_championship_games/1927_far_eastern_championship_games.txt) (3/3) · [Muratti Vase](more/muratti_vase/1927_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1927_nordic_championship.txt) (3/3)
 
-## 1928 (99)
+## 1928
+99 match(es) <br>
 [Friendly](friendly/1928_friendly.txt) (53/39) · [Baltic Cup](more/baltic_cup/1928_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1928_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1928_central_european_international_cup.txt) (8/5) · [Copa Lipton](more/copa_lipton/1928_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1928_copa_newton.txt) (1/2) · [Muratti Vase](more/muratti_vase/1928_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1928_nordic_championship.txt) (3/3) · [Olympic Games](more/olympic_games/1928_olympic_games.txt) (22/17)
 
-## 1929 (84)
+## 1929
+84 match(es) <br>
 [Friendly](friendly/1929_friendly.txt) (51/32) · [Balkan Cup](more/balkan_cup/1929_balkan_cup.txt) (1/2) · [Baltic Cup](more/baltic_cup/1929_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1929_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1929_central_european_international_cup.txt) (7/5) · [Copa América](copa_america/1929_copa_america.txt) (6/4) · [Copa Lipton](more/copa_lipton/1929_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1929_copa_newton.txt) (1/2) · [Muratti Vase](more/muratti_vase/1929_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1929_nordic_championship.txt) (6/4)
 
-## 1930 (115)
+## 1930
+115 match(es) <br>
 [Friendly](friendly/1930_friendly.txt) (58/36) · [Balkan Cup](more/balkan_cup/1930_balkan_cup.txt) (5/4) · [Baltic Cup](more/baltic_cup/1930_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1930_british_home_championship.txt) (6/4) · [Central American and Caribbean Games](more/central_american_and_caribbean_games/1930_central_american_and_caribbean_games.txt) (12/6) · [Central European International Cup](more/central_european_international_cup/1930_central_european_international_cup.txt) (1/2) · [Copa Newton](more/copa_newton/1930_copa_newton.txt) (1/2) · [FIFA World Cup](fifa_world_cup/1930_fifa_world_cup.txt) (18/13) · [Far Eastern Championship Games](more/far_eastern_championship_games/1930_far_eastern_championship_games.txt) (3/3) · [Muratti Vase](more/muratti_vase/1930_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1930_nordic_championship.txt) (6/4)
 
-## 1931 (100)
+## 1931
+100 match(es) <br>
 [Friendly](friendly/1931_friendly.txt) (58/36) · [Balkan Cup](more/balkan_cup/1931_balkan_cup.txt) (9/5) · [Baltic Cup](more/baltic_cup/1931_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1931_british_home_championship.txt) (8/4) · [Central European International Cup](more/central_european_international_cup/1931_central_european_international_cup.txt) (11/5) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1931_copa_chevallier_boutell.txt) (2/2) · [Copa Rio Branco](more/copa_rio_branco/1931_copa_rio_branco.txt) (1/2) · [Muratti Vase](more/muratti_vase/1931_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1931_nordic_championship.txt) (6/4)
 
-## 1932 (93)
+## 1932
+93 match(es) <br>
 [Friendly](friendly/1932_friendly.txt) (60/39) · [Balkan Cup](more/balkan_cup/1932_balkan_cup.txt) (6/4) · [Baltic Cup](more/baltic_cup/1932_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1932_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1932_central_european_international_cup.txt) (9/5) · [Copa Rio Branco](more/copa_rio_branco/1932_copa_rio_branco.txt) (1/2) · [Muratti Vase](more/muratti_vase/1932_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1932_nordic_championship.txt) (6/4)
 
-## 1933 (95)
+## 1933
+95 match(es) <br>
 [Friendly](friendly/1933_friendly.txt) (60/32) · [Balkan Cup](more/balkan_cup/1933_balkan_cup.txt) (5/4) · [Baltic Cup](more/baltic_cup/1933_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1933_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1933_central_european_international_cup.txt) (5/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/1933_fifa_world_cup_qualification.txt) (5/8) · [Muratti Vase](more/muratti_vase/1933_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1933_nordic_championship.txt) (6/4) · [Soccer Ashes](more/soccer_ashes/1933_soccer_ashes.txt) (3/2)
 
-## 1934 (111)
+## 1934
+111 match(es) <br>
 [Friendly](friendly/1934_friendly.txt) (44/32) · [Balkan Cup](more/balkan_cup/1934_balkan_cup.txt) (4/4) · [British Home Championship](more/british_home_championship/1934_british_home_championship.txt) (4/4) · [Central European International Cup](more/central_european_international_cup/1934_central_european_international_cup.txt) (7/5) · [FIFA World Cup](fifa_world_cup/1934_fifa_world_cup.txt) (17/16) · [FIFA World Cup qualification](fifa_world_cup_qualification/1934_fifa_world_cup_qualification.txt) (21/21) · [Far Eastern Championship Games](more/far_eastern_championship_games/1934_far_eastern_championship_games.txt) (6/4) · [Muratti Vase](more/muratti_vase/1934_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1934_nordic_championship.txt) (6/4)
 
-## 1935 (119)
+## 1935
+119 match(es) <br>
 [Friendly](friendly/1935_friendly.txt) (65/36) · [Balkan Cup](more/balkan_cup/1935_balkan_cup.txt) (8/4) · [Baltic Cup](more/baltic_cup/1935_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1935_british_home_championship.txt) (6/4) · [Central American and Caribbean Games](more/central_american_and_caribbean_games/1935_central_american_and_caribbean_games.txt) (15/6) · [Central European International Cup](more/central_european_international_cup/1935_central_european_international_cup.txt) (8/5) · [Copa América](copa_america/1935_copa_america.txt) (6/4) · [Muratti Vase](more/muratti_vase/1935_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1935_nordic_championship.txt) (6/4)
 
-## 1936 (85)
+## 1936
+85 match(es) <br>
 [Friendly](friendly/1936_friendly.txt) (54/35) · [Balkan Cup](more/balkan_cup/1936_balkan_cup.txt) (3/3) · [Baltic Cup](more/baltic_cup/1936_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1936_british_home_championship.txt) (7/4) · [Central European International Cup](more/central_european_international_cup/1936_central_european_international_cup.txt) (5/5) · [Copa América](copa_america/1936_copa_america.txt) (2/4) · [Muratti Vase](more/muratti_vase/1936_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1936_nordic_championship.txt) (6/4) · [Soccer Ashes](more/soccer_ashes/1936_soccer_ashes.txt) (3/2)
 
-## 1937 (121)
+## 1937
+121 match(es) <br>
 [Friendly](friendly/1937_friendly.txt) (64/40) · [Baltic Cup](more/baltic_cup/1937_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1937_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1937_central_european_international_cup.txt) (10/5) · [Copa América](copa_america/1937_copa_america.txt) (14/6) · [Copa Lipton](more/copa_lipton/1937_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1937_copa_newton.txt) (1/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1937_fifa_world_cup_qualification.txt) (14/15) · [Muratti Vase](more/muratti_vase/1937_muratti_vase.txt) (3/3) · [Nordic Championship](more/nordic_championship/1937_nordic_championship.txt) (5/4)
 
-## 1938 (152)
+## 1938
+152 match(es) <br>
 [Friendly](friendly/1938_friendly.txt) (82/46) · [Baltic Cup](more/baltic_cup/1938_baltic_cup.txt) (3/3) · [Bolivarian Games](more/bolivarian_games/1938_bolivarian_games.txt) (11/5) · [British Home Championship](more/british_home_championship/1938_british_home_championship.txt) (6/4) · [Central American and Caribbean Games](more/central_american_and_caribbean_games/1938_central_american_and_caribbean_games.txt) (15/6) · [Central European International Cup](more/central_european_international_cup/1938_central_european_international_cup.txt) (1/2) · [FIFA World Cup](fifa_world_cup/1938_fifa_world_cup.txt) (18/15) · [FIFA World Cup qualification](fifa_world_cup_qualification/1938_fifa_world_cup_qualification.txt) (8/12) · [Muratti Vase](more/muratti_vase/1938_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1938_nordic_championship.txt) (6/4)
 
-## 1939 (88)
+## 1939
+88 match(es) <br>
 [Friendly](friendly/1939_friendly.txt) (64/39) · [British Home Championship](more/british_home_championship/1939_british_home_championship.txt) (2/4) · [Copa América](copa_america/1939_copa_america.txt) (10/5) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1939_copa_chevallier_boutell.txt) (2/2) · [Copa Roca](more/copa_roca/1939_copa_roca.txt) (2/2) · [Muratti Vase](more/muratti_vase/1939_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1939_nordic_championship.txt) (6/4)
 
-## 1940 (57)
+## 1940
+57 match(es) <br>
 [Friendly](friendly/1940_friendly.txt) (45/33) · [Baltic Cup](more/baltic_cup/1940_baltic_cup.txt) (3/3) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1940_copa_chevallier_boutell.txt) (2/2) · [Copa Rio Branco](more/copa_rio_branco/1940_copa_rio_branco.txt) (2/2) · [Copa Roca](more/copa_roca/1940_copa_roca.txt) (5/2)
 
-## 1941 (52)
+## 1941
+52 match(es) <br>
 [Friendly](friendly/1941_friendly.txt) (32/24) · [CCCF Championship](more/cccf_championship/1941_cccf_championship.txt) (10/5) · [Copa América](copa_america/1941_copa_america.txt) (10/5)
 
-## 1942 (57)
+## 1942
+57 match(es) <br>
 [Friendly](friendly/1942_friendly.txt) (34/27) · [Copa América](copa_america/1942_copa_america.txt) (21/7) · [Copa Lipton](more/copa_lipton/1942_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1942_copa_newton.txt) (1/2)
 
-## 1943 (35)
+## 1943
+35 match(es) <br>
 [Friendly](friendly/1943_friendly.txt) (21/17) · [CCCF Championship](more/cccf_championship/1943_cccf_championship.txt) (12/4) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1943_copa_chevallier_boutell.txt) (2/2)
 
-## 1944 (30)
+## 1944
+30 match(es) <br>
 [Friendly](friendly/1944_friendly.txt) (30/16)
 
-## 1945 (65)
+## 1945
+65 match(es) <br>
 [Friendly](friendly/1945_friendly.txt) (35/27) · [Copa América](copa_america/1945_copa_america.txt) (21/7) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1945_copa_chevallier_boutell.txt) (4/2) · [Copa Lipton](more/copa_lipton/1945_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1945_copa_newton.txt) (1/2) · [Copa Roca](more/copa_roca/1945_copa_roca.txt) (3/2)
 
-## 1946 (115)
+## 1946
+115 match(es) <br>
 [Friendly](friendly/1946_friendly.txt) (52/33) · [Balkan Cup](more/balkan_cup/1946_balkan_cup.txt) (5/4) · [British Home Championship](more/british_home_championship/1946_british_home_championship.txt) (4/4) · [CCCF Championship](more/cccf_championship/1946_cccf_championship.txt) (15/6) · [Central American and Caribbean Games](more/central_american_and_caribbean_games/1946_central_american_and_caribbean_games.txt) (21/7) · [Copa América](copa_america/1946_copa_america.txt) (15/6) · [Copa Rio Branco](more/copa_rio_branco/1946_copa_rio_branco.txt) (1/2) · [Muratti Vase](more/muratti_vase/1946_muratti_vase.txt) (2/2)
 
-## 1947 (141)
+## 1947
+141 match(es) <br>
 [Friendly](friendly/1947_friendly.txt) (84/51) · [Balkan Cup](more/balkan_cup/1947_balkan_cup.txt) (10/5) · [Bolivarian Games](more/bolivarian_games/1947_bolivarian_games.txt) (1/2) · [British Home Championship](more/british_home_championship/1947_british_home_championship.txt) (6/4) · [Copa América](copa_america/1947_copa_america.txt) (28/8) · [Copa Rio Branco](more/copa_rio_branco/1947_copa_rio_branco.txt) (2/2) · [Muratti Vase](more/muratti_vase/1947_muratti_vase.txt) (1/2) · [NAFC Championship](more/nafc_championship/1947_nafc_championship.txt) (3/3) · [Nordic Championship](more/nordic_championship/1947_nordic_championship.txt) (6/4)
 
-## 1948 (128)
+## 1948
+128 match(es) <br>
 [Friendly](friendly/1948_friendly.txt) (67/51) · [Balkan Cup](more/balkan_cup/1948_balkan_cup.txt) (15/7) · [Baltic Cup](more/baltic_cup/1948_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1948_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1948_cccf_championship.txt) (19/5) · [Central European International Cup](more/central_european_international_cup/1948_central_european_international_cup.txt) (5/4) · [Copa Rio Branco](more/copa_rio_branco/1948_copa_rio_branco.txt) (2/2) · [Muratti Vase](more/muratti_vase/1948_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1948_nordic_championship.txt) (6/4) · [Soccer Ashes](more/soccer_ashes/1948_soccer_ashes.txt) (3/2)
 
-## 1949 (153)
+## 1949
+153 match(es) <br>
 [Friendly](friendly/1949_friendly.txt) (83/59) · [Baltic Cup](more/baltic_cup/1949_baltic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1949_british_home_championship.txt) (2/4) · [Central European International Cup](more/central_european_international_cup/1949_central_european_international_cup.txt) (6/5) · [Copa América](copa_america/1949_copa_america.txt) (29/8) · [FIFA World Cup qualification](fifa_world_cup_qualification/1949_fifa_world_cup_qualification.txt) (19/17) · [Muratti Vase](more/muratti_vase/1949_muratti_vase.txt) (2/3) · [NAFC Championship](more/nafc_championship/1949_nafc_championship.txt) (3/3) · [Nordic Championship](more/nordic_championship/1949_nordic_championship.txt) (6/4)
 
-## 1950 (135)
+## 1950
+135 match(es) <br>
 [Friendly](friendly/1950_friendly.txt) (89/60) · [British Home Championship](more/british_home_championship/1950_british_home_championship.txt) (4/4) · [Central European International Cup](more/central_european_international_cup/1950_central_european_international_cup.txt) (2/3) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1950_copa_chevallier_boutell.txt) (2/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1950_copa_oswaldo_cruz.txt) (2/2) · [Copa Rio Branco](more/copa_rio_branco/1950_copa_rio_branco.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1950_fifa_world_cup.txt) (22/13) · [FIFA World Cup qualification](fifa_world_cup_qualification/1950_fifa_world_cup_qualification.txt) (4/6) · [Muratti Vase](more/muratti_vase/1950_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1950_nordic_championship.txt) (6/4)
 
-## 1951 (106)
+## 1951
+106 match(es) <br>
 [Friendly](friendly/1951_friendly.txt) (78/55) · [Asian Games](more/asian_games/1951_asian_games.txt) (7/6) · [British Home Championship](more/british_home_championship/1951_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1951_cccf_championship.txt) (6/3) · [Central European International Cup](more/central_european_international_cup/1951_central_european_international_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/1951_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1951_nordic_championship.txt) (6/4)
 
-## 1952 (118)
+## 1952
+118 match(es) <br>
 [Friendly](friendly/1952_friendly.txt) (87/57) · [British Home Championship](more/british_home_championship/1952_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1952_central_european_international_cup.txt) (2/3) · [Muratti Vase](more/muratti_vase/1952_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1952_nordic_championship.txt) (6/4) · [Pan American Championship](more/pan_american_championship/1952_pan_american_championship.txt) (15/6)
 
-## 1953 (179)
+## 1953
+179 match(es) <br>
 [Friendly](friendly/1953_friendly.txt) (87/71) · [British Home Championship](more/british_home_championship/1953_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1953_cccf_championship.txt) (21/7) · [Central European International Cup](more/central_european_international_cup/1953_central_european_international_cup.txt) (4/4) · [Copa América](copa_america/1953_copa_america.txt) (22/7) · [Copa del Pacífico](more/copa_del_pacifico/1953_copa_del_pacifico.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1953_fifa_world_cup_qualification.txt) (30/21) · [Muratti Vase](more/muratti_vase/1953_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1953_nordic_championship.txt) (5/4)
 
-## 1954 (168)
+## 1954
+168 match(es) <br>
 [Friendly](friendly/1954_friendly.txt) (86/62) · [Asian Games](more/asian_games/1954_asian_games.txt) (16/12) · [British Home Championship](more/british_home_championship/1954_british_home_championship.txt) (6/4) · [Copa del Pacífico](more/copa_del_pacifico/1954_copa_del_pacifico.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1954_fifa_world_cup.txt) (26/16) · [FIFA World Cup qualification](fifa_world_cup_qualification/1954_fifa_world_cup_qualification.txt) (21/19) · [Muratti Vase](more/muratti_vase/1954_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1954_nordic_championship.txt) (6/4) · [Soccer Ashes](more/soccer_ashes/1954_soccer_ashes.txt) (3/2)
 
-## 1955 (153)
+## 1955
+153 match(es) <br>
 [Friendly](friendly/1955_friendly.txt) (91/57) · [British Home Championship](more/british_home_championship/1955_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1955_cccf_championship.txt) (18/7) · [Central European International Cup](more/central_european_international_cup/1955_central_european_international_cup.txt) (10/6) · [Copa América](copa_america/1955_copa_america.txt) (15/6) · [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins/1955_copa_bernardo_ohiggins.txt) (2/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1955_copa_oswaldo_cruz.txt) (2/2) · [Muratti Vase](more/muratti_vase/1955_muratti_vase.txt) (3/3) · [Nordic Championship](more/nordic_championship/1955_nordic_championship.txt) (6/4)
 
-## 1956 (196)
+## 1956
+196 match(es) <br>
 [Friendly](friendly/1956_friendly.txt) (122/78) · [AFC Asian Cup](afc_asian_cup/1956_afc_asian_cup.txt) (6/4) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1956_afc_asian_cup_qualification.txt) (7/6) · [Atlantic Cup](more/atlantic_cup/1956_atlantic_cup.txt) (3/3) · [British Home Championship](more/british_home_championship/1956_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1956_central_european_international_cup.txt) (8/6) · [Copa América](copa_america/1956_copa_america.txt) (15/6) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1956_copa_chevallier_boutell.txt) (1/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1956_copa_oswaldo_cruz.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1956_fifa_world_cup_qualification.txt) (4/7) · [Muratti Vase](more/muratti_vase/1956_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1956_nordic_championship.txt) (6/4) · [Pan American Championship](more/pan_american_championship/1956_pan_american_championship.txt) (14/6)
 
-## 1957 (221)
+## 1957
+221 match(es) <br>
 [Friendly](friendly/1957_friendly.txt) (68/64) · [African Cup of Nations](african_cup_of_nations/1957_african_cup_of_nations.txt) (2/3) · [British Home Championship](more/british_home_championship/1957_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1957_cccf_championship.txt) (7/5) · [Central European International Cup](more/central_european_international_cup/1957_central_european_international_cup.txt) (4/5) · [Copa América](copa_america/1957_copa_america.txt) (21/7) · [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins/1957_copa_bernardo_ohiggins.txt) (2/2) · [Copa Lipton](more/copa_lipton/1957_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1957_copa_newton.txt) (1/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1957_copa_paz_del_chaco.txt) (4/2) · [Copa Roca](more/copa_roca/1957_copa_roca.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1957_fifa_world_cup_qualification.txt) (82/45) · [Merdeka Tournament](more/merdeka_tournament/1957_merdeka_tournament.txt) (13/7) · [Muratti Vase](more/muratti_vase/1957_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1957_nordic_championship.txt) (6/4)
 
-## 1958 (188)
+## 1958
+188 match(es) <br>
 [Friendly](friendly/1958_friendly.txt) (99/65) · [Asian Games](more/asian_games/1958_asian_games.txt) (22/14) · [British Home Championship](more/british_home_championship/1958_british_home_championship.txt) (6/4) · [Central European International Cup](more/central_european_international_cup/1958_central_european_international_cup.txt) (3/4) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1958_copa_oswaldo_cruz.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1958_fifa_world_cup.txt) (35/16) · [FIFA World Cup qualification](fifa_world_cup_qualification/1958_fifa_world_cup_qualification.txt) (3/4) · [Merdeka Tournament](more/merdeka_tournament/1958_merdeka_tournament.txt) (6/4) · [Muratti Vase](more/muratti_vase/1958_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1958_nordic_championship.txt) (6/4) · [UEFA Euro qualification](uefa_euro_qualification/1958_uefa_euro_qualification.txt) (4/6)
 
-## 1959 (187)
+## 1959
+187 match(es) <br>
 [Friendly](friendly/1959_friendly.txt) (93/73) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1959_afc_asian_cup_qualification.txt) (11/10) · [African Cup of Nations](african_cup_of_nations/1959_african_cup_of_nations.txt) (3/3) · [British Home Championship](more/british_home_championship/1959_british_home_championship.txt) (5/4) · [Central European International Cup](more/central_european_international_cup/1959_central_european_international_cup.txt) (4/5) · [Copa América](copa_america/1959_copa_america.txt) (31/8) · [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins/1959_copa_bernardo_ohiggins.txt) (2/2) · [Merdeka Tournament](more/merdeka_tournament/1959_merdeka_tournament.txt) (9/6) · [Muratti Vase](more/muratti_vase/1959_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1959_nordic_championship.txt) (5/4) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1959_southeast_asian_peninsular_games.txt) (7/4) · [UEFA Euro qualification](uefa_euro_qualification/1959_uefa_euro_qualification.txt) (15/16)
 
-## 1960 (218)
+## 1960
+218 match(es) <br>
 [Friendly](friendly/1960_friendly.txt) (116/68) · [AFC Asian Cup](afc_asian_cup/1960_afc_asian_cup.txt) (6/4) · [African Friendship Games](more/african_friendship_games/1960_african_friendship_games.txt) (10/11) · [Atlantic Cup](more/atlantic_cup/1960_atlantic_cup.txt) (6/4) · [British Home Championship](more/british_home_championship/1960_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1960_cccf_championship.txt) (5/5) · [Central European International Cup](more/central_european_international_cup/1960_central_european_international_cup.txt) (1/2) · [Copa Roca](more/copa_roca/1960_copa_roca.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1960_fifa_world_cup_qualification.txt) (25/28) · [Merdeka Tournament](more/merdeka_tournament/1960_merdeka_tournament.txt) (14/8) · [Muratti Vase](more/muratti_vase/1960_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1960_nordic_championship.txt) (6/4) · [Pan American Championship](more/pan_american_championship/1960_pan_american_championship.txt) (10/4) · [UEFA Euro](uefa_euro/1960_uefa_euro.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1960_uefa_euro_qualification.txt) (5/6)
 
-## 1961 (233)
+## 1961
+233 match(es) <br>
 [Friendly](friendly/1961_friendly.txt) (88/63) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1961_african_cup_of_nations_qualification.txt) (6/5) · [African Friendship Games](more/african_friendship_games/1961_african_friendship_games.txt) (14/12) · [British Home Championship](more/british_home_championship/1961_british_home_championship.txt) (6/4) · [CCCF Championship](more/cccf_championship/1961_cccf_championship.txt) (10/9) · [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins/1961_copa_bernardo_ohiggins.txt) (2/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1961_copa_oswaldo_cruz.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1961_fifa_world_cup_qualification.txt) (66/42) · [Merdeka Tournament](more/merdeka_tournament/1961_merdeka_tournament.txt) (12/8) · [Muratti Vase](more/muratti_vase/1961_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1961_nordic_championship.txt) (6/4) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1961_southeast_asian_peninsular_games.txt) (10/6) · [Vietnam Independence Cup](more/vietnam_independence_cup/1961_vietnam_independence_cup.txt) (3/3) · [Windward Islands Tournament](more/windward_islands_tournament/1961_windward_islands_tournament.txt) (6/4)
 
-## 1962 (246)
+## 1962
+246 match(es) <br>
 [Friendly](friendly/1962_friendly.txt) (134/79) · [African Cup of Nations](african_cup_of_nations/1962_african_cup_of_nations.txt) (4/4) · [Asian Games](more/asian_games/1962_asian_games.txt) (16/8) · [British Home Championship](more/british_home_championship/1962_british_home_championship.txt) (6/4) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1962_copa_carlos_dittborn.txt) (2/2) · [Copa Lipton](more/copa_lipton/1962_copa_lipton.txt) (1/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1962_copa_oswaldo_cruz.txt) (2/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1962_copa_paz_del_chaco.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1962_fifa_world_cup.txt) (32/16) · [Merdeka Tournament](more/merdeka_tournament/1962_merdeka_tournament.txt) (13/8) · [Muratti Vase](more/muratti_vase/1962_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1962_nordic_championship.txt) (6/4) · [UEFA Euro qualification](uefa_euro_qualification/1962_uefa_euro_qualification.txt) (18/24) · [Vietnam Independence Cup](more/vietnam_independence_cup/1962_vietnam_independence_cup.txt) (7/4) · [Windward Islands Tournament](more/windward_islands_tournament/1962_windward_islands_tournament.txt) (1/2)
 
-## 1963 (315)
+## 1963
+315 match(es) <br>
 [Friendly](friendly/1963_friendly.txt) (140/87) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1963_afc_asian_cup_qualification.txt) (6/4) · [African Cup of Nations](african_cup_of_nations/1963_african_cup_of_nations.txt) (8/6) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1963_african_cup_of_nations_qualification.txt) (5/6) · [African Friendship Games](more/african_friendship_games/1963_african_friendship_games.txt) (31/17) · [Arab Cup](more/arab_cup/1963_arab_cup.txt) (10/5) · [British Home Championship](more/british_home_championship/1963_british_home_championship.txt) (6/4) · [CONCACAF Championship](more/concacaf_championship/1963_concacaf_championship.txt) (22/9) · [Copa América](copa_america/1963_copa_america.txt) (21/7) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1963_copa_chevallier_boutell.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1963_copa_juan_pinto_duran.txt) (2/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1963_copa_paz_del_chaco.txt) (2/2) · [Copa Roca](more/copa_roca/1963_copa_roca.txt) (2/2) · [Merdeka Tournament](more/merdeka_tournament/1963_merdeka_tournament.txt) (15/6) · [Muratti Vase](more/muratti_vase/1963_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1963_nordic_championship.txt) (6/4) · [Phillip Seaga Cup](more/phillip_seaga_cup/1963_phillip_seaga_cup.txt) (3/3) · [South Pacific Games](more/south_pacific_games/1963_south_pacific_games.txt) (6/6) · [UEFA Euro qualification](uefa_euro_qualification/1963_uefa_euro_qualification.txt) (26/23)
 
-## 1964 (189)
+## 1964
+189 match(es) <br>
 [Friendly](friendly/1964_friendly.txt) (109/76) · [AFC Asian Cup](afc_asian_cup/1964_afc_asian_cup.txt) (6/4) · [Arab Cup](more/arab_cup/1964_arab_cup.txt) (9/5) · [British Home Championship](more/british_home_championship/1964_british_home_championship.txt) (6/4) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1964_copa_carlos_dittborn.txt) (2/2) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1964_copa_chevallier_boutell.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1964_fifa_world_cup_qualification.txt) (14/16) · [Merdeka Tournament](more/merdeka_tournament/1964_merdeka_tournament.txt) (14/7) · [Muratti Vase](more/muratti_vase/1964_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1964_nordic_championship.txt) (6/4) · [UEFA Euro](uefa_euro/1964_uefa_euro.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1964_uefa_euro_qualification.txt) (6/6) · [Windward Islands Tournament](more/windward_islands_tournament/1964_windward_islands_tournament.txt) (6/3) · [Zambian Independence Tournament](more/zambian_independence_tournament/1964_zambian_independence_tournament.txt) (3/3)
 
-## 1965 (359)
+## 1965
+359 match(es) <br>
 [Friendly](friendly/1965_friendly.txt) (122/82) · [African Cup of Nations](african_cup_of_nations/1965_african_cup_of_nations.txt) (8/6) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1965_african_cup_of_nations_qualification.txt) (18/9) · [All-African Games](more/all-african_games/1965_all-african_games.txt) (20/8) · [British Home Championship](more/british_home_championship/1965_british_home_championship.txt) (6/4) · [CONCACAF Championship](more/concacaf_championship/1965_concacaf_championship.txt) (15/6) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1965_concacaf_championship_qualification.txt) (3/3) · [Copa Artigas](more/copa_artigas/1965_copa_artigas.txt) (2/2) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1965_copa_carlos_dittborn.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1965_copa_juan_pinto_duran.txt) (2/2) · [Copa del Pacífico](more/copa_del_pacifico/1965_copa_del_pacifico.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1965_fifa_world_cup_qualification.txt) (113/51) · [Merdeka Tournament](more/merdeka_tournament/1965_merdeka_tournament.txt) (25/9) · [Muratti Vase](more/muratti_vase/1965_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1965_nordic_championship.txt) (6/4) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1965_southeast_asian_peninsular_games.txt) (7/5) · [Vietnam Independence Cup](more/vietnam_independence_cup/1965_vietnam_independence_cup.txt) (2/3) · [Windward Islands Tournament](more/windward_islands_tournament/1965_windward_islands_tournament.txt) (4/4)
 
-## 1966 (353)
+## 1966
+353 match(es) <br>
 [Friendly](friendly/1966_friendly.txt) (174/85) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1966_african_cup_of_nations_qualification.txt) (1/2) · [Arab Cup](more/arab_cup/1966_arab_cup.txt) (21/10) · [Asian Games](more/asian_games/1966_asian_games.txt) (25/11) · [British Home Championship](more/british_home_championship/1966_british_home_championship.txt) (6/4) · [Copa América qualification](copa_america_qualification/1966_copa_america_qualification.txt) (4/4) · [Copa Artigas](more/copa_artigas/1966_copa_artigas.txt) (2/2) · [Copa Bernardo O'Higgins](more/copa_bernardo_ohiggins/1966_copa_bernardo_ohiggins.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1966_fifa_world_cup.txt) (32/16) · [GaNEFo](more/ganefo/1966_ganefo.txt) (14/6) · [Merdeka Tournament](more/merdeka_tournament/1966_merdeka_tournament.txt) (27/10) · [Muratti Vase](more/muratti_vase/1966_muratti_vase.txt) (3/3) · [Nordic Championship](more/nordic_championship/1966_nordic_championship.txt) (6/4) · [South Pacific Games](more/south_pacific_games/1966_south_pacific_games.txt) (10/6) · [UEFA Euro qualification](uefa_euro_qualification/1966_uefa_euro_qualification.txt) (17/21) · [Vietnam Independence Cup](more/vietnam_independence_cup/1966_vietnam_independence_cup.txt) (3/3) · [Windward Islands Tournament](more/windward_islands_tournament/1966_windward_islands_tournament.txt) (6/4)
 
-## 1967 (370)
+## 1967
+370 match(es) <br>
 [Friendly](friendly/1967_friendly.txt) (139/88) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1967_afc_asian_cup_qualification.txt) (14/13) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1967_african_cup_of_nations_qualification.txt) (34/21) · [British Home Championship](more/british_home_championship/1967_british_home_championship.txt) (6/4) · [CONCACAF Championship](more/concacaf_championship/1967_concacaf_championship.txt) (15/6) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1967_concacaf_championship_qualification.txt) (13/8) · [Copa América](copa_america/1967_copa_america.txt) (15/6) · [Copa Rio Branco](more/copa_rio_branco/1967_copa_rio_branco.txt) (3/2) · [Merdeka Tournament](more/merdeka_tournament/1967_merdeka_tournament.txt) (34/11) · [Muratti Vase](more/muratti_vase/1967_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1967_nordic_championship.txt) (5/4) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1967_southeast_asian_peninsular_games.txt) (8/5) · [UEFA Euro qualification](uefa_euro_qualification/1967_uefa_euro_qualification.txt) (60/27) · [Vietnam Independence Cup](more/vietnam_independence_cup/1967_vietnam_independence_cup.txt) (16/8) · [Windward Islands Tournament](more/windward_islands_tournament/1967_windward_islands_tournament.txt) (6/4)
 
-## 1968 (308)
+## 1968
+308 match(es) <br>
 [Friendly](friendly/1968_friendly.txt) (144/85) · [AFC Asian Cup](afc_asian_cup/1968_afc_asian_cup.txt) (10/5) · [African Cup of Nations](african_cup_of_nations/1968_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1968_african_cup_of_nations_qualification.txt) (2/2) · [British Home Championship](more/british_home_championship/1968_british_home_championship.txt) (2/4) · [Copa Artigas](more/copa_artigas/1968_copa_artigas.txt) (1/2) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1968_copa_carlos_dittborn.txt) (2/2) · [Copa Lipton](more/copa_lipton/1968_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1968_copa_newton.txt) (1/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1968_copa_oswaldo_cruz.txt) (2/2) · [Copa Rio Branco](more/copa_rio_branco/1968_copa_rio_branco.txt) (2/2) · [Copa del Pacífico](more/copa_del_pacifico/1968_copa_del_pacifico.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1968_fifa_world_cup_qualification.txt) (54/44) · [King's Cup](more/kings_cup/1968_kings_cup.txt) (13/6) · [Merdeka Tournament](more/merdeka_tournament/1968_merdeka_tournament.txt) (31/11) · [Muratti Vase](more/muratti_vase/1968_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1968_nordic_championship.txt) (6/4) · [UEFA Euro](uefa_euro/1968_uefa_euro.txt) (5/4) · [UEFA Euro qualification](uefa_euro_qualification/1968_uefa_euro_qualification.txt) (9/10) · [Windward Islands Tournament](more/windward_islands_tournament/1968_windward_islands_tournament.txt) (3/4)
 
-## 1969 (380)
+## 1969
+380 match(es) <br>
 [Friendly](friendly/1969_friendly.txt) (145/90) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1969_african_cup_of_nations_qualification.txt) (20/16) · [British Home Championship](more/british_home_championship/1969_british_home_championship.txt) (6/4) · [CONCACAF Championship](more/concacaf_championship/1969_concacaf_championship.txt) (15/6) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1969_concacaf_championship_qualification.txt) (4/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/1969_fifa_world_cup_qualification.txt) (118/58) · [King's Cup](more/kings_cup/1969_kings_cup.txt) (16/8) · [Merdeka Tournament](more/merdeka_tournament/1969_merdeka_tournament.txt) (19/8) · [Muratti Vase](more/muratti_vase/1969_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1969_nordic_championship.txt) (6/4) · [South Pacific Games](more/south_pacific_games/1969_south_pacific_games.txt) (16/6) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1969_southeast_asian_peninsular_games.txt) (7/5) · [Windward Islands Tournament](more/windward_islands_tournament/1969_windward_islands_tournament.txt) (6/4)
 
-## 1970 (349)
+## 1970
+349 match(es) <br>
 [Friendly](friendly/1970_friendly.txt) (136/85) · [African Cup of Nations](african_cup_of_nations/1970_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1970_african_cup_of_nations_qualification.txt) (19/20) · [Asian Games](more/asian_games/1970_asian_games.txt) (23/10) · [British Home Championship](more/british_home_championship/1970_british_home_championship.txt) (6/4) · [FIFA World Cup](fifa_world_cup/1970_fifa_world_cup.txt) (32/16) · [Gulf Cup](more/gulf_cup/1970_gulf_cup.txt) (6/4) · [Indonesia Tournament](more/indonesia_tournament/1970_indonesia_tournament.txt) (10/6) · [King's Cup](more/kings_cup/1970_kings_cup.txt) (20/9) · [Merdeka Tournament](more/merdeka_tournament/1970_merdeka_tournament.txt) (38/12) · [Muratti Vase](more/muratti_vase/1970_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1970_nordic_championship.txt) (5/4) · [UEFA Euro qualification](uefa_euro_qualification/1970_uefa_euro_qualification.txt) (25/31) · [Vietnam Independence Cup](more/vietnam_independence_cup/1970_vietnam_independence_cup.txt) (6/4) · [Windward Islands Tournament](more/windward_islands_tournament/1970_windward_islands_tournament.txt) (5/4)
 
-## 1971 (408)
+## 1971
+408 match(es) <br>
 [Friendly](friendly/1971_friendly.txt) (141/98) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1971_afc_asian_cup_qualification.txt) (29/13) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1971_african_cup_of_nations_qualification.txt) (15/14) · [British Home Championship](more/british_home_championship/1971_british_home_championship.txt) (6/4) · [CONCACAF Championship](more/concacaf_championship/1971_concacaf_championship.txt) (15/6) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1971_concacaf_championship_qualification.txt) (10/10) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1971_copa_carlos_dittborn.txt) (2/2) · [Copa Chevallier Boutell](more/copa_chevallier_boutell/1971_copa_chevallier_boutell.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1971_copa_juan_pinto_duran.txt) (2/2) · [Copa Roca](more/copa_roca/1971_copa_roca.txt) (2/2) · [Copa del Pacífico](more/copa_del_pacifico/1971_copa_del_pacifico.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1971_fifa_world_cup_qualification.txt) (1/2) · [Indonesia Tournament](more/indonesia_tournament/1971_indonesia_tournament.txt) (19/9) · [King's Cup](more/kings_cup/1971_kings_cup.txt) (9/6) · [Korea Cup](more/korea_cup/1971_korea_cup.txt) (15/8) · [Merdeka Tournament](more/merdeka_tournament/1971_merdeka_tournament.txt) (25/10) · [Muratti Vase](more/muratti_vase/1971_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1971_nordic_championship.txt) (6/4) · [South Pacific Games](more/south_pacific_games/1971_south_pacific_games.txt) (11/6) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1971_southeast_asian_peninsular_games.txt) (13/7) · [UEFA Euro qualification](uefa_euro_qualification/1971_uefa_euro_qualification.txt) (70/32) · [Vietnam Independence Cup](more/vietnam_independence_cup/1971_vietnam_independence_cup.txt) (6/4) · [Windward Islands Tournament](more/windward_islands_tournament/1971_windward_islands_tournament.txt) (5/4)
 
-## 1972 (419)
+## 1972
+419 match(es) <br>
 [Friendly](friendly/1972_friendly.txt) (145/94) · [AFC Asian Cup](afc_asian_cup/1972_afc_asian_cup.txt) (13/6) · [African Cup of Nations](african_cup_of_nations/1972_african_cup_of_nations.txt) (16/8) · [Brazil Independence Cup](more/brazil_independence_cup/1972_brazil_independence_cup.txt) (37/18) · [British Home Championship](more/british_home_championship/1972_british_home_championship.txt) (6/4) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1972_concacaf_championship_qualification.txt) (18/12) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1972_copa_carlos_dittborn.txt) (1/2) · [Copa Ramón Castilla](more/copa_ramon_castilla/1972_copa_ramon_castilla.txt) (1/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1972_fifa_world_cup_qualification.txt) (56/51) · [Gulf Cup](more/gulf_cup/1972_gulf_cup.txt) (10/5) · [Indonesia Tournament](more/indonesia_tournament/1972_indonesia_tournament.txt) (11/9) · [King's Cup](more/kings_cup/1972_kings_cup.txt) (12/5) · [Korea Cup](more/korea_cup/1972_korea_cup.txt) (16/8) · [Merdeka Tournament](more/merdeka_tournament/1972_merdeka_tournament.txt) (25/10) · [Muratti Vase](more/muratti_vase/1972_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1972_nordic_championship.txt) (4/4) · [Palestine Cup](more/palestine_cup/1972_palestine_cup.txt) (20/9) · [UEFA Euro](uefa_euro/1972_uefa_euro.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1972_uefa_euro_qualification.txt) (10/10) · [Vietnam Independence Cup](more/vietnam_independence_cup/1972_vietnam_independence_cup.txt) (6/4) · [Windward Islands Tournament](more/windward_islands_tournament/1972_windward_islands_tournament.txt) (6/4)
 
-## 1973 (488)
+## 1973
+488 match(es) <br>
 [Friendly](friendly/1973_friendly.txt) (148/92) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1973_african_cup_of_nations_qualification.txt) (30/21) · [All-African Games](more/all-african_games/1973_all-african_games.txt) (16/8) · [Balkan Cup](more/balkan_cup/1973_balkan_cup.txt) (1/2) · [British Home Championship](more/british_home_championship/1973_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1973_cecafa_cup.txt) (8/6) · [CONCACAF Championship](more/concacaf_championship/1973_concacaf_championship.txt) (15/6) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1973_copa_carlos_dittborn.txt) (2/2) · [Copa Lipton](more/copa_lipton/1973_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1973_copa_newton.txt) (1/2) · [Copa Ramón Castilla](more/copa_ramon_castilla/1973_copa_ramon_castilla.txt) (1/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1973_fifa_world_cup_qualification.txt) (134/66) · [Indonesia Tournament](more/indonesia_tournament/1973_indonesia_tournament.txt) (3/3) · [King's Cup](more/kings_cup/1973_kings_cup.txt) (14/8) · [Korea Cup](more/korea_cup/1973_korea_cup.txt) (10/6) · [Merdeka Tournament](more/merdeka_tournament/1973_merdeka_tournament.txt) (32/10) · [Muratti Vase](more/muratti_vase/1973_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1973_nordic_championship.txt) (4/4) · [Oceania Nations Cup](oceania_nations_cup/1973_oceania_nations_cup.txt) (12/5) · [Palestine Cup](more/palestine_cup/1973_palestine_cup.txt) (24/10) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1973_southeast_asian_peninsular_games.txt) (10/6) · [Vietnam Independence Cup](more/vietnam_independence_cup/1973_vietnam_independence_cup.txt) (3/3) · [Windward Islands Tournament](more/windward_islands_tournament/1973_windward_islands_tournament.txt) (11/4)
 
-## 1974 (382)
+## 1974
+382 match(es) <br>
 [Friendly](friendly/1974_friendly.txt) (159/91) · [African Cup of Nations](african_cup_of_nations/1974_african_cup_of_nations.txt) (17/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1974_african_cup_of_nations_qualification.txt) (8/8) · [Asian Games](more/asian_games/1974_asian_games.txt) (35/15) · [Balkan Cup](more/balkan_cup/1974_balkan_cup.txt) (2/4) · [British Home Championship](more/british_home_championship/1974_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1974_cecafa_cup.txt) (5/6) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1974_copa_carlos_dittborn.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1974_fifa_world_cup.txt) (38/16) · [FIFA World Cup qualification](fifa_world_cup_qualification/1974_fifa_world_cup_qualification.txt) (1/2) · [Gulf Cup](more/gulf_cup/1974_gulf_cup.txt) (13/6) · [Indonesia Tournament](more/indonesia_tournament/1974_indonesia_tournament.txt) (4/4) · [King's Cup](more/kings_cup/1974_kings_cup.txt) (15/7) · [Korea Cup](more/korea_cup/1974_korea_cup.txt) (4/4) · [Kuneitra Cup](more/kuneitra_cup/1974_kuneitra_cup.txt) (15/10) · [Merdeka Tournament](more/merdeka_tournament/1974_merdeka_tournament.txt) (10/6) · [Muratti Vase](more/muratti_vase/1974_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1974_nordic_championship.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1974_uefa_euro_qualification.txt) (28/31) · [Vietnam Independence Cup](more/vietnam_independence_cup/1974_vietnam_independence_cup.txt) (8/6) · [Windward Islands Tournament](more/windward_islands_tournament/1974_windward_islands_tournament.txt) (6/4)
 
-## 1975 (397)
+## 1975
+397 match(es) <br>
 [Friendly](friendly/1975_friendly.txt) (136/92) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1975_afc_asian_cup_qualification.txt) (31/15) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1975_african_cup_of_nations_qualification.txt) (30/21) · [Balkan Cup](more/balkan_cup/1975_balkan_cup.txt) (1/2) · [British Home Championship](more/british_home_championship/1975_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1975_cecafa_cup.txt) (9/6) · [Copa América](copa_america/1975_copa_america.txt) (25/10) · [Copa Artigas](more/copa_artigas/1975_copa_artigas.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1975_copa_juan_pinto_duran.txt) (2/2) · [Copa Newton](more/copa_newton/1975_copa_newton.txt) (1/2) · [Indonesia Tournament](more/indonesia_tournament/1975_indonesia_tournament.txt) (8/5) · [King's Cup](more/kings_cup/1975_kings_cup.txt) (8/5) · [Korea Cup](more/korea_cup/1975_korea_cup.txt) (3/4) · [Merdeka Tournament](more/merdeka_tournament/1975_merdeka_tournament.txt) (29/8) · [Muratti Vase](more/muratti_vase/1975_muratti_vase.txt) (3/3) · [Nordic Championship](more/nordic_championship/1975_nordic_championship.txt) (3/4) · [Palestine Cup](more/palestine_cup/1975_palestine_cup.txt) (14/10) · [South Pacific Games](more/south_pacific_games/1975_south_pacific_games.txt) (13/7) · [Southeast Asian Peninsular Games](more/southeast_asian_peninsular_games/1975_southeast_asian_peninsular_games.txt) (6/4) · [UEFA Euro qualification](uefa_euro_qualification/1975_uefa_euro_qualification.txt) (67/32)
 
-## 1976 (400)
+## 1976
+400 match(es) <br>
 [Friendly](friendly/1976_friendly.txt) (163/106) · [AFC Asian Cup](afc_asian_cup/1976_afc_asian_cup.txt) (10/6) · [African Cup of Nations](african_cup_of_nations/1976_african_cup_of_nations.txt) (18/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1976_african_cup_of_nations_qualification.txt) (1/2) · [Atlantic Cup](more/atlantic_cup/1976_atlantic_cup.txt) (2/2) · [Balkan Cup](more/balkan_cup/1976_balkan_cup.txt) (2/2) · [British Home Championship](more/british_home_championship/1976_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1976_cecafa_cup.txt) (12/7) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1976_concacaf_championship_qualification.txt) (36/16) · [Copa Carlos Dittborn](more/copa_carlos_dittborn/1976_copa_carlos_dittborn.txt) (1/2) · [Copa Félix Bogado](more/copa_felix_bogado/1976_copa_felix_bogado.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1976_copa_juan_pinto_duran.txt) (1/2) · [Copa Lipton](more/copa_lipton/1976_copa_lipton.txt) (1/2) · [Copa Newton](more/copa_newton/1976_copa_newton.txt) (1/2) · [Copa Oswaldo Cruz](more/copa_oswaldo_cruz/1976_copa_oswaldo_cruz.txt) (2/2) · [Copa Ramón Castilla](more/copa_ramon_castilla/1976_copa_ramon_castilla.txt) (2/2) · [Copa Rio Branco](more/copa_rio_branco/1976_copa_rio_branco.txt) (2/2) · [Copa Roca](more/copa_roca/1976_copa_roca.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1976_fifa_world_cup_qualification.txt) (50/51) · [Gulf Cup](more/gulf_cup/1976_gulf_cup.txt) (22/7) · [Indonesia Tournament](more/indonesia_tournament/1976_indonesia_tournament.txt) (3/3) · [King's Cup](more/kings_cup/1976_kings_cup.txt) (9/6) · [Korea Cup](more/korea_cup/1976_korea_cup.txt) (10/7) · [Merdeka Tournament](more/merdeka_tournament/1976_merdeka_tournament.txt) (22/7) · [Muratti Vase](more/muratti_vase/1976_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1976_nordic_championship.txt) (5/4) · [UEFA Euro](uefa_euro/1976_uefa_euro.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1976_uefa_euro_qualification.txt) (9/9)
 
-## 1977 (455)
+## 1977
+455 match(es) <br>
 [Friendly](friendly/1977_friendly.txt) (181/111) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1977_african_cup_of_nations_qualification.txt) (27/20) · [Balkan Cup](more/balkan_cup/1977_balkan_cup.txt) (4/5) · [Beijing International Friendship Tournament](more/beijing_international_friendship_tournament/1977_beijing_international_friendship_tournament.txt) (6/5) · [British Home Championship](more/british_home_championship/1977_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1977_cecafa_cup.txt) (11/7) · [CONCACAF Championship](more/concacaf_championship/1977_concacaf_championship.txt) (15/6) · [Copa Artigas](more/copa_artigas/1977_copa_artigas.txt) (2/2) · [Copa Félix Bogado](more/copa_felix_bogado/1977_copa_felix_bogado.txt) (2/2) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1977_copa_juan_pinto_duran.txt) (1/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1977_copa_paz_del_chaco.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1977_fifa_world_cup_qualification.txt) (150/70) · [King's Cup](more/kings_cup/1977_kings_cup.txt) (6/4) · [Korea Cup](more/korea_cup/1977_korea_cup.txt) (6/5) · [Merdeka Tournament](more/merdeka_tournament/1977_merdeka_tournament.txt) (16/6) · [Muratti Vase](more/muratti_vase/1977_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1977_nordic_championship.txt) (4/4) · [Real Madrid 75th Anniversary Cup](more/real_madrid_75th_anniversary_cup/1977_real_madrid_75th_anniversary_cup.txt) (1/2) · [Southeast Asian Games](more/southeast_asian_games/1977_southeast_asian_games.txt) (13/7)
 
-## 1978 (391)
+## 1978
+391 match(es) <br>
 [Friendly](friendly/1978_friendly.txt) (148/94) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1978_afc_asian_cup_qualification.txt) (5/4) · [African Cup of Nations](african_cup_of_nations/1978_african_cup_of_nations.txt) (15/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1978_african_cup_of_nations_qualification.txt) (4/4) · [All-African Games](more/all-african_games/1978_all-african_games.txt) (16/8) · [Asian Games](more/asian_games/1978_asian_games.txt) (32/14) · [Balkan Cup](more/balkan_cup/1978_balkan_cup.txt) (4/5) · [Beijing International Friendship Tournament](more/beijing_international_friendship_tournament/1978_beijing_international_friendship_tournament.txt) (1/2) · [British Home Championship](more/british_home_championship/1978_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1978_cecafa_cup.txt) (14/5) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1978_cfu_caribbean_cup.txt) (6/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1978_cfu_caribbean_cup_qualification.txt) (14/11) · [Copa Ramón Castilla](more/copa_ramon_castilla/1978_copa_ramon_castilla.txt) (2/2) · [FIFA World Cup](fifa_world_cup/1978_fifa_world_cup.txt) (38/16) · [Indonesia Tournament](more/indonesia_tournament/1978_indonesia_tournament.txt) (8/5) · [King's Cup](more/kings_cup/1978_kings_cup.txt) (2/3) · [Kirin Cup](more/kirin_cup/1978_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1978_korea_cup.txt) (5/7) · [Merdeka Tournament](more/merdeka_tournament/1978_merdeka_tournament.txt) (29/8) · [Muratti Vase](more/muratti_vase/1978_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1978_nordic_championship.txt) (4/4) · [UEFA Euro qualification](uefa_euro_qualification/1978_uefa_euro_qualification.txt) (35/30)
 
-## 1979 (444)
+## 1979
+444 match(es) <br>
 [Friendly](friendly/1979_friendly.txt) (158/102) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1979_afc_asian_cup_qualification.txt) (8/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1979_african_cup_of_nations_qualification.txt) (28/20) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1979_amilcar_cabral_cup.txt) (13/7) · [British Home Championship](more/british_home_championship/1979_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1979_cecafa_cup.txt) (14/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1979_cfu_caribbean_cup.txt) (5/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1979_cfu_caribbean_cup_qualification.txt) (12/9) · [Copa América](copa_america/1979_copa_america.txt) (25/10) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1979_copa_juan_pinto_duran.txt) (2/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1979_copa_paz_del_chaco.txt) (2/2) · [FIFA 75th Anniversary Cup](more/fifa_75th_anniversary_cup/1979_fifa_75th_anniversary_cup.txt) (1/2) · [Gulf Cup](more/gulf_cup/1979_gulf_cup.txt) (21/7) · [Indian Ocean Island Games](more/indian_ocean_island_games/1979_indian_ocean_island_games.txt) (9/5) · [King's Cup](more/kings_cup/1979_kings_cup.txt) (3/3) · [Kirin Cup](more/kirin_cup/1979_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1979_korea_cup.txt) (7/7) · [Merdeka Tournament](more/merdeka_tournament/1979_merdeka_tournament.txt) (15/6) · [Muratti Vase](more/muratti_vase/1979_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1979_nordic_championship.txt) (4/4) · [South Pacific Games](more/south_pacific_games/1979_south_pacific_games.txt) (26/12) · [Southeast Asian Games](more/southeast_asian_games/1979_southeast_asian_games.txt) (12/5) · [UEFA Euro qualification](uefa_euro_qualification/1979_uefa_euro_qualification.txt) (70/31)
 
-## 1980 (509)
+## 1980
+509 match(es) <br>
 [Friendly](friendly/1980_friendly.txt) (215/107) · [AFC Asian Cup](afc_asian_cup/1980_afc_asian_cup.txt) (24/10) · [African Cup of Nations](african_cup_of_nations/1980_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1980_african_cup_of_nations_qualification.txt) (14/14) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1980_amilcar_cabral_cup.txt) (10/6) · [Balkan Cup](more/balkan_cup/1980_balkan_cup.txt) (2/2) · [British Home Championship](more/british_home_championship/1980_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1980_cecafa_cup.txt) (8/6) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1980_concacaf_championship_qualification.txt) (39/15) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1980_copa_paz_del_chaco.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1980_fifa_world_cup_qualification.txt) (89/62) · [Guangzhou International Friendship Tournament](more/guangzhou_international_friendship_tournament/1980_guangzhou_international_friendship_tournament.txt) (4/3) · [King's Cup](more/kings_cup/1980_kings_cup.txt) (3/3) · [Korea Cup](more/korea_cup/1980_korea_cup.txt) (11/5) · [Merdeka Tournament](more/merdeka_tournament/1980_merdeka_tournament.txt) (28/8) · [Mundialito](more/mundialito/1980_mundialito.txt) (1/2) · [Muratti Vase](more/muratti_vase/1980_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1980_nordic_championship.txt) (4/4) · [Oceania Nations Cup](oceania_nations_cup/1980_oceania_nations_cup.txt) (14/8) · [UEFA Euro](uefa_euro/1980_uefa_euro.txt) (14/8) · [UEFA Euro qualification](uefa_euro_qualification/1980_uefa_euro_qualification.txt) (3/6)
 
-## 1981 (500)
+## 1981
+500 match(es) <br>
 [Friendly](friendly/1981_friendly.txt) (158/100) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1981_african_cup_of_nations_qualification.txt) (28/21) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1981_amilcar_cabral_cup.txt) (13/7) · [British Home Championship](more/british_home_championship/1981_british_home_championship.txt) (4/4) · [CECAFA Cup](more/cecafa_cup/1981_cecafa_cup.txt) (15/8) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1981_cfu_caribbean_cup.txt) (5/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1981_cfu_caribbean_cup_qualification.txt) (15/8) · [CONCACAF Championship](more/concacaf_championship/1981_concacaf_championship.txt) (15/6) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1981_copa_juan_pinto_duran.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1981_fifa_world_cup_qualification.txt) (159/66) · [Indonesia Tournament](more/indonesia_tournament/1981_indonesia_tournament.txt) (2/3) · [King's Cup](more/kings_cup/1981_kings_cup.txt) (6/4) · [Kirin Cup](more/kirin_cup/1981_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1981_korea_cup.txt) (9/7) · [Merdeka Tournament](more/merdeka_tournament/1981_merdeka_tournament.txt) (22/10) · [Mundialito](more/mundialito/1981_mundialito.txt) (6/6) · [Muratti Vase](more/muratti_vase/1981_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1981_nordic_championship.txt) (5/4) · [South Pacific Mini Games](more/south_pacific_mini_games/1981_south_pacific_mini_games.txt) (23/7) · [Southeast Asian Games](more/southeast_asian_games/1981_southeast_asian_games.txt) (10/6)
 
-## 1982 (420)
+## 1982
+420 match(es) <br>
 [Friendly](friendly/1982_friendly.txt) (152/96) · [African Cup of Nations](african_cup_of_nations/1982_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1982_african_cup_of_nations_qualification.txt) (13/14) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1982_amilcar_cabral_cup.txt) (16/8) · [Asian Games](more/asian_games/1982_asian_games.txt) (32/16) · [Beijing International Friendship Tournament](more/beijing_international_friendship_tournament/1982_beijing_international_friendship_tournament.txt) (3/3) · [British Home Championship](more/british_home_championship/1982_british_home_championship.txt) (6/4) · [CECAFA Cup](more/cecafa_cup/1982_cecafa_cup.txt) (13/7) · [Copa del Pacífico](more/copa_del_pacifico/1982_copa_del_pacifico.txt) (1/2) · [FIFA World Cup](fifa_world_cup/1982_fifa_world_cup.txt) (52/24) · [FIFA World Cup qualification](fifa_world_cup_qualification/1982_fifa_world_cup_qualification.txt) (1/2) · [Gulf Cup](more/gulf_cup/1982_gulf_cup.txt) (15/6) · [King's Cup](more/kings_cup/1982_kings_cup.txt) (8/6) · [Kirin Cup](more/kirin_cup/1982_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1982_korea_cup.txt) (4/5) · [Merdeka Tournament](more/merdeka_tournament/1982_merdeka_tournament.txt) (17/9) · [Merlion Cup](more/merlion_cup/1982_merlion_cup.txt) (6/5) · [Muratti Vase](more/muratti_vase/1982_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1982_nehru_cup.txt) (7/4) · [Nordic Championship](more/nordic_championship/1982_nordic_championship.txt) (5/4) · [UEFA Euro qualification](uefa_euro_qualification/1982_uefa_euro_qualification.txt) (37/31) · [West African Cup](more/west_african_cup/1982_west_african_cup.txt) (13/7)
 
-## 1983 (465)
+## 1983
+465 match(es) <br>
 [Friendly](friendly/1983_friendly.txt) (195/108) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1983_african_cup_of_nations_qualification.txt) (34/23) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1983_amilcar_cabral_cup.txt) (13/7) · [British Home Championship](more/british_home_championship/1983_british_home_championship.txt) (7/4) · [CECAFA Cup](more/cecafa_cup/1983_cecafa_cup.txt) (20/9) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1983_cfu_caribbean_cup.txt) (6/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1983_cfu_caribbean_cup_qualification.txt) (13/9) · [Copa América](copa_america/1983_copa_america.txt) (24/10) · [Copa Artigas](more/copa_artigas/1983_copa_artigas.txt) (2/2) · [Copa Félix Bogado](more/copa_felix_bogado/1983_copa_felix_bogado.txt) (2/2) · [Copa del Pacífico](more/copa_del_pacifico/1983_copa_del_pacifico.txt) (2/2) · [Great Wall Cup](more/great_wall_cup/1983_great_wall_cup.txt) (2/3) · [Kirin Cup](more/kirin_cup/1983_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1983_korea_cup.txt) (10/7) · [Merdeka Tournament](more/merdeka_tournament/1983_merdeka_tournament.txt) (4/5) · [Merlion Cup](more/merlion_cup/1983_merlion_cup.txt) (4/4) · [Muratti Vase](more/muratti_vase/1983_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/1983_nordic_championship.txt) (1/2) · [South Pacific Games](more/south_pacific_games/1983_south_pacific_games.txt) (21/11) · [Southeast Asian Games](more/southeast_asian_games/1983_southeast_asian_games.txt) (13/7) · [Trans-Tasman Cup](more/trans-tasman_cup/1983_trans-tasman_cup.txt) (2/2) · [UEFA Euro qualification](uefa_euro_qualification/1983_uefa_euro_qualification.txt) (79/32) · [West African Cup](more/west_african_cup/1983_west_african_cup.txt) (8/4)
 
-## 1984 (542)
+## 1984
+542 match(es) <br>
 [Friendly](friendly/1984_friendly.txt) (243/112) · [AFC Asian Cup](afc_asian_cup/1984_afc_asian_cup.txt) (24/10) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1984_afc_asian_cup_qualification.txt) (45/21) · [African Cup of Nations](african_cup_of_nations/1984_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1984_african_cup_of_nations_qualification.txt) (16/16) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1984_amilcar_cabral_cup.txt) (16/8) · [British Home Championship](more/british_home_championship/1984_british_home_championship.txt) (5/4) · [CECAFA Cup](more/cecafa_cup/1984_cecafa_cup.txt) (16/8) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1984_concacaf_championship_qualification.txt) (10/10) · [FIFA World Cup qualification](fifa_world_cup_qualification/1984_fifa_world_cup_qualification.txt) (63/52) · [Great Wall Cup](more/great_wall_cup/1984_great_wall_cup.txt) (1/2) · [Gulf Cup](more/gulf_cup/1984_gulf_cup.txt) (22/7) · [Kirin Cup](more/kirin_cup/1984_kirin_cup.txt) (2/3) · [Korea Cup](more/korea_cup/1984_korea_cup.txt) (1/2) · [Merdeka Tournament](more/merdeka_tournament/1984_merdeka_tournament.txt) (6/4) · [Muratti Vase](more/muratti_vase/1984_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1984_nehru_cup.txt) (7/4) · [South Asian Games](more/south_asian_games/1984_south_asian_games.txt) (7/4) · [UDEAC Cup](more/udeac_cup/1984_udeac_cup.txt) (11/6) · [UEFA Euro](uefa_euro/1984_uefa_euro.txt) (15/8) · [West African Cup](more/west_african_cup/1984_west_african_cup.txt) (12/5) · [Windward Islands Tournament](more/windward_islands_tournament/1984_windward_islands_tournament.txt) (2/4)
 
-## 1985 (601)
+## 1985
+601 match(es) <br>
 [Friendly](friendly/1985_friendly.txt) (220/116) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1985_african_cup_of_nations_qualification.txt) (28/20) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1985_amilcar_cabral_cup.txt) (16/8) · [Arab Cup](more/arab_cup/1985_arab_cup.txt) (10/6) · [CECAFA Cup](more/cecafa_cup/1985_cecafa_cup.txt) (10/6) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1985_cfu_caribbean_cup.txt) (6/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1985_cfu_caribbean_cup_qualification.txt) (12/10) · [CONCACAF Championship](more/concacaf_championship/1985_concacaf_championship.txt) (24/9) · [CONMEBOL–UEFA Cup of Champions](more/conmeboluefa_cup_of_champions/1985_conmeboluefa_cup_of_champions.txt) (1/2) · [Copa Artigas](more/copa_artigas/1985_copa_artigas.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1985_fifa_world_cup_qualification.txt) (211/86) · [Indian Ocean Island Games](more/indian_ocean_island_games/1985_indian_ocean_island_games.txt) (7/6) · [Indonesia Tournament](more/indonesia_tournament/1985_indonesia_tournament.txt) (1/2) · [Kirin Cup](more/kirin_cup/1985_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1985_korea_cup.txt) (6/7) · [Merlion Cup](more/merlion_cup/1985_merlion_cup.txt) (4/3) · [Muratti Vase](more/muratti_vase/1985_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1985_nehru_cup.txt) (8/6) · [Rous Cup](more/rous_cup/1985_rous_cup.txt) (1/2) · [South Asian Games](more/south_asian_games/1985_south_asian_games.txt) (8/6) · [Southeast Asian Games](more/southeast_asian_games/1985_southeast_asian_games.txt) (10/6) · [UDEAC Cup](more/udeac_cup/1985_udeac_cup.txt) (10/6) · [Windward Islands Tournament](more/windward_islands_tournament/1985_windward_islands_tournament.txt) (3/4)
 
-## 1986 (429)
+## 1986
+429 match(es) <br>
 [Friendly](friendly/1986_friendly.txt) (186/106) · [African Cup of Nations](african_cup_of_nations/1986_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1986_african_cup_of_nations_qualification.txt) (11/12) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1986_amilcar_cabral_cup.txt) (12/7) · [Asian Games](more/asian_games/1986_asian_games.txt) (40/18) · [FIFA World Cup](fifa_world_cup/1986_fifa_world_cup.txt) (52/24) · [Great Wall Cup](more/great_wall_cup/1986_great_wall_cup.txt) (1/2) · [Gulf Cup](more/gulf_cup/1986_gulf_cup.txt) (21/7) · [Indonesia Tournament](more/indonesia_tournament/1986_indonesia_tournament.txt) (1/2) · [King's Cup](more/kings_cup/1986_kings_cup.txt) (1/2) · [Kirin Cup](more/kirin_cup/1986_kirin_cup.txt) (1/2) · [Lunar New Year Cup](more/lunar_new_year_cup/1986_lunar_new_year_cup.txt) (1/2) · [Merdeka Tournament](more/merdeka_tournament/1986_merdeka_tournament.txt) (5/5) · [Merlion Cup](more/merlion_cup/1986_merlion_cup.txt) (10/4) · [Miami Cup](more/miami_cup/1986_miami_cup.txt) (2/4) · [Muratti Vase](more/muratti_vase/1986_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1986_nehru_cup.txt) (3/3) · [Rous Cup](more/rous_cup/1986_rous_cup.txt) (1/2) · [Trans-Tasman Cup](more/trans-tasman_cup/1986_trans-tasman_cup.txt) (2/2) · [UDEAC Cup](more/udeac_cup/1986_udeac_cup.txt) (9/6) · [UEFA Euro qualification](uefa_euro_qualification/1986_uefa_euro_qualification.txt) (37/32) · [West African Cup](more/west_african_cup/1986_west_african_cup.txt) (14/5) · [Windward Islands Tournament](more/windward_islands_tournament/1986_windward_islands_tournament.txt) (1/2)
 
-## 1987 (395)
+## 1987
+395 match(es) <br>
 [Friendly](friendly/1987_friendly.txt) (147/105) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1987_african_cup_of_nations_qualification.txt) (30/21) · [All-African Games](more/all-african_games/1987_all-african_games.txt) (18/8) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1987_amilcar_cabral_cup.txt) (13/7) · [Arab Cup qualification](more/arab_cup_qualification/1987_arab_cup_qualification.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1987_cecafa_cup.txt) (15/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1987_cfu_caribbean_cup_qualification.txt) (4/4) · [Copa América](copa_america/1987_copa_america.txt) (13/10) · [Indonesia Tournament](more/indonesia_tournament/1987_indonesia_tournament.txt) (4/3) · [King's Cup](more/kings_cup/1987_kings_cup.txt) (2/4) · [Kirin Cup](more/kirin_cup/1987_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1987_korea_cup.txt) (9/6) · [Merdeka Tournament](more/merdeka_tournament/1987_merdeka_tournament.txt) (1/2) · [Muratti Vase](more/muratti_vase/1987_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1987_nehru_cup.txt) (2/4) · [Rous Cup](more/rous_cup/1987_rous_cup.txt) (3/3) · [South Asian Games](more/south_asian_games/1987_south_asian_games.txt) (8/6) · [South Pacific Games](more/south_pacific_games/1987_south_pacific_games.txt) (16/6) · [Southeast Asian Games](more/southeast_asian_games/1987_southeast_asian_games.txt) (6/5) · [Trans-Tasman Cup](more/trans-tasman_cup/1987_trans-tasman_cup.txt) (2/2) · [UDEAC Cup](more/udeac_cup/1987_udeac_cup.txt) (9/5) · [UEFA Euro qualification](uefa_euro_qualification/1987_uefa_euro_qualification.txt) (80/32) · [West African Cup](more/west_african_cup/1987_west_african_cup.txt) (7/6)
 
-## 1988 (541)
+## 1988
+541 match(es) <br>
 [Friendly](friendly/1988_friendly.txt) (226/106) · [AFC Asian Cup](afc_asian_cup/1988_afc_asian_cup.txt) (24/10) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1988_afc_asian_cup_qualification.txt) (41/20) · [African Cup of Nations](african_cup_of_nations/1988_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1988_african_cup_of_nations_qualification.txt) (10/10) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1988_amilcar_cabral_cup.txt) (16/8) · [Arab Cup](more/arab_cup/1988_arab_cup.txt) (13/7) · [CECAFA Cup](more/cecafa_cup/1988_cecafa_cup.txt) (15/8) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1988_cfu_caribbean_cup.txt) (6/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1988_cfu_caribbean_cup_qualification.txt) (4/4) · [CONCACAF Championship qualification](more/concacaf_championship_qualification/1988_concacaf_championship_qualification.txt) (18/14) · [Copa Juan Pinto Durán](more/copa_juan_pinto_duran/1988_copa_juan_pinto_duran.txt) (2/2) · [Copa del Pacífico](more/copa_del_pacifico/1988_copa_del_pacifico.txt) (2/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/1988_fifa_world_cup_qualification.txt) (49/46) · [Four Nations Tournament](more/four_nations_tournament/1988_four_nations_tournament.txt) (4/4) · [Gulf Cup](more/gulf_cup/1988_gulf_cup.txt) (21/7) · [Indonesia Tournament](more/indonesia_tournament/1988_indonesia_tournament.txt) (1/2) · [King's Cup](more/kings_cup/1988_kings_cup.txt) (4/5) · [Kirin Cup](more/kirin_cup/1988_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1988_korea_cup.txt) (1/2) · [Malta International Tournament](more/malta_international_tournament/1988_malta_international_tournament.txt) (3/3) · [Marlboro Cup](more/marlboro_cup/1988_marlboro_cup.txt) (1/2) · [Matthews Cup](more/matthews_cup/1988_matthews_cup.txt) (4/3) · [Melanesia Cup](more/melanesia_cup/1988_melanesia_cup.txt) (8/4) · [Merdeka Tournament](more/merdeka_tournament/1988_merdeka_tournament.txt) (4/5) · [Muratti Vase](more/muratti_vase/1988_muratti_vase.txt) (2/3) · [Rous Cup](more/rous_cup/1988_rous_cup.txt) (3/3) · [Tournament Burkina Faso](more/tournament_burkina_faso/1988_tournament_burkina_faso.txt) (11/5) · [Tournoi de France](more/tournoi_de_france/1988_tournoi_de_france.txt) (4/4) · [Trans-Tasman Cup](more/trans-tasman_cup/1988_trans-tasman_cup.txt) (2/2) · [UDEAC Cup](more/udeac_cup/1988_udeac_cup.txt) (10/6) · [UEFA Euro](uefa_euro/1988_uefa_euro.txt) (15/8)
 
-## 1989 (623)
+## 1989
+623 match(es) <br>
 [Friendly](friendly/1989_friendly.txt) (191/95) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1989_african_cup_of_nations_qualification.txt) (30/21) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1989_amilcar_cabral_cup.txt) (12/7) · [CECAFA Cup](more/cecafa_cup/1989_cecafa_cup.txt) (13/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1989_cfu_caribbean_cup.txt) (7/6) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1989_cfu_caribbean_cup_qualification.txt) (24/15) · [CONCACAF Championship](more/concacaf_championship/1989_concacaf_championship.txt) (18/5) · [Copa América](copa_america/1989_copa_america.txt) (26/10) · [FIFA World Cup qualification](fifa_world_cup_qualification/1989_fifa_world_cup_qualification.txt) (229/82) · [Island Games](more/island_games/1989_island_games.txt) (10/5) · [King's Cup](more/kings_cup/1989_kings_cup.txt) (5/5) · [Korea Cup](more/korea_cup/1989_korea_cup.txt) (1/2) · [Lunar New Year Cup](more/lunar_new_year_cup/1989_lunar_new_year_cup.txt) (1/2) · [Malta International Tournament](more/malta_international_tournament/1989_malta_international_tournament.txt) (6/4) · [Marlboro Cup](more/marlboro_cup/1989_marlboro_cup.txt) (3/4) · [Melanesia Cup](more/melanesia_cup/1989_melanesia_cup.txt) (10/5) · [Muratti Vase](more/muratti_vase/1989_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1989_nehru_cup.txt) (1/2) · [Rous Cup](more/rous_cup/1989_rous_cup.txt) (3/3) · [South Asian Games](more/south_asian_games/1989_south_asian_games.txt) (8/6) · [Southeast Asian Games](more/southeast_asian_games/1989_southeast_asian_games.txt) (13/7) · [UDEAC Cup](more/udeac_cup/1989_udeac_cup.txt) (10/5)
 
-## 1990 (482)
+## 1990
+482 match(es) <br>
 [Friendly](friendly/1990_friendly.txt) (210/107) · [African Cup of Nations](african_cup_of_nations/1990_african_cup_of_nations.txt) (16/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1990_african_cup_of_nations_qualification.txt) (35/32) · [Asian Games](more/asian_games/1990_asian_games.txt) (26/14) · [CECAFA Cup](more/cecafa_cup/1990_cecafa_cup.txt) (12/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1990_cfu_caribbean_cup.txt) (2/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1990_cfu_caribbean_cup_qualification.txt) (24/19) · [Dynasty Cup](more/dynasty_cup/1990_dynasty_cup.txt) (7/4) · [FIFA World Cup](fifa_world_cup/1990_fifa_world_cup.txt) (52/24) · [Gulf Cup](more/gulf_cup/1990_gulf_cup.txt) (10/5) · [Indian Ocean Island Games](more/indian_ocean_island_games/1990_indian_ocean_island_games.txt) (8/5) · [King's Cup](more/kings_cup/1990_kings_cup.txt) (3/3) · [Malta International Tournament](more/malta_international_tournament/1990_malta_international_tournament.txt) (3/3) · [Marlboro Cup](more/marlboro_cup/1990_marlboro_cup.txt) (4/4) · [Melanesia Cup](more/melanesia_cup/1990_melanesia_cup.txt) (10/5) · [Miami Cup](more/miami_cup/1990_miami_cup.txt) (4/4) · [Muratti Vase](more/muratti_vase/1990_muratti_vase.txt) (2/3) · [NAFU Championship](more/nafu_championship/1990_nafu_championship.txt) (1/2) · [UDEAC Cup](more/udeac_cup/1990_udeac_cup.txt) (11/6) · [UEFA Euro qualification](uefa_euro_qualification/1990_uefa_euro_qualification.txt) (42/33)
 
-## 1991 (508)
+## 1991
+508 match(es) <br>
 [Friendly](friendly/1991_friendly.txt) (177/102) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1991_african_cup_of_nations_qualification.txt) (53/30) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1991_amilcar_cabral_cup.txt) (12/7) · [Baltic Cup](more/baltic_cup/1991_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1991_cecafa_cup.txt) (13/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1991_cfu_caribbean_cup.txt) (13/7) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1991_cfu_caribbean_cup_qualification.txt) (15/15) · [Copa América](copa_america/1991_copa_america.txt) (26/10) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1991_copa_paz_del_chaco.txt) (2/2) · [Dakar Tournament](more/dakar_tournament/1991_dakar_tournament.txt) (4/4) · [Gold Cup](gold_cup/1991_gold_cup.txt) (16/8) · [Island Games](more/island_games/1991_island_games.txt) (16/8) · [Kirin Cup](more/kirin_cup/1991_kirin_cup.txt) (1/2) · [Korea Cup](more/korea_cup/1991_korea_cup.txt) (8/5) · [Merdeka Tournament](more/merdeka_tournament/1991_merdeka_tournament.txt) (1/2) · [Miami Cup](more/miami_cup/1991_miami_cup.txt) (2/3) · [Muratti Vase](more/muratti_vase/1991_muratti_vase.txt) (2/3) · [NAFU Championship](more/nafu_championship/1991_nafu_championship.txt) (3/3) · [Nehru Cup](more/nehru_cup/1991_nehru_cup.txt) (6/4) · [Scania 100 Tournament](more/scania_100_tournament/1991_scania_100_tournament.txt) (4/4) · [South Asian Games](more/south_asian_games/1991_south_asian_games.txt) (8/6) · [South Pacific Games](more/south_pacific_games/1991_south_pacific_games.txt) (18/8) · [Southeast Asian Games](more/southeast_asian_games/1991_southeast_asian_games.txt) (13/7) · [Trans-Tasman Cup](more/trans-tasman_cup/1991_trans-tasman_cup.txt) (2/2) · [UEFA Euro qualification](uefa_euro_qualification/1991_uefa_euro_qualification.txt) (81/33) · [UNCAF Cup](more/uncaf_cup/1991_uncaf_cup.txt) (9/6)
 
-## 1992 (600)
+## 1992
+600 match(es) <br>
 [Friendly](friendly/1992_friendly.txt) (231/127) · [AFC Asian Cup](afc_asian_cup/1992_afc_asian_cup.txt) (16/8) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1992_afc_asian_cup_qualification.txt) (19/17) · [African Cup of Nations](african_cup_of_nations/1992_african_cup_of_nations.txt) (20/12) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1992_african_cup_of_nations_qualification.txt) (32/29) · [Arab Cup](more/arab_cup/1992_arab_cup.txt) (10/6) · [Baltic Cup](more/baltic_cup/1992_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1992_cecafa_cup.txt) (14/8) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1992_cfu_caribbean_cup.txt) (8/7) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1992_cfu_caribbean_cup_qualification.txt) (16/19) · [Confederations Cup](more/confederations_cup/1992_confederations_cup.txt) (4/4) · [Copa Lipton](more/copa_lipton/1992_copa_lipton.txt) (1/2) · [Dynasty Cup](more/dynasty_cup/1992_dynasty_cup.txt) (8/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/1992_fifa_world_cup_qualification.txt) (156/93) · [Gulf Cup](more/gulf_cup/1992_gulf_cup.txt) (15/6) · [Jordan International Tournament](more/jordan_international_tournament/1992_jordan_international_tournament.txt) (13/7) · [Kirin Cup](more/kirin_cup/1992_kirin_cup.txt) (3/3) · [Malta International Tournament](more/malta_international_tournament/1992_malta_international_tournament.txt) (1/2) · [Melanesia Cup](more/melanesia_cup/1992_melanesia_cup.txt) (6/4) · [Merlion Cup](more/merlion_cup/1992_merlion_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/1992_muratti_vase.txt) (2/3) · [UEFA Euro](uefa_euro/1992_uefa_euro.txt) (15/8) · [USA Cup](more/usa_cup/1992_usa_cup.txt) (6/4)
 
-## 1993 (795)
+## 1993
+795 match(es) <br>
 [Friendly](friendly/1993_friendly.txt) (192/118) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1993_african_cup_of_nations_qualification.txt) (54/29) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1993_amilcar_cabral_cup.txt) (13/7) · [Baltic Cup](more/baltic_cup/1993_baltic_cup.txt) (3/3) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1993_cfu_caribbean_cup.txt) (14/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1993_cfu_caribbean_cup_qualification.txt) (20/17) · [CONMEBOL–UEFA Cup of Champions](more/conmeboluefa_cup_of_champions/1993_conmeboluefa_cup_of_champions.txt) (1/2) · [Copa América](copa_america/1993_copa_america.txt) (26/12) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1993_copa_paz_del_chaco.txt) (2/2) · [East Asian Games](more/east_asian_games/1993_east_asian_games.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/1993_fifa_world_cup_qualification.txt) (339/108) · [Four Nations Tournament](more/four_nations_tournament/1993_four_nations_tournament.txt) (4/4) · [Gold Cup](gold_cup/1993_gold_cup.txt) (16/8) · [Indian Ocean Island Games](more/indian_ocean_island_games/1993_indian_ocean_island_games.txt) (9/5) · [Island Games](more/island_games/1993_island_games.txt) (16/8) · [King's Cup](more/kings_cup/1993_kings_cup.txt) (2/2) · [Kirin Cup](more/kirin_cup/1993_kirin_cup.txt) (3/3) · [Korea Cup](more/korea_cup/1993_korea_cup.txt) (2/2) · [Merdeka Tournament](more/merdeka_tournament/1993_merdeka_tournament.txt) (4/5) · [Muratti Vase](more/muratti_vase/1993_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1993_nehru_cup.txt) (9/6) · [South Asian Games](more/south_asian_games/1993_south_asian_games.txt) (8/6) · [South Pacific Mini Games](more/south_pacific_mini_games/1993_south_pacific_mini_games.txt) (16/8) · [Southeast Asian Games](more/southeast_asian_games/1993_southeast_asian_games.txt) (20/9) · [UNCAF Cup](more/uncaf_cup/1993_uncaf_cup.txt) (8/5) · [USA Cup](more/usa_cup/1993_usa_cup.txt) (6/4)
 
-## 1994 (609)
+## 1994
+609 match(es) <br>
 [Friendly](friendly/1994_friendly.txt) (278/124) · [African Cup of Nations](african_cup_of_nations/1994_african_cup_of_nations.txt) (20/12) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1994_african_cup_of_nations_qualification.txt) (34/30) · [Asian Games](more/asian_games/1994_asian_games.txt) (40/18) · [Baltic Cup](more/baltic_cup/1994_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1994_cecafa_cup.txt) (11/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1994_cfu_caribbean_cup.txt) (10/6) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1994_cfu_caribbean_cup_qualification.txt) (19/19) · [FIFA World Cup](fifa_world_cup/1994_fifa_world_cup.txt) (52/24) · [Gulf Cup](more/gulf_cup/1994_gulf_cup.txt) (15/6) · [Joe Robbie Cup](more/joe_robbie_cup/1994_joe_robbie_cup.txt) (4/4) · [Kirin Cup](more/kirin_cup/1994_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/1994_lunar_new_year_cup.txt) (1/2) · [Malta International Tournament](more/malta_international_tournament/1994_malta_international_tournament.txt) (6/4) · [Melanesia Cup](more/melanesia_cup/1994_melanesia_cup.txt) (10/5) · [Miami Cup](more/miami_cup/1994_miami_cup.txt) (4/4) · [Muratti Vase](more/muratti_vase/1994_muratti_vase.txt) (2/3) · [Oceania Nations Cup qualification](oceania_nations_cup_qualification/1994_oceania_nations_cup_qualification.txt) (6/4) · [Simba Tournament](more/simba_tournament/1994_simba_tournament.txt) (5/4) · [UEFA Euro qualification](uefa_euro_qualification/1994_uefa_euro_qualification.txt) (80/47) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/1994_united_arab_emirates_friendship_tournament.txt) (6/4)
 
-## 1995 (669)
+## 1995
+669 match(es) <br>
 [Friendly](friendly/1995_friendly.txt) (201/107) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1995_african_cup_of_nations_qualification.txt) (76/30) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1995_amilcar_cabral_cup.txt) (14/8) · [Baltic Cup](more/baltic_cup/1995_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1995_cecafa_cup.txt) (11/7) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1995_cfu_caribbean_cup.txt) (13/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1995_cfu_caribbean_cup_qualification.txt) (26/18) · [Confederations Cup](more/confederations_cup/1995_confederations_cup.txt) (8/6) · [Copa América](copa_america/1995_copa_america.txt) (26/12) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1995_copa_paz_del_chaco.txt) (2/2) · [Dynasty Cup](more/dynasty_cup/1995_dynasty_cup.txt) (8/4) · [Island Games](more/island_games/1995_island_games.txt) (18/8) · [King's Cup](more/kings_cup/1995_kings_cup.txt) (1/2) · [Kirin Cup](more/kirin_cup/1995_kirin_cup.txt) (3/3) · [Korea Cup](more/korea_cup/1995_korea_cup.txt) (5/4) · [Lunar New Year Cup](more/lunar_new_year_cup/1995_lunar_new_year_cup.txt) (2/3) · [Merdeka Tournament](more/merdeka_tournament/1995_merdeka_tournament.txt) (1/2) · [Muratti Vase](more/muratti_vase/1995_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1995_nehru_cup.txt) (6/4) · [Oceania Nations Cup](oceania_nations_cup/1995_oceania_nations_cup.txt) (1/2) · [SAFF Cup](more/saff_cup/1995_saff_cup.txt) (7/5) · [Simba Tournament](more/simba_tournament/1995_simba_tournament.txt) (6/4) · [South Asian Games](more/south_asian_games/1995_south_asian_games.txt) (8/5) · [South Pacific Games](more/south_pacific_games/1995_south_pacific_games.txt) (20/9) · [Southeast Asian Games](more/southeast_asian_games/1995_southeast_asian_games.txt) (24/10) · [Trans-Tasman Cup](more/trans-tasman_cup/1995_trans-tasman_cup.txt) (2/2) · [UEFA Euro qualification](uefa_euro_qualification/1995_uefa_euro_qualification.txt) (151/47) · [UNCAF Cup](more/uncaf_cup/1995_uncaf_cup.txt) (12/7) · [USA Cup](more/usa_cup/1995_usa_cup.txt) (6/4) · [Windward Islands Tournament](more/windward_islands_tournament/1995_windward_islands_tournament.txt) (6/5)
 
-## 1996 (837)
+## 1996
+837 match(es) <br>
 [Friendly](friendly/1996_friendly.txt) (304/131) · [AFC Asian Cup](afc_asian_cup/1996_afc_asian_cup.txt) (26/12) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1996_afc_asian_cup_qualification.txt) (61/33) · [AFF Championship](more/aff_championship/1996_aff_championship.txt) (24/10) · [African Cup of Nations](african_cup_of_nations/1996_african_cup_of_nations.txt) (29/15) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1996_african_cup_of_nations_qualification.txt) (20/26) · [Baltic Cup](more/baltic_cup/1996_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/1996_cecafa_cup.txt) (7/6) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1996_cfu_caribbean_cup.txt) (14/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1996_cfu_caribbean_cup_qualification.txt) (17/17) · [FIFA World Cup qualification](fifa_world_cup_qualification/1996_fifa_world_cup_qualification.txt) (232/132) · [Gold Cup](gold_cup/1996_gold_cup.txt) (13/9) · [Gulf Cup](more/gulf_cup/1996_gulf_cup.txt) (15/6) · [King Hassan II Tournament](more/king_hassan_ii_tournament/1996_king_hassan_ii_tournament.txt) (4/4) · [King's Cup](more/kings_cup/1996_kings_cup.txt) (2/2) · [Kirin Cup](more/kirin_cup/1996_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/1996_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/1996_malta_international_tournament.txt) (6/4) · [Muratti Vase](more/muratti_vase/1996_muratti_vase.txt) (3/3) · [Oceania Nations Cup](oceania_nations_cup/1996_oceania_nations_cup.txt) (3/3) · [Simba Tournament](more/simba_tournament/1996_simba_tournament.txt) (6/4) · [UEFA Euro](uefa_euro/1996_uefa_euro.txt) (31/16) · [USA Cup](more/usa_cup/1996_usa_cup.txt) (6/4) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/1996_united_arab_emirates_friendship_tournament.txt) (6/4)
 
-## 1997 (907)
+## 1997
+907 match(es) <br>
 [Friendly](friendly/1997_friendly.txt) (209/132) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1997_african_cup_of_nations_qualification.txt) (51/26) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/1997_amilcar_cabral_cup.txt) (16/8) · [Baltic Cup](more/baltic_cup/1997_baltic_cup.txt) (3/3) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1997_cfu_caribbean_cup.txt) (10/6) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1997_cfu_caribbean_cup_qualification.txt) (19/15) · [COSAFA Cup](more/cosafa_cup/1997_cosafa_cup.txt) (10/5) · [COSAFA Cup qualification](more/cosafa_cup_qualification/1997_cosafa_cup_qualification.txt) (4/8) · [Confederations Cup](more/confederations_cup/1997_confederations_cup.txt) (16/8) · [Copa América](copa_america/1997_copa_america.txt) (26/12) · [Cyprus International Tournament](more/cyprus_international_tournament/1997_cyprus_international_tournament.txt) (6/4) · [Dunhill Cup](more/dunhill_cup/1997_dunhill_cup.txt) (15/8) · [East Asian Games](more/east_asian_games/1997_east_asian_games.txt) (10/5) · [FIFA World Cup qualification](fifa_world_cup_qualification/1997_fifa_world_cup_qualification.txt) (410/124) · [Gold Cup qualification](gold_cup_qualification/1997_gold_cup_qualification.txt) (1/2) · [Island Games](more/island_games/1997_island_games.txt) (20/9) · [King's Cup](more/kings_cup/1997_kings_cup.txt) (4/3) · [Kirin Cup](more/kirin_cup/1997_kirin_cup.txt) (3/3) · [Korea Cup](more/korea_cup/1997_korea_cup.txt) (6/4) · [Lunar New Year Cup](more/lunar_new_year_cup/1997_lunar_new_year_cup.txt) (2/3) · [Muratti Vase](more/muratti_vase/1997_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/1997_nehru_cup.txt) (7/4) · [SAFF Cup](more/saff_cup/1997_saff_cup.txt) (10/6) · [Southeast Asian Games](more/southeast_asian_games/1997_southeast_asian_games.txt) (24/10) · [Tournoi de France](more/tournoi_de_france/1997_tournoi_de_france.txt) (6/4) · [UNCAF Cup](more/uncaf_cup/1997_uncaf_cup.txt) (14/7) · [USA Cup](more/usa_cup/1997_usa_cup.txt) (3/3)
 
-## 1998 (761)
+## 1998
+761 match(es) <br>
 [Friendly](friendly/1998_friendly.txt) (295/146) · [AFF Championship](more/aff_championship/1998_aff_championship.txt) (16/8) · [AFF Championship qualification](more/aff_championship_qualification/1998_aff_championship_qualification.txt) (6/6) · [African Cup of Nations](african_cup_of_nations/1998_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1998_african_cup_of_nations_qualification.txt) (38/36) · [Arab Cup](more/arab_cup/1998_arab_cup.txt) (10/9) · [Arab Cup qualification](more/arab_cup_qualification/1998_arab_cup_qualification.txt) (6/4) · [Asian Games](more/asian_games/1998_asian_games.txt) (54/23) · [Baltic Cup](more/baltic_cup/1998_baltic_cup.txt) (3/3) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1998_cfu_caribbean_cup.txt) (16/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1998_cfu_caribbean_cup_qualification.txt) (25/22) · [COSAFA Cup](more/cosafa_cup/1998_cosafa_cup.txt) (10/5) · [COSAFA Cup qualification](more/cosafa_cup_qualification/1998_cosafa_cup_qualification.txt) (5/10) · [Cyprus International Tournament](more/cyprus_international_tournament/1998_cyprus_international_tournament.txt) (6/5) · [Dynasty Cup](more/dynasty_cup/1998_dynasty_cup.txt) (6/4) · [FIFA World Cup](fifa_world_cup/1998_fifa_world_cup.txt) (64/32) · [Gold Cup](gold_cup/1998_gold_cup.txt) (16/10) · [Gulf Cup](more/gulf_cup/1998_gulf_cup.txt) (15/6) · [Indian Ocean Island Games](more/indian_ocean_island_games/1998_indian_ocean_island_games.txt) (9/5) · [King Hassan II Tournament](more/king_hassan_ii_tournament/1998_king_hassan_ii_tournament.txt) (4/4) · [King's Cup](more/kings_cup/1998_kings_cup.txt) (4/3) · [Kirin Cup](more/kirin_cup/1998_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/1998_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/1998_malta_international_tournament.txt) (6/4) · [Melanesia Cup](more/melanesia_cup/1998_melanesia_cup.txt) (10/5) · [Muratti Vase](more/muratti_vase/1998_muratti_vase.txt) (2/3) · [Oceania Nations Cup](oceania_nations_cup/1998_oceania_nations_cup.txt) (10/6) · [Oceania Nations Cup qualification](oceania_nations_cup_qualification/1998_oceania_nations_cup_qualification.txt) (10/5) · [SKN Football Festival](more/skn_football_festival/1998_skn_football_festival.txt) (1/2) · [UEFA Euro qualification](uefa_euro_qualification/1998_uefa_euro_qualification.txt) (71/49) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/1998_united_arab_emirates_friendship_tournament.txt) (6/4)
 
-## 1999 (776)
+## 1999
+776 match(es) <br>
 [Friendly](friendly/1999_friendly.txt) (284/140) · [AFC Asian Cup qualification](afc_asian_cup_qualification/1999_afc_asian_cup_qualification.txt) (22/12) · [African Cup of Nations qualification](african_cup_of_nations_qualification/1999_african_cup_of_nations_qualification.txt) (56/26) · [CECAFA Cup](more/cecafa_cup/1999_cecafa_cup.txt) (13/11) · [CFU Caribbean Cup](more/cfu_caribbean_cup/1999_cfu_caribbean_cup.txt) (12/7) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/1999_cfu_caribbean_cup_qualification.txt) (34/24) · [COSAFA Cup](more/cosafa_cup/1999_cosafa_cup.txt) (8/8) · [COSAFA Cup qualification](more/cosafa_cup_qualification/1999_cosafa_cup_qualification.txt) (6/8) · [Confederations Cup](more/confederations_cup/1999_confederations_cup.txt) (16/8) · [Copa América](copa_america/1999_copa_america.txt) (26/12) · [Copa Paz del Chaco](more/copa_paz_del_chaco/1999_copa_paz_del_chaco.txt) (1/2) · [Cyprus International Tournament](more/cyprus_international_tournament/1999_cyprus_international_tournament.txt) (4/4) · [Four Nations' Cup](more/four_nations_cup/1999_four_nations_cup.txt) (2/3) · [Gold Cup qualification](gold_cup_qualification/1999_gold_cup_qualification.txt) (6/4) · [Island Games](more/island_games/1999_island_games.txt) (31/14) · [King's Cup](more/kings_cup/1999_kings_cup.txt) (1/2) · [Kirin Cup](more/kirin_cup/1999_kirin_cup.txt) (3/3) · [Korea Cup](more/korea_cup/1999_korea_cup.txt) (6/4) · [Lunar New Year Cup](more/lunar_new_year_cup/1999_lunar_new_year_cup.txt) (2/3) · [Muratti Vase](more/muratti_vase/1999_muratti_vase.txt) (2/3) · [SAFF Cup](more/saff_cup/1999_saff_cup.txt) (10/6) · [South Asian Games](more/south_asian_games/1999_south_asian_games.txt) (13/7) · [Southeast Asian Games](more/southeast_asian_games/1999_southeast_asian_games.txt) (24/10) · [UEFA Euro qualification](uefa_euro_qualification/1999_uefa_euro_qualification.txt) (157/49) · [UNCAF Cup](more/uncaf_cup/1999_uncaf_cup.txt) (12/6) · [UNIFFAC Cup](more/uniffac_cup/1999_uniffac_cup.txt) (15/6) · [USA Cup](more/usa_cup/1999_usa_cup.txt) (4/4) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/1999_united_arab_emirates_friendship_tournament.txt) (6/4)
 
-## 2000 (1040)
+## 2000
+1040 match(es) <br>
 [Friendly](friendly/2000_friendly.txt) (376/175) · [AFC Asian Cup](afc_asian_cup/2000_afc_asian_cup.txt) (26/12) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2000_afc_asian_cup_qualification.txt) (60/30) · [AFF Championship](more/aff_championship/2000_aff_championship.txt) (20/9) · [African Cup of Nations](african_cup_of_nations/2000_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2000_african_cup_of_nations_qualification.txt) (62/46) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/2000_amilcar_cabral_cup.txt) (15/8) · [Baltic Cup](more/baltic_cup/2000_baltic_cup.txt) (1/2) · [CECAFA Cup](more/cecafa_cup/2000_cecafa_cup.txt) (12/8) · [COSAFA Cup](more/cosafa_cup/2000_cosafa_cup.txt) (12/11) · [Cyprus International Tournament](more/cyprus_international_tournament/2000_cyprus_international_tournament.txt) (9/7) · [FIFA World Cup qualification](fifa_world_cup_qualification/2000_fifa_world_cup_qualification.txt) (283/147) · [Gold Cup](gold_cup/2000_gold_cup.txt) (19/12) · [King Hassan II Tournament](more/king_hassan_ii_tournament/2000_king_hassan_ii_tournament.txt) (4/4) · [King's Cup](more/kings_cup/2000_kings_cup.txt) (5/4) · [Kirin Cup](more/kirin_cup/2000_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2000_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/2000_malta_international_tournament.txt) (6/4) · [Melanesia Cup](more/melanesia_cup/2000_melanesia_cup.txt) (10/5) · [Merdeka Tournament](more/merdeka_tournament/2000_merdeka_tournament.txt) (4/3) · [Muratti Vase](more/muratti_vase/2000_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/2000_nordic_championship.txt) (8/6) · [Oceania Nations Cup](oceania_nations_cup/2000_oceania_nations_cup.txt) (10/6) · [Oceania Nations Cup qualification](oceania_nations_cup_qualification/2000_oceania_nations_cup_qualification.txt) (2/3) · [UEFA Euro](uefa_euro/2000_uefa_euro.txt) (31/16) · [USA Cup](more/usa_cup/2000_usa_cup.txt) (6/4) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/2000_united_arab_emirates_friendship_tournament.txt) (4/4) · [WAFF Championship](more/waff_championship/2000_waff_championship.txt) (16/8)
 
-## 2001 (1032)
+## 2001
+1032 match(es) <br>
 [Friendly](friendly/2001_friendly.txt) (261/153) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2001_african_cup_of_nations_qualification.txt) (52/27) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/2001_amilcar_cabral_cup.txt) (9/6) · [Baltic Cup](more/baltic_cup/2001_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/2001_cecafa_cup.txt) (17/10) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2001_cfu_caribbean_cup.txt) (16/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2001_cfu_caribbean_cup_qualification.txt) (29/21) · [COSAFA Cup](more/cosafa_cup/2001_cosafa_cup.txt) (12/11) · [Confederations Cup](more/confederations_cup/2001_confederations_cup.txt) (16/8) · [Copa América](copa_america/2001_copa_america.txt) (26/12) · [Cup of Ancient Civilizations](more/cup_of_ancient_civilizations/2001_cup_of_ancient_civilizations.txt) (2/3) · [Cyprus International Tournament](more/cyprus_international_tournament/2001_cyprus_international_tournament.txt) (4/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2001_fifa_world_cup_qualification.txt) (491/138) · [Gold Cup qualification](gold_cup_qualification/2001_gold_cup_qualification.txt) (2/2) · [Island Games](more/island_games/2001_island_games.txt) (24/12) · [King's Cup](more/kings_cup/2001_kings_cup.txt) (8/4) · [Kirin Cup](more/kirin_cup/2001_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2001_lunar_new_year_cup.txt) (2/3) · [Merdeka Tournament](more/merdeka_tournament/2001_merdeka_tournament.txt) (9/6) · [Millennium Cup](more/millennium_cup/2001_millennium_cup.txt) (15/12) · [Muratti Vase](more/muratti_vase/2001_muratti_vase.txt) (2/3) · [Nordic Championship](more/nordic_championship/2001_nordic_championship.txt) (2/3) · [SKN Football Festival](more/skn_football_festival/2001_skn_football_festival.txt) (3/3) · [UNCAF Cup](more/uncaf_cup/2001_uncaf_cup.txt) (15/7) · [United Arab Emirates Friendship Tournament](more/united_arab_emirates_friendship_tournament/2001_united_arab_emirates_friendship_tournament.txt) (3/3) · [Windward Islands Tournament](more/windward_islands_tournament/2001_windward_islands_tournament.txt) (6/4)
 
-## 2002 (768)
+## 2002
+768 match(es) <br>
 [Friendly](friendly/2002_friendly.txt) (355/175) · [AFF Championship](more/aff_championship/2002_aff_championship.txt) (20/9) · [African Cup of Nations](african_cup_of_nations/2002_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2002_african_cup_of_nations_qualification.txt) (40/46) · [Arab Cup](more/arab_cup/2002_arab_cup.txt) (18/9) · [CECAFA Cup](more/cecafa_cup/2002_cecafa_cup.txt) (24/10) · [COSAFA Cup](more/cosafa_cup/2002_cosafa_cup.txt) (12/12) · [Cyprus International Tournament](more/cyprus_international_tournament/2002_cyprus_international_tournament.txt) (4/4) · [FIFA World Cup](fifa_world_cup/2002_fifa_world_cup.txt) (64/32) · [Gold Cup](gold_cup/2002_gold_cup.txt) (20/12) · [Gold Cup qualification](gold_cup_qualification/2002_gold_cup_qualification.txt) (30/21) · [Gulf Cup](more/gulf_cup/2002_gulf_cup.txt) (15/6) · [King's Cup](more/kings_cup/2002_kings_cup.txt) (8/4) · [Kirin Cup](more/kirin_cup/2002_kirin_cup.txt) (2/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2002_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/2002_malta_international_tournament.txt) (6/4) · [Muratti Vase](more/muratti_vase/2002_muratti_vase.txt) (2/3) · [Oceania Nations Cup](oceania_nations_cup/2002_oceania_nations_cup.txt) (16/8) · [Oceania Nations Cup qualification](oceania_nations_cup_qualification/2002_oceania_nations_cup_qualification.txt) (10/5) · [Prime Minister's Cup](more/prime_ministers_cup/2002_prime_ministers_cup.txt) (12/7) · [SKN Football Festival](more/skn_football_festival/2002_skn_football_festival.txt) (4/4) · [The Other Final](more/the_other_final/2002_the_other_final.txt) (1/2) · [UEFA Euro qualification](uefa_euro_qualification/2002_uefa_euro_qualification.txt) (60/50) · [Unity Cup](more/unity_cup/2002_unity_cup.txt) (1/2) · [WAFF Championship](more/waff_championship/2002_waff_championship.txt) (10/6)
 
-## 2003 (947)
+## 2003
+947 match(es) <br>
 [Friendly](friendly/2003_friendly.txt) (322/157) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2003_afc_asian_cup_qualification.txt) (100/41) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2003_african_cup_of_nations_qualification.txt) (80/46) · [Afro-Asian Games](more/afro-asian_games/2003_afro-asian_games.txt) (4/4) · [Baltic Cup](more/baltic_cup/2003_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/2003_cecafa_cup.txt) (10/6) · [COSAFA Cup](more/cosafa_cup/2003_cosafa_cup.txt) (12/12) · [Confederations Cup](more/confederations_cup/2003_confederations_cup.txt) (16/8) · [Cyprus International Tournament](more/cyprus_international_tournament/2003_cyprus_international_tournament.txt) (3/4) · [EAFF Championship](more/eaff_championship/2003_eaff_championship.txt) (14/8) · [FIFA World Cup qualification](fifa_world_cup_qualification/2003_fifa_world_cup_qualification.txt) (72/62) · [Gold Cup](gold_cup/2003_gold_cup.txt) (20/12) · [Gold Cup qualification](gold_cup_qualification/2003_gold_cup_qualification.txt) (15/9) · [Gulf Cup](more/gulf_cup/2003_gulf_cup.txt) (8/7) · [Indian Ocean Island Games](more/indian_ocean_island_games/2003_indian_ocean_island_games.txt) (9/5) · [Island Games](more/island_games/2003_island_games.txt) (30/14) · [King's Cup](more/kings_cup/2003_kings_cup.txt) (8/4) · [Kirin Cup](more/kirin_cup/2003_kirin_cup.txt) (2/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2003_lunar_new_year_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/2003_muratti_vase.txt) (3/3) · [Prime Minister's Cup](more/prime_ministers_cup/2003_prime_ministers_cup.txt) (6/4) · [SAFF Cup](more/saff_cup/2003_saff_cup.txt) (16/8) · [SKN Football Festival](more/skn_football_festival/2003_skn_football_festival.txt) (3/3) · [South Pacific Games](more/south_pacific_games/2003_south_pacific_games.txt) (24/10) · [TIFOCO Tournament](more/tifoco_tournament/2003_tifoco_tournament.txt) (1/2) · [UEFA Euro qualification](uefa_euro_qualification/2003_uefa_euro_qualification.txt) (150/50) · [UNCAF Cup](more/uncaf_cup/2003_uncaf_cup.txt) (15/6)
 
-## 2004 (1079)
+## 2004
+1079 match(es) <br>
 [Friendly](friendly/2004_friendly.txt) (376/167) · [AFC Asian Cup](afc_asian_cup/2004_afc_asian_cup.txt) (32/16) · [AFF Championship](more/aff_championship/2004_aff_championship.txt) (22/10) · [African Cup of Nations](african_cup_of_nations/2004_african_cup_of_nations.txt) (32/16) · [CECAFA Cup](more/cecafa_cup/2004_cecafa_cup.txt) (20/9) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2004_cfu_caribbean_cup_qualification.txt) (34/20) · [COSAFA Cup](more/cosafa_cup/2004_cosafa_cup.txt) (11/12) · [Copa América](copa_america/2004_copa_america.txt) (26/12) · [Cyprus International Tournament](more/cyprus_international_tournament/2004_cyprus_international_tournament.txt) (10/8) · [FIFA World Cup qualification](fifa_world_cup_qualification/2004_fifa_world_cup_qualification.txt) (408/167) · [Gulf Cup](more/gulf_cup/2004_gulf_cup.txt) (29/8) · [King's Cup](more/kings_cup/2004_kings_cup.txt) (4/4) · [Kirin Cup](more/kirin_cup/2004_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2004_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/2004_malta_international_tournament.txt) (3/3) · [Muratti Vase](more/muratti_vase/2004_muratti_vase.txt) (2/3) · [Oceania Nations Cup](oceania_nations_cup/2004_oceania_nations_cup.txt) (17/6) · [Prime Minister's Cup](more/prime_ministers_cup/2004_prime_ministers_cup.txt) (4/4) · [UEFA Euro](uefa_euro/2004_uefa_euro.txt) (31/16) · [Unity Cup](more/unity_cup/2004_unity_cup.txt) (3/3) · [WAFF Championship](more/waff_championship/2004_waff_championship.txt) (10/6)
 
-## 2005 (804)
+## 2005
+804 match(es) <br>
 [Friendly](friendly/2005_friendly.txt) (274/161) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2005_afc_asian_cup_qualification.txt) (2/2) · [AFF Championship](more/aff_championship/2005_aff_championship.txt) (5/4) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/2005_amilcar_cabral_cup.txt) (3/3) · [Baltic Cup](more/baltic_cup/2005_baltic_cup.txt) (1/2) · [CECAFA Cup](more/cecafa_cup/2005_cecafa_cup.txt) (24/10) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2005_cfu_caribbean_cup.txt) (6/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2005_cfu_caribbean_cup_qualification.txt) (4/4) · [COSAFA Cup](more/cosafa_cup/2005_cosafa_cup.txt) (12/13) · [Confederations Cup](more/confederations_cup/2005_confederations_cup.txt) (16/8) · [Cyprus International Tournament](more/cyprus_international_tournament/2005_cyprus_international_tournament.txt) (4/4) · [EAFF Championship](more/eaff_championship/2005_eaff_championship.txt) (12/7) · [FIFA World Cup qualification](fifa_world_cup_qualification/2005_fifa_world_cup_qualification.txt) (352/107) · [Gold Cup](gold_cup/2005_gold_cup.txt) (25/12) · [Island Games](more/island_games/2005_island_games.txt) (25/10) · [King's Cup](more/kings_cup/2005_kings_cup.txt) (4/3) · [Kirin Cup](more/kirin_cup/2005_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2005_lunar_new_year_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/2005_muratti_vase.txt) (3/3) · [SAFF Cup](more/saff_cup/2005_saff_cup.txt) (15/8) · [UNCAF Cup](more/uncaf_cup/2005_uncaf_cup.txt) (13/7)
 
-## 2006 (842)
+## 2006
+842 match(es) <br>
 [Friendly](friendly/2006_friendly.txt) (356/165) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2006_afc_asian_cup_qualification.txt) (62/24) · [AFC Challenge Cup](more/afc_challenge_cup/2006_afc_challenge_cup.txt) (26/15) · [AFF Championship qualification](more/aff_championship_qualification/2006_aff_championship_qualification.txt) (10/5) · [African Cup of Nations](african_cup_of_nations/2006_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2006_african_cup_of_nations_qualification.txt) (42/45) · [Arab Cup qualification](more/arab_cup_qualification/2006_arab_cup_qualification.txt) (9/7) · [CECAFA Cup](more/cecafa_cup/2006_cecafa_cup.txt) (23/11) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2006_cfu_caribbean_cup_qualification.txt) (46/23) · [COSAFA Cup](more/cosafa_cup/2006_cosafa_cup.txt) (15/13) · [Copa del Pacífico](more/copa_del_pacifico/2006_copa_del_pacifico.txt) (2/2) · [Cyprus International Tournament](more/cyprus_international_tournament/2006_cyprus_international_tournament.txt) (8/8) · [ELF Cup](more/elf_cup/2006_elf_cup.txt) (16/8) · [FIFA World Cup](fifa_world_cup/2006_fifa_world_cup.txt) (64/32) · [FIFI Wild Cup](more/fifi_wild_cup/2006_fifi_wild_cup.txt) (10/6) · [King's Cup](more/kings_cup/2006_kings_cup.txt) (7/4) · [Kirin Cup](more/kirin_cup/2006_kirin_cup.txt) (3/3) · [Lunar New Year Cup](more/lunar_new_year_cup/2006_lunar_new_year_cup.txt) (2/3) · [Malta International Tournament](more/malta_international_tournament/2006_malta_international_tournament.txt) (1/2) · [Merdeka Tournament](more/merdeka_tournament/2006_merdeka_tournament.txt) (4/3) · [Muratti Vase](more/muratti_vase/2006_muratti_vase.txt) (2/3) · [UEFA Euro qualification](uefa_euro_qualification/2006_uefa_euro_qualification.txt) (94/50) · [Viva World Cup](more/viva_world_cup/2006_viva_world_cup.txt) (8/4)
 
-## 2007 (988)
+## 2007
+988 match(es) <br>
 [Friendly](friendly/2007_friendly.txt) (326/178) · [AFC Asian Cup](afc_asian_cup/2007_afc_asian_cup.txt) (32/16) · [AFF Championship](more/aff_championship/2007_aff_championship.txt) (18/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2007_african_cup_of_nations_qualification.txt) (88/46) · [Amílcar Cabral Cup](more/amilcar_cabral_cup/2007_amilcar_cabral_cup.txt) (3/4) · [CECAFA Cup](more/cecafa_cup/2007_cecafa_cup.txt) (23/11) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2007_cfu_caribbean_cup.txt) (14/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2007_cfu_caribbean_cup_qualification.txt) (2/2) · [COSAFA Cup](more/cosafa_cup/2007_cosafa_cup.txt) (15/13) · [Copa América](copa_america/2007_copa_america.txt) (26/12) · [Cyprus International Tournament](more/cyprus_international_tournament/2007_cyprus_international_tournament.txt) (4/4) · [EAFF Championship](more/eaff_championship/2007_eaff_championship.txt) (10/7) · [FIFA World Cup qualification](fifa_world_cup_qualification/2007_fifa_world_cup_qualification.txt) (66/51) · [Gold Cup](gold_cup/2007_gold_cup.txt) (25/12) · [Gulf Cup](more/gulf_cup/2007_gulf_cup.txt) (15/8) · [Indian Ocean Island Games](more/indian_ocean_island_games/2007_indian_ocean_island_games.txt) (10/6) · [Island Games](more/island_games/2007_island_games.txt) (21/11) · [King's Cup](more/kings_cup/2007_kings_cup.txt) (3/3) · [Kirin Cup](more/kirin_cup/2007_kirin_cup.txt) (3/3) · [Merdeka Tournament](more/merdeka_tournament/2007_merdeka_tournament.txt) (7/6) · [Muratti Vase](more/muratti_vase/2007_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/2007_nehru_cup.txt) (11/5) · [Oceania Nations Cup](oceania_nations_cup/2007_oceania_nations_cup.txt) (5/4) · [South Pacific Games](more/south_pacific_games/2007_south_pacific_games.txt) (24/10) · [UEFA Euro qualification](uefa_euro_qualification/2007_uefa_euro_qualification.txt) (212/50) · [UNCAF Cup](more/uncaf_cup/2007_uncaf_cup.txt) (14/7) · [WAFF Championship](more/waff_championship/2007_waff_championship.txt) (9/6)
 
-## 2008 (1101)
+## 2008
+1101 match(es) <br>
 [Friendly](friendly/2008_friendly.txt) (410/184) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2008_afc_asian_cup_qualification.txt) (2/2) · [AFC Challenge Cup](more/afc_challenge_cup/2008_afc_challenge_cup.txt) (16/8) · [AFC Challenge Cup qualification](more/afc_challenge_cup_qualification/2008_afc_challenge_cup_qualification.txt) (17/14) · [AFF Championship](more/aff_championship/2008_aff_championship.txt) (16/8) · [AFF Championship qualification](more/aff_championship_qualification/2008_aff_championship_qualification.txt) (10/5) · [African Cup of Nations](african_cup_of_nations/2008_african_cup_of_nations.txt) (32/16) · [Baltic Cup](more/baltic_cup/2008_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/2008_cecafa_cup.txt) (2/4) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2008_cfu_caribbean_cup.txt) (16/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2008_cfu_caribbean_cup_qualification.txt) (34/18) · [COSAFA Cup](more/cosafa_cup/2008_cosafa_cup.txt) (7/7) · [COSAFA Cup qualification](more/cosafa_cup_qualification/2008_cosafa_cup_qualification.txt) (12/8) · [Coupe de l'Outre-Mer](more/coupe_de_loutre-mer/2008_coupe_de_loutre-mer.txt) (12/7) · [EAFF Championship](more/eaff_championship/2008_eaff_championship.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2008_fifa_world_cup_qualification.txt) (414/164) · [Kirin Cup](more/kirin_cup/2008_kirin_cup.txt) (3/3) · [Malta International Tournament](more/malta_international_tournament/2008_malta_international_tournament.txt) (6/4) · [Merdeka Tournament](more/merdeka_tournament/2008_merdeka_tournament.txt) (5/5) · [Muratti Vase](more/muratti_vase/2008_muratti_vase.txt) (2/3) · [Oceania Nations Cup](oceania_nations_cup/2008_oceania_nations_cup.txt) (7/4) · [SAFF Cup](more/saff_cup/2008_saff_cup.txt) (15/8) · [UEFA Euro](uefa_euro/2008_uefa_euro.txt) (31/16) · [VFF Cup](more/vff_cup/2008_vff_cup.txt) (3/3) · [Viva World Cup](more/viva_world_cup/2008_viva_world_cup.txt) (12/5) · [WAFF Championship](more/waff_championship/2008_waff_championship.txt) (8/6)
 
-## 2009 (925)
+## 2009
+925 match(es) <br>
 [Friendly](friendly/2009_friendly.txt) (319/162) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2009_afc_asian_cup_qualification.txt) (35/19) · [AFC Challenge Cup qualification](more/afc_challenge_cup_qualification/2009_afc_challenge_cup_qualification.txt) (21/16) · [CECAFA Cup](more/cecafa_cup/2009_cecafa_cup.txt) (44/12) · [COSAFA Cup](more/cosafa_cup/2009_cosafa_cup.txt) (17/13) · [Confederations Cup](more/confederations_cup/2009_confederations_cup.txt) (16/8) · [Cyprus International Tournament](more/cyprus_international_tournament/2009_cyprus_international_tournament.txt) (4/4) · [EAFF Championship](more/eaff_championship/2009_eaff_championship.txt) (9/6) · [East Asian Games](more/east_asian_games/2009_east_asian_games.txt) (1/2) · [FIFA World Cup qualification](fifa_world_cup_qualification/2009_fifa_world_cup_qualification.txt) (332/100) · [Gold Cup](gold_cup/2009_gold_cup.txt) (25/12) · [Gulf Cup](more/gulf_cup/2009_gulf_cup.txt) (15/8) · [Island Games](more/island_games/2009_island_games.txt) (34/16) · [King's Cup](more/kings_cup/2009_kings_cup.txt) (2/3) · [Kirin Cup](more/kirin_cup/2009_kirin_cup.txt) (3/3) · [Muratti Vase](more/muratti_vase/2009_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/2009_nehru_cup.txt) (11/5) · [SAFF Cup](more/saff_cup/2009_saff_cup.txt) (10/7) · [UNCAF Cup](more/uncaf_cup/2009_uncaf_cup.txt) (14/7) · [Viva World Cup](more/viva_world_cup/2009_viva_world_cup.txt) (11/6)
 
-## 2010 (863)
+## 2010
+863 match(es) <br>
 [Friendly](friendly/2010_friendly.txt) (422/176) · [ABCS Tournament](more/abcs_tournament/2010_abcs_tournament.txt) (4/4) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2010_afc_asian_cup_qualification.txt) (19/19) · [AFC Challenge Cup](more/afc_challenge_cup/2010_afc_challenge_cup.txt) (13/7) · [AFF Championship](more/aff_championship/2010_aff_championship.txt) (18/8) · [AFF Championship qualification](more/aff_championship_qualification/2010_aff_championship_qualification.txt) (6/4) · [African Cup of Nations](african_cup_of_nations/2010_african_cup_of_nations.txt) (29/15) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2010_african_cup_of_nations_qualification.txt) (50/44) · [Baltic Cup](more/baltic_cup/2010_baltic_cup.txt) (3/3) · [CECAFA Cup](more/cecafa_cup/2010_cecafa_cup.txt) (18/11) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2010_cfu_caribbean_cup.txt) (16/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2010_cfu_caribbean_cup_qualification.txt) (34/21) · [Corsica Cup](more/corsica_cup/2010_corsica_cup.txt) (4/4) · [Coupe de l'Outre-Mer](more/coupe_de_loutre-mer/2010_coupe_de_loutre-mer.txt) (14/8) · [Dragon Cup](more/dragon_cup/2010_dragon_cup.txt) (3/3) · [EAFF Championship](more/eaff_championship/2010_eaff_championship.txt) (6/4) · [FIFA World Cup](fifa_world_cup/2010_fifa_world_cup.txt) (64/32) · [Gulf Cup](more/gulf_cup/2010_gulf_cup.txt) (15/8) · [King's Cup](more/kings_cup/2010_kings_cup.txt) (3/3) · [Muratti Vase](more/muratti_vase/2010_muratti_vase.txt) (2/3) · [UEFA Euro qualification](uefa_euro_qualification/2010_uefa_euro_qualification.txt) (94/51) · [VFF Cup](more/vff_cup/2010_vff_cup.txt) (3/3) · [Viva World Cup](more/viva_world_cup/2010_viva_world_cup.txt) (11/6) · [WAFF Championship](more/waff_championship/2010_waff_championship.txt) (12/9)
 
-## 2011 (1119)
+## 2011
+1119 match(es) <br>
 [Friendly](friendly/2011_friendly.txt) (383/190) · [ABCS Tournament](more/abcs_tournament/2011_abcs_tournament.txt) (4/4) · [AFC Asian Cup](afc_asian_cup/2011_afc_asian_cup.txt) (32/16) · [AFC Challenge Cup qualification](more/afc_challenge_cup_qualification/2011_afc_challenge_cup_qualification.txt) (29/20) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2011_african_cup_of_nations_qualification.txt) (84/44) · [CECAFA Cup](more/cecafa_cup/2011_cecafa_cup.txt) (26/12) · [Copa América](copa_america/2011_copa_america.txt) (26/12) · [Copa Confraternidad](more/copa_confraternidad/2011_copa_confraternidad.txt) (1/2) · [Copa Paz del Chaco](more/copa_paz_del_chaco/2011_copa_paz_del_chaco.txt) (2/2) · [Cyprus International Tournament](more/cyprus_international_tournament/2011_cyprus_international_tournament.txt) (4/4) · [Dragon Cup](more/dragon_cup/2011_dragon_cup.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2011_fifa_world_cup_qualification.txt) (216/107) · [Gold Cup](gold_cup/2011_gold_cup.txt) (25/12) · [Indian Ocean Island Games](more/indian_ocean_island_games/2011_indian_ocean_island_games.txt) (13/7) · [Island Games](more/island_games/2011_island_games.txt) (29/15) · [Kirin Cup](more/kirin_cup/2011_kirin_cup.txt) (3/3) · [Muratti Vase](more/muratti_vase/2011_muratti_vase.txt) (2/3) · [Nations Cup](more/nations_cup/2011_nations_cup.txt) (6/4) · [Nile Basin Tournament](more/nile_basin_tournament/2011_nile_basin_tournament.txt) (14/7) · [Pacific Games](more/pacific_games/2011_pacific_games.txt) (29/11) · [SAFF Cup](more/saff_cup/2011_saff_cup.txt) (15/8) · [Superclásico de las Américas](more/superclasico_de_las_americas/2011_superclasico_de_las_americas.txt) (2/2) · [UEFA Euro qualification](uefa_euro_qualification/2011_uefa_euro_qualification.txt) (154/51) · [UNCAF Cup](more/uncaf_cup/2011_uncaf_cup.txt) (14/7)
 
-## 2012 (1025)
+## 2012
+1025 match(es) <br>
 [Friendly](friendly/2012_friendly.txt) (409/186) · [ABCS Tournament](more/abcs_tournament/2012_abcs_tournament.txt) (4/4) · [AFC Challenge Cup](more/afc_challenge_cup/2012_afc_challenge_cup.txt) (16/8) · [AFF Championship](more/aff_championship/2012_aff_championship.txt) (18/8) · [AFF Championship qualification](more/aff_championship_qualification/2012_aff_championship_qualification.txt) (10/5) · [African Cup of Nations](african_cup_of_nations/2012_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2012_african_cup_of_nations_qualification.txt) (60/45) · [Arab Cup](more/arab_cup/2012_arab_cup.txt) (11/9) · [Baltic Cup](more/baltic_cup/2012_baltic_cup.txt) (4/4) · [CECAFA Cup](more/cecafa_cup/2012_cecafa_cup.txt) (26/12) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2012_cfu_caribbean_cup.txt) (16/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2012_cfu_caribbean_cup_qualification.txt) (37/23) · [Copa del Pacífico](more/copa_del_pacifico/2012_copa_del_pacifico.txt) (2/2) · [Coupe de l'Outre-Mer](more/coupe_de_loutre-mer/2012_coupe_de_loutre-mer.txt) (16/8) · [EAFF Championship](more/eaff_championship/2012_eaff_championship.txt) (13/7) · [FIFA World Cup qualification](fifa_world_cup_qualification/2012_fifa_world_cup_qualification.txt) (241/138) · [King's Cup](more/kings_cup/2012_kings_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/2012_muratti_vase.txt) (2/3) · [Nehru Cup](more/nehru_cup/2012_nehru_cup.txt) (11/5) · [Oceania Nations Cup](oceania_nations_cup/2012_oceania_nations_cup.txt) (16/8) · [Palestine International Championship](more/palestine_international_championship/2012_palestine_international_championship.txt) (4/4) · [Philippine Peace Cup](more/philippine_peace_cup/2012_philippine_peace_cup.txt) (3/4) · [Superclásico de las Américas](more/superclasico_de_las_americas/2012_superclasico_de_las_americas.txt) (2/2) · [UEFA Euro](uefa_euro/2012_uefa_euro.txt) (31/16) · [VFF Cup](more/vff_cup/2012_vff_cup.txt) (3/3) · [Viva World Cup](more/viva_world_cup/2012_viva_world_cup.txt) (18/9) · [WAFF Championship](more/waff_championship/2012_waff_championship.txt) (19/11)
 
-## 2013 (963)
+## 2013
+963 match(es) <br>
 [Friendly](friendly/2013_friendly.txt) (326/174) · [ABCS Tournament](more/abcs_tournament/2013_abcs_tournament.txt) (4/4) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2013_afc_asian_cup_qualification.txt) (48/20) · [AFC Challenge Cup qualification](more/afc_challenge_cup_qualification/2013_afc_challenge_cup_qualification.txt) (25/19) · [African Cup of Nations](african_cup_of_nations/2013_african_cup_of_nations.txt) (32/16) · [CECAFA Cup](more/cecafa_cup/2013_cecafa_cup.txt) (26/12) · [COSAFA Cup](more/cosafa_cup/2013_cosafa_cup.txt) (20/13) · [Confederations Cup](more/confederations_cup/2013_confederations_cup.txt) (16/8) · [EAFF Championship](more/eaff_championship/2013_eaff_championship.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2013_fifa_world_cup_qualification.txt) (347/122) · [Gold Cup](gold_cup/2013_gold_cup.txt) (25/12) · [Gulf Cup](more/gulf_cup/2013_gulf_cup.txt) (16/8) · [International Tournament of Peoples, Cultures and Tribes](more/international_tournament_of_peoples_cultures_and_tribes/2013_international_tournament_of_peoples_cultures_and_tribes.txt) (7/5) · [Island Games](more/island_games/2013_island_games.txt) (8/4) · [King's Cup](more/kings_cup/2013_kings_cup.txt) (4/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2013_kirin_challenge_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/2013_muratti_vase.txt) (2/3) · [OSN Cup](more/osn_cup/2013_osn_cup.txt) (4/4) · [Philippine Peace Cup](more/philippine_peace_cup/2013_philippine_peace_cup.txt) (3/3) · [SAFF Cup](more/saff_cup/2013_saff_cup.txt) (14/8) · [Tynwald Hill Tournament](more/tynwald_hill_tournament/2013_tynwald_hill_tournament.txt) (6/5) · [UNCAF Cup](more/uncaf_cup/2013_uncaf_cup.txt) (14/7) · [WAFF Championship](more/waff_championship/2013_waff_championship.txt) (8/9) · [Windward Islands Tournament](more/windward_islands_tournament/2013_windward_islands_tournament.txt) (1/2)
 
-## 2014 (856)
+## 2014
+856 match(es) <br>
 [Friendly](friendly/2014_friendly.txt) (384/182) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2014_afc_asian_cup_qualification.txt) (12/20) · [AFC Challenge Cup](more/afc_challenge_cup/2014_afc_challenge_cup.txt) (16/8) · [AFF Championship](more/aff_championship/2014_aff_championship.txt) (18/8) · [AFF Championship qualification](more/aff_championship_qualification/2014_aff_championship_qualification.txt) (10/5) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2014_african_cup_of_nations_qualification.txt) (125/49) · [Baltic Cup](more/baltic_cup/2014_baltic_cup.txt) (4/4) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2014_cfu_caribbean_cup.txt) (10/8) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2014_cfu_caribbean_cup_qualification.txt) (34/24) · [CONIFA World Football Cup](more/conifa_world_football_cup/2014_conifa_world_football_cup.txt) (28/12) · [EAFF Championship](more/eaff_championship/2014_eaff_championship.txt) (9/6) · [FIFA World Cup](fifa_world_cup/2014_fifa_world_cup.txt) (64/32) · [Gulf Cup](more/gulf_cup/2014_gulf_cup.txt) (16/8) · [Kirin Challenge Cup](more/kirin_challenge_cup/2014_kirin_challenge_cup.txt) (1/2) · [Muratti Vase](more/muratti_vase/2014_muratti_vase.txt) (2/3) · [Palestine International Championship](more/palestine_international_championship/2014_palestine_international_championship.txt) (7/4) · [Philippine Peace Cup](more/philippine_peace_cup/2014_philippine_peace_cup.txt) (3/4) · [Superclásico de las Américas](more/superclasico_de_las_americas/2014_superclasico_de_las_americas.txt) (1/2) · [UEFA Euro qualification](uefa_euro_qualification/2014_uefa_euro_qualification.txt) (103/53) · [UNCAF Cup](more/uncaf_cup/2014_uncaf_cup.txt) (2/3) · [WAFF Championship](more/waff_championship/2014_waff_championship.txt) (5/4) · [Windward Islands Tournament](more/windward_islands_tournament/2014_windward_islands_tournament.txt) (2/3)
 
-## 2015 (1039)
+## 2015
+1039 match(es) <br>
 [Friendly](friendly/2015_friendly.txt) (290/187) · [ABCS Tournament](more/abcs_tournament/2015_abcs_tournament.txt) (4/4) · [AFC Asian Cup](afc_asian_cup/2015_afc_asian_cup.txt) (32/16) · [African Cup of Nations](african_cup_of_nations/2015_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2015_african_cup_of_nations_qualification.txt) (48/50) · [Benedikt Fontana Cup](more/benedikt_fontana_cup/2015_benedikt_fontana_cup.txt) (1/2) · [CECAFA Cup](more/cecafa_cup/2015_cecafa_cup.txt) (26/12) · [CONIFA European Football Cup](more/conifa_european_football_cup/2015_conifa_european_football_cup.txt) (11/6) · [COSAFA Cup](more/cosafa_cup/2015_cosafa_cup.txt) (23/14) · [Copa América](copa_america/2015_copa_america.txt) (26/12) · [EAFF Championship](more/eaff_championship/2015_eaff_championship.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2015_fifa_world_cup_qualification.txt) (280/147) · [Gold Cup](gold_cup/2015_gold_cup.txt) (26/12) · [Gold Cup qualification](gold_cup_qualification/2015_gold_cup_qualification.txt) (2/2) · [Indian Ocean Island Games](more/indian_ocean_island_games/2015_indian_ocean_island_games.txt) (13/7) · [Island Games](more/island_games/2015_island_games.txt) (34/16) · [Kirin Challenge Cup](more/kirin_challenge_cup/2015_kirin_challenge_cup.txt) (2/3) · [Muratti Vase](more/muratti_vase/2015_muratti_vase.txt) (2/3) · [Niamh Challenge Cup](more/niamh_challenge_cup/2015_niamh_challenge_cup.txt) (3/4) · [SAFF Cup](more/saff_cup/2015_saff_cup.txt) (11/7) · [UEFA Euro qualification](uefa_euro_qualification/2015_uefa_euro_qualification.txt) (164/53) · [Windward Islands Tournament](more/windward_islands_tournament/2015_windward_islands_tournament.txt) (3/4)
 
-## 2016 (920)
+## 2016
+920 match(es) <br>
 [Friendly](friendly/2016_friendly.txt) (295/172) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2016_afc_asian_cup_qualification.txt) (14/11) · [AFC Solidarity Cup](more/afc_solidarity_cup/2016_afc_solidarity_cup.txt) (13/7) · [AFF Championship](more/aff_championship/2016_aff_championship.txt) (18/8) · [AFF Championship qualification](more/aff_championship_qualification/2016_aff_championship_qualification.txt) (6/4) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2016_african_cup_of_nations_qualification.txt) (96/50) · [Baltic Cup](more/baltic_cup/2016_baltic_cup.txt) (3/3) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2016_cfu_caribbean_cup_qualification.txt) (36/24) · [CONIFA World Football Cup](more/conifa_world_football_cup/2016_conifa_world_football_cup.txt) (28/12) · [COSAFA Cup](more/cosafa_cup/2016_cosafa_cup.txt) (23/14) · [ConIFA Challenger Cup](more/conifa_challenger_cup/2016_conifa_challenger_cup.txt) (1/2) · [Copa América](copa_america/2016_copa_america.txt) (32/16) · [Copa América qualification](copa_america_qualification/2016_copa_america_qualification.txt) (2/4) · [EAFF Championship](more/eaff_championship/2016_eaff_championship.txt) (9/7) · [FIFA World Cup qualification](fifa_world_cup_qualification/2016_fifa_world_cup_qualification.txt) (260/137) · [Hungary Heritage Cup](more/hungary_heritage_cup/2016_hungary_heritage_cup.txt) (3/4) · [King's Cup](more/kings_cup/2016_kings_cup.txt) (4/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2016_kirin_challenge_cup.txt) (1/2) · [Kirin Cup](more/kirin_cup/2016_kirin_cup.txt) (4/4) · [Muratti Vase](more/muratti_vase/2016_muratti_vase.txt) (2/3) · [Oceania Nations Cup](oceania_nations_cup/2016_oceania_nations_cup.txt) (15/8) · [SAFF Cup](more/saff_cup/2016_saff_cup.txt) (1/2) · [UEFA Euro](uefa_euro/2016_uefa_euro.txt) (51/24) · [World Unity Cup](more/world_unity_cup/2016_world_unity_cup.txt) (3/3)
 
-## 2017 (924)
+## 2017
+924 match(es) <br>
 [Friendly](friendly/2017_friendly.txt) (295/184) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2017_afc_asian_cup_qualification.txt) (58/24) · [African Cup of Nations](african_cup_of_nations/2017_african_cup_of_nations.txt) (32/16) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2017_african_cup_of_nations_qualification.txt) (29/49) · [CECAFA Cup](more/cecafa_cup/2017_cecafa_cup.txt) (20/9) · [CFU Caribbean Cup](more/cfu_caribbean_cup/2017_cfu_caribbean_cup.txt) (4/4) · [CFU Caribbean Cup qualification](more/cfu_caribbean_cup_qualification/2017_cfu_caribbean_cup_qualification.txt) (3/3) · [CONIFA European Football Cup](more/conifa_european_football_cup/2017_conifa_european_football_cup.txt) (18/8) · [COSAFA Cup](more/cosafa_cup/2017_cosafa_cup.txt) (23/14) · [Confederations Cup](more/confederations_cup/2017_confederations_cup.txt) (16/8) · [EAFF Championship](more/eaff_championship/2017_eaff_championship.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2017_fifa_world_cup_qualification.txt) (311/108) · [Gold Cup](gold_cup/2017_gold_cup.txt) (25/12) · [Gulf Cup](more/gulf_cup/2017_gulf_cup.txt) (12/8) · [Island Games](more/island_games/2017_island_games.txt) (34/16) · [King's Cup](more/kings_cup/2017_kings_cup.txt) (3/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2017_kirin_challenge_cup.txt) (3/4) · [Muratti Vase](more/muratti_vase/2017_muratti_vase.txt) (2/3) · [Pacific Mini Games](more/pacific_mini_games/2017_pacific_mini_games.txt) (15/6) · [Superclásico de las Américas](more/superclasico_de_las_americas/2017_superclasico_de_las_americas.txt) (1/2) · [UNCAF Cup](more/uncaf_cup/2017_uncaf_cup.txt) (8/6) · [Windward Islands Tournament](more/windward_islands_tournament/2017_windward_islands_tournament.txt) (6/5)
 
-## 2018 (929)
+## 2018
+929 match(es) <br>
 [Friendly](friendly/2018_friendly.txt) (431/195) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2018_afc_asian_cup_qualification.txt) (13/24) · [AFF Championship](more/aff_championship/2018_aff_championship.txt) (26/10) · [AFF Championship qualification](more/aff_championship_qualification/2018_aff_championship_qualification.txt) (2/2) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2018_african_cup_of_nations_qualification.txt) (92/47) · [Baltic Cup](more/baltic_cup/2018_baltic_cup.txt) (3/3) · [CONCACAF Nations League qualification](concacaf_nations_league_qualification/2018_concacaf_nations_league_qualification.txt) (50/34) · [CONIFA World Football Cup](more/conifa_world_football_cup/2018_conifa_world_football_cup.txt) (45/16) · [COSAFA Cup](more/cosafa_cup/2018_cosafa_cup.txt) (23/14) · [EAFF Championship](more/eaff_championship/2018_eaff_championship.txt) (12/7) · [FIFA World Cup](fifa_world_cup/2018_fifa_world_cup.txt) (64/32) · [Gulf Cup](more/gulf_cup/2018_gulf_cup.txt) (3/4) · [Intercontinental Cup](more/intercontinental_cup/2018_intercontinental_cup.txt) (7/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2018_kirin_challenge_cup.txt) (5/6) · [Muratti Vase](more/muratti_vase/2018_muratti_vase.txt) (2/3) · [SAFF Cup](more/saff_cup/2018_saff_cup.txt) (12/7) · [Superclásico de las Américas](more/superclasico_de_las_americas/2018_superclasico_de_las_americas.txt) (1/2) · [UEFA Nations League](uefa_nations_league/2018_uefa_nations_league.txt) (138/55)
 
-## 2019 (1149)
+## 2019
+1149 match(es) <br>
 [Friendly](friendly/2019_friendly.txt) (249/172) · [AFC Asian Cup](afc_asian_cup/2019_afc_asian_cup.txt) (51/24) · [African Cup of Nations](african_cup_of_nations/2019_african_cup_of_nations.txt) (52/24) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2019_african_cup_of_nations_qualification.txt) (79/52) · [Atlantic Heritage Cup](more/atlantic_heritage_cup/2019_atlantic_heritage_cup.txt) (2/3) · [CONCACAF Nations League](concacaf_nations_league/2019_concacaf_nations_league.txt) (102/41) · [CONCACAF Nations League qualification](concacaf_nations_league_qualification/2019_concacaf_nations_league_qualification.txt) (18/34) · [CONIFA European Football Cup](more/conifa_european_football_cup/2019_conifa_european_football_cup.txt) (20/8) · [CONIFA World Cup qualification](more/conifa_world_cup_qualification/2019_conifa_world_cup_qualification.txt) (1/2) · [COSAFA Cup](more/cosafa_cup/2019_cosafa_cup.txt) (20/13) · [Copa América](copa_america/2019_copa_america.txt) (26/12) · [EAFF Championship](more/eaff_championship/2019_eaff_championship.txt) (6/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2019_fifa_world_cup_qualification.txt) (136/74) · [Gold Cup](gold_cup/2019_gold_cup.txt) (31/16) · [Gulf Cup](more/gulf_cup/2019_gulf_cup.txt) (15/8) · [Indian Ocean Island Games](more/indian_ocean_island_games/2019_indian_ocean_island_games.txt) (13/7) · [Inter Games](more/inter_games/2019_inter_games.txt) (19/10) · [Intercontinental Cup](more/intercontinental_cup/2019_intercontinental_cup.txt) (7/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2019_kirin_challenge_cup.txt) (6/7) · [Muratti Vase](more/muratti_vase/2019_muratti_vase.txt) (2/3) · [Pacific Games](more/pacific_games/2019_pacific_games.txt) (22/10) · [Superclásico de las Américas](more/superclasico_de_las_americas/2019_superclasico_de_las_americas.txt) (1/2) · [UEFA Euro qualification](uefa_euro_qualification/2019_uefa_euro_qualification.txt) (250/55) · [UEFA Nations League](uefa_nations_league/2019_uefa_nations_league.txt) (4/4) · [WAFF Championship](more/waff_championship/2019_waff_championship.txt) (17/9)
 
-## 2020 (347)
+## 2020
+347 match(es) <br>
 [Friendly](friendly/2020_friendly.txt) (104/108) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2020_african_cup_of_nations_qualification.txt) (48/48) · [FIFA World Cup qualification](fifa_world_cup_qualification/2020_fifa_world_cup_qualification.txt) (21/12) · [UEFA Euro qualification](uefa_euro_qualification/2020_uefa_euro_qualification.txt) (12/16) · [UEFA Nations League](uefa_nations_league/2020_uefa_nations_league.txt) (162/55)
 
-## 2021 (1115)
+## 2021
+1115 match(es) <br>
 [Friendly](friendly/2021_friendly.txt) (215/143) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2021_afc_asian_cup_qualification.txt) (4/4) · [AFF Championship](more/aff_championship/2021_aff_championship.txt) (25/10) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2021_african_cup_of_nations_qualification.txt) (48/48) · [Arab Cup](more/arab_cup/2021_arab_cup.txt) (32/16) · [Arab Cup qualification](more/arab_cup_qualification/2021_arab_cup_qualification.txt) (6/12) · [Baltic Cup](more/baltic_cup/2021_baltic_cup.txt) (3/3) · [CONCACAF Nations League](concacaf_nations_league/2021_concacaf_nations_league.txt) (4/4) · [COSAFA Cup](more/cosafa_cup/2021_cosafa_cup.txt) (24/10) · [Copa América](copa_america/2021_copa_america.txt) (28/10) · [FIFA World Cup qualification](fifa_world_cup_qualification/2021_fifa_world_cup_qualification.txt) (609/178) · [Gold Cup](gold_cup/2021_gold_cup.txt) (31/16) · [Gold Cup qualification](gold_cup_qualification/2021_gold_cup_qualification.txt) (9/12) · [Kirin Challenge Cup](more/kirin_challenge_cup/2021_kirin_challenge_cup.txt) (1/2) · [Mahinda Rajapaksa Cup](more/mahinda_rajapaksa_cup/2021_mahinda_rajapaksa_cup.txt) (7/4) · [SAFF Cup](more/saff_cup/2021_saff_cup.txt) (11/5) · [Three Nations Cup](more/three_nations_cup/2021_three_nations_cup.txt) (3/3) · [UEFA Euro](uefa_euro/2021_uefa_euro.txt) (51/24) · [UEFA Nations League](uefa_nations_league/2021_uefa_nations_league.txt) (4/4)
 
-## 2022 (969)
+## 2022
+969 match(es) <br>
 [Friendly](friendly/2022_friendly.txt) (348/182) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2022_afc_asian_cup_qualification.txt) (36/24) · [AFF Championship](more/aff_championship/2022_aff_championship.txt) (17/10) · [AFF Championship qualification](more/aff_championship_qualification/2022_aff_championship_qualification.txt) (2/2) · [African Cup of Nations](african_cup_of_nations/2022_african_cup_of_nations.txt) (52/24) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2022_african_cup_of_nations_qualification.txt) (54/51) · [Baltic Cup](more/baltic_cup/2022_baltic_cup.txt) (4/4) · [CONCACAF Nations League](concacaf_nations_league/2022_concacaf_nations_league.txt) (67/41) · [CONIFA Africa Football Cup](more/conifa_africa_football_cup/2022_conifa_africa_football_cup.txt) (4/3) · [CONIFA South America Football Cup](more/conifa_south_america_football_cup/2022_conifa_south_america_football_cup.txt) (3/3) · [CONMEBOL–UEFA Cup of Champions](more/conmeboluefa_cup_of_champions/2022_conmeboluefa_cup_of_champions.txt) (1/2) · [COSAFA Cup](more/cosafa_cup/2022_cosafa_cup.txt) (23/14) · [EAFF Championship](more/eaff_championship/2022_eaff_championship.txt) (6/4) · [FIFA World Cup](fifa_world_cup/2022_fifa_world_cup.txt) (64/32) · [FIFA World Cup qualification](fifa_world_cup_qualification/2022_fifa_world_cup_qualification.txt) (100/58) · [Jordan International Tournament](more/jordan_international_tournament/2022_jordan_international_tournament.txt) (4/4) · [King's Cup](more/kings_cup/2022_kings_cup.txt) (4/4) · [Kirin Challenge Cup](more/kirin_challenge_cup/2022_kirin_challenge_cup.txt) (2/3) · [Kirin Cup](more/kirin_cup/2022_kirin_cup.txt) (4/4) · [MSG Prime Minister's Cup](more/msg_prime_ministers_cup/2022_msg_prime_ministers_cup.txt) (6/5) · [Muratti Vase](more/muratti_vase/2022_muratti_vase.txt) (4/3) · [Navruz Cup](more/navruz_cup/2022_navruz_cup.txt) (4/4) · [UEFA Nations League](uefa_nations_league/2022_uefa_nations_league.txt) (160/54)
 
-## 2023 (1054)
+## 2023
+1054 match(es) <br>
 [Friendly](friendly/2023_friendly.txt) (252/163) · [AFF Championship](more/aff_championship/2023_aff_championship.txt) (10/8) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2023_african_cup_of_nations_qualification.txt) (88/46) · [CAFA Nations Cup](more/cafa_nations_cup/2023_cafa_nations_cup.txt) (10/7) · [CONCACAF Nations League](concacaf_nations_league/2023_concacaf_nations_league.txt) (135/41) · [CONIFA Asia Cup](more/conifa_asia_cup/2023_conifa_asia_cup.txt) (4/3) · [CONIFA World Football Cup qualification](more/conifa_world_football_cup_qualification/2023_conifa_world_football_cup_qualification.txt) (5/7) · [COSAFA Cup](more/cosafa_cup/2023_cosafa_cup.txt) (22/12) · [FIFA World Cup qualification](fifa_world_cup_qualification/2023_fifa_world_cup_qualification.txt) (138/109) · [Gold Cup](gold_cup/2023_gold_cup.txt) (31/16) · [Gold Cup qualification](gold_cup_qualification/2023_gold_cup_qualification.txt) (9/12) · [Gulf Cup](more/gulf_cup/2023_gulf_cup.txt) (15/8) · [Indian Ocean Island Games](more/indian_ocean_island_games/2023_indian_ocean_island_games.txt) (10/6) · [Island Games](more/island_games/2023_island_games.txt) (29/15) · [King's Cup](more/kings_cup/2023_kings_cup.txt) (4/4) · [MSG Prime Minister's Cup](more/msg_prime_ministers_cup/2023_msg_prime_ministers_cup.txt) (6/4) · [Mauritius Four Nations Cup](more/mauritius_four_nations_cup/2023_mauritius_four_nations_cup.txt) (5/4) · [Pacific Games](more/pacific_games/2023_pacific_games.txt) (24/12) · [SAFF Cup](more/saff_cup/2023_saff_cup.txt) (15/8) · [Soccer Ashes](more/soccer_ashes/2023_soccer_ashes.txt) (1/2) · [Tri Nation Tournament](more/tri_nation_tournament/2023_tri_nation_tournament.txt) (7/6) · [UEFA Euro qualification](uefa_euro_qualification/2023_uefa_euro_qualification.txt) (230/53) · [UEFA Nations League](uefa_nations_league/2023_uefa_nations_league.txt) (4/4)
 
-## 2024 (1231)
+## 2024
+1231 match(es) <br>
 [Friendly](friendly/2024_friendly.txt) (243/173) · [AFC Asian Cup](afc_asian_cup/2024_afc_asian_cup.txt) (51/24) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2024_afc_asian_cup_qualification.txt) (6/6) · [ASEAN Championship](more/asean_championship/2024_asean_championship.txt) (24/10) · [ASEAN Championship qualification](more/asean_championship_qualification/2024_asean_championship_qualification.txt) (2/2) · [African Cup of Nations](african_cup_of_nations/2024_african_cup_of_nations.txt) (52/24) · [African Cup of Nations qualification](african_cup_of_nations_qualification/2024_african_cup_of_nations_qualification.txt) (151/52) · [Baltic Cup](more/baltic_cup/2024_baltic_cup.txt) (4/4) · [CONCACAF Nations League](concacaf_nations_league/2024_concacaf_nations_league.txt) (110/41) · [Copa América](copa_america/2024_copa_america.txt) (32/16) · [Copa América qualification](copa_america_qualification/2024_copa_america_qualification.txt) (2/4) · [EAFF Championship qualification](more/eaff_championship_qualification/2024_eaff_championship_qualification.txt) (5/5) · [FIFA Series](more/fifa_series/2024_fifa_series.txt) (24/24) · [FIFA World Cup qualification](fifa_world_cup_qualification/2024_fifa_world_cup_qualification.txt) (255/141) · [Gulf Cup](more/gulf_cup/2024_gulf_cup.txt) (14/8) · [Intercontinental Cup](more/intercontinental_cup/2024_intercontinental_cup.txt) (3/3) · [King's Cup](more/kings_cup/2024_kings_cup.txt) (4/4) · [MSG Prime Minister's Cup](more/msg_prime_ministers_cup/2024_msg_prime_ministers_cup.txt) (6/4) · [Marianas Cup](more/marianas_cup/2024_marianas_cup.txt) (2/2) · [Merdeka Tournament](more/merdeka_tournament/2024_merdeka_tournament.txt) (4/4) · [Oceania Nations Cup](oceania_nations_cup/2024_oceania_nations_cup.txt) (13/7) · [Oceania Nations Cup qualification](oceania_nations_cup_qualification/2024_oceania_nations_cup_qualification.txt) (3/3) · [Tri-Nations Series](more/tri-nations_series/2024_tri-nations_series.txt) (3/3) · [UEFA Euro](uefa_euro/2024_uefa_euro.txt) (51/24) · [UEFA Euro qualification](uefa_euro_qualification/2024_uefa_euro_qualification.txt) (9/12) · [UEFA Nations League](uefa_nations_league/2024_uefa_nations_league.txt) (158/54)
 
-## 2025 (1002)
+## 2025
+1002 match(es) <br>
 [Friendly](friendly/2025_friendly.txt) (221/161) · [AFC Asian Cup qualification](afc_asian_cup_qualification/2025_afc_asian_cup_qualification.txt) (59/24) · [ASEAN Championship](more/asean_championship/2025_asean_championship.txt) (2/2) · [African Cup of Nations](african_cup_of_nations/2025_african_cup_of_nations.txt) (36/24) · [Al Ain International Cup](more/al_ain_international_cup/2025_al_ain_international_cup.txt) (4/4) · [Arab Cup](more/arab_cup/2025_arab_cup.txt) (31/16) · [Arab Cup qualification](more/arab_cup_qualification/2025_arab_cup_qualification.txt) (7/14) · [CONCACAF Nations League](concacaf_nations_league/2025_concacaf_nations_league.txt) (4/4) · [CONCACAF Series](more/concacaf_series/2025_concacaf_series.txt) (19/19) · [CONIFA Asia Cup](more/conifa_asia_cup/2025_conifa_asia_cup.txt) (4/3) · [Canadian Shield](more/canadian_shield/2025_canadian_shield.txt) (4/4) · [FIFA World Cup qualification](fifa_world_cup_qualification/2025_fifa_world_cup_qualification.txt) (492/169) · [Gold Cup](gold_cup/2025_gold_cup.txt) (31/16) · [Gold Cup qualification](gold_cup_qualification/2025_gold_cup_qualification.txt) (14/14) · [Gulf Cup](more/gulf_cup/2025_gulf_cup.txt) (1/2) · [Island Games](more/island_games/2025_island_games.txt) (15/9) · [King's Cup](more/kings_cup/2025_kings_cup.txt) (4/4) · [Kirin Cup](more/kirin_cup/2025_kirin_cup.txt) (4/5) · [MSG Prime Minister's Cup](more/msg_prime_ministers_cup/2025_msg_prime_ministers_cup.txt) (5/4) · [Mapinduzi Cup](more/mapinduzi_cup/2025_mapinduzi_cup.txt) (7/4) · [Outrigger Challenge Cup](more/outrigger_challenge_cup/2025_outrigger_challenge_cup.txt) (3/3) · [Soccer Ashes](more/soccer_ashes/2025_soccer_ashes.txt) (2/2) · [South Asian Super Cup](more/south_asian_super_cup/2025_south_asian_super_cup.txt) (1/2) · [UEFA Nations League](uefa_nations_league/2025_uefa_nations_league.txt) (28/24) · [Unity Cup](more/unity_cup/2025_unity_cup.txt) (4/4)
 
-## 2026 (237)
+## 2026
+237 match(es) <br>
 [Friendly](friendly/2026_friendly.txt) (76/86) · [African Cup of Nations](african_cup_of_nations/2026_african_cup_of_nations.txt) (16/16) · [CONCACAF Series](more/concacaf_series/2026_concacaf_series.txt) (16/16) · [FIFA Series](more/fifa_series/2026_fifa_series.txt) (33/34) · [FIFA World Cup](fifa_world_cup/2026_fifa_world_cup.txt) (72/48) · [FIFA World Cup qualification](fifa_world_cup_qualification/2026_fifa_world_cup_qualification.txt) (16/22) · [Morocco, Capital of African Football](more/morocco_capital_of_african_football/2026_morocco_capital_of_african_football.txt) (6/6) · [Mukuru 4 Nations](more/mukuru_4_nations/2026_mukuru_4_nations.txt) (2/3)
 
