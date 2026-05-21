@@ -127,7 +127,55 @@ Sat Jun 3
 - No match status - e.g. match awarded, abandoned, annulled, withdrawn, etc.
 - The penalty shootout result is binary only, that is, listing the winner BUT not the penalty shootout score.
 - The goal scorer minutes do NOT track injury time e.g. `45'+2` or `90'+3` or such.
-- Adding rounds (e.g. final/semi-finals/quarter-finals or such) is a work-in-progess (and not officially included in the dataset).
+
+
+
+
+Bonus - Adding rounds (e.g. final/semi-final/quarter-final or such) is a work-in-progess upstream (and not included in the official public dataset).
+Get / download the `stages.csv` used / added in this mirror,
+from the issue ticket [Add structure/stage of tournaments #22](https://github.com/martj42/international_results/issues/22).
+
+
+
+[`copa_america/2024_copa_america.txt`](copa_america/2024_copa_america.txt)
+
+```
+= Copa América 2024
+
+# Date       Thu Jun 20 - Sun Jul 14 2024 (24d)
+# Teams      16
+# Matches    32
+
+
+▪ Group A
+Thu Jun 20
+  Argentina              2-0 Canada                   @ Atlanta, United States
+     (Julián Álvarez 49' Lautaro Martínez 88')
+Fri Jun 21
+  Peru                   0-0 Chile                    @ Arlington, United States
+
+...
+
+▪ Semi-final
+Tue Jul 9
+  Argentina              2-0 Canada                   @ East Rutherford, United States
+     (Julián Álvarez 22' Lionel Messi 51')
+Wed Jul 10
+  Uruguay                0-1 Colombia                 @ Charlotte, United States
+     (Jefferson Lerma 39')
+
+▪ Third place playoff
+Sat Jul 13
+  Canada                 2-2 Uruguay                  @ Charlotte, United States   [Uruguay wins on penalties]
+     (Ismaël Koné 22' Jonathan David 80';
+      Rodrigo Bentancur 8' Luis Suárez 90')
+
+▪ Final
+Sun Jul 14
+  Argentina              1-0 Colombia                 @ Miami Gardens, United States
+     (Lautaro Martínez 112')
+
+```
 
 
 
@@ -140,7 +188,7 @@ Sat Jun 3
 Tip - You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON.
 
 Let's try to convert the FIFI Wild Cup 2006
-in the Football.TXT format (see [`fifi_wild_cup/2006_fifi_wild_cup.txt`](more/fifi_wild_cup/2006_fifi_wild_cup.txt) to JSON:
+in the Football.TXT format - see [`fifi_wild_cup/2006_fifi_wild_cup.txt`](more/fifi_wild_cup/2006_fifi_wild_cup.txt) - to JSON:
 
 ```
 $ fbtxt2json fifi_wild_cup/2006_fifi-wild_cup.txt -o wild_cup.json
